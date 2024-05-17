@@ -69,5 +69,5 @@
         "botania:red_petal": "minecraft:red_dye",
         "botania:black_petal": "minecraft:black_dye"
     },
-    "advancement": "spectrum:collect_all_basic_shards"
+    "advancement": "spectrum:collect_pigment"
 }
