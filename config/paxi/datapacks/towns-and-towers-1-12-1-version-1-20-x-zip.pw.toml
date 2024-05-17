@@ -1,0 +1,7 @@
+name = "Towns and Towers"
+filename = "/towns-and-towers-1-12-1-version-1-20-x.zip"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/datapack/towns-and-towers-1-12-1-version-1-20-x.zip"
+hash-format = "sha256"
+hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"

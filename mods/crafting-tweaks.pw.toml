@@ -1,0 +1,13 @@
+filename = 'craftingtweaks-fabric-1.20.1-18.2.3.jar'
+name = 'Crafting Tweaks'
+side = 'both'
+
+[download]
+hash = 'db6d6ee39e89f1309f64f3368009cef740256a36487e441db0c920b1d3087c961da66011ee6fbfc0d8b260fbe9181f8e3e0e3bd4ee9d6acc2d5c4ce6a65f4bd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DMu0oBKf/versions/OSsprjir/craftingtweaks-fabric-1.20.1-18.2.3.jar'
+
+[update.modrinth]
+mod-id = 'DMu0oBKf'
+version = 'OSsprjir'

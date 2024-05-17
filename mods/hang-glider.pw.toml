@@ -1,0 +1,13 @@
+filename = 'HangGlider-v8.0.1-1.20.1-Fabric.jar'
+name = 'Hang Glider'
+side = 'both'
+
+[download]
+hash = '77b1df4e218a76fb42159daec43661765aa263244b99244fb25d367e351f4ba98f6ed3525f7cfc1c40cbf6aeecc959d0b4216de94997a4439ee093a84739ca77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uHWrqYcS/versions/tnEJwEuy/HangGlider-v8.0.1-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'uHWrqYcS'
+version = 'tnEJwEuy'

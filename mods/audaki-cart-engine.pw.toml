@@ -1,0 +1,13 @@
+filename = 'ACE-2.0.6.jar'
+name = 'Audaki Cart Engine'
+side = 'server'
+
+[download]
+hash = 'f06f5a43454881bc0809a0d1cbde0f45d5aa6af0b1135a57b04285eb1dfe0e9766b526d44a042a837082a1a6c22bcb49c064f43bf602609d57f6fb2b749d8ca3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V8qsCwta/versions/mU993yDx/ACE-2.0.6.jar'
+
+[update.modrinth]
+mod-id = 'V8qsCwta'
+version = 'mU993yDx'

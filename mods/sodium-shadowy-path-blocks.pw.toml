@@ -1,0 +1,13 @@
+filename = 'sodium-shadowy-path-blocks-3.3.0.jar'
+name = 'Sodium Shadowy Path Blocks'
+side = 'client'
+
+[download]
+hash = '433242bffc6459208f9425f9bd4604dae9d17314bc31913c6d92a7f759519b411d7e9b0c1804c42da7116d2083e866bf675d236c28b12c38023b63d6bc7e1ccc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EIa1eiMm/versions/hnQBKLCn/sodium-shadowy-path-blocks-3.3.0.jar'
+
+[update.modrinth]
+mod-id = 'EIa1eiMm'
+version = 'hnQBKLCn'

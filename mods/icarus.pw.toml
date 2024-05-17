@@ -1,0 +1,13 @@
+filename = 'Icarus-Fabric-2.7.2-beta.1.jar'
+name = 'Icarus'
+side = 'both'
+
+[download]
+hash = '4090e1d0f4d357616f27ec101d3eb773c3ff695ef6c2da1e88e2c404b6e29e3e4055e72b01490e6661e78c5e15efacfc09e8b7f56a5b537a83307b5ebcf8dfec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/c9cXnyUu/Icarus-Fabric-2.7.2-beta.1.jar'
+
+[update.modrinth]
+mod-id = 'Dw7M6XKW'
+version = 'c9cXnyUu'

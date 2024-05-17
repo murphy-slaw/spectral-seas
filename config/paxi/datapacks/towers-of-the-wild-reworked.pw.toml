@@ -1,0 +1,13 @@
+name = "Towers of the Wild: Reworked"
+filename = "Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iqOgCgNa/versions/6nH0w4PS/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
+hash-format = "sha1"
+hash = "1f9916d02e1cda06821bb1cce3aa57cd3e4e3a96"
+
+[update]
+[update.modrinth]
+mod-id = "iqOgCgNa"
+version = "6nH0w4PS"

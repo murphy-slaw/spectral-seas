@@ -1,0 +1,13 @@
+name = "STRAYED FATES: Forsaken"
+filename = "STRAYED FATES Forsaken 1.20+ v1.1.2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GGOgUqD/versions/CYCGjHbo/STRAYED%20FATES%20Forsaken%201.20%2B%20v1.1.2.0.zip"
+hash-format = "sha1"
+hash = "a5143fdd13a9be6724e5cbc6bec74b2281b0e661"
+
+[update]
+[update.modrinth]
+mod-id = "3GGOgUqD"
+version = "CYCGjHbo"
