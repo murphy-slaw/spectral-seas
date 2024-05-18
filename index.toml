@@ -249,6 +249,10 @@ file = "config/paxi/datapack_load_order.json"
 hash = "0e102e952b958f5aa65078f33f6f9dc2f5b578a3b047b4bcb8938943e45cffc3"
 
 [[files]]
+file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
+hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
+
+[[files]]
 file = "config/paxi/datapacks/customizations/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
 hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
@@ -279,11 +283,6 @@ hash = "597634e8afcfb713d2215b631ccf5b25e53d664706726564bb62b3ffee69cec9"
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
 hash = "56f86bed5f63be16537a321ed84d1f734bd5de7db19241ae8c9b635884b293c2"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/towers-of-the-wild-reworked.pw.toml"
-hash = "917bf3631b19beda09206198dece45456b69fcbef06a0d57dc311885acbab00a"
 metafile = true
 
 [[files]]
