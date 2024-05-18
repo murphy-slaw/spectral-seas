@@ -1,12 +1,12 @@
 name = "Spectral Carnival"
 author = "Kevin Murphy"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1d9b8b8381fffba3d82d2c98da6a8aaf542c1f26fc0cdab73553f722d5a602a4"
+hash = "ca39d6a73156dd6e52d952bb1686b7b96daf463a4f30c4d3799d15380dacd3f0"
 
 [versions]
 fabric = "0.15.11"

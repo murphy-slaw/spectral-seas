@@ -509,6 +509,11 @@ hash = "b0815f3c64d78d999dd36f00ebf22dfb4dd591f762e009f6c12848c558b014b6"
 metafile = true
 
 [[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "a6a8ef4b8f5acbe5b834e453b873aa95adf7c1debf0ff546ce2eed5177f948c2"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
 metafile = true
