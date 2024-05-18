@@ -265,6 +265,10 @@ file = "config/paxi/datapacks/customizations/data/totw_reworked/tags/worldgen/bi
 hash = "cac67e0f4b391d5531d7a46f59d0be285e4e94ccd221a29eef0a0ae0c3350328"
 
 [[files]]
+file = "config/paxi/datapacks/customizations/data/totw_reworked/tags/worldgen/structure/tower.json"
+hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
+
+[[files]]
 file = "config/paxi/datapacks/customizations/data/towns_and_towers/worldgen/structure_set/other.json"
 hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
