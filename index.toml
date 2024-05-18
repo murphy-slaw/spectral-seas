@@ -515,6 +515,11 @@ hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "deab3b925e97886f3e8d07e2c8332c9a65a59a634196c8454b903725fb93b7ec"
 metafile = true
