@@ -295,7 +295,7 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/antique_atlas/en_us.json"
+file = "config/paxi/resourcepacks/spectral_carnival/assets/antique_atlas/lang/en_us.json"
 hash = "2c46f882ae9665e1df2e4ffdd1c6ff903711ea9e1fa912fc88e81a95efde5d76"
 
 [[files]]
