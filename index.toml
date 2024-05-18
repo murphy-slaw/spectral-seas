@@ -295,6 +295,42 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/badlands_pyramid.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/desert_shrine.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/guide_post_cold.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/guide_post_warm.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/mausoleum.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/watchtower_plains.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/watchtower_savanna.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/watchtower_taiga.json"
+hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/pack.mcmeta"
+hash = "532d5047f087b8d6be521a472356dfc2847c0921e420cbcd260bb6317434fbca"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectrum_public_server_pack/assets/minecraft/models/item/carved_pumpkin.json"
 hash = "30aa8bac80f5c45d65584c0b2b69b24fbabbb94d9097a72160edb5e6720218b4"
 
