@@ -18,7 +18,7 @@ hash = "d930415774b4b7bdaaaa5461609ec0058cd6859c5580c71182f85ab13d740826"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "91a41b38c06ac8d66a96c461c4b3a120fd29d3673f4f2f4f4ef815136e524a8d"
+hash = "8fcb4fffde30f3d5ee149baca0a64a438c5a712537cc8081ab752873a79eaee2"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -365,6 +365,10 @@ hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/structure/start/watchtower_taiga.json"
 hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/other/desert_temple_mimic/pyramid_main.json"
+hash = "648e88508c5c6c5f5881eb986b24d11813c54a0bd87e6d7521b9f342440263c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_armorer_1.json"
@@ -1805,7 +1809,7 @@ metafile = true
 
 [[files]]
 file = "mods/abridged.pw.toml"
-hash = "f9e43d61922e1d8aa5fdbb9f51300b78c50e453750a2b70ac860645a27344498"
+hash = "5ed8c9d2c8f6771064adc7dc24953893ad09f3e2d6a5ec1ed782fc8aa6eeb469"
 metafile = true
 
 [[files]]
