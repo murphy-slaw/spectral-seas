@@ -18,7 +18,7 @@ hash = "d930415774b4b7bdaaaa5461609ec0058cd6859c5580c71182f85ab13d740826"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "1b4d0fe2d50d26bc10f3b2fd514d55519f02ab0fa03f3e68099669dbdfd4f00c"
+hash = "91a41b38c06ac8d66a96c461c4b3a120fd29d3673f4f2f4f4ef815136e524a8d"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -246,42 +246,42 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "0e102e952b958f5aa65078f33f6f9dc2f5b578a3b047b4bcb8938943e45cffc3"
+hash = "2d2d6d7ebd9be2d8f6588f40e99c7ca4322d5b00061eeb09904780b62471f0d0"
 
 [[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
+file = "config/paxi/datapacks/spectral_carnival/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
 hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
 hash = "88486a6812fdbebee593957b8693accecc2dcdc6fb9d94b073d14dcd66f2729d"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_warm_tower.json"
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_warm_tower.json"
 hash = "cac67e0f4b391d5531d7a46f59d0be285e4e94ccd221a29eef0a0ae0c3350328"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/totw_reworked/tags/worldgen/structure/tower.json"
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/tags/worldgen/structure/tower.json"
 hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/towns_and_towers/worldgen/structure_set/other.json"
+file = "config/paxi/datapacks/spectral_carnival/data/towns_and_towers/worldgen/structure_set/other.json"
 hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/towns_and_towers/worldgen/structure_set/towers.json"
+file = "config/paxi/datapacks/spectral_carnival/data/towns_and_towers/worldgen/structure_set/towers.json"
 hash = "f73e7aaf679f07f781eb6088cc1d6c0e4983fdd94d4bfc3d69d8f63a0ab0d7b8"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/data/towns_and_towers/worldgen/structure_set/towns.json"
+file = "config/paxi/datapacks/spectral_carnival/data/towns_and_towers/worldgen/structure_set/towns.json"
 hash = "b4b76b5295d0114f1dbc3bcb46a12a52961699af3e5185d45a6a3e97ec39287a"
 
 [[files]]
-file = "config/paxi/datapacks/customizations/pack.mcmeta"
+file = "config/paxi/datapacks/spectral_carnival/pack.mcmeta"
 hash = "597634e8afcfb713d2215b631ccf5b25e53d664706726564bb62b3ffee69cec9"
 
 [[files]]
@@ -300,7 +300,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/antique_atlas/lang/en_us.json"
-hash = "7a36fa503b503d0e7ad6ee6dfbee1d5766bed546c05e36b425f66bc7a747643d"
+hash = "c6ce8407470b65c9760596104113b06b9b9c985030484baedec055f98f09fd35"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/bone_desert.json"
@@ -367,8 +367,1288 @@ file = "config/paxi/resourcepacks/spectral_carnival/assets/explorify/atlas/struc
 hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_armorer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_large_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_large_house_3.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_large_house_4.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_medium_house_1_l.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_medium_house_1_r.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_medium_house_2_l.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_medium_house_2_r.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_1_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_1_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_2_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_2_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_3_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_3_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_4_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_4_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_5_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_5_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_6_l.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_small_house_6_r.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/houses/badlands_toolsmith_and_weaponsmith.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/badlands_pueblo/town_centers/badlands_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/beach_lighthouse/side/beach_main_house_1 copy.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/beach_lighthouse/side/beach_outdoor_shack_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/beach_lighthouse/town_centers/beach_meeting_point_1.json"
+hash = "4ad98bb61758ae2b8a96a9625142ad58bbf11e03897b5423b8c6f49d6e332584"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_armorer_and_toolsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_butcher_and_leatherworker_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_cartographer_and_library_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_mason_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_medium_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_5.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_small_house_6.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/houses/birch_forest_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/corner_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_04.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_05.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/crossroad_06.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_05.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/straight_06.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1.json"
+hash = "4ad98bb61758ae2b8a96a9625142ad58bbf11e03897b5423b8c6f49d6e332584"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_animal_pen_1.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_animal_pen_2.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_animal_pen_3.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_armorer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_butcher_1.json"
+hash = "c7648e7058d0b0e459085157f0fc8d5032aa5a86127f3f3cd604315cedca714d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_fisher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_fletcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_large_farm_1.json"
+hash = "83ba21b40464daf11c5bd3082adebcce778bc5cec7d52eed6c5a0550c6ad4b2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_park_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_park_2.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_5.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_house_6.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_stable_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_toolsmith_1.json"
+hash = "d1b3c2c55f3e155c4577aa834d668846d0191388b2e7865bfe64216dbc1bbabe"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/corner_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_04.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_05.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/crossroad_06.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_05.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/straight_06.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_animal_pen_1.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_armorer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_butcher_1.json"
+hash = "c7648e7058d0b0e459085157f0fc8d5032aa5a86127f3f3cd604315cedca714d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_fisher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_fletcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_toolsmith_1.json"
+hash = "d1b3c2c55f3e155c4577aa834d668846d0191388b2e7865bfe64216dbc1bbabe"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/corner_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_04.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_05.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/crossroad_06.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_05.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/straight_06.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_2.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_3.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_armorer_and_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_butcher_and_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_cartographer_and_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_farmer_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_fletcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_medium_house_2json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_medium_house_3.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_medium_house_4.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_medium_house_5.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_toolsmith_and_weaponsmith_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/crossroad_04.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/straight_05.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/town_centers/meadow_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_butcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_heavy_professions_gazebo copy.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_large_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_light_professions_gazebo.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_armorer_and_butcher_1.json"
+hash = "c7648e7058d0b0e459085157f0fc8d5032aa5a86127f3f3cd604315cedca714d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_fisher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_fletcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_5.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_6.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_toolsmith_and_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_armorer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_butcher_1.json"
+hash = "c7648e7058d0b0e459085157f0fc8d5032aa5a86127f3f3cd604315cedca714d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_fisher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_large_farm_1.json"
+hash = "83ba21b40464daf11c5bd3082adebcce778bc5cec7d52eed6c5a0550c6ad4b2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_library_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_small_house_5.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_toolsmith_1.json"
+hash = "d1b3c2c55f3e155c4577aa834d668846d0191388b2e7865bfe64216dbc1bbabe"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/corner_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_04.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_05.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/crossroad_06.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_05.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/straight_06.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_cartographer_and_library_1 copy.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1.json"
+hash = "83ba21b40464daf11c5bd3082adebcce778bc5cec7d52eed6c5a0550c6ad4b2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_3.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_small_farm_1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/corner_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/crossroad_03.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/straight_03.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/streets/straight_04.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1.json"
+hash = "4ad98bb61758ae2b8a96a9625142ad58bbf11e03897b5423b8c6f49d6e332584"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_armorer_and_toolsmith_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_butcher_and_mason.json"
+hash = "c7648e7058d0b0e459085157f0fc8d5032aa5a86127f3f3cd604315cedca714d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_cartographer_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_farm_and_temple_1.json"
+hash = "a590b2facebdefe588a05967396c22f54f3fc036470c8d818d0f279080422252"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_fisher_and_leatherworker_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_fletcher_and_library.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_large_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_large_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_medium_house_1.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_medium_house_2.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_medium_house_4.json"
+hash = "86087372a8941ff0a4951b636243bd6fb1d453bd8950547ab724b37633e3a34a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_shepherd_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_small_house_1.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_small_house_2.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_small_house_3.json"
+hash = "bcc7d5b7a8ce8e1bc1cdefab98d9a6b948622503c046c69b617752ea69712cf6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/houses/swamp_b_weaponsmith_1.json"
+hash = "9578cead0d9f0761a6e7507d994785d19e42425fbc51e3ac7115b14b9d68b363"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/corner_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/crossroad_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/crossroad_02.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/straight_01.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/straight_02.json"
+hash = "6a6eb8015f4294ac249e82f612ec5f6fb5fd726826320dab16f83e252c86fce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/streets/turn_01.json"
+hash = "cb7bd971a3803c8fee56b7ec327a3249a492de0fb8807edece1d3a934678d7b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/town_centers/swamp_b_meeting_point_1.json"
+hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/totw_reworked/atlas/structure/tag/tower.json"
 hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_badlands.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_beach.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_birch_forest.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_flower_forest.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_grove.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_jungle.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_meadow.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_mushroom_fields.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_old_growth_taiga.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_savanna_plateau.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_snowy_slopes.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_snowy_taiga.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_sparse_jungle.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_sunflower_plains.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_swamp.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_wooded_badlands.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/pack.mcmeta"
