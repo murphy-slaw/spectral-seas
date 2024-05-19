@@ -299,6 +299,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/abridged/atlas/structure/piece/type/bridge.json"
+hash = "a7bbecdc7c57e349ff4fdd0d33b676e4f03723a5f1110cc7d3cc88297077c849"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/antique_atlas/lang/en_us.json"
 hash = "c6ce8407470b65c9760596104113b06b9b9c985030484baedec055f98f09fd35"
 
