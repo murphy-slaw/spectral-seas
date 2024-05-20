@@ -2404,6 +2404,11 @@ hash = "9ab74107661d2644101cd0bb5fd96b7b71c830cf0d6c6b1ddc477b87ce0f336c"
 metafile = true
 
 [[files]]
+file = "mods/third-person-maps.pw.toml"
+hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "726324777b9d14adfd1622ce09d1be5b91678de733f45ce6ab1661b390034761"
 metafile = true
