@@ -1,6 +1,6 @@
 filename = 'brainierbees-1.5.jar'
 name = 'Brainier Bees'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'aaab683b25acf3e2608b2bd59e5c94d4cd59b0209d83398c790698324feef10e44c5f94844d6a88e5941185963e827a363fa5d91886c53c1d795074c25ab4935'

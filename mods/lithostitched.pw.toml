@@ -1,6 +1,6 @@
 filename = 'lithostitched-fabric-1.20.1-1.1.5.jar'
 name = 'Lithostitched'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '1cb591ab4218779c8e89f2fdcaab74381884240c7b0d66d1d406ff33455541a53a3f54704b3aee25fdd9b17ead3f26c6b9cde84f20008f35835a88eb3bad3c7c'

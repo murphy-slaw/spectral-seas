@@ -1914,12 +1914,12 @@ metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "5dc897c72752980a3f6040ccd22856d5cb714ab7bb7cf208cd7f3785e7607a24"
+hash = "9ffd94a7660345d4f89fdd195aa7f7e61de4d4c600dc6566413b1acada5d7626"
 metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "55a928ae30443f05e30808e582ef72e3268c221b418e5fd5e53d8e74126f0598"
+hash = "65e268bbc6b0c747701f268584a3eb80bf1975a5b787e7a567ab12d06727ee68"
 metafile = true
 
 [[files]]
@@ -1964,7 +1964,7 @@ metafile = true
 
 [[files]]
 file = "mods/brainier-bees.pw.toml"
-hash = "477e469573c696100a4ef4b168dd2d0235d9c5dbd1f9c4d8b121c68835ac8082"
+hash = "0cbc934ed95b32cf65295e052346691b489bce20a90838f2c3053e39e09ddcd1"
 metafile = true
 
 [[files]]
@@ -2214,7 +2214,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "38448cc49f979983df9ebe3533e378a67415568e466920f424c7a9655a1c24fe"
+hash = "bc0c8e7147a566b769e2a728071e49cff2140aa1816d92d27c9d834e10628196"
 metafile = true
 
 [[files]]
@@ -2234,7 +2234,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a18ec5a6e861b666658107b1245e2ceca2effd9211be069e1f41a7eb9d4c97d3"
+hash = "bc87b254faa7b883a453a3af6458e0b213bde45d37609628524cb54a87951ad7"
 metafile = true
 
 [[files]]
@@ -2299,7 +2299,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "04dbbab9b91d2113cd97d8ebfbddd9e6740e20ec958d83fb23022e9342036e98"
+hash = "d86ebd0487123cbcc95ba6e20b440788d9aa5e5618b84be16793e5a3b782efdc"
 metafile = true
 
 [[files]]
@@ -2404,7 +2404,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "09e5dfe9e7fd5e1c64fd4c87a562d8eb8564f11532ebea812c6da1784a5d4555"
+hash = "3614747433cd2af6ddacd11537b34179e529ead6e2c64d60d1fc8ab9a6e4a13c"
 metafile = true
 
 [[files]]
@@ -2419,7 +2419,7 @@ metafile = true
 
 [[files]]
 file = "mods/steep-surface-fix.pw.toml"
-hash = "9dcfeea45c90510e34fe4e0b2024936bf78373b166ff5e369575ba6e53a6b1fc"
+hash = "a45e671812b4d1906f513161e00484b1b75f195deba1fb02da935ff02a33dda2"
 metafile = true
 
 [[files]]
@@ -2434,7 +2434,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8e05c312ad8624c29a32e7f55b4f138633171f88af14b2767575e84fe8c4cfbd"
+hash = "dbf57bd7dc575ba167f063b3e80420950f4adf53c60b57850fb1de9a21facfd5"
 metafile = true
 
 [[files]]
@@ -2464,7 +2464,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "5a029288f73f38e03d1f80056eae51ad761939c4c4dc864e320fb2da8c6a32ac"
+hash = "cd6498331b4f31cfe3170cf6a5d12d82dc300b02346dd9a9df68dd1de96797ab"
 metafile = true
 
 [[files]]

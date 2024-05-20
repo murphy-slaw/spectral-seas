@@ -1,6 +1,6 @@
 filename = 'steep-surface-fix-1.0.0.jar'
 name = 'Steep Surface Fix'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'e03a8fd1dcb89e9adedbf26bb7ec7b3602ba54603c3d6070d63eefd10587ea99447de6faef0795a3dc5cd13db7a95bd8754c990b26da6bd62315e43aba5ab6d0'

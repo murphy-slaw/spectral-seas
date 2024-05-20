@@ -1,6 +1,6 @@
 filename = 'wits-1.1.0+1.20.1-fabric.jar'
 name = 'WITS (What Is This Structure?)'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '9ed3e564e779a450598770614b5234818a71fdebb83649c1e859e36559aa38df8b3b397cdb52c72eccd30182c9c71a3bb72088389e8d2db102246b966127125f'

@@ -1,6 +1,6 @@
 filename = 'AxesAreWeapons-1.7.3-fabric-1.20.2.jar'
 name = 'Axes Are Weapons'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'c2de8ef8006de197f9d9736a9a7a585829c07bad55abd8b1e7d25950727a8d0ec987478cf99e5c8bfc31965439276d90d43def3f6aac35e7975a79285ca15cec'
