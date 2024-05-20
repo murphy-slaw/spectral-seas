@@ -2289,6 +2289,11 @@ hash = "bc8b80d3626c3d0a77bb576964bc7b9ba4b5d562ec37e6970f06a1d73d5040e4"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "aefa805dc110a63a52f60c4785ef0d6ca8eaf7791999e6c9c37781981b315e7a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7799a39d0d8c2d6a98b59d4b8f2a191ebdbfd38343d12b930ff71c9750e6531f"
 metafile = true
