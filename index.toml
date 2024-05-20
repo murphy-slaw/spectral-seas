@@ -253,6 +253,50 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/animals.json"
+hash = "ba9f9207a1a41bf269743dc994c1a411806b571fd3dcc932e3817593b061ef71"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/butcher_animals.json"
+hash = "fe7d03599a448d241235d4728a4cc3992e949212fa2eab51043ba421c225d687"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/cats.json"
+hash = "7bf10f34cd05abbc58f093a9657866c0467b814de27935c648a016a7940fe91a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/iron_golem.json"
+hash = "3c79df07c7da6a9726aa98f50b35e1929f4002f53ef0980acff772d23dde5b43"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/sheep.json"
+hash = "b32efc8109aba5777efb56943c45e3b320928173348ab65c5c3c4ce3a6b39344"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/common/well_bottoms.json"
+hash = "59b5421d9e5f13d2c83145cd541cc3fc04d3d812a4a4949e484dc8659b65e31c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
+hash = "57ea18b65a1ba2410819bf5ce43c82c580a4bc8774ed6f42f0286d0eb48edef6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
+hash = "353e3a8320d9f1956e18a39261102d5cdbddd1c4e759dcb30da2b058ed7003e0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
+hash = "b225761a9f15ebe0bbae81979df648411d84fd2368e5a179b5e4e310985b4ae6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/snowy/town_centers.json"
+hash = "a35176e22cbf66d482fb54fe4a147dbf5853eb97ce3132e477295461393124a3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
+hash = "d2742e1fc0135b8a554ea1e585cf51ba82b301fcc7b2eea3ad3766d04a5e2258"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
 hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
@@ -1593,6 +1637,18 @@ hash = "067727cfdfadc1febc7ada24d78b89155f52209d0fa6c25cec12a60f72182ff5"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/totw_reworked/atlas/structure/tag/tower.json"
 hash = "d73ae78d856cbda563bb7a75b92d1aee51f5611aa1c3966f252fa6c2225d630d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/pillager_outpost_savanna_plateau.json"
+hash = "a1c4e81563e87d775b132f4fcf2c571afe704bf1cbbcaf8232c52e13e9d6a78e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/pillager_outpost_sparse_jungle.json"
+hash = "a1c4e81563e87d775b132f4fcf2c571afe704bf1cbbcaf8232c52e13e9d6a78e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/pillager_outpost_wooded_badlands.json"
+hash = "a1c4e81563e87d775b132f4fcf2c571afe704bf1cbbcaf8232c52e13e9d6a78e"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/towns_and_towers/atlas/structure/start/village_badlands.json"
