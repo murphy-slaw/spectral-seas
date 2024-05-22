@@ -8,3 +8,6 @@
 
 # server export directory
 server
+
+# vscode schmutz
+.vscode
