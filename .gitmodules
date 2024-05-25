@@ -1,0 +1,3 @@
+[submodule "config/paxi/resourcepacks/antique_atlas_respacks/assets"]
+	path = config/paxi/resourcepacks/antique_atlas_respacks/assets
+	url = https://github.com/murphy-slaw/antique-atlas-respacks.git

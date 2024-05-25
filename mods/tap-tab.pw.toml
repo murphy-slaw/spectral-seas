@@ -1,0 +1,13 @@
+name = "Tap Tab"
+filename = "taptab-3.3.0-fabric1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PZiy3tTe/versions/cdVkQytC/taptab-3.3.0-fabric1.20.jar"
+hash-format = "sha1"
+hash = "0390ee855dcb3963fc4125bcdca3ce32450e16a3"
+
+[update]
+[update.modrinth]
+mod-id = "PZiy3tTe"
+version = "cdVkQytC"
