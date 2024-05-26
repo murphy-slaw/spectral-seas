@@ -2919,6 +2919,11 @@ hash = "291ae6a55d5c57d45b0586a097446cabdbfcf26a02f012c412cfba2f6d07d3db"
 metafile = true
 
 [[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "e5994b57f0cbf2891c4065ce9eacfde385a7a424692075458f0936e34b4836c2"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
