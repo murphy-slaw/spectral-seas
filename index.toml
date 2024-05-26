@@ -558,11 +558,55 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "2d2d6d7ebd9be2d8f6588f40e99c7ca4322d5b00061eeb09904780b62471f0d0"
+hash = "a53675191faedc79cf332f39c1993c47ad80d496b69611926874c481d2943c79"
 
 [[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
+hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/meadow_swiss/decor.json"
+hash = "c62ce6d44047ab052410d4d17f4d45d7fda59951e588fcfa5f05dbaf8f91dd9d"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/old_growth_taiga_polish/decor.json"
+hash = "a5b7fd326af38a36378c77d7ec9295c7ddcf08e0db546ae0143abad451ac9e27"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/snowy_taiga_viking/decor.json"
+hash = "1e51bd8c361ad5d2c13a405fbca3896176d3ad2a900d5029897e51f6f5eac420"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/desert/decor.json"
+hash = "5da1755a95c5532eff9c5e0166c01bef44f52e36c079f03faade0cb7da286ba6"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/desert/zombie/decor.json"
+hash = "8ad9106966e02da4f3ac504af0bf495fe1fce842b359802e8600a0d4d45e871f"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/plains/decor.json"
+hash = "13b0b1ac80032f4b9ce2a9f94a811556d702cb0168a74461bda7be5abba42620"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/plains/zombie/decor.json"
+hash = "3f0f683b5fb0522b2d4823598247f28218b826a390d375a816a218237456200d"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/savanna/decor.json"
+hash = "20e642b080441940003ad47bdf16a8cd6661de9b0e16d10abf3a9a21bc1330bd"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/savanna/zombie/decor.json"
+hash = "46de99d69eb95c4af66e53144218608c59c81c3c7c6d8402c055d63b0f95c47f"
+
+[[files]]
+file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
+hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
