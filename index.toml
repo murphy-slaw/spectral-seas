@@ -2315,6 +2315,10 @@ file = "config/paxi/resourcepacks/spectrum_public_server_pack/pack.mcmeta"
 hash = "abb3963fb10403610ad5e2ff2be2d9b9bb1bcbad0945766c70b7b4468c21e7bd"
 
 [[files]]
+file = "config/preferred-gamerules.properties"
+hash = "2bdcd9cbbc6292f8826fdd988de4fc080c628c306e99875efa9957178a01a807"
+
+[[files]]
 file = "config/resourceful-config-web.json"
 hash = "e7378252028396d288924a5344ac2cca71232febf367982834180a64d26345e5"
 
@@ -2920,7 +2924,7 @@ metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
-hash = "e5994b57f0cbf2891c4065ce9eacfde385a7a424692075458f0936e34b4836c2"
+hash = "65c2655d832bbaa211047817bbe2c921052176324ae62aae8da5f53a4de3eef8"
 metafile = true
 
 [[files]]
