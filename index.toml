@@ -581,6 +581,34 @@ file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/tags/worldgen
 hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/derelict.json"
+hash = "998e937b1b49e1877ed36e59250715476a0a05bac16df8a763ee5d32489c4630"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/derelict_grass.json"
+hash = "21cafd0c70b079a9fb812bd3d9cbef6cba1fe6d229ad2825f5dc9f2c518fffdf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/ice.json"
+hash = "3ae907a19d223076c3825316478853473727796c5916ee677aafe99f1a9a97a2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/jungle.json"
+hash = "b975544dfafb8c23587542b4008fc62b8d8eb78c245de5945dbee3744edf476e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/ocean.json"
+hash = "d0e86b84d44d21b1633cdea1cc5eb1a0025d6a2840f0e43dbdd8d6bdf01ba38c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/ocean_warm.json"
+hash = "6034b04cc20d2d827b7bf6d7a05989d6a1c27764bfeeacf1477ea91a301f01e8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/regular.json"
+hash = "a839a3a78b1b3eedc6fd49353b1b183c64a259e3143efa7ce5222a9487bf5226"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/towns_and_towers/worldgen/structure_set/other.json"
 hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
@@ -2693,6 +2721,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "15e464d3e05d3cf4027fcc8f970002a4609d7bbded7282ee07bf1b8ed3ebb83f"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "e5f96d898695220e79fc43f2142969a91d793d50385149f3c5578a8439b60443"
 metafile = true
 
 [[files]]

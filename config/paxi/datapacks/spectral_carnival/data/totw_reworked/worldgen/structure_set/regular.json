@@ -1,0 +1,38 @@
+{
+    "structures": [
+        {
+            "structure": "totw_reworked:regular",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:derelict",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:derelict_grass",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:jungle",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:ocean",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:ocean_warm",
+            "weight": 1
+        },
+        {
+            "structure": "totw_reworked:ice",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 92,
+        "separation": 35,
+        "salt": 1689777
+    }
+}
