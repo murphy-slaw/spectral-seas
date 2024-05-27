@@ -578,7 +578,7 @@ hash = "a5b7fd326af38a36378c77d7ec9295c7ddcf08e0db546ae0143abad451ac9e27"
 
 [[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/snowy_taiga_viking/decor.json"
-hash = "1e51bd8c361ad5d2c13a405fbca3896176d3ad2a900d5029897e51f6f5eac420"
+hash = "96db9855063e6b53b2a30528f3782727885e4327be67c4b4ebf10d22746d351e"
 
 [[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/minecraft/worldgen/template_pool/village/desert/decor.json"
@@ -650,7 +650,7 @@ hash = "6034b04cc20d2d827b7bf6d7a05989d6a1c27764bfeeacf1477ea91a301f01e8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/totw_reworked/worldgen/structure_set/regular.json"
-hash = "a839a3a78b1b3eedc6fd49353b1b183c64a259e3143efa7ce5222a9487bf5226"
+hash = "db9adb67e4665fdeecf60a5410e907741d31320082c63ad52bd789c912784b86"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/towns_and_towers/worldgen/structure_set/other.json"
