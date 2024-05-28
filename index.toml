@@ -2492,6 +2492,11 @@ hash = "dc9ec0d40024060f1483f7cf8eb1b1a908a2b82a0efbc8bf50c552450a79b5be"
 metafile = true
 
 [[files]]
+file = "mods/ardagrass.pw.toml"
+hash = "00a087dbac44bd1047c2543d61ca0eea47d6cda35bbe0200e28b775421dc4cc7"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "aa4a393bdf0a7fdb7414b6812586cde777a2ffc9c3fff12f0be0c5b3c24730d0"
 metafile = true
@@ -2499,6 +2504,11 @@ metafile = true
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "9ffd94a7660345d4f89fdd195aa7f7e61de4d4c600dc6566413b1acada5d7626"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "577ad21804f1a928f90fe084106ccce06154b212574b9b25cf54a7510cc557f3"
 metafile = true
 
 [[files]]
@@ -2667,18 +2677,8 @@ hash = "0e48cd4a26550fc2b14a5af33df547c181a8fc1aec4a5d129643f45c5dff82d9"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "bee02c40911d64a2e250dea48f8d0f5aea227e94a58e09a7b6878311da730b3e"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "891e88958d1140c1e00fd82d9815f7610434a08f5f61fe2851baf4b0eb66f752"
-metafile = true
-
-[[files]]
-file = "mods/explorify.pw.toml"
-hash = "aa5b5578f76447b168dd04284f47f2b6647c17d3369e57665304c12e52d26f3c"
 metafile = true
 
 [[files]]
@@ -2814,6 +2814,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "9dde693ac944484256eadca2a56e9d6c7d9ddc47e194fd6b51f8168237c98f4b"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -3039,6 +3044,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
 
 [[files]]
