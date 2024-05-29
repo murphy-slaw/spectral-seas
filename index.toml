@@ -609,6 +609,11 @@ file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
 hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
+file = "config/paxi/datapacks/spawn-animations.pw.toml"
+hash = "9069590b0563ef0ec1014d9bfc4bdeba884d3decd822be29e8076cf5babe1523"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
 hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
@@ -3037,11 +3042,6 @@ hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "3614747433cd2af6ddacd11537b34179e529ead6e2c64d60d1fc8ab9a6e4a13c"
-metafile = true
-
-[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
 metafile = true
@@ -3079,11 +3079,6 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "dbf57bd7dc575ba167f063b3e80420950f4adf53c60b57850fb1de9a21facfd5"
 metafile = true
 
 [[files]]
