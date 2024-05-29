@@ -2397,6 +2397,10 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "247cc1fcc793d12a3d5f7f0f52af5d87180b4069250e019900ce3973ebad49f2"
+
+[[files]]
 file = "config/spawnanimations.json"
 hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
