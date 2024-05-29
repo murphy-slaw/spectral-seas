@@ -558,7 +558,7 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "a53675191faedc79cf332f39c1993c47ad80d496b69611926874c481d2943c79"
+hash = "0087b8046967f739f2e7d99af04589be325b762e56510034de017121277a5124"
 
 [[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
@@ -612,6 +612,10 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
 hash = "9069590b0563ef0ec1014d9bfc4bdeba884d3decd822be29e8076cf5babe1523"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/spawnanimations/tags/entity_types/exclude.json"
+hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spectral_carnival/revelations/reveal_mystical_flowers.json"
