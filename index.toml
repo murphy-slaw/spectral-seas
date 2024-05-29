@@ -3060,6 +3060,11 @@ hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "1ca961e2a37078ef6fce85c9673efbc8bc6cd545aa01e204eff9c0bcab3799f1"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
 metafile = true
