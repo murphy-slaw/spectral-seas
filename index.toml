@@ -2277,6 +2277,11 @@ hash = "e7386ce31b5a71d395e137289ceef498c4582a61fa61b50027b43c3d4388a42c"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/ctm-overhaul.pw.toml"
+hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/bone_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
