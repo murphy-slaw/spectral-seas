@@ -1,0 +1,13 @@
+name = "VanillAA"
+filename = "VanillAA.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/W3QK7DQz/versions/CgdY86YT/VanillAA.zip"
+hash-format = "sha1"
+hash = "6d603bade00b3f8ccb18939f74e29f27bdca97ad"
+
+[update]
+[update.modrinth]
+mod-id = "W3QK7DQz"
+version = "CgdY86YT"

@@ -2272,6 +2272,11 @@ file = "config/paxi/resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
+file = "config/paxi/resourcepacks/cleaner-waters.pw.toml"
+hash = "e7386ce31b5a71d395e137289ceef498c4582a61fa61b50027b43c3d4388a42c"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/bone_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
@@ -3153,4 +3158,24 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "27bb29b3c954ecd54d756ba74d921c1786d44cde8628e5122833ab42823120d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-advanced.pw.toml"
+hash = "d20753bc7a02d9dc122eb7934b177c64a57d04a92a99605adb72a1adaf96e496"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "b062f3d3717d82a0359fbf09472339e7080026fce69fc4a6d136ac8266b9e6ec"
 metafile = true

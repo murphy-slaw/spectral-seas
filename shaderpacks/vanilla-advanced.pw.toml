@@ -1,0 +1,13 @@
+name = "Vanilla Advanced"
+filename = "VanillaAdvanced.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wPjAoRh5/versions/I2tgEwzw/VanillaAdvanced.zip"
+hash-format = "sha1"
+hash = "377b421137995ac8ba21287b0e07043c3a7f6d67"
+
+[update]
+[update.modrinth]
+mod-id = "wPjAoRh5"
+version = "I2tgEwzw"
