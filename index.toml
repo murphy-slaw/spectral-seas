@@ -2886,6 +2886,10 @@ hash = "26be14863cd9c12b76738d834d19f767b33cd24dbdec6b89e9deab67ba5aea95"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-0.1.0.jar"
+hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "1e1cf80c3515b278e303e0d8d39e06415559c03eda203f00beba59e1c7d89d37"
 metafile = true
