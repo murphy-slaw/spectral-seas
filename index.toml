@@ -2874,11 +2874,6 @@ hash = "a3e443343c15ff73b4180e0573db24b0a5faf9479fdf55ca89786c1a4adf1c2c"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "a82331d6d86dd9e16a67cf2b8c21f1ad0d799cf744cb38c23adbb8d196fec0cf"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "bc87b254faa7b883a453a3af6458e0b213bde45d37609628524cb54a87951ad7"
 metafile = true
@@ -3115,6 +3110,11 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]
