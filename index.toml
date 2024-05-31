@@ -2519,11 +2519,6 @@ hash = "dc9ec0d40024060f1483f7cf8eb1b1a908a2b82a0efbc8bf50c552450a79b5be"
 metafile = true
 
 [[files]]
-file = "mods/ardagrass.pw.toml"
-hash = "00a087dbac44bd1047c2543d61ca0eea47d6cda35bbe0200e28b775421dc4cc7"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "aa4a393bdf0a7fdb7414b6812586cde777a2ffc9c3fff12f0be0c5b3c24730d0"
 metafile = true
@@ -2716,6 +2711,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "f9efc8625d0e4de73d9927d2ca126b2620b4406b218ae5d1fa5d1892aaa0ec2d"
+metafile = true
+
+[[files]]
+file = "mods/fabricbettergrass.pw.toml"
+hash = "f009ea57ca44b82faab0011a36937de66d0bbc50a59c18899998b7933ab3c75e"
 metafile = true
 
 [[files]]
