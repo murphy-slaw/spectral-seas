@@ -2664,6 +2664,11 @@ hash = "e32497f1cdc6c7f4a7ca486848663c4a9c6253f51407ae63e0d69e6a21ca1bf9"
 metafile = true
 
 [[files]]
+file = "mods/ecospherical-expansion.pw.toml"
+hash = "1928538e6b06326b0fe807404da78100d1d6f74634ba1cc7ec39418311155693"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "47378b161cbc1624f78e38095242ca713155a76ad34f31c307aefa6ba8ca7c16"
 metafile = true
@@ -2751,11 +2756,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "82f878cd17d825162fbbb2188650345539172e7f6b8b066efaabca7324c2b7e0"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "92b652670557a3d3b1d587f61187c5225232c45e900f9350e8dd4410b3b9023a"
 metafile = true
 
 [[files]]
@@ -3110,11 +3110,6 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]
