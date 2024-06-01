@@ -1,13 +1,13 @@
 name = "Antique Atlas"
-filename = "antique-atlas-2.8.1+1.20.jar"
+filename = "antique-atlas-2.8.2+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/tWI2JCWn/antique-atlas-2.8.1%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/pR64eYUW/antique-atlas-2.8.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "5aa3381fbbdbfdf14baba9dcd6812faafd245be6"
+hash = "3d4b0139e523bdb5260051617e4c68b5be15c8fd"
 
 [update]
 [update.modrinth]
 mod-id = "Y5Ve4Ui4"
-version = "tWI2JCWn"
+version = "pR64eYUW"

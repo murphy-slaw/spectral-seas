@@ -2616,7 +2616,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "769032961e0a4e91ccf80b5ca66422961795650c4add706595656919ef0a3415"
+hash = "0c7932e3dd13480069d078a6da57c189bc3df7f1437b85ce6ba8296d81e50638"
 metafile = true
 
 [[files]]
@@ -2636,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "aa4a393bdf0a7fdb7414b6812586cde777a2ffc9c3fff12f0be0c5b3c24730d0"
+hash = "f8bf68f37938f2cefa1d711245291b611e413622819d158639e9dfa885267717"
 metafile = true
 
 [[files]]
@@ -2881,7 +2881,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "82f878cd17d825162fbbb2188650345539172e7f6b8b066efaabca7324c2b7e0"
+hash = "615ceec9e9c3197174805f9921c1e6a9997eeeaf68c78499fc35ccd2ee7c7b17"
 metafile = true
 
 [[files]]
@@ -2906,7 +2906,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "b0a08dd94282dc7cd35332ee27e8ece0ae9db72add4280c58b7a264bfb565364"
+hash = "5a38ed735e2d1c5c6d362dd299dd6f076d762e28d9a15efc42f8873900196d51"
 metafile = true
 
 [[files]]
@@ -3120,7 +3120,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "aefa805dc110a63a52f60c4785ef0d6ca8eaf7791999e6c9c37781981b315e7a"
+hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
 metafile = true
 
 [[files]]
@@ -3200,7 +3200,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
+hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
 metafile = true
 
 [[files]]
@@ -3300,7 +3300,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "02dd6e9d917e4205d96c2c35915936722411eda8a5e7ca254f923696cf02c482"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]

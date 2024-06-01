@@ -1,13 +1,13 @@
 name = "Particular ✨"
-filename = "particular-1.0.1.jar"
+filename = "particular-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/uOLKtyYe/particular-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/sxJ5htvQ/particular-1.0.3.jar"
 hash-format = "sha1"
-hash = "e6f92e1879d5238345416df8f13f4df69caf963d"
+hash = "c57231e5cee3ed6c0126f799859b22ce4d96b208"
 
 [update]
 [update.modrinth]
 mod-id = "B1CcCd9h"
-version = "uOLKtyYe"
+version = "sxJ5htvQ"
