@@ -2565,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-spawn-point.pw.toml"
-hash = "741d7fa5977d08ace8033f4aaceb6cfd60db99207264df770274ba1e740552e5"
+hash = "cf93ccf79cd1df83681e08b74019060ed475fe6885c780b21f682143abcd391c"
 metafile = true
 
 [[files]]
@@ -3085,6 +3085,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
