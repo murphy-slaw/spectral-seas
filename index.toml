@@ -730,6 +730,10 @@ file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/bi
 hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/natures_compass/advancements/natures_compass.json"
+hash = "a0b45e370223b212dfff9abdaf5f44278b1e79d545b6d12b4e3ebcd61e92cd99"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spawnanimations/tags/entity_types/exclude.json"
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
