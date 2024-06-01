@@ -635,7 +635,7 @@ hash = "0b86fc962e070c937be37547dfa51e69afe6f5906b7764bdb738080e2bc8a8e6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_butterfly.json"
-hash = "bfefded20328e502d46d2ad348d3f53cb8e726d0ae5938218600a8cde8a3af02"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_canary.json"
