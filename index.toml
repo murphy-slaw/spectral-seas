@@ -2419,7 +2419,7 @@ hash = "f5a1fda3ec126e23c0b7eb40bee02262cea8a6bc97508880a33cee5fc9ff76ec"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "27266e357114d23a87fdd825c06a42dcd14ea073b6bc32a7ee95c363379118c4"
+hash = "70f9b5b8d3e112b48e0db377e8ccdf5f30739021863942d4b5635013168ce8fd"
 
 [[files]]
 file = "config/things.json5"

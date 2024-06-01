@@ -14,7 +14,7 @@
     "deeper_oceans": true,
     "desert_dunes": true,
     "lava_rivers": true,
-    "underground_rivers": true
+    "underground_rivers": false
   },
   "legacy": {
     // Tectonic v1 worlds have old biome data preventing them from being opened in Tectonic v2.1+.
