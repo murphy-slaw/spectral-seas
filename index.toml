@@ -2865,6 +2865,11 @@ hash = "681e076cd78ffdd49634852bcca393d53eb255090e5b0a18e08e200da065addb"
 metafile = true
 
 [[files]]
+file = "mods/flow.pw.toml"
+hash = "4a08c0a1c7082960078f9bf4d09dca178d4095baf56ee04c20b07a1150ee4338"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f6e1b5a95cb720302c65fe91283b0859275be9f49b44d92921aef49ef71eb61c"
 metafile = true
@@ -3056,6 +3061,11 @@ metafile = true
 [[files]]
 file = "mods/moon-info.pw.toml"
 hash = "aeebcf2c907eb65ebf3cdd4585e7621f24ac5da8d6112cfbca8962000712d891"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "ca4ba8ed59d7d943cd339d00789059c3ce79f774433804935bb1acc467be47aa"
 metafile = true
 
 [[files]]
