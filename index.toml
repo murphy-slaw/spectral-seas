@@ -534,7 +534,7 @@ hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
 
 [[files]]
 file = "config/naturalist.json"
-hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+hash = "0d64e07f1427f761cde573b16522096cb38df0cf23cf703aaed5265b43e8e0fc"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -612,6 +612,122 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
 hash = "9069590b0563ef0ec1014d9bfc4bdeba884d3decd822be29e8076cf5babe1523"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_alligator.json"
+hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_bass.json"
+hash = "872cb556025c1ddc7d79aa67b2ba1c091cdcfe0081353d9cc978e7f3f78feb98"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_bear.json"
+hash = "999ca35d3fb330ee9026d11ea6d77025bd0a15fcc8cd28a8d80642588cc0a837"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_bluejay.json"
+hash = "0d8b31f1ced366e108533eaae0149ea8efe5b36e6c4c7b8bdb8beb11e0ff4878"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_boar.json"
+hash = "0b86fc962e070c937be37547dfa51e69afe6f5906b7764bdb738080e2bc8a8e6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_butterfly.json"
+hash = "bfefded20328e502d46d2ad348d3f53cb8e726d0ae5938218600a8cde8a3af02"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_canary.json"
+hash = "3a2de6916f9532a28c214a839939451811892f427aff34e1ec16aaf2fb8a3581"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_cardinal.json"
+hash = "6d71e94f91595279942eb837405e9e045b02448a8b06c84be7d5cd5d02f6b3b0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_catfish.json"
+hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_coral_snake.json"
+hash = "f387d67aef26228d077dfa537a016a532b00ecae407c923c5050c0200c2b03b7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_deer.json"
+hash = "af6449dfcac59c30d4f210d9e092bd6e6be52b94fa95d5aee06cc05ec23fef1b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_dragonfly.json"
+hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_duck.json"
+hash = "fd6fb60a85effff944f8e3c642e5742185b56c1702ed2b184b3080e0709c3d68"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_elephant.json"
+hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_finch.json"
+hash = "b4f58d73adb835835d1308d636e8b48c4b6d899155f288899a9c5b318739cf28"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_firefly.json"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_giraffe.json"
+hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_hippo.json"
+hash = "83a2b220bc1836d4aee33e4d239947aaf853755feaa1da2985b6ea0d33fd5e79"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_lion.json"
+hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_lizard.json"
+hash = "c85a464f89023ca5739fb745e7bc8d816aee342b4584f5c8d20009493b9bfbbe"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_rattlesnake.json"
+hash = "56cc0f4b2edc7b7e670d592da5d095c4d15a9ea1324334fa8541f9a0966a6daf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_rhino.json"
+hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_robin.json"
+hash = "551a52c6d674180c569a192f6fd0bc3819add040d16b48b94f2aa8b351a423d5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_snail.json"
+hash = "78e24e62a9f56453a342038bb0525dc62c4ede6e9a63a1e78356161ea1d06bc4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_snake.json"
+hash = "5efbc8cdb0a8327c665a6c1d254784006ce7f14c6bf1ec77bf4d7eb57543824b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_sparrow.json"
+hash = "5de61e7a550080de19300e79346e22babe242ed560adaa7c1c382d5ab32d2d52"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_tortoise.json"
+hash = "b5db321bede4b0e61f9d7e54a076bfec698290ac2923347db827b92316a03ae7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_vulture.json"
+hash = "11a8cd595ea49cf1e30d9869e7101421a7d0c926eed539fd1d44c55d1f9b58ab"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_carnival/data/naturalist/tags/worldgen/biome/has_zebra.json"
+hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_carnival/data/spawnanimations/tags/entity_types/exclude.json"
