@@ -2564,6 +2564,11 @@ hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
 metafile = true
 
 [[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "741d7fa5977d08ace8033f4aaceb6cfd60db99207264df770274ba1e740552e5"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
@@ -2611,6 +2616,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "9094f025f6d32339b7653e936481f0203153c8c6df730d792881266a24f6fe7f"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
