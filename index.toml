@@ -2595,7 +2595,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "15ad231d9b6a11caa89d63e533245be024b3830f7dfefb1d450779e322f2ea0d"
+hash = "b45c829bb798d3d39d86fc5d7d0dc63cb9cceee55a7af3eaed5792532263f933"
 metafile = true
 
 [[files]]
@@ -2640,12 +2640,12 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "f8bf68f37938f2cefa1d711245291b611e413622819d158639e9dfa885267717"
+hash = "580e1ae2db8c749025ae6a8579eb7052d1e07f312eef98b976678d4b2a9fb01d"
 metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "9ffd94a7660345d4f89fdd195aa7f7e61de4d4c600dc6566413b1acada5d7626"
+hash = "6174dfa53ed132e0fb307f0fa937c2753597f7ed6043bc8486ff12743255a74f"
 metafile = true
 
 [[files]]
@@ -2805,7 +2805,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "21c6f264fa7c8cdec7d0e55a1a559d376fc651d31cb9c0be727a37f32c43e76b"
+hash = "8bfadabd18ee624fb67c5136ae45eac471838e76041843f74edff2ed71fa6084"
 metafile = true
 
 [[files]]
@@ -2815,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dfe7c802a11c9c09ac4040da8136b98ff15740c96e1a677d7df62383ce42a974"
+hash = "fddce1cfc06ce7b3c5fc0cfa062fc57eadfd4ef4213ad561dc93d98b92d329d2"
 metafile = true
 
 [[files]]
@@ -2845,12 +2845,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f9efc8625d0e4de73d9927d2ca126b2620b4406b218ae5d1fa5d1892aaa0ec2d"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f009ea57ca44b82faab0011a36937de66d0bbc50a59c18899998b7933ab3c75e"
+hash = "37631961e5ab548e235896a8fe3bd1d4149e3eb9f771e8bfc74375b87f099a4f"
 metafile = true
 
 [[files]]
@@ -2925,7 +2925,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "586577d1f945244e2002ad3c78bee39991540e980d0b40bdaf014e7740996ca0"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
@@ -2990,7 +2990,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "bff5087dba6f830b34775f8935ba245158a332faf2cbcd891a0b8157f1d6bc99"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
@@ -3174,7 +3174,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c7e45dd39cba9ad5643e91dd7c84c728fc426b26b0c3d185dcdab0485e05f86a"
+hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
 metafile = true
 
 [[files]]
@@ -3309,7 +3309,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ceaae325d1268fd52dd13577f6b0281116ef49dd24b678fd6fa7095e0eef952e"
+hash = "ed39712a86352813316e0a794b50c562c7ef0d65bcecedc9db8cba844404c4eb"
 metafile = true
 
 [[files]]
@@ -3324,7 +3324,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "0c770e1803774cd29cdd1a31d8128fbfe0a6ead9f7514260b0e8ff649fbf2c87"
+hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
