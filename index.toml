@@ -2602,6 +2602,10 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "e3c937f223a8fd7da01aa636a3690d6ed32b170df2e4464b194524429ca1324a"
 
 [[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "0be728441a512daffcf54affef04c10d8e23d065ddffb7955087d30cff06b2ac"
+
+[[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
