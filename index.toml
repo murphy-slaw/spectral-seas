@@ -2582,6 +2582,14 @@ file = "config/waila/waila_plugins.json"
 hash = "65570aa0a5a6d0f1afbd1ab6b5eacd7690eca62b9804ace4e180ee2d00ee3104"
 
 [[files]]
+file = "config/walk-jog-run-client.json"
+hash = "d899a63aed140e093a5e1516a378a26a1b344f13e770c1d398366bb28c49ece0"
+
+[[files]]
+file = "config/walk-jog-run.json"
+hash = "51838e65443bc9c28c5200c8360924f2bb1d5892a731b9897075df562688cae7"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
