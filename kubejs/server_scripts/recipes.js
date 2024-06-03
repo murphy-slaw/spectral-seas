@@ -1,6 +1,4 @@
 ServerEvents.recipes(event =>{
-    event.remove({output: '#minecraft:boats'})
-
     event.replaceInput(
         {output: '#smallships:ships'},
         'minecraft:lead',
@@ -13,21 +11,70 @@ ServerEvents.recipes(event =>{
         'minecraft:string'
    )
 
-    for (const wood of ['acacia','oak','spruce','jungle','dark_oak','birch']){
+    var brigg_pattern = ["sls","bbb","ccc"]
+    const brigg_key = {
+        s: 'smallships:sail',
+        l: 'minecraft:leather',
+        c: 'minecraft:chest',
+    }
+    event.remove({output: '#smallships:briggs'})
+    event.remove({output: 'smallships:bamboo_cog', input: 'minecraft:chest'})
+    event.remove({output: 'smallships:bamboo_drakkar'})
+    event.remove({output: 'smallships:bamboo_galley'})
+
+    for (const wood of ['acacia','oak','spruce','jungle','dark_oak','birch','cherry','mangrove']){
+        var stripped = 'minecraft:stripped_' + wood + '_log'
         event.replaceInput(
             {output: '#smallships:ships'},
             'minecraft:'+ wood + '_boat',
-            'minecraft:stripped_' + wood + '_log'
+            stripped
         )
-        event.replaceInput(
-            {output: '#smallships:briggs'},
-            'minecraft:'+ wood + '_chest_boat',
-            'minecraft:stripped_' + wood + '_log'
+
+        var cur_key = Object.assign({}, brigg_key)
+        cur_key['b'] = stripped
+        event.shaped(
+            Item.of('smallships:' + wood + '_brigg'),
+            brigg_pattern,
+            cur_key
         )
     }
-    let recipes = []
-    event.forEachRecipe({}, r => {
-        console.log(r.json.toString())
-        recipes.push(JSON.parse(r.json.toString()))
-    })
+
+    var b_key = Object.assign({}, brigg_key)
+    b_key['b'] = 'minecraft:stripped_bamboo_block'
+    event.shaped(
+        Item.of('smallships:bamboo_brigg'),
+        brigg_pattern,
+        b_key
+    )
+
+    event.shaped(
+        Item.of('smallships:bamboo_drakkar'),
+        ['sSs','clc','bbb'],
+        {
+            's': 'minecraft:string',
+            'S': 'smallships:sail',
+            'c': 'minecraft:chest',
+            'l': 'minecraft:leather',
+            'b': 'minecraft:stripped_bamboo_block'
+        }
+    )
+
+    event.shaped(
+        Item.of('smallships:bamboo_galley'),
+        ['lll', 'cSc','bbb'],
+        {
+            's': 'minecraft:string',
+            'S': 'smallships:sail',
+            'c': 'minecraft:chest',
+            'l': 'minecraft:leather',
+            'b': 'minecraft:stripped_bamboo_block'
+        }
+    )
+
+    event.replaceInput(
+        {output: 'small_ships:bamboo_cog'},
+        'minecraft:bamboo_raft',
+        'minecraft:stripped_bamboo_block'
+    )
+
 })
