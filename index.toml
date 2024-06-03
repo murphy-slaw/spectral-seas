@@ -3198,6 +3198,11 @@ hash = "d3e45d5ddd3b5feb960de73148fa5cdb98f12ec6d15fe1257a13b7a03ac1480d"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "43a188b9b96c95e514b86b7a1f0ea49b4c864313e0be540e14fd66e9fc3549c6"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "54dc64bf9572591ece995cf2bfde5511e2b510242c8977d69a14fd7f12cd4f14"
 metafile = true
@@ -3300,6 +3305,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1e2f5aa8468527520b66255ecdda0211c0b9520cf03e6d4680761f33105fd31c"
+metafile = true
+
+[[files]]
+file = "mods/walk-jog-run.pw.toml"
+hash = "fb408910648702fc9572e4d19116e752c6c9e788a16ea50e3613c2082b03b4b1"
 metafile = true
 
 [[files]]
