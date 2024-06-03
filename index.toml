@@ -2599,7 +2599,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "e3c937f223a8fd7da01aa636a3690d6ed32b170df2e4464b194524429ca1324a"
+hash = "07fc6eebffa2eb74750f5a32e28b1965324d7ee6650963955134e5cf3030e19b"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
