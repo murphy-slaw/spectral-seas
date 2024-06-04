@@ -18,7 +18,7 @@ ServerEvents.recipes(event =>{
         c: 'minecraft:chest',
     }
     event.remove({output: '#smallships:briggs'})
-    event.remove({output: 'smallships:bamboo_cog', input: 'minecraft:chest'})
+    event.remove({output: 'smallships:bamboo_cog'})
     event.remove({output: 'smallships:bamboo_drakkar'})
     event.remove({output: 'smallships:bamboo_galley'})
 
@@ -63,7 +63,6 @@ ServerEvents.recipes(event =>{
         Item.of('smallships:bamboo_galley'),
         ['lll', 'cSc','bbb'],
         {
-            's': 'minecraft:string',
             'S': 'smallships:sail',
             'c': 'minecraft:chest',
             'l': 'minecraft:leather',
@@ -71,10 +70,14 @@ ServerEvents.recipes(event =>{
         }
     )
 
-    event.replaceInput(
-        {output: 'small_ships:bamboo_cog'},
-        'minecraft:bamboo_raft',
-        'minecraft:stripped_bamboo_block'
+    event.shaped(
+        Item.of('smallships:bamboo_cog'),
+        ['lSl', 'bbb'],
+        {
+            'S': 'smallships:sail',
+            'l': 'minecraft:leather',
+            'b': 'minecraft:stripped_bamboo_block'
+        }
     )
 
 })
