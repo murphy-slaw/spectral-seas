@@ -2603,7 +2603,7 @@ hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "0be728441a512daffcf54affef04c10d8e23d065ddffb7955087d30cff06b2ac"
+hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -2775,6 +2775,11 @@ hash = "dbf4d20b58fcf585e96378b4732704f13d465485ea4d5d85d5f11f97d92202e0"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "a9bba5d4c42f07380ca359ab26eda6a272509cf9dbe66ee769b79eda8c735f94"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
@@ -2798,6 +2803,10 @@ metafile = true
 file = "mods/deathlog.pw.toml"
 hash = "1f65d34b14bc15fbf8f59c4dde68a4636c50680e97feed4f48c03b9890ff4a8a"
 metafile = true
+
+[[files]]
+file = "mods/deeper-oceans-1.0.0.jar"
+hash = "1609b46d8c1e37b356dd74f3e816b8938b9cbd85ca6e5d967d688943b5b03179"
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
@@ -3286,11 +3295,6 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]
