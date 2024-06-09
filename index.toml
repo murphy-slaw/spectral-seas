@@ -2805,8 +2805,9 @@ hash = "1f65d34b14bc15fbf8f59c4dde68a4636c50680e97feed4f48c03b9890ff4a8a"
 metafile = true
 
 [[files]]
-file = "mods/deeper-oceans-1.0.0.jar"
-hash = "1609b46d8c1e37b356dd74f3e816b8938b9cbd85ca6e5d967d688943b5b03179"
+file = "mods/deeper-oceans-refabricated.pw.toml"
+hash = "326be62fd3c13c5e1b97958aff13059d450106be465aed38d75e74f6a9ec7ee3"
+metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
