@@ -2939,6 +2939,11 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "a783f06655a629fcd7846ba75745e4afbeb165fc1f2c3fa5555013685d015a65"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "5a38ed735e2d1c5c6d362dd299dd6f076d762e28d9a15efc42f8873900196d51"
 metafile = true
