@@ -30,7 +30,7 @@ hash = "0c7266a6d9718bac60930b94cf137e3ee72c18fe61749fc9d8dcee216eb87518"
 
 [[files]]
 file = "config/artifacts/common.json5"
-hash = "f89586b216b4f766195ff807590b93a8451ed6e9dad593a2033b9a68711415a6"
+hash = "0d3694cfc126ca01aafdc82b172d28696f79aa608514c7ceeb647dd78c475191"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -2815,6 +2815,11 @@ hash = "bd6bb1295c24783c0da7ae8ffc9406b895e15b3e87f045a608bd7e733c8c7f51"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "dcea9652980fa97909dc9231878fa853f4b1da3d1a3967615f04b7f4d695e6e6"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3af2afc4a8c173393fc3a4255a99c9cedcfae2586ecb9e5a0d78db36ff2594cc"
 metafile = true
@@ -2877,6 +2882,11 @@ metafile = true
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
 hash = "37631961e5ab548e235896a8fe3bd1d4149e3eb9f771e8bfc74375b87f099a4f"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
@@ -2997,6 +3007,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "f4459a67d33b812772627af4aa343fc90a745dcbd925bc8a175586b9b86ad7ab"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]

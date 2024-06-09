@@ -13,11 +13,11 @@
 		*/
 		"count": 0,
 		// The minimum height campsites can spawn at
-		"minY": -60,
+		"minY": 0,
 		// The maximum height campsites can spawn at
-		"maxY": 40,
+		"maxY": 64,
 		// Probability that a campsite has a mimic instead of a chest
-		"mimicChance": 0.3,
+		"mimicChance": 0.1,
 		// Whether to use wooden chests from other mods when generating campsites
 		"useModdedChests": true,
 		// Whether campsites can contain blocks that emit light
