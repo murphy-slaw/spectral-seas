@@ -2706,6 +2706,10 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "modrinth.index.json"
+hash = "362e5746ff9574940fa9172e6c90159c16e113ec5656e64f4376f5e93f31774c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b45c829bb798d3d39d86fc5d7d0dc63cb9cceee55a7af3eaed5792532263f933"
 metafile = true
@@ -2747,7 +2751,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "dc9ec0d40024060f1483f7cf8eb1b1a908a2b82a0efbc8bf50c552450a79b5be"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
@@ -2886,6 +2890,11 @@ hash = "e30299f908bf284bafef5249876ed702b94c6a3ef35b7c736efe7a6b3517482b"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+metafile = true
+
+[[files]]
 file = "mods/custom-mob-spawns.pw.toml"
 hash = "8ab9fdd9bf3c8b1ba3ab727979b5f1783a9f40df25228d5577de56987b510c63"
 metafile = true
@@ -2917,7 +2926,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3af2afc4a8c173393fc3a4255a99c9cedcfae2586ecb9e5a0d78db36ff2594cc"
+hash = "630f52e6167bbb14e038fbd6e008c6a7d3938c79686a1bd76f875b65ad47ab30"
 metafile = true
 
 [[files]]
@@ -2972,7 +2981,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -3018,6 +3027,21 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "f657a53fab571d53429015c21bbe9bf73568da4fb35a6e216b49ad8aa6b0dfcd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "b652c5d39c9c6438eb493d1142c8f68fe962da39af84750f0fbe3ffb9787f799"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "d82b5bfa2b5ed60409bf3eb711886702955968a92ba02d04ad847367215fa60c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
 metafile = true
 
 [[files]]
@@ -3431,6 +3455,11 @@ metafile = true
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "e9f07e556c36f4fc11f7018b64216b321126279215424f0b4ea7f87674a5ba23"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
 metafile = true
 
 [[files]]
