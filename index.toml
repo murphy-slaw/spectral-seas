@@ -2830,6 +2830,11 @@ hash = "e32497f1cdc6c7f4a7ca486848663c4a9c6253f51407ae63e0d69e6a21ca1bf9"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "47378b161cbc1624f78e38095242ca713155a76ad34f31c307aefa6ba8ca7c16"
 metafile = true
@@ -3010,6 +3015,11 @@ hash = "f4459a67d33b812772627af4aa343fc90a745dcbd925bc8a175586b9b86ad7ab"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
@@ -3184,6 +3194,11 @@ hash = "bc8b80d3626c3d0a77bb576964bc7b9ba4b5d562ec37e6970f06a1d73d5040e4"
 metafile = true
 
 [[files]]
+file = "mods/panoramica-fabric.pw.toml"
+hash = "98b1a456618230c93a76c5568a6cef5eb222c06627d59508e650dc4d54988989"
+metafile = true
+
+[[files]]
 file = "mods/particular.pw.toml"
 hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
 metafile = true
@@ -3202,6 +3217,10 @@ metafile = true
 file = "mods/paxi.pw.toml"
 hash = "291ae6a55d5c57d45b0586a097446cabdbfcf26a02f012c412cfba2f6d07d3db"
 metafile = true
+
+[[files]]
+file = "mods/pesky_seagulls-1.2.0.jar"
+hash = "9dcf876b2f5edb77c9088e9a1011fb790b84614866e793ffc6fec86125b1ad53"
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
