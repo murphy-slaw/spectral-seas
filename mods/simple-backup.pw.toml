@@ -1,0 +1,13 @@
+name = "Simple Backup"
+filename = "simplebackup-2.0-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ma6PaAnr/versions/mg6850Sy/simplebackup-2.0-1.20.jar"
+hash-format = "sha1"
+hash = "5d4e5194e181ee4b10c307e406cc6cd7644e262c"
+
+[update]
+[update.modrinth]
+mod-id = "ma6PaAnr"
+version = "mg6850Sy"

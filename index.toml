@@ -2981,7 +2981,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -3393,6 +3393,11 @@ hash = "1a70896bb235e6772987a46b644798564fd9d964c23b0d477423fdfa22191e2e"
 metafile = true
 
 [[files]]
+file = "mods/simple-backup.pw.toml"
+hash = "2d4fccb7df6a41dc8f6bf3058c213d2c80883952cbfd17986881c8ceb1a557f7"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "43a188b9b96c95e514b86b7a1f0ea49b4c864313e0be540e14fd66e9fc3549c6"
 metafile = true
@@ -3440,6 +3445,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
+metafile = true
+
+[[files]]
+file = "mods/starter-items.pw.toml"
+hash = "c6e87a31ec11b0c2c7123bc1b88671a0194966aa1f2d51029de095396b7dd76a"
 metafile = true
 
 [[files]]
