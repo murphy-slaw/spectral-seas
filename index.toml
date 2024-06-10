@@ -141,6 +141,102 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "fa2cd774adc3b660a27a77c4174524990f2b19e3ff65ff94fde11577727a60d3"
 
 [[files]]
+file = "config/fancymenu/assets/325407__shadydave__on-the-seas-loop.ogg"
+hash = "e5c2387922bc40624fb2471e61ee59a74f38b87cd2f833a60d064ccfdc1c8935"
+
+[[files]]
+file = "config/fancymenu/assets/486871__writeyournamehere__pirate-ship-ambiance.wav"
+hash = "0cc9952c5f508ac102e0d96ba78ea53d4de57af060da1e4310fc7ab79b8db281"
+
+[[files]]
+file = "config/fancymenu/assets/520193__code_box__a-story-of-the-sea.wav"
+hash = "98ef98f364474588a5f059d6501b489fcb50d6fafa7d25fad3f65cd5827af884"
+
+[[files]]
+file = "config/fancymenu/assets/antique-atlas.ogg"
+hash = "55365242577d8996d074b889ea1ea85c7e812e21c8b179d49b448512d0765c76"
+
+[[files]]
+file = "config/fancymenu/assets/s_icon_16.png"
+hash = "69746aec10f2ab4037706450af8e6c58d1d5ee8439977770560620b018829de7"
+
+[[files]]
+file = "config/fancymenu/assets/s_icon_32.png"
+hash = "9fb3e398d4077b3ac8d548947217c68775652c460df021c03d5ad451eff4b697"
+
+[[files]]
+file = "config/fancymenu/assets/spectral_seas.icns"
+hash = "df66822e03f99b25c09fa16f908f860382c0dc0af4a0660d1ff053e66edebc7b"
+
+[[files]]
+file = "config/fancymenu/assets/spectral_seas.png"
+hash = "940da761b53236196f43e07fcfd892700e5de81c5bde0a80b35226586fed262a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "795b9a81213153b884e4becad8ff5f6ecf83eacddfa0c8ba39eac0af2da77b06"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "e7dea71749e639c20fb56959aef9faf4cb531d257c4817c4c741dbd48a5ae26a"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
+hash = "81b36af6b45f550ca02e3e2ee00954691bc299b018b3725db6500157c0adcc24"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_1.png"
+hash = "aa9df30ee42b5b31fb057f46cd4d07b0aaeec54cb1e32de63f43cd13e6b6de49"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_2.png"
+hash = "3cc450d73d0e7934541fbe7cb81ec01bf5bacb4181a9101ce83dc96d40078db0"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_3.png"
+hash = "5445d3057b7414d0ce3ab9726d93137c0c0e162b28ce7cd089af98b1b37ebec2"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_4.png"
+hash = "2119ef60185c812209b0e515e6f21e141e7f4e397e13850a7c2871c595944173"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_5.png"
+hash = "7656aa7a755e80748d8f1b3fdebdbafde2b3cc242c4a3e6f82b9830da181e9b6"
+
+[[files]]
+file = "config/fancymenu/panoramas/lighthouse/properties.txt"
+hash = "6d04cb8d529e8105f04652541fe4a4b86f22a8a9c00f793ba0f2bbb0808aa643"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
