@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "destination": "spectrum:pedestal_ruins",
+              "decoration": "red_x",
+              "function": "minecraft:exploration_map",
+              "skip_existing_chunks": false,
+              "zoom": 1
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.buried_treasure"
+              }
+            }
+          ],
+          "name": "minecraft:map"
+        }
+      ],
+      "rolls": 1.0
+    },
+  ],
+  "random_sequence": "minecraft:chests/shipwreck_map"
+}
