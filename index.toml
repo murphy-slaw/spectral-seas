@@ -342,7 +342,7 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "0087b8046967f739f2e7d99af04589be325b762e56510034de017121277a5124"
+hash = "e732117c8fb313318cdf2a6a5daa80710c74e5a02383c3da4d0df10d61e9b112"
 
 [[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
@@ -523,7 +523,7 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
-hash = "f64c198ce3527b2a87a0abaa5054f666a2e6bc7f156cbfd11e616ca11e6342f8"
+hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/revelations/reveal_mystical_flowers.json"
