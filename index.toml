@@ -2879,6 +2879,11 @@ hash = "dbf4d20b58fcf585e96378b4732704f13d465485ea4d5d85d5f11f97d92202e0"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "a9bba5d4c42f07380ca359ab26eda6a272509cf9dbe66ee769b79eda8c735f94"
 metafile = true
@@ -3369,6 +3374,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
+metafile = true
+
+[[files]]
+file = "mods/realistic-stamina.pw.toml"
+hash = "a242a34238f341f110b39394191eb08e01424dac155eec30d76f057deae9a0a4"
 metafile = true
 
 [[files]]
