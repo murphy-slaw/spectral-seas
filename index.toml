@@ -3462,6 +3462,10 @@ hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
 
 [[files]]
+file = "mods/stamina-for-tweakers-1.0.0.jar"
+hash = "c6f7b57889b70641969045cb3218bce552fe14ed7010a2ba09ada3ef1ae80fd4"
+
+[[files]]
 file = "mods/starter-items.pw.toml"
 hash = "c6e87a31ec11b0c2c7123bc1b88671a0194966aa1f2d51029de095396b7dd76a"
 metafile = true
