@@ -1,13 +1,13 @@
 name = "Surveyor Map Framework"
-filename = "surveyor-0.5.0+1.20.jar"
+filename = "surveyor-0.5.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4KjqhPc9/versions/tUfwS4Bo/surveyor-0.5.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/4KjqhPc9/versions/JAkwbZB4/surveyor-0.5.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "d400446f54fe7788044d0df9b50ea4ba4a5fa9af"
+hash = "4d973e45e9e852f344d39320042ab08e117dbe5f"
 
 [update]
 [update.modrinth]
 mod-id = "4KjqhPc9"
-version = "tUfwS4Bo"
+version = "JAkwbZB4"

@@ -1,13 +1,13 @@
 name = "Icarus"
-filename = "Icarus-Fabric-2.9.0.jar"
+filename = "Icarus-Fabric-2.9.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/TmdneqGC/Icarus-Fabric-2.9.0.jar"
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/aIO2Oobv/Icarus-Fabric-2.9.1.jar"
 hash-format = "sha1"
-hash = "57e73a04ee8af0413441966dcb7a6419c4d158f0"
+hash = "cf485218a7188b35fd9a4e9350abc0ba38beb315"
 
 [update]
 [update.modrinth]
 mod-id = "Dw7M6XKW"
-version = "TmdneqGC"
+version = "aIO2Oobv"
