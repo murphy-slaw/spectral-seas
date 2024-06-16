@@ -3397,6 +3397,11 @@ hash = "d3e45d5ddd3b5feb960de73148fa5cdb98f12ec6d15fe1257a13b7a03ac1480d"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
+metafile = true
+
+[[files]]
 file = "mods/river-redux.pw.toml"
 hash = "1a70896bb235e6772987a46b644798564fd9d964c23b0d477423fdfa22191e2e"
 metafile = true
