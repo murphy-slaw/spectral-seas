@@ -2950,7 +2950,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "47378b161cbc1624f78e38095242ca713155a76ad34f31c307aefa6ba8ca7c16"
+hash = "425c9f0b28ff03a61402618cedc52cf22456ac9afe9b2c7faa3800e53474764e"
 metafile = true
 
 [[files]]
@@ -3065,7 +3065,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ccb45ba49b84224fbce01b9612cab24332472551c1d0c415654706e17c4cae73"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
@@ -3552,7 +3552,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "394e9eefec8d4b9f94447fcd9ef7413a49cdd444e6aff2443987b75492fd250f"
+hash = "512df1aa6df461910e069cdd94dc4f4f0e5541ea46cf212c128144efd1faa5fc"
 metafile = true
 
 [[files]]
