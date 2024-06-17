@@ -3536,11 +3536,6 @@ hash = "440d296d0164e808975ba8827b75c372a1ce5993d90f6bea68ed4364a070e6d9"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "812a1d4c9cc6a3a147c3b718557efd5ac723408092f5b26537daa54819b0e40e"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1e2f5aa8468527520b66255ecdda0211c0b9520cf03e6d4680761f33105fd31c"
 metafile = true
