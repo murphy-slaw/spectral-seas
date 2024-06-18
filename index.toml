@@ -3349,7 +3349,7 @@ metafile = true
 
 [[files]]
 file = "mods/pesky_seagulls-1.2.0.jar"
-hash = "9dcf876b2f5edb77c9088e9a1011fb790b84614866e793ffc6fec86125b1ad53"
+hash = "fdfa9f580bc7941d91b9c7e37513840cdc6a0322f02e99899f442b6a2756f507"
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
@@ -3453,7 +3453,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
+hash = "4e3baf177daad87a455eeb90f1bea3a35fa1418d0c6140ced52196c24cf23442"
 metafile = true
 
 [[files]]
