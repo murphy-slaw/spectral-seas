@@ -3243,6 +3243,11 @@ hash = "4b7c3fee9dffd855b2d0d455a62ed476aa06d1cdfe98089d6b327354c9477824"
 metafile = true
 
 [[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "d81b32799fcf58c5c989c5818640f98ac339168caee8fe70ec92af6b8d0ccb88"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
 metafile = true
