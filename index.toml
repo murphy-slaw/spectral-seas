@@ -2850,7 +2850,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "84b2922b6ed72030b7a9bb530394de57d045f118b36240e7e9bdafbddb2f5f9c"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -2896,6 +2896,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "e1622902dab5e0928d59065d1bc4efb7bc61db45578183c905fe4e53b87f3526"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
 
 [[files]]
@@ -3060,7 +3065,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f2323de4c50f598f7d239c2cbe0e9201ee0b791db854f8061c415bf52d2ca05a"
+hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
 metafile = true
 
 [[files]]
@@ -3258,11 +3263,6 @@ hash = "f48535f54e028a903369fd558673f058a1f3eefb04a0170304d6da27a430e7aa"
 metafile = true
 
 [[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
-metafile = true
-
-[[files]]
 file = "mods/moon-info.pw.toml"
 hash = "aeebcf2c907eb65ebf3cdd4585e7621f24ac5da8d6112cfbca8962000712d891"
 metafile = true
@@ -3394,6 +3394,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
