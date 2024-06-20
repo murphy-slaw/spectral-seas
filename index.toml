@@ -349,6 +349,10 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
+file = "config/paxi/datapacks/lithosphere 1.1.1 06.06.2024.zip"
+hash = "15d54a15136d3f0fd6caeee90d96c110cc01edd658d95773ddc32000a5e25a6f"
+
+[[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
 hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
 
@@ -3468,7 +3472,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "86dc407888633c14d6fa25752b536c6a1357e75ca6511976b93c26a8a72776ae"
+hash = "2f6ca37f65be01c6153e1f4cc5d82d3086c865a0520d56b9554138d34ce1fde7"
 metafile = true
 
 [[files]]
