@@ -1,6 +1,6 @@
 name = "Mo' Structures"
 filename = "mostructures-1.4.5+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/WtqfRxEI/mostructures-1.4.5%2B1.20.1.jar"

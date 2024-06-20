@@ -349,10 +349,6 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
-file = "config/paxi/datapacks/lithosphere 1.1.1 06.06.2024.zip"
-hash = "15d54a15136d3f0fd6caeee90d96c110cc01edd658d95773ddc32000a5e25a6f"
-
-[[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
 hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
 
@@ -3248,7 +3244,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "d81b32799fcf58c5c989c5818640f98ac339168caee8fe70ec92af6b8d0ccb88"
+hash = "237378af946e0e8a970728b23deb152f1c60aa4f681316bc3c45256fe4539ea5"
 metafile = true
 
 [[files]]
@@ -3259,6 +3255,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f48535f54e028a903369fd558673f058a1f3eefb04a0170304d6da27a430e7aa"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
 metafile = true
 
 [[files]]
