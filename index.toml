@@ -2785,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
+hash = "6a4e4b9450aa618bd27346ec81d88231594ac487175c610e2106a6ccfdbce2d7"
 metafile = true
 
 [[files]]
@@ -2860,7 +2860,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
+hash = "a46683bca99f1dd653bec0714537cafacd6b82388cedc48e155f1d0720505af9"
 metafile = true
 
 [[files]]
@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "630f52e6167bbb14e038fbd6e008c6a7d3938c79686a1bd76f875b65ad47ab30"
+hash = "bcf8df149b9638d3c616c83f2cf711bfc1db884d92b700434c02a5762af68e7f"
 metafile = true
 
 [[files]]
@@ -3135,7 +3135,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "71c2a18b7443a1a9602491e65f3b7340849b4cf06c41d27d3f6a7b05372cfc8a"
+hash = "cc8f6b6c49e33cfe9a910ab1140cd54cb605d6004012242fbe7e48fb67845b4b"
 metafile = true
 
 [[files]]
@@ -3165,7 +3165,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "9dde693ac944484256eadca2a56e9d6c7d9ddc47e194fd6b51f8168237c98f4b"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
 metafile = true
 
 [[files]]
@@ -3269,7 +3269,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "ca4ba8ed59d7d943cd339d00789059c3ce79f774433804935bb1acc467be47aa"
+hash = "426fca3c193968dd537d66c989b196b1a926aa921ea99a7b2933e1025e4a81a5"
 metafile = true
 
 [[files]]
@@ -3448,7 +3448,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dcd31f8067f45282244cf26654d38c86885b31b3f5a6077db860dc0d11be06ad"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
@@ -3478,7 +3478,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "ec9e82f42d0c1ca8916d8ac794f4501873f7479014c25125307c19a75dc255c4"
+hash = "c1a8fe58047c3b01c6a76701cc3ab0d2e6be2aa62f50a37eac53afc1b05504de"
 metafile = true
 
 [[files]]
@@ -3518,7 +3518,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "430009d0e6a0a77a296c694cc783b96b086f40c6877702548505debe4aefc3db"
+hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
 metafile = true
 
 [[files]]
@@ -3563,7 +3563,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "512df1aa6df461910e069cdd94dc4f4f0e5541ea46cf212c128144efd1faa5fc"
+hash = "167ae0c67a49b10b0a345fa4e676522a45e00dd6fe0d0eb38793f4d75b06986e"
 metafile = true
 
 [[files]]
