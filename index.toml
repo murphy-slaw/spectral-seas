@@ -2905,7 +2905,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
@@ -3005,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "30a2cf70fc13bbb8dd2282ddd7fb230445b307162b440458d655d78dc6fcfac5"
+hash = "3fb466babc33a3ae777d13976f51fa265cc643875dfca7fa645eb100bdc92d23"
 metafile = true
 
 [[files]]
@@ -3065,7 +3065,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
+hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
 
 [[files]]
@@ -3110,7 +3110,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "15e464d3e05d3cf4027fcc8f970002a4609d7bbded7282ee07bf1b8ed3ebb83f"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "72b2a495aae6c3fdee3fac74de0f94d1cfc85514e396103c29552dc4d57fe68d"
+hash = "c1362fbf363dd8763588218dfc96daa7ee33b33a5fdd01b9f7aed80aca022ab7"
 metafile = true
 
 [[files]]
@@ -3403,7 +3403,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "edc04cd910c70b6bf584394eea86cfe76d1cb44e7826cc7079fed7cac5f90a22"
+hash = "8e86dfbe44f114dcd7f6102188e2490b63f522fceb78681aa27380020f2e4745"
 metafile = true
 
 [[files]]
@@ -3428,7 +3428,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "6ac147ada4e8a5e6d16e874149a405b176b631063e5e89833d6cb5c036a93e83"
+hash = "9dc02ea6455a10ec6ac928317f14674c8f6c9b035e9f8ab80176d5911fb476a1"
 metafile = true
 
 [[files]]
@@ -3478,7 +3478,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "2f6ca37f65be01c6153e1f4cc5d82d3086c865a0520d56b9554138d34ce1fde7"
+hash = "ec9e82f42d0c1ca8916d8ac794f4501873f7479014c25125307c19a75dc255c4"
 metafile = true
 
 [[files]]
