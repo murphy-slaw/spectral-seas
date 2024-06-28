@@ -3132,6 +3132,11 @@ hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "0a0284ef44b16dad0a7b00e728598d673a359a4a04c892501ca3f4ac6fc3720f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6ea48e2c636873e2d26ada7be5c584cef8982f233501e386b611cec18d9b3a37"
 metafile = true
