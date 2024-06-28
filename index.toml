@@ -2799,11 +2799,6 @@ hash = "b479b43062e0cb86f6d76b44967da2d60942defa4455187f3a1a77c8d2d8f70e"
 metafile = true
 
 [[files]]
-file = "mods/freecam.pw.toml"
-hash = "7e3e47309025fe2830be7f8f7450a2b6c1a0952b214443d2c13de4985592140f"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "3b9ec636f0ffb8495c9774c385f6685af10de1cea83a9f315311a11fb97072d9"
 metafile = true
@@ -3008,11 +3003,6 @@ hash = "c81cf0c95015451150230c4a495782ddd0e3be0ec5c6d02897cb22533dfcbe15"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.pw.toml"
-hash = "469380e3f3f75c4851b67ae86eebaa1599925c68889e641a035625918f0e68d5"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "037e359eb7972aeea812b3165707d9283664ee71b4f200678ff54df5e6155ae1"
 metafile = true
@@ -3134,11 +3124,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "06438ea1bca94d890495727e257fc655678c4b95124eaebb993e78b19300615e"
-metafile = true
-
-[[files]]
-file = "mods/probejs.pw.toml"
-hash = "c899701b7793af1495c17c530b8a3958b81928545a53452054521012a068ccfb"
 metafile = true
 
 [[files]]
