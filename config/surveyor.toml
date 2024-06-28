@@ -1,6 +1,6 @@
 # Various debug loggers and messages
 # default: false
-debugMode = true
+debugMode = false
 # Whether to share all terrain exploration all the time
 # default: false
 shareAllTerrain = false

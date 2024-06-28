@@ -34,7 +34,7 @@ chunkTickLimit = 100
 fallbackFailHandling = "MISSING"
 # Whether to show debug information about hovered tiles and markers
 # default: false
-debugRender = true
+
 
 [structureMarkers]
 	"explorify:start/watchtower_savanna" = true

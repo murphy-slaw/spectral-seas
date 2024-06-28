@@ -749,7 +749,7 @@ hash = "30d6c08413a5de6a031ca624b8ae6505e8ae0598349889d9aa58fa1d7ae13c87"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/savanna_plateau/base_plate.json"
-hash = "311ffdd8118a221636394f79d25dba014bff34869b4189f1aa152b96776b8066"
+hash = "f3e81272ec8d5a92719f6234ce31f7c3a9cbb7661c9e06a2828d764b67b50bc4"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/savanna_plateau/side/kitchen.json"
@@ -785,7 +785,7 @@ hash = "30d6c08413a5de6a031ca624b8ae6505e8ae0598349889d9aa58fa1d7ae13c87"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/sparse_jungle/base_plate.json"
-hash = "311ffdd8118a221636394f79d25dba014bff34869b4189f1aa152b96776b8066"
+hash = "f3e81272ec8d5a92719f6234ce31f7c3a9cbb7661c9e06a2828d764b67b50bc4"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/sparse_jungle/side/kitchen.json"
@@ -801,7 +801,7 @@ hash = "136a2d64090633cfa7327894ddde5c97ce027079d25225a29c1bb9ef869c0819"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/wooded_badlands/base_plate.json"
-hash = "311ffdd8118a221636394f79d25dba014bff34869b4189f1aa152b96776b8066"
+hash = "f3e81272ec8d5a92719f6234ce31f7c3a9cbb7661c9e06a2828d764b67b50bc4"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/outpost/camps/wooded_badlands/side/kitchen.json"
@@ -1209,11 +1209,11 @@ hash = "a7fe2f871ff72f9c2e21a1136d1c95acb80cca8a6a92e0b44f12e6e8bd354026"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_park_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_park_2.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/houses/flower_forest_small_farm_1.json"
@@ -1325,11 +1325,11 @@ hash = "0f626264497e6147565d15154f0fab8247165522fe020d0f0b25f998d28ccc85"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/houses/jungle_animal_pen_1.json"
@@ -1473,15 +1473,15 @@ hash = "0f626264497e6147565d15154f0fab8247165522fe020d0f0b25f998d28ccc85"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_2.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/jungle_tribal/town_centers/jungle_meeting_point_3.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/houses/meadow_armorer_and_leatherworker_1.json"
@@ -1597,7 +1597,7 @@ hash = "604c5455017cb12862692ea7d555d916bc101a769b37965b879134fc6ee4d87c"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/town_centers/meadow_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/houses/mushroom_butcher_1.json"
@@ -1653,7 +1653,7 @@ hash = "0f626264497e6147565d15154f0fab8247165522fe020d0f0b25f998d28ccc85"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/houses/old_growth_taiga_armorer_and_butcher_1.json"
@@ -1757,7 +1757,7 @@ hash = "604c5455017cb12862692ea7d555d916bc101a769b37965b879134fc6ee4d87c"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/houses/snowy_taiga_armorer_1.json"
@@ -1901,7 +1901,7 @@ hash = "0f626264497e6147565d15154f0fab8247165522fe020d0f0b25f998d28ccc85"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1.json"
@@ -2097,7 +2097,7 @@ hash = "0f626264497e6147565d15154f0fab8247165522fe020d0f0b25f998d28ccc85"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/swamp_boat/town_centers/swamp_b_meeting_point_1.json"
-hash = "e4a95cb3ad3e098267c5e5485540b4a54fe1eb309a3d821975306e201ce458b4"
+hash = "87595fdde196733aaedafff735f4baaa902a09c87493767deed5f83edd1174ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/totw_reworked/atlas/structure/start/derelict.json"
@@ -2352,6 +2352,10 @@ hash = "a9fd120fd3ed93e037ceb07282bce1cd46cc51122f2dc43affb44fc3d7724a03"
 [[files]]
 file = "config/spawnanimations.json"
 hash = "045795b5207765d30a488826fa3a4f19d3492bdd68e593f8d89eae21fa3de605"
+
+[[files]]
+file = "config/staminafortweakers.json5"
+hash = "01caaf9269056d8f056bd6af5cb2e7d1494641f43383c0b4b614c618cfde5a78"
 
 [[files]]
 file = "config/surveyor.toml"
@@ -3349,6 +3353,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ad6e29c938eb12fc5db11941ccf2e341636e50f1effcb97f362f6903489b4ac5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
+hash = "194ddd0b0577eb4f46a6fe1364915cf6677a28276499aab7e67da1f95994fd22"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
