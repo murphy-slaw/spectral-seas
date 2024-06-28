@@ -11,3 +11,4 @@ server
 
 # vscode schmutz
 .vscode
+/.idea/

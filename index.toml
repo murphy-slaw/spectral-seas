@@ -394,7 +394,7 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
-hash = "9069590b0563ef0ec1014d9bfc4bdeba884d3decd822be29e8076cf5babe1523"
+hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
 metafile = true
 
 [[files]]
@@ -587,12 +587,12 @@ hash = "597634e8afcfb713d2215b631ccf5b25e53d664706726564bb62b3ffee69cec9"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
-hash = "56f86bed5f63be16537a321ed84d1f734bd5de7db19241ae8c9b635884b293c2"
+hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-12-1-version-1-20-x-zip.pw.toml"
-hash = "c8d5dad2f707f0b4b8bfaa965e6b074620d7ffcd04240e9bdf4408051c52e438"
+hash = "5a298b210487329011db6592ba905a23097c604dbcc3548843b6615b2392dc58"
 metafile = true
 
 [[files]]
@@ -2185,7 +2185,7 @@ hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
 file = "config/paxi/resourcepacks/cleaner-waters.pw.toml"
-hash = "e7386ce31b5a71d395e137289ceef498c4582a61fa61b50027b43c3d4388a42c"
+hash = "fcd6ed09d835a1808c208a84408cb12537c95f5be83a6a87d3ca3ab712f0c608"
 metafile = true
 
 [[files]]
