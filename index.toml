@@ -30,7 +30,7 @@ hash = "a896c32b7a4ea7fd5e72d70d6d1d51cc48df77940dfda80f424d0871479f5b04"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "27e2f3f21c567901a96fafba3665ef04da3bbc88ff0aff5ee5032b6d87ca8b9b"
+hash = "5704532930316c5d18e1cba7bec3ce89d8b52414d3e4282d36194eb514025fb6"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
@@ -623,8 +623,8 @@ hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/towns-and-towers-1-12-1-version-1-20-x-zip.pw.toml"
-hash = "5a298b210487329011db6592ba905a23097c604dbcc3548843b6615b2392dc58"
+file = "config/paxi/datapacks/towns-and-towers.pw.toml"
+hash = "cdae781c0d9bc9a5c9283099d517ea93d0c11d1fb7818712cae2e7016fd39d5f"
 metafile = true
 
 [[files]]
