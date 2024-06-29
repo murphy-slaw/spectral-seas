@@ -30,7 +30,7 @@ hash = "a896c32b7a4ea7fd5e72d70d6d1d51cc48df77940dfda80f424d0871479f5b04"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "5704532930316c5d18e1cba7bec3ce89d8b52414d3e4282d36194eb514025fb6"
+hash = "7bdbe4fe61f3d46b20204b75e94ba3f5a05ef28a65b4a31966ff9eb0084e7c83"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
@@ -50,7 +50,7 @@ hash = "0c89afecfc242756b493012a9747888d8892226e0eddb090035e8337a34c7309"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "984a912146406f235890f7babd3f23d59b5f2a1e7b31ccb44302805f5586df4e"
+hash = "44f261d207e7f9892788ca969184853c46a1ea56ca63778a968dd687ec4c298b"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -2359,7 +2359,7 @@ hash = "01caaf9269056d8f056bd6af5cb2e7d1494641f43383c0b4b614c618cfde5a78"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "a0f5fdd781d189c84c775164bfef44bc238f390b8f5db4b9a3faed577879133e"
+hash = "249c02f87650ac0b4034abbab5f15d7d0bb3bbe651ee5cc30495630e89f1c3ac"
 
 [[files]]
 file = "config/tectonic.json"
