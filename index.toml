@@ -30,7 +30,7 @@ hash = "a896c32b7a4ea7fd5e72d70d6d1d51cc48df77940dfda80f424d0871479f5b04"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "7bdbe4fe61f3d46b20204b75e94ba3f5a05ef28a65b4a31966ff9eb0084e7c83"
+hash = "5b437991f81a8fbdb0c0ea85f30254cd922170e52a305338135e87ed214f448e"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
@@ -430,6 +430,10 @@ hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_river.json"
+hash = "b63082eeade062bb84c49858a458319d13a2033c48bff3f32513b21f289123c7"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_alligator.json"
 hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
 
@@ -623,14 +627,13 @@ hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
+file = "config/paxi/datapacks/towns-and-towers-1-12-1-version-1-20-x.zip"
+hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"
+
+[[files]]
 file = "config/paxi/datapacks/towns-and-towers.pw.toml"
 hash = "cdae781c0d9bc9a5c9283099d517ea93d0c11d1fb7818712cae2e7016fd39d5f"
 metafile = true
-=======
-file = "config/paxi/datapacks/towns-and-towers-1-12-1-version-1-20-x.zip"
-hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"
->>>>>>> 8d2ad18 (Embed towns and towers.)
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -3356,8 +3359,12 @@ hash = "47405f3caf2d4de9383391f5e8b0a20c08e2cfe93316b4b2590d94f18c1cccbe"
 metafile = true
 
 [[files]]
+file = "options.amecsapi.txt"
+hash = "b3ac1e81c335f2dd8962bca7b98c61b62eed79afb716dc3cb7549786b29ef84d"
+
+[[files]]
 file = "options.txt"
-hash = "ad6e29c938eb12fc5db11941ccf2e341636e50f1effcb97f362f6903489b4ac5"
+hash = "bceca71de08333b12c732821ae6f2131422f9b3c8d1c60f9c555a5d89a034518"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
