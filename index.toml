@@ -2880,7 +2880,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "124b3050c2ee5707ecc205ef82cc88462632acbceda7f9db0dd5666ef7161635"
+hash = "ad158013fd103e09cd582dd64454370666d51c777ac311bb49f495e5d41398e0"
 metafile = true
 
 [[files]]
@@ -2955,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+hash = "054822dc9c6699631ee8cecca89586b4cf9094ca076df2df17bee8c2edf6c167"
 metafile = true
 
 [[files]]
@@ -2965,7 +2965,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "bcf8df149b9638d3c616c83f2cf711bfc1db884d92b700434c02a5762af68e7f"
+hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
 metafile = true
 
 [[files]]
@@ -2980,7 +2980,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "425c9f0b28ff03a61402618cedc52cf22456ac9afe9b2c7faa3800e53474764e"
+hash = "9f17a20c117d6e3c86c6863d66dbbc7ac3a40d7be8a6340897b93fb8d47fd986"
 metafile = true
 
 [[files]]
@@ -3015,7 +3015,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "12320dac5b8d60bec5587c8f7a0521cb7a003509220085eb7a8709ce073eec25"
+hash = "c37f47b39ac049bd68c9cf51fdb1fcf6b3c18ffc0c3d7957db00a17256e1b40c"
 metafile = true
 
 [[files]]
@@ -3090,7 +3090,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
+hash = "154ce26b6fdfb21fd15abc1c121e045fcff2231efd7fc9dae63a08bffb2b7aa2"
 metafile = true
 
 [[files]]
@@ -3284,7 +3284,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "426fca3c193968dd537d66c989b196b1a926aa921ea99a7b2933e1025e4a81a5"
+hash = "5fe587a7451d525a055e7f5eb31d17fad16cd2aa12bed335ae1f3a82b65d3e7c"
 metafile = true
 
 [[files]]
@@ -3463,7 +3463,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
