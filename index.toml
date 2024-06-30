@@ -2490,6 +2490,10 @@ file = "kubejs/config/probejs.json"
 hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
 
 [[files]]
+file = "kubejs/config/spawn-control-config.json"
+hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
@@ -3531,7 +3535,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
