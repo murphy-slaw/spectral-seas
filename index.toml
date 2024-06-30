@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/libraries/VanillaTweaks_r336550.xml"
+hash = "90ce81418ba5649bc76c755709f4a915d61c486834397337d7f4bde53c4419bd"
+
+[[files]]
+file = ".idea/libraries/VanillaTweaks_r3365501.xml"
+hash = "48071a9c239e66f2397d991d40981e258989c4d899a01ac7f73a9c74b6a2505f"
+
+[[files]]
+file = ".idea/libraries/datapacks.xml"
+hash = "a6a6ce96e751e821c246afd032f75aaec8d719df4db56f6066f31c0f13a8fa12"
+
+[[files]]
+file = ".idea/libraries/datapacks1.xml"
+hash = "cf1a586ba6d1d1730c93e83c8dabd58be1600d984e5925bdcb3f43a59b18d71b"
+
+[[files]]
+file = ".idea/libraries/fabric_server_mc_1_20_1_loader_0_15_11_launcher_1_0_1.xml"
+hash = "4e3e5ccb9620e791c6c09caf14481d343e70910ea386ca14cff202c47e742881"
+
+[[files]]
+file = ".idea/libraries/mods.xml"
+hash = "48d2034dc12af348c7814312818ac49ae9ab0620685248fe95646367666ddc66"
+
+[[files]]
+file = ".idea/libraries/mods1.xml"
+hash = "d746c625093cfdee8b6e11078d7b86fd2daeaeaa2cc94600d6b3c0990a572cbb"
+
+[[files]]
+file = ".idea/libraries/towns_and_towers__WWOO_tag_Patch.xml"
+hash = "281c10a773bca34444c0b9c7334ba5d4177f964e0b397bce5fef7158f91a8217"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "af730b21d8c19170811b9735140c4da5d5a665e616c4fa141de1af62fd2404ce"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "3ce38ebdb35db3d5d0e6fb897bafe5e6382a6ce8afb035ca72c76d230e529869"
+
+[[files]]
+file = ".idea/spectral-seas.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "75ebd705778b981f48b7c973f9e1617407b1477ea6330abe40d963406856e408"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "92f7f636d709075d067b44e910f33122bfa51f4e674c4b5691dcc9fc7828fcca"
+
+[[files]]
 file = "config/PaginatedAdvancements.json5"
 hash = "105f5d839c10fe6b03c2455a76e0fdc6e617b4f5046dae642fd4ee0502e579d5"
 
@@ -2720,6 +2772,22 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_control/LICENSE.txt"
+hash = "b25b3404983147d4cc2451e0170fce8745204bc1c57371a806006589e4081f3b"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_control/README.md"
+hash = "bf52875164fc6473247393eaa6ea6975008a659781e8067652d776e85e61ee1d"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_control/mob_spawn_control.js"
+hash = "a157603c8affa17658230d53ec6b9c3cd173b134d316da20b0ab8236069c5f91"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_control/spawn-control-config.json"
+hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
