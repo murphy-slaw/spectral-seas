@@ -1,13 +1,13 @@
 name = "Stamina For Tweakers"
-filename = "stamina-for-tweakers-1.2.1+1.20.1.jar"
+filename = "stamina-for-tweakers-1.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AejtfAlC/versions/7Ys1yRSG/stamina-for-tweakers-1.2.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AejtfAlC/versions/d2remcG5/stamina-for-tweakers-1.3.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "17365343817cd181c1d3652660c711d864c490a1"
+hash = "179b3fe24c9e9ffe1a688c094def0002f8ebeac4"
 
 [update]
 [update.modrinth]
 mod-id = "AejtfAlC"
-version = "7Ys1yRSG"
+version = "d2remcG5"
