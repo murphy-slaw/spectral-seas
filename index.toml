@@ -3585,7 +3585,7 @@ metafile = true
 
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
-hash = "1ce7a4d28649249a1e006dbe23305fe585c0ea0e479a48c60dca3760486a4338"
+hash = "dfcc3670bff556635fdfa355c050659537a63a36d884b49a6ec591c8369759b3"
 metafile = true
 
 [[files]]
@@ -3640,7 +3640,7 @@ metafile = true
 
 [[files]]
 file = "mods/unseaworthy.pw.toml"
-hash = "8d5aac2879c0c7da4f9362253b8c4f918a02cb31b897c355f4972242fd4cbee1"
+hash = "62ef21fee01576f39861904f24c1aede9eeaaadec624c5e94953e3b2343cc186"
 metafile = true
 
 [[files]]
