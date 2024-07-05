@@ -2530,10 +2530,6 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "75f5f3ed5ff92ac158222af2aa57a22f81d9e163d87b6d2f0b57ae8851e07f92"
 
@@ -2544,10 +2540,6 @@ hash = "7d197ccebfdc893aea80bf8fe8fbd45773a04c973aa517bed6e225e9b6342671"
 [[files]]
 file = "kubejs/config/probejs.json"
 hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
-
-[[files]]
-file = "kubejs/config/spawn-control-config.json"
-hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -2826,10 +2818,6 @@ file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
-file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
-
-[[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
 
@@ -2854,8 +2842,8 @@ file = "kubejs/server_scripts/tags.js"
 hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+file = "kubejs/startup_scripts/kill_spawns.js"
+hash = "408178d3704751b1fa74aa390ae37e90b17f4ee762db0d3639b6b2d4490db2f4"
 
 [[files]]
 file = "modrinth.index.json"
