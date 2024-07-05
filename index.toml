@@ -2876,7 +2876,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "054706250be62be0d66d66be27ad90a614f5987caa4fa6bf0a597a0239b5544e"
+hash = "ffe3263fb2fdad2b8cd4d6e9aed3f05c2a40334df9d157420af076db8fddb0a0"
 metafile = true
 
 [[files]]
@@ -3001,7 +3001,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "c3438c7fbe24f6782fba8253084841e7ccc99b05a8b43a6e7a03a478e899339f"
+hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
 metafile = true
 
 [[files]]
@@ -3146,7 +3146,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
+hash = "56aeb5414b5b3d368f5ddbac7c0e092820be5e0352db9371ab502a6c6313fd6e"
 metafile = true
 
 [[files]]
@@ -3639,7 +3639,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "a2010d823e94011c28409e15a446c5b5edb745a628f3602b7e3f160c9c165840"
+hash = "e27885c9388b3be1f7b170eb40399ebfe3ac0290dd482902dfb97d092a29a412"
 metafile = true
 
 [[files]]
