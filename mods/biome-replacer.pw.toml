@@ -1,0 +1,13 @@
+name = "Biome Replacer"
+filename = "biome_replacer-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/AWPxi9Uu/biome_replacer-1.2.jar"
+hash-format = "sha1"
+hash = "754080a9f377970bc572e1286e234a363af76a6c"
+
+[update]
+[update.modrinth]
+mod-id = "DAXbR0Wj"
+version = "AWPxi9Uu"

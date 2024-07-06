@@ -2940,6 +2940,11 @@ hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
+metafile = true
+
+[[files]]
 file = "mods/biome-spawn-point.pw.toml"
 hash = "cf93ccf79cd1df83681e08b74019060ed475fe6885c780b21f682143abcd391c"
 metafile = true
@@ -2982,6 +2987,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "678e99cfc3b17830ea7c0438e29d8b3669642e39579c969cec0a9338d9ac9c58"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "867d61eb457fd6a23d79048055f70e7aae0282ef47577c8ada191e8530646ae3"
 metafile = true
 
 [[files]]
@@ -3545,11 +3555,6 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
-metafile = true
-
-[[files]]
-file = "mods/river-redux.pw.toml"
-hash = "1a70896bb235e6772987a46b644798564fd9d964c23b0d477423fdfa22191e2e"
 metafile = true
 
 [[files]]
