@@ -1,13 +1,13 @@
 name = "FabricBetterGrass"
-filename = "FabricBetterGrass-1.0.16+1.20.1.jar"
+filename = "FabricBetterGrass-1.0.17+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/DbMob5Y3/FabricBetterGrass-1.0.16%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/AWuCIzVV/FabricBetterGrass-1.0.17%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "0c8bf3dd628e599fc7144e2c6e5718b1d7c2c2db"
+hash = "cf22d079f4005e177ec7033b2e517364a01cdb19"
 
 [update]
 [update.modrinth]
 mod-id = "m5T5xmUy"
-version = "DbMob5Y3"
+version = "AWuCIzVV"

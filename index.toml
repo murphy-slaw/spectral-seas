@@ -97,6 +97,10 @@ file = "config/balm-common.toml"
 hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "357504489493c0b7962affb4277116664163c21d4b8e922ff23125d936fb61f9"
+
+[[files]]
 file = "config/botania-client.json5"
 hash = "bc87aa4599c3af9bcfe586e46496f0675d87954c72ee07ae8a37b9af4c5cd5a8"
 
@@ -2876,7 +2880,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "ffe3263fb2fdad2b8cd4d6e9aed3f05c2a40334df9d157420af076db8fddb0a0"
+hash = "6987b71f47c2a5e2478f482811421446a6ab8f4f21c21f79f283e04d12e0f734"
 metafile = true
 
 [[files]]
@@ -3156,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "56aeb5414b5b3d368f5ddbac7c0e092820be5e0352db9371ab502a6c6313fd6e"
+hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
 metafile = true
 
 [[files]]
@@ -3644,7 +3648,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "e27885c9388b3be1f7b170eb40399ebfe3ac0290dd482902dfb97d092a29a412"
+hash = "6ec8618351de8f1030b97e18320374735d4137fad2ef71470d3ae2d77aff5469"
 metafile = true
 
 [[files]]
@@ -3751,7 +3755,7 @@ hash = "1a077db8df4d0186bfb618a273569a1146e8f1a10662961177564ed18f01f73c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
 metafile = true
 
 [[files]]
