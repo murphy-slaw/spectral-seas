@@ -3189,21 +3189,6 @@ hash = "f6e1b5a95cb720302c65fe91283b0859275be9f49b44d92921aef49ef71eb61c"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "b652c5d39c9c6438eb493d1142c8f68fe962da39af84750f0fbe3ffb9787f799"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "0d0466f84c1c0f07ef3019f6daefb5b3d6f1918f140ef418934f7425b0d58542"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
@@ -3226,6 +3211,11 @@ metafile = true
 [[files]]
 file = "mods/hang-glider.pw.toml"
 hash = "3eeac129b63a1f4025085b9f9744f721c443a61558d9281f0d9049da3b7252da"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
 metafile = true
 
 [[files]]
