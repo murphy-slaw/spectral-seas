@@ -1,13 +1,13 @@
 name = "Unseaworthy"
-filename = "unseaworthy-1.1.1+1.20.1.jar"
+filename = "unseaworthy-1.1.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/jG7b6nih/unseaworthy-1.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/mlm400Or/unseaworthy-1.1.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "d59250000e9991c93a152600d639d55ce946fce8"
+hash = "0180cd450b6ed8e2ea81f8270295d1c16fe1f0e0"
 
 [update]
 [update.modrinth]
 mod-id = "9OuwP2Qv"
-version = "jG7b6nih"
+version = "mlm400Or"
