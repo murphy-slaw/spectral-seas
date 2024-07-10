@@ -631,7 +631,7 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_amethyst.json"
-hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
+hash = "ef1f80bfd203c3c5bc3c1258c235231d30a5790eb050b647cf1799a05b21a85e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
