@@ -506,6 +506,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/i
 hash = "80e5e9b11113d72522715d229c15de109447f2b011b012ed8a96920556281f55"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
+hash = "34dd07eb63ea02edacfe4c3933cf44c22e34fd6e1a8da5f4e29ea994990a1482"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_alligator.json"
 hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
 
