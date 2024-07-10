@@ -630,6 +630,10 @@ file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_typ
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
+hash = "6a2d66d63820562cf11866872cc237a9eef1fea212bb6df6edcb339c2031680b"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
 hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 
