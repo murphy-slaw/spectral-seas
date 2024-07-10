@@ -2944,6 +2944,11 @@ hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
 metafile = true
 
 [[files]]
+file = "mods/biome-modifier-for-fabric.pw.toml"
+hash = "a4b0211222b09af9c400a54c24747e1b6a7b31e65d6a4fcb88aa8ee8fe2dc5cf"
+metafile = true
+
+[[files]]
 file = "mods/biome-replacer.pw.toml"
 hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
 metafile = true
@@ -3633,7 +3638,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "969843a4dfdb57f0a97e8cf622ab7ac5f07edd485d2b9078588f2b6a5b72df1c"
+hash = "fa835fec4717efc505c3fa78803e8446991efbd3693fcbdc85be0c889c6af52b"
 metafile = true
 
 [[files]]
