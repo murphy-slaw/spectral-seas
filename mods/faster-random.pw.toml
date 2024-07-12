@@ -1,13 +1,13 @@
-filename = 'fasterrandom-4.1.0.jar'
-name = 'Faster Random'
-side = 'both'
+name = "Faster Random"
+filename = "fasterrandom-5.0.1.jar"
+side = "both"
 
 [download]
-hash = 'd4498754672aeb95757213b418749f221197a373740345cfc12cf528d03b71899e9b300bc0fff129b2ebc7aa57e49f6767a9e12f4891bdc8f9411b01d8ec3b8d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/RfFxanNh/versions/I8jy69I9/fasterrandom-4.1.0.jar'
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/39yHBKs1/fasterrandom-5.0.1.jar"
+hash-format = "sha1"
+hash = "221f7c05f18a3e4ef321265750c981f1f71dbcef"
 
+[update]
 [update.modrinth]
-mod-id = 'RfFxanNh'
-version = 'I8jy69I9'
+mod-id = "RfFxanNh"
+version = "39yHBKs1"

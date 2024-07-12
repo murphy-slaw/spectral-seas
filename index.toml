@@ -507,7 +507,7 @@ hash = "80e5e9b11113d72522715d229c15de109447f2b011b012ed8a96920556281f55"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
-hash = "34dd07eb63ea02edacfe4c3933cf44c22e34fd6e1a8da5f4e29ea994990a1482"
+hash = "28ade49dd38ee85d07cbbf99ec4dd7288234dc92eb78df57e200e439fdf6187c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_alligator.json"
@@ -635,7 +635,7 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_amethyst.json"
-hash = "ef1f80bfd203c3c5bc3c1258c235231d30a5790eb050b647cf1799a05b21a85e"
+hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
@@ -3182,7 +3182,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "4053d584bb356871f5885883e129cbcd666933ff982a2c6907edb0dfe26d24f7"
+hash = "3de2fbc894a1e6d832692b2c7d97bb79eb7db2b86e5991ef223721b11a105baa"
 metafile = true
 
 [[files]]
@@ -3595,7 +3595,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
+hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
 metafile = true
 
 [[files]]
@@ -3605,7 +3605,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "1ca961e2a37078ef6fce85c9673efbc8bc6cd545aa01e204eff9c0bcab3799f1"
+hash = "81a183c466fbe38a13c9752f2ed9c2c46058ecafe0242bb1d9e37c1941ccbb91"
 metafile = true
 
 [[files]]
@@ -3620,7 +3620,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "77672c4601a5f2de0ea0d7fb8d64b20b439700155faa5f155795afad0309a351"
+hash = "793a371747b1a7afb1172b1740bdf841c3c8ad858154d07d8d25ff0cf4daea20"
 metafile = true
 
 [[files]]
@@ -3640,7 +3640,7 @@ metafile = true
 
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
-hash = "dfcc3670bff556635fdfa355c050659537a63a36d884b49a6ec591c8369759b3"
+hash = "c1ea9444d4ef80d68dc08fba46db5e0396fd8cf443910ad7e6cf3f4c52b4ef53"
 metafile = true
 
 [[files]]
