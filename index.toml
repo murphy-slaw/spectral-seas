@@ -2834,31 +2834,31 @@ file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
+file = "kubejs/server_scripts_disabled/recipes.js"
 hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_control/LICENSE.txt"
+file = "kubejs/server_scripts_disabled/spawn_control/LICENSE.txt"
 hash = "b25b3404983147d4cc2451e0170fce8745204bc1c57371a806006589e4081f3b"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_control/README.md"
+file = "kubejs/server_scripts_disabled/spawn_control/README.md"
 hash = "bf52875164fc6473247393eaa6ea6975008a659781e8067652d776e85e61ee1d"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_control/mob_spawn_control.js"
+file = "kubejs/server_scripts_disabled/spawn_control/mob_spawn_control.js"
 hash = "a157603c8affa17658230d53ec6b9c3cd173b134d316da20b0ab8236069c5f91"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_control/spawn-control-config.json"
+file = "kubejs/server_scripts_disabled/spawn_control/spawn-control-config.json"
 hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 
 [[files]]
-file = "kubejs/server_scripts/tags.js"
+file = "kubejs/server_scripts_disabled/tags.js"
 hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 
 [[files]]
-file = "kubejs/startup_scripts/kill_spawns.js"
+file = "kubejs/startup_scripts_disabled/kill_spawns.js"
 hash = "408178d3704751b1fa74aa390ae37e90b17f4ee762db0d3639b6b2d4490db2f4"
 
 [[files]]
