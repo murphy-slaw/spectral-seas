@@ -2971,6 +2971,11 @@ hash = "cf93ccf79cd1df83681e08b74019060ed475fe6885c780b21f682143abcd391c"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
