@@ -297,10 +297,6 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
-file = "config/freecam.json5"
-hash = "a2b1625a28435585864150c3686c03cefa8f1957d97051705963237c02bfa336"
-
-[[files]]
 file = "config/fwaystones/config.json5"
 hash = "41920e044510dd93da7f0fd7a6529f0761aaba27f693a242cd8401d4a1c9ae82"
 
@@ -2463,7 +2459,7 @@ hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
 [[files]]
 file = "config/staminafortweakers.json5"
-hash = "01caaf9269056d8f056bd6af5cb2e7d1494641f43383c0b4b614c618cfde5a78"
+hash = "96c6a197821a8dd80f4970b2fed8a74886fbfbc69e196d5d6eb2bf9cf4e2fe95"
 
 [[files]]
 file = "config/surveyor.toml"
@@ -2512,14 +2508,6 @@ hash = "e97f49db29edeeab70b8fa15bc05e04fa7834b36756fa536a8c396da631c5474"
 [[files]]
 file = "config/waila/waila_plugins.json"
 hash = "65570aa0a5a6d0f1afbd1ab6b5eacd7690eca62b9804ace4e180ee2d00ee3104"
-
-[[files]]
-file = "config/walk-jog-run-client.json"
-hash = "d899a63aed140e093a5e1516a378a26a1b344f13e770c1d398366bb28c49ece0"
-
-[[files]]
-file = "config/walk-jog-run.json"
-hash = "51838e65443bc9c28c5200c8360924f2bb1d5892a731b9897075df562688cae7"
 
 [[files]]
 file = "config/yacl.json5"

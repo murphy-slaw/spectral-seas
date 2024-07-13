@@ -1,8 +1,4 @@
 {
-	// Stamina points depleted per attack
-	"depletionPerAttack": 1.0,
-	// Exhaustion slows mining
-	"exhaustionSlowsMining": false,
 	// Percentage of total stamina triggering exhaustion
 	"exhaustedPercentage": 0,
 	// Percentage of total stamina making the player winded
@@ -12,19 +8,27 @@
 	// Stamina points depleted per tick while sprinting.
 	"depletionPerTickSprinting": 1.0,
 	// Stamina points depleted per tick while swimming.
-	"depletionPerTickSwimming": 1.0,
+	"depletionPerTickSwimming": 0.5,
 	// Stamina points depleted per tick while climbing.
 	"depletionPerTickClimbing": 1.0,
 	// Stamina points depleted per jump
 	"depletionPerJump": 4.0,
+	// Stamina points depleted per attack
+	"depletionPerAttack": 1.0,
+	// Stamina points depleted per block broken
+	"depletionPerBlockBroken": 4.0,
+	// Exhaustion slows mining
+	"exhaustionSlowsMining": false,
 	// Can jump while exhausted
 	"canJumpWhileExhausted": true,
 	// Exhaustion causes Darkness
 	"exhaustionBlackout": true,
 	// Exhaustion sounds
 	"exhaustionSounds": true,
+	// Efficiency increases exhaustion
+	"efficiencyExhausts": true,
 	// % of max stamina recovered per tick.
-	"recoveryPerTick": 0.25,
+	"recoveryPerTick": 0.5,
 	// Bonus recovery multiplier for not moving.
 	"recoveryRestBonusMultiplier": 2.0,
 	// Do players recover stamina while walking?
@@ -40,7 +44,9 @@
 	// Do players recover stamina when suffocating?
 	"recoverWhileBreathless": false,
 	// Delay in ticks before starting recovery from exhaustion
-	"recoveryDelayTicks": 60,
+	"recoveryExhaustDelayTicks": 40,
+	// Delay in ticks before starting recovery after depletion
+	"recoveryDelayTicks": 0,
 	// Which formula to use for recovery
 	"formula": "LOGARITHMIC",
 	// HUD vertical alignment
@@ -81,7 +87,7 @@
 		// Long side (pixels)
 		"longSide": 180,
 		// Horizontal offset
-		"offsetY": 2,
+		"offsetY": 1,
 		// Vertical offset
 		"offsetX": 0
 	}

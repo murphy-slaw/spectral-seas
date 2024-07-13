@@ -1,7 +1,0 @@
-{
-  "iconPosition": "BOTTOM_LEFT_CORNER",
-  "showStaminaInIcon": true,
-  "showStaminaInHungerBar": false,
-  "hungerBarStaminaColor": "#4e4e4e",
-  "hungerBarColorState": "STAMINA_DEPLETED"
-}
