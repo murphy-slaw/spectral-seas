@@ -698,6 +698,10 @@ file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/struc
 hash = "b4b76b5295d0114f1dbc3bcb46a12a52961699af3e5185d45a6a3e97ec39287a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
+hash = "97171c4435d7e24a9a329bcbf6864d984b4fd6250872cebf75a610780b56b746"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
 hash = "597634e8afcfb713d2215b631ccf5b25e53d664706726564bb62b3ffee69cec9"
 
@@ -2820,6 +2824,10 @@ hash = "a0db9501b56b2d6d43be4a73be56d95a06232a1b271dd469616181cad5ca4a4d"
 [[files]]
 file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
