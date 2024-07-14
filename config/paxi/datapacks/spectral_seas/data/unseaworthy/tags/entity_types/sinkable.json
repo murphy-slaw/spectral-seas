@@ -1,13 +1,7 @@
 {
     "values": [
-        "ecologics:azalea_boat",
-        "ecologics:coconut_boat",
-        "ecologics:flowering_azalea_boat",
-        "ecologics:walnut_boat",
-        "ecologics:azalea_chest_boat",
-        "ecologics:coconut_chest_boat",
-        "ecologics:flowering_azalea_chest_boat",
-        "ecologics:walnut_chest_boat"
+        "ecologics:boat",
+        "ecologics:chest_boat"
     ],
     "replace": false
   }

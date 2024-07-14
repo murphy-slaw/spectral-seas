@@ -498,10 +498,6 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/s
 hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_river.json"
-hash = "80e5e9b11113d72522715d229c15de109447f2b011b012ed8a96920556281f55"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
 hash = "28ade49dd38ee85d07cbbf99ec4dd7288234dc92eb78df57e200e439fdf6187c"
 
@@ -699,7 +695,7 @@ hash = "b4b76b5295d0114f1dbc3bcb46a12a52961699af3e5185d45a6a3e97ec39287a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
-hash = "97171c4435d7e24a9a329bcbf6864d984b4fd6250872cebf75a610780b56b746"
+hash = "002c3d181fabc09d886e9d219d47689252d341f98d4ace0a0817261d2c1c6012"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
