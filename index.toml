@@ -3661,6 +3661,11 @@ hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
 metafile = true
 
 [[files]]
+file = "mods/through-the-lily-pads-gently.pw.toml"
+hash = "c889d4fcf8bad06d7236df244abf3cc6e3d083e671d1efc026d840fee5f9bbcc"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "726324777b9d14adfd1622ce09d1be5b91678de733f45ce6ab1661b390034761"
 metafile = true
