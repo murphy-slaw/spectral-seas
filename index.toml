@@ -2884,7 +2884,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "4d1a1dab66ca426191de4e1b3657cbeb67982e1c25a3fcc228d48a8674c92792"
+hash = "2bde220bfc185d655c2f12e48a849666064c5ca3b10dd3f7bb1407e823e09ff9"
 metafile = true
 
 [[files]]
@@ -3159,7 +3159,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
+hash = "0b383055cfd727518d0a99f9632c641267714b1a792fb362390f7226f987fb8e"
 metafile = true
 
 [[files]]
@@ -3234,7 +3234,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "4e72b1af60144e4c5ddeace18f881e18848f9e0ca528adbad14024c6272c6cc2"
+hash = "934b9535d9a4c69a7cb7a458a1e3102d6320786f1c0c7c1f8c001a85135a079c"
 metafile = true
 
 [[files]]
@@ -3562,7 +3562,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "9af7ccb5697bd4b9297ea45578295ee6df079f271ca5d079d5d86c9e5c15eef1"
+hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
 metafile = true
 
 [[files]]
@@ -3597,7 +3597,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "793a371747b1a7afb1172b1740bdf841c3c8ad858154d07d8d25ff0cf4daea20"
+hash = "77422c11890a442c3039a8712058b1e46615336e16ed9b156f359dd16a930bc1"
 metafile = true
 
 [[files]]
