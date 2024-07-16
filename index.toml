@@ -197,6 +197,10 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "fa2cd774adc3b660a27a77c4174524990f2b19e3ff65ff94fde11577727a60d3"
 
 [[files]]
+file = "config/fancymenu/assets/325407__shadydave__on-the-seas-extended.ogg"
+hash = "9dc384d29ec04b796073b18243ed54cb3ff691492cf9a5e5206cacc11c277016"
+
+[[files]]
 file = "config/fancymenu/assets/325407__shadydave__on-the-seas-loop.ogg"
 hash = "e5c2387922bc40624fb2471e61ee59a74f38b87cd2f833a60d064ccfdc1c8935"
 
@@ -238,7 +242,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "795b9a81213153b884e4becad8ff5f6ecf83eacddfa0c8ba39eac0af2da77b06"
+hash = "c8b29be804a178f633d8fc3afba08de6bf9f4d61526db84118138fc288e9a82f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

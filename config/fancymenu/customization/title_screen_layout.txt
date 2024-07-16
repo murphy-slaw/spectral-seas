@@ -66,7 +66,7 @@ element {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/325407__shadydave__on-the-seas-loop.ogg
+  audio_instance_0 = [source:local]/config/fancymenu/assets/325407__shadydave__on-the-seas-extended.ogg
   audio_instance_1 = [source:local]/config/fancymenu/assets/antique-atlas.ogg
   audio_instance_2 = [source:local]/config/fancymenu/assets/520193__code_box__a-story-of-the-sea.wav
   audio_instance_3 = [source:local]/config/fancymenu/assets/antique-atlas.ogg
