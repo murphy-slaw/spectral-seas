@@ -241,8 +241,16 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "d3e7d223f0b5028362a172194cade8dbba10c17498d0861e1b701e7708b0708e"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "c8b29be804a178f633d8fc3afba08de6bf9f4d61526db84118138fc288e9a82f"
+hash = "61fa695e844553c389c8e235fbe93922a0904a66f25349970e91c7bb614e6c3b"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "460c18024f0471212882908e3f4d374842469111138a3278c385ab0571d64d2f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -254,7 +262,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e7dea71749e639c20fb56959aef9faf4cb531d257c4817c4c741dbd48a5ae26a"
+hash = "ba09f0a6f6e7bc60f20c2ffd808153260747ab0b9a5fe8b5ec3a4bdd79ba8ee3"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
@@ -285,12 +293,8 @@ file = "config/fancymenu/panoramas/lighthouse/properties.txt"
 hash = "6d04cb8d529e8105f04652541fe4a4b86f22a8a9c00f793ba0f2bbb0808aa643"
 
 [[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
