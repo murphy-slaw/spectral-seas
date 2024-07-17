@@ -146,7 +146,7 @@ hash = "fa2cd774adc3b660a27a77c4174524990f2b19e3ff65ff94fde11577727a60d3"
 
 [[files]]
 file = "config/fancymenu/assets/325407__shadydave__on-the-seas-extended.ogg"
-hash = "9dc384d29ec04b796073b18243ed54cb3ff691492cf9a5e5206cacc11c277016"
+hash = "8fe2c7c1ecf1b5bdfd9f29114151db0102656e6833f103b5389b758639ba01c2"
 
 [[files]]
 file = "config/fancymenu/assets/325407__shadydave__on-the-seas-loop.ogg"
@@ -214,27 +214,27 @@ hash = "ba09f0a6f6e7bc60f20c2ffd808153260747ab0b9a5fe8b5ec3a4bdd79ba8ee3"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
-hash = "976ad4e8148fb22e7f33b2d38ef3a04f6fe0230873b00658927009d7f75ff8fd"
+hash = "8bde3c7cdb771d007b0d172ca032af3ec3440f10c865af8e0dd91dcd4b7a57bf"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_1.png"
-hash = "fde99a7fc090f101396eb4a51a250248f0fcebbd1a5cba4a810317d80734699a"
+hash = "1fc367e40a4517ee09d606aca9cb6369fae17f25f906a0ef091718d958e5aff3"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_2.png"
-hash = "5dbf1e704c0909851bb5d846d2eae947b8b49dcee0684120b9f8258583d43124"
+hash = "f56e3bd54c0de2e8b01cc3daf8975eefbbdeab407f7806deb0bbed3cceebbc78"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_3.png"
-hash = "c67a6ecccfad8627b8dda3a29001ca1e451275d0460215a15fd7ea27c02d07e1"
+hash = "3d7d0f9c9680f7ce55d56d531fa557e4b8fc3fe8bcea19d379fcf4bb9fb4750a"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_4.png"
-hash = "a2c369dfffc6c6a101d76b2f3aae0a031158c8d053d2fcd3ca662c7b574af30c"
+hash = "f4290eb605107cb7e82d31f185cf2155d326fc8ef8fc70b8811c50bf19d9ed2f"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_5.png"
-hash = "dea839b66b8d86463eeb9e38f065fc63da25767ed67e7eb1779e3435c672b242"
+hash = "7b11dbffae18305c2bebfa3fbaaeb13f4ca3e16967f7462131155e451148bc56"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/properties.txt"
@@ -3340,6 +3340,11 @@ metafile = true
 [[files]]
 file = "mods/moon-info.pw.toml"
 hash = "aeebcf2c907eb65ebf3cdd4585e7621f24ac5da8d6112cfbca8962000712d891"
+metafile = true
+
+[[files]]
+file = "mods/moonlit-monoliths.pw.toml"
+hash = "9d99361fe557d1a039c3d64a4b44f19a2289402fe374d11bb0d6a91722f81ba6"
 metafile = true
 
 [[files]]
