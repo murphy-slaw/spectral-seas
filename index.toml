@@ -667,11 +667,6 @@ file = "config/paxi/datapacks/towns-and-towers-1-12-1-version-1-20-x.zip"
 hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"
 
 [[files]]
-file = "config/paxi/datapacks/towns-and-towers.pw.toml"
-hash = "cdae781c0d9bc9a5c9283099d517ea93d0c11d1fb7818712cae2e7016fd39d5f"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
