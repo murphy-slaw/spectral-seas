@@ -201,7 +201,7 @@ vanilla_button {
   button_element_executable_block_identifier = 3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988
   [executable_block:3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988][type:generic] = [executables:]
   backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
+  backgroundhovered = [source:location]spectrum:textures/block/topaz_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = true
@@ -304,11 +304,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988
   [executable_block:ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_copyright_button
@@ -337,7 +339,7 @@ vanilla_button {
   button_element_executable_block_identifier = 2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988
   [executable_block:2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988][type:generic] = [executables:]
   backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
+  backgroundhovered = [source:location]spectrum:textures/block/topaz_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = true
@@ -370,11 +372,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988
   [executable_block:85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_accessibility_button
@@ -402,11 +406,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = ab8356af-3d3c-472b-86a2-94a80b4aeef9-1717964449988
   [executable_block:ab8356af-3d3c-472b-86a2-94a80b4aeef9-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
@@ -436,11 +442,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988
   [executable_block:d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/citrine_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
   instance_identifier = modmenu_titlescreen_mods_button
