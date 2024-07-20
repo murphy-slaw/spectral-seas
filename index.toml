@@ -194,7 +194,7 @@ hash = "d3e7d223f0b5028362a172194cade8dbba10c17498d0861e1b701e7708b0708e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "2504734584d67e63cd00358ba9b2243040e7032b6f6b8d757be15a79831b4b43"
+hash = "4731db9cc48c0e183321b3d9cf796c2bdbb22da001b0769ddb735e96bf6cfd56"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -4678,6 +4678,11 @@ hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
 metafile = true
 
 [[files]]
+file = "mods/boats-on-lilypads.pw.toml"
+hash = "336e07640931f18456fcebe32417f353469ad73abc28b97be5205a256a8ffd3a"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
@@ -5388,11 +5393,6 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
-metafile = true
-
-[[files]]
-file = "mods/through-the-lily-pads-gently.pw.toml"
-hash = "7d8b31bb26ea131ce391671b0cae886a28c535f72799ec81e400beeb87b59c16"
 metafile = true
 
 [[files]]

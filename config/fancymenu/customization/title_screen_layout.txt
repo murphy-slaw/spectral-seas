@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1721144630244
+  last_edited_time = 1721264433816
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:760fbedc-28bf-4a6f-a62f-52a064158500-1721142949244] = [groups:][instances:]
+  [loading_requirement_container_meta:bc040009-4cce-42cd-814c-425255355b00-1721264396296] = [groups:][instances:]
 }
 
 customization {
@@ -35,11 +35,9 @@ customization {
 
 scroll_list_customization {
   preserve_scroll_list_header_footer_aspect_ratio = false
-  scroll_list_header_texture = [source:location]spectrum:textures/block/black_materia.png
-  scroll_list_footer_texture = [source:location]spectrum:textures/block/planed_calcite.png
   render_scroll_list_header_shadow = true
   render_scroll_list_footer_shadow = true
-  show_scroll_list_header_footer_preview_in_editor = true
+  show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = true
   repeat_scroll_list_footer_texture = true
 }
@@ -78,10 +76,10 @@ element {
   sound_source = music
   element_type = audio_v2
   instance_identifier = 8f0dbfc1-5066-42de-b347-187425a4e751-1717964745740
-  appearance_delay = first_time
+  appearance_delay = no_delay
   appearance_delay_seconds = 5.0
   fade_in = true
-  fade_in_speed = 5.0
+  fade_in_speed = 1.0
   anchor_point = bottom-right
   x = -100
   y = -100
@@ -96,7 +94,7 @@ element {
 
 element {
   shape = rectangle
-  color = #C0C0C04F
+  color = #40C0C04F
   element_type = shape
   instance_identifier = 1ba2ba9a-e01c-45f7-a086-ec3cfdea87ba-1717983891696
   appearance_delay = no_delay
@@ -151,11 +149,12 @@ element {
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = 16
-  y = 18
+  anchor_point = element
+  anchor_point_element = 8f0dbfc1-5066-42de-b347-187425a4e751-1717964745740
+  x = 0
+  y = 21
   width = 100
-  height = 100
+  height = 17
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -200,8 +199,8 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = 3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988
-  [executable_block:3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988][type:generic] = [executables:]
+  button_element_executable_block_identifier = 2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988
+  [executable_block:2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988][type:generic] = [executables:]
   backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
   backgroundhovered = [source:location]spectrum:textures/block/topaz_storage_block.png
   restartbackgroundanimations = true
@@ -211,24 +210,92 @@ vanilla_button {
   nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_quit_button
+  instance_identifier = mc_titlescreen_singleplayer_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 14
+  y = -50
+  width = 84
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 07ab0adf-f8c3-4516-a352-0694141b12e9-1717964449988
+  [loading_requirement_container_meta:07ab0adf-f8c3-4516-a352-0694141b12e9-1717964449988] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988
+  [executable_block:d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/citrine_storage_block.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = modmenu_titlescreen_mods_button
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = element
-  anchor_point_element = mc_titlescreen_options_button
+  anchor_point_element = mc_titlescreen_multiplayer_button
   advanced_width = 84
   x = 0
-  y = 26
-  width = 98
+  y = 23
+  width = 50
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 8c1b8dfb-491b-4c23-a87d-2de757ddc2a5-1717964449988
-  [loading_requirement_container_meta:8c1b8dfb-491b-4c23-a87d-2de757ddc2a5-1717964449988] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 53c4fc08-f785-4481-b1ba-6d7782038e9b-1717964449988
+  [loading_requirement_container_meta:53c4fc08-f785-4481-b1ba-6d7782038e9b-1717964449988] = [groups:][instances:]
   is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988
+  [executable_block:85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_accessibility_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 344
+  y = 219
+  width = 20
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 11a375a4-9b23-4d2f-86f2-a9bb5e01f128-1717964449988
+  [loading_requirement_container_meta:11a375a4-9b23-4d2f-86f2-a9bb5e01f128-1717964449988] = [groups:][instances:]
+  is_hidden = true
   automated_button_clicks = 0
   nine_slice_slider_handle = false
   nine_slice_slider_handle_border_x = 5
@@ -304,108 +371,6 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988
-  [executable_block:ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988][type:generic] = [executables:]
-  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = true
-  nine_slice_border_x = 3
-  nine_slice_border_y = 3
-  navigatable = true
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_copyright_button
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = bottom-centered
-  x = -98
-  y = -10
-  width = 196
-  height = 10
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 70611f75-7fb6-4a8a-a6a7-e514b8bc5095-1717964449988
-  [loading_requirement_container_meta:70611f75-7fb6-4a8a-a6a7-e514b8bc5095-1717964449988] = [groups:][instances:]
-  is_hidden = false
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988
-  [executable_block:2a0dc6ff-b9ce-455b-86a3-f72ffd1c8462-1717964449988][type:generic] = [executables:]
-  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/topaz_storage_block.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = true
-  nine_slice_border_x = 3
-  nine_slice_border_y = 3
-  navigatable = true
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_singleplayer_button
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-left
-  x = 14
-  y = -50
-  width = 84
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 07ab0adf-f8c3-4516-a352-0694141b12e9-1717964449988
-  [loading_requirement_container_meta:07ab0adf-f8c3-4516-a352-0694141b12e9-1717964449988] = [groups:][instances:]
-  is_hidden = false
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988
-  [executable_block:85d728a3-918f-4d88-9c88-60e5d73c69dc-1717964449988][type:generic] = [executables:]
-  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = true
-  nine_slice_border_x = 3
-  nine_slice_border_y = 3
-  navigatable = true
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_accessibility_button
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = vanilla
-  x = 344
-  y = 219
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 11a375a4-9b23-4d2f-86f2-a9bb5e01f128-1717964449988
-  [loading_requirement_container_meta:11a375a4-9b23-4d2f-86f2-a9bb5e01f128-1717964449988] = [groups:][instances:]
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
   button_element_executable_block_identifier = ab8356af-3d3c-472b-86a2-94a80b4aeef9-1717964449988
   [executable_block:ab8356af-3d3c-472b-86a2-94a80b4aeef9-1717964449988][type:generic] = [executables:]
   backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
@@ -442,10 +407,10 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988
-  [executable_block:d2924a13-ede2-4fff-9d69-ec397fa158a8-1717964449988][type:generic] = [executables:]
+  button_element_executable_block_identifier = ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988
+  [executable_block:ff71a8a7-79b9-4b4b-86b3-a8378b68a1bd-1717964449988][type:generic] = [executables:]
   backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
-  backgroundhovered = [source:location]spectrum:textures/block/citrine_storage_block.png
+  backgroundhovered = [source:location]spectrum:textures/block/amethyst_storage_block.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = true
@@ -453,23 +418,57 @@ vanilla_button {
   nine_slice_border_y = 3
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = modmenu_titlescreen_mods_button
+  instance_identifier = mc_titlescreen_copyright_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-right
+  x = -184
+  y = -4
+  width = 196
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 70611f75-7fb6-4a8a-a6a7-e514b8bc5095-1717964449988
+  [loading_requirement_container_meta:70611f75-7fb6-4a8a-a6a7-e514b8bc5095-1717964449988] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988
+  [executable_block:3757d8e2-b38f-4aa3-9b75-613c7f46c110-1717964449988][type:generic] = [executables:]
+  backgroundnormal = [source:location]minecraft:textures/block/polished_deepslate.png
+  backgroundhovered = [source:location]spectrum:textures/block/topaz_storage_block.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = true
+  nine_slice_border_x = 3
+  nine_slice_border_y = 3
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_quit_button
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = element
-  anchor_point_element = mc_titlescreen_multiplayer_button
+  anchor_point_element = mc_titlescreen_options_button
   advanced_width = 84
   x = 0
-  y = 23
-  width = 50
+  y = 26
+  width = 98
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 53c4fc08-f785-4481-b1ba-6d7782038e9b-1717964449988
-  [loading_requirement_container_meta:53c4fc08-f785-4481-b1ba-6d7782038e9b-1717964449988] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 8c1b8dfb-491b-4c23-a87d-2de757ddc2a5-1717964449988
+  [loading_requirement_container_meta:8c1b8dfb-491b-4c23-a87d-2de757ddc2a5-1717964449988] = [groups:][instances:]
   is_hidden = false
   automated_button_clicks = 0
   nine_slice_slider_handle = false
@@ -514,7 +513,7 @@ deep_element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = d2a2efeb-2b78-46a5-a67f-331c290c7b4b-1717964449988
   [loading_requirement_container_meta:d2a2efeb-2b78-46a5-a67f-331c290c7b4b-1717964449988] = [groups:][instances:]
-  is_hidden = true
+  is_hidden = false
 }
 
 deep_element {
