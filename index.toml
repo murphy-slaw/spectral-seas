@@ -3344,7 +3344,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "787932140acd5dbc084182b4da0cbcbfd20988f40c7d31bc3890063e9eb5c0bb"
+hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
 metafile = true
 
 [[files]]
@@ -3360,11 +3360,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "5fe587a7451d525a055e7f5eb31d17fad16cd2aa12bed335ae1f3a82b65d3e7c"
-metafile = true
-
-[[files]]
-file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "98a3a628c2b7536e12136f99e0cc9c0b0ccebf7d5673fdec6f8a44c3cc645ec2"
 metafile = true
 
 [[files]]
