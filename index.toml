@@ -349,6 +349,1770 @@ file = "config/paxi/datapack_load_order.json"
 hash = "e732117c8fb313318cdf2a6a5daa80710c74e5a02383c3da4d0df10d61e9b112"
 
 [[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/abandoned.json"
+hash = "3f7537774fdb44d21cf893db5a801d2b73951732ec9298aba09c38e38f463438"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/cart.json"
+hash = "adffc41c0a2085740adffc875c6cd67de726faf8de15edc53b075f9a8686626e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/cartographer_tower.json"
+hash = "4a7058d0633be280d04df5c9a255f2673efa07f9deceed3c9d627e4cbf2553db"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/cathedral_base.json"
+hash = "6c2cb7347f72d64f9ee39eb3e56ab4eb8b878ee1a81837690f5d10ad05a79223"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/cathedral_common.json"
+hash = "e8e91e96ffa401b84e601d18982a9f795fdfc314d9ffe52d967c912ffa7d373c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/cathedral_rare.json"
+hash = "581395efa6bf64e59ce2c4a855470a711db9058e227e9b24ad9ecb715cd9d816"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/crystal.json"
+hash = "3d481aa82df6c9f4f45a525e7050c6828b0e07329e4e802530dab4b94a66a162"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/empty.json"
+hash = "5614fb7e2afdb584476b2b67be8421d8db5b973cb90b9949baf1a6d6cdcd9955"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/floating_islands.json"
+hash = "f16d35b611c9591f8901b62802d8dc66f73246af86c9055674f6cb0579782cef"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/general.json"
+hash = "cbed263e55732b3be7c426a7501b80a0bf5c2481656583306d212b4d28db25fa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_books.json"
+hash = "6288967f99810a14b47c3cfd02fbc5ca323525032bb08cd6c75d8d496ad6c9bc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_common.json"
+hash = "86cb6ad07ace25f1e08266cee70c0e4aa1f86af9bb25d3bbce5b758e4ee50d5f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_desert.json"
+hash = "6f7131cc889d1fe10ecf312def1a5ecd15ce476aadf611febf50aada499ce7b7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_flower.json"
+hash = "849d2d9a1be0c469679c2fa07e22830826fdcd3f81814ba504846715e326b922"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_rare.json"
+hash = "a4bb7eec450074df3d84402c94b9172c1e5787f4ba3d1f1197ea37efd9bc3f0b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/houses_uncommon.json"
+hash = "890e6ff0a19277eea830d873c45bdfea9abac5803e1071fe06fcceb65051a106"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/jungle_tower.json"
+hash = "76efcabc730869eefcede4821c8f074be536ea5af19251899ef086d42de30bf7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/large_carts.json"
+hash = "e6a59b8a05b30e329d3828edd72e8f037719b2607eb39db84dc9793253c38062"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/large_carts_2.json"
+hash = "afbab60e6ffbdd0e0d306b2d5bbe3b4babbdffdd1ac2c5d417e6523154fdf03f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/mushroom_pond.json"
+hash = "e9817dfc901ec6ed71eacb68a08a5bda2088b25db5a924399414c1b27709045b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/loot_tables/swamps.json"
+hash = "f6013c57a7e899e650a71b8f2b3ad357cad35950b261f4714a1ddc554d70b7b8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "43d77904af847338bab9b2d749c97bf51f1d84d060a0388ddbb3c677922a47a1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/beach_biomes.json"
+hash = "1dea35cd7025872a7a212b03670f78354a4518621b8b861f4c9f36e2b0254654"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "2875a400b23db1fb0177e18ff6fd904f442ba713f0750c23e225852cf755a391"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "3a0cd7d6625a7ef3629cc1410c6661e057fe69ab6af7bcc4bf55add515f9ffea"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "8d9d1708361813270463a55e645e394708dadaa42f995976c2f4af46a4151305"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "61647a9ebddaf75bf0b410a7ee400d7ddc8ca4d3c827f78f0ec73bb7f8b66806"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/desert_biomes.json"
+hash = "f276125a17a39289c17d9c3d3fd20d71452897988e1dab4f5465110c08389e09"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "f5a8d6a922b4d45336be03f44affc9584dac54958e2e3fa43be671fb3620987e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "2738873f3e97243525d6846cfd931a90c143cb6bb767a537fed4d4532eb57532"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/jungle_biomes.json"
+hash = "1ed949719965b8aca2c9610c60d8b7e9992f4e1ab53bfa809510352570f76fbd"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "f771a368f872e78bb509e9334068e7a574014212ac4540aa2055863ae8dfc293"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/mountain_biomes.json"
+hash = "b1d5ed55a186b36f090a9daab8dd5d65112771e60140f175ea2447c12c6ade42"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "cdedb4b08f81584e5c70dca7a74df077f60c438333a7f4c4bfb622a028856d47"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/nether_biomes.json"
+hash = "e59f682a50fc591ab39217da8c22e2068186dda093fbe22fd57fac63adfff751"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "530cdb15a16066f25bd4375817677c5ffa4e702b43b13c71516790db29a18be8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "390bde6a7e81de873f01180010ba1f432e8ee200c167301b164e38965897f993"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/ocean_biomes.json"
+hash = "b5b127fe5d8d3442d6063f0545f21f9176bd5c8adba759990425019143ffcc64"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/overworld_biomes.json"
+hash = "e977c64b3c978c7412e2ceecd68b1cb012e14e2c038f1376367314495a0b88ba"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "5b9a2bb71ce3584929c71836fb88b084dac73a535d807cfa68b437a9f3b1a14a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "84bd9497ce2bdde45e6c577bfcd451ea0d4960a0006e7562e2178cb6a1383360"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "0626f792337cba92ed8110a26be56eb9dfb8d8812771620513c6f546bbaabafc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/swampy_biomes.json"
+hash = "f7a01f6d5742bba545d72952bf12c5658e84bb1ed2fc567fe10f1905fa3d2346"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/biome/has_structure/taiga_biomes.json"
+hash = "6f4c15e5f702f217fbe94081fc8d304d86d378eb0f0e0c8689282d08fc3ac428"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/tags/worldgen/structure_set/common_avoid.json"
+hash = "b92cbd4720f0ca0bfa8ca0f08caf1877b9b342fae82b9058c8f5b3fad81f9052"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/blue_to_water.json"
+hash = "9836a8e1d66dc98da66063b0402a8863b07dd698ab9c4077cab8e70b6e2db11c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/cathedral.json"
+hash = "464db2a7c0e30e15bbb91745255492d53edce0bcc5a226a905148ecdbf899965"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/stone_to_diamond.json"
+hash = "a8a0ad6efb3a5fa5fc03c112a75535935e20fbeede768aa67d7591e7caa100fd"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/tuff_to_iron.json"
+hash = "152828de72c90604064867ff370f1040a4c8f943f3f9499c4db51fe10373624e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/tuff_to_ores.json"
+hash = "494dc02eede840e68a59f7e94dc64bec9add25badbafef5c949388c2250c1885"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/processor_list/waterlogging_fix_processor.json"
+hash = "7a439891bb1f35c59f84e23f6e53dd50e882e10ca6150803a08dccce0b7021c8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/beach_bar.json"
+hash = "2c6d8f5ee0a3cfa55214ad40db08bf7645c141c438bd7f729b02b8a6dcfd3f86"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/cartographer_tower.json"
+hash = "78f18af2d8da5899ccbd06be657ae549aa3301d54f97dc3f82399440a7f0d6a7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/carts/cart.json"
+hash = "878c73e1624df3e1cc715605efd409f66439350176a599f2eee7174a4687d00c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/carts/large_cart_1.json"
+hash = "b566dcd4574e5ab88eb479db8d3c42fdbde90082cc4f7d6a6a1df3042892b527"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/carts/large_cart_2.json"
+hash = "15c3cb15e93de493439d7ff689fc7cbe6b7c4e693b177cf16aa87e814beb1369"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/carts/medium_bamboo_cart.json"
+hash = "838837af18f24d017e708b18114b3657c87199874bbf2a499fc38f8eeaf761f8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/cathedral.json"
+hash = "12f6bb05ede5cc51aa9b92908ef6e4beb61a2a4bccc3e2867bb232a9d4d50de3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/crystal.json"
+hash = "a26ebcc38b5778226cc260b855533d7cf7a2bfdf5ed8c411accdd1d06d68337c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/acacia.json"
+hash = "1a04ae5154016e43ab98f9fc6db26b1d215802769f1f8c6234bff00ed033ab06"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/birch.json"
+hash = "f9a96110737dd7eb972f835194d8250e64de67fe02a230da633762e243e343bb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/cherry.json"
+hash = "0a731871abccbe60446c885a0fbbd56a836891d67206a74d92b0e71915a5954d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/dark_oak.json"
+hash = "26a84e89076892cfa7089070fbbf7962ed8b5de5fa47ccdc0bab571899223e72"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/jungle.json"
+hash = "cb72bc8ac62643c6afbe1f311bb71cc6d73b04a31977aadc73b8a57aa9dd0839"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/mangrove.json"
+hash = "5ecc274972c3fd8a07dd76ed8b4dc5fdd82153e8c613be180ba5038e01c5de1c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/oak.json"
+hash = "de6bb05fde5cf54e4b8dc846f644c68d6ae2c627f54dc364149ee02264453f34"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/dead_tree/spruce.json"
+hash = "f52a26065d8d2922f3a98443c12473bb90d0d8b5cb791ac241d55fb61cfea765"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/gallows.json"
+hash = "176e6d3793606c65ff6474115fd09aaa10fa87ed2e4a41fd728e90bdc9c3ed4a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/horse_pen.json"
+hash = "a69da986c9ea434ac49174cc0f327e33c4d5eaa733546c4f8469ec46c7e14cbe"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/azelea_house.json"
+hash = "df5adcaad6226b119ced99bc514febef294c046f45e05e080e8ebcc262fb8278"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/barn.json"
+hash = "bb8377f28663d2c192167233b96cf86495a44f7ab23a2f968e8ffc6bdfc82c7a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/deepslate_house.json"
+hash = "fb58f8862aee06d4e52b5e3ff0dca836990648603ec4fa440db706f65e4b2d0e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/desert_house.json"
+hash = "d9f96c5956d3613959597872306ea5c492cc7257e5d1107f074e224fe72590ae"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/flower_hole.json"
+hash = "318f9aab761e2f1502a59d27c0fb70f519bece3edb7da7d832a4b6235b0c1ea3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/house.json"
+hash = "628719fbd6fe8341341b92bb7a1ee5502827af2273bdc7f3367d39c94c084bfa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/large_floating_island.json"
+hash = "903c739d4c2551e0768f9db17228a2dac3587d308abda23798e48edfd27a5a14"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/large_warped_tower.json"
+hash = "9257615f4e7d3ab2b6c9cdc44ea1cd0808156f4474993dfad51cc1a8763ee465"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/medium_igloo_1.json"
+hash = "37a3390fab25fd7ee518fb06ba20c16f87c23cbda94356f501f1aafe3a6c0ec4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/medium_igloo_2.json"
+hash = "85af40e7069b3d40dae4ccc72ddc7bf2897f31ff8c2472dbac2e48004d8e4487"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/small_igloo.json"
+hash = "f05344aa23e36b09e36613a064fbf3242b78b55b9855a7402f9c54550a6a36c5"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/small_swamp_house.json"
+hash = "4a6a7d7c2ace1797f6a8b6be81de45cd9f02e326f3447334f2ea58bc290ff1ba"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/tall_house.json"
+hash = "9db52e76aeddbd47955bd038f427f120883bd4f179ae0deaf2d17facc68c596d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/houses/warped_house.json"
+hash = "06bde89dca27a2cab51f701f5785a075439583e45365bdd43157d16effd0c055"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/jungle_tower.json"
+hash = "1a012f18e5035a2fa75d813510fe82d43088b5eb0d53d94e7124628cda9b3e05"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/medium_oak_lantern.json"
+hash = "dfc03ae559c38f76b8bfccf0b121ebc2a72e6d8fe0ea82fd70be1f03030ca2e0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_acacia_lantern.json"
+hash = "dc43091bd7b5a70e009c53895c45e08f8aa059a538d3e674eec27976de4d9249"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_bamboo_lantern.json"
+hash = "87664a47a23d6d50b34e2c52be295f22c80625508a6cb8837823c70d618fc533"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_birch_lantern.json"
+hash = "3a22f7ad6b063ccf48b872958007bbdbd402a24a4c8881b250a1a092883e25a8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_campfire_lantern.json"
+hash = "16c0c997d6be56fab3872b1955b74c7879aeb8539a6a579d6d805313ba6ab058"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_cherry_lantern.json"
+hash = "2e3cd319a8aafbd1d6648474823fdafd8557fac069d4a674a8771e98b3961d8a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_dark_oak_lantern.json"
+hash = "2e386a6951a8ab4a304d707f259112433e391d609aad355b6cfb1417b85fd58f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_jungle_lantern.json"
+hash = "eac17958730ccd781c37bb07faef2f0d981ccd7f560a1cbb912970af007e6493"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_mangrove_lantern.json"
+hash = "ab364c226d76f5a7e35ab31d3efa9d7e081632c962ba74071b794769106b96b0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_oak_lantern.json"
+hash = "3800cf54d42e669c5a7c89c97585d221cabc7688c5ffbaf606631439bec1d25d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/lantern/small_spruce_lantern.json"
+hash = "49d3c54418aadd425b720cafcd19b59c5e9ab5007ef8ffd6bf60a2a3dfa6c5c1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/acacia_log_pile.json"
+hash = "1ffb9e80c42467b0def6da3ae9b669ea43d195cf057dc74062d6a3450cb0caf4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/birch_log_pile.json"
+hash = "f7cee4d2f5ff7b667931d5011951982b917cc1074a44826b6517468e710535fa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/dark_oak_log_pile.json"
+hash = "b026b28d7c7ae4577fc376f66eef4625773327f4adcb599c2340ba00f4cb4f16"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/jungle_log_pile.json"
+hash = "9e852928614f7fbfde5d23dff7bbc35ff8cb7d85a5894af77a1ed8cde3d6ac6e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/oak_log_pile.json"
+hash = "db9461221953895fe842167a9e7fb5d350b600761ae9ab994d9ec28497ce089b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/log_pile/spruce_log_pile.json"
+hash = "8b0e0589a5a13cbd3ba3d0612a7e8a435b4be4bc3982d8b7494ecc276859e3e3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/acacia_tree.json"
+hash = "692997c9e5eeb2c6cfd80f52d85a5dd6102d8e2befa179c8d475296a10177041"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/big_oak_tree.json"
+hash = "3ad95d4d565a715e466a454e81e0b50a94aeeaa5d700eac463166261f73a5bbe"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/birch_tree.json"
+hash = "c26bd497b7a48a7415c54a8b8aabf84dc314cf49c5f8a6780dc6fefbce99ff51"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/boulder.json"
+hash = "e81148cf2a971e0ca54a6804b5e0d19ba46ff8fe678dafc0353dc0a1679ec616"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/cherry_tree.json"
+hash = "32dd9c218bf4016397bbbe10c8e6debf6595c5e9db817f30899ffc9c59e2f86e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/dark_oak_tree.json"
+hash = "554a221c24c1af027f4df48ecfb4e87f2a22d0cad9a2a4d61ae1032176c3688a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/floating_islands.json"
+hash = "1c6f33ab4e5f60b6df96d0b3587496ca5de0d389f3169758ce90686ad7200c9b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/jungle_palm_tree.json"
+hash = "209d8b2638cf330074a9ffc42ae1d855b688866eeaa8041a68db5f74e6f18379"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/jungle_tree.json"
+hash = "1f3175dd65e1bd11a6ddb5054fe26947009426f282feb9eb492461cc16fefd08"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/large_mushroom.json"
+hash = "ef768c12a1cbd2142e84b75fcb2d26636686839165c4db1950c1147eb071573d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/mushroom_pond.json"
+hash = "d1c77fa681158785b87b68ea9528eca4dfd31b49b35e1cde430a32576775a8da"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/oak_tree.json"
+hash = "4c4cea1fd4e69fd1fe3afbabadaaf118d3769b0545668699ca062d7f492b3b29"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/paths.json"
+hash = "8d45efc92e9b6bb20512d399f324b33300ac55c02f062193b58290bea62f03f2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/small_oak_pond.json"
+hash = "4877a706ca9d97fc427ee84586bf7405946b4591588f28815504c761e4a90cb7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/spruce_tree.json"
+hash = "edd4c34045942807f9017aa5ee8724384dc29f05bc6ed89b9a85fda58f4af388"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/nature/stone_rock.json"
+hash = "16a2c4cb4549421b1539c867a2b98017906a6073cbcd44ff784f96de80f9c492"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/bee_dome.json"
+hash = "5cca6508312cecfa56b736a9e7bffc7091cb23823a52c49fc68d17234378414f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/bench.json"
+hash = "e53c2815186d02470e1dd7c8ec2844741691735ff8fb8b0a7872c3c18e0a2244"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/campsite.json"
+hash = "e4a763940478728c4edeb67a14b3c3ca01b4d179410f1a2ef5b7e1d3ff24187f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/crimson_enchanting_table.json"
+hash = "d1d4f1c754393d821b5e154e60925c9dcc0a0f5ea4226815a63d283c5a31ed0b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/desert_pump.json"
+hash = "42c05916990e3ed4f5d41f45e68ea9c3b4e5c85df26a4ac9a3194734b8a5d1c7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/duck.json"
+hash = "f9e5d449dacc4b6dde6df54281a70b3e8e59e50d7a723c9e438f696424db6e8f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_1.json"
+hash = "09ab66b81190972e965d45a86be7a209e7d69785b1ef4a93eddc39c9ae93db83"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_2.json"
+hash = "2b15cd8a6c919014221fc74c09521e5e68fc47b5be45c2e39fc5be21fb6dcc79"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_3.json"
+hash = "af60478ed1ddd19bf3c13dfcdb771b43593989a2228376ed7e14a7f2fdc8398c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_4.json"
+hash = "41faea35825f93927b9317a0f43fc3dd5408c0205bda811d2460d368321e8729"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/fire_camp.json"
+hash = "3fe1a830999d8027e246728dcba9ce8d0d46807235cd025a1508cb0ab10fa635"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/fox_hut.json"
+hash = "f9fc476e77e1ec65ef68cd09afdd0633669f93a9c3ec0cd959ce96019d3d208e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/haystack.json"
+hash = "6b6248d7d48eb8722cb4fa664d10ee46d1f2cee7a6ff78665f74890ddd9b6015"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/horse_campsite.json"
+hash = "7f9c64549c46b539a06b3353d54272ad4719104b6a8e96466e42a49a5c9137f4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/lamp_chest.json"
+hash = "8b90ee6c4378b0e515c4ee143154cb1c3ce6001238df21aac6d5d5e8cb4fb6c3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/lecturn_garden.json"
+hash = "57b0b90ab71d55947d9e0826b2e1e4caa8de8f0417bf3213ab212c1657bd788c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/mine_with_campsite.json"
+hash = "1d8f7382dea28e1b6eb8a8b2a48bd3427637689c7621619fdd0e849cb552ac8e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/mushroom_statue.json"
+hash = "72dabc12d583d992c45918ee62f53d5f3b24a2cf42be9434dee80bc7db571f51"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/nether_devil.json"
+hash = "6ac88ca8a93327e5ba6fc1feacdc64e6947fb66b90096c6e36327ea17b9bdd90"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/pile.json"
+hash = "a6a4534a2c094d59794014347238b423b31ee84e1305a393be98eb5212ffb754"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/snowy_dog_hut.json"
+hash = "bd117525aa22dac2d0cd97ed32d7bb42fa40424f7ffd3bc1d98d66f86030fc67"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/snowy_fossil.json"
+hash = "682b96dbbbaf0592abb337ff65667eaca16f8849473327499796e9075525e6db"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/stone_bee.json"
+hash = "637862432ec182c2dbe3d84e58a5af7e60679872d77a71b48d211d6e763fcf69"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/villager_statue.json"
+hash = "d9d29c31b9351afed1fc4b8cdc2b3c60f16b6d6bc7abb5f45ca6c8bb307b8013"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/wheat_grain_bin.json"
+hash = "dc98a518331128b63b257d92498df56e70a544f35d6147fee7a658c5a558a0bc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/windmill.json"
+hash = "00ab24068ad8d03b98d0b448a26f79ed7c258a46a444b71f91fbf62c6429541f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/other_decoration/wooden_wheat_farm.json"
+hash = "afddec8f46aa18a6b47a251e06ba7067adc3fd1202231aff45f617a403cd3147"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/out_house.json"
+hash = "b97de04b58718f92f9a791be140c3149b2141c48a4017be228f820c7fb1175a9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/railway.json"
+hash = "8eec1ba07d31f1f7717b8941fda9fb35f59f60263301f4ddfc6170c20bc43c94"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/castle_ruins.json"
+hash = "68bad88dd14856453f86a0a3a95239c1cff37c7f3ff1ddfb44b8a07303768ee4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/log_ruin.json"
+hash = "c420c665a6141d408f00061b2b49f7ea4fa353c095c54f531fa4259094b10014"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/ruined_beacon.json"
+hash = "3ec991a700548253c29e9be34f4fee3cce527ea9e0729c65649f11434456e303"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/small_ruin.json"
+hash = "e88ae0461ee4562f0f7e773152bcd02aca9ce11ce6fb438fa0058d53e94b51ae"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/statue_ruins.json"
+hash = "f1cdccaa5f0df3d08e6c3fe309843b2239e19feacfb29279f13e4a259f9f8f46"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/stone_pillars.json"
+hash = "ed1740d1509052d1c60b3cc65cdf71c9374640fabd48c174d4baf5408e9b0374"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/ruins/tree_monument.json"
+hash = "6ecfd4e3d3cb83220901a20aa3d4f64a17875b877fe05fa01522d0518d4f80d7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/shed.json"
+hash = "f68edb96c3fe66d2417543455ac6a8b5095f7aa7d1f1c06b7ddc61befababb0a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/small_pillager_tower.json"
+hash = "005d00f18dff560d03d8762de380d49637b1ad1509db8faca2a9a879708202f2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/small_ship.json"
+hash = "f4f3bfc43ea0f0a641261ff2a330b950fc74b686c78167a4da063c2552db96ce"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/stall/blue_stall.json"
+hash = "22edfbb43f9edc1d7bc482ff47d93d044cff9ba0c5919d5dd26274c30351aa62"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/stall/orange_stall.json"
+hash = "ea3ae99430584ca2c525d8c54bf7f550ed8e44934e9c96735789662c993a7896"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/stall/pink_stall.json"
+hash = "36891763d5423ddf49dceded04188b5572f2505d0b0703aa5f43d399c952fedb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/stall/red_stall.json"
+hash = "0c168358111223f91e6beb1109b6503d9a1dc7ae2c0eca4288b2edab4f14ae84"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/stone_fountain.json"
+hash = "f8a26b1aef1edbdd4520a43edf9857a2b8ef08fda2a0f47f120205b0738ef5df"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/sunzi_gate.json"
+hash = "6a15fdc03e2bc638773c7a899c7398670e6454c96da82f984c6e542ac5c1ceda"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/rare_well.json"
+hash = "109726ac87f53d5866af5e6376be86544a9d324753e9b50396e082d10123446f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/small_copper_well.json"
+hash = "2c0cc4bc43c5059f9db0c8217fcb781b763a58d8c07216596096d7a1584298a3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/small_tower_well.json"
+hash = "782de6cc7c6e1f8b23c05105dc34fabc9a6e272f8a5535d4dd324fcb82f0d1ec"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/small_well.json"
+hash = "198db454371b30f513a3c7eba0b47e73b4ad83a7c43583322ae4df24e1d2d138"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/well.json"
+hash = "5f6fd02f92bc29aed97fab504375ee7f1b73387f4a1e618372d9b5a609e7f435"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/acacia_well.json"
+hash = "c6eb59a95cb8d9bd7c36d1936f7c55985538723759db0921b35af0aabb0b5e03"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/birch_well.json"
+hash = "7062bbd77380af3e18f85b24f3bc67dcf979d597aa52d6047dbb237d23f5ef25"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/dark_oak_well.json"
+hash = "deaff9a205fa9bff293c2dde7c054b99534d324eb0f715e79aede9e867f2fb9b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/desert_well.json"
+hash = "d06c3d06e55a62fec583f595a5d04f5e46b5d192ea728564b0ea704716437844"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/end_well.json"
+hash = "dd5de63bdc147b8f1d1b796d1a485f9d778b2a4c7684ed781351011d1854f521"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/jungle_well.json"
+hash = "b019fb2f3b01e5e62117824e054ff932d7116451cabcb33ff53c9e85e81e7027"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/mushroom_well.json"
+hash = "38f41c73eace64070fbe7720defb996163779ce6c25c605dd89a3c9c49e2895d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/nether_well.json"
+hash = "096a634928ea6d0005ca944206c2c82440a20aaaf620de1be65e1c6a60a97d1a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/oak_well.json"
+hash = "70b3b461eb492acc25ecb2dc5ce214f11958f0014486b045a348b1087d7a22b9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/rocky_well.json"
+hash = "e886840704095eddf4bb78917d5f0dbd1a21a19b0138520babbe178e1f4c5c8b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/snowy_well.json"
+hash = "3b4e9f641089badb85938c63818c97776f5b0aff7ff86cf32e8eb20e7333f361"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure/well/wells/spruce_well.json"
+hash = "8f2424b6c7af43bc934add45823242555c36de756f04a7eb3868440f1dd67955"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/beach_bar.json"
+hash = "999740348db25297aa034f01a86bb6b4e361c0c6ca32f84b5a90c9cf03189de3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/cartographer_tower.json"
+hash = "654719387cdc431d0cab6f403f9168a1b4feea3e3a647e6fccba91d7867d2cd2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/carts/cart.json"
+hash = "c3e65ace7225f196b1e2e611e7c11e28fee445ee4368fde4c1eccd01e589aae9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/carts/large_cart_1.json"
+hash = "e45a618f37ade7dbcdbd7aa710777364e0acd52e08d60efcb16d95c51c8f6d11"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/carts/large_cart_2.json"
+hash = "236bbcffc9fe69245ccf2915a95c71cd4770874cda3447f4f4d7c123200c251b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/carts/medium_bamboo_cart.json"
+hash = "03aca52e4ebc4c0de439cfb97c5b913e646267480952f034a461bc80f6b89fcd"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/cathedral.json"
+hash = "a9ac3bd7a3f54790742b9bf04a71082081f373d57c8adf6b811f4228907ee6ac"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/crystal.json"
+hash = "c0b155754825f2e355459f7884dce5653660e15ba9e08fb8c54fec84f02106d4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/acacia.json"
+hash = "ab50abe7afdac82bb576c4c690cd74a154fda54fe11103b85aa1744c0898361c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/birch.json"
+hash = "3d11b259eb27f776b955a0b0f10ee91a8857164a4badfc56441d537a1da5c99d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/cherry.json"
+hash = "441ca75c3efd71f82d2f65e20891f90726db6fbfb31ce1b1ba34754bbcc65a53"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/dark_oak.json"
+hash = "a0aa41f6688112c8b6d87550285455af8931478dd777926109322f2c2b1c9325"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/jungle.json"
+hash = "5537716a158e9098372fada1cf0c83389d29ab7e8fdfc2e03b107175bdb3c311"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/mangrove.json"
+hash = "f95193f7d764345c21c9926dc7abc36757bce67b413a2981bdd60d3f56ed6435"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/oak.json"
+hash = "b77a6c6d5ad74d621edb5d7138f6013d315b8b244f170cd1c0a374240c61ed6a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/dead_tree/spruce.json"
+hash = "512d6305697062e3ec4cd575174aa6b2ce4450d4cf374b6c3d458979b6bc4312"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/gallows.json"
+hash = "75fa8a7f7a99dbf20ddc2a3d1f47a9d8c68b583fe640b7aff97fa46cc3e28ecb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/horse_pen.json"
+hash = "07b3309b31cbeed1e95682f5ec3c2dbf01aa99ae19ec2d324f08cf97538162a3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/azelea_house.json"
+hash = "22db51e6a7244fb7196cb9758b37ed14f0a7be08afe796971f68bafd683fb310"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/barn.json"
+hash = "28d65842875fe82bde4f1adbeab416054b79e72de15597818170345b5caf5468"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/deepslate_house.json"
+hash = "ba2329317cd5a1d13d5f0007d1b171807638d40ce07bb72c6c7f27f00737fb13"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/desert_house.json"
+hash = "22d1dd3bf3f049f9c3e5a1e8e5cc25eb2f79a19c12d25d905a07dad5606421b9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/flower_hole.json"
+hash = "a84d0f6762ff88c34d2a1ff0ee63289de0da0931d20f18b2c2de2417221c56d8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/house.json"
+hash = "1c3d71ed15d054e8adb32724b0bc96b8c1d8ee34b60bd414cecd27501c74f001"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/large_floating_island.json"
+hash = "785076f7534c0d519eb8c59272b848966d1f9047c80c6ae3ed8994e264373fdc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/large_warped_tower.json"
+hash = "b1ba1a9f9ad15c5ddc4cc01b598eaca527a625094b39b1755047f58211f32372"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/medium_igloo_1.json"
+hash = "3b6a295cdea41b45a61ef0ba2ac58b4922b7f8e7ff41e3895033bcada9840a69"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/medium_igloo_2.json"
+hash = "e84230147acb92b85d2cf28de5aba3eb42e8341019181399978ec8107224a9d7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/small_igloo.json"
+hash = "754e18b8a0f847be7ebc7959c0ee7f6cdefba273ceb5f1092d88637124eb412b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/small_swamp_house.json"
+hash = "ed0c3c2379b2376ceb05415128d9e158b1a48b19568007ed13cb32a242ce1ea8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/tall_house.json"
+hash = "39b333e7c385d945f611ad77010540a9f1817f74a2cac6c6590f1b890708788f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/houses/warped_house.json"
+hash = "b8d8f8bc317a42d9b6f5b04ce4cbb9d425e0bca8f521cd3b4072831d3eb80f51"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/jungle_tower.json"
+hash = "1e9d190204138ba0ebf577a8be1d1ff9031d745561bb294ff9f45f92b7b489d6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/medium_oak_lantern.json"
+hash = "9700d642f7e4e53a7eb861a49202218c3d77e682780ef9cb44779a602b3288c1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_acacia_lantern.json"
+hash = "fc61ab5c494214ab161b0fd503bf0b26ca6c42533e8dd8b302f69d21f649030c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_bamboo_lantern.json"
+hash = "79425a9a40fd5b2c7d52dce7651caeae9aceb6cd272bee4cedb2d863fc060797"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_birch_lantern.json"
+hash = "4280b432d4fa3963d8f456698daf1f79370e4fc109cbd53a039b439e1f4f70bf"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_campfire_lantern.json"
+hash = "cd69b6567965855324e0e1d5cdcd93385601fdff4406c183dac297f52710facf"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_cherry_lantern.json"
+hash = "a323299daff04a4f942feff22ab4005c950e7c7db8c42839daec2550a511a725"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_dark_oak_lantern.json"
+hash = "efb7c48f6fb64bc8d8c83d42fc95ac825b22105d88ab9d77de8b6e4e2651ab27"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_jungle_lantern.json"
+hash = "86af9fb3f54a50308ab0aeab48497aea726e5a5101de78d9eaeeed1957b73745"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_mangrove_lantern.json"
+hash = "87bf0fad7f9b1617ea22a2673880bc09a6d06a7365fb22e5ed7e1456f87f2b80"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_oak_lantern.json"
+hash = "30a1e5b7df2e484071662d3e57c27fd1c6fb0bc3890f0a2fb02d6af31006f580"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/lantern/small_spruce_lantern.json"
+hash = "17e6bb24d9c8d646b4d38eafb90b04833d0f9280c87a9dbeccb0e61457f3b367"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/acacia_log_pile.json"
+hash = "29f5590526d9408b628c46a017c41a6fc69d83aaa3421948c51cfeecbd029ee3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/birch_log_pile.json"
+hash = "cac9cdbf7bdf933f062a0a68843b8a9546fbd05c7c57d4e0cc498ad41a7b3eeb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/dark_oak_log_pile.json"
+hash = "cb92fa37894c30f3a588366f623d036edd954a39f73c7e03e51bdfc615e461b1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/jungle_log_pile.json"
+hash = "5cb138c316880bc410212aceef122088411dc3f334caf6d91496e5eba9417d40"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/oak_log_pile.json"
+hash = "815dfa20873a23193a2b887c274584155eb599047174bd7574f342bcf1346d6c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/log_pile/spruce_log_pile.json"
+hash = "5129bdc42af477ce5a761847995f91ebd4755d5dacd9adf885605ed8b7297bda"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/acacia_tree.json"
+hash = "26ea428ea557dded1341881483edf207038aed6a523a8b5cb6dec3f5a2098ff7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/big_oak_tree.json"
+hash = "0e53d37e113ab598fda33199f840b01f942b2ccbd3745b9c4bf3ec75b1d4ad5a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/birch_tree.json"
+hash = "4cef4e7a92b377ccbb46c82d3d8bee20ac45e8724098a394304de9ad3f67703a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/boulder.json"
+hash = "296773efe447079d74aea20f0166bd43773fd4ab4cd1c4c082a05c8e2ae3090d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/cherry_tree.json"
+hash = "66520b9e5b61f5d37be353ff17bf55226bd8d17fac3255306624e1eed587193f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/dark_oak_tree.json"
+hash = "6613a1802bc97aca4af122cbde93a1c9b25d145ea2fa2ed16f0840b0ac43a13e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/floating_islands.json"
+hash = "795df8c5b134b8a7e8f56c9b23e6a8dadff8f3adda8f21ebdf99b96c3f7bef1c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/jungle_palm_tree.json"
+hash = "3048d9d56b791e938a0b4415c8a925f533877ad0b8937558353aec3b867188e6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/jungle_tree.json"
+hash = "376274fb76549b3c1a7393f083538b1389685e80b6e122dfaabca2d75beae5b3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/large_mushroom.json"
+hash = "59ee5b1759d112da3919254a5a0b3cfc67b9663e7635f4eee47640c915a6a41d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/mushroom_pond.json"
+hash = "dbb2563ba1b9b401a18ebc42988baaf277f9df5cf691bf67b1e692c71d9de8b0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/oak_tree.json"
+hash = "a46e46f00ff2b093d46fd3a1a6b99fa47de4353ff54bf469effde8575cad1694"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/paths.json"
+hash = "fe2ad3c1600ad0f200fde6a81d57123a03849cc2ab8d58408be75d6e53f49a3d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/small_oak_pond.json"
+hash = "08f5be83a5d1bd8925659d10aae77e9427f29ce04798f502ecdc9af2e317b2bd"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/spruce_tree.json"
+hash = "a5aa970b0b03e495cc70eeae5430f8d5bf95375a051f3145edf62daa0e1e4c2c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/nature/stone_rock.json"
+hash = "d6f9c05ed8c862ac2a2f04e87d1a5abc36add4d64e174c04e9e8e42fbb30152c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/bee_dome.json"
+hash = "8865a3f0a24c3ed9824cb5bf8d96b087a0ffcc2bad6f97bc7daa4a00143774fc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/bench.json"
+hash = "c54073d987127358ed31f96245bf5de82baef12f0fb0b13536b3c0cdf9604ccc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/campsite.json"
+hash = "dca1aba158adc3aa6ffa079339a59259ab1e5966eb7973e79021d522511d7dbf"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/crimson_enchanting_table.json"
+hash = "0c5507ac51d1822b800adde4bafd356f6a0e72bd9a47a33cb1a0014b101f38df"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/desert_pump.json"
+hash = "d45428b73c8cb2580f666113c8643ae9e8a279d8a81a308c4766ab1632629bc5"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/duck.json"
+hash = "b87d8f6b649a1eeddbe6d249dca79ab8e44905cfdb9d5e351c9ce36152d48603"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_1.json"
+hash = "77e10c6dcf82301867e1b7c9023fda320d54ccbeb62a4906e0c5bfd98080ab91"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_2.json"
+hash = "fa700c7b18e29b354207b9b38f6fd9edc2a11e178e02c1df4e44394f24f8a30d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_3.json"
+hash = "675c3a6ca66df883f6137698f7a0095dabafb2f859f15020b75d97ae5f3487b8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_4.json"
+hash = "b1d51ab7ce69b713b306d2c52c1872283aa815c72860e848fdfa49c53ec0acb0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/fire_camp.json"
+hash = "0ee3a855c18c060a64e1c79ef3187761183c4bba1335296eb72cb8f18e31c34e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/fox_hut.json"
+hash = "3be8acc7b4ee63e7e991fd6b91bf4fd7d224ddb591c54cf1489114c1819b9785"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/haystack.json"
+hash = "607c4f24c81c37d17104a96c5b43330826f6540e01166b01c3ea30514da80240"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/horse_campsite.json"
+hash = "ccfa62e7054242ae2eb70593b4fdaa6b63441bb5653064909c479075c1b893b6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/lamp_chest.json"
+hash = "0ca2cb8b191c0e9199682b47207ed135906c8fbc10ae41ee8393f59b1072fe19"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/lecturn_garden.json"
+hash = "2c00214b1bda2441d08229255b79d02416378f7f705f715f2759c328857fa25f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/mine_with_campsite.json"
+hash = "30514be85de551f326e02f32ea91563c3ef58a116b4b8d42e1678944dca74369"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/mushroom_statue.json"
+hash = "0cdf822115c39a24e3d280cffb1352005b655aadd14314cfab281c02a436fca1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/nether_devil.json"
+hash = "e64424e43b49563c92d43b9d5920967183cb5ca09d494bc88ceb205d338e10f5"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/pile.json"
+hash = "085be1548b2dfa31922dc0bc32be62823571eac15713afe935e6f8b299f203ce"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/snowy_dog_hut.json"
+hash = "87e0b0f971b73f5057af41fca40a032033cf984d873eb3073c45233cffa26d36"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/snowy_fossil.json"
+hash = "38871701db7d35a57f53eb67f73dc87a200a34908a66ec9d783167cbbf160b17"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
+hash = "d7ebe543cedde4be244f528869d31840a1443f342f3308f4dce760cf16e99d96"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/villager_statue.json"
+hash = "07b978015828260b90c292104cd268aac139bd7248634224aa29e49583fb3c91"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/wheat_grain_bin.json"
+hash = "7e8b306fe310018352fd5a8493ff565e9b8fdfed4553f8187654385795fe486f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/windmill.json"
+hash = "f838779fb659c845b80a2cd0b6a51581f42fc61e9d9f2c071f934cfc281eb986"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/other_decoration/wooden_wheat_farm.json"
+hash = "068079609c2924125f9f8cbba96cd411a5a4877bb08dedfd17b08c2085c1a6b7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/out_house.json"
+hash = "a24b9b17b9586831af8283872cab1bf21901d81bba8555feb6dd048835054a16"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/railway.json"
+hash = "d746ad853d1221aeedb9fc26e235b94acd954a46a61d4da337a92861222d445e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/castle_ruins.json"
+hash = "f5bf8f026c79501a21fa74d78cd9abb89656853a481be473e8ffe60e4acb8361"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/log_ruin.json"
+hash = "3a84cd7eee8a0e1e6ab211dd962b8f7da1f33fae961f0e19784e79ad8fca3d4a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/ruined_beacon.json"
+hash = "c4da2f36952f548245b2b2bf2e130f7f8d2615a3fe513a9f0e988253caad87cc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/small_ruin.json"
+hash = "f51c456b0fd9134ccf385ba2720f559cb08b86bd4b437a8ef12f0b5cce3f3d78"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/statue_ruins.json"
+hash = "5f9e2c89135ed2b6e758a7fcc0f50772db6c571ec618085a1abf309ce858ec79"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/stone_pillars.json"
+hash = "1ca01e7d2dc0dab98fe91fab2124ab0b6ef86ca5a9e20e6eab2988cc4c7e85da"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/ruins/tree_monument.json"
+hash = "f0db92c63c00b866ac9ee943924c5933a80b5a4779afa50421c2f012fcd9b6ca"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/shed.json"
+hash = "1dded52ab83006c153098dc017c95d89e6a302cf4ef7cfd046ef5f7bd8f1358b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/small_pillager_tower.json"
+hash = "89aa88c2ef4007bf1ff44d21793a60ba5bf71bee570d1a1412e6bc01c40b1a03"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/small_ship.json"
+hash = "9f3d2b0cc048a2e2d36973af01c628dcda754107c7690606d1f4c23573d273db"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/stall/stalls.json"
+hash = "c1f17224c2e937c1f3b2eff65b867ae1dfff63896c8945d6f322c4d638ec78cf"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/stone_fountain.json"
+hash = "e4ec45bdf4bf25344ca1dcb9a58696747553316b10cc45f5fd4ea0fcba0cdff3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/sunzi_gate.json"
+hash = "3e2436a4adc8cef0530e6cbb40f8a6a2123c2b8b04de699abfe34f885b131759"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/other_wells.json"
+hash = "8df30a8a9bfd3ba2010545f8bdc4be1514a0a1345c04a85e23f5da6f285deffa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/rare_well.json"
+hash = "c1ab2bf3e68048c76163eed06b25dbb3ed8db41fe9f55462d24b07252bff9f8e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/small_tower_well.json"
+hash = "07931fa40b51c2de5a904586830c8d7ad2a3e06bee8c080fc6e3859494b6c588"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/wells/end_well.json"
+hash = "03e5ad1db78fecbafcd66557d26e5f2b190c6a152cf4baabd2e7afef1b7068d3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/wells/mushroom_well.json"
+hash = "83d7bdb0dd277cca92a117213c87b5f564f3d45580f6aafc7f94b92e0e2f0c12"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/structure_set/well/wells/nether_well.json"
+hash = "42b7177b25d7fe0ed8ab894fb14bb3f2cf3353476a9e47934d5d2680dcf8bb57"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cartographer_tower/temp.json"
+hash = "3c09075be6832b25e65f9f2372bf3bf28b7ac53850aae02825fb7c8940de8f14"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cartographer_tower/top.json"
+hash = "4d96f5b9def8acad6495eef7f68707d618a84fca424844bb0b06b848454accd4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/carts/cart/start_pool.json"
+hash = "c0aa4e021d3b39a6c02d4929bab66109a4c39134a0b403596051e0d157139672"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/carts/large_cart_1/start_pool.json"
+hash = "286a47b9b4524002978c3318d47a7af5687eeeac0cd89c5653d69f9388027725"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/carts/large_cart_2/start_pool.json"
+hash = "2370ca2386262c413e3d6efde81d2d608aaba20a0d233d3c9c0ff1ae9431d1b3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/carts/medium_bamboo_cart/start_pool.json"
+hash = "c3e0e7ca47b5fe714036684ffda24c801dd3bfd950ee0c5f3f6b5ebfc5268fbb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cathedral/any.json"
+hash = "df613a92af9616d0a4369d2dd0287d833d1ad64589266a9d15571be84112a754"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cathedral/blocker.json"
+hash = "654f9f0dd1ace58fac2e8249aab9b9ae4411b5a068cdbac9137ee9b295055fb0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cathedral/start/base_2.json"
+hash = "aa991da2cc6bc944d195ed58256bb8b519b0a881ee326a75dc4edeb3f6d8dd0f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cathedral/start_corridors.json"
+hash = "6f08ea3146493b6f4e9a4ee6d7f42839dbc77006147784297405ee03e738ad15"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/cathedral/temp.json"
+hash = "6ab87a486796d10854463c76d8abb0c350dbeb0d70ab7e89e70c5eeaaacaa24b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/crystal/lower.json"
+hash = "936aebe896e8957bf29dd8080a981b2da5d8130993d891620d1481d689c1f90f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/crystal/temp.json"
+hash = "c59d77f5e37fbc46f8ae0159eafd7b577d69f4de20859f20854e444d3f70ced9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/acacia.json"
+hash = "2fa208494437bdfc9ab946dfbc50a277b1b50ccc21b016ad61abc054b5eb5b7e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/birch.json"
+hash = "ba4fa7d9735f5465ff19107a653bc388ff2e68d81e89782eb190ec61e9c16eb5"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/cherry.json"
+hash = "c2871accd8f938b464bf321e87dec786ec7c0dbdd1d093fc28b61d9e25f9a06d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/dark_oak.json"
+hash = "d002d15401301c80819c0e529ed96fc494494ef5998b8546500d3f93fcc1980c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/jungle.json"
+hash = "352f36a0bf8e235ede3653cde9df200e963d63d6a916aa529774574b64482235"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/mangrove.json"
+hash = "c98055e748805efdf364c3e7a6f14d9eee01dd35aeb901638f8c098e03d2af1f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/oak.json"
+hash = "2b2e342e1f99efc8f34109ce70e7b2a975dc06a094d0cfb7ce8e4be482fb71a2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/dead_tree/spruce.json"
+hash = "72a08788417fe9e2683fb6926aec17154628b02678168851202e4ba5182fdfb1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/azelea_house/start_pool.json"
+hash = "e919c0c9181451632ab0c547abfb70fd3fd9e1e215dffc61c09d7ba3164bd9ab"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/barn/example_side_pool.json"
+hash = "0ec14fde4f6ab2585806e579002292b05b3b18d438bdb76f6b004c7869b4f304"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/barn/start_pool.json"
+hash = "25443deec2d028cb9c04467b3569bfa54b5fd86301a9b41c78e94a391259c60e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/deepslate_house/start_pool.json"
+hash = "f6b11e099e0299a48e0f154452912a092a37d6e520220082b96a1143fe8ec542"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/desert_house/start_pool.json"
+hash = "aed4622b3951f446ac2f488f77776ac44e1912c230a1714a415ef76fd794ad23"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/flower_hole/start_pool.json"
+hash = "3dd5ec8171c04bfa843b2775f8377c178e51417cfd56a01c9b299633a69f27a2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/house/start_pool.json"
+hash = "71dbeaea8b9a9283dcd83d928030ae00de44eb7f15f5cf375f3c0b30a42e231d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/large_floating_island/start_pool.json"
+hash = "a4bd61552d3d3c992dd22819caf02ce9c4e4ec1a8070a72e8f4063895582dd74"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/large_warped_tower/side_pool.json"
+hash = "15c01ce2bd562dfb02135f0fe7052d626123addf29a65f0d96d5b378c814cf3f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/large_warped_tower/start_pool.json"
+hash = "f1f9d680b74f63dffd694b148227f559b6ed77408fb78742bca91d759e62b579"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/medium_igloo_1/start_pool.json"
+hash = "bcc3ae7a9b4cdeea8ca8dda6f0ba3b37cb29e5f47d5735c7c58468453158670f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/medium_igloo_2/side_pool.json"
+hash = "74c6e37d81c72630e6bc85431f4ddaf5a3cab7e7796316e336c978cc357becff"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/medium_igloo_2/start_pool.json"
+hash = "4e02e89ed4f3b4cc20a60421ba6b241d76c730a3d437a627870b0f45d4f7adaa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/small_igloo/side_pool.json"
+hash = "620435008045bf4e6a6f2629d831f5dc012af6345c3cbaeb0c6cb3feb07d00f1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/small_igloo/start_pool.json"
+hash = "eef82d9ed7be52ae644941093bd8435f116c66212f1f780365fddf5576dda5c2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/small_swamp_house/start_pool.json"
+hash = "781f948dc5289cc229631f124bfa8e8283d903474d4807364fe8462a12df0671"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/tall_house/start_pool.json"
+hash = "dea1faeba92de93c0e3a3b002d02100bf73e7e4ada1700b6d14d07d0a0c97e93"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/houses/warped_house/start_pool.json"
+hash = "7da82d1cb40a0ba9b529b9c31d833fa39cfcc578dabc5617049dc0858569632d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/jungle_tower/bottom.json"
+hash = "b1b586565d8937c5fc49fae8df8572ee956f39f997dfc6969364f0ec3a4548eb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/jungle_tower/temp.json"
+hash = "d174c5f9b33e734b32e2ba4febab493dce56d08121a3bc612cd21f5f35297c1b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/jungle_tower/top.json"
+hash = "87b4def7ed66ca3f9b235a0622589b0991a189181541c0196ca5cea0c68b9441"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/medium_oak_lantern.json"
+hash = "db37e3c4e889a6c1f18db03348a197d6e37582df999d2c54cfcb86a2ce718722"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_acacia_lantern.json"
+hash = "58fa834faab4691888bf77626f4cd10a20e06c42ed01c3d740d1c92ae1d0ca51"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_bamboo_lantern.json"
+hash = "d319bd927c6ee515a02d1b0575494a2aa26621963b1f29cd8aa403e274df0946"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_birch_lantern.json"
+hash = "4fac2348bafc93b20b0f4651d60993d6fb2217a357f12baeee078a272797d15a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_campfire_lantern.json"
+hash = "67f6c1d360004ed02de8a489e6b4220d3effb5a87367d4ce6bb7ebb49a97c085"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_cherry_lantern.json"
+hash = "3065b2cc3deb5b4d2a83da76ba71979c9cd0be0b3f40df2e78dd09b3d2d7c17c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_dark_oak_lantern.json"
+hash = "441dd3683054fe4481be63f8bf9d0eb0c2b2fe0cb8292bb8d4c7c02bb004454d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_jungle_lantern.json"
+hash = "435e1b751c2a88c65a0b026c7ba4f0560c293632a20e9e51d76d34a2e384656a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_mangrove_lantern.json"
+hash = "5c27e3bad362d204776f6f7e2310c3168e28d6a92ad9b6f614c83aa1b7bfc537"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_oak_lantern.json"
+hash = "7b112723bff79c86090f71a6b0ac1ad39fd64e9c74a5611c1bd4b80c3791239f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/lantern/small_spruce_lantern.json"
+hash = "26db75e406716deeeda8035013551aeec71d6a600bccf64e0fc18c18d3901db6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/acacia_log_pile/start_pool.json"
+hash = "a15d725cc2f1f7128f1ec1c66394469b78eef1f9e2ae98662c64731f474cf182"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/birch_log_pile/start_pool.json"
+hash = "c57cfd7d172cb898d8dd1d16c6c923647fd94de39140cd6af5c987abcb1944ae"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/dark_oak_log_pile/start_pool.json"
+hash = "2cab95e7975db57ca6f3c968fc35b373aa033735549c82fe02a6a7650d4ed26b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/jungle_log_pile/start_pool.json"
+hash = "8cc6be0972541b7085061067d9bcc586d70060fc3dbd05fd5da5791fcb3cf54d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/oak_log_pile/start_pool.json"
+hash = "74449516f06c2f93b94834e4d7072b2a208949e2ab4d71d2663624f4727b793f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/log_pile/spruce_log_pile/start_pool.json"
+hash = "dc43bda0ba0b3926a1cc2a0100152f624ab294874f407a3e56b6e93a58b52980"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/acacia_tree.json"
+hash = "14d7eb4b9c07bf79ecd88277596d03f84f6dcc58cb06eccdcff1a8d1c0fd8f78"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/big_oak_tree/start_pool.json"
+hash = "999a1a55867d67e30d98d15eac5699cf0bb47c5933a336b860dda40519b96570"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/birch_tree.json"
+hash = "6a36429e0315a412fcd9217b7242ecb7a9901131b779c2243c89abd155963b75"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/boulder/start_pool.json"
+hash = "80b10db44d9917c25b2b82bbac3d289c09daeb3e2e0e64be0cd1c5d3773f31bc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/cherry_tree.json"
+hash = "61a26488757d05a5b4d181ba625e1c91b87413c932a925ff44505ed985b2ebe1"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/dark_oak_tree.json"
+hash = "4812464889a98494e0ccdc48fcf3c7c16c2b98f02151e8142f98c7fefe7b34ee"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/floating_islands.json"
+hash = "77936fc76e70ab691f7d6fde506bbe1804a6bec25c0ef69c9fe779b4151a3907"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/jungle_palm_tree.json"
+hash = "43b4e52652c5c77f90fd2e7f53fa758cd4bd5c24ccd88919b0ef110c282cb9df"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/jungle_tree.json"
+hash = "3c038378fb72dfeb5c325a9977031ffdf59a65550d6cdbc7ea31dafadae7f735"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/large_mushroom/start_pool.json"
+hash = "2cf67133fc5257c7f8ec5990beda3a8d054d02b294466ffa937363f7205386b8"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/mushroom_pond/side_pool.json"
+hash = "de94b9e87a1bb90c9cc7b757f3eb003486c14c427244281a7e8f424263c1be8c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/mushroom_pond/start_pool.json"
+hash = "47258001dcd85cb81b6e90fcdf7e57787854c16a23cfa3b4eb10c2eae98d5f21"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/oak_tree.json"
+hash = "91e6bb093b147431022f3b7d2c0a9d90a8c45b3670581a10753d51b192f4243b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/paths.json"
+hash = "743a977c0a730c13fe79bab7ddd9de9ef0eaa74184155af789f7c10665291129"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/small_oak_pond/side_pool.json"
+hash = "2ba035449803252fa6e7d85a895891f495959901192bf61336982c82a94199bc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/small_oak_pond/start_pool.json"
+hash = "b9dd586192521d1d114607d2bdba89faa6404b71003692c9aa816099e6609b36"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/spruce_tree.json"
+hash = "f9567fbb2840dbc6152238067a04663f6b11242fceab478f0f3bd8d39e789bad"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/nature/stone_rock.json"
+hash = "f87bdfdb187223e1d472d49bb0e17f69d8c3e1ce4a3b55e5e655d4bf7613dd0d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/beach_bar/start_pool.json"
+hash = "dddbb194c45989acdc0413337d2e4a260a239631e9dae5ae02ac9745cc126907"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/gallows/start_pool.json"
+hash = "7a1f0237a698b24e78c5cbd5eedb06f963d1b80f605c3bf6d70176fb74248be7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/horse_pen/start_pool.json"
+hash = "907f1c5dc0c1247c6f09d059cf307c1a79a172ad9291bf90f9aa55e0c781ffcf"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/railway/start_pool.json"
+hash = "c029c2389036d5367213ba7e0459765e5b4549a60995ee5c262d20e2cb248794"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/shed/start_pool.json"
+hash = "cf65a497589dbd7f92a59af12d15d71c21f96c28e2de14a867abb3d36084dc67"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/small_pillager_tower/start_pool.json"
+hash = "2fc6a815fc7dd55a03e699029a335128696eb34b874c9099efc217775795b780"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/small_ship/start_pool.json"
+hash = "476872d058b99e2a25fb862f0be06b48cef43d9f2031762a80941e6a7f37504d"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other/sunzi_gate/start_pool.json"
+hash = "70a72b80aa6f9119202ba816bac4059b7b5276342d751b46a216d54fa0299c10"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/bee_dome/start_pool.json"
+hash = "a1ddb7dc3fb4266f1ce539e9df3f26e8f71a400749dfa173f1fc28fec3990e85"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/bench.json"
+hash = "44edf2519ce6fffc0b8c737b93f5000b6b9d2d6561ba368b479939240a51cffa"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/campsite/start_pool.json"
+hash = "cd23476a4da1857a36fb2b646c044a9166299430e3a93708801f6444e84b4988"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/crimson_enchanting_table/start_pool.json"
+hash = "c951a1dd90b4d2cbe1e4780f469bd99ef60d7ac174a762b688c1f2310196d8eb"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/desert_pump/start_pool.json"
+hash = "8adc0ec9893340e27f20cd2279023b4bd5e4a48e84aae6d4a7451a0c10670b91"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/duck/start_pool.json"
+hash = "d5691cdad9aa8ef2020b11f81fddbe181282526aa77fdead10e2b0fe49416565"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/end_scraps/end_scraps_1/start_pool.json"
+hash = "e535fc24a091f9f80ff22d606b71384b41b2c83d13148f044df954a7af0e9c35"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/end_scraps/end_scraps_2/start_pool.json"
+hash = "c960d99822480fbc7d6de6efa5daabffaef2408c6e6dc8d67dfe29d23da4be2f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/end_scraps/end_scraps_3/start_pool.json"
+hash = "c5249d8f02b120ae6d6b2f6ca4a0591acdc2534de5347295ce784d9e96bbce6e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/end_scraps/end_scraps_4/start_pool.json"
+hash = "d1ec81d158c5aacc98011035dda394b471dbe17a235bfe0adaa26d6842323eb9"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/fire_camp/start_pool.json"
+hash = "16cad650bbe985268a05e82403a74a879268a3151bfbee1bd3248f8a8141d877"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/fox_hut/start_pool.json"
+hash = "884865ad9fe96be819d90993ce5b1ac07553cd17daef651537b4611166547fde"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/haystack.json"
+hash = "c7414f341039c86cb19a7a9b17a55a927e22eae4560d5413fbcd1918e20af05f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/horse_campsite.json"
+hash = "453c34148aef7b11f893dbcda64ae5b3f7d73fc9bdbc8537aa0fff098c7ddd74"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/lamp_chest/start_pool.json"
+hash = "2f7edc3937d576d824a986c72ff62bf4d63d2ab73a36fe780f5bfd516b1963cd"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/lecturn_garden/start_pool.json"
+hash = "26f1778230904d7032c9a7647e2800e49ce8f9a12639174a4ebb4763af5b2a86"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/mine_with_campsite/side_pool.json"
+hash = "74590d121dbb38fbdba4ea5078edc5bad0140718dec653c038550d3571b1a237"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/mine_with_campsite/start_pool.json"
+hash = "25f299de7213c00580de0b4a03ef0ed6cbc172051c414430743044ec143084bc"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/mushroom_statue/start_pool.json"
+hash = "0f7eb5de33f50ac709ca69547c5836d29f94f643d2fea8b7ec2d1c95167e0cb7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/nether_devil/start_pool.json"
+hash = "58887dacd0445cee50543eb9988867e5d4e91d294722f71a9ed5a9e3540443e3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/pile.json"
+hash = "077fb6d952530eaa5f61db435820694bbf03ba9cb3d2b1488d372c91face8704"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/snowy_dog_hut.json"
+hash = "49cfa006c51017908bd84687abb38dcafc0995bcac9caf08adebf56ccaa0cc06"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/snowy_fossil.json"
+hash = "e44ac54891cb0d2e1a0955c59a2166475e57b0f78b52ec86ca7718fcbc3c9aab"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/stone_bee/start_pool.json"
+hash = "12381c5056a206c2cfd97336bb9b454dd94c921fa08df2a358b26ddc170ffbc4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/villager_statue/start_pool.json"
+hash = "c06df4492f4eb606b6ecd170c1cb25287f8e820aeabdff9e626f47a3ce78af04"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/wheat_grain_bin.json"
+hash = "8e6d6d3a1ae5e98ce6e6a25d8a911fe606509c5bc5062077d6e8e6467d254069"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/windmill.json"
+hash = "121290bfe388e236cdfc007e8569e806f397bf1a76ff3a1e423d99453e3b920b"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/other_decoration/wooden_wheat_farm.json"
+hash = "faba2b4418fcff82f5f1e9372c9969c8c03b60e3000baa409f787f55f7493a3e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/out_house/side_pool.json"
+hash = "b30af186865b48e0694d75fe5dcd2e0f8fcdbdf4a6bd3251c4e7f2b1fa230f36"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/out_house/start_pool.json"
+hash = "e9c4fdc62557bc62794e828423b3004e1835e6c5623d394ef44bf7aa07882f98"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/castle_ruins/start_pool.json"
+hash = "ea1cdeb4a5f9dbb05e7aa28ee40ce7f8e8f86dce7f673b3e4e8b8104af1b4a9a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/log_ruin/start_pool.json"
+hash = "cecbd51584dc41e21d5bc0acc5e153f8fcf632deeeda9e0bf5b6b4d5162a74c6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/ruined_beacon/start_pool.json"
+hash = "2c6826e9bb91d384a3737b61282ca192021861a82e2e86e9a1dc51f079ea7f2a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/small_ruin/start_pool.json"
+hash = "6c67d66ca64e5c3bb43a1c662c9608bca45a22b05ac9eade6dc52e98953e1831"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/statue_ruins/start_pool.json"
+hash = "4c69269c938a5da652db907bae70c4a42914ddc227653a9d9e67762b9e104ae2"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/stone_pillars/start_pool.json"
+hash = "486ace4b021bc8601b01d5e96c1a9c1f7ce2760a260560370424eb05fd55f2ba"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/ruins/tree_monument/start_pool.json"
+hash = "2db61a92fd68fd7e65285075cc62fb0d4f0ad3a6002d380f1c95bd9d6ee70f42"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/stall/blue_stall/start_pool.json"
+hash = "e64bc93bfc0927a536fe1e97095f5a20f00d8a5da6ea8ea2fcb7137354886625"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/stall/orange_stall/start_pool.json"
+hash = "2513cd5d7b2b86d11010af9e8e293e89b24f293100b96047cb8815f36069aec6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/stall/pink_stall/start_pool.json"
+hash = "994bbc291f2d6781e00ae1300abdd5a7e27c6f3bbfda984bced0c8132939d4b7"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/stall/red_stall/start_pool.json"
+hash = "d9c78a41cca70134592a7a9348ce96c62cca7745988a49c7b20a5e6c391888f0"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/stone_fountain/start_pool.json"
+hash = "b9a035ad52c404724e7757a0be3ce5a323fa9564d9d9c96008707798b8a66d2f"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/rare_well/side_pool.json"
+hash = "4a409d7241ee6fda2bfe0367f6bd0fa8bce41dd6992bea218f6d93d3447bd675"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/rare_well/start_pool.json"
+hash = "857f22e7dcce91f722e714f259a844b4aa917ca2e789ea1f3b6da262e1b09434"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/small_copper_well/start_pool.json"
+hash = "5518ea494523cdb220dc845fdb3b9a0354c5e723877783930c36dc19014f4fba"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/small_tower_well.json"
+hash = "8f081c125f49506f3cba0b1a365ce4184a88e8b4188fcf7a44071ce557db2eac"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/small_well/start_pool.json"
+hash = "edea08470a0c21a2d0915ad1e9a96c442c5d10b922d8200ee29a7a22696ce37c"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/well/side_pool.json"
+hash = "890295961449a208c2a0e5a37833aa11d7cea5e54d439380eb9557655b476087"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/well/start_pool.json"
+hash = "7760a50921adba5f1db12f2e376b7be55fdcd3fd4c94926a047308299cc54268"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/acacia_well/start_pool.json"
+hash = "04ba192d6ac76f6af38e50198d653cf802284da1454ed07577fae823e57a4b61"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/birch_well/start_pool.json"
+hash = "4211728b6427accb19b8fee6ad06ace8e83fe58470086f0902c7f38c8637ecf5"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/dark_oak_well/start_pool.json"
+hash = "65e1d3ab8b8d64e4047d840dea9baff9b6dfb5b86264b358befa90de2adebd75"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/desert_well/start_pool.json"
+hash = "45ba2ebacef88f4e413d47c8e05bd8863849b2e07523dddb91d4928b992c1e2a"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/end_well/start_pool.json"
+hash = "dffac4c638aba91e63ae7fdcff449994994cea906cc95bd8c094541948f9e497"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/jungle_well/start_pool.json"
+hash = "bc01e4b852193761655ae81c133e1b24bafc88a980d12ab5b6105e00e02de53e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/mushroom_well/start_pool.json"
+hash = "9e994a24b8c1e65a62c8777d9f26bf3b669a73061d766b82d1ab25d278e51040"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/nether_well/start_pool.json"
+hash = "576822b38e99dca7d69af358c164573da3fff7c07225cf412280948f23595d18"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/oak_well/start_pool.json"
+hash = "e77053a2f9abd75d0e816aeb55180a2c3b40add6f0ee793b134bd98a37dff1c6"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/rocky_well/start_pool.json"
+hash = "e5038291c3cc725a81b94da0ff388a04f5d2afb0e599f1bdace3e7dee9f3a0a3"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/snowy_well/start_pool.json"
+hash = "ab854130a40bedf5cacc3c183279531ddfae62c25266f44556e447019556fa2e"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/data/mvs/worldgen/template_pool/well/wells/spruce_well/start_pool.json"
+hash = "dc6354458027ed4787337546cea4b0946ba2b7b9a5cffce286db74fd821a6854"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/icon.png"
+hash = "369369ccd07c12234a549a91f8259fb6b3ae13d693fe0593a06532a2b1b5b2d4"
+
+[[files]]
+file = "config/paxi/datapacks/MVS-ConfigPack-1.19+/pack.mcmeta"
+hash = "5e549f724df9aac44c6911e056470bd983e73372bd103637d4ec4bf6b9a269dd"
+
+[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
