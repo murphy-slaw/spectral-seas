@@ -4623,6 +4623,11 @@ hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "6174dfa53ed132e0fb307f0fa937c2753597f7ed6043bc8486ff12743255a74f"
 metafile = true
