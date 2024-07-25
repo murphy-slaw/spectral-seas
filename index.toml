@@ -4618,6 +4618,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/arrp.pw.toml"
+hash = "9455cd5f0d679e9b4640bd8d963925825850ef5d15b4af928bacd1c7d8daa0cd"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
@@ -4655,6 +4660,11 @@ metafile = true
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "b0815f3c64d78d999dd36f00ebf22dfb4dd591f762e009f6c12848c558b014b6"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
 metafile = true
 
 [[files]]
@@ -5082,6 +5092,11 @@ file = "mods/mc-249136-0.1.0.jar"
 hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
 
 [[files]]
+file = "mods/medievalweapons.pw.toml"
+hash = "fa0b66d07831cc7002f68ccfc171aa4fc5467e793ed64a5aff9ea407aab49965"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
@@ -5209,6 +5224,11 @@ metafile = true
 [[files]]
 file = "mods/pesky_seagulls-1.2.0.jar"
 hash = "fdfa9f580bc7941d91b9c7e37513840cdc6a0322f02e99899f442b6a2756f507"
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
