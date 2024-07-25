@@ -3,3 +3,4 @@ server
 .idea
 .gitmodules
 *.aup3*
+design_docs
