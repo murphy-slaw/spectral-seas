@@ -4618,11 +4618,6 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
-file = "mods/arrp.pw.toml"
-hash = "9455cd5f0d679e9b4640bd8d963925825850ef5d15b4af928bacd1c7d8daa0cd"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
@@ -5090,11 +5085,6 @@ metafile = true
 [[files]]
 file = "mods/mc-249136-0.1.0.jar"
 hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
-
-[[files]]
-file = "mods/medievalweapons.pw.toml"
-hash = "fa0b66d07831cc7002f68ccfc171aa4fc5467e793ed64a5aff9ea407aab49965"
-metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
