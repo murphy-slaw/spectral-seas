@@ -353,6 +353,11 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
+file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
+hash = "7a5052ac498918465680ebfa86c1176f59c18fabb28775f79896f3a5e9dac19b"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
 hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
 
