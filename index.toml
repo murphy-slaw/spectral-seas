@@ -460,7 +460,7 @@ hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
-hash = "28ade49dd38ee85d07cbbf99ec4dd7288234dc92eb78df57e200e439fdf6187c"
+hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/abandoned.json"
@@ -1135,12 +1135,8 @@ file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_typ
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_amethyst.json"
-hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
-hash = "c80aed451702b5bbd57f4e400947b2b1930c06bf2824ddabca05ef5ab0fb5573"
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/limit_amethyst.json"
+hash = "57b7d684e58693763135e998fc387dfb83bc2cce6181fee370c163c5cd72675f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
@@ -1149,6 +1145,10 @@ hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/revelations/reveal_mystical_flowers.json"
 hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
+hash = "0c28194511550ae54ec3432fed33368624e4ac98fc790cd9cf5caaefb8df98c6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -3459,11 +3459,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
-metafile = true
-
-[[files]]
-file = "mods/biome-modifier-for-fabric.pw.toml"
-hash = "6616838d0b98525c9693aa98604a47689c159d86e151d7352fe6d7a9a776df85"
 metafile = true
 
 [[files]]

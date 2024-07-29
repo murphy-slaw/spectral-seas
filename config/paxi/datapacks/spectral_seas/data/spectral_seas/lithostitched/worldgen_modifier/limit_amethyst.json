@@ -1,0 +1,6 @@
+{
+    "type": "lithostitched:remove_features",
+    "biomes": "#spectral_seas:no_amethyst",
+    "features": "minecraft:amethyst_geode",
+    "step": "local_modifications"
+  }
