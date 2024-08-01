@@ -325,6 +325,10 @@ file = "config/modernfix-mixins.properties"
 hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
 
 [[files]]
+file = "config/mostructures-config-v5.json5"
+hash = "0c94ff4836a572b1204979df5df81b615ec47e33ef4972fd439c2c2252ec490c"
+
+[[files]]
 file = "config/naturalist.json"
 hash = "0d64e07f1427f761cde573b16522096cb38df0cf23cf703aaed5265b43e8e0fc"
 
@@ -1152,7 +1156,7 @@ hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
-hash = "0c28194511550ae54ec3432fed33368624e4ac98fc790cd9cf5caaefb8df98c6"
+hash = "da7ed693589ef963225241c2ab6a770a230b595c4e757c741182fcbe713b5a01"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
