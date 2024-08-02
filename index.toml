@@ -3748,6 +3748,11 @@ hash = "0e48cd4a26550fc2b14a5af33df547c181a8fc1aec4a5d129643f45c5dff82d9"
 metafile = true
 
 [[files]]
+file = "mods/ewewukeks-musket-mod.pw.toml"
+hash = "4436cd234a4df68f681b0049c195a336f3f97771e8c8c0fc13ca35e19b959ed9"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "891e88958d1140c1e00fd82d9815f7610434a08f5f61fe2851baf4b0eb66f752"
 metafile = true
