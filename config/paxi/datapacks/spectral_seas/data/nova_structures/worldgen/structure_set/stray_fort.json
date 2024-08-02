@@ -1,0 +1,13 @@
+{
+	"structures": [],
+	"placement": {
+		"exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 10
+    },
+		"spacing": 100,
+		"separation": 16,
+		"salt": 5004938900,
+		"type": "minecraft:random_spread"
+	}
+}
