@@ -1304,19 +1304,19 @@ hash = "002c3d181fabc09d886e9d219d47689252d341f98d4ace0a0817261d2c1c6012"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/zhopo/tags/worldgen/biome/has_structure/underwater_city.json"
-hash = "76f8b4b0745dfbf2f3f5068b070fbab4aa34d8e3b3fe7470e877c12a7b3d53f0"
+hash = "e03d28f0efe8dac8c5a4cb834782df721c679147639973746e7c8c63a97fafd6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/zhopo/tags/worldgen/biome/has_structure/underwater_fossils.json"
-hash = "b0a61ee44bbde2a5716fc662a78d716e6ea720d3ad2030bc4b22debc095432ca"
+hash = "335ebc67fc55cf815aedc10b6a284bebd2efb0f518d2704d921bedfad1c6fda3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/zhopo/tags/worldgen/biome/has_structure/underwater_small_ruins.json"
-hash = "ae6253a520ea4f0df699f9219a931870ff8df333f8fd2d17dccc5a2b9141d37b"
+hash = "37566c724480546b606fc962e5096c8831ce29d77980cda86cc4bf8b367e5c55"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/zhopo/tags/worldgen/biome/has_structure/underwater_warm_small_ruins.json"
-hash = "b05eab125f6ef2b6d2979cecb8f7097fe59c575bac03e5b7d5a0e16d63a3958e"
+hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
