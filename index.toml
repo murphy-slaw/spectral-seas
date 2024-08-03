@@ -475,6 +475,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
+hash = "8ceb2437a866fa3e5a1978a3497020e0e1ebe434568d51b7e10be1bd08e8aa3a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
 hash = "a2ac87bab85d53c7f3e6e4ce40a6dace0cb6f60c38ce6bad563dc3bbbe40d051"
 
@@ -1720,7 +1724,7 @@ hash = "f73e7aaf679f07f781eb6088cc1d6c0e4983fdd94d4bfc3d69d8f63a0ab0d7b8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towns.json"
-hash = "d88ccbe70fc882f170286592df680ca2460005bcca67c172fa257890a4fdc331"
+hash = "b3d1c2f0b073f07e7b80e3acdac37198d9e216c600ae52d1e5f3b1e4019d7195"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
