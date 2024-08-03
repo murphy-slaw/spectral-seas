@@ -1,9 +1,5 @@
 {
   "structures":[
-    {
-      "structure": "mvs:cartographer_tower",
-      "weight": 1
-    }
   ],
   "placement": {
 

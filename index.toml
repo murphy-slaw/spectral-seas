@@ -330,7 +330,7 @@ hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
-hash = "0c94ff4836a572b1204979df5df81b615ec47e33ef4972fd439c2c2252ec490c"
+hash = "827a3c4d1901302396eca9bbf249603ac5637de0036072745b883e208c1ae7e7"
 
 [[files]]
 file = "config/naturalist.json"
@@ -475,6 +475,422 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
+hash = "a2ac87bab85d53c7f3e6e4ce40a6dace0cb6f60c38ce6bad563dc3bbbe40d051"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/barn_house.json"
+hash = "a981b8ef341e9831f12ddc2cfce4d2e6aabe5d22c655dbfc03037436d16cd7e7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/big_pyramid.json"
+hash = "57e875baef731704aabd8687bc30c1771dee5f6a958d4748e5c89120f139bef4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/ice_tower.json"
+hash = "bbf04667ddc3ca19af22aef573a3065fa2534bb59bb73fd6abe1c2a3e07a7eb8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/jungle_pyramid.json"
+hash = "ff90e1f853af9801acbcb798fd7cbf96950265aa821ced59ab83b580457cfe07"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/killer_bunny_castle.json"
+hash = "bd80af27604213153e4b3d06edb4659c80c141aad84492fe43d4b1e0d4741b93"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/lighthouse.json"
+hash = "40cae389766accc1c7b6603970e23041f206e67033b1de6e1fbb08b7de506db3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/pillager_factory.json"
+hash = "721d99cec15247ffaaa40968e9c9c568d7dad6082a6e4e5cdf8538104b3c9d6d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/pirate_ship.json"
+hash = "02f0dfd81a8a2d3ff5a0b5f4b20f1126a9cbaa59b846425cbc033f986de4eba3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/root.json"
+hash = "f667b361a79a75fe1c6c545d4bcf8cf02d542f4fe971744a061d24fa222a2958"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/tavern.json"
+hash = "087d165fbc7494863ceee4ca9ac752c19d0f792ddcc7955798cad80feab92079"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/the_castle_in_the_sky.json"
+hash = "83ab68c6c21d1116ec0974bbd2ad14861fb05bee92e9ac9f38b2c6e8707f0b67"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/villager_market.json"
+hash = "e6b2fafe972ce28aee3f72ae318e614137f3f89c5b037a8f638b9a82df6f3475"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/villager_tower.json"
+hash = "0061ac18550e2c1a9d2bb4b80b154327fed6d33bf1b6105238ef8b8a7b318611"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/barnhouse_3.json"
+hash = "55d7959256791263432df95328d4cf26995989450a30c25123bcbbc828381a95"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/bunny_skeleton.json"
+hash = "6b6ae159a010f19de2ec22bdeb1d751e6d1b5de08e13a2c7b8a1c537f1d7c57c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/bunny_spider.json"
+hash = "f339954067a58d27e58c0f993b12b0f4647060db5d560f699d796491a7621be9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/castle_misc.json"
+hash = "9fc1f712c99dce974861f4ad74ec8a1d86b4c246609f76949b87680f3eb8af6a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/castle_skeleton.json"
+hash = "1aaaf5250d5271ce761bba736abbf8e0fff42c0cfbeffeaeede91c4fb5cba8b9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/castle_spider.json"
+hash = "50ba32f509d8a88ed37fee47c069b2648424a5a1dc68f7f31034d3d4bdd4ca44"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/castle_zombie.json"
+hash = "bb318f56cf0edee87b0925a4dfd14f3f7ad62da6bfb5fa7a749a408c1537df29"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/ice_tower.json"
+hash = "0df0c078e9f5c5650fabe3239fb1e06d841e406861a5fdd99a80a3eaf778fb95"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/jungle_temple_treasure.json"
+hash = "1aa6d4e2bd4585d2483093fd340c59b3ed0f7d15a492b49bc8652d743961b6d4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/mansion_map.json"
+hash = "a10a947bc171ddd47fa3baf495ba0c01ec56a3a7c7f9ed8c317540d3ed61ade6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/mushroom.json"
+hash = "181b33857806f099118c2d92672769c8fc66ab1fafa16188e5dea3aaf65610af"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/pillager_treasure.json"
+hash = "7fe52e3f3f53b4e609a513cce669c39609801881db2df13737e7c89a4f9896e9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/pirate_ship_cargo_fish.json"
+hash = "1b29a04d3441205a4f0a295fa4ff37b040c359c381d5a8724504795d6341ecca"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/pirate_ship_cargo_misc.json"
+hash = "b59bae9a31cc001beb16a8e511ddacccc6049e9255f95d3cf34bf60bab07483c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/pirate_ship_dispenser.json"
+hash = "7ae33b13a418321efcd9fea782c561c3701a7bcb90ee70a767714d15831ed61f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/pyramid_custom.json"
+hash = "2120f91ff3311a07333886f69055330686c5a88146d56e4e67654b4c84d499a7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/loot_tables/villager_tower.json"
+hash = "47247ce0ceb21c13637820b0718589fed0ca825a4e5ae608033bc4562898bb00"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/any_forests.json"
+hash = "0b61eedf0a055483be4dcd2919e60f9d1f1ca78ee46113ca1ff0f959b1d7ca91"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/badlands.json"
+hash = "68e3e4ac46271c9ceff971bb34a29fdc0c1bd903757518143138e432eda381b9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/beaches.json"
+hash = "e50b21b6a291f1336cd2e515d538d7418a26bfc106871e211af6b044ee2ff3a4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/birch_forests.json"
+hash = "3d9fe236d458cc6446a55a7a052aaaa00617657c6095fb6dd590050582bcd678"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/caves.json"
+hash = "ce33939191ec068c16bd5eccc4ed83ccc5b8a49358b7e5a34124039cbc8f8b82"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/deserts.json"
+hash = "81ba6cd997d02602bc4d6334bc5f04ff2cf1829baeb2d494efc3031e65f38f01"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/end_island_land.json"
+hash = "61a34bbcb6cbcc2028e3c7c8165b890fc26af85b94586e906249bef4803169da"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/end_voids.json"
+hash = "310ada7118fb3543d797f9d8abbcc0a17b57fbbbc732134cc601f015a4c23f02"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/floral.json"
+hash = "6d1f883b51957482295a6494f5183c919049fd63dc41b6ce996e3367bbc3f586"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/giant_taigas.json"
+hash = "2e5564e1bbe5a549622428bf0da1c873521dbd47b5add16337f798afc9b925c4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/giant_trees.json"
+hash = "fd3e8ea3ca735b4c0b39472f0420fb9af389bf2d375b9289c4cb0269f4aaef8c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/hills.json"
+hash = "2de18422616728a32ec44f49b45f85e9a7633dac4c5887a6e46c88746e23371c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/icy.json"
+hash = "20467164a5354b6a8817b813516cf5526a2816cb6e57909a9a274d065eb4cf2f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/jungles.json"
+hash = "ddd25bcc1d384eda4ab1db5b9e62db2aa00f6332dac5ef3a4b585b85420f3dba"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/meadows.json"
+hash = "c409b42f77e98d22ad687a26996a5740accc5bb8b46bd286938b7a0ca7c31c2d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/mountains.json"
+hash = "8bb801f8b80179fb232ba619bc2b8fbb75212fcdb083eda360661fc5ba331106"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/mushrooms.json"
+hash = "f5c9e770629ac4b43ad2ab999f02847610d5ae175d2bd9bebd2b01fe2242d2d1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/nether.json"
+hash = "665a2951e0c285f1bf6c777250d1bc7257ad8b076aedec2b2ea273215b6599f8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "7bdc3a5812f58a5979905ac602628516c3dc998a8124394f498fd528111e7e99"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "9ca4ff6e12710c3e6cc4646c9d110bb3a5326174ed7d74d619acad57782ba418"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/nether_souls.json"
+hash = "60e788f552e4ac8f4cb2c653984ae31e113fd111de594d72d4ef2d56d5f8be2a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/nether_warped_forests.json"
+hash = "94eb49eb34d1cbe9d163d574d803724b8853f0d7ecf631f92d8bdbd4def212bf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/oceans.json"
+hash = "4b31a689de219eddac9646640f4351232dbbbbfbb47883a8a4f3068ca509f39f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/plains.json"
+hash = "3bae877390756e48e221bd61eae57d7a2703a12334a1ef04a79aa2ad1d152258"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/regular_forests.json"
+hash = "9420acb3cbe9095bac02a68028759ea8d98ecf941fb34efbf504b2b8d2497853"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/rocky_mountains.json"
+hash = "6a3e36d62a187d0eb0b32eae2a752ee85c42537fcdbb9458c6002d68f7f21a1a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/savannas.json"
+hash = "7db982bee16d7dc345cf5b2f0913e58663ae615f4ebbec307a0ce2a9944572ba"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "d06aa408b17ba9e0ea843c3e6fd55752cdc6599b2d3eb8739d166d1a98269d96"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "f5dbafdc8251171aedc2af45e9a5edde8f1672840b181ab0295e9100ddd13372"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/snowy_plains.json"
+hash = "1e99267580ca6c3c9885746e30a6162722f97bea71b3b35c2a1f51685cb95213"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/spooky_forests.json"
+hash = "5af08746ff48772098dfc258ecf5ef6a1503ce276f4ac5b55769deb05805d8d0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/stony_shores.json"
+hash = "cd25396a5aae8a5fb8f017977d6a48ae1b3a852eb441b76cacd2666e613bffc9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/swamps.json"
+hash = "f456fb1519f22bc1cdbe93319dbb3f5a86c5d0e00e954363b48714e03dacb1c6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/collections/taigas.json"
+hash = "1ce0d25566b42fa1e149c10dbcaf6b0fb158ff0a6ba2513797d7253d9c203fcc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/air_balloon.json"
+hash = "364759978ec359a7e1e095bc0883198100d52668eb3b0e1e486a509a91089894"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/barn_house.json"
+hash = "33fcce74b2d9e2d4bc9ea3b1fefe59dd410abe680fdaff937221c27fb3b0f0be"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/big_pyramid.json"
+hash = "0985f22945bebb7433a2dedbc25824a497a90a688d847a189c3798cef970b733"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/desert_abandoned_church.json"
+hash = "0985f22945bebb7433a2dedbc25824a497a90a688d847a189c3798cef970b733"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/ice_tower.json"
+hash = "617e8b0043125bdafd6132f16eb4b18eb2c9aa03ba5ab27567d61d0d767797f1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/jungle_pyramid.json"
+hash = "bd5c16103e68b19f12830e6a1d87b66ac8978ffc9d9bced19f30d9f9bc55d0d4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/killer_bunny_castle.json"
+hash = "fbe63cb493b2b2229f48e4aaceee726d7026ff986fd1523f379f5000a34d09a8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/lighthouse.json"
+hash = "364759978ec359a7e1e095bc0883198100d52668eb3b0e1e486a509a91089894"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/moai.json"
+hash = "364759978ec359a7e1e095bc0883198100d52668eb3b0e1e486a509a91089894"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/pillager_factory.json"
+hash = "e64465b100dcadb79eecae8b30132705216fb3d4dcea4c3575fe6cda94d9fa56"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/pillager_mines.json"
+hash = "e64465b100dcadb79eecae8b30132705216fb3d4dcea4c3575fe6cda94d9fa56"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/pirate_ship.json"
+hash = "eb47c19dcd048cabaff8bb94e2aef3b0e37efc3518238ef87b2bd06d730397e7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/plains_abandoned_church.json"
+hash = "356e3c40b773461c6f1a0a64b65bac75e3da36e074c20368b081f3f8407a9c9e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/savanna_abandoned_church.json"
+hash = "8a47d576015bcef06678c3e5044f50a08d9252bd637390cf667069a9648b70fe"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/savanna_villager_tower.json"
+hash = "8a47d576015bcef06678c3e5044f50a08d9252bd637390cf667069a9648b70fe"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/snowy_abandoned_church.json"
+hash = "617e8b0043125bdafd6132f16eb4b18eb2c9aa03ba5ab27567d61d0d767797f1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/taiga_abandoned_church.json"
+hash = "5d4f0c59f11c703156a32294eeefca6d1d0a0ac05730e53a62caac15260efb34"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/tavern.json"
+hash = "0f04a4c8ee64db1103734a187597780ef891eb047457725b26806addc582d51e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/the_castle_in_the_sky.json"
+hash = "364759978ec359a7e1e095bc0883198100d52668eb3b0e1e486a509a91089894"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/villager_market.json"
+hash = "69b330ee1ff8b87b5af80cc9c9e240e0dbfad977a0ec843528a464a79999b55f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/villager_tower.json"
+hash = "0f04a4c8ee64db1103734a187597780ef891eb047457725b26806addc582d51e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/is_deep_ocean.json"
+hash = "9d467313e04286d7f9cd12ab14b4dc401ee3d8808309f0518cfbcf419356e741"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/structure/no_lakes.json"
+hash = "cfb2347954f8b5bb678c7aaccdb23db84da649e753f5763b6f9b4c945d683541"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/abandoned_church.json"
+hash = "35e90622bfb2c2849e45fe120c47d80655acbccb549f4f4e251128ee484412cb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/air_balloon.json"
+hash = "7bfd5769b4e616dfd26872c4def5957e937ad15388183ae8ba280300fdd50909"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/barn_house.json"
+hash = "9d3c7f47d2a789632dd3a980daa7a8f7576aa95b68084922f7793b39235c286d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/big_pyramid.json"
+hash = "2040fde69ae2efcad731194c73f97955acf345eac8c45720db2caed6a83c8282"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/ice_tower.json"
+hash = "6c5690fee425711ebee1f2a67493311c408c41c11dad2c8626cf00c02992cf2a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/jungle_pyramid.json"
+hash = "385f44d2b10c4750f92316ec9e7cfb29332082e9267e90c3953d419ea4e5249a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/killer_bunny_castle.json"
+hash = "c60dde6d4e793d2ab544383e75b9653d25ed1e9cad713ecab0917427569964fc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/lighthouse.json"
+hash = "08a7802368823b926211f2568716858bad0432736c57ca053cb9bf59248ef3ec"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/moai.json"
+hash = "b8f7c735413dde31a17fe511a77ab6b38129445a99fdc44ff906d9fa9c79d6ee"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_factory.json"
+hash = "5e5e1bbf71807aa702078c81781f570d7d24de61672c7ee13b286c37551d9b98"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_mines.json"
+hash = "36a1c5e176e58707ac882616e4e64101b268bed40d0a5f04b15a85fc7f72d24b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pirate_ship.json"
+hash = "b3ec4ed17cdd305755d62a88cd8119c1eaa7d0c533b6295c460f0f18e7921b08"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/tavern.json"
+hash = "c058f33821d0a7eb26c70a74ff0e409002d93e3c2aa432f11fdb8921c615ae13"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/the_castle_in_the_sky.json"
+hash = "6c4f59dc6826cb9c6625a0dcbe1998275a3bdf5a767bf5d73a95639ba7a65cd0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/villager_market.json"
+hash = "43111121f57259c1c406a8a961c798d31f5f63c90c778bd89203d8e38bc2aa22"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/villager_tower.json"
+hash = "4ee6b45c904015eece4e6ccac100c842dff4c2298b1dd0fa0f33646d5f3e9f3e"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/abandoned.json"
 hash = "3f7537774fdb44d21cf893db5a801d2b73951732ec9298aba09c38e38f463438"
 
@@ -572,7 +988,7 @@ hash = "53289c93026fc3a4996c4f98f59e99c718cf6bd06f4c8edb19b1500eb4ab3924"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/cartographer_tower.json"
-hash = "654719387cdc431d0cab6f403f9168a1b4feea3e3a647e6fccba91d7867d2cd2"
+hash = "78afc528989ae1f345a34e624e9415d73ed2a0441ade6b4303e6997d9c6d8f52"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/carts/cart.json"
@@ -592,11 +1008,11 @@ hash = "cff434d9c08a2d8a8d773483d5b8411a375e172874f03ec4c4c75c10c9923a9c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/cathedral.json"
-hash = "a9ac3bd7a3f54790742b9bf04a71082081f373d57c8adf6b811f4228907ee6ac"
+hash = "d014831503b9c4976d37246a4a928b915b8db8852b5749b87c09bc06252a8797"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/crystal.json"
-hash = "c0b155754825f2e355459f7884dce5653660e15ba9e08fb8c54fec84f02106d4"
+hash = "d549eebe8334db74f3bc54dc202c4c2f7e7dd68aedf9c7a898bb07cad1253ed7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/dead_tree/acacia.json"
@@ -668,7 +1084,7 @@ hash = "dc53b355008a90009e87e9531a1e0fab5a773bda526b289e69b83f5b7fbf23c9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/houses/large_warped_tower.json"
-hash = "b1ba1a9f9ad15c5ddc4cc01b598eaca527a625094b39b1755047f58211f32372"
+hash = "5111a8e0821e80be8ba4cd8a6cbe0ee58ebfc4f84f7fca0ba0daed4a15659db2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/houses/medium_igloo_1.json"
@@ -696,7 +1112,7 @@ hash = "b8d8f8bc317a42d9b6f5b04ce4cbb9d425e0bca8f521cd3b4072831d3eb80f51"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/jungle_tower.json"
-hash = "1e9d190204138ba0ebf577a8be1d1ff9031d745561bb294ff9f45f92b7b489d6"
+hash = "71317f0d021b029da58aceb0a4fe2740c3c8bd15347ff0ad519e1c8832af9ff0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/lantern/medium_oak_lantern.json"
@@ -996,7 +1412,7 @@ hash = "e4ec45bdf4bf25344ca1dcb9a58696747553316b10cc45f5fd4ea0fcba0cdff3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/sunzi_gate.json"
-hash = "3e2436a4adc8cef0530e6cbb40f8a6a2123c2b8b04de699abfe34f885b131759"
+hash = "d370b2e842a1a0950e2e65d14b8dd4911a09ee59af4ceffe0fd1d7c3ea610452"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/well/other_wells.json"
@@ -1216,7 +1632,7 @@ hash = "9c702ad1ad4a2216186ea2b7627afabb2efbb818b899280c8ccc84edc729ddb0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/villages_jungle.json"
-hash = "fa821362db5392e8deafae6cb8d092a20770e1ed1d1bd0e7d0599e35a0185cb6"
+hash = "2aac6f628a859ac3ebb7dfc202919160ace981c7b0bfdcca9ec88bcb5630c05c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wells.json"
@@ -1249,6 +1665,10 @@ hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
 hash = "da7ed693589ef963225241c2ab6a770a230b595c4e757c741182fcbe713b5a01"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
+hash = "1920ffa4fe2f319ad098efe642556190598c9ecbfd78c7f24035af1903feec34"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -1300,7 +1720,7 @@ hash = "f73e7aaf679f07f781eb6088cc1d6c0e4983fdd94d4bfc3d69d8f63a0ab0d7b8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towns.json"
-hash = "b4b76b5295d0114f1dbc3bcb46a12a52961699af3e5185d45a6a3e97ec39287a"
+hash = "d88ccbe70fc882f170286592df680ca2460005bcca67c172fa257890a4fdc331"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
@@ -1324,7 +1744,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "597634e8afcfb713d2215b631ccf5b25e53d664706726564bb62b3ffee69cec9"
+hash = "d23c52dd739ca0daedef1267f750e8fabf41f416e2baabb133301ffd5a1497b3"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"

@@ -25,10 +25,6 @@
       "weight": 5
     },
     {
-      "structure": "towns_and_towers:village_jungle",
-      "weight": 5
-    },
-    {
       "structure": "towns_and_towers:village_meadow",
       "weight": 5
     },
@@ -103,6 +99,10 @@
     {
       "structure": "towns_and_towers:exclusives/village_piglin",
       "weight": 5
+    },
+    {
+      "structure": "nova_structures:village_jungle",
+      "weight": 1
     }
   ],
   "placement": {

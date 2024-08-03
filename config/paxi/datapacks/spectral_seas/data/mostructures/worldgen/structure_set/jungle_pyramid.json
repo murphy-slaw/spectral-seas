@@ -1,0 +1,11 @@
+{
+  "structures": [
+  ],
+  "placement": {
+    "type": "mostructures:type",
+    "structure_set_to_avoid": [],
+    "spacing": 16,
+    "separation": 14,
+    "salt": 112178642
+  }
+}

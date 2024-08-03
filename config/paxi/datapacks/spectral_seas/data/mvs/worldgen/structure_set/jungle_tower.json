@@ -1,9 +1,5 @@
 {
   "structures":[
-    {
-      "structure": "mvs:jungle_tower",
-      "weight": 1
-    }
   ],
   "placement": {
 

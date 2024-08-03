@@ -1,9 +1,5 @@
 {
   "structures":[
-    {
-      "structure": "mvs:houses/large_warped_tower",
-      "weight": 1
-    }
   ],
   "placement": {
 

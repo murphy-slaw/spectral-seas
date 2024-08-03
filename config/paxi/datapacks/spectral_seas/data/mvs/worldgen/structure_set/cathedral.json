@@ -1,9 +1,5 @@
 {
   "structures":[
-    {
-      "structure": "mvs:cathedral",
-      "weight": 1
-    }
   ],
   "placement": {
 
