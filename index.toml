@@ -1647,6 +1647,10 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "2aac6f628a859ac3ebb7dfc202919160ace981c7b0bfdcca9ec88bcb5630c05c"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/villages_swamp.json"
+hash = "2aac6f628a859ac3ebb7dfc202919160ace981c7b0bfdcca9ec88bcb5630c05c"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wells.json"
 hash = "19524bfa4b8f64679e91222b1a1c4679e867d374d499afca57c0798998868a72"
 
@@ -1656,7 +1660,7 @@ hash = "2e4a4d8ae380c742b0b4c4117a5246f7f4d9c6435332218373cb80152fad9b6d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/witch_villa.json"
-hash = "a7c16e039ec784aecc6b963ccd48443dd41230fd06597cd01401bfe2fa8cae2b"
+hash = "c2b713e5f58decf86ab960799a12b86e1c3921f03853b8956444e6eb57086d8d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_types/exclude.json"
@@ -1680,7 +1684,7 @@ hash = "da7ed693589ef963225241c2ab6a770a230b595c4e757c741182fcbe713b5a01"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "1920ffa4fe2f319ad098efe642556190598c9ecbfd78c7f24035af1903feec34"
+hash = "6c0908ad64eede40fdf1324b207d0402f0ef92ce32f620f635a90752862b4f66"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"

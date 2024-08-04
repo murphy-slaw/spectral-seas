@@ -51,6 +51,10 @@
     {
       "structure": "mostructures:ice_tower",
       "weight": 1
+    },
+    {
+      "structure": "nova_structures:witch_villa",
+      "weight": 1
     }
   ],
   "placement": {
