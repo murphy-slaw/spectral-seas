@@ -419,6 +419,10 @@ hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
+hash = "f5311c44b7b836d4b6c87f7c550bee39b40840d629c41843b2caa423fd635a52"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/bold_muddy.json"
 hash = "ddf5a5a54762138cfe18cd0c0a9777d39d958cc1030131add55653af1fd3d861"
 
@@ -469,6 +473,10 @@ hash = "e41959157538102d793755c5d7238bd500583cce1393634a2a481cad8efbc2d1"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/willowshine.json"
 hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
+hash = "5a9ec1403efc05af167a4d849b327bffa9ec3ddb132ea49642cd0f468817d473"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
