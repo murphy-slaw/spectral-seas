@@ -1,0 +1,13 @@
+name = "Pillager To Pirate"
+filename = "PillagerToPirate+v1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OF32c565/versions/PpW7dQ4g/PillagerToPirate%2Bv1.8.zip"
+hash-format = "sha1"
+hash = "a9a5f23676c1c2173fc235393597b4446f4911af"
+
+[update]
+[update.modrinth]
+mod-id = "OF32c565"
+version = "PpW7dQ4g"

@@ -484,7 +484,7 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "8ceb2437a866fa3e5a1978a3497020e0e1ebe434568d51b7e10be1bd08e8aa3a"
+hash = "f48e85667dacd4e32f5b72d1b019c1fa4923289d3f006178d2567b345849e25d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1671,6 +1671,14 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/wor
 hash = "57b7d684e58693763135e998fc387dfb83bc2cce6181fee370c163c5cd72675f"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_lava_lakes.json"
+hash = "6275af08f35bb313befe255106689b45efc024804695aa0b5b129520564e8697"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_lava_springs.json"
+hash = "311b18527ab5da5e0334b9a09c4636370291272b315f98b5447a282faba69014"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
 hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 
@@ -1680,11 +1688,11 @@ hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
-hash = "da7ed693589ef963225241c2ab6a770a230b595c4e757c741182fcbe713b5a01"
+hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "6c0908ad64eede40fdf1324b207d0402f0ef92ce32f620f635a90752862b4f66"
+hash = "e3ebbea4646a3be60bd2951a0fd2aa2c839ed677f579f356d31e016abe161ec6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -3360,13 +3368,13 @@ file = "config/paxi/resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
-file = "config/paxi/resourcepacks/cleaner-waters.pw.toml"
-hash = "fcd6ed09d835a1808c208a84408cb12537c95f5be83a6a87d3ca3ab712f0c608"
+file = "config/paxi/resourcepacks/ctm-overhaul.pw.toml"
+hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/ctm-overhaul.pw.toml"
-hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
+file = "config/paxi/resourcepacks/pillager-to-pirate.pw.toml"
+hash = "2d01ccc2aeb52aefdf436e9d697f932ffab44cbf54fe5f4e7d84b458238dbb92"
 metafile = true
 
 [[files]]
@@ -3964,6 +3972,11 @@ hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -4129,8 +4142,8 @@ hash = "8ab9fdd9bf3c8b1ba3ab727979b5f1783a9f40df25228d5577de56987b510c63"
 metafile = true
 
 [[files]]
-file = "mods/cut-through.pw.toml"
-hash = "64e44359480d93087a03de47a202ac5315086415039eb722201438de12314e6e"
+file = "mods/cyanide.pw.toml"
+hash = "761857a2d019df774d3682e11ac89a1653fb1ae1a2b4592c6793cd1246279d55"
 metafile = true
 
 [[files]]
@@ -4181,6 +4194,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9759c8af9105f143f4c73257d396e9aef490c2c56a2c63b16b392ec41adc6b7f"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
 
 [[files]]
@@ -4427,10 +4445,6 @@ metafile = true
 file = "mods/macos-input-fixes.pw.toml"
 hash = "a7d693a51e194e5d71617fe9e165edd8ee9937a7be3962f3572e4e5c36f90c27"
 metafile = true
-
-[[files]]
-file = "mods/mc-249136-0.1.0.jar"
-hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -4707,11 +4721,6 @@ hash = "dfcc3670bff556635fdfa355c050659537a63a36d884b49a6ec591c8369759b3"
 metafile = true
 
 [[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
-metafile = true
-
-[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "6332179a6bcf6712a9aaa2af2ca4ae08cf924e24bc7c5c78bd5e52b575b42455"
 metafile = true
@@ -4729,11 +4738,6 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]

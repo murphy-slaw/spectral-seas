@@ -68,9 +68,9 @@
       "other_set": "#mvs:common_avoid"
     },
 
-    "spacing": 105,
+    "spacing": 50,
 
-    "separation": 98,
+    "separation": 40,
 
     "min_distance_from_world_origin": 1000
   }
