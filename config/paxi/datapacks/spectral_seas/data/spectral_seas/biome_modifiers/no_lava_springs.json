@@ -1,0 +1,6 @@
+{
+    "type": "biome_modifier:remove_features",
+    "biomes": "#is_overworld",
+    "features": "minecraft:spring_lava",
+    "step": "fluid_springs"
+}

@@ -1,0 +1,6 @@
+{
+    "type": "biome_modifier:remove_features",
+    "biomes": "#is_overworld",
+    "features": "minecraft:lake_lava_surface",
+    "step": "lakes"
+}

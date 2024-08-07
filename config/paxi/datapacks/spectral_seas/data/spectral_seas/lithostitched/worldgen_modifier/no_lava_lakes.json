@@ -1,6 +1,0 @@
-{
-    "type": "lithostitched:remove_features",
-    "biomes": "#minecraft:is_overworld",
-    "features": "minecraft:lake_lava_surface",
-    "step": "lakes"
-}

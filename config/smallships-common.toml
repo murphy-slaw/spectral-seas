@@ -62,7 +62,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxRotationSpeed = 4.5
 			#Range: 0.0 ~ 100.0
-			shipAttributeCogMaxSpeed = 30.0
+			shipAttributeCogMaxSpeed = 40.0
 			#Range: 1.0 ~ 10000.0
 			shipAttributeCogMaxHealth = 300.0
 			#Range: 0.0 ~ 100.0
@@ -84,7 +84,7 @@ schematicVersion = 5
 		#Default attributes for the Drakkar. Speed in km/h, Health in default mc health points
 		[Ship.Drakkar.Attributes]
 			#Range: 0.0 ~ 100.0
-			shipAttributeDrakkarMaxSpeed = 30.0
+			shipAttributeDrakkarMaxSpeed = 40.0
 			#Range: 0.0 ~ 10000.0
 			shipAttributeDrakkarMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
@@ -108,7 +108,7 @@ schematicVersion = 5
 		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
 		[Ship.Brigg.Attributes]
 			#Range: 0.0 ~ 100.0
-			shipAttributeBriggMaxSpeed = 35.0
+			shipAttributeBriggMaxSpeed = 50.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeBriggMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -134,7 +134,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyAcceleration = 0.015
 			#Range: 0.0 ~ 100.0
-			shipAttributeGalleyMaxSpeed = 30.0
+			shipAttributeGalleyMaxSpeed = 40.0
 			#Range: 0.0 ~ 10000.0
 			shipAttributeGalleyMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
