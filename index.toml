@@ -365,6 +365,11 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
+file = "config/paxi/datapacks/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "0b6112534d539a180682487485766578d82f9f2cfd7a206b764e7a30a7834066"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
 hash = "7a5052ac498918465680ebfa86c1176f59c18fabb28775f79896f3a5e9dac19b"
 metafile = true
@@ -508,7 +513,7 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "f48e85667dacd4e32f5b72d1b019c1fa4923289d3f006178d2567b345849e25d"
+hash = "109bef6398e401444e7f65ed9a2140e1c099c8f1af2b4312777a81cd5e09ae36"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1628,7 +1633,7 @@ hash = "bb33c76c25fa79597a3b45fce87e510860dcd4635aa48bd392e936ad21a563ef"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/jungle_ruins.json"
-hash = "5ceee7af6417609b15a76650973c2d5c44038da796b4b42696b2a76e34c11a08"
+hash = "e2ea88a81de9a3a07ea7a5aaf10e820acf76fea21aaba53a5d0bafc98177ba09"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/mangrove_witch_hut.json"
@@ -1720,7 +1725,7 @@ hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "e3ebbea4646a3be60bd2951a0fd2aa2c839ed677f579f356d31e016abe161ec6"
+hash = "12e61c956204ef79896bf7fee841be087575da4e4d48dfab2543634e92e50303"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -1797,6 +1802,10 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
 hash = "d23c52dd739ca0daedef1267f750e8fabf41f416e2baabb133301ffd5a1497b3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/spectral_seas.zip"
+hash = "6462453aff2c1d30abb3bb7d04f648868fb923a53c827f1e87cefd99b340fe63"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -4841,6 +4850,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
 metafile = true
 
 [[files]]

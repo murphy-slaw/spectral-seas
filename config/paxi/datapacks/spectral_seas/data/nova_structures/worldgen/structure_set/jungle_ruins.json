@@ -1,9 +1,5 @@
 {
 	"structures": [
-		{
-			"structure": "nova_structures:jungle_ruins",
-			"weight": 1
-		}
 	],
 	"placement": {
 		"exclusion_zone": {

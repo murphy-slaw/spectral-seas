@@ -2,8 +2,8 @@
   "placement": {
     "type": "minecraft:random_spread",
     "salt": 10387312,
-    "separation": 20,
-    "spacing": 40
+    "separation": 16,
+    "spacing": 32
   },
   "structures": [
     {
@@ -40,10 +40,6 @@
     },
     {
       "structure": "towns_and_towers:village_flower_forest",
-      "weight": 1
-    },
-    {
-      "structure": "towns_and_towers:village_forest",
       "weight": 1
     },
     {

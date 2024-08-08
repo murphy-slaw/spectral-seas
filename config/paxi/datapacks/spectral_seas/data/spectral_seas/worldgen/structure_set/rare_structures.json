@@ -55,7 +55,11 @@
     {
       "structure": "nova_structures:witch_villa",
       "weight": 1
-    }
+    },
+		{
+			"structure": "nova_structures:jungle_ruins",
+			"weight": 1
+		}
   ],
   "placement": {
 
@@ -68,10 +72,10 @@
       "other_set": "#mvs:common_avoid"
     },
 
-    "spacing": 50,
+    "spacing": 32,
 
-    "separation": 40,
+    "separation": 8,
 
-    "min_distance_from_world_origin": 1000
+    "min_distance_from_world_origin": 500
   }
 }
