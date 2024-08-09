@@ -1732,6 +1732,10 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/l
 hash = "61af7ff093ee6c88a344668ec3ceb57363d7700c8335a512b1234a37259b561f"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_desert_lava.json"
+hash = "f6935008f542ac35fa94480d47a0d22519556fb76dc8670e273bed54eac268b3"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_lava_springs.json"
 hash = "8ea74108a693fb61710afd8ce10a5ca0edaa53a0e738d6a7786c3315d0b3cf7d"
 

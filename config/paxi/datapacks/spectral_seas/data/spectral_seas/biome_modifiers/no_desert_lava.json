@@ -1,0 +1,6 @@
+{
+    "type": "biome_modifier:remove_features",
+    "biomes": "#is_overworld",
+    "features": "geophilic:desert/lava_lakes",
+    "step": "lakes"
+}
