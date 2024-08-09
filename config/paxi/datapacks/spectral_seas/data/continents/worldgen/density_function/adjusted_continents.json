@@ -12,17 +12,17 @@
                               "coordinate": "overworld/base_continents",
                               "points": [
                                     {
-                                          "location": -0.025,
+                                          "location": 0.25,
                                           "derivative": 0.7,
                                           "value": -0.25
                                     },
                                     {
-                                          "location": 0.32,
+                                          "location": 0.3,
                                           "derivative": 1.785,
                                           "value": -0.19
                                     },
                                     {
-                                          "location": 0.6325,
+                                          "location": 0.8,
                                           "derivative": 1.275,
                                           "value": 0.6
                                     }

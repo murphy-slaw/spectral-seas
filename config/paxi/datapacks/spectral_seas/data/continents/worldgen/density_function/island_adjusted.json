@@ -6,7 +6,7 @@
       "argument1": {
          "argument": {
             "type": "min",
-            "argument1": -1.0,
+            "argument1": 0.6,
             "argument2": {
                "xz_scale": 0.25,
                "y_scale": 0.0,

@@ -59,6 +59,10 @@
 		{
 			"structure": "nova_structures:jungle_ruins",
 			"weight": 1
+		},
+		{
+			"structure": "nova_structures:desert_ruins",
+			"weight": 1
 		}
   ],
   "placement": {

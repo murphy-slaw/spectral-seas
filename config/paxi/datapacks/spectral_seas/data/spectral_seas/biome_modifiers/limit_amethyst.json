@@ -2,5 +2,6 @@
     "type": "biome_modifier:remove_features",
     "biomes": "#is_overworld",
     "features": "minecraft:amethyst_geode",
-    "step": "local_modifications"
+    "step": "local_modifications",
+    "priority": "1"
   }

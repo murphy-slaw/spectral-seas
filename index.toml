@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "cc3f673e08cef50902e6db6f58d58e51aee615f33d15869eefe49e847699be75"
+hash = "0c7bc2994ce7e2510a59f9188c453cf256eb400b5d2dff3f983c1e55286a4a5f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
@@ -433,7 +433,7 @@ hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_adjusted.json"
-hash = "de4f341a0b5c35ace92bc5cacd91a0a564637cb65e5b7c0106d61d4b0acbcd2d"
+hash = "4f509de4c12f1ba4c161860bca8b076e1c56f6780dd5b33875c9b0749b8d6a38"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_amount.json"
@@ -445,11 +445,11 @@ hash = "e5926a5aa4f5bbdb9da24e920bf6d73d08d7dd3b6728517632bf9e385e195d56"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_squared.json"
-hash = "ada7d34cd832f57cacfff0911d526c013eb7d276190c6147a8bfb44ed5067072"
+hash = "fe1a79838122f32a6e0643fc0f0ef9541d9da994e8bb2deecba4118acbb6f526"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/islands.json"
-hash = "09102dfbbf9393cc72a4ce622774cc596b99bc1771acd3687cc311027656286a"
+hash = "1aaf05c324742abb970eff2b746078cff8ca0f94d89813c599a263d96cd32809"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/bold_muddy.json"
@@ -505,7 +505,7 @@ hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "5a9ec1403efc05af167a4d849b327bffa9ec3ddb132ea49642cd0f468817d473"
+hash = "14e0d6708cf5a7382990119915e59ff71fb3b95b6c3491b477f00dae4a05fbfa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -1617,7 +1617,7 @@ hash = "b481a2f70822a92c1d3d0824d748070febd8afbb0a7cf4d6143c6af82e0e6acd"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/desert_ruins.json"
-hash = "5f983ed1192b8708682b6c07bf06d499abc6c2abd17ed80d3d98ee09e890edb8"
+hash = "e2ea88a81de9a3a07ea7a5aaf10e820acf76fea21aaba53a5d0bafc98177ba09"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/firewatch_towers.json"
@@ -1701,7 +1701,7 @@ hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
-hash = "c80aed451702b5bbd57f4e400947b2b1930c06bf2824ddabca05ef5ab0fb5573"
+hash = "61af7ff093ee6c88a344668ec3ceb57363d7700c8335a512b1234a37259b561f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_lava_springs.json"
@@ -1725,7 +1725,7 @@ hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "12e61c956204ef79896bf7fee841be087575da4e4d48dfab2543634e92e50303"
+hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -1802,10 +1802,6 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
 hash = "d23c52dd739ca0daedef1267f750e8fabf41f416e2baabb133301ffd5a1497b3"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/spectral_seas.zip"
-hash = "6462453aff2c1d30abb3bb7d04f648868fb923a53c827f1e87cefd99b340fe63"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -3974,6 +3970,11 @@ hash = "9fce8cc9c01f0c8ea3c840bd9d2f214f31dc30d3b420ad287adaeb561a3ea8db"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "a2dbd810c7c28b9879e92f082a93828e1aa07fb82887d9ed906785eabc0b4ebc"
 metafile = true
@@ -4271,6 +4272,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "891e88958d1140c1e00fd82d9815f7610434a08f5f61fe2851baf4b0eb66f752"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
