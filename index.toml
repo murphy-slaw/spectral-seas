@@ -1724,10 +1724,6 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/a
 hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_portal_markers.json"
-hash = "7a1dcfb057ffae7cc1d13748ef5540a39b9973d7db5b8a7bbd319bcf650a9ad4"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
 hash = "61af7ff093ee6c88a344668ec3ceb57363d7700c8335a512b1234a37259b561f"
 
@@ -1756,16 +1752,8 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/bio
 hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/placed_feature/portal_marker.json"
-hash = "05b9ce6ecbd81a71ae8b6a6201f53101d177b8ed96a84138374352d5737b0580"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
 hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/unique_test.json"
-hash = "672623ff87f21b3fd97a0678d440192f64c1b17ee9595449ae72e385640c5b54"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
