@@ -514,6 +514,34 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/s
 hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_jungle.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json"
+hash = "76892b3fe95df76aa71585c09056845ecf7bff345492e23e557c98b46de85a0c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_ocean.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
 hash = "14e0d6708cf5a7382990119915e59ff71fb3b95b6c3491b477f00dae4a05fbfa"
 
@@ -524,34 +552,6 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
 hash = "109bef6398e401444e7f65ed9a2140e1c099c8f1af2b4312777a81cd5e09ae36"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_jungle.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_mountain.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_nether.json"
-hash = "61876e4e6ea82be32485b15b18bbe420dc4eda30dd603fea31965eb63a3dc0eb"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_ocean.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_standard.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/tags/worldgen/biome/has_structure/ruined_portal_swamp.json"
-hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
