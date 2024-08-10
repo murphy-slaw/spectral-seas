@@ -1,0 +1,13 @@
+name = "Hopo Better Underwater Ruins"
+filename = "[DatapackVer.]HopoBetterUnderwaterRuins-[1.20-1.20.2]-1.1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BuWCQzqf/versions/8qGtGrs4/%5BDatapackVer.%5DHopoBetterUnderwaterRuins-%5B1.20-1.20.2%5D-1.1.4.zip"
+hash-format = "sha1"
+hash = "05ea165bbd1e874a054fb30dede660d7b26df78f"
+
+[update]
+[update.modrinth]
+mod-id = "BuWCQzqf"
+version = "8qGtGrs4"

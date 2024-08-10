@@ -375,6 +375,16 @@ hash = "7a5052ac498918465680ebfa86c1176f59c18fabb28775f79896f3a5e9dac19b"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/hopo-better-ruined-portals.pw.toml"
+hash = "80944a917ecefe304b8cacfd9ffcb556f837bf116358e6da256a96dde9ce1739"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/hopo-better-underwater-ruins.pw.toml"
+hash = "2aebece8c08790f1529503560fa9240c4d61410b220004d1d6ce30864c410494"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
 hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
 
@@ -510,30 +520,6 @@ hash = "14e0d6708cf5a7382990119915e59ff71fb3b95b6c3491b477f00dae4a05fbfa"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal.json"
-hash = "c4e990b2de63ac4a6e5526be44bb6cab9f81ba31c2278bc8e613d652ec41f5af"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_desert.json"
-hash = "46e85197a2db92a6dbc059f078c295c2517b2990cc429842ed29212b6d32e8cd"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_jungle.json"
-hash = "c46644b202f25dd8b828914ac2429075f65d4cdeb485b3812b9511577ce72c03"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_mountain.json"
-hash = "a54a9b929c0de86a13daee71c93d7e20d433d5bdf8a399b07d2ae5f397785a21"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_nether.json"
-hash = "f71291d754064b051b956cca70470827735054d3ab5931b426a6c644eef983fa"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/ruined_portals.json"
-hash = "b40732c9fb6d1b5dd36d83e46d93384e0c90eff4453059a1ab01ea53e31e5cd2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
@@ -4390,16 +4376,6 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
-metafile = true
-
-[[files]]
-file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "80944a917ecefe304b8cacfd9ffcb556f837bf116358e6da256a96dde9ce1739"
-metafile = true
-
-[[files]]
-file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
 metafile = true
 
 [[files]]
