@@ -4553,6 +4553,11 @@ hash = "f48535f54e028a903369fd558673f058a1f3eefb04a0170304d6da27a430e7aa"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "79f00e15b30df0dab9551df1a25ba284035cf58ff01bb727cccde41bb324d8fd"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
 metafile = true
@@ -4773,7 +4778,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "47973ff228dccdabebc8aba7ef5591f9b2422cd712b094c0b34256e511c82218"
+hash = "6315d5af2538d98fd14c488548ba3930162618704c9dfa0ab0baef5cfcf02b88"
 metafile = true
 
 [[files]]
