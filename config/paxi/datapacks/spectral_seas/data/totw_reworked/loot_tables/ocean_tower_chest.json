@@ -106,8 +106,59 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:map"
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:map",
+              "functions": [
+                {
+                  "function": "minecraft:exploration_map",
+                  "destination": "totw_reworked:is_not_ocean",
+                  "decoration": "red_x",
+                  "zoom": 4,
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
+                },
+                {
+                  "function": "minecraft:set_name",
+                  "name": "Tower Map"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "structure": "totw_reworked:ocean"
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:map",
+              "functions": [
+                {
+                  "function": "minecraft:exploration_map",
+                  "destination": "totw_reworked:is_not_ocean_warm",
+                  "decoration": "red_x",
+                  "zoom": 4,
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
+                },
+                {
+                  "function": "minecraft:set_name",
+                  "name": "Tower Map"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "structure": "totw_reworked:ocean_warm"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

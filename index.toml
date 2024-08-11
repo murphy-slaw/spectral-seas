@@ -2171,11 +2171,11 @@ hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "f4022e3e2ab75c7e19e15ce6e5bf3b5183b191332fd25bf1f2b24af7eb9ab10d"
+hash = "98739ecfba93dc1f9c53099584ad0404c81b869df8afce1ba54fdd3b81eb9f09"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "b030f92f49dd4e398d91367bd863bbeba3c6de42c6ca81b5fd60a4e1b260252a"
+hash = "11cf6a85c5b40ecfea57398181db82e0fee1f1086b6e71a5cdbbc67cf6ee5c84"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/ocean_tower_chest.json"
@@ -4906,11 +4906,6 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "290eff1362bc6c5f98800b78b939eabdb2865f3d9af8be776c07176929d6bbfa"
-metafile = true
-
-[[files]]
-file = "mods/jaiz-mobs.pw.toml"
-hash = "604dc83801c0785b7bd9f55f898de31a5e4810a663d53230265b8725bfc11de7"
 metafile = true
 
 [[files]]

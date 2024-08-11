@@ -106,8 +106,8 @@
                   "destination": "totw_reworked:is_not_derelict_grass",
                   "decoration": "red_x",
                   "zoom": 4,
-                  "skip_existing_chunks": false,
-                  "search_radius": 200
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
                 },
                 {
                   "function": "minecraft:set_name",
@@ -132,8 +132,8 @@
                   "destination": "totw_reworked:is_not_derelict",
                   "decoration": "red_x",
                   "zoom": 4,
-                  "skip_existing_chunks": false,
-                  "search_radius": 200
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
                 },
                 {
                   "function": "minecraft:set_name",
@@ -158,8 +158,8 @@
                   "destination": "totw_reworked:is_not_ice",
                   "decoration": "red_x",
                   "zoom": 4,
-                  "skip_existing_chunks": false,
-                  "search_radius": 200
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
                 },
                 {
                   "function": "minecraft:set_name",
@@ -184,8 +184,8 @@
                   "destination": "totw_reworked:is_not_jungle",
                   "decoration": "red_x",
                   "zoom": 4,
-                  "skip_existing_chunks": false,
-                  "search_radius": 200
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
                 },
                 {
                   "function": "minecraft:set_name",
@@ -210,8 +210,8 @@
                   "destination": "totw_reworked:regular",
                   "decoration": "red_x",
                   "zoom": 4,
-                  "skip_existing_chunks": false,
-                  "search_radius": 200
+                  "skip_existing_chunks": true,
+                  "search_radius": 100
                 },
                 {
                   "function": "minecraft:set_name",
