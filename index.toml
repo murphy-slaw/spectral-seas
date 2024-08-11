@@ -462,6 +462,10 @@ file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_fun
 hash = "1aaf05c324742abb970eff2b746078cff8ca0f94d89813c599a263d96cd32809"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_level_4.json"
+hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/bold_muddy.json"
 hash = "ddf5a5a54762138cfe18cd0c0a9777d39d958cc1030131add55653af1fd3d861"
 
@@ -512,6 +516,10 @@ hash = "e41959157538102d793755c5d7238bd500583cce1393634a2a481cad8efbc2d1"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/willowshine.json"
 hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_diamond_tool.json"
+hash = "a605d9c26187497f1c65e61e721f4350180c2c1f2362cec1a13059aee5dd73e8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
@@ -4411,6 +4419,10 @@ hash = "a0db9501b56b2d6d43be4a73be56d95a06232a1b271dd469616181cad5ca4a4d"
 [[files]]
 file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
+
+[[files]]
+file = "kubejs/server_scripts/portal.js"
+hash = "c56eeed80596f9a5cceb08102f8fb5e6f48850cbe36ef9cb2ab8fa1adf681572"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
