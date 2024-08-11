@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "totw_reworked:derelict_grass",
+        "totw_reworked:derelict",
+        "totw_reworked:ice",
+        "totw_reworked:jungle",
+        "totw_reworked:ocean_warm",
+        "totw_reworked:regular"
+    ]
+}

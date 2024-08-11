@@ -542,6 +542,70 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_armorer.json"
+hash = "65b78046a475686f9580f465e8ab5b4fcb44aeb811bbe792aaae2938fa1518b4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_butcher.json"
+hash = "63024111b14df7597f3f53125b1c56dfea827d9875c6d0a59bd66d46f0e04b42"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_cartographer.json"
+hash = "5cd78c92fc4cc9b17e55802217a5d2e4ff2c3e3c6fc07c10cddcb847ae9ad17a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_desert_house.json"
+hash = "59c7997207fdcf506c5b0bdc93f2c1e7f179d39e11de247360199ee15da4e623"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_fisher.json"
+hash = "e71e42ba4cd669b4caa9da2096c6594581fb9e35e356d1fa5580caebfc49b8b2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_fletcher.json"
+hash = "2b17391015f6d657bc5200b7e00f80a3eb387654d235d63a430184fe63c0cb6a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_mason.json"
+hash = "0bb2b3a23b438bc1e4d9039f5e972c71f5a573bb99c4145d6664b4bbb4ed98fa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_plains_house.json"
+hash = "0c22ab83139f89720a92381f486323639f7d0545508cf3ee997e88172c97623e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_savanna_house.json"
+hash = "5a8927a81811311efb336ec8de74d376cc0eca3cd369eb14e2a343e600ebe5e5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_shepherd.json"
+hash = "4f972dbba3ad6717c129bec51da108e0428d6f014eb84940ebdfeac38d02073c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_snowy_house.json"
+hash = "7876aef54db402c56e05baa9f239b42f670ab84782d8329fbe2df2537ea764d9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_taiga_house.json"
+hash = "49f3d7c1d463e698e72e76894b22645fc9d6046a0f54065770e59fe51e01dbd1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_tannery.json"
+hash = "4374067cf7ad5b290449b4408600bfc6a5fcc834614819f019f6df2590478c3e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_temple.json"
+hash = "aa5381969739b26c3f10651af03f78696d30470749992a913196f425b43664c5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_toolsmith.json"
+hash = "38aa8cd5309e671a069eb5a8d293121c5b76a99b3518e4e59a92bd34365ea3f1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_weaponsmith.json"
+hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
 hash = "14e0d6708cf5a7382990119915e59ff71fb3b95b6c3491b477f00dae4a05fbfa"
 
@@ -1638,6 +1702,342 @@ file = "config/paxi/datapacks/spectral_seas/data/natures_compass/advancements/na
 hash = "a0b45e370223b212dfff9abdaf5f44278b1e79d545b6d12b4e3ebcd61e92cd99"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/archaelogy/conduit_ruin.json"
+hash = "66bbbb86617a9805d4d9b95890f1d05f14c92d26a23d51d03d056c98cd521495"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/archaelogy/crypt.json"
+hash = "70f61377732a1b5332165bdd8861d40eeef1191fd578229dca75a8f05acd3aea"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/archaelogy/desert_ruin_inside_temple.json"
+hash = "6f83697eb4ad3888543999cc2f71ff6af7c5528a060b2969263d4a0091cfe353"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/archaelogy/desert_ruin_ruins.json"
+hash = "e53497a719363c611197f282d0bc8fc51a6af19caa2b6e9be1b332853a9f0e35"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/badland_miner_outpost.json"
+hash = "8777626d3fda80d155ebf8fdb6e38fa7e947b322faabbbf47f3c12a8eb8ea08b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/badland_miner_outpost_forge.json"
+hash = "def077ff163ad290b10523ca44433bb31895a1abe3abc2d640383a78a6b18681"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/badland_miner_outpost_towers.json"
+hash = "cfbb1455d265e60f94bbbf35bc81a5d15a28e632d565bc4d5b46442c23df7050"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/conduit_ruin/conduit_ruin_big.json"
+hash = "55af35c72779f95af57d419607531dee99d20d2509f90ccd6390d587e5f15be8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/conduit_ruin/conduit_ruin_main.json"
+hash = "822c16fff0d0dbc80d3be573ebf75d6a4ef96ca8d9fb01ae9a752b824491b3fa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/conduit_ruin/conduit_ruin_small.json"
+hash = "c5abad5b1f1348d7ecf56531d5e9a25f90cbee51fe0ff4f7b2e3b88b0bbcdab1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/creeping_crypt/crypt_grave.json"
+hash = "0f30570ffe4b8aca66db93135b90c5bb50a84bdbbb179ab07836109a9ec639a2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/creeping_crypt/crypt_hallway.json"
+hash = "2427518a76085fac53339853466c1e6143edc77353d5a673c18fadc6f967cc4b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/desert_ruins/desert_ruin_grave.json"
+hash = "97df5cb2a03c084d4220c582e9423f1bc7b297f71a420896d415afb22510d2d6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/desert_ruins/desert_ruin_house.json"
+hash = "e33ba26f12f04e402ac42729f3c9ae0a2fb040dbd382caeed61adf9867f3a7dd"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/desert_ruins/desert_ruin_lesser_treasure.json"
+hash = "852c31214c071e39b3ef2ba7df03eb0e2b2a6a5d743e1dbb6db70b40112e6d97"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/desert_ruins/desert_ruin_main_temple.json"
+hash = "9b51e3ae153d553df97e05c66d0ab4a00e0234d91e166d4b6e8f1b66b1bfbada"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_1.json"
+hash = "62c41109ef6abdc5ae7929096c98282755aa04efb849dfc90bc8d489ffbd2803"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_2.json"
+hash = "67170140e55be41b6f0a9baedd2bbd99037d7f7e0218d6cf47e6f7977d31cbaf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_3.json"
+hash = "4fdba9bdb4444590878563875dff0d48a2e35e00e6ca416d388edd149309237a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_4.json"
+hash = "53ee064ec0d0c214d8bf7115fe475b43463658df9714a6b341801dbd656f5326"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_5.json"
+hash = "5378893c3ac100629dfeeb6cc39335a4a914b176fa2b859fe63c764ff7a930f4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_6.json"
+hash = "a1bee56129eefbae9eaa7b9145d9702800823ebd96af9a27e31d9754bd8dd027"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/dungeon_7.json"
+hash = "3e2d20d195db623875ffa34822a023d9c787fd5bc4e3c6fd52e0a68a1d6b0d09"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/firewatch_tower.json"
+hash = "dffdedfa11276451c27b2466a0799187b8db3f25a39d963b475d6d6f1edf40d9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/food_supply.json"
+hash = "c037a847262de35b1c6663172a9ce3e58aae5d3a4752faa77c76a39b6d3c83fc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/hamlet/hamlet.json"
+hash = "b4270e60aa659eb84d53ae3e86fe80a55a3e045c497a17fbf3d10bef183df39e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/hamlet/hamlet_tresure.json"
+hash = "0a3983f21a223152eb46ff34faa4584aa25521a645b3940daae7c1a5bc5155fd"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_camp.json"
+hash = "502816a39eddc5d318643aa9440d1f1bf660b1852fa361d59b4abf0fa9e0fba9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_brewing.json"
+hash = "d3635d24aefadb4c168d31271cbe5362bab0605dc013c8e2e9740a9b3ba688a8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_fishing.json"
+hash = "4d10f79697797d696ca8c61276ee7992c4f9c9c90ddbe9ceedd7f6dd09fb5dbb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_heart_loot.json"
+hash = "44e643cb45d92d451d9117bd685a4a24de9616fb9fe425ddb0502bf205883c51"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_lesser_tresure.json"
+hash = "b53e62463cea4037b3e4b4e747cb61ba2b7858e475af0febecec7ef8e6dd53e5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_library.json"
+hash = "c9f1df6fa6986ffb9acb9352a625a6152493a151c21b63a6a138e735bd6b6510"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_meat.json"
+hash = "aa6470a556642e8b5a809dfd0ca0f421a9d2a9093bc76285a7461ac4d36f7157"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_random.json"
+hash = "b388fe7c13ceaec1cb604227a8daa04f35572cd89d40d29f5f95da96eedef1a2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_raw_ores.json"
+hash = "57dbf2c8c59ce87bc5777be9fe0e483676ab623b060ba42867b58cde4cfddd1c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_trash.json"
+hash = "1ab56f681639efe91708b7ee075e5cfbde1402ca9fbc3cf2f5b9530675ec4bad"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_tresure.json"
+hash = "02c6ee664d7266e233a807ddbbaa592ba49f17dce5f4cd2bb0bf63efc92916a7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_utility.json"
+hash = "85b54813aa51a87e70a30b17523d1aff8a6f486dbebade2dad9d4784a5bdc9a6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_vegitarian.json"
+hash = "a0443e1e2c4a7bc2494943168806689e38be06bca16194ef16de3655e84c93ec"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_weaponry.json"
+hash = "9479b23633ca901c20f93623ec9e58620ee450e8ce98cb9481b128eef293c8ef"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/jungle_ruins/jungle_ruins_main_temple.json"
+hash = "3e7b5a876a511d976c88efdd4531f7f02d1fee346b15cc8ccf8c48cdebb78519"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/mangrove_witchhud.json"
+hash = "92823b02caaf543f9a9489487dbf918bb2ee1364b8e9547dc94f8da917c159b3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/mining_supply.json"
+hash = "1a46e85fe26193b9df589e41720c93147b02039bafd53911fd6559309e8e633e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/nether_port/nether_port_chest.json"
+hash = "e0cd4baa3bf4f2b7e9a53e93d4876838650b28a476c0eb26797c3b1bfc37f285"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/nether_port/nether_port_supplies.json"
+hash = "bba04a255d9f930e00e5b0ddfa85f69f67d3db084b9ed859d05e6180c75b78d2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/nether_skeleton_tower/skeleton_tower_camp.json"
+hash = "1992d643bcdc32971c1223743c594c516229dbeacbc4c7df74b759b4a3bd78a3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/nether_skeleton_tower/skeleton_tower_chest.json"
+hash = "a8a79932a55ff5d8195caa0e0f9ea92361201e3a11a59c4728f1473d727eb078"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/nether_skeleton_tower/skeleton_tower_supply.json"
+hash = "a881ae915cf0765243e8527442e3caca03a6be7c2a70621a9529999a547e7221"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/piglin_outstation/outstation_generic.json"
+hash = "fdd1b54e262385c34d98a125dd0259900ad126ff14464c21141997cc4f808eb9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/piglin_outstation/outstation_tower.json"
+hash = "5f7ca35b224f7c23f9d63b0577fa3788bf646baf107786bd81aa915593b434e1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/piglin_outstation/outstation_treasure.json"
+hash = "2953e503e6559bc5db79cfc4b954ab0741979cf3656df09072f735ee78d4df84"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/pillager_outpost_kitchen.json"
+hash = "bada0360eb958af101fd806d4052543b2fcd0817da14305da556f54efc8192d3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/pillager_outpost_treasure.json"
+hash = "bad161f7c096d3be306a99c618d794b80ad954d954ad6d456b12ffd616db9127"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/ruin_loot_master.json"
+hash = "aa9fa8a3a6c27fe09acb485d83894629ef9070fc761ce3ec4e51ba9f487cd2d8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/stray_fort_archer.json"
+hash = "f361e5fb90a56a7cc9785aae5aa5ac6ae10987d977b011346ee92d3fcb564c57"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/stray_fort_loot_generic.json"
+hash = "1948b03d23c71f5a0a0d4ff621b0bda7cceddcf511b5844e86fbd2a9338e2948"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/stray_fort_tresure.json"
+hash = "10ec008d763daf42a9b285ee9d5b3e7f68a3ed87f99a5a18a931dcd6361cf006"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest.json"
+hash = "d4f4b73a7901241119fb914bf589a720e690cbb7a44f6e4f521c51317067aebf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/ancient_city.json"
+hash = "791352e298d78f9131e2fcd6f4478dbed844477f97c540c1180da54d08ec9e80"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/badlands_miner_outpost.json"
+hash = "9c3063e53cc88a904f11cfd031bd4c55aaeb4febd2cd39063fa898994df4bd63"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/conduit_ruin.json"
+hash = "fabf62b2cdfc2f8e069c4bc363ecb79759d758e5490e8ed967357b94bd8ef246"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/creeping_crypt.json"
+hash = "04decc11bb1033c5645ee55a1c600802a817adcf5bf2763f271b686d7dfd56c1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/desert_ruin.json"
+hash = "fd036ca606b97212aea14a5fdc617a292fa2988a4c6d168d1f8b8fe830a7079d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/illager_hideout.json"
+hash = "668c14a4f5be78d025e51045252f2621156ce7a7235d70400335a6dd3d621700"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/illager_manor.json"
+hash = "8f39203b0091932f015a2ecead291521d4a2f49651ac1053aa0ef1a59481b003"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/jungle_ruin.json"
+hash = "2cb48f6e40e0c2e3e08dd0928e4502f44446dc390d66c13965553ef77cb56661"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/ruin_town.json"
+hash = "eba0ee0e86f97ab2e40517a5d681d4e64d279946874df2237b7d246eab2d5b05"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/stray_fort.json"
+hash = "668c14a4f5be78d025e51045252f2621156ce7a7235d70400335a6dd3d621700"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/undead_crypt.json"
+hash = "5ca7ebeea11b35a87d40c3c039499612e9d9ca457027f8ad3e537cf4148a551f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/witch_villa.json"
+hash = "2ee36cc4989017d1dec599a081c1099e4326a4bff772a38e374434a52d0db9ab"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/undead_crypts_grave.json"
+hash = "12735f84af9d771570d8fbe97f9bf10226a00cdde5358967292d3309701e65e5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/water_supply.json"
+hash = "3bc932687fa8119e8518ddd76a4c385bc8f4da3295a71ad30c74ca7f696eeb30"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/bedroom.json"
+hash = "3d89c214e4c6ed72bb807206a61943f13d9fada8212c704c37a12f82d6d109e3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/dirty_clothes.json"
+hash = "4e3cb3d8750bb5e4a4e28d82def80fa47d202ba831e539b4b5d35cc388ba1597"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/gardening.json"
+hash = "218bb7f31e3ccdca9a8f3703017126fce2f329c9131d161a6b55eb5bb6ee6d21"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/general_storage.json"
+hash = "190a7d3e00f60207bb41eb203dd89c2e7d7442242d9940806277a0171e6d8ec5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/kitchen.json"
+hash = "0c2d5775897fc9ea92572909335e85397aead5e814b8edb6e4664adadaa927d0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/lab.json"
+hash = "3d9c1a982baabee109f52afbd1f912d66393bdd61fa9b46608baa7bea77764f4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/library.json"
+hash = "b0db886bcaf8da3a5b647283791575d92f058cfb4480ce418cd6cead9cff8def"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/music_room.json"
+hash = "ab9f7045d947bfb2e9695ebd0fdf2bf9906182908f4036362554016a7a6fb432"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/potion_brewing.json"
+hash = "aa079ff0c9e2d30756e2253b91f71546d626cb08cae0a24a0edd91896408aab7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/pumpkin_room.json"
+hash = "77e2c6f4c9235a77c7a11dcd82c80229f61ade663bbaead953485d55cf59b46e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/witch_villa/slime_room.json"
+hash = "5633a90bb18dd0fa7f6aeb4af7fdc33c553ae17f036deb9fccd12c0c6beef45e"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/badlands_miner_outpost.json"
 hash = "d9fa422f3838f7c8145a203ed71ccc116c6567fdacfcdcfcc7aeeaf6a62a5264"
 
@@ -1770,6 +2170,18 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structur
 hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
+hash = "f4022e3e2ab75c7e19e15ce6e5bf3b5183b191332fd25bf1f2b24af7eb9ab10d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
+hash = "b030f92f49dd4e398d91367bd863bbeba3c6de42c6ca81b5fd60a4e1b260252a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/ocean_tower_chest.json"
+hash = "f4022e3e2ab75c7e19e15ce6e5bf3b5183b191332fd25bf1f2b24af7eb9ab10d"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
 hash = "88486a6812fdbebee593957b8693accecc2dcdc6fb9d94b073d14dcd66f2729d"
 
@@ -1778,8 +2190,40 @@ file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/bio
 hash = "cac67e0f4b391d5531d7a46f59d0be285e4e94ccd221a29eef0a0ae0c3350328"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_derelict.json"
+hash = "1139d95238cb1bcd576e834eb9b8406f146eb5b2daede0f492424246713edffc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_derelict_grass.json"
+hash = "d286951b5070471f242ac8ec138435d8d4c3a2a37fc7049debf759f0dc7bdef8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_ice.json"
+hash = "3615159a44b5b2504e6faf7f162c7f0fe7e6fdf8f3397dac0f7ef9e925b6fc7b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_jungle.json"
+hash = "5d94892f4956134d272e0f34492670c48d9ae9e209d6e81bed6c6a21afdbe34b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_ocean.json"
+hash = "384afd7694db6501286cd906aae48609d54a2d7b90928dfa587334dbaac13cdb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_ocean_warm.json"
+hash = "4a075041dd04d49b184ed330ed3b2e3eff7ece3dda10bc1b5f6a71cb22ebe953"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/is_not_regular.json"
+hash = "9349dbceebcd5d42fbddfc3b9def097fbb23ffda8e2379a8d6a7e2d24070c014"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/structure/tower.json"
 hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tower_chest.json"
+hash = "19de0c9358bca9df76bec5f28a9e8a61d6ec3ea3f551ce61cfbaec03cc250f92"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/worldgen/structure_set/derelict.json"
@@ -4462,6 +4906,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "290eff1362bc6c5f98800b78b939eabdb2865f3d9af8be776c07176929d6bbfa"
+metafile = true
+
+[[files]]
+file = "mods/jaiz-mobs.pw.toml"
+hash = "604dc83801c0785b7bd9f55f898de31a5e4810a663d53230265b8725bfc11de7"
 metafile = true
 
 [[files]]
