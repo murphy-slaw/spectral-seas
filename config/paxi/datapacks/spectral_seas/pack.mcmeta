@@ -6,7 +6,27 @@
 	"filter": {
 		"block": [
 			{
-				"namespace": "^totw_reworked",
+				"namespace": "mostructures",
+				"path": "advancements/.*"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "advancements/.*"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "advancements/.*"
+			},
+			{
+				"namespace": "things",
+				"path": "advancements/.*"
+			},
+			{
+				"namespace": "hopo",
+				"path": "advancements/.*"
+			},
+			{
+				"namespace": "minecraft",
 				"path": "advancements/.*"
 			}
 		]
