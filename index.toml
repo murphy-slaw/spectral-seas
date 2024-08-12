@@ -122,11 +122,11 @@ hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "71e5a24a2d607f065c5ac1316e975659482bef1fb334e9be836573e92e736eb3"
+hash = "f263edf15035978c896de2484dbcf013c88613685777a1d20c40704d8efefea4"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "fe6f9d26a3ce2a0e308dd3676be91765942721d890d83c9636e39e1136b1a5fb"
+hash = "5b586a19a16a87596a370f5933622bfda8ebde66a7971553feb694f0ebba1b17"
 
 [[files]]
 file = "config/emi.css"
@@ -3510,7 +3510,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "990f834ff93264fd67da68594362b6cb327ad715b7b08c1a2a4284180eceb5f4"
+hash = "5245f3193034e880ea59150fc951aee9b81a011a068ccecc34f545b17439d011"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt"
