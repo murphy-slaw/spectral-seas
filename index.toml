@@ -4706,6 +4706,11 @@ hash = "bbb4d73b73cabaac034020a55031a3c9fa36a0e040f3f5fae09e95a8fbbecd7c"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "bd6bb1295c24783c0da7ae8ffc9406b895e15b3e87f045a608bd7e733c8c7f51"
 metafile = true
