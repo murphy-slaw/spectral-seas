@@ -2175,7 +2175,7 @@ hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/revelations/reveal_mystical_flowers.json"
-hash = "ea1412b91f2a3fd6954044e01a948754afa873c2c59d0282434d73045f9e0072"
+hash = "7e4be20290fe21687227521412f587f83994f5a4276d1df561ac35a45043c709"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"

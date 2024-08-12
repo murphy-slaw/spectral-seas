@@ -49,7 +49,24 @@
         "botania:brown_double_flower[half=lower]": "minecraft:peony[half=lower]",
         "botania:green_double_flower[half=lower]": "minecraft:peony[half=lower]",
         "botania:red_double_flower[half=lower]": "minecraft:peony[half=lower]",
-        "botania:black_double_flower[half=lower]": "minecraft:peony[half=lower]"
+        "botania:black_double_flower[half=lower]": "minecraft:peony[half=lower]",
+
+        "botania:white_mushroom": "minecraft:brown_mushroom",
+        "botania:orange_mushroom": "minecraft:brown_mushroom",
+        "botania:magenta_mushroom": "minecraft:red_mushroom",
+        "botania:light_blue_mushroom": "minecraft:red_mushroom",
+        "botania:yellow_mushroom": "minecraft:brown_mushroom",
+        "botania:lime_mushroom": "minecraft:brown_mushroom",
+        "botania:pink_mushroom": "minecraft:red_mushroom",
+        "botania:gray_mushroom": "minecraft:brown_mushroom",
+        "botania:light_gray_mushroom": "minecraft:brown_mushroom",
+        "botania:cyan_mushroom": "minecraft:brown_mushroom",
+        "botania:purple_mushroom": "minecraft:red_mushroom",
+        "botania:blue_mushroom": "minecraft:brown_mushroom",
+        "botania:brown_mushroom": "minecraft:red_mushroom",
+        "botania:green_mushroom": "minecraft:brown_mushroom",
+        "botania:red_mushroom": "minecraft:red_mushroom",
+        "botania:black_mushroom": "minecraft:brown_mushroom"
     },
     "items": {
         "botania:white_petal": "minecraft:white_dye",
