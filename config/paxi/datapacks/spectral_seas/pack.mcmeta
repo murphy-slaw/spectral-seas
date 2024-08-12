@@ -1,9 +1,13 @@
 {
 	"pack": {
-		"pack_format": 15,
-		"description": [
+		"description": "Structure placement tweaks and other nonsense",
+		"pack_format": 15
+	},
+	"filter": {
+		"block": [
 			{
-				"text": "Structure placement tweaks and other nonsense"
+				"namespace": "^totw_reworked",
+				"path": "advancements/.*"
 			}
 		]
 	}
