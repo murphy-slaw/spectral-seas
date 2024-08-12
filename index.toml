@@ -527,7 +527,7 @@ hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_diamond_tool.json"
-hash = "a605d9c26187497f1c65e61e721f4350180c2c1f2362cec1a13059aee5dd73e8"
+hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
