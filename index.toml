@@ -2650,11 +2650,6 @@ hash = "8b99545cf754d14118dc98f813eb013c925c462b2df94ab1384f1ea4362707c5"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
@@ -2822,11 +2817,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
@@ -3075,11 +3065,6 @@ hash = "ad086b6130afe03daf2163f800f0b2a9f36ffaf1dea4c0eb048cd3e1ba88ab25"
 metafile = true
 
 [[files]]
-file = "mods/konkrete-fabric.pw.toml"
-hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
@@ -3257,11 +3242,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bc8b80d3626c3d0a77bb576964bc7b9ba4b5d562ec37e6970f06a1d73d5040e4"
-metafile = true
-
-[[files]]
-file = "mods/panoramica-fabric.pw.toml"
-hash = "c06a6ad54b936d359b6cb76abbc6ebbfcc9d249fba24a87fe965c6acd8820284"
 metafile = true
 
 [[files]]
