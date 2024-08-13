@@ -530,6 +530,14 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_dia
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_feature/lake_lava_surface.json"
+hash = "8397760a8f902f008bea2bac8b985ccbf1e27de7466ceaebf97d5261549522cc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_feature/spring_lava.json"
+hash = "e5e59024ff69d984b056d2cd271683facf8a0a39bac6cb3d6433d101aabb7110"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
@@ -2159,15 +2167,15 @@ hash = "61af7ff093ee6c88a344668ec3ceb57363d7700c8335a512b1234a37259b561f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_desert_lava.json"
-hash = "f6935008f542ac35fa94480d47a0d22519556fb76dc8670e273bed54eac268b3"
+hash = "b9bc3d30fa93c639d6ed064f49398e56d1392441dda29f34310094b0467d26cb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_lava_springs.json"
-hash = "8ea74108a693fb61710afd8ce10a5ca0edaa53a0e738d6a7786c3315d0b3cf7d"
+hash = "8b31b624f0ec2fcfe36dc2e214730fd4773bc877562a625222dfd4b71bf21e97"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_surface_lava.json"
-hash = "9cbea34a52cd4d1aeb8d4ef1cc321586f19d56eaf667da216aa154a001ed6518"
+hash = "f75d336c5e306ada1b6b123dcdd8b4f20561505f630fda15ab125b5f2e8b9b8b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
