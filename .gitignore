@@ -12,3 +12,4 @@ server
 # vscode schmutz
 .vscode
 /.idea/
+*.code-workspace

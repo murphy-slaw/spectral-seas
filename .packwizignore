@@ -4,3 +4,4 @@ server
 .gitmodules
 *.aup3*
 design_docs
+*.code-workspace
