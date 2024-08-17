@@ -2865,6 +2865,10 @@ file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
+file = "kubejs/server_scripts/musketeers_replace_pillagers.js"
+hash = "7b9e1eb4fdc7f08b40cb07691ac3a88c572551f523ff80e7afdc0042937934a6"
+
+[[files]]
 file = "kubejs/server_scripts/portal.js"
 hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
