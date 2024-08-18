@@ -1,0 +1,13 @@
+name = "Alternative shot sounds for ewewukek's Musket "
+filename = "Musketmod(v1.4.5)- Michail01011101's alternative sounds_v2.3.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee488d7fc7155dde697a4d499863de12e4e8bd26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4405708
+project-id = 828974

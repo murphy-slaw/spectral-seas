@@ -2347,12 +2347,22 @@ file = "config/paxi/resourcepacks/VanillaTweaks_r336550.zip"
 hash = "018a2acf3eb608eebe296d200f5f6e3bd3a895e514a0298b2c9c122fa7e1cda4"
 
 [[files]]
+file = "config/paxi/resourcepacks/alternative-sounds-musket-mod.pw.toml"
+hash = "c4e7f6ed7d367fe8fd161030d2ded70f8ed632a64b63176cd664ffda1b993fb7"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
 file = "config/paxi/resourcepacks/ctm-overhaul.pw.toml"
 hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/musket-textures-by-quartofel.pw.toml"
+hash = "66c9e05c3f66b583c71d4689204fc8dbc81cd93f3c996fc8c7044166fd717d68"
 metafile = true
 
 [[files]]

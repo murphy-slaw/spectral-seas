@@ -1,0 +1,13 @@
+name = "Musket textures by Quartofel"
+filename = "alternative-musket-textures-1.20.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac3ccdf92ed3d7efbf2122e365db52fdcaf1c38f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5137597
+project-id = 979777
