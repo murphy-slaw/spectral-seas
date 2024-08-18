@@ -470,6 +470,10 @@ file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_fun
 hash = "1aaf05c324742abb970eff2b746078cff8ca0f94d89813c599a263d96cd32809"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
+hash = "3cd2964085b6c5f78e3bcde1f0e80acadc58f732386351bee2448295980451fd"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_level_4.json"
 hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
 
@@ -2865,16 +2869,16 @@ file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
-file = "kubejs/server_scripts/musketeers_replace_pillagers.js"
-hash = "7b9e1eb4fdc7f08b40cb07691ac3a88c572551f523ff80e7afdc0042937934a6"
-
-[[files]]
 file = "kubejs/server_scripts/portal.js"
 hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_replacements.js"
+hash = "585105276b85639de1f4bff4706d2e7365ffe7d1d882492830343d3b00718528"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
