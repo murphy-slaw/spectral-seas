@@ -17,7 +17,7 @@
                   "type": "add",
                   "argument1": {
                      "argument": {
-                        "xz_scale": 0.0125,
+                        "xz_scale": 0.25,
                         "y_scale": 0.0,
                         "noise": "continents:island_noise",
                         "type": "minecraft:noise"

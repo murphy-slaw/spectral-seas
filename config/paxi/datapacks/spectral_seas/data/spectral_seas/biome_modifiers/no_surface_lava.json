@@ -1,6 +1,9 @@
 {
     "type": "biome_modifier:remove_features",
     "biomes": "#minecraft:has_feature/lake_lava_surface",
-    "features": "minecraft:lake_lava_surface",
+    "features": [
+        "minecraft:lake_lava_surface",
+        "minecraft:lake_lava_underground"
+    ],
     "step": "lakes"
 }

@@ -20,10 +20,10 @@
                         {
                               "location": 0.0,
                               "derivative": 0.335,
-                              "value": -0.095
+                              "value": -0.1
                         }
                   ]
             }
       },
-      "argument2": -0.2 
+      "argument2": -0.1
 }

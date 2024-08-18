@@ -447,7 +447,7 @@ hash = "0c7bc2994ce7e2510a59f9188c453cf256eb400b5d2dff3f983c1e55286a4a5f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
-hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
+hash = "f5311c44b7b836d4b6c87f7c550bee39b40840d629c41843b2caa423fd635a52"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_adjusted.json"
@@ -463,11 +463,11 @@ hash = "e5926a5aa4f5bbdb9da24e920bf6d73d08d7dd3b6728517632bf9e385e195d56"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_squared.json"
-hash = "fe1a79838122f32a6e0643fc0f0ef9541d9da994e8bb2deecba4118acbb6f526"
+hash = "bfe346464e3316bb05c4a5a88cd8cd9d4d3df4eeee4290ec194fe586da6a8ab6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/islands.json"
-hash = "1aaf05c324742abb970eff2b746078cff8ca0f94d89813c599a263d96cd32809"
+hash = "6a093d4ab65d3f156909a9dd2c19311ccacd341626b0de38f0a067419c893326"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
@@ -535,7 +535,7 @@ hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_feature/lake_lava_surface.json"
-hash = "8397760a8f902f008bea2bac8b985ccbf1e27de7466ceaebf97d5261549522cc"
+hash = "3b7e530e215bfb59371c6d530333642a431c5c1e07316c937d6f73969e303604"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_feature/spring_lava.json"
@@ -635,7 +635,7 @@ hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "14e0d6708cf5a7382990119915e59ff71fb3b95b6c3491b477f00dae4a05fbfa"
+hash = "d0d13e29d0f27a42b88db1582fc206de150946490b00ab936bd23da7d7d24dd5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -2167,23 +2167,23 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_amethyst.json"
-hash = "7835bd9ae8c6b0ba3062478451ec87c1021655f1c64b75294b739788180dda4b"
+hash = "5842533d305a291c82b4a6bb089a7f86340b0ecdcf0df6d4e17a499646e4cd1b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
-hash = "61af7ff093ee6c88a344668ec3ceb57363d7700c8335a512b1234a37259b561f"
+hash = "9da19637127a4d74b2df887bcb1626f40361dc36e19e0a6f3f7a9bf76744baaa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_desert_lava.json"
-hash = "b9bc3d30fa93c639d6ed064f49398e56d1392441dda29f34310094b0467d26cb"
+hash = "037276d6da302ed54e2af75a7c093815b4f953287e310799dc70fca0c39dda30"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_lava_springs.json"
-hash = "8b31b624f0ec2fcfe36dc2e214730fd4773bc877562a625222dfd4b71bf21e97"
+hash = "c1fe411d410d86f125506ec1cb50096079ab28cba58bb20a5b6ff059d49cb54b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_surface_lava.json"
-hash = "f75d336c5e306ada1b6b123dcdd8b4f20561505f630fda15ab125b5f2e8b9b8b"
+hash = "441fba9eb61ae7ab2c16314694f58465e6da54cfc089b6536ed0adc1623d2ead"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
@@ -2362,12 +2362,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/musket-textures-by-quartofel.pw.toml"
-hash = "66c9e05c3f66b583c71d4689204fc8dbc81cd93f3c996fc8c7044166fd717d68"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/pillager-to-pirate.pw.toml"
-hash = "2d01ccc2aeb52aefdf436e9d697f932ffab44cbf54fe5f4e7d84b458238dbb92"
+hash = "21ae5caa1e54b43bf750d322ee1a54acb0d226233402c2a39cb4eb098617676d"
 metafile = true
 
 [[files]]

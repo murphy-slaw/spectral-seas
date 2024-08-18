@@ -1,7 +1,9 @@
 {
-    "type": "biome_modifier:add_features",
-    "biomes": "#is_deep_ocean",
-    "features": "minecraft:amethyst_geode",
-    "step": "local_modifications",
-    "priority": "1001"
-  }
+  "type": "biome_modifier:add_features",
+  "biomes": "#is_deep_ocean",
+  "features": [
+    "minecraft:amethyst_geode"
+  ],
+  "step": "local_modifications",
+  "priority": "1001"
+}
