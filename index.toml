@@ -3371,6 +3371,11 @@ hash = "290eff1362bc6c5f98800b78b939eabdb2865f3d9af8be776c07176929d6bbfa"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0cd8548a5328e38da7b2f4bf7eebc1552b085fff42012202f8bb75aa32ef8531"
 metafile = true
@@ -3498,6 +3503,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "05023a7f39259dd40e512ec253d8114ae93ac5a53b01f284625e5d5f8c1132fb"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
@@ -3642,6 +3652,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backup.pw.toml"
 hash = "2d4fccb7df6a41dc8f6bf3058c213d2c80883952cbfd17986881c8ceb1a557f7"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "de37a29e69473c7532f8f17a44add66ab5d38c971b04a07a235543a159741040"
 metafile = true
 
 [[files]]
