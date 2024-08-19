@@ -1,6 +1,7 @@
 name = "M.R.U"
 filename = "mru-0.4.5+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/iWXYbRTB/mru-0.4.5%2B1.20.1.jar"
