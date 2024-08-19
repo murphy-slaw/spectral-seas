@@ -3487,7 +3487,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "57ab6bddc4600575851c6498020aa7b1fd176d29456bfd1d90ff8db560166642"
+hash = "31e02e6b22a75f70ee43bf26292190ce97ae241a0924258e1ad39d5a6ff2f2ba"
 metafile = true
 
 [[files]]
