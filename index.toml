@@ -3376,6 +3376,11 @@ hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
 metafile = true
 
 [[files]]
+file = "mods/items-displayed.pw.toml"
+hash = "6d70ec9a97dca52dd3c2b0257fcf1d942859548d6323b237671245388e91bfc4"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0cd8548a5328e38da7b2f4bf7eebc1552b085fff42012202f8bb75aa32ef8531"
 metafile = true
@@ -3588,6 +3593,11 @@ metafile = true
 [[files]]
 file = "mods/pesky_seagulls-1.2.0.jar"
 hash = "fdfa9f580bc7941d91b9c7e37513840cdc6a0322f02e99899f442b6a2756f507"
+
+[[files]]
+file = "mods/placeables.pw.toml"
+hash = "23e1b980e69e197aba95c5385aebdf438cad3a76872b79e7e6873b1075d1965d"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
