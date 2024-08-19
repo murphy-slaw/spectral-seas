@@ -1,13 +1,13 @@
 name = "Biome Modifier for Fabric"
-filename = "biome_modifier-1.20.1+1.0.1-pre.jar"
+filename = "biome_modifier-1.20.1+1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LisiviFp/versions/HZnxmnQS/biome_modifier-1.20.1%2B1.0.1-pre.jar"
+url = "https://cdn.modrinth.com/data/LisiviFp/versions/1YHnp52w/biome_modifier-1.20.1%2B1.0.1.jar"
 hash-format = "sha1"
-hash = "bc5311093ee41f67832a9cd57c0ca38b0613973a"
+hash = "6ce296412af8bf5fc4e0ca026d2c87b38a498812"
 
 [update]
 [update.modrinth]
 mod-id = "LisiviFp"
-version = "HZnxmnQS"
+version = "1YHnp52w"

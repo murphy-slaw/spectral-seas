@@ -1,13 +1,13 @@
 name = "Kiwi Library"
-filename = "Kiwi-1.20.1-fabric-11.6.3.jar"
+filename = "Kiwi-1.20.1-Fabric-11.8.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/eHo98RlA/Kiwi-1.20.1-fabric-11.6.3.jar"
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/G3h00JKd/Kiwi-1.20.1-Fabric-11.8.24.jar"
 hash-format = "sha1"
-hash = "86cc355afc695c3118ea18cae5b9c51a9e774fbe"
+hash = "c893e6b3302671e36ababf29af8fecf1a91ba4a1"
 
 [update]
 [update.modrinth]
 mod-id = "ufdDoWPd"
-version = "eHo98RlA"
+version = "G3h00JKd"

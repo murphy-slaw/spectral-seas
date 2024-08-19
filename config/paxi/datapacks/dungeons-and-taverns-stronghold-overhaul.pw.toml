@@ -1,6 +1,7 @@
 name = "Dungeons and Taverns Stronghold Overhaul"
 filename = "DnT Stronghold Rework.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rYocd2LE/versions/joE0OpmS/DnT%20Stronghold%20Rework.zip"
