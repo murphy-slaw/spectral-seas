@@ -2886,6 +2886,10 @@ file = "kubejs/server_scripts/spawn_replacements.js"
 hash = "585105276b85639de1f4bff4706d2e7365ffe7d1d882492830343d3b00718528"
 
 [[files]]
+file = "kubejs/server_scripts/starter_kit.js"
+hash = "8f7bbd2740d366fd6999f650a29e22b6d99bfc71acfe4e58a639ce4b081c252a"
+
+[[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
 hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
 
