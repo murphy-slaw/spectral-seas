@@ -443,31 +443,15 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "0c7bc2994ce7e2510a59f9188c453cf256eb400b5d2dff3f983c1e55286a4a5f"
+hash = "98a3594a66200a9ebf7bd93bd56cad0b5a4bc50f3b73723a252d79c28e5c7507"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
-hash = "f5311c44b7b836d4b6c87f7c550bee39b40840d629c41843b2caa423fd635a52"
+hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_adjusted.json"
-hash = "4f509de4c12f1ba4c161860bca8b076e1c56f6780dd5b33875c9b0749b8d6a38"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_amount.json"
-hash = "ed612cbb436e11aea4ce7d0616bf63b61735ab2dd0aa6071adf6dd23a8c1a27b"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_impact.json"
-hash = "e5926a5aa4f5bbdb9da24e920bf6d73d08d7dd3b6728517632bf9e385e195d56"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/island_squared.json"
-hash = "bfe346464e3316bb05c4a5a88cd8cd9d4d3df4eeee4290ec194fe586da6a8ab6"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/islands.json"
-hash = "6a093d4ab65d3f156909a9dd2c19311ccacd341626b0de38f0a067419c893326"
+file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/continent_bias.json"
+hash = "284d549447254388922cd789e7062923b4e10ca371c97176799682d1e748cd9f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
@@ -635,7 +619,15 @@ hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "d0d13e29d0f27a42b88db1582fc206de150946490b00ab936bd23da7d7d24dd5"
+hash = "1d3cc9f1179c722d162a8e17cbda3071fb27640ec88769e591c10243fa0f0795"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/continents.json"
+hash = "d40fd73b2c57d748ba3dfc991bb403467cd93c0e01d7188d2f790e3ce3c30746"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
+hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
