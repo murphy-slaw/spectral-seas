@@ -1,0 +1,38 @@
+{
+      "type": "flat_cache",
+      "argument": {
+            "type": "cache_2d",
+            "argument": {
+                  "type": "max",
+                  "argument1": {
+                        "type": "spline",
+                        "spline": {
+                              "coordinate": "overworld/base_continents",
+                              "points": [
+                                    {
+                                          "location": 0.205,
+                                          "derivative": 0.7,
+                                          "value": -0.3
+                                    },
+                                    {
+                                          "location": 0.215,
+                                          "value": -0.12,
+                                          "derivative": 0.773
+                                    },
+                                    {
+                                          "location": 0.55,
+                                          "value": -0.05,
+                                          "derivative": 0.048
+                                    },
+                                    {
+                                          "location": 0.725,
+                                          "value": 0.2,
+                                          "derivative": 7.674
+                                    }
+                              ]
+                        }
+                  },
+                  "argument2": "continents:centroid/spawn_island"
+            }
+      }
+}

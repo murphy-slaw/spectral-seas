@@ -373,11 +373,6 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystone
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
 
 [[files]]
-file = "config/paxi/datapacks/dungeons-and-taverns-stronghold-overhaul.pw.toml"
-hash = "f92fb090f9bbe7e76706a37d8cc665da04514ba3910cdbf6ab48503d0f05bf76"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
 hash = "6d7601f2b5bfd710459c5c273c514bede346bc84c8f42b8852b1372dfacad32b"
 metafile = true
@@ -442,12 +437,20 @@ hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
+hash = "5c6e6fad0a57167976dbe261302e96024a14e067cea968c98fd25a66421ce220"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
-hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
+hash = "cadf5541f56ae22b7e9ea0a2639c56f20cc825b401cccea0675e3273c7e4f5e5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/continent_bias.json"
 hash = "284d549447254388922cd789e7062923b4e10ca371c97176799682d1e748cd9f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/dimension/overworld.json"
+hash = "299b6dc9ee48ae6fcf5d75a28d44a6465037e0eca9dca966069e00e8391ee8a3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
@@ -615,7 +618,7 @@ hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "1d3cc9f1179c722d162a8e17cbda3071fb27640ec88769e591c10243fa0f0795"
+hash = "5a9ec1403efc05af167a4d849b327bffa9ec3ddb132ea49642cd0f468817d473"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/continents.json"
@@ -624,6 +627,22 @@ hash = "d40fd73b2c57d748ba3dfc991bb403467cd93c0e01d7188d2f790e3ce3c30746"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
 hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
+hash = "f52081c0b39e5014c8cdf16898f9d143d3571f75c669d8910fd46994100ded0f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/erosion.json"
+hash = "66a631ac1d01ed8d9ec7521b9fec38fe5dbcf7acb02e064f168db36941762a00"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/temperature.json"
+hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/vegetation.json"
+hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
