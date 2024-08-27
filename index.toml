@@ -3865,6 +3865,11 @@ hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
+metafile = true
+
+[[files]]
 file = "options.amecsapi.txt"
 hash = "5245f3193034e880ea59150fc951aee9b81a011a068ccecc34f545b17439d011"
 
