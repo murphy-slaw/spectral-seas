@@ -270,7 +270,7 @@ hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "41920e044510dd93da7f0fd7a6529f0761aaba27f693a242cd8401d4a1c9ae82"
+hash = "8e201853143e2b8c8d9af6959ccf591adde2936e3b3cb8cbaffb1856acd54981"
 
 [[files]]
 file = "config/grapplemod.json"
@@ -365,12 +365,32 @@ file = "config/patchoulibutton.json5"
 hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
+file = "config/paxi/DnT Stronghold Rework.zip"
+hash = "e99904249c05e14fd8fffc254f1023f36e767d5e64425c25a9bd93f84ec37657"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "e732117c8fb313318cdf2a6a5daa80710c74e5a02383c3da4d0df10d61e9b112"
 
 [[files]]
+file = "config/paxi/datapacks/Dungeons and Taverns 3.0.3.fix.zip"
+hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
+
+[[files]]
+file = "config/paxi/datapacks/STRAYED FATES Forsaken 1.20+ v1.1.3.0.zip"
+hash = "7527910f852924b869be12d509267e5bfeea1bdf131b71a849a6cf09675da40c"
+
+[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
+
+[[files]]
+file = "config/paxi/datapacks/[Datapack Ver.]HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7.zip"
+hash = "060569d69d3fdc380473873ed5909cb8ee025e93a87ab11aaa4b235ec70795c1"
+
+[[files]]
+file = "config/paxi/datapacks/[DatapackVer.]HopoBetterUnderwaterRuins-[1.20-1.20.2]-1.1.4.zip"
+hash = "e7d4d8b26f7ea68a9bc01afb170c5653242b0eac623ae63b396e1f8ae902118a"
 
 [[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
@@ -435,6 +455,10 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
 hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/spawnanimations-v1.9.4-mc1.17x-1.20x-datapack.zip"
+hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
@@ -678,7 +702,7 @@ hash = "12c46dbb1f1fd4f874037acb824013867a3c2153808b01838ec62b90d64c02bf"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "109bef6398e401444e7f65ed9a2140e1c099c8f1af2b4312777a81cd5e09ae36"
+hash = "400f89544fdac26429462fc155eb0cd42082ba9fb7e58fe86125abcf717c7833"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -2374,8 +2398,20 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/CTM-Overhaul-V_5.0.zip"
+hash = "7997c352411bcdd04a9d89317ecc115832ef85f93d38530d24d79f22eba1d76a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Musketmod(v1.4.5)- Michail01011101's alternative sounds_v2.3.7.zip"
+hash = "86d73d18dbd5ec72f19b7cb8ebba22effd99eee4b7ff0a3b7be2a350dc846739"
+
+[[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r336550.zip"
 hash = "018a2acf3eb608eebe296d200f5f6e3bd3a895e514a0298b2c9c122fa7e1cda4"
+
+[[files]]
+file = "config/paxi/resourcepacks/alternative-musket-textures-1.20.zip"
+hash = "a47fe2711731e0f1bb6e76117f096da539da05d821450a326da3f8926de4f760"
 
 [[files]]
 file = "config/paxi/resourcepacks/alternative-sounds-musket-mod.pw.toml"
