@@ -438,7 +438,15 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "2eb14b819c377d1bb9ed7664d8c6769d8771959d9e191bcd199ecdb911615594"
+hash = "27088b8c863327e6c8ddb0b997c56262b3e7b59bc7e50dc4628aac694244669d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents_orig.json"
+hash = "de463e42657582c0d34815e58797cf84654f0d24b851b5cecd5b9d4b8d846d44"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_erosion.json"
+hash = "e63bb3f7729c9ece0732527e140098294c53ed3756247a1851f516702397df1f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
@@ -446,7 +454,7 @@ hash = "24599c9df753cfa9f1d122898291798855e548b230ff5d4fda3f01a93cacb35e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/continent_bias.json"
-hash = "cc3f8943f7f3b47cb31ef6ed7d4e7995f632b98bf9f197ebf0ff8d4c1bb21ba1"
+hash = "80ed56f2f5ef7865e6fcca2ab166b3e1f42a17bb2e6b44092ff99571704667d1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/noise/island_amount.json"
@@ -629,8 +637,16 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_func
 hash = "5585615d5d505519c9e022cfe65270e3756fc3b261a348e927b61f245e6c79a5"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_erosion.json"
+hash = "73215600efa36327a98f81a447e8ef8bd080297feef4df49ac91f80aec856f95"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/continents.json"
 hash = "d40fd73b2c57d748ba3dfc991bb403467cd93c0e01d7188d2f790e3ce3c30746"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/erosion.json"
+hash = "ade83b197dcafb74bd35b08c747cebee5cc720a694b25c62d6f6747f38b00e1e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
@@ -638,11 +654,7 @@ hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
-hash = "f52081c0b39e5014c8cdf16898f9d143d3571f75c669d8910fd46994100ded0f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/erosion.json"
-hash = "66a631ac1d01ed8d9ec7521b9fec38fe5dbcf7acb02e064f168db36941762a00"
+hash = "0ae195ace5d5058e7dc273f1c109d8f04f47b6f367c52f21fbf6721741f0c845"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/temperature.json"

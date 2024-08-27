@@ -1,38 +1,43 @@
 {
-      "type": "flat_cache",
-      "argument": {
-            "type": "cache_2d",
-            "argument": {
-                  "type": "max",
-                  "argument1": {
-                        "type": "spline",
-                        "spline": {
-                              "coordinate": "overworld/base_continents",
-                              "points": [
-                                    {
-                                          "location": 0.205,
-                                          "derivative": 0.7,
-                                          "value": -0.3
-                                    },
-                                    {
-                                          "location": 0.225,
-                                          "value": -0.12,
-                                          "derivative": 0.773
-                                    },
-                                    {
-                                          "location": 0.475,
-                                          "value": -0.014,
-                                          "derivative": 0.095
-                                    },
-                                    {
-                                          "location": 0.625,
-                                          "value": 0.1,
-                                          "derivative": 0.089
-                                    }
-                              ]
-                        }
-                  },
-                  "argument2": "continents:centroid/spawn_island"
+  "type": "flat_cache",
+  "argument": {
+    "type": "cache_2d",
+    "argument": {
+      "type": "max",
+      "argument1": {
+        "type": "spline",
+        "spline": {
+          "coordinate": "overworld/base_continents",
+          "points": [
+            {
+              "location": 0.19,
+              "value": -0.275,
+              "derivative": 0.7
+            },
+            {
+              "location": 0.203,
+              "value": -0.273,
+              "derivative": 1.246
+            },
+            {
+              "location": 0.234,
+              "value": -0.194,
+              "derivative": -0.003
+            },
+            {
+              "location": 0.265,
+              "value": -0.15,
+              "derivative": 1.493
+            },
+            {
+              "location": 0.61,
+              "value": 0.75,
+              "derivative": 2.377
             }
-      }
+          ]
+        }
+      },
+      "argument2": "continents:centroid/spawn_island"
+    }
+  }
 }
