@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "27088b8c863327e6c8ddb0b997c56262b3e7b59bc7e50dc4628aac694244669d"
+hash = "37a1519fcbf9cbe787cb3413477bfb8d28b7e5d6fd8ca68e79ae3b41b25b97fe"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents_orig.json"
@@ -634,7 +634,7 @@ hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "5585615d5d505519c9e022cfe65270e3756fc3b261a348e927b61f245e6c79a5"
+hash = "3448197b8316887e88c55f9c10c9d52e0dd18331b0c8512e5106053dcf81faee"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_erosion.json"
@@ -645,8 +645,12 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_func
 hash = "d40fd73b2c57d748ba3dfc991bb403467cd93c0e01d7188d2f790e3ce3c30746"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/erosion.json"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/erosion_new.json"
 hash = "ade83b197dcafb74bd35b08c747cebee5cc720a694b25c62d6f6747f38b00e1e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/factor.json"
+hash = "5643505c0208dfac3c4674a7528f2c1e94eff9cac6b5da88724a71d84868363a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
@@ -654,7 +658,7 @@ hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
-hash = "0ae195ace5d5058e7dc273f1c109d8f04f47b6f367c52f21fbf6721741f0c845"
+hash = "a128eee77612d84efb64d5e590bb4bc36f2c968b481995c70ebbef9cadcc3a51"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/temperature.json"
