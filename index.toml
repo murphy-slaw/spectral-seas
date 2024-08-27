@@ -3071,11 +3071,6 @@ hash = "336e07640931f18456fcebe32417f353469ad73abc28b97be5205a256a8ffd3a"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "4e01c4e9a3a5b5c541060bdd8497467ab769229d9f5daea5dfa792ee7b18e4cc"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
 metafile = true
@@ -3188,11 +3183,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "bd6bb1295c24783c0da7ae8ffc9406b895e15b3e87f045a608bd7e733c8c7f51"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "054822dc9c6699631ee8cecca89586b4cf9094ca076df2df17bee8c2edf6c167"
 metafile = true
 
 [[files]]
@@ -3482,7 +3472,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "a7d693a51e194e5d71617fe9e165edd8ee9937a7be3962f3572e4e5c36f90c27"
+hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
@@ -3736,7 +3726,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c808bc581991c983a2f84e8dae9ed6fb815253115295ad21100ec453e246cf4b"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
