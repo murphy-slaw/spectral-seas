@@ -2980,7 +2980,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "b47106f74982ba3a45e7213a4c254d895ec23193b57d4944c4c9fb1de2fbcb20"
+hash = "ccac26a3ebdf1892fc02930881b03ed0dc13524314a53f04f197a20ea6f02382"
 metafile = true
 
 [[files]]
@@ -3744,7 +3744,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "6315d5af2538d98fd14c488548ba3930162618704c9dfa0ab0baef5cfcf02b88"
+hash = "6a41895cb46295cf605936921d99a90a38920eabbb65d1a68dd97df206d26d23"
 metafile = true
 
 [[files]]
@@ -3779,7 +3779,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "414e7f2cb7d0fed9d547b705062c954ecf911ddcfa4cc89ebc12ac0607bdb60d"
+hash = "8057ab65e227873389ae3ce246fe3e39bf39213b58c7170bdb6801899ea280ee"
 metafile = true
 
 [[files]]
