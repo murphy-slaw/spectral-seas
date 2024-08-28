@@ -10,29 +10,29 @@
           "coordinate": "overworld/base_continents",
           "points": [
             {
-              "location": 0.0075,
+              "location": 0.057,
               "value": -0.285,
-              "derivative": 1.017
+              "derivative": 0.95
             },
             {
-              "location": 0.14,
+              "location": 0.19,
               "value": -0.19,
-              "derivative": 0.864
+              "derivative": 0.1
             },
             {
-              "location": 0.16,
+              "location": 0.21,
               "value": -0.15,
-              "derivative": -0.453
+              "derivative": 0.1
             },
             {
-              "location": 0.335,
+              "location": 0.23,
               "value": -0.11,
-              "derivative": 0
+              "derivative": 1.57
             },
             {
-              "location": 0.61,
-              "value": 0.75,
-              "derivative": 0.75
+              "location": 0.6,
+              "value": 0.5,
+              "derivative": 0.25
             }
           ]
         }
