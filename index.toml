@@ -462,7 +462,7 @@ hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "d0f3f25a1c9e8792f38fd2c623b22883a1022445b5e792fbb53cbafc93c3f6d4"
+hash = "a4de5c35da386f8ca8b73bbbdefd3603aab35372696f2d8c18f02b49d4cb06a3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
@@ -637,16 +637,8 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_weapo
 hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_carver/canyon.json"
-hash = "c7b2765a8d6575e558a0cb4ec2763e1626ee1b05901cf277878880ecb7af0131"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_carver/cave.json"
-hash = "5896ff19c3c0f6abfdd02db58210171c47b0751827dd4b14264b4bab137ea9f7"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_carver/cave_extra_underground.json"
-hash = "657c502971ab41075d78dc47568cc2bead87fc59ce84a961ba1a73c12646cf4a"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_3d_noise.json"
+hash = "ea753c0dbde84f93aecc8bf9a22932026ed8a16278ce35e5141950c2de28eda7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
@@ -662,7 +654,11 @@ hash = "5643505c0208dfac3c4674a7528f2c1e94eff9cac6b5da88724a71d84868363a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
-hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
+hash = "ef89a7b8afaceb0b08fd5cd3a10965c7ed671bdc816239c467a97331eb57eba0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/3d_base.json"
+hash = "de0085b1ac6250af656f5afb2b27c01d6a78cdb4d18084b06d67f076c4487970"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
@@ -670,7 +666,7 @@ hash = "ba429dff69e91fced7b8d2f737a9c13f625d3290608fb21a2142431a0cbec0ef"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/temperature.json"
-hash = "ee58627ac48446d69ab3cf66ba5227da35de882d2d35d14903e187b5bc0cf888"
+hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/vegetation.json"
