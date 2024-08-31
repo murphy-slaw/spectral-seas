@@ -638,7 +638,7 @@ hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_3d_noise.json"
-hash = "ea753c0dbde84f93aecc8bf9a22932026ed8a16278ce35e5141950c2de28eda7"
+hash = "114670e53cee1f167c31a934a7206c429ade3c632b4044541ce326307ff2cec5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
@@ -658,7 +658,7 @@ hash = "ef89a7b8afaceb0b08fd5cd3a10965c7ed671bdc816239c467a97331eb57eba0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/3d_base.json"
-hash = "de0085b1ac6250af656f5afb2b27c01d6a78cdb4d18084b06d67f076c4487970"
+hash = "93f3b41bfe0ea5275a6d754f3b21286fbfab536bf02f80c5e0072211b266ced1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
