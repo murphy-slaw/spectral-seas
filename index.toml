@@ -365,16 +365,16 @@ file = "config/patchoulibutton.json5"
 hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
-file = "config/paxi/DnT Stronghold Rework.zip"
-hash = "e99904249c05e14fd8fffc254f1023f36e767d5e64425c25a9bd93f84ec37657"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "e732117c8fb313318cdf2a6a5daa80710c74e5a02383c3da4d0df10d61e9b112"
 
 [[files]]
 file = "config/paxi/datapacks/Dungeons and Taverns 3.0.3.fix.zip"
 hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania.zip"
+hash = "2e724c362a1ce144a7dd6755595ae3b1fedc79481605340e1e725267781f4d68"
 
 [[files]]
 file = "config/paxi/datapacks/STRAYED FATES Forsaken 1.20+ v1.1.3.0.zip"
@@ -459,18 +459,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/spawnanimations-v1.9.4-mc1.17x-1.20x-datapack.zip"
 hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/adjusted_continents.json"
-hash = "a4de5c35da386f8ca8b73bbbdefd3603aab35372696f2d8c18f02b49d4cb06a3"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/centroid/spawn_island.json"
-hash = "24599c9df753cfa9f1d122898291798855e548b230ff5d4fda3f01a93cacb35e"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/continents/worldgen/density_function/continent_bias.json"
-hash = "80ed56f2f5ef7865e6fcca2ab166b3e1f42a17bb2e6b44092ff99571704667d1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
@@ -635,42 +623,6 @@ hash = "38aa8cd5309e671a069eb5a8d293121c5b76a99b3518e4e59a92bd34365ea3f1"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_weaponsmith.json"
 hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_3d_noise.json"
-hash = "114670e53cee1f167c31a934a7206c429ade3c632b4044541ce326307ff2cec5"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "ee591e15151fe0d116b86cd73e4e821abf9de1f48214cb0c6859c009a61b7870"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "d40fd73b2c57d748ba3dfc991bb403467cd93c0e01d7188d2f790e3ce3c30746"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/factor.json"
-hash = "5643505c0208dfac3c4674a7528f2c1e94eff9cac6b5da88724a71d84868363a"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/ridges.json"
-hash = "ef89a7b8afaceb0b08fd5cd3a10965c7ed671bdc816239c467a97331eb57eba0"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/3d_base.json"
-hash = "93f3b41bfe0ea5275a6d754f3b21286fbfab536bf02f80c5e0072211b266ced1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/continentalness.json"
-hash = "ba429dff69e91fced7b8d2f737a9c13f625d3290608fb21a2142431a0cbec0ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/temperature.json"
-hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/vegetation.json"
-hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -3149,11 +3101,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
-metafile = true
-
-[[files]]
-file = "mods/continents.pw.toml"
-hash = "a9bba5d4c42f07380ca359ab26eda6a272509cf9dbe66ee769b79eda8c735f94"
 metafile = true
 
 [[files]]
