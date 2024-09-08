@@ -2190,7 +2190,7 @@ hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "1965e71028e6268cbd0ccb53b0af0d6e0d4c02079d69d3bfedce30a73cecff03"
+hash = "4ec6c8eb814b1f7e7414084af9bb0f864b5c88704333642565ecf84d18a3b8bf"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
