@@ -3648,6 +3648,11 @@ hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
 metafile = true
 
 [[files]]
+file = "mods/selfish-villager.pw.toml"
+hash = "5342b7c6a3aab53160f098caab62338dad0766afe71904dc2736805b6d9af671"
+metafile = true
+
+[[files]]
 file = "mods/simple-backup.pw.toml"
 hash = "2d4fccb7df6a41dc8f6bf3058c213d2c80883952cbfd17986881c8ceb1a557f7"
 metafile = true
@@ -3699,7 +3704,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "6a41895cb46295cf605936921d99a90a38920eabbb65d1a68dd97df206d26d23"
+hash = "8832f832393964188c49a34bc0a32933070fc64591773452231f6ecaf11d055b"
 metafile = true
 
 [[files]]
