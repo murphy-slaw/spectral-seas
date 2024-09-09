@@ -4,3 +4,6 @@
 [submodule "kubejs/server_scripts/spawn_control"]
 	path = kubejs/server_scripts_disabled/spawn_control
 	url = https://github.com/liopyu/spawn_control.git
+[submodule "config/paxi/datapacks/Oceania"]
+	path = config/paxi/datapacks/Oceania
+	url = https://github.com/murphy-slaw/Oceania.git
