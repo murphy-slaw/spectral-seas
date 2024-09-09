@@ -373,8 +373,48 @@ file = "config/paxi/datapacks/Dungeons and Taverns 3.0.3.fix.zip"
 hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
 
 [[files]]
-file = "config/paxi/datapacks/Oceania.zip"
-hash = "978b974b0094339780194230a0fc60eefce27eb00303eda1c94bd965c2cb0c88"
+file = "config/paxi/datapacks/Oceania/LICENSE"
+hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continentalness.json"
+hash = "188519696345184381ff74a38ff470653b1e74cd2f0dbe87e94acbd648079f64"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
+hash = "f623692c97fe466f120d9b356529d955d8e217ee0e0fea3e90d622e227ad3a67"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
+hash = "8898f738142be86d832c40b1ddac9f9b9187d6f9eff4a5171332d38f76d87cdb"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
+hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
+hash = "226ab579b2fa31dd9b174977cdca8ec7ea5f8447f229e6a8f98fdeae79a60527"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/erosion.json"
+hash = "c98a776f2ceea88899b8681483f9d7d906c708c1e924ee8d3e44cf4fb5252932"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/ridge.json"
+hash = "7e0bef11d327e3b60a16aca59661af23ab6442974a2a06cf8d19086d11085176"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/temperature.json"
+hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/vegetation.json"
+hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/pack.mcmeta"
+hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
 
 [[files]]
 file = "config/paxi/datapacks/STRAYED FATES Forsaken 1.20+ v1.1.3.0.zip"
