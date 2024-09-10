@@ -1,6 +1,6 @@
 name = "Selfish Villager"
 filename = "SelfishVillager-0.3.1+sha.3820b04.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AAjZBPJv/versions/xE3lnmV2/SelfishVillager-0.3.1%2Bsha.3820b04.jar"

@@ -1,0 +1,13 @@
+name = "Your Reputation"
+filename = "your-reputation-0.2.5+wthit.1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MrLyhFlg/versions/UF0TWBtq/your-reputation-0.2.5%2Bwthit.1.20.jar"
+hash-format = "sha1"
+hash = "43e25c17e9c918f61437aa52dfe71a6e3c525836"
+
+[update]
+[update.modrinth]
+mod-id = "MrLyhFlg"
+version = "UF0TWBtq"

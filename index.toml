@@ -277,6 +277,10 @@ file = "config/grapplemod.json"
 hash = "ecb1684d0295cd780045353608ac43aab8eaf82003985ed92709b804736de23b"
 
 [[files]]
+file = "config/guardvillagers.json"
+hash = "3072160a5258b2bca422253c4dbd32450526b27f84b100f955d130f3eb92c524"
+
+[[files]]
 file = "config/hangglider-client.toml"
 hash = "4d5d7181d9067ec7a43c357b962f671d48f0f9da57adfb732b4fb025bdd88ca7"
 
@@ -366,7 +370,7 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "e732117c8fb313318cdf2a6a5daa80710c74e5a02383c3da4d0df10d61e9b112"
+hash = "bd272760e11d35605a8524ae94cae31309c01f82609f01decd7b418d99976d2f"
 
 [[files]]
 file = "config/paxi/datapacks/Dungeons and Taverns 3.0.3.fix.zip"
@@ -561,6 +565,18 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/s
 hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
+hash = "54e69e5c86479b2ca08bbcedbf9cfa32a4576b5cd1df64cc5097cf7363476c5a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center2.nbt"
+hash = "473a1b47675111cd0f7c2a765972053f57613795cdd117a885e9e1f3f9c393ff"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center3.nbt"
+hash = "50a7e9f746279f42094484bc6765311fed008c81eda2fb19027482bfda439e26"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_diamond_tool.json"
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
@@ -601,68 +617,8 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_armorer.json"
-hash = "65b78046a475686f9580f465e8ab5b4fcb44aeb811bbe792aaae2938fa1518b4"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_butcher.json"
-hash = "63024111b14df7597f3f53125b1c56dfea827d9875c6d0a59bd66d46f0e04b42"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_cartographer.json"
-hash = "5cd78c92fc4cc9b17e55802217a5d2e4ff2c3e3c6fc07c10cddcb847ae9ad17a"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_desert_house.json"
-hash = "59c7997207fdcf506c5b0bdc93f2c1e7f179d39e11de247360199ee15da4e623"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_fisher.json"
-hash = "e71e42ba4cd669b4caa9da2096c6594581fb9e35e356d1fa5580caebfc49b8b2"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_fletcher.json"
-hash = "2b17391015f6d657bc5200b7e00f80a3eb387654d235d63a430184fe63c0cb6a"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_mason.json"
-hash = "0bb2b3a23b438bc1e4d9039f5e972c71f5a573bb99c4145d6664b4bbb4ed98fa"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_plains_house.json"
-hash = "0c22ab83139f89720a92381f486323639f7d0545508cf3ee997e88172c97623e"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_savanna_house.json"
-hash = "5a8927a81811311efb336ec8de74d376cc0eca3cd369eb14e2a343e600ebe5e5"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_shepherd.json"
-hash = "4f972dbba3ad6717c129bec51da108e0428d6f014eb84940ebdfeac38d02073c"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_snowy_house.json"
-hash = "7876aef54db402c56e05baa9f239b42f670ab84782d8329fbe2df2537ea764d9"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_taiga_house.json"
-hash = "49f3d7c1d463e698e72e76894b22645fc9d6046a0f54065770e59fe51e01dbd1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_tannery.json"
-hash = "4374067cf7ad5b290449b4408600bfc6a5fcc834614819f019f6df2590478c3e"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_temple.json"
-hash = "aa5381969739b26c3f10651af03f78696d30470749992a913196f425b43664c5"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_toolsmith.json"
-hash = "38aa8cd5309e671a069eb5a8d293121c5b76a99b3518e4e59a92bd34365ea3f1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/village/village_weaponsmith.json"
-hash = "79d2965158fbd975b50926378ed3f886fbac08a15f6492a6ba5a3f2c4d0a821f"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/village.json"
+hash = "cc168a01d0beb7931d8bf4701f9af7e1b05cf02115ad4b8cb57f7aac7bd30e15"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -2525,6 +2481,10 @@ file = "config/seasons.json"
 hash = "3d831a2240f176a3eeef2b240d9126e855dabd682285a34dadbc68a52433d935"
 
 [[files]]
+file = "config/selfish_villager/general.json"
+hash = "18a6b90fc4ce692b6fd8e84e68c7842bb9bab0ac7671a4aebd74945d50ef7d54"
+
+[[files]]
 file = "config/smallships-client.toml"
 hash = "7cc2d5ff04ce4ad144c0904dfeb062991e865dcdb0e0f313c839a373d2b3f92d"
 
@@ -2950,7 +2910,7 @@ hash = "362e5746ff9574940fa9172e6c90159c16e113ec5656e64f4376f5e93f31774c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fc3c918f30eb990b2ea41f8bfda2148c2c14f335eae90cc6ad7fe49bcbd56b10"
+hash = "3e0da0ed801d388ccfecb7196ffc8efee52a7b4ee635b023cb1d74c534a70ab6"
 metafile = true
 
 [[files]]
@@ -3000,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
+hash = "f2a906455be5740ede1182c648f6f5330be3ac82f7a2cdb5ee0621ae234d14c5"
 metafile = true
 
 [[files]]
@@ -3035,7 +2995,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "702c657b08052d134afe33e912bca1e2b7fdfc6167d1882e6ba3584bd2d6557b"
+hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
@@ -3195,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
+hash = "26e16f9ff6e9e65bf8b9a31c6e9fba0222c1721e68695cb94ed344f8497f2c50"
 metafile = true
 
 [[files]]
@@ -3210,7 +3170,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
+hash = "a993f861ad383e74b9744dc305e26182ca9e23d5741b8c4066aa4290d8390c8b"
 metafile = true
 
 [[files]]
@@ -3225,12 +3185,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d99fd3890ba085aa8093ba9c3a6d13925ce2487c4d56de0bb33aea821dfc2728"
+hash = "b27f755552855375c778b62750d0ed20486208ce891964ac2c1b89f54b65de83"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+hash = "9dc15a934ffe6b258bbd271cc67e6ce9354ae4f35421c516e32651e3b1368fb3"
 metafile = true
 
 [[files]]
@@ -3240,17 +3200,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0dc604455e2d5f4e82e3527aab59cc199f060c776a90b9571fe36bcbb61f28b4"
+hash = "ea91a8e984a51c4f74468812233f68cf594d6c1c99b1fb0f51d5c845d3c22628"
 metafile = true
 
 [[files]]
 file = "mods/euphonium.pw.toml"
-hash = "0e48cd4a26550fc2b14a5af33df547c181a8fc1aec4a5d129643f45c5dff82d9"
+hash = "18db436190bc3e3747008549edd0f712912e76c9eaac4061dcc53966f0904114"
 metafile = true
 
 [[files]]
 file = "mods/ewewukeks-musket-mod.pw.toml"
-hash = "4d47ad19bfb215fca7cf3c6c3f8efd95aec218672e5161a3a054292e93f56911"
+hash = "dd90945a98dd92b17935197f2c3aa28f36dac88407f848da189d10bffc85bed9"
 metafile = true
 
 [[files]]
@@ -3275,12 +3235,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f68a7134e227d4b2a977d2e2a0879081edaab90481d7ee0245de7aa68b13c6e2"
+hash = "d3cf9083fbe6dab4971743b81a942c894eaff39ec3653865f4acbfab11f55dbc"
 metafile = true
 
 [[files]]
@@ -3295,7 +3255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "0702a407a2f55836a2f25f5acb9cc9f13653aaf4ef32146b3ce21baaccf5a568"
+hash = "008a46534addc2059999b4146332f672ae58adadc64775d63f08c34743a69c24"
 metafile = true
 
 [[files]]
@@ -3305,7 +3265,7 @@ metafile = true
 
 [[files]]
 file = "mods/flow.pw.toml"
-hash = "bbbc84080a2ec481ff40ba6eeb8e98f979f846c238f65d279f3cf9eefbdcec59"
+hash = "d9a22541aea865b26f40c1b42d3c22aad6f98fbdab3fc138e1ff93afe36db099"
 metafile = true
 
 [[files]]
@@ -3320,7 +3280,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
+hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
 
 [[files]]
@@ -3331,6 +3291,11 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "5eb49b42d5c40e3f169480df6bf167eeb8e6fa8e7eeab252c6edfb4b07f28e0e"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
 
 [[files]]
@@ -3360,7 +3325,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
+hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
 
 [[files]]
@@ -3495,7 +3460,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "45fc3490e6f0111e19aea024fc028e509d5f0d7a0d1cf9789a86f2c48766d30a"
+hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
 metafile = true
 
 [[files]]
@@ -3505,7 +3470,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "addd5a3e782f183fb949a5dc9154c922b86746a230ded0dd134d36a1d0303eb5"
+hash = "f39beb13828f2bbc92977089900260f1f3717d1d43a671bb3d55ba220952649c"
 metafile = true
 
 [[files]]
@@ -3525,7 +3490,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "9c80506b848f64b7b6ca1f835742b981d3c1f5d9614a83e9ffb1fa473b7ade10"
+hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
 metafile = true
 
 [[files]]
@@ -3565,12 +3530,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "24d70779ecaf71942fa5ded9900b244d3457d3fb575e5191a57d5d2414e41a22"
+hash = "16d6aa9d44c46852330f1feec8e69bcb9b5409ea38b7f2db02e5dd38b9ecef5e"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0cbdd8c36b11bb68ade907e545019f612a256167010f96f24ccbd9bd414d1b9a"
+hash = "c0effc07859a5f8b9ec97566c3bd14096c8b5b2e0c1487b33e7ff5299e37464b"
 metafile = true
 
 [[files]]
@@ -3585,7 +3550,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "4a25843fc3042ddcf14e4abbd3426d68a76a7e2fde9091db8c6bea295c04a67e"
+hash = "7e5610c9859c9ee452177098558e5750e5a8688303adeb756923ad8f1116ba87"
 metafile = true
 
 [[files]]
@@ -3649,7 +3614,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
+hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
 metafile = true
 
 [[files]]
@@ -3669,7 +3634,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
@@ -3679,7 +3644,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "d3e45d5ddd3b5feb960de73148fa5cdb98f12ec6d15fe1257a13b7a03ac1480d"
+hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
 
 [[files]]
@@ -3689,7 +3654,7 @@ metafile = true
 
 [[files]]
 file = "mods/selfish-villager.pw.toml"
-hash = "5342b7c6a3aab53160f098caab62338dad0766afe71904dc2736805b6d9af671"
+hash = "f8d086f1214e99e1b146c087945fb4738c6c1b170664c628dc7d485fa2c9e34c"
 metafile = true
 
 [[files]]
@@ -3709,7 +3674,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "30a9c2712f130e1a5fb81b9350fdf72fd9e2bcc7cf0f91388a48f6b71d0fed6d"
+hash = "1a5edcf6b07c140e8e3a036ded796d41bcc7e5c42749a2c113a8307462f2a5d2"
 metafile = true
 
 [[files]]
@@ -3784,12 +3749,12 @@ metafile = true
 
 [[files]]
 file = "mods/surveystones.pw.toml"
-hash = "87941f5f85942fdd1fe0c6604d5fc527453e02f58f623181d813303e91acd9ec"
+hash = "71231674397cc6e977caef10afa9fdd39be3b09cc0121c5168ffa8c48e65c3b6"
 metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
+hash = "c47ffe7736fb97aac90cb76b9e6959bb3832686163d782857cdf6cc4853f5cb6"
 metafile = true
 
 [[files]]
@@ -3809,7 +3774,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "859050254587484c22443ae4a9a90a4779666e6464b0540960e48f2aed6a58f0"
+hash = "c76ae1207fd5e5dda9ff3a5c92d6f2b6fdb3bbc6d339828361e8fab082960468"
 metafile = true
 
 [[files]]
@@ -3839,7 +3804,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "911c167864eaaf8199b623061e68d61c9b111969d7723fadc670f5a98711df52"
+hash = "1025c08f31ca95a7898bce7c32c4882eae589396d3c7c750efc19e9d43e15692"
 metafile = true
 
 [[files]]
@@ -3854,12 +3819,17 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "3ecff3597ee4a96a4d63c9387aa5c357c89a32387c0d0d6005e6276851e67049"
+hash = "23f5f88918b0e013291420a4edce7d335c3d2ecde57f2aeb73e6019d09620ef7"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
 
 [[files]]

@@ -1,0 +1,5 @@
+{
+    "rayTracing": false,
+    "detectRange": 64,
+    "sneakRange": 24
+}

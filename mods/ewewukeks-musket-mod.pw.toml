@@ -1,13 +1,13 @@
 name = "ewewukek's Musket Mod"
-filename = "musketmod-1.20.1-fabric-1.4.9.jar"
+filename = "musketmod-1.20.1-fabric-1.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/967vM4zw/versions/g9mjKpLa/musketmod-1.20.1-fabric-1.4.9.jar"
+url = "https://cdn.modrinth.com/data/967vM4zw/versions/RDRcNE78/musketmod-1.20.1-fabric-1.5.2.jar"
 hash-format = "sha1"
-hash = "2eb19c2ca1b6ee3b7b1e09c54743e0cde56c4d08"
+hash = "5618d118c8b7952521a22cbf1fe10146ee8a4314"
 
 [update]
 [update.modrinth]
 mod-id = "967vM4zw"
-version = "g9mjKpLa"
+version = "RDRcNE78"

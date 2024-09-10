@@ -1,13 +1,13 @@
 name = "Fancy Block Particles - Renewed"
-filename = "FancyBlockParticles-1.20.1-fabric-20.1.0.2-beta.jar"
+filename = "FancyBlockParticles-1.20.1-fabric-20.1.0.3-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/S2guHrs2/versions/gYetzFfh/FancyBlockParticles-1.20.1-fabric-20.1.0.2-beta.jar"
+url = "https://cdn.modrinth.com/data/S2guHrs2/versions/1rA9ITTx/FancyBlockParticles-1.20.1-fabric-20.1.0.3-beta.jar"
 hash-format = "sha1"
-hash = "da3a9090e904d48d08aa5ecb8b8c8af9fd86a4bd"
+hash = "918a4ea26a644f3b6a379473bad7e59425286bad"
 
 [update]
 [update.modrinth]
 mod-id = "S2guHrs2"
-version = "gYetzFfh"
+version = "1rA9ITTx"
