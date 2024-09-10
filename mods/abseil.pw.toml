@@ -1,0 +1,13 @@
+name = "Abseil"
+filename = "abseil-fabric-0.92.2+1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eN6EBB3G/versions/gICWAt5Z/abseil-fabric-0.92.2%2B1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b6597d3b19596b5a32fff2aeda0e67be6491d9c8"
+
+[update]
+[update.modrinth]
+mod-id = "eN6EBB3G"
+version = "gICWAt5Z"

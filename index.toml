@@ -2923,6 +2923,11 @@ hash = "5ed8c9d2c8f6771064adc7dc24953893ad09f3e2d6a5ec1ed782fc8aa6eeb469"
 metafile = true
 
 [[files]]
+file = "mods/abseil.pw.toml"
+hash = "4ef8c3ad27ae54eda54692c9063c82f86cd58d9df326a874144b4450730f9cfe"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9fce8cc9c01f0c8ea3c840bd9d2f214f31dc30d3b420ad287adaeb561a3ea8db"
 metafile = true
@@ -3858,7 +3863,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
+hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
 
 [[files]]
