@@ -3593,6 +3593,11 @@ hash = "291ae6a55d5c57d45b0586a097446cabdbfcf26a02f012c412cfba2f6d07d3db"
 metafile = true
 
 [[files]]
+file = "mods/persistent-parrots.pw.toml"
+hash = "38d85913a24f8cd228c4c5c99cb1cd0e85b86d0ffc99af0cefefd872f196055d"
+metafile = true
+
+[[files]]
 file = "mods/pesky_seagulls-1.2.0.jar"
 hash = "fdfa9f580bc7941d91b9c7e37513840cdc6a0322f02e99899f442b6a2756f507"
 
