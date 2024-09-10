@@ -306,7 +306,7 @@ hash = "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "25dc750269767e8e494c0b60c2c512778310b5e7c7af831f2bd6e33d6c03994b"
+hash = "4d1230acc5b95d6e7ff2b16dd0f83ba223d3778f554d2bc995b6354258d3b5f3"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -350,7 +350,7 @@ hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
-hash = "827a3c4d1901302396eca9bbf249603ac5637de0036072745b883e208c1ae7e7"
+hash = "0c94ff4836a572b1204979df5df81b615ec47e33ef4972fd439c2c2252ec490c"
 
 [[files]]
 file = "config/naturalist.json"
@@ -2318,7 +2318,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "54c130827c3428b03482cf09a4c288266ceef6753fb2a9fcfa0253c5446ddc8f"
+hash = "aacb611b1a4061b807347642dcd9c3b062026cddcaa204a2f16813518549b6af"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"

@@ -2,5 +2,13 @@
 	"pack": {
 		"description": "Spectral Seas modpack tweaks.",
 		"pack_format": 15
+	},
+	"filter": {
+	  "block": [
+		{
+		  "namespace": "simplyswords",
+		  "path": "advancements/grant_book_on_first_join.json"
+		}
+	  ]
 	}
 }

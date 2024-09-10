@@ -24,6 +24,8 @@
     "!simplyswords:.*twinblade",
     "!simplyswords:.*scythe",
     "!simplyswords:.*katana",
+    "!simplyswords:.*greataxe",
+    "!simplyswords:.*greathammer",
     "!simplyswords:.*sai"
   ],
   // -----------------------------------------------------------
