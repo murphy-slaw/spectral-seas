@@ -1,6 +1,6 @@
 {
 	// The chance everlasting beef drops when a cow or mooshroom is killed by a player
-	"everlastingBeefChance": 0.002,
+	"everlastingBeefChance": 0.0,
 	// The chance that a skeleton, zombie or piglin spawns with an artifact equipped
 	"entityEquipmentChance": 0.001,
 	// The chance that an artifact generates in suspicious sand or gravel
@@ -11,7 +11,7 @@
 		/* How many times a campsite will attempt to generate per chunk
 		   Set this to 0 to prevent campsites from generating
 		*/
-		"count": 0,
+		"count": 1,
 		// The minimum height campsites can spawn at
 		"minY": 0,
 		// The maximum height campsites can spawn at
@@ -32,5 +32,5 @@
 	   A list of available game rules and their effects can be found on the wiki on GitHub:
 	   https://github.com/ochotonida/artifacts/wiki
 	*/
-	"artifactRarity": 1.0
+	"artifactRarity": 10000.0
 }

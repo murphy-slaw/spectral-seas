@@ -34,7 +34,7 @@ hash = "0c7266a6d9718bac60930b94cf137e3ee72c18fe61749fc9d8dcee216eb87518"
 
 [[files]]
 file = "config/artifacts/common.json5"
-hash = "0d3694cfc126ca01aafdc82b172d28696f79aa608514c7ceeb647dd78c475191"
+hash = "1e253d8c27b35df7bd5af3c1edc038abc57a611b76a6b438e5e5b9607341329a"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -303,6 +303,10 @@ hash = "5b63a6299eba68d18b6dd520e96d3e299834453930c3244a14123921e860a68f"
 [[files]]
 file = "config/immersive_weathering-common.json"
 hash = "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "25dc750269767e8e494c0b60c2c512778310b5e7c7af831f2bd6e33d6c03994b"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -2314,7 +2318,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "3f0e859a9d2a57f0b16e7f9ceec9fe755a25b2445da9a02a477edc34a7d1aed3"
+hash = "54c130827c3428b03482cf09a4c288266ceef6753fb2a9fcfa0253c5446ddc8f"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -2487,6 +2491,42 @@ hash = "3d831a2240f176a3eeef2b240d9126e855dabd682285a34dadbc68a52433d935"
 [[files]]
 file = "config/selfish_villager/general.json"
 hash = "18a6b90fc4ce692b6fd8e84e68c7842bb9bab0ac7671a4aebd74945d50ef7d54"
+
+[[files]]
+file = "config/simplyswords_extra/backupconfig.json"
+hash = "ec1a9e835b75774dcaf2975096e2ae38ad27c6a93b0606c4b0a2dc93b1a7fc38"
+
+[[files]]
+file = "config/simplyswords_extra/loot_config.json5"
+hash = "7d3b5b582c6b33ed37f038f536bb005fd89a6d0c78349b75bc9547d0ba06829f"
+
+[[files]]
+file = "config/simplyswords_main/gem_effects.json5"
+hash = "3e953737dcb4ed50db8605db74df14983300f79f38b6f954ec0a0686ba2d82ea"
+
+[[files]]
+file = "config/simplyswords_main/general.json5"
+hash = "e0c4e649ecd0932e5e66534cd6eb34beb3c3954ca6f985646879cd7775c24718"
+
+[[files]]
+file = "config/simplyswords_main/loot.json5"
+hash = "1bc0d9c9cd267eacbba553b1319559f0ddb8940649892846b10acb552ad22d74"
+
+[[files]]
+file = "config/simplyswords_main/runic_effects.json5"
+hash = "07e0a8995b5e2d948a20910b9e3fed8d88733f677d384a5ea78589a9d9981f82"
+
+[[files]]
+file = "config/simplyswords_main/status_effects.json5"
+hash = "4fa38ac43a2d8f996f7800c9d61235c3800bfd3cae7f6ba2d76093665bec8fb2"
+
+[[files]]
+file = "config/simplyswords_main/unique_effects.json5"
+hash = "f939b3c7e04ac677da5a6f83ef56d52ddaeb869cd98d7ff2dccfa3ef83ef63d8"
+
+[[files]]
+file = "config/simplyswords_main/weapon_attributes.json5"
+hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
 
 [[files]]
 file = "config/smallships-client.toml"

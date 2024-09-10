@@ -1,9 +1,6 @@
 {
 	"pack": {
-		"description": "Spectral Seas modpack tweaks."
+		"description": "Spectral Seas modpack tweaks.",
 		"pack_format": 15
-	},
-	"filter": {
-		"block": []
 	}
 }
