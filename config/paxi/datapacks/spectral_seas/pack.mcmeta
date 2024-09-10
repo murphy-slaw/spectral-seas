@@ -1,34 +1,9 @@
 {
 	"pack": {
-		"description": "Structure placement tweaks and other nonsense",
+		"description": "Spectral Seas modpack tweaks."
 		"pack_format": 15
 	},
 	"filter": {
-		"block": [
-			{
-				"namespace": "mostructures",
-				"path": "advancements/.*"
-			},
-			{
-				"namespace": "totw_reworked",
-				"path": "advancements/.*"
-			},
-			{
-				"namespace": "nova_structures",
-				"path": "advancements/.*"
-			},
-			{
-				"namespace": "things",
-				"path": "advancements/.*"
-			},
-			{
-				"namespace": "hopo",
-				"path": "advancements/.*"
-			},
-			{
-				"namespace": "minecraft",
-				"path": "advancements/.*"
-			}
-		]
+		"block": []
 	}
 }

@@ -3119,6 +3119,11 @@ hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
 
 [[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "b5ab626a745ddbc5b8aafdad68d020a4ca209680d5245aa8118caddc8d808600"
+metafile = true
+
+[[files]]
 file = "mods/custom-mob-spawns.pw.toml"
 hash = "8ab9fdd9bf3c8b1ba3ab727979b5f1783a9f40df25228d5577de56987b510c63"
 metafile = true
