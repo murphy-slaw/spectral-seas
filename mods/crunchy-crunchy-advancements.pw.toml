@@ -1,6 +1,6 @@
 name = "Crunchy Crunchy Advancements"
 filename = "crunchy-crunchy-advancements-1.7.0+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4lO2KZlF/versions/FjEO5apf/crunchy-crunchy-advancements-1.7.0%2B1.20.jar"
