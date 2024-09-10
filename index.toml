@@ -93,6 +93,10 @@ file = "config/creeperoverhaul.jsonc"
 hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
+file = "config/crunchy_crunchy_advancements.toml"
+hash = "a37e32f793d911edc17e1228d44efbc3868bad9bbdb2511298fea5b40ba57862"
+
+[[files]]
 file = "config/customizations/data/continents/worldgen/density_function/centroid/spawn_island.json"
 hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
 
@@ -2310,7 +2314,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "a7aa7ea1ae565f07462f6f6aa028a532b51312de482578f438fb235f5b6c4be7"
+hash = "3f0e859a9d2a57f0b16e7f9ceec9fe755a25b2445da9a02a477edc34a7d1aed3"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
