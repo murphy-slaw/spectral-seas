@@ -4105,6 +4105,14 @@ file = "config/selfish_villager/general.json"
 hash = "18a6b90fc4ce692b6fd8e84e68c7842bb9bab0ac7671a4aebd74945d50ef7d54"
 
 [[files]]
+file = "config/simplehats/client.toml"
+hash = "394fbb3127d89c7df83532390a639f3b1913c7473a74eb5ae47d9e8557d3df3d"
+
+[[files]]
+file = "config/simplehats/common.toml"
+hash = "673ff1f81919c24fa6b72859403b8f6c396653d23ea52a8d8e0a87033437d562"
+
+[[files]]
 file = "config/simplyswords_extra/backupconfig.json"
 hash = "ec1a9e835b75774dcaf2975096e2ae38ad27c6a93b0606c4b0a2dc93b1a7fc38"
 
