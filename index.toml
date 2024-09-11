@@ -4141,10 +4141,6 @@ file = "config/tectonic.json"
 hash = "70f9b5b8d3e112b48e0db377e8ccdf5f30739021863942d4b5635013168ce8fd"
 
 [[files]]
-file = "config/things.json5"
-hash = "967912b7228692e8a4bc4af6f2e56607d3158bc9ce082f891cf60f1a67061fc3"
-
-[[files]]
 file = "config/visual_workbench.json"
 hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
 
@@ -4502,7 +4498,7 @@ hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "585105276b85639de1f4bff4706d2e7365ffe7d1d882492830343d3b00718528"
+hash = "e4b1b752b048a53d9a032dbf75d7550ad004fed9471245a2c2937ec15bc58600"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -4593,6 +4589,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/armorful.pw.toml"
+hash = "ed61466aa4c8fe38123a6b889cc3277afd60b74bbf12d30d17f92b1bb6834663"
 metafile = true
 
 [[files]]
@@ -5427,11 +5428,6 @@ metafile = true
 [[files]]
 file = "mods/tap-tab.pw.toml"
 hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
-file = "mods/things.pw.toml"
-hash = "9ab74107661d2644101cd0bb5fd96b7b71c830cf0d6c6b1ddc477b87ce0f336c"
 metafile = true
 
 [[files]]
