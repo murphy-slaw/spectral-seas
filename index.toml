@@ -4921,6 +4921,21 @@ hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "70f221fa91ee9d30c21158018ec9d1b4d0c9fe011fbfbd894e9a84476aca6044"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "dac761273638f48b6949bc01d38a5999b3d6b3c3918afd98284d05c4ecac307b"
+metafile = true
+
+[[files]]
+file = "mods/gear-core.pw.toml"
+hash = "9c3cffc42bd8b1f1228b5fe8ba2cea019123b08b501d9e3e3e099657348a7953"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
@@ -5310,6 +5325,11 @@ hash = "2d4fccb7df6a41dc8f6bf3058c213d2c80883952cbfd17986881c8ceb1a557f7"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "1a8eef234d1feb15161de954e7db7035f19be777b49d88a5be2b489ee2fce936"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "de37a29e69473c7532f8f17a44add66ab5d38c971b04a07a235543a159741040"
 metafile = true
@@ -5427,6 +5447,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "726324777b9d14adfd1622ce09d1be5b91678de733f45ce6ab1661b390034761"
+metafile = true
+
+[[files]]
+file = "mods/tridents-n-stuff.pw.toml"
+hash = "de3dc63420cb6025e7c706710560a1292da94a72a3ab37d40ffe6471ce9c49bd"
 metafile = true
 
 [[files]]
