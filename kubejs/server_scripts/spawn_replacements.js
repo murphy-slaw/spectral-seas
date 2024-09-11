@@ -1,3 +1,24 @@
+const pillagerHats = [
+    "simplehats:bicorne",
+    "simplehats:tricorne",
+    "simplehats:eyepatch",
+    "minecraft:empty"
+]
+
+const vindicatorWeapons = [
+    "simplyswords:iron_cutlass",
+    "simplyswords:iron_rapier",
+    "minecraft:iron_axe"
+]
+
+const pillagerWeapons = [
+    "musketmod:pistol",
+    "musketmod:pistol",
+    "musketmod:pistol",
+    "musketmod:pistol",
+    "musketmod:blunderbuss",
+]
+
 EntityEvents.spawned(event => {
     // Define constants
     const entity = event.entity;
@@ -7,12 +28,27 @@ EntityEvents.spawned(event => {
         return;
     }
 
-    /*
     if (entity.type == "minecraft:pillager") {
-        event.server.runCommandSilent(`execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon guntotingillagers:musketeer`)
-        event.cancel()
+        entity.setItemSlot(
+            "head",
+            Item.of(Utils.randomOf(Utils.random, pillagerHats))
+        )
+        entity.setItemSlot(
+            "mainhand",
+            Item.of(Utils.randomOf(Utils.random, pillagerWeapons))
+        )
     }
-    */
+
+    if (entity.type == "minecraft:vindicator") {
+        entity.setItemSlot(
+            "head",
+            Item.of(Utils.randomOf(Utils.random, pillagerHats))
+        )
+        entity.setItemSlot(
+            "mainhand",
+            Item.of(Utils.randomOf(Utils.random, vindicatorWeapons))
+        )
+    }
 
     if (entity.type == "hybrid-aquatic:coconut_crab") {
         event.server.runCommandSilent(`execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon ecologics:coconut_crab`)

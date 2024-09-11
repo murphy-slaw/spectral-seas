@@ -513,6 +513,38 @@ file = "config/paxi/datapacks/spawnanimations-v1.9.4-mc1.17x-1.20x-datapack.zip"
 hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/illager_chestplate.json"
+hash = "a8f5c80a44207af5d9d3376ab6688f5a54c5e33477ca349d0a0e3ac879fc7dd7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/illager_feet.json"
+hash = "cac8eaee74ded0b5e4b0b3212fdd3f34c9492ef1122d95f24e85697e693cdd09"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/illager_helmet.json"
+hash = "d2577711bb535311214b3bc7da0315ffc6e456ecf061d27adda1853807cba21a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/illager_legs.json"
+hash = "695733d9fa96956befff95c2ed4dfc8145d70c7bc653152a3312a004c52cc5de"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/natural_spawn/chestplate.json"
+hash = "7f21b06b99a5551b64bacfdde6f9f3d10eaa4e16d2fe93d185fd97f1e3f9ba38"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/natural_spawn/feet.json"
+hash = "17cf38c9e8775987e251b1a7ddfcbf3247a3d361b62865618f021eda64c95bd6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/natural_spawn/helmet.json"
+hash = "2d5bd6c3bb27450c3cd73e4cc3b8a3b807fcd1b3adf04d010501c9b8664dcc1f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/natural_spawn/legs.json"
+hash = "072140441241e0cda8fbb31d696c0ddc7298074135dc5c49de032cdd52504ac4"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
 hash = "3cd2964085b6c5f78e3bcde1f0e80acadc58f732386351bee2448295980451fd"
 
@@ -634,7 +666,7 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
-hash = "12c46dbb1f1fd4f874037acb824013867a3c2153808b01838ec62b90d64c02bf"
+hash = "6437de73826c04b0259b38cd2c31ed5695f0cd50d0ba51cece9ab72753d95249"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
@@ -3945,44 +3977,48 @@ hash = "21ae5caa1e54b43bf750d322ee1a54acb0d226233402c2a39cb4eb098617676d"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/bone_desert.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/bone_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/desert_temple.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/desert_temple.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/digsite_forest.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/digsite_forest.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/fallen_monolith_desert.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/fallen_monolith_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/medium_ruins_desert.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/medium_ruins_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/monolith_desert.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/monolith_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/small_ruins_desert.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/small_ruins_desert.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/archeologyplus/atlas/structure/start/statue_jungle.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/statue_jungle.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/assets/hybrid-aquatic/lang/en_us.json"
+file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us.json"
 hash = "eb2a6d87c3f3be0aabbfe6e85ec2eb600d2e521403aa21b17a9d4c26f994daa8"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_carnival/pack.mcmeta"
-hash = "532d5047f087b8d6be521a472356dfc2847c0921e420cbcd260bb6317434fbca"
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
+hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/pack.mcmeta"
+hash = "99f8a3adc0accdf1b78c810fe8bc7ea2a1fcb7b1f86656222429fb52847fc16c"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectrum_public_server_pack/assets/minecraft/models/item/carved_pumpkin.json"
@@ -4498,7 +4534,7 @@ hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "e4b1b752b048a53d9a032dbf75d7550ad004fed9471245a2c2937ec15bc58600"
+hash = "8d2c3d565cdc259884f1bf1abdf59e21b0f85d151b66adb74781b65e2d5fd367"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"

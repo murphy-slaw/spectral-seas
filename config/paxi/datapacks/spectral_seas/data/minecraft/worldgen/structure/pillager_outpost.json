@@ -9,7 +9,13 @@
       "bounding_box": "full",
       "spawns": [
         {
-          "type": "guntotingillagers:musketeer",
+          "type": "minecraft:pillager",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 2
+        }
+        {
+          "type": "minecraft:vindicator",
           "maxCount": 1,
           "minCount": 1,
           "weight": 1
