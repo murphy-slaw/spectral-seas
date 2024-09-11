@@ -306,7 +306,7 @@ hash = "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1b8f7b72ba495f19f47678d877e52ed1b1a5f9c32c03b8fd8b496c5b7b84870d"
+hash = "799ff143d5059a90fc4b19ea318e7ddbb7b21f73f4c21ebffcf8d03e41fcc471"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -4539,10 +4539,6 @@ hash = "408178d3704751b1fa74aa390ae37e90b17f4ee762db0d3639b6b2d4490db2f4"
 [[files]]
 file = "kubejs/startup_scripts_disabled/mobs.js"
 hash = "73e14aa74dd34c1e9b34358bc10f69e4fb83313c25ed8e33cd8bf515b3272369"
-
-[[files]]
-file = "modrinth.index.json"
-hash = "362e5746ff9574940fa9172e6c90159c16e113ec5656e64f4376f5e93f31774c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

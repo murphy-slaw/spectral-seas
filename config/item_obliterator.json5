@@ -77,7 +77,10 @@
     "simplyswords:netherfused_gem",
     "simplyswords:empowered_remnant",
     "simplyswords:contained_remnant",
-    "simplyswords:tampered_remnant"
+    "simplyswords:tampered_remnant",
+
+    "artifacts:night_vision_goggles",
+    
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
