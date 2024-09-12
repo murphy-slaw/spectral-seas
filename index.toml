@@ -378,11 +378,7 @@ hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "bd272760e11d35605a8524ae94cae31309c01f82609f01decd7b418d99976d2f"
-
-[[files]]
-file = "config/paxi/datapacks/Dungeons and Taverns 3.0.3.fix.zip"
-hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
+hash = "a15b886b0e97866dbdbc931515ef005e435a556c154189ea285424383ea83cf6"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/LICENSE"
@@ -429,20 +425,8 @@ file = "config/paxi/datapacks/Oceania/pack.mcmeta"
 hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
 
 [[files]]
-file = "config/paxi/datapacks/STRAYED FATES Forsaken 1.20+ v1.1.3.0.zip"
-hash = "7527910f852924b869be12d509267e5bfeea1bdf131b71a849a6cf09675da40c"
-
-[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Fabric_Waystones.zip"
 hash = "63e8fe1c3ebc696dd283b89bb5cebc83f367abb8689911b908ac9a7b94955a80"
-
-[[files]]
-file = "config/paxi/datapacks/[Datapack Ver.]HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7.zip"
-hash = "060569d69d3fdc380473873ed5909cb8ee025e93a87ab11aaa4b235ec70795c1"
-
-[[files]]
-file = "config/paxi/datapacks/[DatapackVer.]HopoBetterUnderwaterRuins-[1.20-1.20.2]-1.1.4.zip"
-hash = "e7d4d8b26f7ea68a9bc01afb170c5653242b0eac623ae63b396e1f8ae902118a"
 
 [[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
@@ -504,13 +488,14 @@ file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
 hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
-file = "config/paxi/datapacks/spawn-animations.pw.toml"
-hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
+file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
+hash = "7e53b71b05529776c13a28bb669c3a8445e61ddcc14696c9719ffb319d64ec08"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/spawnanimations-v1.9.4-mc1.17x-1.20x-datapack.zip"
-hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
+file = "config/paxi/datapacks/spawn-animations.pw.toml"
+hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
