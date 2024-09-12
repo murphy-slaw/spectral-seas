@@ -557,56 +557,8 @@ file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_l
 hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/bold_muddy.json"
-hash = "ddf5a5a54762138cfe18cd0c0a9777d39d958cc1030131add55653af1fd3d861"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/catpenjoe.json"
-hash = "f65197ae5cccfb37b63fdf52c1417cd8663acf6523d5dac09c444568d56c4efa"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/fishenjoe.json"
-hash = "3f69c4b6fa8a812b16ca78f489ed6135f9798fbbfae97d4692d1bc92ef8b1fa1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/kaupenjoe.json"
-hash = "ad257edfa47018243b4181187228dbca6ce255b654be8c3909a4e7a0eee1418f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/loss.json"
-hash = "dd9c89db261412c969ed7eb19befb21372b516541ba1021b18051d9ce1771caa"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/mylo.json"
-hash = "03f6275a28174c27bf459e5fbad3cf9a734c58a7c0241f4ccf4b78aa59e37c69"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/one_piece.json"
-hash = "03c256d28cead4a11bcfc901fb786d7b872bc351346d6c9aad53743e9fbd9413"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/poke.json"
-hash = "a83eb90eeb82cb87c1744781acb110b31a7dc5914e2a061d6728caada2d1d62f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/poyo.json"
-hash = "21c0837e3ecbeddbcedf5d49c26bb549919b5b77f60e5a4556c2f0e0a67a7e22"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/rick_roll.json"
-hash = "194c1f654c2bdf0d9436734352a7282ead6f6397c07682816f120b4a1920df1c"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/the_creepers_code.json"
-hash = "848d9cbd1e0431e669b612e6659ee6bf13bdc6b151e96f5c8410f58be1a016c9"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/warranty.json"
-hash = "e41959157538102d793755c5d7238bd500583cce1393634a2a481cad8efbc2d1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/willowshine.json"
-hash = "83e64826820976a90a80f73077890b322d2864c1b0030c5bebccd4970783e08f"
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/test.json"
+hash = "1d7ca6f8f880ef483204c354417c101106a48de317b77843fda6e43f7459cb78"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
@@ -2354,7 +2306,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "aacb611b1a4061b807347642dcd9c3b062026cddcaa204a2f16813518549b6af"
+hash = "5476a5a05dfd5a7653c1149e7300e1f0b86dfe1e5bfd9daa55aec35bfc0bf659"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -4014,7 +3966,7 @@ hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us.json"
-hash = "eb2a6d87c3f3be0aabbfe6e85ec2eb600d2e521403aa21b17a9d4c26f994daa8"
+hash = "27c770b8c162360cc1cac6f96670d121e3a091542397726fffae75f8c8855579"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
