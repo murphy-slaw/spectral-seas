@@ -1782,7 +1782,7 @@ hash = "db9adb67e4665fdeecf60a5410e907741d31320082c63ad52bd789c912784b86"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/tags/worldgen/structure/town.json"
-hash = "7b944149376ced2bb7137b990f752d0956d138dcb9080450706e4df99d314368"
+hash = "50416bbdf3e1cce43e6d72121450353cd52d3af5c2674394f23c0345dff61a85"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/other.json"
