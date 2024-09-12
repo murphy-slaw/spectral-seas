@@ -513,6 +513,10 @@ file = "config/paxi/datapacks/spawnanimations-v1.9.4-mc1.17x-1.20x-datapack.zip"
 hash = "94bfc5164e8e8cc74aeac14e31b403a98d38345220e4547582b1bb9299a5c2d0"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
+hash = "020fd74e17d35f81bef2857f68f23bd464e75d95b5885464cf361a325528d08a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/illager_chestplate.json"
 hash = "a8f5c80a44207af5d9d3376ab6688f5a54c5e33477ca349d0a0e3ac879fc7dd7"
 
@@ -666,7 +670,7 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
-hash = "6437de73826c04b0259b38cd2c31ed5695f0cd50d0ba51cece9ab72753d95249"
+hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
