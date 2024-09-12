@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#mostructures:collections/plains",
-    "#mostructures:collections/icy",
-    "#mostructures:collections/taigas"
-  ]
-}

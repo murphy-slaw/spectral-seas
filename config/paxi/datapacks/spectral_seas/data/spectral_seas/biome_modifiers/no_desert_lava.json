@@ -1,8 +1,0 @@
-{
-    "type": "biome_modifier:remove_features",
-    "biomes": "minecraft:desert",
-    "features": [
-        "geophilic:desert/lava_lakes"
-    ],
-    "step": "lakes"
-}
