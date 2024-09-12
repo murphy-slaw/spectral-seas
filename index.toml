@@ -669,8 +669,12 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
+hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/village.json"
-hash = "cc168a01d0beb7931d8bf4701f9af7e1b05cf02115ad4b8cb57f7aac7bd30e15"
+hash = "166ffc7a0c96e611ebc45eadd2415799a8a4549cec3f52b12bfe58d93ea37f53"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -1775,6 +1779,10 @@ hash = "13b091f8b7b60bd6e08578c30c0de15e524ba88ad9925542c09160da82bc6a87"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/worldgen/structure_set/regular.json"
 hash = "db9adb67e4665fdeecf60a5410e907741d31320082c63ad52bd789c912784b86"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/tags/worldgen/structure/town.json"
+hash = "7b944149376ced2bb7137b990f752d0956d138dcb9080450706e4df99d314368"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/other.json"
