@@ -1,0 +1,13 @@
+name = "Data Attributes: Directors Cut"
+filename = "data-attributes-2.0.0+1.20.1-beta.13-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KCGxOJsE/versions/pyFi5cpC/data-attributes-2.0.0%2B1.20.1-beta.13-fabric.jar"
+hash-format = "sha1"
+hash = "f03fbcb9c6a195de6d787a63bece473e03cd272b"
+
+[update]
+[update.modrinth]
+mod-id = "KCGxOJsE"
+version = "pyFi5cpC"

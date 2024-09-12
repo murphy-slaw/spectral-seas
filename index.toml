@@ -4816,6 +4816,11 @@ hash = "761857a2d019df774d3682e11ac89a1653fb1ae1a2b4592c6793cd1246279d55"
 metafile = true
 
 [[files]]
+file = "mods/data-attributes-directors-cut.pw.toml"
+hash = "89600fe33a87a92ca4a9c7f18b3cc2a540ef1bd7e1fab1f57483d94af08eb7fb"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "1f65d34b14bc15fbf8f59c4dde68a4636c50680e97feed4f48c03b9890ff4a8a"
 metafile = true
