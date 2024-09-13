@@ -602,6 +602,18 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/game
 hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/gap.nbt"
+hash = "81ebaef0ff565f4f04ff74b7436da5954288ec6685b071004d9462987e57d220"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/sunken_ship.nbt"
+hash = "a8edf521df694d0897bb33e5220d4f3dd4f65f62f43aea09bc2fffab2b56937d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/sunken_ship2.nbt"
+hash = "4550f7a0c73917e5eccc097f0fbec8632a25bc6c8e218dc1d991e07b2cc90cab"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
 hash = "54e69e5c86479b2ca08bbcedbf9cfa32a4576b5cd1df64cc5097cf7363476c5a"
 
@@ -670,8 +682,24 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pi
 hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ship_graveyard.json"
+hash = "e12cb878784be7913439ff80de564261c36024d33ef858844ad783758d66377f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/ship_graveyards.json"
+hash = "d218c92d4199533f9a642dd044de857efbeb31be009bb1104f32e8731fc1f5c6"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
 hash = "75690443fc1f5c086215c68cea7e204d35f240d18b9846118a7f79da17a89841"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/template_pool/shipwrecks.json"
+hash = "0a2db5511b243588a6ebe236a0e5335444fdeec201978a3d341d79b463f5a83a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/template_pool/sunken_ships.json"
+hash = "6edfb42279259373048fc80ba1f45dfbfe51b0234dac244fd72c14877b0b752a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1666,6 +1694,14 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "c2b713e5f58decf86ab960799a12b86e1c3921f03853b8956444e6eb57086d8d"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
+hash = "6554c1cc8794a1daf77606a8a82af19597d446f947ce05d4bea8fae1793051ce"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/non_property.json"
+hash = "65ae4ca32ceee89cfedac3b1c82209977f6d39a5bfbcacfb66a00dba27551030"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_types/exclude.json"
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
@@ -1767,7 +1803,7 @@ hash = "db9adb67e4665fdeecf60a5410e907741d31320082c63ad52bd789c912784b86"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/tags/worldgen/structure/town.json"
-hash = "50416bbdf3e1cce43e6d72121450353cd52d3af5c2674394f23c0345dff61a85"
+hash = "272f4e272e3eb25f2ad220a5c044b8f2968831ffa79cc895e1df0d71ab06a8c6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/other.json"
