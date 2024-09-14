@@ -1,0 +1,13 @@
+name = "Gearifiers"
+filename = "gearifiers-0.7.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/epdnizGK/versions/KVC9lAEE/gearifiers-0.7.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "09bb2986d70fad165bdd2f6bfdbc4b28e1308f38"
+
+[update]
+[update.modrinth]
+mod-id = "epdnizGK"
+version = "KVC9lAEE"
