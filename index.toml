@@ -4361,6 +4361,11 @@ hash = "e32497f1cdc6c7f4a7ca486848663c4a9c6253f51407ae63e0d69e6a21ca1bf9"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "23d67bc268702d474f81e5485d62ca190cb374f3b6b270f0d47766f3977a4b8a"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
@@ -4892,6 +4897,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "de37a29e69473c7532f8f17a44add66ab5d38c971b04a07a235543a159741040"
+metafile = true
+
+[[files]]
+file = "mods/skins3d-but-not-cubic.pw.toml"
+hash = "d767de4a38202f306c586e7ff0e6dd6b7e793e5396ebbfab8a1cd2a76cda22ec"
 metafile = true
 
 [[files]]
