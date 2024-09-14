@@ -1,6 +1,7 @@
 name = "Revamped Shipwrecks"
 filename = "Revamped Shipwrecks 1.0-1.19 Datapack.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZnZ8uqXN/versions/tHfJbAi9/Revamped%20Shipwrecks%201.0-1.19%20Datapack.zip"

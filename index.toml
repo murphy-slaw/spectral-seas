@@ -489,7 +489,7 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
 file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
-hash = "7e53b71b05529776c13a28bb669c3a8445e61ddcc14696c9719ffb319d64ec08"
+hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
 metafile = true
 
 [[files]]
@@ -666,6 +666,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ship_graveyard.json"
+hash = "7143357b03888ac1f5315d8975f7049d3a92c98619634b2993495f2644cdc47c"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
 
@@ -678,16 +682,20 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/processor_list/ship_graveyard_chest_swap.json"
+hash = "73a294c7ce5cd155d35cd03bf92ea2345013849ebe6b8b0c4b6f28a1e0d64efd"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
 hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ship_graveyard.json"
-hash = "e12cb878784be7913439ff80de564261c36024d33ef858844ad783758d66377f"
+hash = "d192927186fb5417ad155634decf4d4f70e759aa84bc6b429ea822fba780bfc6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/ship_graveyards.json"
-hash = "d218c92d4199533f9a642dd044de857efbeb31be009bb1104f32e8731fc1f5c6"
+hash = "84dd879f6950b5fa3944682d0a828ace7a8ed4c70696294af4f3ba865e6b2db2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
@@ -699,7 +707,7 @@ hash = "0a2db5511b243588a6ebe236a0e5335444fdeec201978a3d341d79b463f5a83a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/template_pool/sunken_ships.json"
-hash = "6edfb42279259373048fc80ba1f45dfbfe51b0234dac244fd72c14877b0b752a"
+hash = "7e96a2b90f51eeae3ab27fbd50f95f8fd0b22872eda582161b0574c75001efd7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -4374,7 +4382,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b27f755552855375c778b62750d0ed20486208ce891964ac2c1b89f54b65de83"
+hash = "782e92b95bc03bca3231aba6de26b97a3bc12866699cc0a8f57acb2d3b33c6cb"
 metafile = true
 
 [[files]]
@@ -4389,7 +4397,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ea91a8e984a51c4f74468812233f68cf594d6c1c99b1fb0f51d5c845d3c22628"
+hash = "b19c6236b9e19aedcc36ff3dbcbcac1a60efe8b2843bea4629d791c453823889"
 metafile = true
 
 [[files]]
@@ -4469,7 +4477,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "70f221fa91ee9d30c21158018ec9d1b4d0c9fe011fbfbd894e9a84476aca6044"
+hash = "ce9740e23785a49581f55a08ccccddfa6a39d85a2bfa5f7461d03c259c218fe0"
 metafile = true
 
 [[files]]
@@ -4674,7 +4682,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "f39beb13828f2bbc92977089900260f1f3717d1d43a671bb3d55ba220952649c"
+hash = "0fc9907be02b04735432834255f96549681d61848a5789b01b3b3e88c44a2006"
 metafile = true
 
 [[files]]
@@ -5018,7 +5026,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "1025c08f31ca95a7898bce7c32c4882eae589396d3c7c750efc19e9d43e15692"
+hash = "a942145d57647e3b679bdb5a86dfbc7d004c72dffe5e148fbcfbb2a3f4a11b44"
 metafile = true
 
 [[files]]
