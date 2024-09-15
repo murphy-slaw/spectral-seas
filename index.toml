@@ -97,26 +97,6 @@ file = "config/crunchy_crunchy_advancements.toml"
 hash = "a37e32f793d911edc17e1228d44efbc3868bad9bbdb2511298fea5b40ba57862"
 
 [[files]]
-file = "config/customizations/data/continents/worldgen/density_function/centroid/spawn_island.json"
-hash = "794be6d1e798546c4516d1f15de4fa8bae99c0b55dc13128541f0dfbfc2655a7"
-
-[[files]]
-file = "config/customizations/data/minecraft/worldgen/density_function/overworld/base_continents.json"
-hash = "8fd369651cd0de431efd5928160653a26c4b8ce57d5a21c59bbb60c91bdd2eda"
-
-[[files]]
-file = "config/customizations/data/spectrum/worldgen/placed_feature/citrine_geode.json"
-hash = "2aada57775f9a8b1509d5be21a7b149b194957653ef58888baa0c9117c62b34f"
-
-[[files]]
-file = "config/customizations/data/spectrum/worldgen/placed_feature/topaz_geode.json"
-hash = "d72486d68f51ebdc487e2a2b7d1b127ddcfb658d614160f446da2611f12a6736"
-
-[[files]]
-file = "config/customizations/pack.mcmeta"
-hash = "9f3927cb7e2765c937e93e62f672004057b296e730ee2b39700cb9061da092a0"
-
-[[files]]
 file = "config/cutthrough-client.toml"
 hash = "231346cf3be1c1e95c20bfdf92ee7069afdeca75a929c55567291d2d3567b530"
 
@@ -155,10 +135,6 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 [[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
-file = "config/explorerscompass.json"
-hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -301,10 +277,6 @@ file = "config/icarus.jsonc"
 hash = "5b63a6299eba68d18b6dd520e96d3e299834453930c3244a14123921e860a68f"
 
 [[files]]
-file = "config/immersive_weathering-common.json"
-hash = "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e"
-
-[[files]]
 file = "config/item_obliterator.json5"
 hash = "799ff143d5059a90fc4b19ea318e7ddbb7b21f73f4c21ebffcf8d03e41fcc471"
 
@@ -357,10 +329,6 @@ file = "config/naturalist.json"
 hash = "0d64e07f1427f761cde573b16522096cb38df0cf23cf703aaed5265b43e8e0fc"
 
 [[files]]
-file = "config/naturescompass.json"
-hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
-
-[[files]]
 file = "config/nyfsspiders.json"
 hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
 
@@ -371,10 +339,6 @@ hash = "b8c1880118a29743939e764d5b4af2bed28a14c6e279e3ce2c9b868924bc3ceb"
 [[files]]
 file = "config/patchouli.json5"
 hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
-
-[[files]]
-file = "config/patchoulibutton.json5"
-hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -572,10 +536,6 @@ hash = "3df12a8d9fb1e673d78e4abb514d9bc049aba9af3ef63ca5e5d7149d14f4f092"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/gameplay/driftwood_crate_treasure.json"
 hash = "58661b56c0b0213273a44fdb01d48f8b1bf84edaa5c9116a7db664b33044ef52"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/gameplay/fishing/fish.json"
-hash = "fc2331de3086891fba7e9ed243a7e36523e53f644e11be870ef38f76ebee9fe6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/gameplay/fishing/treasure.json"
@@ -3602,10 +3562,6 @@ file = "config/rrp.properties"
 hash = "a2e6c09a08020b72f3d36942bdd8a6982cbdccd1b2610b62eb0fa191dc4be700"
 
 [[files]]
-file = "config/seasons.json"
-hash = "3d831a2240f176a3eeef2b240d9126e855dabd682285a34dadbc68a52433d935"
-
-[[files]]
 file = "config/selfish_villager/general.json"
 hash = "18a6b90fc4ce692b6fd8e84e68c7842bb9bab0ac7671a4aebd74945d50ef7d54"
 
@@ -3670,10 +3626,6 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/sparsestructures.json5"
-hash = "247cc1fcc793d12a3d5f7f0f52af5d87180b4069250e019900ce3973ebad49f2"
-
-[[files]]
 file = "config/spawnanimations.json"
 hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
@@ -3684,18 +3636,6 @@ hash = "96c6a197821a8dd80f4970b2fed8a74886fbfbc69e196d5d6eb2bf9cf4e2fe95"
 [[files]]
 file = "config/surveyor.toml"
 hash = "58c5b37f0f3db5394793d4950b2284a6b70864c26dba54836e20d9d110f4014b"
-
-[[files]]
-file = "config/tectonic.json"
-hash = "70f9b5b8d3e112b48e0db377e8ccdf5f30739021863942d4b5635013168ce8fd"
-
-[[files]]
-file = "config/visual_workbench.json"
-hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
-
-[[files]]
-file = "config/visualworkbench-client.toml"
-hash = "090cf77a65d58c12bc3e95d79f04a1f81f8859dd46cc66b82e92fcf2e2a995f1"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -4416,11 +4356,6 @@ hash = "dd90945a98dd92b17935197f2c3aa28f36dac88407f848da189d10bffc85bed9"
 metafile = true
 
 [[files]]
-file = "mods/explorers-compass.pw.toml"
-hash = "891e88958d1140c1e00fd82d9815f7610434a08f5f61fe2851baf4b0eb66f752"
-metafile = true
-
-[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
@@ -4721,11 +4656,6 @@ hash = "91c6b80984e4cf5b3cb709b926dfcbf180818d24b424a397c8782cfb897bb1f2"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "05023a7f39259dd40e512ec253d8114ae93ac5a53b01f284625e5d5f8c1132fb"
-metafile = true
-
-[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
@@ -4793,11 +4723,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7799a39d0d8c2d6a98b59d4b8f2a191ebdbfd38343d12b930ff71c9750e6531f"
-metafile = true
-
-[[files]]
-file = "mods/patchoulibutton.pw.toml"
-hash = "197f702329ba06c5b5309d7d6e605f97dade4f312098fbe782aba22e58d814d4"
 metafile = true
 
 [[files]]
@@ -4885,11 +4810,6 @@ hash = "f8d086f1214e99e1b146c087945fb4738c6c1b170664c628dc7d485fa2c9e34c"
 metafile = true
 
 [[files]]
-file = "mods/simple-backup.pw.toml"
-hash = "2d4fccb7df6a41dc8f6bf3058c213d2c80883952cbfd17986881c8ceb1a557f7"
-metafile = true
-
-[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "1a8eef234d1feb15161de954e7db7035f19be777b49d88a5be2b489ee2fce936"
 metafile = true
@@ -4897,11 +4817,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "de37a29e69473c7532f8f17a44add66ab5d38c971b04a07a235543a159741040"
-metafile = true
-
-[[files]]
-file = "mods/skins3d-but-not-cubic.pw.toml"
-hash = "d767de4a38202f306c586e7ff0e6dd6b7e793e5396ebbfab8a1cd2a76cda22ec"
 metafile = true
 
 [[files]]
@@ -4937,11 +4852,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "81a183c466fbe38a13c9752f2ed9c2c46058ecafe0242bb1d9e37c1941ccbb91"
 metafile = true
 
 [[files]]
@@ -4992,11 +4902,6 @@ metafile = true
 [[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "c47ffe7736fb97aac90cb76b9e6959bb3832686163d782857cdf6cc4853f5cb6"
-metafile = true
-
-[[files]]
-file = "mods/tap-tab.pw.toml"
-hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
 metafile = true
 
 [[files]]
