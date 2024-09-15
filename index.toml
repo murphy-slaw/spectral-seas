@@ -562,6 +562,46 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/game
 hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/desert_pyramid.json"
+hash = "1224cb6e3ea06aea0da273507df08c1bc6d5d60fb484b774681f3ae734e51c39"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/desert_well.json"
+hash = "96ea9c7273e63795e62b91f8308740373a84845b940fbb066e7ffe46f365d49a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/ocean_ruin_cold.json"
+hash = "7950d35233b41568fad4db2fb0807c49f847b0ec24f7624413423ccd2483d377"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/ocean_ruin_warm.json"
+hash = "a0d0c762e947a483663887622a7d7857d04714f93dcdfdcf926c8d889220ec2b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/trail_ruins_common.json"
+hash = "c0d45237b48f09e230244e419380d2e63225618de329437c502e0f14a9a8c6a9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/trail_ruins_rare.json"
+hash = "72d0b3e21d2bea992468385ad05fea82973d3557605b7a2d9050acd7459e086f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/buried_treasure.json"
+hash = "7130d897c49ccc41877b2b6a21a2ecd037c0dcad5be0a8cc47fde6aaf4380edc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/shipwreck_treasure.json"
+hash = "fe38a4f06fdc43125607ea7b80d535b16bda329007790dba0b03674dfee492ae"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/village/village_toolsmith.json"
+hash = "7b519582446e654e901d6d96c6186a15a1d8d73b28b07e46162f6c0e7da40630"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
+hash = "82a5b0acd795834874671544090268ab78c4488874af32b3aac571f6ea1814e6"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/gap.nbt"
 hash = "81ebaef0ff565f4f04ff74b7436da5954288ec6685b071004d9462987e57d220"
 
@@ -1114,6 +1154,10 @@ file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/swamps.json"
 hash = "f6013c57a7e899e650a71b8f2b3ad357cad35950b261f4714a1ddc554d70b7b8"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure/cathedral.json"
+hash = "6d700f6fd0948ce19a596cb46a68e81d77369c9ad3877d196828fd325dc47363"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_alligator.json"
 hash = "3039044e71a4666b99a5597bb6768589b081b5c8551df0a1fff37a16dc57beb7"
 
@@ -1228,10 +1272,6 @@ hash = "11a8cd595ea49cf1e30d9869e7101421a7d0c926eed539fd1d44c55d1f9b58ab"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_zebra.json"
 hash = "01f962101a167746488c2e14b862394eab444669d3e99a7d95a0d437a74b7ca1"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/natures_compass/advancements/natures_compass.json"
-hash = "a0b45e370223b212dfff9abdaf5f44278b1e79d545b6d12b4e3ebcd61e92cd99"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/archaelogy/conduit_ruin.json"
@@ -1586,24 +1626,8 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "b481a2f70822a92c1d3d0824d748070febd8afbb0a7cf4d6143c6af82e0e6acd"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/desert_ruins.json"
-hash = "e2ea88a81de9a3a07ea7a5aaf10e820acf76fea21aaba53a5d0bafc98177ba09"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/firewatch_towers.json"
-hash = "5a8ddaaebcf7cd122327c34d73557288357cd8e463847d26630f7a20e1cd2ba5"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/illager_camp.json"
-hash = "084d9111e0f3f217b4052a86e4aef3819525b7a56ede8648fe98a3906c78194e"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/illager_hideout.json"
 hash = "bb33c76c25fa79597a3b45fce87e510860dcd4635aa48bd392e936ad21a563ef"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/jungle_ruins.json"
-hash = "e2ea88a81de9a3a07ea7a5aaf10e820acf76fea21aaba53a5d0bafc98177ba09"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/mangrove_witch_hut.json"
@@ -1615,7 +1639,7 @@ hash = "59c3df743219a5c6bc921a232eaea09334895a6e820112885b977d7d673e621b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/nether_skeleton_towers.json"
-hash = "c8a17e16c94c6c71c8bc83cd28121c382f06a723a6efddbd59c9cd1ad506262e"
+hash = "12fb3f3959d5c148fdd5c87ed521a0d6ea6008958e2d6e0ece183f8ed92ba7b9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/nether_structures.json"
@@ -1624,10 +1648,6 @@ hash = "c7669e3fbfcf5c7f35c5480b2f81224b7fd8fded0cd2ca51fcc463d57cb3b01c"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/ruin_town.json"
 hash = "72267696ae73a2250d37db980654df453e4abfb150d6fb9217aea2feb6b10051"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/stray_fort.json"
-hash = "c8fc231c1e57556e50d7cb63659c82575667efe377d5ed3c449e12339cafe9b8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/taverns.json"
@@ -1642,24 +1662,12 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "9c702ad1ad4a2216186ea2b7627afabb2efbb818b899280c8ccc84edc729ddb0"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/villages_jungle.json"
-hash = "2aac6f628a859ac3ebb7dfc202919160ace981c7b0bfdcca9ec88bcb5630c05c"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/villages_swamp.json"
-hash = "2aac6f628a859ac3ebb7dfc202919160ace981c7b0bfdcca9ec88bcb5630c05c"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wells.json"
 hash = "19524bfa4b8f64679e91222b1a1c4679e867d374d499afca57c0798998868a72"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wild_ruin.json"
 hash = "2e4a4d8ae380c742b0b4c4117a5246f7f4d9c6435332218373cb80152fad9b6d"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/witch_villa.json"
-hash = "c2b713e5f58decf86ab960799a12b86e1c3921f03853b8956444e6eb57086d8d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
@@ -1711,15 +1719,11 @@ hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "4ec6c8eb814b1f7e7414084af9bb0f864b5c88704333642565ecf84d18a3b8bf"
+hash = "fdd27fe3f6906980af56ea5c77eb29b6dcfc07cca8c7c050575ae445ba01837c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "6f2f603b3120e84b8ad7badaf75f59827e4fc6ec09bf5a0c195d55557596a517"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/ocean_tower_chest.json"
-hash = "a96126406ffb8f856eb524d1985339c3381376e5a1c384a170053544d33eab5c"
+hash = "dab6f42221d771e689d2de5b5436e6f86dda75171ab579bd7db3333d1a46bae5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -1762,10 +1766,6 @@ file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/str
 hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tower_chest.json"
-hash = "13b091f8b7b60bd6e08578c30c0de15e524ba88ad9925542c09160da82bc6a87"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/worldgen/structure_set/regular.json"
 hash = "db9adb67e4665fdeecf60a5410e907741d31320082c63ad52bd789c912784b86"
 
@@ -1774,16 +1774,16 @@ file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/tags/worldgen/
 hash = "272f4e272e3eb25f2ad220a5c044b8f2968831ffa79cc895e1df0d71ab06a8c6"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/mimic_desert.json"
+hash = "792b59f1f7d068393dda4b60d31d9a85bec83ad6b372bed24028b1d72269c177"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/other.json"
 hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towers.json"
-hash = "9984e6f8ff37d211ea980c49be3d84beb7b537289aac900d909244a6d376bd0c"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towns.json"
-hash = "b3d1c2f0b073f07e7b80e3acdac37198d9e216c600ae52d1e5f3b1e4019d7195"
+hash = "796d15759dd0b7e31ee9846be9e7ef1793446deca0e121c2c4ef1d2e00de44e8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
@@ -1815,7 +1815,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "c733b9fe51def6fe6d677fc2bff46bb01e26d908a4312a3aff66ddac6b89ddde"
+hash = "83682fddcb9803315d83a8af9d6b62f65c23dd712f35834320f8ba43d2a1e82b"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
