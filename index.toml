@@ -667,7 +667,7 @@ hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ship_graveyard.json"
-hash = "7143357b03888ac1f5315d8975f7049d3a92c98619634b2993495f2644cdc47c"
+hash = "07a8d31d3aca718dfde024c364e9ca3d41f9004810b19ab11d89a1ebee8b8ea6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
@@ -691,7 +691,7 @@ hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ship_graveyard.json"
-hash = "d192927186fb5417ad155634decf4d4f70e759aa84bc6b429ea822fba780bfc6"
+hash = "913507b24b53b321aac56e8dd9899290ab199043e5b48048f0805a9f9aedce9f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/ship_graveyards.json"
