@@ -498,6 +498,14 @@ file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/n
 hash = "072140441241e0cda8fbb31d696c0ddc7298074135dc5c49de032cdd52504ac4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/deeper_oceans/worldgen/density_function/overworld/warped_factor.json"
+hash = "590a8f962ec360b209de296d2ca17ee61e50b1e67495efda16ee0eba2217c9a1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/deeper_oceans/worldgen/density_function/overworld/warped_gradient.json"
+hash = "ae3cb70b391fd07bc1fecfd45f1dc6101da04814250550cd8fca32b9b16a6119"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/coconut_crab.json"
 hash = "3cd2964085b6c5f78e3bcde1f0e80acadc58f732386351bee2448295980451fd"
 
@@ -602,18 +610,6 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/vi
 hash = "82a5b0acd795834874671544090268ab78c4488874af32b3aac571f6ea1814e6"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/gap.nbt"
-hash = "81ebaef0ff565f4f04ff74b7436da5954288ec6685b071004d9462987e57d220"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/sunken_ship.nbt"
-hash = "a8edf521df694d0897bb33e5220d4f3dd4f65f62f43aea09bc2fffab2b56937d"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/sunken_ship2.nbt"
-hash = "4550f7a0c73917e5eccc097f0fbec8632a25bc6c8e218dc1d991e07b2cc90cab"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
 hash = "54e69e5c86479b2ca08bbcedbf9cfa32a4576b5cd1df64cc5097cf7363476c5a"
 
@@ -666,10 +662,6 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ship_graveyard.json"
-hash = "07a8d31d3aca718dfde024c364e9ca3d41f9004810b19ab11d89a1ebee8b8ea6"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
 
@@ -682,32 +674,12 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/processor_list/ship_graveyard_chest_swap.json"
-hash = "73a294c7ce5cd155d35cd03bf92ea2345013849ebe6b8b0c4b6f28a1e0d64efd"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
 hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ship_graveyard.json"
-hash = "913507b24b53b321aac56e8dd9899290ab199043e5b48048f0805a9f9aedce9f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/ship_graveyards.json"
-hash = "84dd879f6950b5fa3944682d0a828ace7a8ed4c70696294af4f3ba865e6b2db2"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
 hash = "75690443fc1f5c086215c68cea7e204d35f240d18b9846118a7f79da17a89841"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/template_pool/shipwrecks.json"
-hash = "0a2db5511b243588a6ebe236a0e5335444fdeec201978a3d341d79b463f5a83a"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/template_pool/sunken_ships.json"
-hash = "7e96a2b90f51eeae3ab27fbd50f95f8fd0b22872eda582161b0574c75001efd7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1684,6 +1656,50 @@ hash = "6554c1cc8794a1daf77606a8a82af19597d446f947ce05d4bea8fae1793051ce"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/non_property.json"
 hash = "65ae4ca32ceee89cfedac3b1c82209977f6d39a5bfbcacfb66a00dba27551030"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/structures/starts/start1.nbt"
+hash = "a202e9f78ecf7d3d46f4d2a99606a9a22905c1212b174adbf71bf26535578f8d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/tags/blocks/pillar_replaceable.json"
+hash = "1674bb94cf71ef11a4a72a6c4f08681c92ac16e279b95aca13ef9306c80a3a26"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/tags/worldgen/biome/has_structure/ship_graveyard.json"
+hash = "07a8d31d3aca718dfde024c364e9ca3d41f9004810b19ab11d89a1ebee8b8ea6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/configured_feature/large_pillar.json"
+hash = "e25b956c0d1a97b48824c8e60002184db8b426a78502183ae621e0a266e190f6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/placed_feature/large_pillar.json"
+hash = "f941bb428b8f9732e84960f2a6316f4b3fd039bbfc4ca39e7bc475033f7cb5bd"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/processor_list/chest_swap.json"
+hash = "fc975ccd6ec8f978ec2af939f779c829436039901ff17d27db57f3742c357ada"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/structure/ship_graveyard.json"
+hash = "9009f9464439a7287ee032b4f436da0dac2b37bd9e02ae5e340cc0f83d15996b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/structure_set/ship_graveyards.json"
+hash = "af9bdd0e6d1dd0f07c3c6d5a73793fb573f573c34f8bd73b0942f127a62c9d37"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/template_pool/features.json"
+hash = "871833a229d12ea928a58d95b37f6df604d59f13db1c53567980b013110fa8d1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/template_pool/shipwrecks.json"
+hash = "b218d6dfd7958a9a0e17d4b68926f6116ad862a059a37175d6d756567c9258a9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/template_pool/starts.json"
+hash = "74bd330388bc4bdf9929702fb2567b179a22d10d65714ff0e7c251b180ded800"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_types/exclude.json"
