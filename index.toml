@@ -278,7 +278,7 @@ hash = "5b63a6299eba68d18b6dd520e96d3e299834453930c3244a14123921e860a68f"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "799ff143d5059a90fc4b19ea318e7ddbb7b21f73f4c21ebffcf8d03e41fcc471"
+hash = "1face5a07e62aa9edc44e67fbd382f2eb9c3edd7d4003de5144b3deecc98110a"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -3736,6 +3736,42 @@ hash = "ae010fff5a5d185774fbdecf7212f0da03249232f0c5215a4c6b16bdc9eb6081"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/zenith/adventure.cfg"
+hash = "453281ecc0697aefdbf1d9a8b99bd14eb78187eccde0a93cf26aca47fff9c2b0"
+
+[[files]]
+file = "config/zenith/ench.cfg"
+hash = "f50eb3b6b28159768a4ffb6e50efdd82181736d76075ff2febc46d0458b081c8"
+
+[[files]]
+file = "config/zenith/enchantments.cfg"
+hash = "81638f068211aba5a8bae2d9ede6632f1a02fb39cb4e06666c25218800d22871"
+
+[[files]]
+file = "config/zenith/garden.cfg"
+hash = "407b4fc77925e26351ff7a668f3956efb5e1e9b5ab6d08a4ed37a70ac28bc02d"
+
+[[files]]
+file = "config/zenith/names.cfg"
+hash = "b5d0bdecb57d4b9fe611c3e8a9a37215bee6f98346b41f620e611f37f404cea7"
+
+[[files]]
+file = "config/zenith/potion.cfg"
+hash = "e6ff30cbc845747b3ef151174595ccb48981cd22d04fe9a82dd20b88924ca16d"
+
+[[files]]
+file = "config/zenith/spawner.cfg"
+hash = "28f381a99b5be4cfa1066a42c6edde7645cd237912b0f11028e6dffca5cd57ee"
+
+[[files]]
+file = "config/zenith/village.cfg"
+hash = "aab9e16cd91b3e90652c89dd042f7dbfadc59fd6dabaa65f6a5f556d299e0f7c"
+
+[[files]]
+file = "config/zenith/zenith.cfg"
+hash = "d998fee2d0167ab561b31d9616a5b68c69080ed023c5e7882719d3584ff0aee5"
 
 [[files]]
 file = "kubejs/README.txt"
