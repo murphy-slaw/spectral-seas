@@ -2,5 +2,73 @@
   "pack": {
     "pack_format": 15,
     "description": "Spectral Seas custom resources"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/categories/category_gem_socketing"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/categories/category_unique_weapons"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/gem_socketing"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/uniques"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_chakram"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_claymore"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_glaive"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_greataxe"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_greathammer"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_halberd"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_katana"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_sai"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_spear"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_twinblade"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_warglaive"
+      },
+      {
+        "namespace": "simplyswords",
+        "path": "patchouli_books/runic_grimoire/.*/entries/weapon_variants/entry_scythe"
+      }
+    ]
   }
 }

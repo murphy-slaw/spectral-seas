@@ -498,6 +498,10 @@ file = "config/paxi/datapacks/spectral_seas/data/armorful/loot_tables/entities/n
 hash = "072140441241e0cda8fbb31d696c0ddc7298074135dc5c49de032cdd52504ac4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/betteroceanmonuments/worldgen/structure/ocean_monument.json"
+hash = "ed6771ed37a711d2bd10071261ff84d9b883966de4995cf8027d360d636f5b33"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/deeper_oceans/worldgen/density_function/overworld/warped_factor.json"
 hash = "590a8f962ec360b209de296d2ca17ee61e50b1e67495efda16ee0eba2217c9a1"
 
@@ -3539,7 +3543,7 @@ hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/pack.mcmeta"
-hash = "99f8a3adc0accdf1b78c810fe8bc7ea2a1fcb7b1f86656222429fb52847fc16c"
+hash = "3308afc65affe708e1cb7dc8653e0af4984ca00e130b17025860984c6d80faeb"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectrum_public_server_pack/assets/minecraft/models/item/carved_pumpkin.json"
