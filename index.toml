@@ -114,7 +114,7 @@ hash = "5b586a19a16a87596a370f5933622bfda8ebde66a7971553feb694f0ebba1b17"
 
 [[files]]
 file = "config/emi.css"
-hash = "3a8d1f5102ef4f74e7744a305140a91cadb49bd3ad8852d1409fa39fa63d3fa8"
+hash = "d0dc498b2e96ab50342f51461c5640b2c60f3d45f40351f9a4ed3d07d0db232c"
 
 [[files]]
 file = "config/enchdesc.json"
