@@ -1,9 +1,12 @@
 {
+  "revelationary:plugin": true,
   "waila:core": true,
   "waila:vanilla": true,
   "waila:harvest": true,
   "waila:extra": true,
   "waila:fabric": true,
-  "waila:test": false,
+  "zenith:ench": true,
+  "zenith:spawner": true,
+  "zenith:adventure": true,
   "reputation:plugin": true
 }

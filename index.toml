@@ -3698,32 +3698,44 @@ file = "config/surveyor.toml"
 hash = "58c5b37f0f3db5394793d4950b2284a6b70864c26dba54836e20d9d110f4014b"
 
 [[files]]
-file = "config/waila/blacklist.json"
-hash = "820b1de1bdb80919d2678649ae5d5491c0885d635aaac8b01c1f67b47acbd243"
+file = "config/waila/blacklist.json5"
+hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
 
 [[files]]
-file = "config/waila/extra/energy_blacklist.json"
-hash = "148e3fb0fbd266cac17934293a3f1c4744abe97757b9e31fc3175a6db4ad04ff"
+file = "config/waila/category_entries.json5"
+hash = "4480b57457f5b75262eec0d3d597489e2bd2e341f91568d2291d2d866288bf12"
 
 [[files]]
-file = "config/waila/extra/fluid_blacklist.json"
-hash = "f815ac439c124e29251f2afbad19fe85c36c0b2fe746273faa138c2ec24916eb"
+file = "config/waila/debug.json5"
+hash = "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a"
 
 [[files]]
-file = "config/waila/extra/item_blacklist.json"
-hash = "6df5a4534a0afb2c269522fada7234a42f11e8f9d7205d4f19d929d8f7ef0125"
+file = "config/waila/extra/energy_blacklist.json5"
+hash = "e8243ffac9e64e2b025195ebfc4b1acafb98e5e89c0167e673470d65d4c31810"
 
 [[files]]
-file = "config/waila/extra/progress_blacklist.json"
-hash = "d7df9ec8da2ce7b460b4a236696ec21f80bfeaf8700fa3573458ce83e97a7bf9"
+file = "config/waila/extra/fluid_blacklist.json5"
+hash = "278e964061848df94ac89d7610987afe3d008f1ca5fe6119410dc2e07a2aca10"
 
 [[files]]
-file = "config/waila/plugin_toggle.json"
-hash = "e97f49db29edeeab70b8fa15bc05e04fa7834b36756fa536a8c396da631c5474"
+file = "config/waila/extra/item_blacklist.json5"
+hash = "9ef0b7479c81e1a941eaa44fcdc571bdf9cb3ddb3d234a64f3dff0a8ccbda41e"
 
 [[files]]
-file = "config/waila/waila_plugins.json"
-hash = "65570aa0a5a6d0f1afbd1ab6b5eacd7690eca62b9804ace4e180ee2d00ee3104"
+file = "config/waila/extra/progress_blacklist.json5"
+hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
+
+[[files]]
+file = "config/waila/plugin_toggle.json5"
+hash = "d0aae6c8dbaf4f3373c556fb54b5eaded20e11ce4d6fd1e00700af19bebd858d"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "ac1d4c12619741b5e987f6800d87b1d4561f0851010b4816c46908244e558c3f"
+
+[[files]]
+file = "config/waila/waila_plugins.json5"
+hash = "eee8eb4558a76b38831755e765cb1fce17b3291e0f88abcbfe708ec130e74134"
 
 [[files]]
 file = "config/yacl.json5"
