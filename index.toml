@@ -3799,7 +3799,7 @@ hash = "bcd2448bdaed29ebc6f510e8aa0fb63f6f292827406ff81fd1c4c17d7a20df59"
 
 [[files]]
 file = "config/zenith/potion.cfg"
-hash = "e6ff30cbc845747b3ef151174595ccb48981cd22d04fe9a82dd20b88924ca16d"
+hash = "f4906eeb0b40dcf0013fcf9bc965465b4dc7de9fc384c5a60e127237d06c049c"
 
 [[files]]
 file = "config/zenith/spawner.cfg"
@@ -5002,7 +5002,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "77422c11890a442c3039a8712058b1e46615336e16ed9b156f359dd16a930bc1"
+hash = "4a7b4435482ea485838a1956b36ead1757dd88f2e38e384c4281ae2b82594eca"
 metafile = true
 
 [[files]]
