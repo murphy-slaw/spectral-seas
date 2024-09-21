@@ -1683,7 +1683,7 @@ hash = "1674bb94cf71ef11a4a72a6c4f08681c92ac16e279b95aca13ef9306c80a3a26"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/tags/worldgen/biome/has_structure/ship_graveyard.json"
-hash = "7143357b03888ac1f5315d8975f7049d3a92c98619634b2993495f2644cdc47c"
+hash = "7d1533a6825052fdeac45de9b42a5eca3b8777b2cfe3edc5f062e8aa99337a9e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/configured_feature/large_pillar.json"
@@ -1707,7 +1707,7 @@ hash = "f418b6af664e60056c836023704bce5a66050bb350d5385638220881b0020687"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/structure/ship_graveyard.json"
-hash = "801512bb6614dcb4fa4ded15908dc4514e4513874a962770cd19fbce6d32a740"
+hash = "5ab9289a620a0a54127f1544532603f4a179287c0d6180c1a00575f5e7859b1e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/ship_graveyard/worldgen/structure_set/ship_graveyards.json"
