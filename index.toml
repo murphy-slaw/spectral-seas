@@ -4338,7 +4338,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
@@ -4428,7 +4428,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "26e16f9ff6e9e65bf8b9a31c6e9fba0222c1721e68695cb94ed344f8497f2c50"
+hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
 
 [[files]]
@@ -4463,7 +4463,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "782e92b95bc03bca3231aba6de26b97a3bc12866699cc0a8f57acb2d3b33c6cb"
+hash = "872705bce835533f3fb10812e406f2a9dab781cb39ec67749112d34353289408"
 metafile = true
 
 [[files]]
@@ -4478,7 +4478,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b19c6236b9e19aedcc36ff3dbcbcac1a60efe8b2843bea4629d791c453823889"
+hash = "78dfcc2228e67bcc3dd0dd1e7b9b278bf35ca239525dc09af2fd53805042f9aa"
 metafile = true
 
 [[files]]
@@ -4508,7 +4508,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -4528,7 +4528,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "008a46534addc2059999b4146332f672ae58adadc64775d63f08c34743a69c24"
+hash = "fe77f1dff3b6971f77a40696848ef12c43375f7a753e6967a3b753f795616c80"
 metafile = true
 
 [[files]]
@@ -4578,7 +4578,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
+hash = "7b09d33cdf861de6fcac6ee8751435b917da52b15191c58ae261bdf039139cce"
 metafile = true
 
 [[files]]
@@ -4663,7 +4663,7 @@ metafile = true
 
 [[files]]
 file = "mods/items-displayed.pw.toml"
-hash = "6d70ec9a97dca52dd3c2b0257fcf1d942859548d6323b237671245388e91bfc4"
+hash = "e898e2669c6c1dfa22a2e2021780498415bce4d1a427ac43f5dadac3497f8dda"
 metafile = true
 
 [[files]]
@@ -4723,7 +4723,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "790610c2deca97c9416c8639caddbd4c7eb1b50b28bed4a2d8d275ea4e729fe9"
+hash = "e50c91fe2edda90b55d3f2da785ab621cf2923a1cdddde7e60a2f4ef051d9657"
 metafile = true
 
 [[files]]
@@ -5097,7 +5097,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "23f5f88918b0e013291420a4edce7d335c3d2ecde57f2aeb73e6019d09620ef7"
+hash = "87da650697a8ccad61aeb24c8ed36b01455d524a86599f23b2c4f04e7bf51d0f"
 metafile = true
 
 [[files]]
@@ -5135,7 +5135,7 @@ hash = "1a077db8df4d0186bfb618a273569a1146e8f1a10662961177564ed18f01f73c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
 metafile = true
 
 [[files]]
