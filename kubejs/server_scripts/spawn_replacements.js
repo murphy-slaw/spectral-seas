@@ -1,3 +1,6 @@
+const scaleTypes = Java.loadClass("virtuoel.pehkui.api.ScaleTypes");
+const baseScale = scaleTypes.BASE
+
 const pillagerHats = [
     "simplehats:bicorne",
     "simplehats:tricorne",
@@ -54,4 +57,10 @@ EntityEvents.spawned(event => {
         event.server.runCommandSilent(`execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon ecologics:coconut_crab`)
         event.cancel()
     }
+
+    if (entity.type == "hybrid-aquatic:karkinos") {
+        console.infof("Summoned Karkinos: %s", entity.uuid)
+        baseScale.getScaleData(entity).setScale(3)
+    }
+
 });

@@ -1,3 +1,5 @@
 {
-  "loadOrder": []
+  "loadOrder": [
+    "grapplemod:original_textures"
+  ]
 }

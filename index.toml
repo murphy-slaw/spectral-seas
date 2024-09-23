@@ -1916,7 +1916,7 @@ hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "30bcfc21d4fbc2e9f49f298b0fbfc1af9961475face3c9fe872c4fe92af11ab4"
 
 [[files]]
 file = "config/paxi/resourcepacks/CTM-Overhaul-V_5.0.zip"
@@ -4123,7 +4123,7 @@ hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "8d2c3d565cdc259884f1bf1abdf59e21b0f85d151b66adb74781b65e2d5fd367"
+hash = "cf55c29009c5537e97940a2726f5429425cb766df47039579899ecc5f39ac58e"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -4864,6 +4864,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "291ae6a55d5c57d45b0586a097446cabdbfcf26a02f012c412cfba2f6d07d3db"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
