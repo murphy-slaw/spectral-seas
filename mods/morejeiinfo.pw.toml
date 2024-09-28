@@ -1,0 +1,13 @@
+name = "MoreJeiInfo"
+filename = "morejeiinfo-fabric-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpVBqwnF/versions/o6dc1FeZ/morejeiinfo-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "1cbe8dce26f1b02ba34dac3699ae8bf2a3410ec4"
+
+[update]
+[update.modrinth]
+mod-id = "bpVBqwnF"
+version = "o6dc1FeZ"

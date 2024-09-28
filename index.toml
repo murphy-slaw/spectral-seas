@@ -4782,6 +4782,11 @@ hash = "9d99361fe557d1a039c3d64a4b44f19a2289402fe374d11bb0d6a91722f81ba6"
 metafile = true
 
 [[files]]
+file = "mods/morejeiinfo.pw.toml"
+hash = "911d820fa87bedf329376afe66e86334531e1852b596bfef7cb18b110f791a0c"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
 metafile = true
