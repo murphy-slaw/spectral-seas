@@ -4847,6 +4847,11 @@ hash = "7e5610c9859c9ee452177098558e5750e5a8688303adeb756923ad8f1116ba87"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ecaf319476b92f1ae6da13634987326a1c847e02d0292d1f46971dddd24258f6"
 metafile = true
