@@ -4122,6 +4122,10 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
+file = "kubejs/server_scripts/ship_spawn.js"
+hash = "922bbd9d89c3102180babffd02fde55011cfaa592466e41764d23acfed5a72ff"
+
+[[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
 hash = "cf55c29009c5537e97940a2726f5429425cb766df47039579899ecc5f39ac58e"
 
