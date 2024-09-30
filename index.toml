@@ -4925,6 +4925,11 @@ hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
 metafile = true
 
 [[files]]
+file = "mods/rabbit-behavior-fix.pw.toml"
+hash = "8cca24da1a913bef4e64d3e5b7974b59f408415e4565cff9d752a5a8f20bab3a"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "749a4d2e414a3049d0ebc1874858269434e59c9f270cf926747766cf3b7d68b3"
 metafile = true
