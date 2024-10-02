@@ -4346,6 +4346,11 @@ hash = "678e99cfc3b17830ea7c0438e29d8b3669642e39579c969cec0a9338d9ac9c58"
 metafile = true
 
 [[files]]
+file = "mods/cia.pw.toml"
+hash = "e7e87bffcf5ee06ac78e1d6af8a2d060df55eb3c41f360f5b25e1f11446c6dd8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
