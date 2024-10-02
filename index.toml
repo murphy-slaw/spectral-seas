@@ -4452,7 +4452,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a993f861ad383e74b9744dc305e26182ca9e23d5741b8c4066aa4290d8390c8b"
+hash = "9987b3334d20655fc6b9353a0ae1fe23c0ccb55a501efacc071eee4a47b520f1"
 metafile = true
 
 [[files]]
@@ -4517,7 +4517,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "003da42ecbdc0413ff9772fa6c6d8522dc8af4339a06cac58799d1ff6e785a16"
+hash = "45e0ec42fdfac9489fefb2391928492215d852b4d3732b4623f5e325fe506833"
 metafile = true
 
 [[files]]
@@ -4762,7 +4762,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "0fc9907be02b04735432834255f96549681d61848a5789b01b3b3e88c44a2006"
+hash = "f73573a1eb68f1662f264c9e47fc58ad6b462e85e65e043439ba3c15a2492ac5"
 metafile = true
 
 [[files]]
@@ -4797,7 +4797,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
@@ -5116,7 +5116,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "87da650697a8ccad61aeb24c8ed36b01455d524a86599f23b2c4f04e7bf51d0f"
+hash = "b4749e71109d90fe5e071a8161f56565e9224cfb25399598902e98ab15ea2730"
 metafile = true
 
 [[files]]
@@ -5131,7 +5131,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
