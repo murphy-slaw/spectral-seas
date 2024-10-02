@@ -4326,6 +4326,11 @@ hash = "55779930859fdb5ce10956909c965e436ed2a7712c2b4932e6eda395e6383658"
 metafile = true
 
 [[files]]
+file = "mods/cea.pw.toml"
+hash = "f00b4e481a694b98b9b1ee32ac3515f16ae71c4409d363ad4e0c459ed29b36ae"
+metafile = true
+
+[[files]]
 file = "mods/chalk-colorful-addon.pw.toml"
 hash = "9d1ac543f46e6be6539e4b858e86f1c082c50841d0412a55d0f8014ff4e8539d"
 metafile = true
@@ -5060,6 +5065,11 @@ hash = "c47ffe7736fb97aac90cb76b9e6959bb3832686163d782857cdf6cc4853f5cb6"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
+metafile = true
+
+[[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
 metafile = true
@@ -5067,11 +5077,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "c76ae1207fd5e5dda9ff3a5c92d6f2b6fdb3bbc6d339828361e8fab082960468"
-metafile = true
-
-[[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "726324777b9d14adfd1622ce09d1be5b91678de733f45ce6ab1661b390034761"
 metafile = true
 
 [[files]]
@@ -5142,6 +5147,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
 
 [[files]]
