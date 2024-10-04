@@ -4201,6 +4201,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "ccac26a3ebdf1892fc02930881b03ed0dc13524314a53f04f197a20ea6f02382"
 metafile = true
@@ -4407,7 +4412,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyanide.pw.toml"
-hash = "761857a2d019df774d3682e11ac89a1653fb1ae1a2b4592c6793cd1246279d55"
+hash = "0c4ea6eca3216ca828bfcf8b5a47a711566ac2854fa5d992495ad6d57ba62086"
 metafile = true
 
 [[files]]
@@ -4502,7 +4507,7 @@ metafile = true
 
 [[files]]
 file = "mods/ewewukeks-musket-mod.pw.toml"
-hash = "dd90945a98dd92b17935197f2c3aa28f36dac88407f848da189d10bffc85bed9"
+hash = "ff60ffeec2779d8beb46a184ae6a02c678b870d9e94d0a05d26b911092924b50"
 metafile = true
 
 [[files]]
@@ -4567,7 +4572,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "29d26fc84b2eab3a4bff3b0e136874bb44efa842a6ac91ac6f437322b5609619"
+hash = "429670c72daf867e8d12bf268cffb24ef8626c954186c9e3a4d580bc3b33f668"
 metafile = true
 
 [[files]]
