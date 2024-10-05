@@ -1,0 +1,13 @@
+name = "Trajectory Guard"
+filename = "trajectoryguard-2.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sdl5gZf1/versions/PDQzVmTU/trajectoryguard-2.3.1.jar"
+hash-format = "sha512"
+hash = "646e7f35e8a40763ddef9258321cc6a8396e20e14eb3e9dd6cfc8588f73f9f806acddf08e2f86d1206bd13c4a5fc5befcfca9de8535db7ef9930a891fc63fda5"
+
+[update]
+[update.modrinth]
+mod-id = "Sdl5gZf1"
+version = "PDQzVmTU"

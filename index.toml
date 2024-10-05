@@ -5095,6 +5095,11 @@ hash = "c76ae1207fd5e5dda9ff3a5c92d6f2b6fdb3bbc6d339828361e8fab082960468"
 metafile = true
 
 [[files]]
+file = "mods/trajectoryguard.pw.toml"
+hash = "dfa2170ef50f16347188880194e5ab7d47e7827fe2943a60c6ab4a5d688c9aa6"
+metafile = true
+
+[[files]]
 file = "mods/tridents-n-stuff.pw.toml"
 hash = "de3dc63420cb6025e7c706710560a1292da94a72a3ab37d40ffe6471ce9c49bd"
 metafile = true
