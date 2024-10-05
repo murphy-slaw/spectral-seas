@@ -602,6 +602,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/bu
 hash = "7130d897c49ccc41877b2b6a21a2ecd037c0dcad5be0a8cc47fde6aaf4380edc"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/shipwreck_supply.json"
+hash = "5f89352695667965f772c76da4fbf285ba47b4f84b81899f937529b4a61dbac8"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/shipwreck_treasure.json"
 hash = "fe38a4f06fdc43125607ea7b80d535b16bda329007790dba0b03674dfee492ae"
 
