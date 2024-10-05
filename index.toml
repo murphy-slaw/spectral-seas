@@ -1138,6 +1138,10 @@ file = "config/paxi/datapacks/spectral_seas/data/mvs/tags/worldgen/biome/has_str
 hash = "0bcd7cecad48d05cb0d70a6322f2de2859ad5fb2dea1e354b8ca605cd178eccc"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mvs/tags/worldgen/structure_set/common_avoid.json"
+hash = "5d32e19e1cae1598ce4aadac679c2566a8acf1c2c3f413a51cbe6a8666469c6a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure/cathedral.json"
 hash = "f85b8e105886ae8b04753ecff26910f9ce246c7fd7a99c94b47091c04618c874"
 
@@ -1630,12 +1634,8 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "c7669e3fbfcf5c7f35c5480b2f81224b7fd8fded0cd2ca51fcc463d57cb3b01c"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/ruin_town.json"
-hash = "72267696ae73a2250d37db980654df453e4abfb150d6fb9217aea2feb6b10051"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/taverns.json"
-hash = "5d0fb4495b96030f17d4aef47d1329728b9b117dcfae7e9c075b878250428b2e"
+hash = "1210b4f2a085310dd79ed38a29254a56352e83907614d71f7dc5d4f511084cc4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/undead_crypt.json"
@@ -1767,7 +1767,7 @@ hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "f4499db66f331e39c2103296491271f1bc3be766e8f7818933450a9e5aa1b7ca"
+hash = "04abcad4921cfefa07a0e437615f688d6fac7b6d7b9ec1084cc8be2e3f573c4e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/black_langast.json"
