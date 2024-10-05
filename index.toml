@@ -1738,24 +1738,20 @@ file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_typ
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/add_amethyst.json"
-hash = "5842533d305a291c82b4a6bb089a7f86340b0ecdcf0df6d4e17a499646e4cd1b"
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
+hash = "52d63b62e3f953d1211bd7cb848899dbfc5be825bfcc771b0409afb1655e9b35"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/limit_amethyst.json"
-hash = "9da19637127a4d74b2df887bcb1626f40361dc36e19e0a6f3f7a9bf76744baaa"
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_lava_springs.json"
+hash = "b076fb278c4647fafb344185dad9508c837c46282ddc2e063b3c98131ad91cc7"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_desert_lava.json"
-hash = "037276d6da302ed54e2af75a7c093815b4f953287e310799dc70fca0c39dda30"
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_surface_lava.json"
+hash = "f89ebe5ae02265f4b63519580dae18535c46d2e9e483c131397a5343b8630830"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_lava_springs.json"
-hash = "c1fe411d410d86f125506ec1cb50096079ab28cba58bb20a5b6ff059d49cb54b"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/biome_modifiers/no_surface_lava.json"
-hash = "441fba9eb61ae7ab2c16314694f58465e6da54cfc089b6536ed0adc1623d2ead"
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
+hash = "b12632ef7ae5da80e9d3df87328ba9b80ecd32e97a75d275198e71127552d321"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
@@ -4288,11 +4284,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "a72b26fcfed0cb56237b4305793ce540a0d0c050cd6481a5d3c4da56e36433a5"
-metafile = true
-
-[[files]]
-file = "mods/biome-modifier-for-fabric.pw.toml"
-hash = "8634505b160a2b69fc4aa0b0fe710aa6158f14cade9b184f6cc7dc9ce77c924a"
 metafile = true
 
 [[files]]
