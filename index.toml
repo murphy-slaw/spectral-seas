@@ -4792,6 +4792,11 @@ hash = "911d820fa87bedf329376afe66e86334531e1852b596bfef7cb18b110f791a0c"
 metafile = true
 
 [[files]]
+file = "mods/morewaterlogging.pw.toml"
+hash = "c1d4b322a690eb232401428a763bd99c84922c76d2b34c2abd05254a35eac65e"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
 metafile = true
@@ -5033,6 +5038,11 @@ metafile = true
 [[files]]
 file = "mods/starter-items.pw.toml"
 hash = "c6e87a31ec11b0c2c7123bc1b88671a0194966aa1f2d51029de095396b7dd76a"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "9c15b2c0946e7b207d26d99f1713814b36750ad0f368e1f80b17a38966f428b4"
 metafile = true
 
 [[files]]
