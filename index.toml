@@ -5035,6 +5035,11 @@ hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
 
 [[files]]
+file = "mods/squid-no-glitch.pw.toml"
+hash = "4b126846127dc6aad432e3d6d64faa9253d773b2491098d3abd6e858e9ef2e69"
+metafile = true
+
+[[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
 hash = "4a7b4435482ea485838a1956b36ead1757dd88f2e38e384c4281ae2b82594eca"
 metafile = true
