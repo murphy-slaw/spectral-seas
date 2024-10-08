@@ -4781,11 +4781,6 @@ hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
 metafile = true
 
 [[files]]
-file = "mods/moon-info.pw.toml"
-hash = "aeebcf2c907eb65ebf3cdd4585e7621f24ac5da8d6112cfbca8962000712d891"
-metafile = true
-
-[[files]]
 file = "mods/moonlit-monoliths.pw.toml"
 hash = "9d99361fe557d1a039c3d64a4b44f19a2289402fe374d11bb0d6a91722f81ba6"
 metafile = true
