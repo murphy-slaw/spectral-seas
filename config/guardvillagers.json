@@ -18,7 +18,7 @@
   "giveGuardStuffHotv": false,
   "setGuardPatrolHotv": false,
   "chanceToDropEquipment": 100.0,
-  "useSteveModel": true,
+  "useSteveModel": false,
   "raidAnimals": false,
   "witchesVillager": true,
   "blackSmithHealing": true,

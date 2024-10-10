@@ -258,7 +258,7 @@ hash = "ecb1684d0295cd780045353608ac43aab8eaf82003985ed92709b804736de23b"
 
 [[files]]
 file = "config/guardvillagers.json"
-hash = "3072160a5258b2bca422253c4dbd32450526b27f84b100f955d130f3eb92c524"
+hash = "996793fb138143fe17486e45fd91c398614834474722b62645c4896d748a7c79"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -4436,11 +4436,6 @@ hash = "bd6bb1295c24783c0da7ae8ffc9406b895e15b3e87f045a608bd7e733c8c7f51"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "f9657a30d3e6e351f505fc4661373eb6028a4c1679b37f57430ea89a4a88fb9c"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
@@ -4671,11 +4666,6 @@ hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
 metafile = true
 
 [[files]]
-file = "mods/items-displayed.pw.toml"
-hash = "e898e2669c6c1dfa22a2e2021780498415bce4d1a427ac43f5dadac3497f8dda"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0cd8548a5328e38da7b2f4bf7eebc1552b085fff42012202f8bb75aa32ef8531"
 metafile = true
@@ -4898,11 +4888,6 @@ metafile = true
 [[files]]
 file = "mods/pesky_seagulls-1.2.0.jar"
 hash = "fdfa9f580bc7941d91b9c7e37513840cdc6a0322f02e99899f442b6a2756f507"
-
-[[files]]
-file = "mods/placeables.pw.toml"
-hash = "23e1b980e69e197aba95c5385aebdf438cad3a76872b79e7e6873b1075d1965d"
-metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
