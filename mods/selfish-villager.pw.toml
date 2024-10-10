@@ -1,13 +1,13 @@
 name = "Selfish Villager"
-filename = "SelfishVillager-0.3.1+sha.3820b04.jar"
+filename = "SelfishVillager-0.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AAjZBPJv/versions/xE3lnmV2/SelfishVillager-0.3.1%2Bsha.3820b04.jar"
-hash-format = "sha1"
-hash = "b9fa1733ea763849250c9a1491af72dfc5e1b3a6"
+url = "https://cdn.modrinth.com/data/AAjZBPJv/versions/h2IdAMKC/SelfishVillager-0.5.1.jar"
+hash-format = "sha512"
+hash = "9a91a8dd701925aac70b6dbd3c0a0b1e055a8a550123734baed822764e2876c6b51a40d7eac035fc22fbdafec8c3c04cc769626b3aec3f571a5569d19269a808"
 
 [update]
 [update.modrinth]
 mod-id = "AAjZBPJv"
-version = "xE3lnmV2"
+version = "h2IdAMKC"
