@@ -4181,6 +4181,16 @@ hash = "4ef8c3ad27ae54eda54692c9063c82f86cd58d9df326a874144b4450730f9cfe"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "886832ee8ee9622623a9d36351f3f955a923d3e67a0b097532d1c8b8fc7848b1"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "76e9141a89148bb8d65fadc66c71bef228f0a6250d2730f5a38ef32588730373"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9fce8cc9c01f0c8ea3c840bd9d2f214f31dc30d3b420ad287adaeb561a3ea8db"
 metafile = true
@@ -4626,6 +4636,11 @@ hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "d64fa2bc13e55f4dabaaed7cadc956e856d3cadd113e83cae75b1a70e3893aba"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
@@ -4980,6 +4995,11 @@ hash = "1a5edcf6b07c140e8e3a036ded796d41bcc7e5c42749a2c113a8307462f2a5d2"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "cd17a4a8fffb61fa89859e00d03db7f8e3e2df2bfa6ecf8f434537e99c8c85af"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "54dc64bf9572591ece995cf2bfde5511e2b510242c8977d69a14fd7f12cd4f14"
 metafile = true
@@ -5090,8 +5110,8 @@ hash = "de3dc63420cb6025e7c706710560a1292da94a72a3ab37d40ffe6471ce9c49bd"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "440d296d0164e808975ba8827b75c372a1ce5993d90f6bea68ed4364a070e6d9"
+file = "mods/txnilib.pw.toml"
+hash = "df6a7c2256a549b7232b09d089f5acf600b843eb03ffe13453b996c4e0fd34c0"
 metafile = true
 
 [[files]]
