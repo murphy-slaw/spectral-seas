@@ -4637,7 +4637,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-lanterns.pw.toml"
-hash = "d64fa2bc13e55f4dabaaed7cadc956e856d3cadd113e83cae75b1a70e3893aba"
+hash = "bd292a20af22524a03585dc7cd42c09709e65999818eb7a97ce057c12e278f2d"
 metafile = true
 
 [[files]]
@@ -4678,6 +4678,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
+metafile = true
+
+[[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "c127de3685fe56702a97c89a8b5b5ae34a87edf8836af4ede0dabb7e9fc1a6d4"
 metafile = true
 
 [[files]]
@@ -4971,7 +4976,7 @@ metafile = true
 
 [[files]]
 file = "mods/selfish-villager.pw.toml"
-hash = "076fcc364ccef5014221ec5ad5ea7e4d99275a05413718535a0abae5388cb147"
+hash = "ea84e6242bcff0342d7cbf8077afc1656b622f907a0e95ad2aa1cb9b2e9fb736"
 metafile = true
 
 [[files]]
