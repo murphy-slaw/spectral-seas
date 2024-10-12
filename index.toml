@@ -94,7 +94,7 @@ hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "a37e32f793d911edc17e1228d44efbc3868bad9bbdb2511298fea5b40ba57862"
+hash = "94cb6f3c2372544e05e672faf98fe8fca6f0cf1f373bb16e87d862f73dedcf17"
 
 [[files]]
 file = "config/cutthrough-client.toml"

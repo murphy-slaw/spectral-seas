@@ -22,10 +22,10 @@ filterRecipes = true
 removeAdvancementsKeybind = false
 # Whether to remove the advancements button from the pause menu, extending the stats button to fill space
 # default: false
-removeAdvancementsButton = true
+removeAdvancementsButton = false
 # Whether to hide the toast that appears when an advancement is completed
 # default: true
-removeAdvancementToasts = true
+removeAdvancementToasts = false
 # Whether to hide the toast that appears when you unlock a recipe
 # default: true
 removeRecipeToasts = true
