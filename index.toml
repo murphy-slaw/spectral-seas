@@ -1961,7 +1961,7 @@ hash = "0de0280141a33cf2dd93be5905e8f7a8daf6588c13ba82f1d45ce0a0c3848ae2"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
-hash = "5118eae3986699aff632bbcb85f2777fac73adc1fcd94137b2db4cb14c76f16e"
+hash = "9e70d5fc7dfbda8a300aac4d8fd10e8b3c27f97883c2d152d2514a1ae4d51e50"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/explorify/README.md"
@@ -3404,6 +3404,342 @@ file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/str
 hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
 
 [[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_animal_pen1.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_animal_pen2.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_animal_pen3.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_big_house1.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_big_house2.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_blast_furnace.json"
+hash = "8a818a2fc66e46e1eb0126b2a8a2d95e853ca3cff8adb2061da226aa7f3d1a35"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_cartography.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_cauldron.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_center1.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_center2.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_center3.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_cleric.json"
+hash = "61b203edbffdc30c16f3be9e3e1e538c2b5ed7f9447241e2e0feb3b17729ef11"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_cleric2.json"
+hash = "61b203edbffdc30c16f3be9e3e1e538c2b5ed7f9447241e2e0feb3b17729ef11"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_farm1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_farm2.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_farm3.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_fletching.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house1.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house2.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house3.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house4.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house5.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house6.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_house7.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_library.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_loom.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path1.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path2.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path3.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path4.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path6.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path7.json"
+hash = "dabdc87d4a5035b5969034cddd2955522513149d94645d773f2840b44f7431f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path8.json"
+hash = "dabdc87d4a5035b5969034cddd2955522513149d94645d773f2840b44f7431f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_path9.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_smithing.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_smoker.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_jungle/jungle_village_stonecutter.json"
+hash = "014793d042e421c0dd4c16759b48585b424015991b78bc8c50cf9781ec004297"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_animal_pen1.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_animal_pen2.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_animal_pen3.json"
+hash = "8870e8edfe935abee08659b9a239ce6a2cfd53470b3e59824736644042926b12"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_blast_furnace.json"
+hash = "8a818a2fc66e46e1eb0126b2a8a2d95e853ca3cff8adb2061da226aa7f3d1a35"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_cartography.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_cauldron.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_center1.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_center2.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_center3.json"
+hash = "d9406244d9b4f2eef529bd5a74f6fee7ab406e0bddc70b938332e2a26e589ee3"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_cleric.json"
+hash = "61b203edbffdc30c16f3be9e3e1e538c2b5ed7f9447241e2e0feb3b17729ef11"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_cleric2.json"
+hash = "61b203edbffdc30c16f3be9e3e1e538c2b5ed7f9447241e2e0feb3b17729ef11"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_farm1.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_farm2.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_farm3.json"
+hash = "61dd5a81f9cae345abd4bcc09451b335c1c511bfeba3fd43805747734c1d3457"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house1.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house2.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house3.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house4.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house5.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house6.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_house7.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_library.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_loom.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path1.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path2.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path3.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path4.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path6.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path7.json"
+hash = "dabdc87d4a5035b5969034cddd2955522513149d94645d773f2840b44f7431f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path8.json"
+hash = "dabdc87d4a5035b5969034cddd2955522513149d94645d773f2840b44f7431f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_path9.json"
+hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_smithing.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_smoker.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/minecraft/atlas/structure/piece/jigsaw/single/village_swamp/swamp_village_stonecutter.json"
+hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_acacia.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_birch.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_cherry.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_dark_oak.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_desert.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_jungle.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_mangrove.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_oak.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_snowy.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_spruce.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/tavern_swamp.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/village_jungle.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/village_swamp.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/totw_reworked/atlas/structure/start/derelict.json"
 hash = "0a0b59413d95f0f39014c0b722a2294ebbd9d62a415166722bc85feda9ce1f67"
 
@@ -4536,6 +4872,11 @@ hash = "1507fb79103fb88c1e55f3d7f9e353ab2725dafa307498637b26e687cdd7dae5"
 metafile = true
 
 [[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "881eb79d04ea70ef9d2fbeed4893f2652b2452e88791cf72896c2c324552fb62"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
@@ -4788,6 +5129,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "9941ec11ec88cfce6236d3580284423c5ff389e9b29a36001edd00642fdd72ef"
 metafile = true
 
 [[files]]
@@ -5075,6 +5421,11 @@ hash = "dfcc3670bff556635fdfa355c050659537a63a36d884b49a6ec591c8369759b3"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8c8ff7793de210cbe8f481341cd4c9c97d5b26117bd8ad368c8e5cfb80c1f082"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a1f1ff35960459c3c691da74f43b7c4075a749b19f1b49b3cbd6861b05e7995e"
 metafile = true
@@ -5182,6 +5533,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "dd3376e83becdd8d73a89f243e444d5f5ae8c0c25b995db203cbd4641b731f6b"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
 metafile = true
 
 [[files]]
