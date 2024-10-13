@@ -4167,6 +4167,10 @@ file = "config/zenith/zenith.cfg"
 hash = "fe40fb5794bc5abdfd39661cec7308a6af813499289ec16f506503838830f4f3"
 
 [[files]]
+file = "config/zenith_attributes.cfg"
+hash = "7ab3336daeb6e68c750b02be75bda7df56c0cc41bddb2bddb24ed80787a1d46c"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -4521,16 +4525,6 @@ hash = "73e14aa74dd34c1e9b34358bc10f69e4fb83313c25ed8e33cd8bf515b3272369"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3e0da0ed801d388ccfecb7196ffc8efee52a7b4ee635b023cb1d74c534a70ab6"
-metafile = true
-
-[[files]]
-file = "mods/abridged.pw.toml"
-hash = "5ed8c9d2c8f6771064adc7dc24953893ad09f3e2d6a5ec1ed782fc8aa6eeb469"
-metafile = true
-
-[[files]]
-file = "mods/abseil.pw.toml"
-hash = "4ef8c3ad27ae54eda54692c9063c82f86cd58d9df326a874144b4450730f9cfe"
 metafile = true
 
 [[files]]
@@ -5074,11 +5068,6 @@ hash = "0beee848e78e4922ec5f2486e08a2d440eb10d94bd7269a8ff0bfa69ecc70121"
 metafile = true
 
 [[files]]
-file = "mods/lavender.pw.toml"
-hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "bc0c8e7147a566b769e2a728071e49cff2140aa1816d92d27c9d834e10628196"
 metafile = true
@@ -5418,11 +5407,6 @@ hash = "4a7b4435482ea485838a1956b36ead1757dd88f2e38e384c4281ae2b82594eca"
 metafile = true
 
 [[files]]
-file = "mods/starter-items.pw.toml"
-hash = "c6e87a31ec11b0c2c7123bc1b88671a0194966aa1f2d51029de095396b7dd76a"
-metafile = true
-
-[[files]]
 file = "mods/statement.pw.toml"
 hash = "9c15b2c0946e7b207d26d99f1713814b36750ad0f368e1f80b17a38966f428b4"
 metafile = true
@@ -5475,11 +5459,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "c76ae1207fd5e5dda9ff3a5c92d6f2b6fdb3bbc6d339828361e8fab082960468"
-metafile = true
-
-[[files]]
-file = "mods/trajectoryguard.pw.toml"
-hash = "dfa2170ef50f16347188880194e5ab7d47e7827fe2943a60c6ab4a5d688c9aa6"
 metafile = true
 
 [[files]]
