@@ -4871,7 +4871,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -4947,6 +4947,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "266e83cfeee5ec8d185798a3322301253c797f5ac949504b294f2a75a5b245d9"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "537ef9e8f81a99655886ffc5102fe92a7381a951b389074ca71fe9ebd8fed24e"
 metafile = true
 
 [[files]]
