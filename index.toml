@@ -3919,6 +3919,10 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/vc_gliders/lang/en_us.json"
+hash = "cca073434ccdb93e97a34f68aca5ba97520697f193fa0be8e617648fb2c79ea0"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/pack.mcmeta"
 hash = "3308afc65affe708e1cb7dc8653e0af4984ca00e130b17025860984c6d80faeb"
 
@@ -4480,7 +4484,7 @@ hash = "cf55c29009c5537e97940a2726f5429425cb766df47039579899ecc5f39ac58e"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "8f7bbd2740d366fd6999f650a29e22b6d99bfc71acfe4e58a639ce4b081c252a"
+hash = "05c5fc81aa6d47203495f4dc71889ac6f013f3382e0381dd394905a87fae7fc1"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
@@ -4962,11 +4966,6 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
-metafile = true
-
-[[files]]
-file = "mods/hang-glider.pw.toml"
-hash = "3eeac129b63a1f4025085b9f9744f721c443a61558d9281f0d9049da3b7252da"
 metafile = true
 
 [[files]]
@@ -5571,11 +5570,6 @@ metafile = true
 [[files]]
 file = "options.amecsapi.txt"
 hash = "5245f3193034e880ea59150fc951aee9b81a011a068ccecc34f545b17439d011"
-
-[[files]]
-file = "resourcepacks/rounder-shields.pw.toml"
-hash = "eb0124c2b3afdee199672e06ad79003c3f8ea9266f12943ef73fd59384ad089d"
-metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"

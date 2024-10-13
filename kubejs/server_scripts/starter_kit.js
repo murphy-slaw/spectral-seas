@@ -27,7 +27,16 @@ PlayerEvents.loggedIn(e => {
         givePlayerBundle(player,[
             Item.of("minecraft:apple",3),
             Item.of("minecraft:bread",3),
-            Item.of("minecraft:torch",4)
+            Item.of("minecraft:torch",4),
+            Item.of("eccentrictome:tome",1,
+                '{"eccentrictome:mods":{\
+                zenith: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "zenith:chronicle"}}},\
+                botania: {0: {id: "botania:lexicon", Count: 1}},\
+                simplyswords: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "simplyswords:runic_grimoire"}}},\
+                spectrum: {0: {id: "spectrum:guidebook", Count: 1b}}\
+                },\
+                "eccentrictome:version": 1}'
+            )
         ])
         givePlayerParrot(player)
     }
