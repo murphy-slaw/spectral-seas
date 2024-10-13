@@ -313,6 +313,14 @@ file = "config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
+file = "config/mermod-client.toml"
+hash = "4f88cdd32eafe986c7b50d8ad4e32cc03875c2eed0d32bfb64f213ce6f0ed20b"
+
+[[files]]
+file = "config/mermod-server.toml"
+hash = "024d0e73e1e2c9575aa3b62f3c38b1f251a0f975bca6b5ad499c6f798fa0c1a0"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
@@ -3863,6 +3871,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/musket-textures-by-quartofel.pw.toml"
 hash = "21ae5caa1e54b43bf750d322ee1a54acb0d226233402c2a39cb4eb098617676d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/rounder-shields.pw.toml"
+hash = "eb0124c2b3afdee199672e06ad79003c3f8ea9266f12943ef73fd59384ad089d"
 metafile = true
 
 [[files]]
