@@ -5102,6 +5102,11 @@ hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
+file = "mods/mermod.pw.toml"
+hash = "ab35b9a0a8fc85070e93503cf93e393af424eebda3f892cc383ebb9ce188107a"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8bdb1b25b7e13c29aca2091c379e1d466239e02c698894095db500a9648b0421"
 metafile = true
