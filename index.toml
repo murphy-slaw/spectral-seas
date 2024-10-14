@@ -4164,7 +4164,7 @@ hash = "aab9e16cd91b3e90652c89dd042f7dbfadc59fd6dabaa65f6a5f556d299e0f7c"
 
 [[files]]
 file = "config/zenith/zenith.cfg"
-hash = "fe40fb5794bc5abdfd39661cec7308a6af813499289ec16f506503838830f4f3"
+hash = "6b1d4b0efb561f5b445966d1538eb89f8c05e43f677769fa57e47a846efde93c"
 
 [[files]]
 file = "config/zenith_attributes.cfg"
