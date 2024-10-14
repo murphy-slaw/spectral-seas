@@ -1,0 +1,10 @@
+{
+	// Interval between boat destruction checks (ticks)
+	"interval": 100,
+	// Chance that a boat will break each check
+	"breakChance": 100,
+	// Minimum water depth to sink boats.
+	"minDepth": 5,
+	// What happens to wrecked boats?
+	"fate": "DESTROY"
+}
