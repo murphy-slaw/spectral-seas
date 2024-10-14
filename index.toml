@@ -5392,6 +5392,11 @@ hash = "8832f832393964188c49a34bc0a32933070fc64591773452231f6ecaf11d055b"
 metafile = true
 
 [[files]]
+file = "mods/spellbound.pw.toml"
+hash = "643e0016dc7b157cb0ea94dbfd5cc68910e9376d813cdf04ccbb43719dab7d2e"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
