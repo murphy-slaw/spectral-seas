@@ -3980,6 +3980,11 @@ file = "config/paxi/resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
+file = "config/paxi/resourcepacks/bibliophilia.pw.toml"
+hash = "208e23e9e73313fa3f240f6faa58005de28d964fe98d1db85bd2703d00aa158e"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/ctm-overhaul.pw.toml"
 hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
 metafile = true
@@ -3988,6 +3993,10 @@ metafile = true
 file = "config/paxi/resourcepacks/musket-textures-by-quartofel.pw.toml"
 hash = "21ae5caa1e54b43bf750d322ee1a54acb0d226233402c2a39cb4eb098617676d"
 metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/round-shield.zip"
+hash = "1bc8649b5cc1be76b4536d238a841966daefe205029ed85c62cb0074fc36509b"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/bone_desert.json"

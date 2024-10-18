@@ -1,0 +1,13 @@
+name = "Bibliophilia | Enchanted Books"
+filename = "Bibliophilia 1.12 (1.20.1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/JWu45jSE/Bibliophilia%201.12%20%281.20.1%29.zip"
+hash-format = "sha512"
+hash = "b8bd51ec7e4986069c03bd7f6f755517cbc6dc4a1cd9ff8a7034e19f37ad578229b5d6fd09a37adcd582aa689e3407a9fc3d63ddb50e7e8158d274bbaac67152"
+
+[update]
+[update.modrinth]
+mod-id = "50Rh3CqF"
+version = "JWu45jSE"
