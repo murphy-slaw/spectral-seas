@@ -1890,6 +1890,14 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/bio
 hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
+hash = "a631eab5afce09c01c1c4885770a55eb3f84cd1f2914c91b003bb3f3dfbe9c10"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/all_structures.json"
+hash = "d884d86a31e33a310fb4b8c54d50fafbabe86fec37b09a4a791b912c630681e0"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
 hash = "04abcad4921cfefa07a0e437615f688d6fac7b6d7b9ec1084cc8be2e3f573c4e"
 
@@ -1926,12 +1934,20 @@ file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/razor_e
 hash = "d2554893f5bea6bf33e388bc1ed579984768dadd292d0b10bdd6fa3e1bbb23dc"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/adventure_map.json"
+hash = "57aab90187f427fe8e114ed4eb66fa05de73cc2f935e038a5053d2836d1b4de6"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "fdd27fe3f6906980af56ea5c77eb29b6dcfc07cca8c7c050575ae445ba01837c"
+hash = "5d1bb3733daff03e5713809b0529718ff5ab54a0d12af11ff978ce6a2cf81952"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "dab6f42221d771e689d2de5b5436e6f86dda75171ab579bd7db3333d1a46bae5"
+hash = "a188662b68859ce7de4adfd0b732b112ce4e86b5e09114f539e1bcc4ca3ed6e0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_map.json"
+hash = "3e6382018223dcebafab7abea07000edeb9e3cacc287fa744b353e47829e3cbd"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
@@ -2023,7 +2039,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "e6d368e365200064caf14ff5d7f77d237ba498f12772094d609a14c921377877"
+hash = "68630c108f3ef8f006f118b372e00a3299c94eceb02aa9d5346bc3e66c2d1c38"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
