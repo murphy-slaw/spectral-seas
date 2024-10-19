@@ -478,7 +478,7 @@ hash = "188519696345184381ff74a38ff470653b1e74cd2f0dbe87e94acbd648079f64"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "f623692c97fe466f120d9b356529d955d8e217ee0e0fea3e90d622e227ad3a67"
+hash = "e3cf02d06297db0a464c7191a9073bf49ed9bfc151ad4b469dd694f1413e9ccb"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
