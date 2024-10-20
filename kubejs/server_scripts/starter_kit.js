@@ -17,7 +17,7 @@ function givePlayerParrot(player) {
 function givePlayerBundle(player, contents){
     const bundle = Item.of('minecraft:bundle')
     bundle.setNbt({ "Items": contents })
-    player.setItemSlot("offhand",bundle)
+    player.give(bundle)
 }
 
 PlayerEvents.loggedIn(e => {
@@ -27,7 +27,10 @@ PlayerEvents.loggedIn(e => {
         givePlayerBundle(player,[
             Item.of("minecraft:apple",3),
             Item.of("minecraft:bread",3),
-            Item.of("minecraft:torch",4),
+            Item.of("minecraft:torch",4)
+        ])
+        givePlayerParrot(player)
+        player.give(
             Item.of("eccentrictome:tome",1,
                 '{"eccentrictome:mods":{\
                 zenith: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "zenith:chronicle"}}},\
@@ -37,7 +40,6 @@ PlayerEvents.loggedIn(e => {
                 },\
                 "eccentrictome:version": 1}'
             )
-        ])
-        givePlayerParrot(player)
+        )
     }
 })

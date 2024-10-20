@@ -719,7 +719,7 @@ hash = "72d0b3e21d2bea992468385ad05fea82973d3557605b7a2d9050acd7459e086f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/buried_treasure.json"
-hash = "7130d897c49ccc41877b2b6a21a2ecd037c0dcad5be0a8cc47fde6aaf4380edc"
+hash = "7ee0ffeb8f27de9b8b7d5ad792ed053e28a0d9fd07c5db83b830530e30f0afe8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/shipwreck_supply.json"
@@ -735,7 +735,7 @@ hash = "7b519582446e654e901d6d96c6186a15a1d8d73b28b07e46162f6c0e7da40630"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
-hash = "82a5b0acd795834874671544090268ab78c4488874af32b3aac571f6ea1814e6"
+hash = "811d2f43d6fc278e5706b569c19154c3ca8c046c4a34df9a0623acd368333a45"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
@@ -1247,7 +1247,7 @@ hash = "49d15e7e1cff91fb504e5582deebf199ec8c6800448eaf6c82e59db5c44a07e2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/rare.json"
-hash = "c624ea5c5172ba87eee2a5f5b15ae9d5ed8f28b1948d975c87dfb3b108e41c52"
+hash = "74eceb0a9e88fc2546b75528cb1232513607867d0026a47d0dde1d5323208aa6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/swamps.json"
@@ -1427,7 +1427,7 @@ hash = "c5abad5b1f1348d7ecf56531d5e9a25f90cbee51fe0ff4f7b2e3b88b0bbcdab1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/creeping_crypt/crypt_grave.json"
-hash = "0f30570ffe4b8aca66db93135b90c5bb50a84bdbbb179ab07836109a9ec639a2"
+hash = "ee081626973cee2dc913a09416774a7970c91922ed58eddece146491649d592b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/creeping_crypt/crypt_hallway.json"
@@ -1547,7 +1547,7 @@ hash = "7f25daf202510aea8d41a5b190c344818a35a2bb4328a8464d8673aa7a00ff60"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/illager_hideout_weaponry.json"
-hash = "9479b23633ca901c20f93623ec9e58620ee450e8ce98cb9481b128eef293c8ef"
+hash = "6f9f99c1a1be5a09367092b0e1e44bcda59ba9658249574017b2e40d5ba718fd"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/jungle_ruins/jungle_ruins_main_temple.json"
@@ -1671,7 +1671,7 @@ hash = "2ee36cc4989017d1dec599a081c1099e4326a4bff772a38e374434a52d0db9ab"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/undead_crypts_grave.json"
-hash = "12735f84af9d771570d8fbe97f9bf10226a00cdde5358967292d3309701e65e5"
+hash = "e6e7c6d9a580c9d821e9ce520fab7df8c22be08fba3e0b707d064cd7a4d22731"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/water_supply.json"
@@ -1878,6 +1878,14 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/wor
 hash = "b12632ef7ae5da80e9d3df87328ba9b80ecd32e97a75d275198e71127552d321"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/diamond_weapon.json"
+hash = "d06d19247c3d7b53fee83ee9c9b3f9f93a0a034a7e73b98d84e08fb069e88946"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/iron_weapon.json"
+hash = "bccb2c4b2b7da22d04fc002b33afab49f53e0abf99c414ce2dd9ae0cce140e45"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/preservation_map.json"
 hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 
@@ -1898,8 +1906,40 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/str
 hash = "d884d86a31e33a310fb4b8c54d50fafbabe86fec37b09a4a791b912c630681e0"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/desert.json"
+hash = "76939aa700286c249b028dcee1ee98f609849ed33a87bb6c4adbbbc268fce25e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/ice.json"
+hash = "c036075026d6995ac2f7c6165c6405ea9fa59fa824343a3e5019e69a0d003823"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/illager.json"
+hash = "4fdc5487d48e4bd6d15f044aa91241276866d13847d7182ab33738835ea4935b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/jungle.json"
+hash = "7be11d6651574d26759bcf0ab068f2131734ca4dc3b1c112ed6e1cd9659b5bd1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/ocean.json"
+hash = "86d91ff9a132fcadd77da88bb0594ff7def2fad2db5992f17f47df47f9bd5752"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/portals.json"
+hash = "15ade3b776b18e109bfa7d2d356b29cb23289347df2efb7cd03c87ac024e86f3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/ruins.json"
+hash = "66ba65119114f77edf05d59751148d1ef26599a9a0fc4e04f6d2a99afef4a71c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/undead.json"
+hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "04abcad4921cfefa07a0e437615f688d6fac7b6d7b9ec1084cc8be2e3f573c4e"
+hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/black_langast.json"
@@ -1935,7 +1975,7 @@ hash = "d2554893f5bea6bf33e388bc1ed579984768dadd292d0b10bdd6fa3e1bbb23dc"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/adventure_map.json"
-hash = "57aab90187f427fe8e114ed4eb66fa05de73cc2f935e038a5053d2836d1b4de6"
+hash = "a35bea7e5fd29cd14a3c63bc0f8a72a9b0f7d697dcb5d15da42e95581c6015db"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
@@ -4665,7 +4705,7 @@ hash = "cf55c29009c5537e97940a2726f5429425cb766df47039579899ecc5f39ac58e"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "05c5fc81aa6d47203495f4dc71889ac6f013f3382e0381dd394905a87fae7fc1"
+hash = "4c2a9d8c90b2533f9c1480022096b492c44e6eaebd684906db2ff688370f9a69"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
