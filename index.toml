@@ -5275,6 +5275,11 @@ hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "c0b2c1fc1e7f76d01a4db6ea10cbf76b63533e0d7fcabf702e1e09f0a026aa68"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
