@@ -1,6 +1,7 @@
 name = "Towers of the Wild: Reworked"
 filename = "Towers_Of_The_Wild_Reworked_v4.2.2.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/iqOgCgNa/versions/1FubeLMA/Towers_Of_The_Wild_Reworked_v4.2.2.zip"
