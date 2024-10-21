@@ -1895,7 +1895,7 @@ hash = "7e4be20290fe21687227521412f587f83994f5a4276d1df561ac35a45043c709"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
-hash = "acac767534056f9ccd2db4816aa19a6713339279e77ecdd3d64b1b5c26a8e6e5"
+hash = "65a7abd6593cdb84a24badf3ae265c4352131bcb465a02ff9d5cd2ef51301718"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
