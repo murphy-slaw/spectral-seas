@@ -4253,7 +4253,7 @@ hash = "048f72a6582fd332725c53dfac173c2634bdc582273bacb5d5e980704ebd3c09"
 
 [[files]]
 file = "config/staminafortweakers.json5"
-hash = "96c6a197821a8dd80f4970b2fed8a74886fbfbc69e196d5d6eb2bf9cf4e2fe95"
+hash = "31cb6c01241454faa0631f357975a2b0c0b410a7827546f5a5c6caf1c34a4eaa"
 
 [[files]]
 file = "config/status-effect-bars.json"

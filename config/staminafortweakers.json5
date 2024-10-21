@@ -18,7 +18,7 @@
 	// Stamina points depleted per block broken
 	"depletionPerBlockBroken": 4.0,
 	// Exhaustion slows mining
-	"exhaustionSlowsMining": false,
+	"exhaustionSlowsMining": true,
 	// Can jump while exhausted
 	"canJumpWhileExhausted": true,
 	// Exhaustion causes Darkness
