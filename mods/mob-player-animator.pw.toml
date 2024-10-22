@@ -1,0 +1,13 @@
+name = "Mob Player Animator"
+filename = "mobplayeranimator-fabric-1.20.1-1.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zkK9lPaS/versions/ygQVsvEd/mobplayeranimator-fabric-1.20.1-1.3.2.jar"
+hash-format = "sha512"
+hash = "138115531f5308dcf1e24fde0f4a14ff5718bdaf51f858df56652925650d3ed3b24099b1128eb26e22086106ea1c5d90b8bfd67be0cc6d2ff52856fb4eebece9"
+
+[update]
+[update.modrinth]
+mod-id = "zkK9lPaS"
+version = "ygQVsvEd"

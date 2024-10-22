@@ -1,0 +1,13 @@
+name = "Better Mob Combat"
+filename = "bettermobcombat-fabric-1.20.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KU8N7kPc/versions/FOvv47Jg/bettermobcombat-fabric-1.20.1-1.2.4.jar"
+hash-format = "sha512"
+hash = "be5d49382700b65bf108534c19b468a84c7274e504d4a93642d79296f50b4f0c51f57bd15ebef73952e1c8230f8657fd46acd6deab5d34279a692f8f1d76a25c"
+
+[update]
+[update.modrinth]
+mod-id = "KU8N7kPc"
+version = "FOvv47Jg"
