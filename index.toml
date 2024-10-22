@@ -1903,7 +1903,7 @@ hash = "a631eab5afce09c01c1c4885770a55eb3f84cd1f2914c91b003bb3f3dfbe9c10"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/all_structures.json"
-hash = "d884d86a31e33a310fb4b8c54d50fafbabe86fec37b09a4a791b912c630681e0"
+hash = "566d0271efedb9a83cc76067a53973ea5c51d63567c498aacc9bfd4efde63af3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/desert.json"
@@ -4381,7 +4381,7 @@ hash = "aab9e16cd91b3e90652c89dd042f7dbfadc59fd6dabaa65f6a5f556d299e0f7c"
 
 [[files]]
 file = "config/zenith/zenith.cfg"
-hash = "6b1d4b0efb561f5b445966d1538eb89f8c05e43f677769fa57e47a846efde93c"
+hash = "4ca50dfce1b3a211127fd52b7cebcc63734a38494ad404479f7b30f53d51c8bc"
 
 [[files]]
 file = "config/zenith_attributes.cfg"
@@ -4757,11 +4757,6 @@ metafile = true
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9fce8cc9c01f0c8ea3c840bd9d2f214f31dc30d3b420ad287adaeb561a3ea8db"
-metafile = true
-
-[[files]]
-file = "mods/adventurez.pw.toml"
-hash = "1ff9974ec2f43d1ca32c90cae5fb0159a7b8116c1a8c58a0d8a235e27110c1e6"
 metafile = true
 
 [[files]]
@@ -5756,11 +5751,6 @@ metafile = true
 [[files]]
 file = "mods/zenith-attributes.pw.toml"
 hash = "dd3376e83becdd8d73a89f243e444d5f5ae8c0c25b995db203cbd4641b731f6b"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
 metafile = true
 
 [[files]]
