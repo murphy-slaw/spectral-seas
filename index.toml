@@ -4052,6 +4052,11 @@ hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/pirate.pw.toml"
+hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/round-shield.zip"
 hash = "1bc8649b5cc1be76b4536d238a841966daefe205029ed85c62cb0074fc36509b"
 

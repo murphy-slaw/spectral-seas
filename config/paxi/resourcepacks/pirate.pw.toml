@@ -1,0 +1,13 @@
+name = "Grimdark Pirate Pack"
+filename = "Grimdark-Pirate-v1-4-15.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjK5wU3a/versions/dxbzSfsu/Grimdark-Pirate-v1-4-15.zip"
+hash-format = "sha512"
+hash = "fa1381c0ec91c54b3f4da853de11f914cbc881a1b9b33e6ce8dd0c73d1d2464a66cd04a8cc20ca4c47c1fd0067a3d412b15f8043372ea8c30b3c7166c04c50a7"
+
+[update]
+[update.modrinth]
+mod-id = "yjK5wU3a"
+version = "dxbzSfsu"
