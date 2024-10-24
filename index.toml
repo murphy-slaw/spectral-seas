@@ -2113,8 +2113,8 @@ file = "config/paxi/resourcepacks/Musketmod(v1.4.5)- Michail01011101's alternati
 hash = "86d73d18dbd5ec72f19b7cb8ebba22effd99eee4b7ff0a3b7be2a350dc846739"
 
 [[files]]
-file = "config/paxi/resourcepacks/VanillaTweaks_r883002_MC1.20.x.zip"
-hash = "f65c68204aefbe934176061d27f6d46f77812a03a943075a6fe6f3bfa427b3f5"
+file = "config/paxi/resourcepacks/VanillaTweaks_r750926_MC1.20.x.zip"
+hash = "77a615a15f731f9938d50b4b4def84081ccb337a40c77c5d7a31a175eb84fc24"
 
 [[files]]
 file = "config/paxi/resourcepacks/alternative-musket-textures-1.20.zip"
@@ -4097,8 +4097,180 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us
 hash = "27c770b8c162360cc1cac6f96670d121e3a091542397726fffae75f8c8855579"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/bow.json"
+hash = "8da2e053119ad76568d3f7a62b8f7e3a12bbd899dbbff5cbd36af9ef22283b0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow.json"
+hash = "e56b623795d999e85a8bc070815d77a1b2064e936c7cb1519e63dcff03390850"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow_arrow.json"
+hash = "0fe5bb3deda949cd5c92b6217bd335f58b91254f1eb7dfe7c8e40f6e45e97c02"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow_firework.json"
+hash = "b90f92b3af2b3018c4444c5b9afaa1a3e83c23cbafddab2ec81faed168a859e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow_pulling_0.json"
+hash = "ec6a4f45c5347c5e71c0defe2240d704fe3577de8c87d43bcd24a4b9304f0da5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow_pulling_1.json"
+hash = "3e0f7eb36b3ba27b0f2f1fef4899b6cd31557108c6230537faeee9c7202ab58c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/crossbow_pulling_2.json"
+hash = "326d4cab9461c627d27df7a3b7ab79ea79718f4f9eff78fbc2032a99f784c95f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_end.ogg"
+hash = "586f1094848b9e368a29b700a8ecb3c4f5a44946bf1bf497250e11041a8b99bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_middle1.ogg"
+hash = "419b3804369115fc942b8cdef536c543ebb3b06ccdde4ea787c5e348538b8bfc"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_middle2.ogg"
+hash = "b6c63875244bf1962fca7b3ecebaec201c364dd61735489b4b0027630d13a4ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_middle3.ogg"
+hash = "142ed7c22c6e0783f718398bd2e86e4a6a26bf55da6736aaa42d93761eb6b109"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_middle4.ogg"
+hash = "5b96c47940b048896292c08198163827394de0b9df83a12f4539e657eda0e944"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/loading_start.ogg"
+hash = "acb51ce289083621d7b538d6366d7f976325e42dc92473b0944a42adb039a81e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick1_1.ogg"
+hash = "f7700cd27f12b252079484956785356b63561c0ed9fd8ef9536468018a47ddd5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick1_2.ogg"
+hash = "f5df4dcc6ba581e188f177ac37309ddb0abad971c63a357210e12f2bde86c851"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick1_3.ogg"
+hash = "d7df1521321783d9ad3ecb862d4e3c29f543a0ea6f230d77c2872a49b5e16c48"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick2_1.ogg"
+hash = "a80a51c2e34e04f4666b2e6768a5277eb6f89644dd58012b1955bd7a631393e1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick2_2.ogg"
+hash = "1b98deb47b5a760cd28a3be2f171eb1be11f41fec156ce6e274ff4c9b0ae1ad1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick2_3.ogg"
+hash = "b329d78b225ee85743933fe9b67fd413b0a8af806a895eb5e19083a486f3928a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick3_1.ogg"
+hash = "884330d323dd053bed7b8571e81d930e942b036e8e0b3919167736bcfe837429"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick3_2.ogg"
+hash = "361cfbb6ddb913c67a402acb769c6b67c5371b7052e7b2ab86817a23afe83cdf"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/quick_charge/quick3_3.ogg"
+hash = "96fda037cebef3435136bcee7e5698f4ce8bce091e39e31fe55d7ac813ed6157"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/shoot1.ogg"
+hash = "29efad4c3c7800f9742bb72d4895066628870da2c615572a8f7c365d303f78d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/shoot2.ogg"
+hash = "2842c8a2550d7184ecad2468d77f01c7f3f0c5e11383b601c85cad2c801414ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/item/crossbow/shoot3.ogg"
+hash = "813412c0e7618a200bbd603b3230fd1cd940a206aa37d6262bf04f16ceaa6a52"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/random/bow.ogg"
+hash = "9492b523393851444789a0befcb1c0c5f382638b9b87e56dfa4da6dcb61dd3f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/random/bowhit1.ogg"
+hash = "31e05e73edb52ff6871f60d60ce1ed8912cf1f6c85ba68a571808efba3d9890e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/random/bowhit2.ogg"
+hash = "fa7acce9893cd8ae274bf57453d782d825915e31999a21f0c38713116a100b45"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/random/bowhit3.ogg"
+hash = "5904f027d0db3f29434fc5840ab25b5115abfb11dfc858ddc339380554f24713"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/sounds/random/bowhit4.ogg"
+hash = "1f5dfd0b9a203ea49c1f90a91bd8da23839748bc7fbe00424dae703046684b59"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/bow.png"
+hash = "6f62b5a5eac576af20f1ddd79e69df37b19a036691aa26b7523753f995e3dd8d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/bow_pulling_0.png"
+hash = "84bf48b16dadceeaca93c9645acc5be1a40db8623b0ede1375644e1bd4993c36"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/bow_pulling_1.png"
+hash = "f7e5e9ef23b6c9b39e4675fc4326df92b66d45bb0a64dc4852c1fd031ff2b0b4"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/bow_pulling_2.png"
+hash = "778090baec36ae4eb2071b0eab425c18f0ded8316b23100842b7c818119d93ea"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_arrow.png"
+hash = "43bbd6b947fb70806ddcafeba44cfc26b46407d4da6f68aecd93bad57a0b7428"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_firework.png"
+hash = "b101743bd389bb004fed155440261e17bbc6f8c80a8f8e11ee81f7b1a869bae4"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_pulling_0.png"
+hash = "716662b863051be15b12663bfd5e3f8c42a5d1644391231b0dc9e4f91ebfeeaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_pulling_1.png"
+hash = "d87fbce426974543a554d415b00e7330776d67fe97f0468f72ea9a0136bed4fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_pulling_2.png"
+hash = "2caed197e426915a0e2fab8db20f258657be2b8ad62905016ce6933c513416da"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_standby.png"
+hash = "e1bddad32a6ad647b08608b982ea509f424312ee41ce2558c5abd0387b0fd337"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/projectiles/arrow.png"
+hash = "dd9205d73acaf3f610084b131f1b9aeb571c9b905cb5466fdeee9a2ba38e94ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/projectiles/spectral_arrow.png"
+hash = "fe991528350bddf92f1b146414437cbec8b550a06914c1c06b025ce0b5b9ba43"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/projectiles/tipped_arrow.png"
+hash = "dd9205d73acaf3f610084b131f1b9aeb571c9b905cb5466fdeee9a2ba38e94ed"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/vc_gliders/lang/en_us.json"
@@ -4106,7 +4278,7 @@ hash = "cca073434ccdb93e97a34f68aca5ba97520697f193fa0be8e617648fb2c79ea0"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/pack.mcmeta"
-hash = "3308afc65affe708e1cb7dc8653e0af4984ca00e130b17025860984c6d80faeb"
+hash = "54f47c2929040e9fc2bda52c3ebf9082b4eaa5c92ab1070ac0fb7a7f2d88f7ae"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectrum_public_server_pack/assets/minecraft/models/item/carved_pumpkin.json"
@@ -4927,6 +5099,11 @@ metafile = true
 [[files]]
 file = "mods/cia.pw.toml"
 hash = "e7e87bffcf5ee06ac78e1d6af8a2d060df55eb3c41f360f5b25e1f11446c6dd8"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
