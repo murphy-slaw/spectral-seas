@@ -1979,11 +1979,11 @@ hash = "a35bea7e5fd29cd14a3c63bc0f8a72a9b0f7d697dcb5d15da42e95581c6015db"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "5d1bb3733daff03e5713809b0529718ff5ab54a0d12af11ff978ce6a2cf81952"
+hash = "a2f7b82a6ed327b10c4195dd4b865b8adca7fc8d1f48436eff18a56bc8e7b47d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "a188662b68859ce7de4adfd0b732b112ce4e86b5e09114f539e1bcc4ca3ed6e0"
+hash = "67a6c585fedc1a9ad98985c5e5cd2119f7bc73c2498144ee0074658db13e998a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_map.json"
