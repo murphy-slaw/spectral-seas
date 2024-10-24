@@ -93,6 +93,7 @@
     "grapplemod:motor_upgrade",
     "grapplemod:rocket_upgrade",
     "grapplemod:rocket",
+    "interactic:item_filter",
     "artifacts:night_vision_goggles"
   ],
   // -----------------------------------------------------------

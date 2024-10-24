@@ -382,7 +382,7 @@ hash = "720111b282c3128b3bf9a4d04b4f831f32f51a2a7e04853b92bd18a04f2bce7a"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1748eb338c862f209a2e0898aaa6e39d796f78b34e132fe2c73ab76bb9728336"
+hash = "ed928e0d524c365c55680dd5f9d9e46d5097f55046291253d7cb024b0eba166a"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -5030,8 +5030,18 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "9648a40b689b899be7bcbc21d1d881cdd0ebefb412427f9475aeff981894e367"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
 metafile = true
 
 [[files]]
@@ -5242,6 +5252,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "88a665fe5b5b8dfd8535db068e9972d8a41af502602fc600a931520e434637ae"
 metafile = true
 
 [[files]]
