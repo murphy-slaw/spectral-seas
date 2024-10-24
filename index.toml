@@ -486,7 +486,7 @@ hash = "8898f738142be86d832c40b1ddac9f9b9187d6f9eff4a5171332d38f76d87cdb"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
-hash = "c9f7e7cf173f8337ae518895b614ee45ed29fbb4ce238a135ca6136af938910d"
+hash = "61a10650446ea076487d65db473d971d5214af1f5c3897e0f4045ecf3dd61375"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
@@ -4097,6 +4097,10 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us
 hash = "27c770b8c162360cc1cac6f96670d121e3a091542397726fffae75f8c8855579"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/lang/en_us.json"
+hash = "54e3106e9488a6222be9655cdb15da42330112f0c1a859653088cbe93fb40b76"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/bow.json"
 hash = "8da2e053119ad76568d3f7a62b8f7e3a12bbd899dbbff5cbd36af9ef22283b0d"
 
@@ -4221,6 +4225,10 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/arrow.png"
+hash = "9dfc345c4ae71a7bab003d3d15f420376910162a000a99832e9ca63a51bc85dd"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/bow.png"
 hash = "6f62b5a5eac576af20f1ddd79e69df37b19a036691aa26b7523753f995e3dd8d"
 
@@ -4259,6 +4267,18 @@ hash = "2caed197e426915a0e2fab8db20f258657be2b8ad62905016ce6933c513416da"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/crossbow_standby.png"
 hash = "e1bddad32a6ad647b08608b982ea509f424312ee41ce2558c5abd0387b0fd337"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/spectral_arrow.png"
+hash = "53810b7511fea4f4e317bb0a3f146863edefc8fa1f1812afd3801c0863eac21f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/tipped_arrow_base.png"
+hash = "351ce843de15f759bd30f62de7843b100db113bee7ea97a697e0c4f02d87e0f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/tipped_arrow_head.png"
+hash = "848f5d47558cf681b17133bc98ee82ad0d4a620bd18206b2d21ecff084248e8b"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/projectiles/arrow.png"
