@@ -79,8 +79,6 @@
     "simplyswords:empowered_remnant",
     "simplyswords:contained_remnant",
     "simplyswords:tampered_remnant",
-
-    //"grapplemod:base_upgrade",
     "grapplemod:blueprint_shelf",
     "grapplemod:blueprint",
     "grapplemod:double_hook_upgrade",
@@ -89,19 +87,13 @@
     "grapplemod:ender_staff",
     "grapplemod:forcefield_upgrade",
     "grapplemod:forcefield",
-    //"grapplemod:grappling_hook",
-    //"grapplemod:hook_thrower_upgrade",
-    //"grapplemod:limits_upgrade",
     "grapplemod:long_fall_boots",
     "grapplemod:magnet_upgrade",
     "grapplemod:modification_table",
     "grapplemod:motor_upgrade",
     "grapplemod:rocket_upgrade",
     "grapplemod:rocket",
-    //"grapplemod:rope_upgrade",
-    //"grapplemod:swing_upgrade",
-
-    "artifacts:night_vision_goggles",
+    "artifacts:night_vision_goggles"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

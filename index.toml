@@ -358,7 +358,7 @@ hash = "8e201853143e2b8c8d9af6959ccf591adde2936e3b3cb8cbaffb1856acd54981"
 
 [[files]]
 file = "config/grapplemod.json"
-hash = "ecb1684d0295cd780045353608ac43aab8eaf82003985ed92709b804736de23b"
+hash = "3d887f05b1dcd84cfa372d88563d25b5faaafccfc431b43feb615b1b29279abe"
 
 [[files]]
 file = "config/guardvillagers.json"
@@ -382,7 +382,7 @@ hash = "720111b282c3128b3bf9a4d04b4f831f32f51a2a7e04853b92bd18a04f2bce7a"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "5ed41ef94fc2ac52e0eac8cc2031380fa75f7080928c36e4f04305f27b502e24"
+hash = "1748eb338c862f209a2e0898aaa6e39d796f78b34e132fe2c73ab76bb9728336"
 
 [[files]]
 file = "config/kiwi-client.yaml"
