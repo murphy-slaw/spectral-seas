@@ -382,7 +382,7 @@ hash = "720111b282c3128b3bf9a4d04b4f831f32f51a2a7e04853b92bd18a04f2bce7a"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1face5a07e62aa9edc44e67fbd382f2eb9c3edd7d4003de5144b3deecc98110a"
+hash = "5ed41ef94fc2ac52e0eac8cc2031380fa75f7080928c36e4f04305f27b502e24"
 
 [[files]]
 file = "config/kiwi-client.yaml"
