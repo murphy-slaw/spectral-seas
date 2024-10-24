@@ -429,6 +429,10 @@ file = "config/modernfix-mixins.properties"
 hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
 
 [[files]]
+file = "config/morejeiinfo_config.properties"
+hash = "bf0ec5d328b4b17b07db39e61d844da91fbe89f914dfd53cfe4cd15242d81cff"
+
+[[files]]
 file = "config/mostructures-config-v5.json5"
 hash = "0c94ff4836a572b1204979df5df81b615ec47e33ef4972fd439c2c2252ec490c"
 
