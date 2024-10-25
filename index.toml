@@ -298,7 +298,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "77bace27f9ccd2fcfe3066af887ec78766ceeccb78b24ce0b7267c7e87d89cc3"
+hash = "9bfe3bee7bce864376ac158d2e6a2a729670546ac06ca93ff8cfd90e488fe1ba"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
@@ -4506,7 +4506,7 @@ hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "49bb02e2977f56b0962fa8f86ebca61f78a24a2063d8cb5edf7225679e256022"
+hash = "7bf917be0e3918758bcfe97085825ce827a24705dcbc32a6225f7711e8a32771"
 
 [[files]]
 file = "kubejs/README.txt"
