@@ -169,14 +169,6 @@ file = "config/deathlog.json5"
 hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "49bb02e2977f56b0962fa8f86ebca61f78a24a2063d8cb5edf7225679e256022"
-
-[[files]]
 file = "config/detailarmorbar.json"
 hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
 
@@ -4509,6 +4501,14 @@ file = "config/yigd.json"
 hash = "ae010fff5a5d185774fbdecf7212f0da03249232f0c5215a4c6b16bdc9eb6081"
 
 [[files]]
+file = "config/yosbr/keybindings.txt"
+hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "49bb02e2977f56b0962fa8f86ebca61f78a24a2063d8cb5edf7225679e256022"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -5123,11 +5123,6 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans-refabricated.pw.toml"
 hash = "bbb4d73b73cabaac034020a55031a3c9fa36a0e040f3f5fae09e95a8fbbecd7c"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
