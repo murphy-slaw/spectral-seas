@@ -2117,16 +2117,8 @@ file = "config/paxi/resourcepacks/CTM-Overhaul-V_5.0.zip"
 hash = "7997c352411bcdd04a9d89317ecc115832ef85f93d38530d24d79f22eba1d76a"
 
 [[files]]
-file = "config/paxi/resourcepacks/Musketmod(v1.4.5)- Michail01011101's alternative sounds_v2.3.7.zip"
-hash = "86d73d18dbd5ec72f19b7cb8ebba22effd99eee4b7ff0a3b7be2a350dc846739"
-
-[[files]]
-file = "config/paxi/resourcepacks/VanillaTweaks_r750926_MC1.20.x.zip"
-hash = "77a615a15f731f9938d50b4b4def84081ccb337a40c77c5d7a31a175eb84fc24"
-
-[[files]]
-file = "config/paxi/resourcepacks/alternative-musket-textures-1.20.zip"
-hash = "a47fe2711731e0f1bb6e76117f096da539da05d821450a326da3f8926de4f760"
+file = "config/paxi/resourcepacks/VanillaTweaks_r965091_MC1.20.x.zip"
+hash = "28a22743d4db38182b9991279a185ff1ea8a8c0dc01fe8f10baf8f65483be050"
 
 [[files]]
 file = "config/paxi/resourcepacks/alternative-sounds-musket-mod.pw.toml"
