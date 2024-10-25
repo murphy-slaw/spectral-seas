@@ -18,7 +18,7 @@ hash = "532f9325d3490b6cf808174a7f4814e2f86aeed168dc739a31a58387c025a127"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "ecf8830a22ac2e5ac6df940d27081aa2a427724a449867f553177876f16eeca1"
+hash = "1bea9e2698bd57a3d015b66c4d550e31a5122ba7df2354709ed5e3cab3a3476a"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -146,7 +146,7 @@ hash = "9785c4cdcfc1cb18f4781cd8db8fe8c3b2dfccae0ce248d09f11ebab0bf3073f"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "70570a904102df93d5786953a4e819e398aab5554cc32a9bddf4febfe6b0b0b3"
+hash = "c943c2652aa6ccfaf0859064d2a63fdfa8d2cc680e71cef276a7c4d861dd4132"
 
 [[files]]
 file = "config/cr-compass-ribbon.json"
@@ -162,7 +162,7 @@ hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "94cb6f3c2372544e05e672faf98fe8fca6f0cf1f373bb16e87d862f73dedcf17"
+hash = "73634407140dc7ed9f7e58b3a1f8396878c6876b98bb682ad0cd84c3487969c0"
 
 [[files]]
 file = "config/deathlog.json5"
@@ -186,7 +186,7 @@ hash = "427aadd29aea1256db321fcac7f33d3fd3e858324d85269a77deee7a0614c701"
 
 [[files]]
 file = "config/ecologics.json"
-hash = "6b8db1b8c3f9dfb655a2db483db7c02972b147eb53591945b4782f9049054168"
+hash = "5e731f55e80750073b26502434c19c432b0d565617c64a7248400d2e39c962b8"
 
 [[files]]
 file = "config/emi.css"
@@ -353,10 +353,6 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
-file = "config/fwaystones/config.json5"
-hash = "8e201853143e2b8c8d9af6959ccf591adde2936e3b3cb8cbaffb1856acd54981"
-
-[[files]]
 file = "config/grapplemod.json"
 hash = "3d887f05b1dcd84cfa372d88563d25b5faaafccfc431b43feb615b1b29279abe"
 
@@ -413,6 +409,10 @@ file = "config/lunaslimes/visuals_audio.json"
 hash = "7e97b48f8d2dabdc27b75e3992f08326cef2aba1e895d37705f0caff2c058476"
 
 [[files]]
+file = "config/map_atlases.json5"
+hash = "9f13b3f743017c6cc69cf76b1cb56f0f484305cb8f2061aa615b248df8237573"
+
+[[files]]
 file = "config/mermod-client.toml"
 hash = "4f88cdd32eafe986c7b50d8ad4e32cc03875c2eed0d32bfb64f213ce6f0ed20b"
 
@@ -426,7 +426,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "268def43161aecc27e26f69b6b6f259a24755e631de90d0acae4b0a076021a9a"
+hash = "8fb912ba40dd86ad4f81f37f58ba271ed84a9e608c288250f6718420ef3c05ae"
 
 [[files]]
 file = "config/morejeiinfo_config.properties"
@@ -443,6 +443,10 @@ hash = "5eaff93c32b67e5016d4076d42a3bd3175804bce0e06b6c487331aa32ca525bf"
 [[files]]
 file = "config/naturalist.json"
 hash = "0d64e07f1427f761cde573b16522096cb38df0cf23cf703aaed5265b43e8e0fc"
+
+[[files]]
+file = "config/nerb.yaml"
+hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
 
 [[files]]
 file = "config/nimble-client.yaml"
@@ -4430,7 +4434,7 @@ hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
 
 [[files]]
 file = "config/smallships-client.toml"
-hash = "7cc2d5ff04ce4ad144c0904dfeb062991e865dcdb0e0f313c839a373d2b3f92d"
+hash = "a14aa775ef4b21c8be8101feed4c22415a41b30644bc14c7dc5814e8be9a24ce"
 
 [[files]]
 file = "config/smallships-common.toml"
@@ -4466,7 +4470,7 @@ hash = "3abc4953e4ce7d9b62975747ee87dc6b1ec7166c9716465598bdf4513c8ec66b"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "d020e5adfb4dbf2f58a0cbeb1b1a9cae77cb13c771c36bb8723259eec5565318"
+hash = "544d7859cb5e7298cc801aa6707aa3c99da2b62d2f3464bf2e6558a186478801"
 
 [[files]]
 file = "config/surveyor.toml"
@@ -4547,46 +4551,6 @@ hash = "ae010fff5a5d185774fbdecf7212f0da03249232f0c5215a4c6b16bdc9eb6081"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/zenith/adventure.cfg"
-hash = "453281ecc0697aefdbf1d9a8b99bd14eb78187eccde0a93cf26aca47fff9c2b0"
-
-[[files]]
-file = "config/zenith/ench.cfg"
-hash = "f50eb3b6b28159768a4ffb6e50efdd82181736d76075ff2febc46d0458b081c8"
-
-[[files]]
-file = "config/zenith/enchantments.cfg"
-hash = "81638f068211aba5a8bae2d9ede6632f1a02fb39cb4e06666c25218800d22871"
-
-[[files]]
-file = "config/zenith/garden.cfg"
-hash = "407b4fc77925e26351ff7a668f3956efb5e1e9b5ab6d08a4ed37a70ac28bc02d"
-
-[[files]]
-file = "config/zenith/names.cfg"
-hash = "bcd2448bdaed29ebc6f510e8aa0fb63f6f292827406ff81fd1c4c17d7a20df59"
-
-[[files]]
-file = "config/zenith/potion.cfg"
-hash = "f4906eeb0b40dcf0013fcf9bc965465b4dc7de9fc384c5a60e127237d06c049c"
-
-[[files]]
-file = "config/zenith/spawner.cfg"
-hash = "28f381a99b5be4cfa1066a42c6edde7645cd237912b0f11028e6dffca5cd57ee"
-
-[[files]]
-file = "config/zenith/village.cfg"
-hash = "aab9e16cd91b3e90652c89dd042f7dbfadc59fd6dabaa65f6a5f556d299e0f7c"
-
-[[files]]
-file = "config/zenith/zenith.cfg"
-hash = "4ca50dfce1b3a211127fd52b7cebcc63734a38494ad404479f7b30f53d51c8bc"
-
-[[files]]
-file = "config/zenith_attributes.cfg"
-hash = "7ab3336daeb6e68c750b02be75bda7df56c0cc41bddb2bddb24ed80787a1d46c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -5651,11 +5615,6 @@ hash = "c0effc07859a5f8b9ec97566c3bd14096c8b5b2e0c1487b33e7ff5299e37464b"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "03d491f5ebf273e3bc0dee6f13ea833f7cc9bb0ac719732ea2d12fe3034aef1f"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "b939870f8789b9bcaed0709f2a175ab4ba05d05954f8e3097449853730a533a8"
 metafile = true
@@ -5977,11 +5936,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
-metafile = true
-
-[[files]]
-file = "mods/zenith-attributes.pw.toml"
-hash = "dd3376e83becdd8d73a89f243e444d5f5ae8c0c25b995db203cbd4641b731f6b"
 metafile = true
 
 [[files]]

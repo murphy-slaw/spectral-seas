@@ -20,7 +20,7 @@
       "fall_height_required": 5
     },
     "enderman_head": {
-      "enabled": true,
+      "enabled": false,
       "drop_head": true,
       "ticks_to_increase_power": 15,
       "work_from_any_side": false
@@ -132,7 +132,7 @@
       }
     },
     "present": {
-      "enabled": true,
+      "enabled": false,
       "trapped_present": true
     },
     "flax": {
@@ -199,9 +199,9 @@
       "sepia_globe": true
     },
     "sign_post": {
-      "enabled": true,
+      "enabled": false,
       "way_sign": {
-        "show_distance_text": true
+        "show_distance_text": false
       }
     },
     "daub": {
@@ -215,7 +215,7 @@
       "enabled": true,
       "unrestricted": false
     },
-    "lapis_bricks": true,
+    "lapis_bricks": false,
     "deepslate_lamp": true,
     "end_stone_lamp": true,
     "blackstone_lamp": true,
@@ -265,7 +265,7 @@
     "rope_arrow": {
       "enabled": true,
       "capacity": 32,
-      "exclusive_to_crossbows": false
+      "exclusive_to_crossbows": true
     },
     "flute": {
       "enabled": true,

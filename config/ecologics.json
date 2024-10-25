@@ -5,10 +5,10 @@
     "generateSeashells": true
   },
   "desert": {
-    "spawnCamels": true,
+    "spawnCamels": false,
     "generatePricklyPears": true,
     "pricklyPearGrowthChance": 1.0,
-    "generateDesertRuins": true
+    "generateDesertRuins": false
   },
   "snowy": {
     "spawnPenguins": true,

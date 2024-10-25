@@ -8,10 +8,7 @@ preventAdvancementBroadcasts = true
 # default: BLACKLIST
 filterMode = "BLACKLIST"
 # Namespaces to be entirely filtered, e.g. 'minecraft' or 'antique_atlas'
-filterNamespaces = [
-    "mostructures",
-    "totw_reworked"
-]
+filterNamespaces = ["mostructures", "totw_reworked"]
 # Namespace-inclusive paths to be filtered, e.g. 'minecraft:recipes/' or 'tconstruct:foundry/'
 filterPaths = []
 # Whether to filter advancements that are triggered when obtaining a recipe, used for recipe advancements
@@ -21,7 +18,7 @@ filterRecipes = true
 # default: true
 removeAdvancementsKeybind = false
 # Whether to remove the advancements button from the pause menu, extending the stats button to fill space
-# default: false
+# default: true
 removeAdvancementsButton = false
 # Whether to hide the toast that appears when an advancement is completed
 # default: true
@@ -29,4 +26,3 @@ removeAdvancementToasts = false
 # Whether to hide the toast that appears when you unlock a recipe
 # default: true
 removeRecipeToasts = true
-
