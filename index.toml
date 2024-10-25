@@ -4409,6 +4409,10 @@ file = "config/spellbound.json"
 hash = "048f72a6582fd332725c53dfac173c2634bdc582273bacb5d5e980704ebd3c09"
 
 [[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
+
+[[files]]
 file = "config/staminafortweakers.json5"
 hash = "31cb6c01241454faa0631f357975a2b0c0b410a7827546f5a5c6caf1c34a4eaa"
 
