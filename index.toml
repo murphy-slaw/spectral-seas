@@ -174,7 +174,7 @@ hash = "f263edf15035978c896de2484dbcf013c88613685777a1d20c40704d8efefea4"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5b586a19a16a87596a370f5933622bfda8ebde66a7971553feb694f0ebba1b17"
+hash = "73852f420e712efe317fdb4c8a1c23890d0a36f7d3a23734b726ed2a7f9dcdaf"
 
 [[files]]
 file = "config/detailarmorbar.json"
@@ -2105,7 +2105,7 @@ hash = "61c56bf29f66be9ecc4e45ad153eb30b0b093f18e4b41969f9503c9de21e7b49"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "30bcfc21d4fbc2e9f49f298b0fbfc1af9961475face3c9fe872c4fe92af11ab4"
+hash = "4f1d462640d896bfd2d1da01beddbed6b014f62e3bf77ffd8383d76c9703847f"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-muskets.pw.toml"
@@ -5932,7 +5932,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "5245f3193034e880ea59150fc951aee9b81a011a068ccecc34f545b17439d011"
+hash = "5d5222fd5c166b83684f3b5b5c093624f18ab4f9acd7ad2c24279eb926a18e45"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"

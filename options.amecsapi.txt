@@ -35,13 +35,7 @@ key_modifiers_key.hotbar.9:0,0,0
 key_modifiers_key.dynamic_fps.toggle_forced:0,0,0
 key_modifiers_key.dynamic_fps.toggle_disabled:0,0,0
 key_modifiers_Take Panorama Screenshot:0,0,1
-key_modifiers_key.taptab.cycle:0,0,0
-key_modifiers_key.taptab.reverse_modifier:0,0,0
-key_modifiers_key.taptab.slot_modifier:0,0,0
 key_modifiers_Change HUD position:0,0,0
-key_modifiers_key.adventurez.dragonflydown:0,0,0
-key_modifiers_key.adventurez.dragonfirebreath:0,0,0
-key_modifiers_key.amecs.alternative_escape:0,0,0
 key_modifiers_key.amecs.toggle_auto_jump:0,0,0
 key_modifiers_key.amecs.toggle_cape:0,0,0
 key_modifiers_key.amecs.toggle_jacket:0,0,0
@@ -105,9 +99,6 @@ key_modifiers_key.presencefootsteps.toggle:0,0,0
 key_modifiers_key.raised.options:0,0,0
 key_modifiers_key.smallships.ship_sail:0,0,0
 key_modifiers_key.spyglass-improvements.use:0,0,0
-key_modifiers_key.things.place_item:0,0,0
-key_modifiers_key.things.openenderchest:0,0,0
-key_modifiers_key.things.toggle_socks_jump_boost:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0
 key_modifiers_key.waila.toggle_liquid:0,0,0
