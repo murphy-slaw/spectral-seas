@@ -5247,6 +5247,11 @@ hash = "290fe9c3fc8ff28f11152a0f7849be3d13e930490d2620d3352048f7d87f9d2d"
 metafile = true
 
 [[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "c59088cddb9d7d6d77898ce272f6da236ee08da3adf2abd919dc7d29c0449369"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
