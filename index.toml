@@ -1950,38 +1950,6 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structur
 hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/black_langast.json"
-hash = "267e321482037eb349e11d8215f1edadc715b8c153de0279a15ab32a8d92d8cc"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/crystal_gardens.json"
-hash = "ec21e189ef7bc17b45034aa4c4c48711447d566b5824b8e2042c5c0f5efd00a8"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/deep_barrens.json"
-hash = "37694eed40e45c73b6c2b051f9a5169ac79f308c424b0c8136f75c195e3feb47"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/deep_dripstone_caves.json"
-hash = "7746156243536f31b7444729465f4b10e0e25e16d99d1dfaf24cfe287a602412"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/dragonrot_swamp.json"
-hash = "d1fd8d7244c9f8fd81dbf1197af17aa8412552d400934525b9c06b03f5a1faee"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/howling_spires.json"
-hash = "c1bc3f70b8fe308d1acedfb609315d42bb61f11f4f75cbac971d9fe8213e63a8"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/noxshroom_forest.json"
-hash = "5ba6feeecf0d269348001609729ab19ae0903a8d374d9b86f57dd8eb245cdc6a"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectrum/worldgen/biome/razor_edge.json"
-hash = "d2554893f5bea6bf33e388bc1ed579984768dadd292d0b10bdd6fa3e1bbb23dc"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/adventure_map.json"
 hash = "a35bea7e5fd29cd14a3c63bc0f8a72a9b0f7d697dcb5d15da42e95581c6015db"
 
