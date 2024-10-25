@@ -9,6 +9,9 @@
 # server export directory
 server
 
+# build directory
+builds
+
 # vscode schmutz
 .vscode
 /.idea/
