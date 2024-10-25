@@ -5248,7 +5248,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "c59088cddb9d7d6d77898ce272f6da236ee08da3adf2abd919dc7d29c0449369"
+hash = "2f2c4d0f22429de24fefa43f18a4ef8c1ca808e05f54c554f8452eb258a2bd2d"
 metafile = true
 
 [[files]]
