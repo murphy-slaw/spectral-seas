@@ -5347,11 +5347,6 @@ hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
 
 [[files]]
-file = "mods/heracles.pw.toml"
-hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
