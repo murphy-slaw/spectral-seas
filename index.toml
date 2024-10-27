@@ -638,8 +638,68 @@ file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_l
 hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/amethyst.json"
+hash = "f3832ef7c09a1f5ab1f089f000383e5081b21eeb3b539089db6c19b77358637b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/boat.json"
+hash = "57f34ee6dcbc066cb8f3e729f323a78e8c5a43076281191552e1b5c8d67ccc53"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/compass.json"
+hash = "4a7b872225ad76172139228802d32614ae609ac8569b73ca6e5189600e0f1ce5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/crying.json"
+hash = "19dcc3dfe46d89959f1a8725edcef780a1363e5aae37f939cd47bf228403f0ee"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/door.json"
+hash = "b65e84cf66a9514b055705a56e68eb1819f48d111d7628eb5686d77bf51c69fa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/drown.json"
+hash = "9ff630fa7954592dd07e013942e98983f16e09fc6f511106e7478f6b43f5cf23"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/geodes.json"
+hash = "bcd985da6f83a0d893ef00d2f936dbac1f050ee94f84beae068329b07444a86a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/glide.json"
+hash = "e8dc4f098d6fde24b7b6683839c9e391146e6f38e1e5fbc59dfc64ce3187193f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/grapple.json"
+hash = "eda7ba1a81e8745ecaea35811fa6f09ef62116d69339703ab76d22a3b15f8dd8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/nether.json"
+hash = "6c2e69dc5462a663ebffdfb6ccb9b51c0ce874f5e609a9c66e62468249703538"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/pirates.json"
+hash = "4a8ec2bde36563cbdd04497398cbecd4317b81b573165819e935ea0ee9ddd5ff"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/sail.json"
+hash = "143533ab95fae9df9ecda2900a5b164ddd6b0d7f341176ecc50607d4f1a54786"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/slime.json"
+hash = "abd037727ebcbb0f60d32759397ea586ad82e6a92fc78c621f394f9760cfc934"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/test.json"
 hash = "1d7ca6f8f880ef483204c354417c101106a48de317b77843fda6e43f7459cb78"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/towers.json"
+hash = "8fde3b14e50878c4552441a6c3e4ecfccf349590879b1b7ca9beabaec266adf0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/villagers.json"
+hash = "c939248d333409729d4f2e265d79efb11dcf8f9287621179077a1c7c294ea237"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/blocks/message_in_a_bottle.json"
@@ -3982,7 +4042,7 @@ hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us.json"
-hash = "27c770b8c162360cc1cac6f96670d121e3a091542397726fffae75f8c8855579"
+hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/lang/en_us.json"

@@ -1,4 +1,49 @@
 {
+  "hybrid-aquatic.sea_message.test.title": "This is just a test.",
   "hybrid-aquatic.sea_message.test": "Testing",
-  "hybrid-aquatic.sea_message.test.title": "This is just a test."
+
+  "hybrid-aquatic.sea_message.glide.title": "Hang Ten",
+  "hybrid-aquatic.sea_message.glide": "Have you ever tried hang gliding? It's the only way to fly.",
+
+  "hybrid-aquatic.sea_message.boat.title": "Ship It!",
+  "hybrid-aquatic.sea_message.boat": "The sea is treacherous. A mere boat won't suffice to cross it. Think bigger",
+
+  "hybrid-aquatic.sea_message.drown.title": "Tips On Drowning",
+  "hybrid-aquatic.sea_message.drown": "They say drowning is the worst way to die. The best way to drown is to let your head go under water when you're exhausted.",
+
+  "hybrid-aquatic.sea_message.compass.title": "Compassion",
+  "hybrid-aquatic.sea_message.compass": "Having trouble following a treasure map? Hold a compass in your hand.",
+
+  "hybrid-aquatic.sea_message.grapple.title": "Swingin'",
+  "hybrid-aquatic.sea_message.grapple": "A grappling hook will get you into the swing of things.",
+  
+  "hybrid-aquatic.sea_message.pirates.title": "It Takes a Pillage",
+  "hybrid-aquatic.sea_message.pirates": "The pirates of these islands are number one with a bullet.",
+
+  "hybrid-aquatic.sea_message.nether.title": "Nether You Mind",
+  "hybrid-aquatic.sea_message.nether": "There are legends of portals to the underworld deep beneath the earth, but an explorer would be hard pressed to find one without directions.",
+  
+  "hybrid-aquatic.sea_message.crying.title": "The Crying Game",
+  "hybrid-aquatic.sea_message.crying": "Trying to build a portal with nothing but obsidian will leave you in tears.",
+
+  "hybrid-aquatic.sea_message.villagers.title": "Welcome to our Island, Now Go Home",
+  "hybrid-aquatic.sea_message.villagers": "The villagers of these islands are suspicious and value their privacy. Snooping around or taking their property may lead to a chilly reception … or worse.",
+  
+  "hybrid-aquatic.sea_message.slime.title": "Peanut Butter and WHAT?",
+  "hybrid-aquatic.sea_message.slime": "If you need slimeballs, the sea can provide.",
+
+  "hybrid-aquatic.sea_message.towers.title": "A Towering Achievment",
+  "hybrid-aquatic.sea_message.towers": "In ancient days, someone built towers all across these islands. Those brave enough to scale them may find secrets, and rewards.",
+
+  "hybrid-aquatic.sea_message.geodes.title": "Crunchy on the Outside",
+  "hybrid-aquatic.sea_message.geodes": "The old mariners say the geodes hold many secrets. Seek them out.",
+
+  "hybrid-aquatic.sea_message.amethyst.title": "Deep Purple",
+  "hybrid-aquatic.sea_message.amethyst": "The rarest geodes are only found at the bottom of the deepest oceans.",
+
+  "hybrid-aquatic.sea_message.door.title": "Knock Knock",
+  "hybrid-aquatic.sea_message.door": "Doors can be waterlogged. How long can you hold your breath?",
+
+  "hybrid-aquatic.sea_message.sail.title": "Sail Away",
+  "hybrid-aquatic.sea_message.sail": "Every ship needs a sail. And sometimes sails can be found on ships."
 }
