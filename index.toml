@@ -430,7 +430,7 @@ hash = "0c94ff4836a572b1204979df5df81b615ec47e33ef4972fd439c2c2252ec490c"
 
 [[files]]
 file = "config/musketmod.txt"
-hash = "5eaff93c32b67e5016d4076d42a3bd3175804bce0e06b6c487331aa32ca525bf"
+hash = "212a6b1f34b70a020448cc200a3a6fbde3bbf6b2c5b8c8addc8d94cf3043acf7"
 
 [[files]]
 file = "config/naturalist.json"
@@ -4498,7 +4498,7 @@ hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7bf917be0e3918758bcfe97085825ce827a24705dcbc32a6225f7711e8a32771"
+hash = "c07e0bde91d2bee0bc458929c99c7816f96a7be4fbfa4e6f20a3bde0e0ac1339"
 
 [[files]]
 file = "kubejs/README.txt"
