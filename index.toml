@@ -266,7 +266,11 @@ hash = "df66822e03f99b25c09fa16f908f860382c0dc0af4a0660d1ff053e66edebc7b"
 
 [[files]]
 file = "config/fancymenu/assets/spectral_seas.png"
-hash = "940da761b53236196f43e07fcfd892700e5de81c5bde0a80b35226586fed262a"
+hash = "c89bbe582b6ef84d15c3dd1ded1ecfa2c42509878d973b9d7d204bde7974535b"
+
+[[files]]
+file = "config/fancymenu/assets/spectral_seas_icon.png"
+hash = "987aa873d34e2c537ed9d069af798e2aeca8e0ead996dce2919ce8b8489e4888"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -754,6 +758,10 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/game
 hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
+hash = "783eacb27584759c17ebe478c8fedc452bc6c6f5b60b21451857bdb3bde36f9c"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/desert_pyramid.json"
 hash = "1224cb6e3ea06aea0da273507df08c1bc6d5d60fb484b774681f3ae734e51c39"
 
@@ -850,12 +858,24 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_beach.json"
+hash = "b39edb2302ca854726657d7e5a1684f08c91273aff1d7607746ab729676ba578"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/village.json"
 hash = "166ffc7a0c96e611ebc45eadd2415799a8a4549cec3f52b12bfe58d93ea37f53"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_beach.json"
+hash = "5120d28195d3f4c56b772318b90ed8f2026788bba29cba7f6bd5d4a5334b2d4d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "909dda9ab286335600dbbbe50031a2e1e2ff2fbd8b5cc8992c514a114f35c438"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
