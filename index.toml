@@ -871,7 +871,7 @@ hash = "166ffc7a0c96e611ebc45eadd2415799a8a4549cec3f52b12bfe58d93ea37f53"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_beach.json"
-hash = "5120d28195d3f4c56b772318b90ed8f2026788bba29cba7f6bd5d4a5334b2d4d"
+hash = "3bb4592037e2c97f43e0e59352ad353ab6c4f4e77353aaa6258b53f92ecd4f0f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
@@ -1948,6 +1948,10 @@ hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
 hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/terrablender/tags/dimension_type/overworld_regions.json"
+hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/adventure_map.json"
