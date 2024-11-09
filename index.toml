@@ -4557,8 +4557,12 @@ file = "config/yosbr/keybindings.txt"
 hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
 
 [[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "20e70f27a339742cf6c15f1ae6a80914bad622adfb2388c612202dcb1e2d2a39"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "c07e0bde91d2bee0bc458929c99c7816f96a7be4fbfa4e6f20a3bde0e0ac1339"
+hash = "82a4d497379739d066718a20af6283ee64825ad321ffb4b0b75baca30663bbb8"
 
 [[files]]
 file = "kubejs/README.txt"
