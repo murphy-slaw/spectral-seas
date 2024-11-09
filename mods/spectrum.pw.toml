@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.8.0-alpha4.jar"
+filename = "spectrum-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/nFBZyU2U/spectrum-1.8.0-alpha4.jar"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/AYY5Cckg/spectrum-1.8.0.jar"
 hash-format = "sha512"
-hash = "8a8908ae2e218dab3d9030332c68c2058d444aae067827334c9ab861b3162c161e4d9b4ec4e75942390c2e160c6626b6be2a0176571c746de89eedd503166023"
+hash = "b2464c49710208b02d0bc3fa4f8c20a1b3a3dcce55d23385124609e1513570aa6c6bddabae2dd0a43f8b8a746c50fb468c5f76251eba45eb0013d34f94c11eec"
 
 [update]
 [update.modrinth]
 mod-id = "3rc31Hgo"
-version = "nFBZyU2U"
+version = "AYY5Cckg"
