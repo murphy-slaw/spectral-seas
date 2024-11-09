@@ -759,7 +759,19 @@ hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "ed4a0c3df1bcd14d4c959ad66f64b17d370b194ef5e879dddb496e2756d523f3"
+hash = "3ba2b37eeced7c53a0305ca69c2b925e7ee86bb9cadd9180289ed8982bcf1f4b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
+hash = "b05ab49ee2f0f2255f81b6b516c029f1ef24382da901c4d9f25ea8b58866f10f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension_type/overworld.json"
+hash = "36551e9bf34cd51be33080090a1fe72dca0f61c39db5b96b5b5825d498c8b593"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension_type/the_nether.json"
+hash = "56ef10852f2217077769df28e5917c8b475373baa65d3bee58b2d4d394b2b7ae"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/archaeology/desert_pyramid.json"
@@ -870,6 +882,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structu
 hash = "166ffc7a0c96e611ebc45eadd2415799a8a4549cec3f52b12bfe58d93ea37f53"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/lava_sea.json"
+hash = "6b84d319238c2841e4ec43e7ef9eac0c07b206dd43f89350a7043092aa0c98ee"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_beach.json"
 hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
 
@@ -880,6 +896,10 @@ hash = "2bb7b26ace09249b2fef26f542a788206ea435dc624850307b694d23d1d1b84c"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/tree/beach_cypress.json"
 hash = "bc3940f928c4e24b008da5005bf983fbf9cfb957c4d0ad0de1ffc5c25ad9b34a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
+hash = "f6e391e12ddf0f4cd9d44e7e7f207b4d89e953f80611e1760f1e67d114e39281"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
