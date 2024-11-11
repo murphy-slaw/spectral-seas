@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_grimdark",
+    "textures": {
+        "layer0": "item/stone_shovel_1"
+    }
+}
