@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld_grimdark",
     "textures": {
-        "layer0": "item/diamond_sword_1"
+        "layer0": "item/golden_cutlass_1"
     }
 }
