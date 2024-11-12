@@ -469,1366 +469,6 @@ file = "config/patchouli.json5"
 hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/lang/en_us.json"
-hash = "5036b74e4c95dcc6afcf0c7e9a4ad53d0e79abf24f9addf17ccc9e6f9c0f92b1"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/carrot_on_a_stick.json"
-hash = "448e9e1bc12e1886922cc569f7c06d56f4e3de66576db483175ac0623b1bf313"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_00.json"
-hash = "75badc664d9e289a8db0905320faf6343c1d0a4e960d981ac51eb256e481b724"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_01.json"
-hash = "f237eaec0f04a4c355c63b10dca1687be761e7bd368302fcbf768fd7e2191d05"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_02.json"
-hash = "645443c2b5092b4f1b2f08225c72f563b5031d951d5b8e7f749078dbd5a80084"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_03.json"
-hash = "c73a61df3eb2eef235dd2184a1a08bcf9f8b4d99bec47770039268cb3572073c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_04.json"
-hash = "a0d88c9ac99ad4978ede77d86569b237b82f44024647dc328f8d7293496d2662"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_05.json"
-hash = "b961d5215e64ed97fa15e292eacebc02ff5275596f5415f7841e2f956efcd841"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_06.json"
-hash = "c0afdb49fc8dd369f9810e19f36bc8aba7760cb2bfc4fbc3d403ed610f74430a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_07.json"
-hash = "0f454ef9608f5d14c37dee108a6e2fe9a643e68c1e1809af81c96426a4c55300"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_08.json"
-hash = "ffe0fc946391df910e3ba0860b1cbe67d260b81179125d37b3d7be50dd9df682"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_09.json"
-hash = "a45f25654646ca32eb24ef9629383d460ed020285bb936e5474fa29764a0e773"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_10.json"
-hash = "b5ef8f541270acfe6312b5c45a3374438df9ef4ec5ac4d71cd21a36e720e538c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_11.json"
-hash = "4aa9836bfc4456abcee98efcf5143e6ebc35c3cdcba0b1ee4d327fae3dbcaf73"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_12.json"
-hash = "66377186b32e6fe8b6dd7e4d20791b3f7cc26015412c7def924adf338169bbfc"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_13.json"
-hash = "e6e5f83285b07827d2c9490f4ef6c5951ae128feeaba8a4ed503dfaec615d76d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_14.json"
-hash = "0bd427aad24f3a29a92a77799927d343d964619d840d5138beb09d04b5344c71"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_15.json"
-hash = "92770c8f174c9b7445eb1e181b1f68eb8fe89d09600bb642468b53800afe5ee8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_17.json"
-hash = "331e73cc42f6b0be062cf8061f43a233f405a36b87020bde44c39093bc7f2ed2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_18.json"
-hash = "b7e6350dc152fd61121eaa0aaa991205000170a92b59b554cb9a2202edf10632"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_19.json"
-hash = "0e70cf30de6e0600c0c809766bdabe1def3147a32b0ce201154d0134ebfa29c8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_20.json"
-hash = "eb12f6dc11c306139fb818adaa2f8400a3304b8e7a4e2dcaf8d03a73135e4294"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_21.json"
-hash = "1ddd7797b02bee416fa1a008ec7d0dbcc896032a393b21d15c4aa63526857c68"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_22.json"
-hash = "60a4b0cbfe2cb243d15a8c2a291e3ffda85a5aff30fbb00fe26b6acdf4320a74"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_23.json"
-hash = "44da71b07f8398db90460896be47d1a3611a6dcda9e352a1244212835689f31d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_24.json"
-hash = "1185966f5b6d2b8596a9e24c6bed022fa582cbf18af2c8fecd410bc14aa6eaca"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_25.json"
-hash = "65c5b2ea9598532495fb5a9295562e3db5326395c79960758fe865245a18edc2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_26.json"
-hash = "a0a7c2f47c406a0d475cbb551336d3b19eed9b0fb98185edf050388f42d229be"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_27.json"
-hash = "7bbb7bf1a009b0448f3b0e95da1b644c1f5f12f4c17fbc4f1c8e74e020111b49"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_28.json"
-hash = "27a5dad7e7a973bec1e7d14da6dd782701fdad49522da4ce5bf62afdb46a2088"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_29.json"
-hash = "c3aa8fd6cb42779e5b940c77d26a0e8f11e82ebccaa9a3b7e07ada3e23a21a29"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_30.json"
-hash = "76e8037d8fb9c37bb7984737bdb2d4e8f5462c94e705f9212a9c1d5b40ea2961"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_31.json"
-hash = "22ccc328b9cd82969b2d53f8a1645d2b3abe7f29916d70eeb3984df8746dcf0a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_axe.json"
-hash = "cf215e8888eb7ef1d6c6c3055f2098826424ef5e435511e1e75464b3c0ba1d42"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_axe_1.json"
-hash = "2acb9a79f81f2c9a56af536717619cfd99af1d7ea84bfff0a546acd316353c45"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_hoe.json"
-hash = "2cebf4dccb007b5a27e011e31f9bc1da3030d9fe06839b1509a7f626d316a145"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_hoe_1.json"
-hash = "defbdc22acbd84c1648a2af418a991c1b7d73be23e2b8b93a05cc16e9d6a9f41"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_pickaxe.json"
-hash = "dc26d0d4c0c6b17a2fe8f4d1058cf13e9307fc0cdf5b5a003e4acdf6927b01c9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_pickaxe_1.json"
-hash = "3efec4d5a48f1a37d6a2e63ae1ff92c7067199443d6149da471450d302c76fbd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_shovel.json"
-hash = "899c120a9f367743ba72cfd02a10c9c0644565c9e1a8c8ffcfcc66629b552525"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_shovel_1.json"
-hash = "83baa2ff4aef569055e0925a13db65ddb7d698aeefdf5f92c65cc7591d190763"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/fishing_rod.json"
-hash = "17530ffed7f2c877a384c92f0fe5f3ac83ff38115422b0e7a4c40f63c6fa3bfb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/fishing_rod_cast.json"
-hash = "a1244e5f0f62fa2c2ad046ba63b4eac922b7ce6296704f9d266aa74c096b2eec"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_axe.json"
-hash = "f0ec709dbe6869086e519262165faee8d9cb78829f9c34050edefcd506fb3917"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_axe_1.json"
-hash = "c6c1037512e87b310cc1ad2fdf7ef05444e95d976e89aa9088384e36ec7c0c61"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_hoe.json"
-hash = "31fb2ff1441d18016f9fca931f62514cdf0306d0bee5141529910219fa5c040c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_hoe_1.json"
-hash = "5a8effd8f2937f6cf9038dcbc78b3facbf0fcbc37bc35bd9f1f4abf96c95a289"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_pickaxe.json"
-hash = "0cc87c1544a650d497caa57dd756e3cc00a7cf14aa73acc04bef070201a10992"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_pickaxe_1.json"
-hash = "0ed8e2a6c1cb5c131d1f172d979c06397cd397cdcc129e48ebde497d27ec1b49"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_shovel.json"
-hash = "1aa55e328205d5fcbfbdd87000f5c272ea4d13e295bde0b70b58d48114e05495"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_shovel_1.json"
-hash = "779b843b814642a6e22314a3656bf42f7f5a4cc11ed2764afe6fb824ea0e81dc"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/handheld_grimdark.json"
-hash = "515bd727efd33ed6a5af67a18ae10c2bc1606d4381e1160f1411d5dea964c426"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_axe.json"
-hash = "eaee2e4bcdbf3890711e7ab7f56a99a5481e29a3137ec579f6dcd27c0f60cb6c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_axe_1.json"
-hash = "e34dcda4a210bf5fd636a354b582865a77ce6fff557dc3c279c294122e6bb70f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_hoe.json"
-hash = "9a00e8f023978d0fdd8b0d7e4514d456777a84f9d65e84ed498123a58f942d9e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_hoe_1.json"
-hash = "b2f61f562fb29cf73aef4e4f4c5fd3d938a33c677bbd45132997107ee2050f53"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_pickaxe.json"
-hash = "2d0da94587be73b4f81c9acf70b0b9bcff85888d03aa6326478c171771460ce8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_pickaxe_1.json"
-hash = "e5dd58aea00a8b4496147c96cc414f0135261b11859c537ad46fe0d60bcaf92b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_shovel.json"
-hash = "1b1254e2e90b7b77076f216c39c21f25c4cf47c9407c7883e5ebf331acd2bbe5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_shovel_1.json"
-hash = "df300eca9d9ced92fb1e77f1365402ca5115ad00f10431d51caa4d23b0123ac1"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_axe.json"
-hash = "5969250efe76e20197e23713dccbb6d48cab23d84b6c2a827cfe6c8d06c9e271"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_axe_1.json"
-hash = "628d258fc2e4eb79e174e0cf2a372d7e6a5e3aa46bfad99fd6d10229e16f13d3"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_hoe.json"
-hash = "1b6b27e3158a2103afaf5c194c6329d6d3b430cd36654c11fee20c3eaae299fb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_hoe_1.json"
-hash = "4db427aeae7225037a8c35874ce691b9da2820f3c3a1b0b8ac60e53f3da3c6c7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_pickaxe.json"
-hash = "c5b7929eb52973609c216942d03ce1b178721550fed93623359fe4d90f9f7f9f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_pickaxe_1.json"
-hash = "409b42a0685862a4ea5d1815dd4ad444887661856fd49cf009975cce69b530a5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_shovel.json"
-hash = "0995c42f5cf698cd12908e5e6f1c2dcf203d17ff1a6c9b3c5873318491a334ed"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_shovel_1.json"
-hash = "abb567525042eae22116312ad16e6e31a3cfec89f262499244b4d99e59c30a82"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/shield.json"
-hash = "a45ad5d9307aeb5742df7a1e727f0289135d07db18748af37c718d937e810028"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/shield_blocking.json"
-hash = "c87cba943e383c47dfd088a1c4946595737e933af45a6f0ab41f3053eade3ba0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_axe.json"
-hash = "f77194bd844b94faab8c5742efcb69b82b03dec730cb94f7fa7069a4d8933643"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_axe_1.json"
-hash = "b16379f0c27e2e3fbe8d3d00815f6a5ae9af371a3aa81da4fdc6559ad8439a9c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_hoe.json"
-hash = "47da7395e80dedb9315574d25e4466e9828f369f79db6eb54bcbe786be6900e8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_hoe_1.json"
-hash = "eb64ac6519f070b2fe444023749bd2076b2bbcc1fb1b31650108962d7fecc97a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_pickaxe.json"
-hash = "750dc6c86371c5f6066f1954c838c629a596b3fce276d4c828c6cdcf2a456430"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_pickaxe_1.json"
-hash = "024a55725cd8325fc7117720835bb26a7296a3d4ed66b7da4ba7920f265dbfee"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_shovel.json"
-hash = "bc126fa2ec31b5de01d453cf1c2c139e61064c244f565b2184d6fac110d606a7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_shovel_1.json"
-hash = "9068ce11843c3e100ee7baac9c58e0e21f9eaa74c1624e3ad6522e0a34e671db"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/warped_fungus_on_a_stick.json"
-hash = "9790dd9b0e601ef35125cce0832a6fab2f114a8d80792e573c0178184cc7d438"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_axe.json"
-hash = "f2aef2beb2fa8ed4b5ac4e1bfe5172bb0de6c5e4199a11f82c8b483225e09efc"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_axe_1.json"
-hash = "336e2ef43f9b3685ab438e6d9821cbbb4d493502403800a57c82afb1ac724f0d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_hoe.json"
-hash = "db9d4ac650d21d30ef343a75821524d026c5951cc5a83abb03fa6099bab16483"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_hoe_1.json"
-hash = "e19f736dd1fe30c95fdd49f357b80c76d18cdbb920fa716272bc7eb8d4abe1ae"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_pickaxe.json"
-hash = "77be715c8676e34db31874e4d582f707b82a37053f2cb1219d9e053bd3c33efd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_pickaxe_1.json"
-hash = "40dff5debc4b687814b0fd6cd2e0fb807bdac031ad3cc459f63a8f76313b50f3"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_shovel.json"
-hash = "6e37c79b69a9b37110bf3f7a4a104b9e73e2b2f21e4b01b9fbbe272fcb7229c7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_shovel_1.json"
-hash = "dae399fda949f2dc68c62b3894065123b25d23ca22ed3009114353c525313128"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail.png"
-hash = "04dc354a712142a2ac09701f427f83b1fcab990313885c01cf161ca0ef130ca5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail.properties"
-hash = "be4e9ce199b4ef4dc4ec11aa5ef8e48b1f8cd87f2f490bfeae23b1cb2dce784b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_broken_item.png"
-hash = "5e49857e2dfd31f43d113927d20da07cd2056cfc5d05befe8ece4ab5ef370916"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_broken_item.properties"
-hash = "db432acdd76099b52fcaa3107bf0b7fbcad91ebc431949a223b3bf4f10e79397"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_item.png"
-hash = "176d5ccd5ba7088409214abe5b46e17e0334a17ff9dd6b143f7e2afc82a9e349"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_item.properties"
-hash = "570b76b9aea3cd3144fd9095e563d6c8ca2f5cca8b9f8dd46430daf54c08f96f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond.png"
-hash = "cb86febf08d503d3088ad08326d7cb2edb46114b0a22c29a666ab5ea60eb59a9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond.properties"
-hash = "9a2d987895304314ef84943bd20a9f9026871d437653862195b7f14dfc680f07"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_broken_item.png"
-hash = "4f59ba286f3aa24429247ba581e601c5dc359cd3d53ccdff3035cb8dfd58c9f4"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_broken_item.properties"
-hash = "68bfb192f503d392d32af29233690c631440c99f409967ae95a89a49685d5b6c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_item.png"
-hash = "306a6abcd331aee5db32e548922ebaf7d49589db79ecd920d9bcfff93a2167aa"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_item.properties"
-hash = "a80139852d6e26604b6c894cade97ff269e7e023566e5ae573582d655b41f4da"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden.png"
-hash = "b7e681d710510a11f8f35a4d49f0866c0ae10784b7584b850b198f010476c343"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden.properties"
-hash = "097b78f04882dfbf57f3e64574b3d1ee5d1ff7123e946ae7753946441a3d4e54"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_broken_item.png"
-hash = "eae48bb9d1f003ce82795fbbf9b3864e47fb7539a81e55589541f7e10972e042"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_broken_item.properties"
-hash = "7c964a412608234c375b167a9d3b33ddcf2ae22522d7e9dd9624a1fc72d53d65"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_item.png"
-hash = "56858cb996b9c8a7f7551666f8ca4b4b1410ed9153bedda7df550cb13bb59b95"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_item.properties"
-hash = "70fc3fbf6e3786016693ce2b8736434a96f94c2975fa24dea361304285def7f7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron.png"
-hash = "8a7efaa4ab4374161571e9e8fe536aa2be037a52ae37905e99e53e29e89ef054"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron.properties"
-hash = "fa5f528571a47474b9a094d9ee645f120552561391ac96e160326ac56616e65d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_broken_item.png"
-hash = "4534465e8a9dda9092eec9ad24db1b68c7051f2bf27a9c75fbeb7d1c12167d43"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_broken_item.properties"
-hash = "554b95fbb8faebba37ac6257037d117aafb526c24cd86d8ed80209f7f0526fa9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_item.png"
-hash = "fddeff4f699986738a54518a833e570cf044c13588e26b4a0902828445dd8743"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_item.properties"
-hash = "a0d4cb1160f8d67aabc8daabde5bab8457677bf61f113d6f32df92bb695d1bc5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite.png"
-hash = "3e1ba85f955a5472eed4d94b98275fdb4ec970388d039f957cef8442b860c895"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite.properties"
-hash = "85e7ae2571688ae9c46f1bf5269e5e8cf3560f19a70595156eeca616693ff6bd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_broken_item.png"
-hash = "f3d2da9677caa288feed69cab3b804554dee231292954f51ebbf1e2ed7ad5eee"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_broken_item.properties"
-hash = "c89e47d93c208943cb8da479c7c42adac35b2f714d1f7f10c8441bd994ddcffc"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_item.png"
-hash = "b6d63fe74f7bae114dbdd1c2bbcdeb2f319c8821d03123dd73cca051b3e7ef19"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_item.properties"
-hash = "d25494e6056dc29b7e32ee66333277cb38ee607f67e94440cec5eedeca2801dd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/elytra.png"
-hash = "0b9d670340bb615d2ea2bbef5f0412c6b4670db8209f72aca761cfa3be2d738b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/shield_base.png"
-hash = "d3e83aceba5de7b7efbd0ed23a6dcc7f339c037b2115592145d79a08d391855e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/shield_base_nopattern.png"
-hash = "1e432419c28466ba7bbbc5398207d63757c4434b6468ad82ef775d6e31fa6a0b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/trident.png"
-hash = "f296841a581b0ce92a96b3df7f7ef9eab4f85ec9a6d6f153eb504773711c5a56"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/environment/rain.png"
-hash = "97b6294fece80bc40523cd525ed9b1edb256c1876e0ca5839872394a44a73b77"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/broken_elytra.png"
-hash = "e0b2ee74b6face60abd3118a5f3497b806528a82f23b6a05b46f10635c4e7318"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/carrot_on_a_stick.png"
-hash = "a61b12b114bef1110f0c7a8a8bb3ae8d6908e66d64bf73b933c0e6b8ed46bcda"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_boots.png"
-hash = "2821c1fc5355dba6113b3c05a3628652643060d9f7205b2c1538d56755bb4379"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_chestplate.png"
-hash = "708fc6a9c054548a3d16a0523bb519e45d15b5496cff3089a7f40fe6a3c36015"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_helmet.png"
-hash = "12d2913f1820ebf2e7bf2c96ae0d0eca4c01894c9c93f5584667583c1a03de1a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_leggings.png"
-hash = "e5296aa418c781db16ea71ceda63c59e399ec01e95d7b8e379823181fbcde0fb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_00.png"
-hash = "4a7ed0ffeed443e5680646e3d199b4917d0e713d08527f0935b85b17ecb45e5a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_01.png"
-hash = "4eac6fa91fdc35669b2f7197700ce393fc87cda106cec2707445cdf6ad231032"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_02.png"
-hash = "4ef661bc6912ff915469554331d965c216d7b144151a29743b300a5dce5c23a0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_03.png"
-hash = "62ccaa93d2886ea57e955232eb378025829e71e7504d6d41d0d58ee384667e1e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_04.png"
-hash = "654f229410c6d7d8aa525b4238c88429acbd84ce98ed2909b89fa5906b269701"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_05.png"
-hash = "039236a7438099395ac26b80a789420c5557672d6ee9b4cd28e4426b44c6527a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_06.png"
-hash = "f26a3c84432f578a604eee2a1d77fe061bfa302be4ae203ea8ed13b0fe5c3a3f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_07.png"
-hash = "b9afff95f70d259d0bb7eccbc4d523d0582cfdbb045c5c1131bafdc05d1bdd70"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_08.png"
-hash = "30ddcebaee25f8656dd9522b2852a411c444177c3768c9bf01f2409fd7766c7d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_09.png"
-hash = "db3dcc4066fcdc11149f633cdcb7f01e37c1ae8d244fdf817d74ce8f277e07fe"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_10.png"
-hash = "a895536bd4885a36bd6662ea9419579ad585bbc93901cf2c8603afa6a993d6fd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_11.png"
-hash = "cb9cde0c086c7b1e845e6289464041a89caa7306fa63736130f992af81d99a1b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_12.png"
-hash = "862ed3fc9f4af19a24619da95e912d5360c4de0af37b8a8b5ebc4989f68efd04"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_13.png"
-hash = "4fd7bffa00e1125b144f4ba9db8a1fa19d24e0d330729e217c1194dfcf1c6264"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_14.png"
-hash = "825762a8a0154afe69b8741bc3bfc8f13e779d743e23798298abd44ed2c9bff8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_15.png"
-hash = "33c5edfd6989ba3456de5dbdb728b0b94f3220cd6ad9a60f2378d1c821b9dd8f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_16.png"
-hash = "a494f87293feb75bad87ad44bb87f9cfee574d70e6f42793d886c1c1f76a1243"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_17.png"
-hash = "3ad6a2b4a7de02e26e3b9cde1c5a5e17f44048d1eaa7b04f548d982d99487544"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_18.png"
-hash = "4e4a156579c8c92322f31763af391847a0ea8b2ecd591cc2796419c98bc4bf27"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_19.png"
-hash = "f8f793be51b473aece64cc4717ef317df1471795403e5e5fd960d52d5c9e7c1c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_20.png"
-hash = "38fdb38f6eb32e4086ef1a76386f7c432cdc4feb56c1502bf67c3f91a12f725c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_21.png"
-hash = "593255b6ba4be908f8f0ef4f0afcd25c9eb5a08a6d9e239a2d8eb4e678511843"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_22.png"
-hash = "57f394e612e9e0fa9437148de0110d1e0b5a5bef1acbaeb0e353fedee8f92ad2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_23.png"
-hash = "3a997988eaa6916d504d6de797c179b91b94de1a96abdb3f5d12826ed04e5ac0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_24.png"
-hash = "51f62958590dd57e5f6a8a3e50a1e8117d9daf572bfbb6687656be2be1570f1a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_25.png"
-hash = "ba81542637bd1a5ac9c7beabf92f27bb7753d6a5f15694e8501c8267f1c6dc10"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_26.png"
-hash = "a6fa2b210b71c73f8ec710877603e44319f19ba43a1f563a08ccb5f9a07a0e76"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_27.png"
-hash = "2b7e3b923bad3ab7fe8e6939ddbef894d9f00ce584b58088ce125e82b2d8dc5f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_28.png"
-hash = "a7ccb0f547b6213a1a450c0721786c10fe729193fffc35c2ed3805d21ce21e76"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_29.png"
-hash = "1498a64b0ac4500767b49a7eefabdb24021e3bfcd61004f476eda5b912827977"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_30.png"
-hash = "36cb19521abc44991de059401a4b3cfd2ef7ba97b8e4cc4be0900a18df43b819"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_31.png"
-hash = "7239ead1b499bd3394c951d9defb5b2f5dfc7a2fbd62d1ece942387a545abc12"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_axe.png"
-hash = "44b68e158c3ebfc005689d5b01e9c82acf6d9981f956f39a590f5bae4b9bb8c9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_axe_1.png"
-hash = "ec3690f6da0125aa63810389144c727467bbc393fc3e33b232aab33e781a5067"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_boots.png"
-hash = "10004e01a7f1d4fe36970e6f9427f3b0f12915db052e9ed9e817e393fa0dc7b8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_chestplate.png"
-hash = "b2332180a6102b2840cd5de209ae9a72b0e55715a417c36246123339b074aba5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_cutlass.png"
-hash = "70dc4c889247775c708e62147e130377785e0797d54da3e3029c06dd179b02f8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_cutlass_1.png"
-hash = "2b9fe7709c9cf2da73cf8565944624b275a0149845b89c29fe46e5a8d933c73b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_helmet.png"
-hash = "c9714922a69599e2fa5fb97dcfe0154a824a577c798b04f59357dca1deb68b43"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_hoe.png"
-hash = "fa220a5cd9da27d092953ebe8a86fd3fb6846928cfb426522f76821686ab0407"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_hoe_1.png"
-hash = "fca36cf498b5a734f3a38ff6fd93cc92d4099b5573884ccb826e9ad3a7261bde"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_leggings.png"
-hash = "cc6f580b8109c458f28ddd45a280c07f9afba0cd44955e8a9ffbe1db01f9358e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_pickaxe.png"
-hash = "27230acddd483bf32de8e203d7d46ef5857fd2e252f2a4563df670d70d264f2b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_pickaxe_1.png"
-hash = "98928b12a5b292075f64eda9775e7f018d03daf1e262b7e2f11544896d136885"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_shovel.png"
-hash = "7200784465057ff3092eeabe164a1dbb9548eac713012579d33f9dd33bb15e77"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_shovel_1.png"
-hash = "b44fc8a93db05c66075a6ad6245f26c7a440c78b97fc96cfe45dbad143c2e2b7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/elytra.png"
-hash = "9b3950e70cb3005069de2578e3490dbf77d40376068abff2cbc4d3130e383bb0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/filled_map.png"
-hash = "f810d18293df8a57b2830725d6bd8c7d4a6ced7ce50ad93640085d551f388037"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/filled_map_markings.png"
-hash = "e943279909a624096441866cac04320aaf7dcc4dc68a14546392c679e06d60b1"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/fishing_rod.png"
-hash = "3ebecb6c059299c3ae8dcdf0f9862e6a05416da318d428a01bf23ab9c7e7e343"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/fishing_rod_cast.png"
-hash = "55473b19771c6dbf2e4c3b27c0a6c98a36e45265f8267480523735558f2a27bb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint.png"
-hash = "04d63c640de1b14080fc70f82a764a228bee40d0478116050211c64dc60c97c8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint_and_steel.png"
-hash = "819d36eedd3eef7d5f41704bfbd622e6e9287696ef4f5fdd9d9b37b1c0e4e5a3"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint_and_steel_1.png"
-hash = "6097426fef298487a3afcd7bbc15f8ffe3a1e108ff50f35b90cad9c43cebc762"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flintlock_musket.png"
-hash = "675e1c8d257202d27a125370a994482f951caefcd91e32db9030ea459a842542"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flintlock_pistol.png"
-hash = "95e66580830b038b811eccd1451638207e5b836a2a5e146037c4223497a2f338"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_axe.png"
-hash = "64c256dc1c18534ae14b81513366d800c0cbe8b9d395cb5ea1812a583740b43a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_axe_1.png"
-hash = "c6ffe49b360404b7fbcfdf80ea8f884851fafde27c883ba85f2d81243baab079"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_boots.png"
-hash = "1c3da5723b01d21e5f3313d5e97ab5d18ee95395780115def0cc569d84d36ade"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_chestplate.png"
-hash = "beaa8aba59bdb01b4f0cf2646700894ef1c970ad19f05b9293a0d6dd9af62fff"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_cutlass.png"
-hash = "d7f3813a024c9a58a5c52a35ce7d99da294db89ed1a8e1817a3de6ea47ac7e32"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_cutlass_1.png"
-hash = "75b43b7c642987164a8037c557a8ae040713ffc9d277b80ba7ae2504d5c6d952"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_helmet.png"
-hash = "a38ef0bfae149d684794c6ac5656d2d973dae063d89fbca2592b9bf5ab1eb0a4"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_hoe.png"
-hash = "1e8ef0cbf4b2a842a32852699e9ce4e99d6fb827d31f8ec4cd1197468803b853"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_hoe_1.png"
-hash = "3ab9dfcdc3757b3cfbc33cb5d9d504ae437867023bf345be9e3350ea711eb0bd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_leggings.png"
-hash = "895f67d0c4b7430d48ad7d755606db7a42cf040b7b07811246929f4f63aac717"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_pickaxe.png"
-hash = "dc7b78821cd439dff85e2f9e0c65436ddca50283d44184bbe31b75d244dec430"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_pickaxe_1.png"
-hash = "7db4c71a4183e2a65e893e1bd5d6f05e17a964bd8f201a851bacef8ac5cc588b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_shovel.png"
-hash = "086fe1b40643271fcebc7598937deb47d152c98dd63912fd87e2e36881fb51e6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_shovel_1.png"
-hash = "1b76d736581085611578e550d822e9bcc1c58e2831319f90c89862cd182398a5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_axe.png"
-hash = "448d05597e2dd2dc1691d4bd23c209710b609c31e87f53dce904630895414726"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_axe_1.png"
-hash = "3be380534b63c6b1ccd05add22c6d9db2bac8ae933a7a36b6f335b4713e048ef"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_boots.png"
-hash = "164980120a7e6abda32cd677b8b328c9fdcd3f9adfa82f5a66877296c88ecb18"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_chestplate.png"
-hash = "c80f65a7bf7d3471a3292deec5872ff1a8a8aa35567859be05d6c7f6ea19efd3"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_cutlass.png"
-hash = "fc83de01a8a7ee988c0cdc7e3a17fd9d3309aceffe6225fcfa88738f268784f9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_cutlass_1.png"
-hash = "8c5fa980acedd7842dd322935eb05ecd7a07ed9140e7ee5c433d01b93e98729d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_helmet.png"
-hash = "7e923543a2431003bcdc644218b3ea32b2f2a01ea709bb8b85cc8b6b502b9a9e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_hoe.png"
-hash = "419d03420fe7e54fbb3ddd24aa0cdfd895a1a99b75a60e04838c9449ee5c3da2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_hoe_1.png"
-hash = "182d053215adb72545ad40b233c8acb86ab5637881e528a43f80c15a19d892bd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_leggings.png"
-hash = "420673da9d8cf6c86b240363339c9be1922d541bac8386de82354416fd3c1786"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_pickaxe.png"
-hash = "9565aba9e9d37b7be02dc7b6ce4d762ed16bcf3ac255d4ac60caee128a88b407"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_pickaxe_1.png"
-hash = "efdfcaa049f4da727f665decbea2b1fc09478d3ebd3457f53526100391aec6f9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_shovel.png"
-hash = "2034a9ecf54066bc18031d664e0502338dc8ee00431fdaa6db7030d6a7e55e59"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_shovel_1.png"
-hash = "a9bf8cc59bc0aa3f5fbfa2fb92d856b9a47e42b63ffdb37346ee56d32a5e4021"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_boots.png"
-hash = "e4f0792d076167b9ffa69372f421990b1aba8e52fdaba06c465d5bf662cf3610"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_boots_overlay.png"
-hash = "e075ba32d8f2935b5e7a00258b8eb1c4aa4c24cb54dedc98ad26410b0eda9cbf"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_chestplate.png"
-hash = "fb86fe3e5304d820dc3165b73adbf479d2053367740637b066bc1251bb7dfe69"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_chestplate_overlay.png"
-hash = "019a13e462694c3d7298fbc4c5eb264297421701134057594f5385b586ec5784"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_helmet.png"
-hash = "5929b5416c52c79c67186d9db3739d4175a47dde83590c0faca5b4bb208f8302"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_helmet_overlay.png"
-hash = "ce0ca0759d6760ca8f25d517ba192d971d8d47ecc3a46fa60e4dc7870a86c811"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_leggings.png"
-hash = "217471c3edce24f74885c4a363b8c2c7bb5300c5e2d0487c29df0d4b1bbaeeb8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_leggings_overlay.png"
-hash = "3bb6ae8c437a329748c59f6e46e43a7ec2b423302b3199fc20977e84a92cb879"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/map.png"
-hash = "9e9732901157fc3e5827b9e48cd3ca34d5d088bd37dd3d596caeccd2d6674a99"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_axe.png"
-hash = "ff664f6a9dd25672208e7fd63281d3f5de4feec03ceede739b3f15008c5f676d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_axe_1.png"
-hash = "c87e4d1c4a7099a6d9a9b3ff2e33fc025ce4d8e489742a439cb66c02034e1939"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_boots.png"
-hash = "09481c70214a8e0e330494eff7e0a56b58d6cf93c3992e230a691e47355a78ab"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_chestplate.png"
-hash = "4c0bf6db53a39bc63cb2b5252b88a58788cdf697d6efd8c1c50f345344f610f0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_cutlass.png"
-hash = "4c2c6c7e92a1bdcb0612301a2f9e4de273614e0e1089144d36fb355e8df46fce"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_cutlass_1.png"
-hash = "be17f7a4d1b1ae40606fb2242e267eb5bbe91fb4d25fc1d7c6f9895e5a34c8ed"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_helmet.png"
-hash = "c14ebd467b4a5f2bc336658f096edf6f7c94d5671db0ff539adc74cf979cb745"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_hoe.png"
-hash = "92771c4d67ae9e87fe7dff5c2328eb5220c70e5e9f430d90bfa8229fc461a187"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_hoe_1.png"
-hash = "7167cd5cab145f25cbbc51aa84f949e00f9ac00368e26c1592f98ca1b50e415c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_leggings.png"
-hash = "b51f22d7f4bb0b1b1b5321d1d03b159564ac176112c4b22551b8468b2b548d02"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_pickaxe.png"
-hash = "4e446c82c6708ee5b94cc9d05d0fbbdbd54f93d14d99e6aba65181ae99a5870b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_pickaxe_1.png"
-hash = "831e07c4fbcd470101eb91f51c961a6078931777ed33189000b41f4f5dfd0c32"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_shovel.png"
-hash = "c3ab690e708b7fd13cb6a0bd92754db628865bf208cbe0745c0eb3d8ea15baed"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_shovel_1.png"
-hash = "9b422d0cb942fa431c4b1d2487a94cf68f57d76fbd9e034cb82ec8eb28a9c9e2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/shears.png"
-hash = "a2a71230bc78fc3c5af85c28a41040dc11db821b0594a998131d1f24d003d8a6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/shears_1.png"
-hash = "90c346f479e43d58c25f35131267d62552f6bedb18b8d94f11e12715406409e5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_axe.png"
-hash = "57830eccdc7f51063c2988a4a43cdeb16b5c693fa9584ea774454179ab363dfe"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_axe_1.png"
-hash = "c13e29ed6cf5f7401cb60a8e1136615041d47aeaba73f03f1232ee5164f48ddf"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_hoe.png"
-hash = "a5cdefca2e784c41fcc730539c67e2563d8ff9c5ab0869d82bb8935eae15b78a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_hoe_1.png"
-hash = "d8ed41c83f2469a1a9922db2096eca0af9534de161840b4fe31323ee0a46d670"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_pickaxe.png"
-hash = "473587cf3d6a9740e7905dbb58a4f2fc9c853a1e8539fda63c24bc7fd43d2076"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_pickaxe_1.png"
-hash = "3465ca3bb3c20b61bcc2b2aeb25c44cc3a28b9e956471b6ed5e33f5da2920ba9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_shovel.png"
-hash = "1cda075f011e38c0f61e9255e56544310060b4f62798c6bd95525c1af44ff444"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_shovel_1.png"
-hash = "d9c1ecd649f7ea5ed1c2171eb60d191f2fad1a4c1f600ee81b03bcee45416646"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/totem_of_undying.png"
-hash = "e5f7e6e754c1baa947324c6d64a543cbdd40760f38348eea903b1b1e5813acc2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/trident.png"
-hash = "2cd347ae00869c07c0e4e556d6ece59ee6a72172474a8324bb8d002da27b5200"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/turtle_helmet.png"
-hash = "272e7f3e0c177cd30388b1ee2de4b59df7ac17c6b7118eee787ed27163d48874"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/warped_fungus_on_a_stick.png"
-hash = "424e59d8a634fd9350b5151ebf0041cbbb8a0ed8c1fccfc86a654fff6c435642"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_axe.png"
-hash = "acbbe3f59bbfbf02d4dc955027afd2f71a673fe3e40f29a62273e3ea4bc3980f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_axe_1.png"
-hash = "42fb951d0a2b64fcc27852bf881992294c136d284dd60e69e296b53860741476"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_hoe.png"
-hash = "37639cc0824369068c1f4b9fbb0b4eb827034fd9bf47da1f285c2825d3361d81"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_hoe_1.png"
-hash = "7443c108020046903693d9b13e84854647a21da98f43410460c2125349de2750"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_pickaxe.png"
-hash = "0a4524f227c7609e781cf41e49b97059769925446872505f43d896fe9a2763d0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_pickaxe_1.png"
-hash = "7ab68b815f20d9310ac72ca9ca0f8d715b3b1e312c0e4886c82394f9d7b4410c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_shovel.png"
-hash = "44d1bbcaaad34023fe5b3e4273a8b49008abe722cc786370766caa7f522b8e97"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_shovel_1.png"
-hash = "8cc854a97237949ba4e21a5df9116e10f197b191a133a4562c061b6c4812e031"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_background.png"
-hash = "d4b449f8ef82af7f708cea5be8881a6c3f11ca90975363a0465a1cdd3db47c43"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_background_checkerboard.png"
-hash = "205c1b2c3f1d1fe4f3be6703650cb1c1039cda9830d274af51ccff059a1276b9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_icons.png"
-hash = "d95b9704916779c7e1353812728d85eec0f188c0b0e37dde937b6079ef9e9a50"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_glint_entity.png"
-hash = "328c6b688fb790154ca78c267079abb993449478a8c56e1c3fc00488fae57cff"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_glint_item.png"
-hash = "e786c39b315aa282b186f5514c49a7fb2a8847b3a06de7b40041c0eea58d3a6d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_item_glint.png.mcmeta"
-hash = "906e1e8734d7e6b3d69de0ae106c62067ccd574e13f6648f9c0c6a8dd1e9ce59"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/spyglass_scope.png"
-hash = "7214693a37906a24f939c306fa8ba5956cde03db06d2fd126e187762a7563d3e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/chainmail_layer_1.png"
-hash = "69984a320065275ab535d0ee66d11380b51228de425ffa6259bb1153e1fe6e3e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/chainmail_layer_2.png"
-hash = "b1429b9f995bd230e74946775e4590df0666c048a37f7a5f0c3c23394df39681"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/diamond_layer_1.png"
-hash = "f483766fb368a975be254f2b19c0fa507807752282f2b0f9d5b52e081aae6ac5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/diamond_layer_2.png"
-hash = "e27537024d66b652cb710f6d3a7f41e045c65ca52afc6ea93bf7d349a61c3c96"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/gold_layer_1.png"
-hash = "37e1c1c491e17ce8d8b4c18d8aeaf45d27b8e62b12e46aced70e10c87bfaeccd"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/gold_layer_2.png"
-hash = "ac80068d7868cdc14e43c9372da20c77274c8a0c28ed6aaf0e7a94f8c89cbb85"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/iron_layer_1.png"
-hash = "8e0a15f385e1d22c701052a6c7ad67627327d3a00a1238fe0cc4225f77b1ded0"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/iron_layer_2.png"
-hash = "c80a7bc25becb887fbf7de16d6af184e3be83bca032a84b2405032e35e4dc75e"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_1.png"
-hash = "62ca9dedf0bc8215a0a1ed73eb12db67e0202d1b735f7f04acf4f62903e45816"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
-hash = "80315ea0d08da45893466d674e3622c689ae831dc2d1b4b0679e3f2b4be3efa6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_2.png"
-hash = "1b85ad5413b8451554a863b5f711e134c2b489e4014bb0bd2ca06fdaec406035"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
-hash = "8602816040b54a0122881ac34fcaa2c25539af06ed127d3b20bade76db883918"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/netherite_layer_1.png"
-hash = "cfd0be80234d24888dcab8d0d57290d0e50b17190cfdddd7872fc5a40d37d9e4"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/netherite_layer_2.png"
-hash = "e9c458f769dadbd80f0403be448a6d7ad52b85ebfd3b18dd63913f2a074e6230"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/turtle_layer_1.png"
-hash = "aab9d9c3ac47d9328641690f2521aba788e5bcc8c409dd06b66cee825178f2d6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/amethyst.png"
-hash = "46df0bab157b306f766a48b021bfe3f1a894cd53e7752f4b2a97e4ffa40c6cdb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/copper.png"
-hash = "971029fc7c80932ed042a4838f2a9f946bf0771756ed27c7089547448c2247eb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/diamond.png"
-hash = "b78d8cd496d7dfa5668ea22925e9c659c965ac3cbaaf075f898ee4c28ea73c4c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/diamond_darker.png"
-hash = "3ede0d6c2ca5c8b4088fd7458dc678a3f2b5f7eb9f7b8283250b33b9a088b82c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/emerald.png"
-hash = "89ae10aa95098fdabbb532a45d047ded9e6582acf3f47c3f6bc594231a4ede84"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/gold.png"
-hash = "525500f30d992e3908f8032cab19cba967da329faeba3168977cbdbf2073ee4d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/gold_darker.png"
-hash = "1d90768db62161507622377d2c792ded7cdb6a823d2fc3b49808ab2dfdf7f4b6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/iron.png"
-hash = "81d1b974c5d7390f88af112b5e8fdb5aefcdc9be725d225af3e174f150608c25"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/iron_darker.png"
-hash = "c8761fc393dbbeea7d53c50deb475fd6e97f1f2e50f4ed5f1a7c10dda13e31c8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/lapis.png"
-hash = "fca27356cf6961ed617367bd75322e6f24bced732afe72d8c8d12555ffd27f62"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/netherite.png"
-hash = "3435bf47cb09ccee3708874826010f84eeb7fc38805e2b3c7473f0d19d51cbe6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/netherite_darker.png"
-hash = "9b4a5590b7bb6225584263e953b1093e24e09599b3dae6fe2f851d1173e3f69f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/quartz.png"
-hash = "b8f8b37b818b00fc2dc2f411e172a4ad04b4f0dc758e3d03e2e4417e6bfd099b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/redstone.png"
-hash = "64988f733d7060e993d1ca01cc69e65241d9e7b8b0fd6e55baa25f6540366dee"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/trim_palette.png"
-hash = "906c8f2514cec22957f85d69e6042645eaa68144d8433b3501bf0b7aa80ad0aa"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/boots_trim.png"
-hash = "c5d073b94847e4e9bb95f2f9ddca84aa18f8e9bea1371cb712fb0b3df0366412"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/chestplate_trim.png"
-hash = "58f3514cc59c1b627b947c64e166c39a531041592e1acef3d8191aa92d612d93"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/helmet_trim.png"
-hash = "2cc31fbfb771827a8fcf372a48fd567afbea2e7350e43e883f7867c33aeddfa9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/leggings_trim.png"
-hash = "1953a2fd37c8c5e108ea7fb3a937d603e059f8c3bc9fa38ab3168eca927c40ed"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/coast.png"
-hash = "91637e83c89a98d69098bad88a8bdef8c42813b75d7ac7d3b29addd5ff100620"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/coast_leggings.png"
-hash = "dfbcac6076af605cfd1c650a5fb8d62ae895445e29880d202be0905bb3decbbb"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/dune.png"
-hash = "9f5ebc1cc82fc02d37e95a7440911265780a7345d33adeb3d90d032704f48ec3"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/dune_leggings.png"
-hash = "96bed5a3e9eb4e884c334f0b641f1d4957624b98eea8ec702f21986da4560830"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/eye.png"
-hash = "cdf72390d9e47621aed1c4af6f9c26564134399534d6a9778eb441ad5df201f9"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/eye_leggings.png"
-hash = "eb4749ecc29889d79774ef3564253212914d2dc0df4a4648a6a183737bc86a1f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/host.png"
-hash = "2639640fa781a4e2fe0f3d2210cf079e0eb1b3a117b35ef28fd15ac1e7716910"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/host_leggings.png"
-hash = "8236e4be00f7ea8ff235508d7219f4572dc71b6f66aff924e97dc50f6b57d5d7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/raiser.png"
-hash = "88f6fd7e0eb3fb84f26cb16e04bfb42c9f19dadf71e9a7a4338c8def6db12244"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/raiser_leggings.png"
-hash = "7ed59d362989e1fc52d34712c483169e416de9fc250b23af14e9edb8b4e5e62b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/rib.png"
-hash = "06dea12e62c63319a9feef7d5147044f38d3106682d6e55607cfafb76430d620"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/rib_leggings.png"
-hash = "83e5969ef3fa175bfd1e7da25e2dc085aaea15cce1b9ed095d3a7643812603c8"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/sentry.png"
-hash = "612d55773bc82e2235b0fef74dac401aca51db3e03e8ddd8ff9a583b1cdac055"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/sentry_leggings.png"
-hash = "30970144b9b6a80228608625165e09b3b21e36cbe2f3063bb6f68bc7e01ccb2b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/shaper.png"
-hash = "3359ccb669f463c13205aeabe84369532a1404db70d55eccf1140ff35c4753e6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/shaper_leggings.png"
-hash = "456f19c4e02b93998aa2b1d6ba16ff6c8d721af65a1d9b60a60b26a720c8d203"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/silence.png"
-hash = "4379635134c43eaa5930fa932296519519150b2bc6b281eb064118d0babfb5f2"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/silence_leggings.png"
-hash = "a6f6624dacca0b4b4aab536fe1fd860304b86c79f00c6c28fc7df59548dcf200"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/snout.png"
-hash = "72e3bed286353452f5cca44b096cca0bd04ab6e9cd6503409d4f04cda28715b4"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/snout_leggings.png"
-hash = "cf083550e383bdf6ba9facc614da641f2b71566d7e60681fafde63eda7b3a451"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/spire.png"
-hash = "84cfb696aab826b5bb6de7027b57a8992d2ad94c087e4be875759a1b6dd46f2f"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/spire_leggings.png"
-hash = "22c4cf873aa7e1e1dabf60876936f0d39b7f7141b3a3d6500410feae7cfcc3b6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/tide.png"
-hash = "814958bc64648b246059b1539de3c2320fd5ac661a5562ec2a64a51f10a7ea2a"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/tide_leggings.png"
-hash = "8bf0535dc8e66b8563b29a2234ff49843fca290604ac015c117bb7c88d4402a5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/vex.png"
-hash = "41b5488942d8600a97633a6280ffbc394b7f7d6358a70edc65574b59b985aadf"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/vex_leggings.png"
-hash = "564bac3e5b2fcba6eca95c663dc5ef54ed4da13e927ba9e73b781cecc607195b"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/ward.png"
-hash = "a8054e80e5d383cbae0b2483388abfb608926375d82b8a6aaaac8647548f60b7"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/ward_leggings.png"
-hash = "64e6c6be32a3c8f40a2e68d21cd0a9e8d19da1c1d98d5817e7f826a1e820113c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wayfinder.png"
-hash = "1ed49de5cf0487e078773f0b315c9f2217c3424b6aff237a5bf812230d97ae60"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wayfinder_leggings.png"
-hash = "33a975365ac2c6c290eb794791751430a74c007110d9cd01978fffba2318cd3d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wild.png"
-hash = "5cdc1eb01b7fd090fe034622376f4e3d5db4d5f80e69a8955580a6f618b90d11"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wild_leggings.png"
-hash = "5959332f9770f3a0701aa91762cce8dcba7a0c6263806c44ad7962f14435952d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/diamond_cutlass.json"
-hash = "f4a70dab9b0e236fa6bfd0a9b9f14d822b935868783e484e7da3f6caa6c0ecc5"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/diamond_cutlass_1.json"
-hash = "e4c5a52cd8a7dba5e9d3a8b284b41b02b94ba6bad08df94003f2f59feb243222"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/golden_cutlass.json"
-hash = "04cdeff4d6aa15c07a3742108ea1def3ab7d352ae3bfa823a82d732bb858ce2c"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/golden_cutlass_1.json"
-hash = "b4fae50416a097082c9f47af7d7bd3f1dca3d89e71e632ca7b63d9e91c1b273d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/iron_cutlass.json"
-hash = "930d29aee5ce7692c2df84e766222682641255b59910ce18be9aacd920021b89"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/iron_cutlass_1.json"
-hash = "9135c6b3e1ce846bdc8da23fbc63ef90b53af2bea4921282450e36fb982e327d"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/netherite_cutlass.json"
-hash = "1e3e190c06273569bd4b75c19021b8bc3212b9d8300acae2cb1222bd456df0d6"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/netherite_cutlass_1.json"
-hash = "f96b29726968e02ccb460cdc6f7a2dac1a24fd93acb86ebb5636212b43f72b24"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/pack.mcmeta"
-hash = "42ed59dca9e98b1300945eb4d9f7937d6fc2cb81dc0a9a52e11e167a8c5dd736"
-
-[[files]]
-file = "config/paxi/Grimdark-Pirate-v1-4-15/pack.png"
-hash = "49a1aea18664b254003b8d83149d97292bd83dd0ab7f24e9fbc2f9c1599ba3d7"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "a15b886b0e97866dbdbc931515ef005e435a556c154189ea285424383ea83cf6"
 
@@ -3488,6 +2128,1366 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/CTM-Overhaul-V_5.0.zip"
 hash = "7997c352411bcdd04a9d89317ecc115832ef85f93d38530d24d79f22eba1d76a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/lang/en_us.json"
+hash = "5036b74e4c95dcc6afcf0c7e9a4ad53d0e79abf24f9addf17ccc9e6f9c0f92b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/carrot_on_a_stick.json"
+hash = "448e9e1bc12e1886922cc569f7c06d56f4e3de66576db483175ac0623b1bf313"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_00.json"
+hash = "75badc664d9e289a8db0905320faf6343c1d0a4e960d981ac51eb256e481b724"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_01.json"
+hash = "f237eaec0f04a4c355c63b10dca1687be761e7bd368302fcbf768fd7e2191d05"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_02.json"
+hash = "645443c2b5092b4f1b2f08225c72f563b5031d951d5b8e7f749078dbd5a80084"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_03.json"
+hash = "c73a61df3eb2eef235dd2184a1a08bcf9f8b4d99bec47770039268cb3572073c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_04.json"
+hash = "a0d88c9ac99ad4978ede77d86569b237b82f44024647dc328f8d7293496d2662"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_05.json"
+hash = "b961d5215e64ed97fa15e292eacebc02ff5275596f5415f7841e2f956efcd841"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_06.json"
+hash = "c0afdb49fc8dd369f9810e19f36bc8aba7760cb2bfc4fbc3d403ed610f74430a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_07.json"
+hash = "0f454ef9608f5d14c37dee108a6e2fe9a643e68c1e1809af81c96426a4c55300"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_08.json"
+hash = "ffe0fc946391df910e3ba0860b1cbe67d260b81179125d37b3d7be50dd9df682"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_09.json"
+hash = "a45f25654646ca32eb24ef9629383d460ed020285bb936e5474fa29764a0e773"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_10.json"
+hash = "b5ef8f541270acfe6312b5c45a3374438df9ef4ec5ac4d71cd21a36e720e538c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_11.json"
+hash = "4aa9836bfc4456abcee98efcf5143e6ebc35c3cdcba0b1ee4d327fae3dbcaf73"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_12.json"
+hash = "66377186b32e6fe8b6dd7e4d20791b3f7cc26015412c7def924adf338169bbfc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_13.json"
+hash = "e6e5f83285b07827d2c9490f4ef6c5951ae128feeaba8a4ed503dfaec615d76d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_14.json"
+hash = "0bd427aad24f3a29a92a77799927d343d964619d840d5138beb09d04b5344c71"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_15.json"
+hash = "92770c8f174c9b7445eb1e181b1f68eb8fe89d09600bb642468b53800afe5ee8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_17.json"
+hash = "331e73cc42f6b0be062cf8061f43a233f405a36b87020bde44c39093bc7f2ed2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_18.json"
+hash = "b7e6350dc152fd61121eaa0aaa991205000170a92b59b554cb9a2202edf10632"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_19.json"
+hash = "0e70cf30de6e0600c0c809766bdabe1def3147a32b0ce201154d0134ebfa29c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_20.json"
+hash = "eb12f6dc11c306139fb818adaa2f8400a3304b8e7a4e2dcaf8d03a73135e4294"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_21.json"
+hash = "1ddd7797b02bee416fa1a008ec7d0dbcc896032a393b21d15c4aa63526857c68"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_22.json"
+hash = "60a4b0cbfe2cb243d15a8c2a291e3ffda85a5aff30fbb00fe26b6acdf4320a74"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_23.json"
+hash = "44da71b07f8398db90460896be47d1a3611a6dcda9e352a1244212835689f31d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_24.json"
+hash = "1185966f5b6d2b8596a9e24c6bed022fa582cbf18af2c8fecd410bc14aa6eaca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_25.json"
+hash = "65c5b2ea9598532495fb5a9295562e3db5326395c79960758fe865245a18edc2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_26.json"
+hash = "a0a7c2f47c406a0d475cbb551336d3b19eed9b0fb98185edf050388f42d229be"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_27.json"
+hash = "7bbb7bf1a009b0448f3b0e95da1b644c1f5f12f4c17fbc4f1c8e74e020111b49"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_28.json"
+hash = "27a5dad7e7a973bec1e7d14da6dd782701fdad49522da4ce5bf62afdb46a2088"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_29.json"
+hash = "c3aa8fd6cb42779e5b940c77d26a0e8f11e82ebccaa9a3b7e07ada3e23a21a29"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_30.json"
+hash = "76e8037d8fb9c37bb7984737bdb2d4e8f5462c94e705f9212a9c1d5b40ea2961"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/compass_31.json"
+hash = "22ccc328b9cd82969b2d53f8a1645d2b3abe7f29916d70eeb3984df8746dcf0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_axe.json"
+hash = "cf215e8888eb7ef1d6c6c3055f2098826424ef5e435511e1e75464b3c0ba1d42"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_axe_1.json"
+hash = "2acb9a79f81f2c9a56af536717619cfd99af1d7ea84bfff0a546acd316353c45"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_hoe.json"
+hash = "2cebf4dccb007b5a27e011e31f9bc1da3030d9fe06839b1509a7f626d316a145"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_hoe_1.json"
+hash = "defbdc22acbd84c1648a2af418a991c1b7d73be23e2b8b93a05cc16e9d6a9f41"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_pickaxe.json"
+hash = "dc26d0d4c0c6b17a2fe8f4d1058cf13e9307fc0cdf5b5a003e4acdf6927b01c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_pickaxe_1.json"
+hash = "3efec4d5a48f1a37d6a2e63ae1ff92c7067199443d6149da471450d302c76fbd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_shovel.json"
+hash = "899c120a9f367743ba72cfd02a10c9c0644565c9e1a8c8ffcfcc66629b552525"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/diamond_shovel_1.json"
+hash = "83baa2ff4aef569055e0925a13db65ddb7d698aeefdf5f92c65cc7591d190763"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/fishing_rod.json"
+hash = "17530ffed7f2c877a384c92f0fe5f3ac83ff38115422b0e7a4c40f63c6fa3bfb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/fishing_rod_cast.json"
+hash = "a1244e5f0f62fa2c2ad046ba63b4eac922b7ce6296704f9d266aa74c096b2eec"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_axe.json"
+hash = "f0ec709dbe6869086e519262165faee8d9cb78829f9c34050edefcd506fb3917"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_axe_1.json"
+hash = "c6c1037512e87b310cc1ad2fdf7ef05444e95d976e89aa9088384e36ec7c0c61"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_hoe.json"
+hash = "31fb2ff1441d18016f9fca931f62514cdf0306d0bee5141529910219fa5c040c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_hoe_1.json"
+hash = "5a8effd8f2937f6cf9038dcbc78b3facbf0fcbc37bc35bd9f1f4abf96c95a289"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_pickaxe.json"
+hash = "0cc87c1544a650d497caa57dd756e3cc00a7cf14aa73acc04bef070201a10992"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_pickaxe_1.json"
+hash = "0ed8e2a6c1cb5c131d1f172d979c06397cd397cdcc129e48ebde497d27ec1b49"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_shovel.json"
+hash = "1aa55e328205d5fcbfbdd87000f5c272ea4d13e295bde0b70b58d48114e05495"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/golden_shovel_1.json"
+hash = "779b843b814642a6e22314a3656bf42f7f5a4cc11ed2764afe6fb824ea0e81dc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/handheld_grimdark.json"
+hash = "515bd727efd33ed6a5af67a18ae10c2bc1606d4381e1160f1411d5dea964c426"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_axe.json"
+hash = "eaee2e4bcdbf3890711e7ab7f56a99a5481e29a3137ec579f6dcd27c0f60cb6c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_axe_1.json"
+hash = "e34dcda4a210bf5fd636a354b582865a77ce6fff557dc3c279c294122e6bb70f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_hoe.json"
+hash = "9a00e8f023978d0fdd8b0d7e4514d456777a84f9d65e84ed498123a58f942d9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_hoe_1.json"
+hash = "b2f61f562fb29cf73aef4e4f4c5fd3d938a33c677bbd45132997107ee2050f53"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_pickaxe.json"
+hash = "2d0da94587be73b4f81c9acf70b0b9bcff85888d03aa6326478c171771460ce8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_pickaxe_1.json"
+hash = "e5dd58aea00a8b4496147c96cc414f0135261b11859c537ad46fe0d60bcaf92b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_shovel.json"
+hash = "1b1254e2e90b7b77076f216c39c21f25c4cf47c9407c7883e5ebf331acd2bbe5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/iron_shovel_1.json"
+hash = "df300eca9d9ced92fb1e77f1365402ca5115ad00f10431d51caa4d23b0123ac1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_axe.json"
+hash = "5969250efe76e20197e23713dccbb6d48cab23d84b6c2a827cfe6c8d06c9e271"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_axe_1.json"
+hash = "628d258fc2e4eb79e174e0cf2a372d7e6a5e3aa46bfad99fd6d10229e16f13d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_hoe.json"
+hash = "1b6b27e3158a2103afaf5c194c6329d6d3b430cd36654c11fee20c3eaae299fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_hoe_1.json"
+hash = "4db427aeae7225037a8c35874ce691b9da2820f3c3a1b0b8ac60e53f3da3c6c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_pickaxe.json"
+hash = "c5b7929eb52973609c216942d03ce1b178721550fed93623359fe4d90f9f7f9f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_pickaxe_1.json"
+hash = "409b42a0685862a4ea5d1815dd4ad444887661856fd49cf009975cce69b530a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_shovel.json"
+hash = "0995c42f5cf698cd12908e5e6f1c2dcf203d17ff1a6c9b3c5873318491a334ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/netherite_shovel_1.json"
+hash = "abb567525042eae22116312ad16e6e31a3cfec89f262499244b4d99e59c30a82"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/shield.json"
+hash = "a45ad5d9307aeb5742df7a1e727f0289135d07db18748af37c718d937e810028"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/shield_blocking.json"
+hash = "c87cba943e383c47dfd088a1c4946595737e933af45a6f0ab41f3053eade3ba0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_axe.json"
+hash = "f77194bd844b94faab8c5742efcb69b82b03dec730cb94f7fa7069a4d8933643"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_axe_1.json"
+hash = "b16379f0c27e2e3fbe8d3d00815f6a5ae9af371a3aa81da4fdc6559ad8439a9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_hoe.json"
+hash = "47da7395e80dedb9315574d25e4466e9828f369f79db6eb54bcbe786be6900e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_hoe_1.json"
+hash = "eb64ac6519f070b2fe444023749bd2076b2bbcc1fb1b31650108962d7fecc97a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_pickaxe.json"
+hash = "750dc6c86371c5f6066f1954c838c629a596b3fce276d4c828c6cdcf2a456430"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_pickaxe_1.json"
+hash = "024a55725cd8325fc7117720835bb26a7296a3d4ed66b7da4ba7920f265dbfee"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_shovel.json"
+hash = "bc126fa2ec31b5de01d453cf1c2c139e61064c244f565b2184d6fac110d606a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/stone_shovel_1.json"
+hash = "9068ce11843c3e100ee7baac9c58e0e21f9eaa74c1624e3ad6522e0a34e671db"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/warped_fungus_on_a_stick.json"
+hash = "9790dd9b0e601ef35125cce0832a6fab2f114a8d80792e573c0178184cc7d438"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_axe.json"
+hash = "f2aef2beb2fa8ed4b5ac4e1bfe5172bb0de6c5e4199a11f82c8b483225e09efc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_axe_1.json"
+hash = "336e2ef43f9b3685ab438e6d9821cbbb4d493502403800a57c82afb1ac724f0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_hoe.json"
+hash = "db9d4ac650d21d30ef343a75821524d026c5951cc5a83abb03fa6099bab16483"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_hoe_1.json"
+hash = "e19f736dd1fe30c95fdd49f357b80c76d18cdbb920fa716272bc7eb8d4abe1ae"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_pickaxe.json"
+hash = "77be715c8676e34db31874e4d582f707b82a37053f2cb1219d9e053bd3c33efd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_pickaxe_1.json"
+hash = "40dff5debc4b687814b0fd6cd2e0fb807bdac031ad3cc459f63a8f76313b50f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_shovel.json"
+hash = "6e37c79b69a9b37110bf3f7a4a104b9e73e2b2f21e4b01b9fbbe272fcb7229c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/models/item/wooden_shovel_1.json"
+hash = "dae399fda949f2dc68c62b3894065123b25d23ca22ed3009114353c525313128"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail.png"
+hash = "04dc354a712142a2ac09701f427f83b1fcab990313885c01cf161ca0ef130ca5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail.properties"
+hash = "be4e9ce199b4ef4dc4ec11aa5ef8e48b1f8cd87f2f490bfeae23b1cb2dce784b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_broken_item.png"
+hash = "5e49857e2dfd31f43d113927d20da07cd2056cfc5d05befe8ece4ab5ef370916"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_broken_item.properties"
+hash = "db432acdd76099b52fcaa3107bf0b7fbcad91ebc431949a223b3bf4f10e79397"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_item.png"
+hash = "176d5ccd5ba7088409214abe5b46e17e0334a17ff9dd6b143f7e2afc82a9e349"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_item.properties"
+hash = "570b76b9aea3cd3144fd9095e563d6c8ca2f5cca8b9f8dd46430daf54c08f96f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond.png"
+hash = "cb86febf08d503d3088ad08326d7cb2edb46114b0a22c29a666ab5ea60eb59a9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond.properties"
+hash = "9a2d987895304314ef84943bd20a9f9026871d437653862195b7f14dfc680f07"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_broken_item.png"
+hash = "4f59ba286f3aa24429247ba581e601c5dc359cd3d53ccdff3035cb8dfd58c9f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_broken_item.properties"
+hash = "68bfb192f503d392d32af29233690c631440c99f409967ae95a89a49685d5b6c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_item.png"
+hash = "306a6abcd331aee5db32e548922ebaf7d49589db79ecd920d9bcfff93a2167aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_item.properties"
+hash = "a80139852d6e26604b6c894cade97ff269e7e023566e5ae573582d655b41f4da"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden.png"
+hash = "b7e681d710510a11f8f35a4d49f0866c0ae10784b7584b850b198f010476c343"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden.properties"
+hash = "097b78f04882dfbf57f3e64574b3d1ee5d1ff7123e946ae7753946441a3d4e54"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_broken_item.png"
+hash = "eae48bb9d1f003ce82795fbbf9b3864e47fb7539a81e55589541f7e10972e042"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_broken_item.properties"
+hash = "7c964a412608234c375b167a9d3b33ddcf2ae22522d7e9dd9624a1fc72d53d65"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_item.png"
+hash = "56858cb996b9c8a7f7551666f8ca4b4b1410ed9153bedda7df550cb13bb59b95"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_item.properties"
+hash = "70fc3fbf6e3786016693ce2b8736434a96f94c2975fa24dea361304285def7f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron.png"
+hash = "8a7efaa4ab4374161571e9e8fe536aa2be037a52ae37905e99e53e29e89ef054"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron.properties"
+hash = "fa5f528571a47474b9a094d9ee645f120552561391ac96e160326ac56616e65d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_broken_item.png"
+hash = "4534465e8a9dda9092eec9ad24db1b68c7051f2bf27a9c75fbeb7d1c12167d43"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_broken_item.properties"
+hash = "554b95fbb8faebba37ac6257037d117aafb526c24cd86d8ed80209f7f0526fa9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_item.png"
+hash = "fddeff4f699986738a54518a833e570cf044c13588e26b4a0902828445dd8743"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_item.properties"
+hash = "a0d4cb1160f8d67aabc8daabde5bab8457677bf61f113d6f32df92bb695d1bc5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite.png"
+hash = "3e1ba85f955a5472eed4d94b98275fdb4ec970388d039f957cef8442b860c895"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite.properties"
+hash = "85e7ae2571688ae9c46f1bf5269e5e8cf3560f19a70595156eeca616693ff6bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_broken_item.png"
+hash = "f3d2da9677caa288feed69cab3b804554dee231292954f51ebbf1e2ed7ad5eee"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_broken_item.properties"
+hash = "c89e47d93c208943cb8da479c7c42adac35b2f714d1f7f10c8441bd994ddcffc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_item.png"
+hash = "b6d63fe74f7bae114dbdd1c2bbcdeb2f319c8821d03123dd73cca051b3e7ef19"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_item.properties"
+hash = "d25494e6056dc29b7e32ee66333277cb38ee607f67e94440cec5eedeca2801dd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/elytra.png"
+hash = "0b9d670340bb615d2ea2bbef5f0412c6b4670db8209f72aca761cfa3be2d738b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/shield_base.png"
+hash = "d3e83aceba5de7b7efbd0ed23a6dcc7f339c037b2115592145d79a08d391855e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/shield_base_nopattern.png"
+hash = "1e432419c28466ba7bbbc5398207d63757c4434b6468ad82ef775d6e31fa6a0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/entity/trident.png"
+hash = "f296841a581b0ce92a96b3df7f7ef9eab4f85ec9a6d6f153eb504773711c5a56"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/environment/rain.png"
+hash = "97b6294fece80bc40523cd525ed9b1edb256c1876e0ca5839872394a44a73b77"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/broken_elytra.png"
+hash = "e0b2ee74b6face60abd3118a5f3497b806528a82f23b6a05b46f10635c4e7318"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/carrot_on_a_stick.png"
+hash = "a61b12b114bef1110f0c7a8a8bb3ae8d6908e66d64bf73b933c0e6b8ed46bcda"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_boots.png"
+hash = "2821c1fc5355dba6113b3c05a3628652643060d9f7205b2c1538d56755bb4379"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_chestplate.png"
+hash = "708fc6a9c054548a3d16a0523bb519e45d15b5496cff3089a7f40fe6a3c36015"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_helmet.png"
+hash = "12d2913f1820ebf2e7bf2c96ae0d0eca4c01894c9c93f5584667583c1a03de1a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/chainmail_leggings.png"
+hash = "e5296aa418c781db16ea71ceda63c59e399ec01e95d7b8e379823181fbcde0fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_00.png"
+hash = "4a7ed0ffeed443e5680646e3d199b4917d0e713d08527f0935b85b17ecb45e5a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_01.png"
+hash = "4eac6fa91fdc35669b2f7197700ce393fc87cda106cec2707445cdf6ad231032"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_02.png"
+hash = "4ef661bc6912ff915469554331d965c216d7b144151a29743b300a5dce5c23a0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_03.png"
+hash = "62ccaa93d2886ea57e955232eb378025829e71e7504d6d41d0d58ee384667e1e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_04.png"
+hash = "654f229410c6d7d8aa525b4238c88429acbd84ce98ed2909b89fa5906b269701"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_05.png"
+hash = "039236a7438099395ac26b80a789420c5557672d6ee9b4cd28e4426b44c6527a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_06.png"
+hash = "f26a3c84432f578a604eee2a1d77fe061bfa302be4ae203ea8ed13b0fe5c3a3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_07.png"
+hash = "b9afff95f70d259d0bb7eccbc4d523d0582cfdbb045c5c1131bafdc05d1bdd70"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_08.png"
+hash = "30ddcebaee25f8656dd9522b2852a411c444177c3768c9bf01f2409fd7766c7d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_09.png"
+hash = "db3dcc4066fcdc11149f633cdcb7f01e37c1ae8d244fdf817d74ce8f277e07fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_10.png"
+hash = "a895536bd4885a36bd6662ea9419579ad585bbc93901cf2c8603afa6a993d6fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_11.png"
+hash = "cb9cde0c086c7b1e845e6289464041a89caa7306fa63736130f992af81d99a1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_12.png"
+hash = "862ed3fc9f4af19a24619da95e912d5360c4de0af37b8a8b5ebc4989f68efd04"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_13.png"
+hash = "4fd7bffa00e1125b144f4ba9db8a1fa19d24e0d330729e217c1194dfcf1c6264"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_14.png"
+hash = "825762a8a0154afe69b8741bc3bfc8f13e779d743e23798298abd44ed2c9bff8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_15.png"
+hash = "33c5edfd6989ba3456de5dbdb728b0b94f3220cd6ad9a60f2378d1c821b9dd8f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_16.png"
+hash = "a494f87293feb75bad87ad44bb87f9cfee574d70e6f42793d886c1c1f76a1243"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_17.png"
+hash = "3ad6a2b4a7de02e26e3b9cde1c5a5e17f44048d1eaa7b04f548d982d99487544"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_18.png"
+hash = "4e4a156579c8c92322f31763af391847a0ea8b2ecd591cc2796419c98bc4bf27"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_19.png"
+hash = "f8f793be51b473aece64cc4717ef317df1471795403e5e5fd960d52d5c9e7c1c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_20.png"
+hash = "38fdb38f6eb32e4086ef1a76386f7c432cdc4feb56c1502bf67c3f91a12f725c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_21.png"
+hash = "593255b6ba4be908f8f0ef4f0afcd25c9eb5a08a6d9e239a2d8eb4e678511843"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_22.png"
+hash = "57f394e612e9e0fa9437148de0110d1e0b5a5bef1acbaeb0e353fedee8f92ad2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_23.png"
+hash = "3a997988eaa6916d504d6de797c179b91b94de1a96abdb3f5d12826ed04e5ac0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_24.png"
+hash = "51f62958590dd57e5f6a8a3e50a1e8117d9daf572bfbb6687656be2be1570f1a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_25.png"
+hash = "ba81542637bd1a5ac9c7beabf92f27bb7753d6a5f15694e8501c8267f1c6dc10"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_26.png"
+hash = "a6fa2b210b71c73f8ec710877603e44319f19ba43a1f563a08ccb5f9a07a0e76"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_27.png"
+hash = "2b7e3b923bad3ab7fe8e6939ddbef894d9f00ce584b58088ce125e82b2d8dc5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_28.png"
+hash = "a7ccb0f547b6213a1a450c0721786c10fe729193fffc35c2ed3805d21ce21e76"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_29.png"
+hash = "1498a64b0ac4500767b49a7eefabdb24021e3bfcd61004f476eda5b912827977"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_30.png"
+hash = "36cb19521abc44991de059401a4b3cfd2ef7ba97b8e4cc4be0900a18df43b819"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/compass_31.png"
+hash = "7239ead1b499bd3394c951d9defb5b2f5dfc7a2fbd62d1ece942387a545abc12"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_axe.png"
+hash = "44b68e158c3ebfc005689d5b01e9c82acf6d9981f956f39a590f5bae4b9bb8c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_axe_1.png"
+hash = "ec3690f6da0125aa63810389144c727467bbc393fc3e33b232aab33e781a5067"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_boots.png"
+hash = "10004e01a7f1d4fe36970e6f9427f3b0f12915db052e9ed9e817e393fa0dc7b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_chestplate.png"
+hash = "b2332180a6102b2840cd5de209ae9a72b0e55715a417c36246123339b074aba5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_cutlass.png"
+hash = "70dc4c889247775c708e62147e130377785e0797d54da3e3029c06dd179b02f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_cutlass_1.png"
+hash = "2b9fe7709c9cf2da73cf8565944624b275a0149845b89c29fe46e5a8d933c73b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_helmet.png"
+hash = "c9714922a69599e2fa5fb97dcfe0154a824a577c798b04f59357dca1deb68b43"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_hoe.png"
+hash = "fa220a5cd9da27d092953ebe8a86fd3fb6846928cfb426522f76821686ab0407"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_hoe_1.png"
+hash = "fca36cf498b5a734f3a38ff6fd93cc92d4099b5573884ccb826e9ad3a7261bde"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_leggings.png"
+hash = "cc6f580b8109c458f28ddd45a280c07f9afba0cd44955e8a9ffbe1db01f9358e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_pickaxe.png"
+hash = "27230acddd483bf32de8e203d7d46ef5857fd2e252f2a4563df670d70d264f2b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_pickaxe_1.png"
+hash = "98928b12a5b292075f64eda9775e7f018d03daf1e262b7e2f11544896d136885"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_shovel.png"
+hash = "7200784465057ff3092eeabe164a1dbb9548eac713012579d33f9dd33bb15e77"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/diamond_shovel_1.png"
+hash = "b44fc8a93db05c66075a6ad6245f26c7a440c78b97fc96cfe45dbad143c2e2b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/elytra.png"
+hash = "9b3950e70cb3005069de2578e3490dbf77d40376068abff2cbc4d3130e383bb0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/filled_map.png"
+hash = "f810d18293df8a57b2830725d6bd8c7d4a6ced7ce50ad93640085d551f388037"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/filled_map_markings.png"
+hash = "e943279909a624096441866cac04320aaf7dcc4dc68a14546392c679e06d60b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/fishing_rod.png"
+hash = "3ebecb6c059299c3ae8dcdf0f9862e6a05416da318d428a01bf23ab9c7e7e343"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/fishing_rod_cast.png"
+hash = "55473b19771c6dbf2e4c3b27c0a6c98a36e45265f8267480523735558f2a27bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint.png"
+hash = "04d63c640de1b14080fc70f82a764a228bee40d0478116050211c64dc60c97c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint_and_steel.png"
+hash = "819d36eedd3eef7d5f41704bfbd622e6e9287696ef4f5fdd9d9b37b1c0e4e5a3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flint_and_steel_1.png"
+hash = "6097426fef298487a3afcd7bbc15f8ffe3a1e108ff50f35b90cad9c43cebc762"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flintlock_musket.png"
+hash = "675e1c8d257202d27a125370a994482f951caefcd91e32db9030ea459a842542"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/flintlock_pistol.png"
+hash = "95e66580830b038b811eccd1451638207e5b836a2a5e146037c4223497a2f338"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_axe.png"
+hash = "64c256dc1c18534ae14b81513366d800c0cbe8b9d395cb5ea1812a583740b43a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_axe_1.png"
+hash = "c6ffe49b360404b7fbcfdf80ea8f884851fafde27c883ba85f2d81243baab079"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_boots.png"
+hash = "1c3da5723b01d21e5f3313d5e97ab5d18ee95395780115def0cc569d84d36ade"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_chestplate.png"
+hash = "beaa8aba59bdb01b4f0cf2646700894ef1c970ad19f05b9293a0d6dd9af62fff"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_cutlass.png"
+hash = "d7f3813a024c9a58a5c52a35ce7d99da294db89ed1a8e1817a3de6ea47ac7e32"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_cutlass_1.png"
+hash = "75b43b7c642987164a8037c557a8ae040713ffc9d277b80ba7ae2504d5c6d952"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_helmet.png"
+hash = "a38ef0bfae149d684794c6ac5656d2d973dae063d89fbca2592b9bf5ab1eb0a4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_hoe.png"
+hash = "1e8ef0cbf4b2a842a32852699e9ce4e99d6fb827d31f8ec4cd1197468803b853"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_hoe_1.png"
+hash = "3ab9dfcdc3757b3cfbc33cb5d9d504ae437867023bf345be9e3350ea711eb0bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_leggings.png"
+hash = "895f67d0c4b7430d48ad7d755606db7a42cf040b7b07811246929f4f63aac717"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_pickaxe.png"
+hash = "dc7b78821cd439dff85e2f9e0c65436ddca50283d44184bbe31b75d244dec430"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_pickaxe_1.png"
+hash = "7db4c71a4183e2a65e893e1bd5d6f05e17a964bd8f201a851bacef8ac5cc588b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_shovel.png"
+hash = "086fe1b40643271fcebc7598937deb47d152c98dd63912fd87e2e36881fb51e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/golden_shovel_1.png"
+hash = "1b76d736581085611578e550d822e9bcc1c58e2831319f90c89862cd182398a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_axe.png"
+hash = "448d05597e2dd2dc1691d4bd23c209710b609c31e87f53dce904630895414726"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_axe_1.png"
+hash = "3be380534b63c6b1ccd05add22c6d9db2bac8ae933a7a36b6f335b4713e048ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_boots.png"
+hash = "164980120a7e6abda32cd677b8b328c9fdcd3f9adfa82f5a66877296c88ecb18"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_chestplate.png"
+hash = "c80f65a7bf7d3471a3292deec5872ff1a8a8aa35567859be05d6c7f6ea19efd3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_cutlass.png"
+hash = "fc83de01a8a7ee988c0cdc7e3a17fd9d3309aceffe6225fcfa88738f268784f9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_cutlass_1.png"
+hash = "8c5fa980acedd7842dd322935eb05ecd7a07ed9140e7ee5c433d01b93e98729d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_helmet.png"
+hash = "7e923543a2431003bcdc644218b3ea32b2f2a01ea709bb8b85cc8b6b502b9a9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_hoe.png"
+hash = "419d03420fe7e54fbb3ddd24aa0cdfd895a1a99b75a60e04838c9449ee5c3da2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_hoe_1.png"
+hash = "182d053215adb72545ad40b233c8acb86ab5637881e528a43f80c15a19d892bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_leggings.png"
+hash = "420673da9d8cf6c86b240363339c9be1922d541bac8386de82354416fd3c1786"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_pickaxe.png"
+hash = "9565aba9e9d37b7be02dc7b6ce4d762ed16bcf3ac255d4ac60caee128a88b407"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_pickaxe_1.png"
+hash = "efdfcaa049f4da727f665decbea2b1fc09478d3ebd3457f53526100391aec6f9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_shovel.png"
+hash = "2034a9ecf54066bc18031d664e0502338dc8ee00431fdaa6db7030d6a7e55e59"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/iron_shovel_1.png"
+hash = "a9bf8cc59bc0aa3f5fbfa2fb92d856b9a47e42b63ffdb37346ee56d32a5e4021"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_boots.png"
+hash = "e4f0792d076167b9ffa69372f421990b1aba8e52fdaba06c465d5bf662cf3610"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_boots_overlay.png"
+hash = "e075ba32d8f2935b5e7a00258b8eb1c4aa4c24cb54dedc98ad26410b0eda9cbf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_chestplate.png"
+hash = "fb86fe3e5304d820dc3165b73adbf479d2053367740637b066bc1251bb7dfe69"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_chestplate_overlay.png"
+hash = "019a13e462694c3d7298fbc4c5eb264297421701134057594f5385b586ec5784"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_helmet.png"
+hash = "5929b5416c52c79c67186d9db3739d4175a47dde83590c0faca5b4bb208f8302"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_helmet_overlay.png"
+hash = "ce0ca0759d6760ca8f25d517ba192d971d8d47ecc3a46fa60e4dc7870a86c811"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_leggings.png"
+hash = "217471c3edce24f74885c4a363b8c2c7bb5300c5e2d0487c29df0d4b1bbaeeb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/leather_leggings_overlay.png"
+hash = "3bb6ae8c437a329748c59f6e46e43a7ec2b423302b3199fc20977e84a92cb879"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/map.png"
+hash = "9e9732901157fc3e5827b9e48cd3ca34d5d088bd37dd3d596caeccd2d6674a99"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_axe.png"
+hash = "ff664f6a9dd25672208e7fd63281d3f5de4feec03ceede739b3f15008c5f676d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_axe_1.png"
+hash = "c87e4d1c4a7099a6d9a9b3ff2e33fc025ce4d8e489742a439cb66c02034e1939"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_boots.png"
+hash = "09481c70214a8e0e330494eff7e0a56b58d6cf93c3992e230a691e47355a78ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_chestplate.png"
+hash = "4c0bf6db53a39bc63cb2b5252b88a58788cdf697d6efd8c1c50f345344f610f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_cutlass.png"
+hash = "4c2c6c7e92a1bdcb0612301a2f9e4de273614e0e1089144d36fb355e8df46fce"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_cutlass_1.png"
+hash = "be17f7a4d1b1ae40606fb2242e267eb5bbe91fb4d25fc1d7c6f9895e5a34c8ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_helmet.png"
+hash = "c14ebd467b4a5f2bc336658f096edf6f7c94d5671db0ff539adc74cf979cb745"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_hoe.png"
+hash = "92771c4d67ae9e87fe7dff5c2328eb5220c70e5e9f430d90bfa8229fc461a187"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_hoe_1.png"
+hash = "7167cd5cab145f25cbbc51aa84f949e00f9ac00368e26c1592f98ca1b50e415c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_leggings.png"
+hash = "b51f22d7f4bb0b1b1b5321d1d03b159564ac176112c4b22551b8468b2b548d02"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_pickaxe.png"
+hash = "4e446c82c6708ee5b94cc9d05d0fbbdbd54f93d14d99e6aba65181ae99a5870b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_pickaxe_1.png"
+hash = "831e07c4fbcd470101eb91f51c961a6078931777ed33189000b41f4f5dfd0c32"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_shovel.png"
+hash = "c3ab690e708b7fd13cb6a0bd92754db628865bf208cbe0745c0eb3d8ea15baed"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/netherite_shovel_1.png"
+hash = "9b422d0cb942fa431c4b1d2487a94cf68f57d76fbd9e034cb82ec8eb28a9c9e2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/shears.png"
+hash = "a2a71230bc78fc3c5af85c28a41040dc11db821b0594a998131d1f24d003d8a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/shears_1.png"
+hash = "90c346f479e43d58c25f35131267d62552f6bedb18b8d94f11e12715406409e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_axe.png"
+hash = "57830eccdc7f51063c2988a4a43cdeb16b5c693fa9584ea774454179ab363dfe"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_axe_1.png"
+hash = "c13e29ed6cf5f7401cb60a8e1136615041d47aeaba73f03f1232ee5164f48ddf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_hoe.png"
+hash = "a5cdefca2e784c41fcc730539c67e2563d8ff9c5ab0869d82bb8935eae15b78a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_hoe_1.png"
+hash = "d8ed41c83f2469a1a9922db2096eca0af9534de161840b4fe31323ee0a46d670"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_pickaxe.png"
+hash = "473587cf3d6a9740e7905dbb58a4f2fc9c853a1e8539fda63c24bc7fd43d2076"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_pickaxe_1.png"
+hash = "3465ca3bb3c20b61bcc2b2aeb25c44cc3a28b9e956471b6ed5e33f5da2920ba9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_shovel.png"
+hash = "1cda075f011e38c0f61e9255e56544310060b4f62798c6bd95525c1af44ff444"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/stone_shovel_1.png"
+hash = "d9c1ecd649f7ea5ed1c2171eb60d191f2fad1a4c1f600ee81b03bcee45416646"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/totem_of_undying.png"
+hash = "e5f7e6e754c1baa947324c6d64a543cbdd40760f38348eea903b1b1e5813acc2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/trident.png"
+hash = "2cd347ae00869c07c0e4e556d6ece59ee6a72172474a8324bb8d002da27b5200"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/turtle_helmet.png"
+hash = "272e7f3e0c177cd30388b1ee2de4b59df7ac17c6b7118eee787ed27163d48874"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/warped_fungus_on_a_stick.png"
+hash = "424e59d8a634fd9350b5151ebf0041cbbb8a0ed8c1fccfc86a654fff6c435642"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_axe.png"
+hash = "acbbe3f59bbfbf02d4dc955027afd2f71a673fe3e40f29a62273e3ea4bc3980f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_axe_1.png"
+hash = "42fb951d0a2b64fcc27852bf881992294c136d284dd60e69e296b53860741476"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_hoe.png"
+hash = "37639cc0824369068c1f4b9fbb0b4eb827034fd9bf47da1f285c2825d3361d81"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_hoe_1.png"
+hash = "7443c108020046903693d9b13e84854647a21da98f43410460c2125349de2750"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_pickaxe.png"
+hash = "0a4524f227c7609e781cf41e49b97059769925446872505f43d896fe9a2763d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_pickaxe_1.png"
+hash = "7ab68b815f20d9310ac72ca9ca0f8d715b3b1e312c0e4886c82394f9d7b4410c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_shovel.png"
+hash = "44d1bbcaaad34023fe5b3e4273a8b49008abe722cc786370766caa7f522b8e97"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/item/wooden_shovel_1.png"
+hash = "8cc854a97237949ba4e21a5df9116e10f197b191a133a4562c061b6c4812e031"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_background.png"
+hash = "d4b449f8ef82af7f708cea5be8881a6c3f11ca90975363a0465a1cdd3db47c43"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_background_checkerboard.png"
+hash = "205c1b2c3f1d1fe4f3be6703650cb1c1039cda9830d274af51ccff059a1276b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/map/map_icons.png"
+hash = "d95b9704916779c7e1353812728d85eec0f188c0b0e37dde937b6079ef9e9a50"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_glint_entity.png"
+hash = "328c6b688fb790154ca78c267079abb993449478a8c56e1c3fc00488fae57cff"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_glint_item.png"
+hash = "e786c39b315aa282b186f5514c49a7fb2a8847b3a06de7b40041c0eea58d3a6d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/enchanted_item_glint.png.mcmeta"
+hash = "906e1e8734d7e6b3d69de0ae106c62067ccd574e13f6648f9c0c6a8dd1e9ce59"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/misc/spyglass_scope.png"
+hash = "7214693a37906a24f939c306fa8ba5956cde03db06d2fd126e187762a7563d3e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/chainmail_layer_1.png"
+hash = "69984a320065275ab535d0ee66d11380b51228de425ffa6259bb1153e1fe6e3e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/chainmail_layer_2.png"
+hash = "b1429b9f995bd230e74946775e4590df0666c048a37f7a5f0c3c23394df39681"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/diamond_layer_1.png"
+hash = "f483766fb368a975be254f2b19c0fa507807752282f2b0f9d5b52e081aae6ac5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/diamond_layer_2.png"
+hash = "e27537024d66b652cb710f6d3a7f41e045c65ca52afc6ea93bf7d349a61c3c96"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/gold_layer_1.png"
+hash = "37e1c1c491e17ce8d8b4c18d8aeaf45d27b8e62b12e46aced70e10c87bfaeccd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/gold_layer_2.png"
+hash = "ac80068d7868cdc14e43c9372da20c77274c8a0c28ed6aaf0e7a94f8c89cbb85"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/iron_layer_1.png"
+hash = "8e0a15f385e1d22c701052a6c7ad67627327d3a00a1238fe0cc4225f77b1ded0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/iron_layer_2.png"
+hash = "c80a7bc25becb887fbf7de16d6af184e3be83bca032a84b2405032e35e4dc75e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_1.png"
+hash = "62ca9dedf0bc8215a0a1ed73eb12db67e0202d1b735f7f04acf4f62903e45816"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
+hash = "80315ea0d08da45893466d674e3622c689ae831dc2d1b4b0679e3f2b4be3efa6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_2.png"
+hash = "1b85ad5413b8451554a863b5f711e134c2b489e4014bb0bd2ca06fdaec406035"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
+hash = "8602816040b54a0122881ac34fcaa2c25539af06ed127d3b20bade76db883918"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/netherite_layer_1.png"
+hash = "cfd0be80234d24888dcab8d0d57290d0e50b17190cfdddd7872fc5a40d37d9e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/netherite_layer_2.png"
+hash = "e9c458f769dadbd80f0403be448a6d7ad52b85ebfd3b18dd63913f2a074e6230"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/models/armor/turtle_layer_1.png"
+hash = "aab9d9c3ac47d9328641690f2521aba788e5bcc8c409dd06b66cee825178f2d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/amethyst.png"
+hash = "46df0bab157b306f766a48b021bfe3f1a894cd53e7752f4b2a97e4ffa40c6cdb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/copper.png"
+hash = "971029fc7c80932ed042a4838f2a9f946bf0771756ed27c7089547448c2247eb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/diamond.png"
+hash = "b78d8cd496d7dfa5668ea22925e9c659c965ac3cbaaf075f898ee4c28ea73c4c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/diamond_darker.png"
+hash = "3ede0d6c2ca5c8b4088fd7458dc678a3f2b5f7eb9f7b8283250b33b9a088b82c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/emerald.png"
+hash = "89ae10aa95098fdabbb532a45d047ded9e6582acf3f47c3f6bc594231a4ede84"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/gold.png"
+hash = "525500f30d992e3908f8032cab19cba967da329faeba3168977cbdbf2073ee4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/gold_darker.png"
+hash = "1d90768db62161507622377d2c792ded7cdb6a823d2fc3b49808ab2dfdf7f4b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/iron.png"
+hash = "81d1b974c5d7390f88af112b5e8fdb5aefcdc9be725d225af3e174f150608c25"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/iron_darker.png"
+hash = "c8761fc393dbbeea7d53c50deb475fd6e97f1f2e50f4ed5f1a7c10dda13e31c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/lapis.png"
+hash = "fca27356cf6961ed617367bd75322e6f24bced732afe72d8c8d12555ffd27f62"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/netherite.png"
+hash = "3435bf47cb09ccee3708874826010f84eeb7fc38805e2b3c7473f0d19d51cbe6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/netherite_darker.png"
+hash = "9b4a5590b7bb6225584263e953b1093e24e09599b3dae6fe2f851d1173e3f69f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/quartz.png"
+hash = "b8f8b37b818b00fc2dc2f411e172a4ad04b4f0dc758e3d03e2e4417e6bfd099b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/redstone.png"
+hash = "64988f733d7060e993d1ca01cc69e65241d9e7b8b0fd6e55baa25f6540366dee"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/color_palettes/trim_palette.png"
+hash = "906c8f2514cec22957f85d69e6042645eaa68144d8433b3501bf0b7aa80ad0aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/boots_trim.png"
+hash = "c5d073b94847e4e9bb95f2f9ddca84aa18f8e9bea1371cb712fb0b3df0366412"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/chestplate_trim.png"
+hash = "58f3514cc59c1b627b947c64e166c39a531041592e1acef3d8191aa92d612d93"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/helmet_trim.png"
+hash = "2cc31fbfb771827a8fcf372a48fd567afbea2e7350e43e883f7867c33aeddfa9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/items/leggings_trim.png"
+hash = "1953a2fd37c8c5e108ea7fb3a937d603e059f8c3bc9fa38ab3168eca927c40ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/coast.png"
+hash = "91637e83c89a98d69098bad88a8bdef8c42813b75d7ac7d3b29addd5ff100620"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/coast_leggings.png"
+hash = "dfbcac6076af605cfd1c650a5fb8d62ae895445e29880d202be0905bb3decbbb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/dune.png"
+hash = "9f5ebc1cc82fc02d37e95a7440911265780a7345d33adeb3d90d032704f48ec3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/dune_leggings.png"
+hash = "96bed5a3e9eb4e884c334f0b641f1d4957624b98eea8ec702f21986da4560830"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/eye.png"
+hash = "cdf72390d9e47621aed1c4af6f9c26564134399534d6a9778eb441ad5df201f9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/eye_leggings.png"
+hash = "eb4749ecc29889d79774ef3564253212914d2dc0df4a4648a6a183737bc86a1f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/host.png"
+hash = "2639640fa781a4e2fe0f3d2210cf079e0eb1b3a117b35ef28fd15ac1e7716910"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/host_leggings.png"
+hash = "8236e4be00f7ea8ff235508d7219f4572dc71b6f66aff924e97dc50f6b57d5d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/raiser.png"
+hash = "88f6fd7e0eb3fb84f26cb16e04bfb42c9f19dadf71e9a7a4338c8def6db12244"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/raiser_leggings.png"
+hash = "7ed59d362989e1fc52d34712c483169e416de9fc250b23af14e9edb8b4e5e62b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/rib.png"
+hash = "06dea12e62c63319a9feef7d5147044f38d3106682d6e55607cfafb76430d620"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/rib_leggings.png"
+hash = "83e5969ef3fa175bfd1e7da25e2dc085aaea15cce1b9ed095d3a7643812603c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/sentry.png"
+hash = "612d55773bc82e2235b0fef74dac401aca51db3e03e8ddd8ff9a583b1cdac055"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/sentry_leggings.png"
+hash = "30970144b9b6a80228608625165e09b3b21e36cbe2f3063bb6f68bc7e01ccb2b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/shaper.png"
+hash = "3359ccb669f463c13205aeabe84369532a1404db70d55eccf1140ff35c4753e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/shaper_leggings.png"
+hash = "456f19c4e02b93998aa2b1d6ba16ff6c8d721af65a1d9b60a60b26a720c8d203"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/silence.png"
+hash = "4379635134c43eaa5930fa932296519519150b2bc6b281eb064118d0babfb5f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/silence_leggings.png"
+hash = "a6f6624dacca0b4b4aab536fe1fd860304b86c79f00c6c28fc7df59548dcf200"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/snout.png"
+hash = "72e3bed286353452f5cca44b096cca0bd04ab6e9cd6503409d4f04cda28715b4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/snout_leggings.png"
+hash = "cf083550e383bdf6ba9facc614da641f2b71566d7e60681fafde63eda7b3a451"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/spire.png"
+hash = "84cfb696aab826b5bb6de7027b57a8992d2ad94c087e4be875759a1b6dd46f2f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/spire_leggings.png"
+hash = "22c4cf873aa7e1e1dabf60876936f0d39b7f7141b3a3d6500410feae7cfcc3b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/tide.png"
+hash = "814958bc64648b246059b1539de3c2320fd5ac661a5562ec2a64a51f10a7ea2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/tide_leggings.png"
+hash = "8bf0535dc8e66b8563b29a2234ff49843fca290604ac015c117bb7c88d4402a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/vex.png"
+hash = "41b5488942d8600a97633a6280ffbc394b7f7d6358a70edc65574b59b985aadf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/vex_leggings.png"
+hash = "564bac3e5b2fcba6eca95c663dc5ef54ed4da13e927ba9e73b781cecc607195b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/ward.png"
+hash = "a8054e80e5d383cbae0b2483388abfb608926375d82b8a6aaaac8647548f60b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/ward_leggings.png"
+hash = "64e6c6be32a3c8f40a2e68d21cd0a9e8d19da1c1d98d5817e7f826a1e820113c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wayfinder.png"
+hash = "1ed49de5cf0487e078773f0b315c9f2217c3424b6aff237a5bf812230d97ae60"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wayfinder_leggings.png"
+hash = "33a975365ac2c6c290eb794791751430a74c007110d9cd01978fffba2318cd3d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wild.png"
+hash = "5cdc1eb01b7fd090fe034622376f4e3d5db4d5f80e69a8955580a6f618b90d11"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/textures/trims/models/armor/wild_leggings.png"
+hash = "5959332f9770f3a0701aa91762cce8dcba7a0c6263806c44ad7962f14435952d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/diamond_cutlass.json"
+hash = "f4a70dab9b0e236fa6bfd0a9b9f14d822b935868783e484e7da3f6caa6c0ecc5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/diamond_cutlass_1.json"
+hash = "e4c5a52cd8a7dba5e9d3a8b284b41b02b94ba6bad08df94003f2f59feb243222"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/gold_cutlass.json"
+hash = "04cdeff4d6aa15c07a3742108ea1def3ab7d352ae3bfa823a82d732bb858ce2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/gold_cutlass_1.json"
+hash = "b4fae50416a097082c9f47af7d7bd3f1dca3d89e71e632ca7b63d9e91c1b273d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/iron_cutlass.json"
+hash = "930d29aee5ce7692c2df84e766222682641255b59910ce18be9aacd920021b89"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/iron_cutlass_1.json"
+hash = "9135c6b3e1ce846bdc8da23fbc63ef90b53af2bea4921282450e36fb982e327d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/netherite_cutlass.json"
+hash = "1e3e190c06273569bd4b75c19021b8bc3212b9d8300acae2cb1222bd456df0d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/simplyswords/models/item/netherite_cutlass_1.json"
+hash = "f96b29726968e02ccb460cdc6f7a2dac1a24fd93acb86ebb5636212b43f72b24"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/pack.mcmeta"
+hash = "42ed59dca9e98b1300945eb4d9f7937d6fc2cb81dc0a9a52e11e167a8c5dd736"
+
+[[files]]
+file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/pack.png"
+hash = "49a1aea18664b254003b8d83149d97292bd83dd0ab7f24e9fbc2f9c1599ba3d7"
 
 [[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r965091_MC1.20.x.zip"
@@ -7118,7 +7118,7 @@ file = "options.amecsapi.txt"
 hash = "5d5222fd5c166b83684f3b5b5c093624f18ab4f9acd7ad2c24279eb926a18e45"
 
 [[files]]
-file = "resourcepacks/pirate.pw.toml"
+file = "resourcepacks_disabled/pirate.pw.toml"
 hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
 
