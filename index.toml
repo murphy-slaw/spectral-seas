@@ -6042,7 +6042,7 @@ hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "922bbd9d89c3102180babffd02fde55011cfaa592466e41764d23acfed5a72ff"
+hash = "152a5d4ac883d540b85b15b35ec31ddd1f49f7551686dc9477967c8d877ae961"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
