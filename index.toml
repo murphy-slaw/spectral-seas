@@ -6033,6 +6033,10 @@ file = "kubejs/probe/generated/tag_events.d.ts"
 hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
+file = "kubejs/server_scripts/pity_chest.js"
+hash = "e494b5860150b2c6083b6536b70afb8a6a2f3f65e98e31819a3e42f943e781c9"
+
+[[files]]
 file = "kubejs/server_scripts/portal.js"
 hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
@@ -6662,6 +6666,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "228a97a8e604aae9e4b6a4c97e65c66e413263b93f55796d1b063fafd229f9b7"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams-up.pw.toml"
+hash = "02f45f9302d8748402be0c584a6633c1e5358ffa07cf8e77ab0c64da315196fd"
 metafile = true
 
 [[files]]
