@@ -16,3 +16,4 @@ builds
 .vscode
 /.idea/
 *.code-workspace
+local
