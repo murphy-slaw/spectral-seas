@@ -6034,7 +6034,7 @@ hash = "061b6d5a9b70a17340626967fe0f51951d1185e2e5b3f877dfd2e74915a6acc0"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
-hash = "e494b5860150b2c6083b6536b70afb8a6a2f3f65e98e31819a3e42f943e781c9"
+hash = "e8b729dee5026f490642c9fbaac039667bfcbffc052373ba656f069a1578dc14"
 
 [[files]]
 file = "kubejs/server_scripts/portal.js"
