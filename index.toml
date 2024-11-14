@@ -6674,6 +6674,11 @@ hash = "02f45f9302d8748402be0c584a6633c1e5358ffa07cf8e77ab0c64da315196fd"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "1f5ae1f4f54dc839782958176ee8c5151515d6163a89fcff2b1bce5576619e8f"
+metafile = true
+
+[[files]]
 file = "mods/luna-slimes.pw.toml"
 hash = "ec1a2a82fae2e70c145719d4e3ba8b5d023d74ff90a23300827eb25df5a887ed"
 metafile = true
