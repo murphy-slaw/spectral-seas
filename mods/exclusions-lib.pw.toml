@@ -1,13 +1,13 @@
 name = "Exclusions Lib"
-filename = "exclusions_lib-0.6.jar"
+filename = "exclusions_lib-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OqRYBfuW/versions/870OSH81/exclusions_lib-0.6.jar"
+url = "https://cdn.modrinth.com/data/OqRYBfuW/versions/Fz6szU5o/exclusions_lib-1.0.2.jar"
 hash-format = "sha512"
-hash = "c858fa4a2ad35a613b5f5ca4150ff9ca507b5c576f4ee6f5ef4590b9a1d93ac70ab7591b71bf2f868a7ba9e26a8e2d4928a835eabf16fd72fbf4cf39ae96ad3d"
+hash = "2571287800132cc53fde8f19be04ac4004f05a3e7ceb6f599e868f3a1bf2b27ec63d1134892dfac9ede45134ae6e269b856307b1bd984295f751d8f5a0c9b690"
 
 [update]
 [update.modrinth]
 mod-id = "OqRYBfuW"
-version = "870OSH81"
+version = "Fz6szU5o"

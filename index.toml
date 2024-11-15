@@ -5416,7 +5416,7 @@ hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
 file = "config/paxi/resourcepacks/bibliophilia.pw.toml"
-hash = "208e23e9e73313fa3f240f6faa58005de28d964fe98d1db85bd2703d00aa158e"
+hash = "4eaed891e050473d6a71143ec31f4a177f3462d31626db0bbee363224826bea0"
 metafile = true
 
 [[files]]
@@ -6194,7 +6194,7 @@ hash = "d0a2031381d3a2db35750644cf2d2fd4f2c1153e5f7ee7e378ef941217b8b1db"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6581f733e0262a1d7afb62ed292d5f795afc7c38cabb8ef64d7c7ce4422b967e"
+hash = "ad1984450d006011db847e9e9a39dd562cf54979fa698eb7ed5f1ce3eb0c91aa"
 metafile = true
 
 [[files]]
@@ -6539,7 +6539,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "2f2c4d0f22429de24fefa43f18a4ef8c1ca808e05f54c554f8452eb258a2bd2d"
+hash = "b32edab0af796383d8c05c068bc91ea1adc9a36d7ad3f24ef5f7b54dc301d5c8"
 metafile = true
 
 [[files]]
@@ -6584,7 +6584,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "c1d49301c0de23c9f246b6390a80633c04a557b336125e75687bc08b3997b551"
+hash = "b25429f449679640179059ac41c1950b0f25681057c870f743fef0c317d2dd8f"
 metafile = true
 
 [[files]]
@@ -6599,7 +6599,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f6e1b5a95cb720302c65fe91283b0859275be9f49b44d92921aef49ef71eb61c"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
@@ -6659,7 +6659,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "06f59353b63e48fb3b7f0684ffad3c1cc7bbae2ed39c7749df6cda3dd85f3daa"
+hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
 metafile = true
 
 [[files]]
@@ -6714,7 +6714,7 @@ metafile = true
 
 [[files]]
 file = "mods/kinecraft-serialization.pw.toml"
-hash = "c127de3685fe56702a97c89a8b5b5ae34a87edf8836af4ede0dabb7e9fc1a6d4"
+hash = "01a1b13b08d1546acfd6e7feabe8931e94b2990dabe4f77edea78e678a97ccaf"
 metafile = true
 
 [[files]]
@@ -6904,7 +6904,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c0effc07859a5f8b9ec97566c3bd14096c8b5b2e0c1487b33e7ff5299e37464b"
+hash = "e03ac81e2f130c7909fafc10ad93936c2f2df80cd984b04818c07e9fa21d1db1"
 metafile = true
 
 [[files]]
@@ -6983,7 +6983,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9d924898135876e8719c7e59cebe9c31811f405d65ccbdaa9305ec47c10263b8"
+hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
@@ -7183,7 +7183,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a942145d57647e3b679bdb5a86dfbc7d004c72dffe5e148fbcfbb2a3f4a11b44"
+hash = "a6317061a5b6fdbc9b344d29f19adb292412c967d1ad1f01a2b771a539fc17c6"
 metafile = true
 
 [[files]]
