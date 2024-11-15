@@ -6,3 +6,4 @@ builds
 *.aup3*
 design_docs
 *.code-workspace
+kubejs/probe
