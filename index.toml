@@ -896,7 +896,19 @@ hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/boulder.json"
-hash = "2bb7b26ace09249b2fef26f542a788206ea435dc624850307b694d23d1d1b84c"
+hash = "2017ad2425ddb44f82c3e6bc40209783c177241dd6a514674d12a84250b15a10"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
+hash = "6ab5a4ba0663d1a07ab7f418b663e681a0c9d2c49d12daadb61f5e91ab7dbfa6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_large.json"
+hash = "90892ee7cadb7aefefed1893d5b30e0237907f8c0d4b5961abaea8a7ad350493"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
+hash = "61c1dea530a4d7604ab28f0e24cb30b3eba3e8e0da40da8a450b1f83c884be7a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/tree/beach_cypress.json"

@@ -10,5 +10,9 @@ flowchart LR
     h[Craft a Glider]
     i[Craft a Grappling Hook]
     j[Craft a Compass]
+<<<<<<< HEAD
+=======
+    k[Find a Tower]
+>>>>>>> e421725 (Start mapping out quests. Update datapack.)
 
 ```
