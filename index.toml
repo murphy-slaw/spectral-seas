@@ -923,6 +923,18 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "f0fc5e2a2ac595d004fc536333143ff5e86cdd095b06c1edb88c598589611d04"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "e819d82baab4bcbf8aa8feb33f6d339fa627950dd20d036eb975ad2786b21574"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "16053907ad051848c809fa70331cb4cc158ac82ab08758c0570b5c38712914d9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "bd95bbad7e0155c8c9d080a90d1c97802053be00d5a36eced020e5758a0c6941"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
 hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
@@ -2100,7 +2112,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "68630c108f3ef8f006f118b372e00a3299c94eceb02aa9d5346bc3e66c2d1c38"
+hash = "64dddcd897e7787f80c3f7f53f1d3d34b5f6d8ae04af2117ecb89367fec5cd3c"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
