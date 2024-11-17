@@ -11,7 +11,7 @@
 		"fadeOut": 0.0
 	},
 	"revealType": "Stacked",
-	"statusEffectTimer": true,
+	"statusEffectTimer": false,
 	"defaultValues": {
 		"speedMultiplier": 1.0,
 		"distance": 60,

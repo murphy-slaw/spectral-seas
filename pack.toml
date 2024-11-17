@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "8d5cd548c7e981b4a8080162c16c027a7e0d98efc2d2b6bef2ac85336382ee02"
-=======
-hash = "31f7236caf55b8863266a64da4567f7e69e0a2214f7061205626d74148c49c8d"
->>>>>>> e421725 (Start mapping out quests. Update datapack.)
+hash = "e71f2f06c4b23a4e958f62e21d2b9c6da95789cc002e0413c010eaf9b07b455f"
 
 [versions]
 fabric = "0.16.5"

@@ -38,7 +38,7 @@ hash = "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "5be1f0cd75198084a97b1ffc5ca4804dad1ab1a2a936109f45de5f9ea5c39781"
+hash = "2d20a99bd82ab5aa1cd695affc9495b0a57b3f81b2111cf61f9971b88342276e"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -821,6 +821,10 @@ hash = "7b519582446e654e901d6d96c6186a15a1d8d73b28b07e46162f6c0e7da40630"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
 hash = "811d2f43d6fc278e5706b569c19154c3ca8c046c4a34df9a0623acd368333a45"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/entities/pillager.json"
+hash = "2b819575fee2c2e0cab7939b10925f76f9706f36d9e337d4d2ce22aa02e634fb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
@@ -5785,6 +5789,10 @@ file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
+file = "kubejs/server_scripts/items.js"
+hash = "45d4a6c732fb5ad389f904156cd32e3e80d1fa04e5ec99a9c448cbb1a33b8425"
+
+[[files]]
 file = "kubejs/server_scripts/pity_chest.js"
 hash = "d2d253077ff333f52e0927a9dd28ee5eb4687e50e7de4a861e81202d89da1e47"
 
@@ -5794,7 +5802,7 @@ hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "008931199d346d3eb2f3e5647e8a791e812cab4faa5c299640e5075171930c89"
+hash = "5a0975ac0352b0cd3687fca72ab808c15855e62abcfe0d7f9b9ed62373ee5cf3"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
