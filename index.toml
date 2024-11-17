@@ -2019,6 +2019,10 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structur
 hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/supplementaries/worldgen/configured_feature/wild_flax.json"
+hash = "8f9184333193a032e611fe5ae1d2b1a5440d5b085aa252f38a7b7ecb85f1c5bc"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/terrablender/tags/dimension_type/overworld_regions.json"
 hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
@@ -5790,7 +5794,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/items.js"
-hash = "45d4a6c732fb5ad389f904156cd32e3e80d1fa04e5ec99a9c448cbb1a33b8425"
+hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
@@ -5839,6 +5843,10 @@ hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 [[files]]
 file = "kubejs/server_scripts_disabled/tags.js"
 hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
+
+[[files]]
+file = "kubejs/startup_scripts/turtle.js"
+hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
 
 [[files]]
 file = "kubejs/startup_scripts_disabled/kill_spawns.js"
