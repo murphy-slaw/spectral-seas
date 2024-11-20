@@ -2020,7 +2020,11 @@ hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/supplementaries/worldgen/configured_feature/wild_flax.json"
-hash = "8f9184333193a032e611fe5ae1d2b1a5440d5b085aa252f38a7b7ecb85f1c5bc"
+hash = "353bd4cb678e6494286af858c364d4fcc620123d88308d8a86c96d7be1985269"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/supplementaries/worldgen/placed_feature/wild_flax.json"
+hash = "bd984a4a44a43a969ac2c6c8fab28bce5b9297cc413d04d6731f58a452404005"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/terrablender/tags/dimension_type/overworld_regions.json"
@@ -5806,7 +5810,7 @@ hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "5a0975ac0352b0cd3687fca72ab808c15855e62abcfe0d7f9b9ed62373ee5cf3"
+hash = "9c93a787b2176df394b5b585aad31e7600d1467a53a27897e1eff3656b22cf4a"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -5855,6 +5859,10 @@ hash = "408178d3704751b1fa74aa390ae37e90b17f4ee762db0d3639b6b2d4490db2f4"
 [[files]]
 file = "kubejs/startup_scripts_disabled/mobs.js"
 hash = "73e14aa74dd34c1e9b34358bc10f69e4fb83313c25ed8e33cd8bf515b3272369"
+
+[[files]]
+file = "kubejs/startup_scripts_disabled/player.js"
+hash = "011a3b650212c46275e33a815dcdd4fe2dcf68cdba8fe01a06449819785ffc66"
 
 [[files]]
 file = "local/kubejs/event_groups/BlockEvents/broken.md"
@@ -6693,6 +6701,11 @@ hash = "87d924c6bd605e2d2dbde7cc46a05de80f892fd002a899c0526f4505a9591c39"
 metafile = true
 
 [[files]]
+file = "mods/i-see-you-over-there.pw.toml"
+hash = "44d0b13072fe15d490ab1e9554d02d63c082cce8cb4e88f270f5daa33911c316"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -7190,6 +7203,10 @@ metafile = true
 file = "mods/third-person-maps.pw.toml"
 hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
 metafile = true
+
+[[files]]
+file = "mods/tinkerers-smithing-2.7.0+1.20.jar"
+hash = "693529938ebe873f089ba6c9c08e414b378a27b14c1004821c925f12bc60272e"
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
