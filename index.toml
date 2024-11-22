@@ -924,7 +924,7 @@ hash = "f6e391e12ddf0f4cd9d44e7e7f207b4d89e953f80611e1760f1e67d114e39281"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "909dda9ab286335600dbbbe50031a2e1e2ff2fbd8b5cc8992c514a114f35c438"
+hash = "8116ef7cbdfb1568e505703eae2af519b5d084133586f77c4dd1d76e01cddf64"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -2519,7 +2519,7 @@ hash = "04dc354a712142a2ac09701f427f83b1fcab990313885c01cf161ca0ef130ca5"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail.properties"
-hash = "be4e9ce199b4ef4dc4ec11aa5ef8e48b1f8cd87f2f490bfeae23b1cb2dce784b"
+hash = "fa61459710fb37c658cd76f951428c52615bf09a795dca85f598ab392a6c8479"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/chainmail_broken_item.png"
@@ -2543,7 +2543,7 @@ hash = "cb86febf08d503d3088ad08326d7cb2edb46114b0a22c29a666ab5ea60eb59a9"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond.properties"
-hash = "9a2d987895304314ef84943bd20a9f9026871d437653862195b7f14dfc680f07"
+hash = "afb81e2fe923863988ff294734a46e4332296482327d64aba6cb5603dad32b8b"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/diamond_broken_item.png"
@@ -2567,7 +2567,7 @@ hash = "b7e681d710510a11f8f35a4d49f0866c0ae10784b7584b850b198f010476c343"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden.properties"
-hash = "097b78f04882dfbf57f3e64574b3d1ee5d1ff7123e946ae7753946441a3d4e54"
+hash = "7fa3ab480a5a12af557b3416e55b1128424f39df4ea14124410984375e8a2f2c"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/golden_broken_item.png"
@@ -2591,7 +2591,7 @@ hash = "8a7efaa4ab4374161571e9e8fe536aa2be037a52ae37905e99e53e29e89ef054"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron.properties"
-hash = "fa5f528571a47474b9a094d9ee645f120552561391ac96e160326ac56616e65d"
+hash = "f2cb555ff9cc1adf801edaa5930575aa9c205ad4aebae2babb4a3beb8d341be1"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/iron_broken_item.png"
@@ -2615,7 +2615,7 @@ hash = "3e1ba85f955a5472eed4d94b98275fdb4ec970388d039f957cef8442b860c895"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite.properties"
-hash = "85e7ae2571688ae9c46f1bf5269e5e8cf3560f19a70595156eeca616693ff6bd"
+hash = "93c4a96dd90d4bab89b98587519a3eb52316ba84b078cab4dc569514648bdf21"
 
 [[files]]
 file = "config/paxi/resourcepacks/Grimdark-Pirate-v1-4-15/assets/minecraft/optifine/cit/elytra/netherite_broken_item.png"
@@ -5574,7 +5574,7 @@ hash = "abb3963fb10403610ad5e2ff2be2d9b9bb1bcbad0945766c70b7b4468c21e7bd"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "2bdcd9cbbc6292f8826fdd988de4fc080c628c306e99875efa9957178a01a807"
+hash = "657ae8caf6e6246611f71e901c821b8d5aa3166829ce86d22fffdb22a58cdf3f"
 
 [[files]]
 file = "config/raised.json"
@@ -5810,7 +5810,7 @@ hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "9c93a787b2176df394b5b585aad31e7600d1467a53a27897e1eff3656b22cf4a"
+hash = "51cc263c8cc81a5b23f50172ec313f0fa1f94994c433ede6bea616d8aca4556f"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -5822,7 +5822,7 @@ hash = "7a6cb02e8240b5ccbfb7bb0e3202b582780f62fa6d2fdf8d12afebe41ac284f9"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "4c2a9d8c90b2533f9c1480022096b492c44e6eaebd684906db2ff688370f9a69"
+hash = "2fb6571fc08800171d5dad9a3f57f8e2a80d957161c19476552edcba636b6896"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"

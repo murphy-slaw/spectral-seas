@@ -1,5 +1,5 @@
-ServerEvents.recipes(event =>{
-    event.remove({output:'minecraft:spyglass'})
+ServerEvents.recipes(event => {
+    event.remove({ output: 'minecraft:spyglass' });
     event.shaped(
         Item.of('minecraft:spyglass'),
         [
@@ -11,36 +11,47 @@ ServerEvents.recipes(event =>{
             'G': '#spectrum:gemstone_shards',
             'C': 'minecraft:copper_ingot'
         }
-    )
+    );
 
-    event.remove({output: 'minecraft:lead'})
+    event.remove({ output: 'minecraft:lead' });
     event.shapeless(
-        "minecraft:lead",[
+        "minecraft:lead", [
         "supplementaries:rope",
         "minecraft:slime_ball",
-        ]
-    )
+    ]
+    );
 
-    event.remove({output: 'comforts:rope_and_nail'})
+    // string yeilds less rope than flax since it's easier to obtain
+    event.shaped(
+        Item.of('supplementaries:rope'),
+        [
+            " s ",
+            " s ",
+            " s ",
+        ],
+        { 's': 'minecraft:string' }
+    );
+
+    event.remove({ output: 'comforts:rope_and_nail' });
     event.shapeless(
-        "comforts:rope_and_nail",[
+        "comforts:rope_and_nail", [
         "supplementaries:rope",
         "minecraft:iron_ingot",
-        ]
-    )
+    ]
+    );
 
-    event.remove({output: 'smallships:bamboo_cog'})
-    event.remove({output: 'smallships:bamboo_galley'})
+    event.remove({ output: 'smallships:bamboo_cog' });
+    event.remove({ output: 'smallships:bamboo_galley' });
     event.shaped(
         Item.of('smallships:bamboo_galley'),
-        ['lll', 'cSc','bbb'],
+        ['lll', 'cSc', 'bbb'],
         {
             'S': 'smallships:sail',
             'c': 'minecraft:chest',
             'l': 'minecraft:lead',
             'b': 'minecraft:bamboo_raft'
         }
-    )
+    );
 
     event.shaped(
         Item.of('smallships:bamboo_cog'),
@@ -50,5 +61,5 @@ ServerEvents.recipes(event =>{
             'l': 'minecraft:lead',
             'b': 'minecraft:bamboo_raft'
         }
-    )
-})
+    );
+});
