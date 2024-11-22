@@ -6371,6 +6371,11 @@ hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
 metafile = true
 
 [[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "bc4cc0e2c1a6eb289596bdbebf5a97eda3c9a21ccda39ffb08cad215c70aac92"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
 metafile = true
@@ -6438,6 +6443,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "9094f025f6d32339b7653e936481f0203153c8c6df730d792881266a24f6fe7f"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
 metafile = true
 
 [[files]]
