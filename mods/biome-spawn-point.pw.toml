@@ -1,6 +1,6 @@
 name = "Biome Spawn Point"
 filename = "biomespawnpoint-1.20.1-2.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mtfbtanr/versions/wmJTBBb1/biomespawnpoint-1.20.1-2.3.jar"

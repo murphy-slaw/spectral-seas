@@ -924,7 +924,7 @@ hash = "f6e391e12ddf0f4cd9d44e7e7f207b4d89e953f80611e1760f1e67d114e39281"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "8116ef7cbdfb1568e505703eae2af519b5d084133586f77c4dd1d76e01cddf64"
+hash = "909dda9ab286335600dbbbe50031a2e1e2ff2fbd8b5cc8992c514a114f35c438"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -6372,7 +6372,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-spawn-point.pw.toml"
-hash = "bc4cc0e2c1a6eb289596bdbebf5a97eda3c9a21ccda39ffb08cad215c70aac92"
+hash = "9bf0bd16fe45d6f316402afcdf86a29f939215f865654a2293255cf19f0256b1"
 metafile = true
 
 [[files]]
