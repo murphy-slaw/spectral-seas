@@ -31,9 +31,9 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:24
+renderDistance:16
 simulationDistance:12
-entityDistanceScaling:1.0
+entityDistanceScaling:5.0
 guiScale:2
 particles:0
 maxFps:260
@@ -247,3 +247,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+fullscreenResolution:1920x1080@60:24

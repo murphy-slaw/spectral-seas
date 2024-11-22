@@ -105,6 +105,10 @@ file = "config/biome_replacer.properties"
 hash = "357504489493c0b7962affb4277116664163c21d4b8e922ff23125d936fb61f9"
 
 [[files]]
+file = "config/biomespawnpoint/spawnbiomes.txt"
+hash = "8982b46cb118f3f45df21269f7729d8a29b6a9fa8f67f1ac6750540d5f4c9196"
+
+[[files]]
 file = "config/blur.json"
 hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
 
@@ -5766,7 +5770,7 @@ hash = "20e70f27a339742cf6c15f1ae6a80914bad622adfb2388c612202dcb1e2d2a39"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "82a4d497379739d066718a20af6283ee64825ad321ffb4b0b75baca30663bbb8"
+hash = "b95c94f22fba80cf37711c091839a758321f279fb25227080718f3dc7317c483"
 
 [[files]]
 file = "kubejs/README.txt"
