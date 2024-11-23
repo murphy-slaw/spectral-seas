@@ -3560,7 +3560,11 @@ hash = "0de0280141a33cf2dd93be5905e8f7a8daf6588c13ba82f1d45ce0a0c3848ae2"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
-hash = "9e70d5fc7dfbda8a300aac4d8fd10e8b3c27f97883c2d152d2514a1ae4d51e50"
+hash = "47c38ee03679aa5cd2552d3946b1eccfe19042fba0abb649b5687c64554c1f24"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/betteroceanmonuments/atlas/structure/start/ocean_monument.json"
+hash = "2f0127b0922447bdc550d1a058453158d7ad7d74876890201befcbd960900590"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/explorify/README.md"
