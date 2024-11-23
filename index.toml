@@ -6845,7 +6845,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "710e03735ae7d095b2cdfecef5c1b6c84dde8a78fad47877a8a91a2e4abe5752"
+hash = "53a82095df6f2e55f87c02a688b79bfb4be5fea04a3d8ceb8e57853bd1e0dcd6"
 metafile = true
 
 [[files]]
@@ -7179,7 +7179,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "813121ef60fd2601e8d45d1501fb15522e4664a690c40dd3f7aa155679e60a1d"
+hash = "84255f0a2017545bfdc90fd5ed990ace86f01b9a5cc621e22a34e12074383e4b"
 metafile = true
 
 [[files]]
