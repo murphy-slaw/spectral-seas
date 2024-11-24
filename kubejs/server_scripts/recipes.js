@@ -44,7 +44,11 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'smallships:bamboo_galley' });
     event.shaped(
         Item.of('smallships:bamboo_galley'),
-        ['lll', 'cSc', 'bbb'],
+        [
+            'lll',
+            'cSc',
+            'bbb'
+        ],
         {
             'S': 'smallships:sail',
             'c': 'minecraft:chest',
@@ -55,11 +59,44 @@ ServerEvents.recipes(event => {
 
     event.shaped(
         Item.of('smallships:bamboo_cog'),
-        ['lSl', 'bbb'],
+        [
+            'lSl',
+            'bbb'
+        ],
         {
             'S': 'smallships:sail',
             'l': 'minecraft:lead',
             'b': 'minecraft:bamboo_raft'
         }
     );
+
+    event.remove({ output: 'mermod:sea_crystal' });
+    event.shaped(
+        Item.of('mermod:sea_crystal', 4),
+        [
+            'PSP',
+            'SCS',
+            'PSP'
+        ],
+        {
+            'P': 'minecraft:prismarine_shard',
+            'S': 'minecraft:scute',
+            'C': 'minecraft:conduit'
+        }
+    );
+
+    event.remove({ output: 'mermod:sea_necklace' });
+    event.shaped(
+        Item.of('mermod:sea_necklace'),
+        [
+            ' G ',
+            'G G',
+            ' S '
+        ],
+        {
+            'G': 'minecraft:gold_ingot',
+            'S': 'mermod:sea_crystal'
+        }
+    );
+
 });

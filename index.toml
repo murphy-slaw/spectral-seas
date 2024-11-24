@@ -5818,7 +5818,7 @@ hash = "05e8c6ddd883bae64cbaaa16305c32bec6beef13d1911bb8b546243eede962d1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "51cc263c8cc81a5b23f50172ec313f0fa1f94994c433ede6bea616d8aca4556f"
+hash = "481b4733639b1f13d21cec961ea1a5ed412365eb2123306c684cee78cef15ea6"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -6636,11 +6636,6 @@ metafile = true
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
 hash = "9337e02ac174dec76ea5f21cd11f384afb36fef41250c1a2e4707065698bfdb3"
-metafile = true
-
-[[files]]
-file = "mods/fakerlib.pw.toml"
-hash = "881eb79d04ea70ef9d2fbeed4893f2652b2452e88791cf72896c2c324552fb62"
 metafile = true
 
 [[files]]
