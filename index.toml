@@ -7098,6 +7098,11 @@ hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
 metafile = true
 
 [[files]]
+file = "mods/satisfying-buttons.pw.toml"
+hash = "49aee72d9612e97f9348ad39b3bb42972255f9ea18f2dc0eb1d8557f43b4d907"
+metafile = true
+
+[[files]]
 file = "mods/selfish-villager.pw.toml"
 hash = "ea84e6242bcff0342d7cbf8077afc1656b622f907a0e95ad2aa1cb9b2e9fb736"
 metafile = true
