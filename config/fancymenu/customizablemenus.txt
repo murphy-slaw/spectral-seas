@@ -1,8 +1,119 @@
 type = customizablemenus
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.class_442 {
 }
 
-net.minecraft.class_442 {
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_525 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_4749 {
+}
+
+net.minecraft.class_500 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_6599 {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_6777 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_7944 {
+}
+
+net.minecraft.class_8219 {
+}
+
+net.minecraft.class_407 {
+}
+
+hantonik.fbp.screen.FBPOptionsScreen {
+}
+
+hantonik.fbp.screen.category.FBPDripScreen {
+}
+
+hantonik.fbp.screen.category.FBPTerrainScreen {
+}
+
+hantonik.fbp.screen.category.FBPRainScreen {
+}
+
+hantonik.fbp.screen.category.FBPSnowScreen {
+}
+
+hantonik.fbp.screen.category.FBPFlameScreen {
+}
+
+hantonik.fbp.screen.category.FBPSmokeScreen {
+}
+
+hantonik.fbp.screen.category.FBPAnimationsScreen {
+}
+
+hantonik.fbp.screen.category.FBPOverlayScreen {
+}
+
+net.minecraft.class_422 {
+}
+
+net.minecraft.class_410 {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_524 {
+}
+
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+net.minecraft.class_412 {
 }
 
