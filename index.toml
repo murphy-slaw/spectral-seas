@@ -6546,7 +6546,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "f0febdc202b808fb0d3aa6e4b7feed32dd19c68dcf3fa41a9dc4815cee3b85eb"
+hash = "4bdba8dc5096bff911df1e3c2a1e465028c770981e4c0f4da79856bf82764eb9"
 metafile = true
 
 [[files]]
@@ -6701,7 +6701,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ca24bfcd5025839184bf79d63151d9cdafd5c4668a2c6fa3c034fca488e9bb7e"
+hash = "bb887fecd6205784b181e555c54a1ff3b7ab2e46609716294d1b1e5fd7b345b1"
 metafile = true
 
 [[files]]
@@ -6821,7 +6821,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "db689fb1dd68f978f3069ec4706c8e4255bf1cd92c0bda60b6bc3479d4461636"
+hash = "3050b863508621c476d6a501c5372d1e3811c52bda0c7f670dfd1ac7bb6de216"
 metafile = true
 
 [[files]]
@@ -6876,7 +6876,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
-hash = "02f45f9302d8748402be0c584a6633c1e5358ffa07cf8e77ab0c64da315196fd"
+hash = "afd3a97f50509c2f3bc3ac09ceaa8ebc4acacb0ee7a0906ccf99a67253db53e8"
 metafile = true
 
 [[files]]
