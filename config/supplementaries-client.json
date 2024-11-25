@@ -8,6 +8,9 @@
     "notice_board": {
       "centered_text": true
     },
+    "bunting": {
+      "fast_buntings": false
+    },
     "clock_block": {
       "24h_format": true
     },
@@ -77,6 +80,7 @@
   "general": {
     "no_optifine_warn_screen": true,
     "no_amendments_screen": true,
+    "no_incompatible_mods_screen": false,
     "config_button": false,
     "config_button_y_offset": 0,
     "tooltip_hints": true,
@@ -87,9 +91,8 @@
     "test3": 0.0
   },
   "tweaks": {
-    "brewing_stand_colors": true,
-    "crossbows_colors": true,
     "clock_right_click": true,
+    "projectile_weapon_overlay": true,
     "compass_right_click": false,
     "placeable_books_glint": false,
     "placeable_books_random_colors": [
@@ -122,6 +125,9 @@
       "block_outline_color": "#FFFFFF66",
       "projectile_scale": 0.5
     },
+    "lunch_basket": {
+      "overlay": true
+    },
     "altimeter": {
       "click_action": true,
       "extra_dimension_textures": [
@@ -129,6 +135,9 @@
         "minecraft:the_end"
       ],
       "texture_precision_multiplier": 1
+    },
+    "cannonball": {
+      "3d_model": true
     },
     "quiver": {
       "armor_render_offset": -1.0,

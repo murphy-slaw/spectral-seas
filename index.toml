@@ -14,7 +14,7 @@ hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "532f9325d3490b6cf808174a7f4814e2f86aeed168dc739a31a58387c025a127"
+hash = "a54effc43b52d4bfe821bd9a818a67f02638f6f44b34b4f15e7f92c7dda54ef0"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -66,7 +66,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "802b7a54c7509764d89549138e496f244695ef8a780c3a9068c64a6ffa3c9025"
+hash = "8ae1b44b11b3520102f61e295cf7183b64aa4a662a5b8bbae5af4c7a302fb69e"
 
 [[files]]
 file = "config/betteroceanmonuments-fabric-1_20.toml"
@@ -186,11 +186,11 @@ hash = "5e731f55e80750073b26502434c19c432b0d565617c64a7248400d2e39c962b8"
 
 [[files]]
 file = "config/emi.css"
-hash = "d0dc498b2e96ab50342f51461c5640b2c60f3d45f40351f9a4ed3d07d0db232c"
+hash = "a675cf09baea077a4198ff032c55d21faccb7ae2c30e7fe72aeaf2a2467a134c"
 
 [[files]]
 file = "config/enchdesc.json"
-hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
 [[files]]
 file = "config/endermanoverhaul-client.jsonc"
@@ -210,7 +210,7 @@ hash = "a78b708622316646134ae1e7b80e52d6ed8ca43ffd9a5239fd22b619a0b4c283"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+hash = "6e961d971f43e378643ce2a6101bc8899c63c77c661098bf6af3555b5b1dec57"
 
 [[files]]
 file = "config/etf_warnings.json"
@@ -277,24 +277,52 @@ file = "config/fancymenu/assets/spectral_seas_icon.png"
 hash = "feb0adc31910921fcc3cebaafcc5423db14ffcab011688ab5e5587a2e2293783"
 
 [[files]]
+file = "config/fancymenu/assets/water_128px.gif"
+hash = "4f5d8e0cc6db6c532b236e1af10ab4200fec8b167360c26321d83ac46a9efbca"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+hash = "13325dbb5a5c5bfff1af689f947bcfad16578ce0a343225e64dd037596d568e1"
+
+[[files]]
+file = "config/fancymenu/customization/com.terraformersmc.modmenu.gui.modsscreen_layout.txt"
+hash = "b32b7fbdaaf44e17c22b2efcbc872732ad43a9ee8405131593761b15471975e8"
+
+[[files]]
+file = "config/fancymenu/customization/controls_screen_layout.txt"
+hash = "1eb6b3538bfd2e684e831e81035bcc5608e62419f4ed442781263c2109830583"
+
+[[files]]
+file = "config/fancymenu/customization/create_world_screen_layout.txt"
+hash = "3ad1cfed3b5de1625c5fb372936c9d82d760ea3a67cdba9efd56b1b045e2000f"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "d3e7d223f0b5028362a172194cade8dbba10c17498d0861e1b701e7708b0708e"
 
 [[files]]
+file = "config/fancymenu/customization/net.minecraft.class_6599_layout.txt"
+hash = "aea1529f672fa2cbea6422b22e2817c430a6d6d8cb6bd2d9fdef923add5621e0"
+
+[[files]]
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
+hash = "a286e27216c7e0bb32c1641832981120f0490b5b3086b434fe435da2aa6a5241"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4731db9cc48c0e183321b3d9cf796c2bdbb22da001b0769ddb735e96bf6cfd56"
+hash = "e79762ebfe8177e296340c39de032865563e933601b3ef2d5a1ef5d726bd9213"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "460c18024f0471212882908e3f4d374842469111138a3278c385ab0571d64d2f"
+hash = "7a612dd6f99d454fb0c9a31ae1e4875b66c0e67d7b3988f095f69f51b9a9e179"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -306,7 +334,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9bfe3bee7bce864376ac158d2e6a2a729670546ac06ca93ff8cfd90e488fe1ba"
+hash = "9634c915e7a90a0e861f04dae892e70c47181f6f72c46144df4940d01181aeeb"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
@@ -337,12 +365,20 @@ file = "config/fancymenu/panoramas/lighthouse/properties.txt"
 hash = "6d04cb8d529e8105f04652541fe4a4b86f22a8a9c00f793ba0f2bbb0808aa643"
 
 [[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/fbp/config.json"
-hash = "05b531a058d729a7e83676b7f675e368de39d6e20e5c445b3438c04ef0569c42"
+hash = "f3612bf3d32a0493dfa77f65ba33014707e0e537353742eae8af7ad928cad4e8"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -350,7 +386,7 @@ hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
+hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/grapplemod.json"
@@ -390,7 +426,7 @@ hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
-hash = "8e298819b108f83c7adc2447c51a18c72fb4858b88dcc9441b223e6181385227"
+hash = "72c7fbc45788e5a7ef8096689ba1fcaa5781a45711d11359fa7d11f6949b0460"
 
 [[files]]
 file = "config/libgui.json5"
@@ -5682,15 +5718,15 @@ hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 
 [[files]]
 file = "config/supplementaries-client.json"
-hash = "3abc4953e4ce7d9b62975747ee87dc6b1ec7166c9716465598bdf4513c8ec66b"
+hash = "ff28b6b281d8093f00f27b2b288b6961ab0ea5105ffa4e4dadb9eace45227ae6"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "544d7859cb5e7298cc801aa6707aa3c99da2b62d2f3464bf2e6558a186478801"
+hash = "2704d9f062453286f9b96e8d1ec59eddf30a172f8133afe6c5aaac9f681941ab"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "58c5b37f0f3db5394793d4950b2284a6b70864c26dba54836e20d9d110f4014b"
+hash = "7d6ff653412b5adc5aa85ba2eca4428139fc2e89f39f6592407db3d7fa5e70da"
 
 [[files]]
 file = "config/third_person_maps.json5"
@@ -5762,7 +5798,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yigd.json"
-hash = "ae010fff5a5d185774fbdecf7212f0da03249232f0c5215a4c6b16bdc9eb6081"
+hash = "116caf5ebd57ac7f8dc50431d63789450eae0fb32191f0c3929e37f52b0c644f"
 
 [[files]]
 file = "config/yosbr/keybindings.txt"
@@ -7308,7 +7344,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "5d5222fd5c166b83684f3b5b5c093624f18ab4f9acd7ad2c24279eb926a18e45"
+hash = "7b60366b4d10ca47a3caf60d6710fa512660ce7b0275f923299d8b1b8e769915"
 
 [[files]]
 file = "resourcepacks_disabled/pirate.pw.toml"
@@ -7317,7 +7353,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
-hash = "1a077db8df4d0186bfb618a273569a1146e8f1a10662961177564ed18f01f73c"
+hash = "990bd2f27c129a54fb1ee4cbc51c34adcc6aa4be8bacda1e2f368c027307c071"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -5,10 +5,21 @@
 	"DimensionReverbDecayTime": 8.0,
 	// The reverb density for sound effects in Spectrum's dimension
 	"DimensionReverbDensity": 0.5,
+	// Graphical options for spectrum's dimension
+	"WindSim": true,
+	"ReducedParticles": false,
+	// Affects how often the wind simulation updates - A lower number makes the simulation smoother, but increases the performance impact significantly
+	"WindSimInterval": 3,
+	// Story accurate dimension lighting. Deepens the dimension's darkness and prevents night vision from cutting through it. WARNING - This makes traversal significantly harder
+	"ExtraDarkDimension": false,
+	// Adjusts the general brightness of the dimension (an increase of 1 is a lot, for reference)
+	"DimensionBrightnessMod": 1.0,
 	// Mod Integration Packs to not load (in case of mod compat errors)
 	"IntegrationPacksToSkipLoading": [],
 	// Add some advanced tooltips to items, like if Sculk Shriekers are able to summon the Warden
 	"AddItemTooltips": true,
+	// Replaces the ornate models of spectrum's transfer system with something simpler for increased visibility. Great for technical players!
+	"MinimalNodes": false,
 	/* The vanilla anvil caps enchantment levels at the max level for the enchantment
 	   So enchanted books that exceed the enchantments natural max level get capped
 	   If true the bedrock anvil will not cap the enchantments level to it's natural max level
@@ -33,8 +44,14 @@
 		"starry_skies:overworld",
 		"paradise_lost:paradise_lost"
 	],
-	// chance for a lightning strike to spawn a Storm Stone
+	// Chance for a lightning strike to spawn a Storm Stone
 	"StormStonesChance": 0.4000000059604645,
+	/* Enables quitoxic reed tag-based spawning.
+	   By default, the reeds spawn in any biome that is
+	   wet, hot, and not an ocean.
+	   This can be swapped to using a tag, for more delicate filtering.
+	*/
+	"QuitoxicSpawnTag": false,
 	/* Shooting star spawns are checked every night between time 13000 and 22000, every 100 ticks (so 100 chances per night).
 	   By default, there is a 0.0075 ^= 0.75 % chance at each of those check times. Making it ~1 shooting star spawn
 	   per night per player that unlocked the required progression.
@@ -94,6 +111,7 @@
 	"SteadfastEnchantmentEnabled": true,
 	"IndestructibleEnchantmentEnabled": true,
 	"BigCatchEnchantmentEnabled": true,
+	"SerendipityReelEnchantmentEnabled": true,
 	"RazingEnchantmentEnabled": true,
 	"InexorableEnchantmentEnabled": true,
 	// The max levels for all Enchantments
@@ -105,6 +123,7 @@
 	"CloversFavorMaxLevel": 3,
 	"TightGripMaxLevel": 2,
 	"BigCatchMaxLevel": 3,
+	"SerendipityReelMaxLevel": 2,
 	// Exuberance increases experience gained when killing mobs. With 25% bonus XP and 5 levels this would mean 2,25x XP on max level
 	"ExuberanceMaxLevel": 5,
 	"ExuberanceBonusExperiencePercentPerLevel": 0.25,
@@ -120,6 +139,8 @@
 	"TightGripAttackSpeedBonusPercentPerLevel": 0.0625,
 	// The duration a glow ink sac gives night vision when wearing a glow vision helmet in seconds
 	"GlowVisionGogglesDuration": 240,
+	// If the Omni Accelerator should be able to have interactions in PvP that can drain the targets XP, modify their equipment, ... (configured via the requires_omni_accelerator_pvp_enabled item tag)
+	"OmniAcceleratorPvP": false,
 	"GemstoneArmorHelmetProtection": 3,
 	"GemstoneArmorChestplateProtection": 7,
 	"GemstoneArmorLeggingsProtection": 5,
@@ -142,8 +163,8 @@
 	"MaxLevelForEffectsInGreaterPotionPendant": 1,
 	/* True will prevent the spread of Decay blocks in claims.
 	   Only enable when necessary and communicate to your players that those blocks will not work in their claims.
-	   If any player comes to the Spectrum devs claiming that decay does not spread for them and therefore they could not progress
-	   without them gotten told that, your will get put on the 'bad pack devs' list and this config setting removed again
+	   If any player comes to the Spectrum devs claiming that decay does not spread for them, and therefore they could not progress
+	   You will get put on the 'bad pack devs' list and this config setting removed again
 	*/
 	"DecayIsStoppedByClaimMods": false,
 	/* By Default, Roughly Enough Items will show a 'recipe not unlocked yet' screen for not yet unlocked recipes.
