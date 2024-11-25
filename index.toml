@@ -626,11 +626,6 @@ hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/spawn-animations.pw.toml"
-hash = "f7bd017eedeb60cb869b618e68637fa13c80a2dc98aa240b32d34f548835465c"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
 hash = "020fd74e17d35f81bef2857f68f23bd464e75d95b5885464cf361a325528d08a"
 
