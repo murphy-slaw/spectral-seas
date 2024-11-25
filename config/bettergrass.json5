@@ -8,9 +8,9 @@
 	// Connected Blocks
 	// (default: true)
 	grassBlocks: true,
-	// (default: false)
+	// (default: true)
 	dirtPaths: false,
-	// (default: false)
+	// (default: true)
 	farmLands: false,
 	// (default: true)
 	podzol: true,
@@ -24,7 +24,12 @@
 	// 
 	// Better Snow
 	// OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
-	betterSnowMode: "OPTIFINE",
+	betterSnowMode: "LAMBDA",
+	snowLayers: [
+		"snow",
+		"moss_carpet",
+		"pale_moss_carpet"
+	],
 	excludedTags: [
 		"leaves",
 		"buttons",
@@ -36,5 +41,7 @@
 		"light_weighted_pressure_plate",
 		"polished_blackstone_pressure_plate",
 		"stone_pressure_plate"
-	]
+	],
+	whitelistedTags: [],
+	whitelistedBlocks: []
 }

@@ -73,6 +73,7 @@
       "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:{Name:\"${owner.name}\",Id:\"${owner.uuid}\"}},Count:1b}]}"
     },
     "generateOnLastGroundPos": false,
+    "tryGenerateOnGround": false,
     "generationMaxDistance": {
       "x": 5,
       "y": 5,
@@ -127,6 +128,8 @@
   },
   "compatConfig": {
     "standardDropRuleInClaim": "PUT_IN_GRAVE",
+    "enableAccessoriesCompat": true,
+    "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableInventorioCompat": true,
     "defaultInventorioDropRule": "PUT_IN_GRAVE",
     "enableLevelzCompat": true,
@@ -140,7 +143,8 @@
     "enableTrinketsCompat": true,
     "defaultTrinketsDropRule": "PUT_IN_GRAVE",
     "enableBeansBackpacksCompat": true,
-    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE"
+    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE",
+    "enableRespawnObelisksCompat": true
   },
   "commandConfig": {
     "mainCommand": "yigd",
