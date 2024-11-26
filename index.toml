@@ -926,8 +926,12 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_
 hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/beach_cypress.json"
+hash = "168a398130ec7c9d627b4410d2a34e927e3d07d92993f71008fef69032849ad8"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/boulder.json"
-hash = "2017ad2425ddb44f82c3e6bc40209783c177241dd6a514674d12a84250b15a10"
+hash = "b5f13bb961671caef4c938cd09fe6f674efbcd7069f20330419ee5b39ad3965b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
@@ -942,8 +946,8 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_f
 hash = "98f99b66ee5309c3681f8a7fe887cb23f577ad58b2e753ca8e92b8dfea879157"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/tree/beach_cypress.json"
-hash = "bc3940f928c4e24b008da5005bf983fbf9cfb957c4d0ad0de1ffc5c25ad9b34a"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/trees_rocky_beach.json"
+hash = "7731500e3ac3e6c71d18c56852bb02d39cc8d4e559d41121ab7f47d80a285ce1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
@@ -959,11 +963,15 @@ hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/beach_boulders.json"
-hash = "333ce5b3776455ef5dff7b7d7e9944c56dda63ccb0c4d8a7a983f9653c001e93"
+hash = "32c8b6d8b575b05d1ee51a8297e95fcb6d1c2d486904ffd56452c70cb6a87f45"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/beach_trees.json"
-hash = "f0fc5e2a2ac595d004fc536333143ff5e86cdd095b06c1edb88c598589611d04"
+hash = "05b230589c6daff5ceaaf11205dd992e823ddfc2b895a8b266f3b46e7e821427"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/cypress.json"
+hash = "b8af584df8e4e27a64ef3468db96df50d2724ee0ab302a3156f866118880df99"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_diamond.json"
