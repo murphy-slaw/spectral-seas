@@ -621,6 +621,11 @@ file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
 hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
+file = "config/paxi/datapacks/overworldify.pw.toml"
+hash = "37d88487ef9ebd5d13ed5200d8d0dbdced73ed096e0ff4dadda5806b88672223"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
 hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
 metafile = true

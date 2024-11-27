@@ -1,0 +1,14 @@
+name = "Overworldify"
+filename = "Overworldify_1.1.5.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/L50pxUPM/versions/Z3XwQZZZ/Overworldify_1.1.5.zip"
+hash-format = "sha512"
+hash = "7c926051f385be21e7f1ca05afdcbba5e571e96c86704adecd64fc9c3a1dca4968fdb4bba7858faa1ad954ef8c7a3e8dc336729129ec2ea50831f0b911ffad65"
+
+[update]
+[update.modrinth]
+mod-id = "L50pxUPM"
+version = "Z3XwQZZZ"
