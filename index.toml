@@ -621,11 +621,6 @@ file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
 hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
-file = "config/paxi/datapacks/overworldify.pw.toml"
-hash = "37d88487ef9ebd5d13ed5200d8d0dbdced73ed096e0ff4dadda5806b88672223"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
 hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
 metafile = true
@@ -883,6 +878,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_dia
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/nether_fortress.json"
+hash = "6b697bb1a94829f33fe59eaa1940c9a4c082d5f5096a44cdb0c29d53fd5670b5"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
@@ -913,6 +912,10 @@ hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_beach.json"
 hash = "b39edb2302ca854726657d7e5a1684f08c91273aff1d7607746ab729676ba578"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_nether.json"
+hash = "af83fee1af1aa5cad3d84f7bcb47c262be55e67b2c96424aeb5d2c5de0e698ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
@@ -956,7 +959,7 @@ hash = "7731500e3ac3e6c71d18c56852bb02d39cc8d4e559d41121ab7f47d80a285ce1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
-hash = "f6e391e12ddf0f4cd9d44e7e7f207b4d89e953f80611e1760f1e67d114e39281"
+hash = "b63da60873928326fae7dc63912fe5b3d198d0f8ab5af68e590dd6bbf6f838a1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
@@ -967,6 +970,14 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "598dcb9a0fb8bddca63cdc009aceb72cc002f071a734d5e4dff894b6614b02e4"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/basalt_blobs.json"
+hash = "32cc20f52bf5c640f35a07435d98a26da17a13cb7c82f520162ebdae9570b8bb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/basalt_pillar.json"
+hash = "a3eda80135326df9b58a25c0b2e9edac0bd892a34e2aa4a7d7f1ae6ad07e8f0f"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/beach_boulders.json"
 hash = "32c8b6d8b575b05d1ee51a8297e95fcb6d1c2d486904ffd56452c70cb6a87f45"
 
@@ -975,8 +986,40 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "05b230589c6daff5ceaaf11205dd992e823ddfc2b895a8b266f3b46e7e821427"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/blackstone_blobs.json"
+hash = "00ece53a91c5f872e3d281560c1c3f21827f3075414413fff505b4fa04e8d938"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/brown_mushroom_nether.json"
+hash = "bef8a360078694b05e9eaaf1c9f547fbdadb37efbdeaa46841acd1b4845d7ed7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/crimson_fungi.json"
+hash = "a9d94dd4477375389cc1e4c932813aab1c93861981f27c274e4b34882f9a1739"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/cypress.json"
 hash = "b8af584df8e4e27a64ef3468db96df50d2724ee0ab302a3156f866118880df99"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/glowstone.json"
+hash = "682fa9e0697eeb12da0c4567a08a0c692adf7b0349ff14e20ca937562a59ceed"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/glowstone_extra.json"
+hash = "d88f0924f6e3d8637789a6a3d0f080ab1565229397c60fc9f3eca0a4b871cb31"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
+hash = "1bc8fd55f0c203169870b1a52b56a5cedab5a5d76a26f075f32af7678827b076"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_blackstone.json"
+hash = "c05f168ffdde4a5bdd4a69af3976c856e8d5518853f8319a9cb50ac29887cdc7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
+hash = "dff1e807e6ccb6a5ddcfefe8728baaeca11622041d342d6bd8cc8d6ef8fdf794"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_diamond.json"
@@ -991,8 +1034,92 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "bd95bbad7e0155c8c9d080a90d1c97802053be00d5a36eced020e5758a0c6941"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
+hash = "2a64930d4b17b22e12081668f668100c5b3403069bed82e0aaa134b85b5a7b3e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
+hash = "65dec942d69691b33ec87921a1a0ea5b4a0268830b79a30d89ce6bb4ab8ae1f8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_gravel_nether.json"
+hash = "a86d183c152f996ff0f2c400b89246d211e9d7ed6d74262b75674c2a4958b3d5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_magma.json"
+hash = "e6f7d88d52047a87ea9b1e38bdee439f13ad451b26314248c9aedab9ac0df7b5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
+hash = "173d53574b0791674f39f6f756a5195c0f1d5ac398ad9853665f2b962b406a76"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
+hash = "0e7aa3ecb53fd329529616a33cf801df37d69589eb8b05f0bf1b8417d76921ac"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_soul_sand.json"
+hash = "f1840003a4d3f01dd6f4a9ca86fdeab6497482a3611773003202a74e53edf799"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/patch_fire.json"
+hash = "6e7003b61a9df2b91bf068692a6cd56a13b0a005765169e3ec1ae7fb915a5aae"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/patch_soul_fire.json"
+hash = "e5525d1a20232dd57fe6cb873a5f085712c9cadff0798e4e8ed8b2d06892f3bb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/red_mushroom_nether.json"
+hash = "a475804c69f210b182e9eb60442a92b7e0c826bf6b239ec6f167ed6152abcdbb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/small_basalt_columns.json"
+hash = "6755498078fd21c74437b44300d30ea371d5ca8bafe142ecbeb08635eae935e8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/spring_closed.json"
+hash = "0d4d212c64b43407ea731a328cf8b79b8a126af7d4e5e5e58c627c1a11e7b347"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/spring_closed_double.json"
+hash = "714826a18d325ad51c0ade6de77fe46dbb7811fce8cd63bd5889237f980746ab"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/spring_delta.json"
+hash = "6aeddcfe5dbcc5809ca47f3220a9ed32e5fea5396d4f2ca779307f07276d2138"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/spring_lava.json"
+hash = "3673b943f9b969474edbfb253fb67fc563ac91627eeb1d4de8938fa1adf472b2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/spring_open.json"
+hash = "f1081e3c2a541564fd793b61af00f0d23910aeafdf9220dd9dd340bd68200a9f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/twisting_vines.json"
+hash = "4f248b9eecba88c438902010376b1b1e9c6c4db8002f1cd46c5d4584693b3226"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/warped_fungi.json"
+hash = "7231b3696b47182672307cb8c9c195ea21530beca15647f3ee27d3a97dc24217"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/weeping_vines.json"
+hash = "aaf074f12b89a2402c878dc4e34454f1cfe92720b00e3b5f17ee51e165059fbb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/bastion_remnant.json"
+hash = "e64ab3932fe8f563452055b35580b12ef94537b72e51cb77848498fa358a99d9"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/pillager_outpost.json"
 hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_nether.json"
+hash = "20d8f0cbf76f691633d8ec6c84b3038cb68b60adb5859c42827206cb70593cbb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
@@ -1967,6 +2094,118 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/struct
 hash = "2e4a4d8ae380c742b0b4c4117a5246f7f4d9c6435332218373cb80152fad9b6d"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/tags/blocks/everything_but_water.json"
+hash = "0bddd89e9c865f29ddc3ab6bba6fb2dd9a23c96078b09948013ce46cbafaa529"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/end_canyon.json"
+hash = "f5fd604c9386a6f29b40f9314c2de1170b7b8a247765a4f8f5c590f8ea31e145"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/end_cave.json"
+hash = "32da3664a0ebed6f5a919b6b7c7a48a06e40c988dbba6f44b3b82171a4901a80"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/end_cave_extra_underground.json"
+hash = "f4f6963d1043e88c006b6ffe0c70cd35886014c12e2a58a2ef17c789af27f517"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/nether_canyon.json"
+hash = "d00018acb0132cbd6bb83fe4fb12ac5eac8f912e2441f3bebdcacc3d667aac10"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/nether_cave_extra_underground.json"
+hash = "98405ba18ff84bb5981b6a728a540d5488afb513c125b38238fe48c260584046"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_carver/nether_overworld_cave.json"
+hash = "a78a240f2607886b0cbce761b8a0a3d62857aebdd2fdfe6fd6892ea9559c0c8e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/configured_feature/lava_maker.json"
+hash = "88e2d8afc77910f0c6fb475c1ab1719fd18d025a22e2b4a4ff0d2d6cc498ca6c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/-16.json"
+hash = "1e3e69a6b5e2f85c668fcf55880fa471edc2643fe69ca894f3edfb7cc0c953ea"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/-32.json"
+hash = "e1c54dec4055af23a2fdc9c59bee549337f840f8388ed3dd1868080ca93b6d23"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/-48.json"
+hash = "c100959ed1e1bb2fd940c1afb253335b7592cd218244b54947d4886d3cb09307"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/-64.json"
+hash = "54943fab933e09dad262e0e667746c21e8a14ed0d8233f81411b6d291853eaca"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/0.json"
+hash = "1bc8fdfdcb0bc64f16ccfa7fc7a80c3caf7636192151fff1fb9e656e731c067c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/112.json"
+hash = "f23b347cd4cde0f503808723045c8d6352931971e7f986bf70ce056370876125"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/128.json"
+hash = "6ea7bc71d854368162d7d3c3b4b91237ec9441b57981f2521b462acfc73c5cd2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/144.json"
+hash = "2e94af9f971cc491464c54d03c61577586edaa2ccebc0ba2b1c720a8df4d41bc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/16.json"
+hash = "61c22e6e3b56b780a2178e9698765242a57e62316625756967acd74377402548"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/160.json"
+hash = "4407d41bb0926e704e5ea3aa78172607f81a02fdf7256fc9672c8a0b10ea72ef"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/176.json"
+hash = "03906bf0050aed3ccb1dcf6c9642c66dd26123b80321fa3446c95e189bc3d224"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/192.json"
+hash = "8fac870bcd33167a2503620e69145e8db217d6060f5c7bfdf40d9e450d09b1b1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/208.json"
+hash = "70c3b62b61806a099d365448aef112f74ec14fdebf0fed1c95118521186ce229"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/224.json"
+hash = "86db3ccc4db841b603a6e0bdb27994c7f94a7354b32421510a2d016baff3d7b7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/240.json"
+hash = "89833d148e645c8641659c427633392d1010676ab8b9ffdcbf4f3a6754b35817"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/32.json"
+hash = "d0354b2fd1f4fd395409e8649ac72cc896d622d0947224a564add25068311787"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/48.json"
+hash = "450c467080b2f664199f87e78795114a48a814caebe9c2bfda811a4d47f37394"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/64.json"
+hash = "7ee483d5eb3b1f1e235346cc5dc9d321bd2126ce13193948369e303af27560ed"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/80.json"
+hash = "b1fc02e80ef6dd78278220e328b28d46b9c680574d51d0e4edf09109cd9ec97e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_feature/96.json"
+hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
 hash = "6554c1cc8794a1daf77606a8a82af19597d446f947ce05d4bea8fae1793051ce"
 
@@ -1989,6 +2228,10 @@ hash = "58d8108b7584bd2d068787b818ca1ee18a9b2c61b181fe5a1da34870143a9ce6"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_surface_lava.json"
 hash = "f9d227f7eaa6a0b58a6a9aa5c01cf404e4e3f6c424e4b9487723670eed17d162"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/overworldify_nether.json"
+hash = "e7d630fb1adc687e8cd4aaa88695c89d03975ae16a28b831b7c8062ebcb5ce6e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
@@ -6703,6 +6946,10 @@ metafile = true
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
+
+[[files]]
+file = "mods/fortress-tweak-1.0.0+1.20.1.jar"
+hash = "c4cddec3269f9a71b3bc943c8c96cba87d75c6a366cd64e776d1167ab682e043"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
