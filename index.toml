@@ -682,6 +682,10 @@ file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_l
 hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
+hash = "a071d77faff73a18efd8ff2ded356104e74a0aa693b089ac4fe08c9b3d5777d6"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/amethyst.json"
 hash = "f3832ef7c09a1f5ab1f089f000383e5081b21eeb3b539089db6c19b77358637b"
 
@@ -1119,7 +1123,7 @@ hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_nether.json"
-hash = "20d8f0cbf76f691633d8ec6c84b3038cb68b60adb5859c42827206cb70593cbb"
+hash = "323b7f6bfb15e3e69a75b7abc25e78f509d02b9bb5dfbcb38d6762f1a5fbc183"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
