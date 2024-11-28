@@ -2042,6 +2042,62 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/che
 hash = "5633a90bb18dd0fa7f6aeb4af7fdc33c553ae17f036deb9fccd12c0c6beef45e"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/donjon.json"
+hash = "4bfbe7b78102841f4005fa10990996cb5833e44d3c22049f5f5b9badf8a5043c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/hamlet.json"
+hash = "d83d3aa989845c6d99ca68b1fa934899997c78979712fb38829fcdde8ea9a4f2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_keep.json"
+hash = "84c367b84d3632d59271e2568d2b68527f66623037c90bc2b09fca610583c2e5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_port.json"
+hash = "cc25826adddf446b83d81f42377f5412bec2218b36c983feba162ec7bc775c48"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_skeleton_tower_basalt.json"
+hash = "749c39d9d02f830981bc95c9b5786e0089335dccf327eca5a331847d4a3e9403"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_skeleton_tower_crimson.json"
+hash = "0d42515858102868a00701d36d3021157609a231e0fd795aa2a3bc1694ed6225"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_skeleton_tower_soul.json"
+hash = "5d560fb7a9b937ad9a3f5bfb30ffa4f99421db5adc8b72c8fe40a05faf3c266e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/nether_skeleton_tower_warped.json"
+hash = "5ecfa7ce8f5665241d507c33989f0ffc335b33e363e209265251b4a650e4b20c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/piglin_camp.json"
+hash = "7c63a126afdbc113dbba17891c32bc6fdc8fcfcc8596d44ca81f6f1dcff9700d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/piglin_outstation.json"
+hash = "2312b15afa19b18b2859b5ba5a36a8166143aa37e3b0be5b6adc4197cdbc04b5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_crimson.json"
+hash = "fa75fbaf356a4bf857356be3f3057c0d8d39c8032955c232ebd0c64963b9becb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_soul.json"
+hash = "7ba7810b1e98921fbecc4db9ff5225be48131e1d57dbd4633017dc40b8a34d4e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_warped.json"
+hash = "dd827856b2120c66e28ca26bba3185377e7031ebf1e61f1f2916f9b13fd845da"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_waste.json"
+hash = "fe7eb4005a4234f9121347028e3ad8608f8d0726024f58fc0821080e4aed2ec5"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/badlands_miner_outpost.json"
 hash = "d9fa422f3838f7c8145a203ed71ccc116c6567fdacfcdcfcc7aeeaf6a62a5264"
 
