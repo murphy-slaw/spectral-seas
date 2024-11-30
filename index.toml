@@ -7064,6 +7064,11 @@ hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "3460277f521c66c6f32ad2b64369139c01d8fbc1237266d7416d43de758c3bb4"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
@@ -7434,7 +7439,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
