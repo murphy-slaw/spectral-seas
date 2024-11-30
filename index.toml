@@ -1947,7 +1947,7 @@ hash = "41fc7d8c5346678905620c057f33f40c947009aeed74724b02f117468cb0ee25"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest.json"
-hash = "d4f4b73a7901241119fb914bf589a720e690cbb7a44f6e4f521c51317067aebf"
+hash = "801b40b0543afbb78685ce116c21b4d31ea941e242dfbb126af563b17c4253da"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/chests/tavern_quest/ancient_city.json"
@@ -2391,11 +2391,11 @@ hash = "a35bea7e5fd29cd14a3c63bc0f8a72a9b0f7d697dcb5d15da42e95581c6015db"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "2601a7fb1264d85c222af4261b9e4b65e3f757dc4246832a87079bb38e6fdc0e"
+hash = "5b9a86c0fc1df17ad37fa6d1106da394857223dcac3400e9c732939a26b690de"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "2a4a659ecc9d881439a9990db55ec308628f2f73b4d3e7b5eaa21779900bf525"
+hash = "51f92b9515fb8eb2e679b70b8423f0a720d416a474afab3c8cf5b29cdaddad1d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_map.json"
