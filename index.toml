@@ -802,8 +802,12 @@ file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/loot_tables/game
 hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
+hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "3ba2b37eeced7c53a0305ca69c2b925e7ee86bb9cadd9180289ed8982bcf1f4b"
+hash = "61666ea0addaaba7bfe9be3fec160e1b6f30f4499f3faeb54ed59ca9fc89ba3d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
@@ -878,6 +882,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_ju
 hash = "50a7e9f746279f42094484bc6765311fed008c81eda2fb19027482bfda439e26"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/boulders_cannot_replace.json"
+hash = "428e679c13971fec752a3c412923ac9cc13e43f2be2f7badde1eeb2b80749eba"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_diamond_tool.json"
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
@@ -943,7 +951,7 @@ hash = "168a398130ec7c9d627b4410d2a34e927e3d07d92993f71008fef69032849ad8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/boulder.json"
-hash = "b5f13bb961671caef4c938cd09fe6f674efbcd7069f20330419ee5b39ad3965b"
+hash = "2c5b0300e498650e75dbb838b958ffdf1222f3c6a39665b7294a1338c18de235"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
@@ -2266,6 +2274,10 @@ file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_fe
 hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
+hash = "eee1692c41265a9413735d0be1e227eaae76b80517928ddd26bcc57b98d1c34f"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
 hash = "6554c1cc8794a1daf77606a8a82af19597d446f947ce05d4bea8fae1793051ce"
 
@@ -2283,11 +2295,11 @@ hash = "52d63b62e3f953d1211bd7cb848899dbfc5be825bfcc771b0409afb1655e9b35"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_lava_springs.json"
-hash = "58d8108b7584bd2d068787b818ca1ee18a9b2c61b181fe5a1da34870143a9ce6"
+hash = "798993d410b869c534d1794acaa93e7e873cc28c2a259afe22e5f9fbeb3418ba"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_surface_lava.json"
-hash = "f9d227f7eaa6a0b58a6a9aa5c01cf404e4e3f6c424e4b9487723670eed17d162"
+hash = "6f6d0072d9a1bb7d7486177412dbf90f2463c79d2e8d4e59bbcadc34fb7e8add"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/overworldify_nether.json"
@@ -2479,7 +2491,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "64dddcd897e7787f80c3f7f53f1d3d34b5f6d8ae04af2117ecb89367fec5cd3c"
+hash = "c0a59db4c62ef19425b531a247cbe9fa1d2dd616f9169a9b53fe05b4628ab319"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -6161,7 +6173,7 @@ hash = "481b4733639b1f13d21cec961ea1a5ed412365eb2123306c684cee78cef15ea6"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "152a5d4ac883d540b85b15b35ec31ddd1f49f7551686dc9477967c8d877ae961"
+hash = "910f802f34d7d212022285d69b7833422bd93682aae967388e9f5f665fcc403f"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
