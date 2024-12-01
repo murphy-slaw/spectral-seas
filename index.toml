@@ -867,7 +867,7 @@ hash = "811d2f43d6fc278e5706b569c19154c3ca8c046c4a34df9a0623acd368333a45"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/entities/pillager.json"
-hash = "2b819575fee2c2e0cab7939b10925f76f9706f36d9e337d4d2ce22aa02e634fb"
+hash = "1caeac9664f787a8e41f9ebc0ee56bebbf92bcba75592f50068c5d41fcd27baf"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
@@ -2275,7 +2275,7 @@ hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
-hash = "eee1692c41265a9413735d0be1e227eaae76b80517928ddd26bcc57b98d1c34f"
+hash = "e82ccb5eb93ab1f684e2cc0e149dbf6fc664606d574960e4940efb75d643b984"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
@@ -6681,7 +6681,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "4b5a953aa971e9c75e8de8b1d559d3cf94be979267764a7e0033ce78ef3e2626"
+hash = "ac9d4a73799c15a74d6a8f45290c017f2ee8d60837ad2d4d39759f9a993cafd5"
 metafile = true
 
 [[files]]
@@ -6880,6 +6880,11 @@ hash = "bbb4d73b73cabaac034020a55031a3c9fa36a0e040f3f5fae09e95a8fbbecd7c"
 metafile = true
 
 [[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "6a5b425f56d3bc3772ccb987bace4b2b088bd1330a29deeb9be6e67089ed072b"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "bd6bb1295c24783c0da7ae8ffc9406b895e15b3e87f045a608bd7e733c8c7f51"
 metafile = true
@@ -6891,7 +6896,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "e32497f1cdc6c7f4a7ca486848663c4a9c6253f51407ae63e0d69e6a21ca1bf9"
+hash = "abf782c74c265ec79190c7d7f05c419a9adfd2f8a00ec8ea9389a8a40a36b1d0"
 metafile = true
 
 [[files]]
@@ -6981,7 +6986,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -7076,6 +7081,11 @@ metafile = true
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "87d924c6bd605e2d2dbde7cc46a05de80f892fd002a899c0526f4505a9591c39"
+metafile = true
+
+[[files]]
+file = "mods/i-see-what-you-did-there.pw.toml"
+hash = "a3a759baa8fcd86438ad2bc946be4bc0ca172470f43b7c1f27fe47d558539fa9"
 metafile = true
 
 [[files]]
@@ -7224,11 +7234,6 @@ hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "c0b2c1fc1e7f76d01a4db6ea10cbf76b63533e0d7fcabf702e1e09f0a026aa68"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
@@ -7275,7 +7280,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0ad670719a1c2449db1516a1925bbfe377f855f9367fa83036484090cd902158"
+hash = "103caf4674b7e6dd8cd189c88bc2a261d135a073a4ebec132316fc14662bb7bc"
 metafile = true
 
 [[files]]
@@ -7519,7 +7524,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "9e871f3bf865f5c9acd48c2e21beb85da8abe3653204a9bd79cb2dafcf2b0352"
+hash = "659d57b5c9c5dcf08728faec38027c1c3b99208014b00d3bdc23023179957135"
 metafile = true
 
 [[files]]
@@ -7564,7 +7569,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "481c61790292ee785f7fe95cad50e18de3189edec609bf059958473aebbbe4b3"
+hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
 metafile = true
 
 [[files]]

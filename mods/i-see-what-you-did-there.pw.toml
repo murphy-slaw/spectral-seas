@@ -1,0 +1,13 @@
+name = "I See What You Did There!"
+filename = "iswydt-1.0.4-1.20.x-FABRIC.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IRfoIXHf/versions/YVytwUXL/iswydt-1.0.4-1.20.x-FABRIC.jar"
+hash-format = "sha512"
+hash = "f3c3cfefd05fea3e7a515995b6a814aeaa7b77c36f5e5d191e3eef7caaac1a6926e319e58f22a00412f50d84ce1fd8fffdd165bfba13734c11c00b0f77d3448b"
+
+[update]
+[update.modrinth]
+mod-id = "IRfoIXHf"
+version = "YVytwUXL"

@@ -1,0 +1,13 @@
+name = "Delightful Froge"
+filename = "delightful-froge-0.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVVHL1Wb/versions/XfPTfrSX/delightful-froge-0.1.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "2e1c876f12417c681b7965ca60fc6ed22ebd725b5baa715aa7bf108dbad470ef09252824f98d85db0cb8f2b4bc3741be511b00c11b364a916e69467d38e21dcc"
+
+[update]
+[update.modrinth]
+mod-id = "UVVHL1Wb"
+version = "XfPTfrSX"
