@@ -1,6 +1,7 @@
 BlockEvents.rightClicked('minecraft:obsidian', e => {
     doPortal(e)
 })
+
 BlockEvents.rightClicked('minecraft:crying_obsidian', e => {
     doPortal(e)
 })

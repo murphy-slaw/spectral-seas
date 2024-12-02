@@ -23,14 +23,14 @@ maxTileChunks = 5
 # 0: 1 tile = 16x16 | 3: 1 tile = 128x128
 # range: 0 - 3
 # default: 1
-maxTilePixels = 1
+maxTilePixels = 0
 # The effective GUI scale for tiles and markers - independent of the overall GUI scale.
 # 0 will match your GUI scale - pixels will be the same size as the background & buttons
 # -1 will use half your GUI scale, rounding up.
 # -2 will use half your GUI scale, rounding down.
 # range: -2 - 10
 # default: 0
-mapScale = 0
+mapScale = -1 
 # The maximum number of chunks to load onto the map per tick after entering a world
 # default: 100
 chunkTickLimit = 100
@@ -51,6 +51,7 @@ debugRender = false
 	"archeologyplus:start/monolith_desert" = true
 	"archeologyplus:start/small_ruins_desert" = true
 	"archeologyplus:start/statue_jungle" = true
+	"betteroceanmonuments:start/ocean_monument" = true
 	"minecraft:start/bastion_remnant" = true
 	"minecraft:start/village_desert" = true
 	"minecraft:start/village_plains" = true

@@ -51,6 +51,16 @@ PlayerEvents.loggedIn(event => {
                 "eccentrictome:version": 1}'
             )
         );
+
+        let weapon =
+            Item.of("simplyswords:iron_cutlass", 1)
+                .enchant("spellbound:storied", 1)
+                .withName("Grandad's Nasty Old Cutlass");
+
+        weapon.setDamageValue(weapon.maxDamage);
+        player.give(
+            weapon
+        );
     }
 })
 
