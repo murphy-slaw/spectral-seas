@@ -18,7 +18,7 @@ hash = "a54effc43b52d4bfe821bd9a818a67f02638f6f44b34b4f15e7f92c7dda54ef0"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "ce6affefbfb23585843e552854d6b9ddee93c8cd2f7596d68b5583f68318c343"
+hash = "92b3464943ef0c0ebb1cea5a6b85a0bba517c133811251a3403c9a037988003c"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -3942,12 +3942,16 @@ file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/abridged/texture
 hash = "0de0280141a33cf2dd93be5905e8f7a8daf6588c13ba82f1d45ce0a0c3848ae2"
 
 [[files]]
-file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/atlas/textures/structure/shipwreck/beached/shipwreck_beached.png"
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
+hash = "47c38ee03679aa5cd2552d3946b1eccfe19042fba0abb649b5687c64554c1f24"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/tile/structure/shipwreck/beached/shipwreck_beached.png"
 hash = "fb00b080724f38738fa611e04a01d21c3bf09007c9735d349c5552aa800e9a1e"
 
 [[files]]
-file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
-hash = "47c38ee03679aa5cd2552d3946b1eccfe19042fba0abb649b5687c64554c1f24"
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/tile/structure/shipwreck/beached/shipwreck_beached.png.mcmeta"
+hash = "adf825d794fab6627cb49be382501381508a346c8863e54cd726b3abf1e402cb"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/betteroceanmonuments/atlas/structure/start/ocean_monument.json"
@@ -6217,7 +6221,7 @@ hash = "4090a47db0c746e98dd1abf9e316cb2a7b788ea52531ca01aef1371d4d90e13c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "481b4733639b1f13d21cec961ea1a5ed412365eb2123306c684cee78cef15ea6"
+hash = "77fac9c4d9e31cd0b41748e494a67d1ebaed93a5bff4068bfeb194a12811f34d"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
