@@ -5,6 +5,22 @@ file = "LICENSE"
 hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "0c7afb338d9284e608a2643411f7f9535a3d4fb361fff78db75f790585edbfca"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "d5f6b3eea1b4f5453af72df4a0eeed9fb8df125c397e20a1493cfde68f7852cb"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "b9222c180761da05a7c492c57943137ea29b8eae4abaf4e4a03763c5445439f4"
+
+[[files]]
 file = "config/PaginatedAdvancements.json5"
 hash = "105f5d839c10fe6b03c2455a76e0fdc6e617b4f5046dae642fd4ee0502e579d5"
 
@@ -7311,6 +7327,11 @@ hash = "f9dfa55224fb56a008d6b801bb80ceede99d7457fb74ae46d6321401bfd89e99"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "29ba21e77786b746407e73a1fa4d6c84921f2d2aecf18cf453c7ba655e8ec7f6"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
 metafile = true
@@ -7730,6 +7751,10 @@ hash = "7b60366b4d10ca47a3caf60d6710fa512660ce7b0275f923299d8b1b8e769915"
 [[files]]
 file = "options.txt"
 hash = "005024fd772f94547537803ac5e335ba311beaddde25ecbd2b5c0604e98c0edd"
+
+[[files]]
+file = "resourcepacks/AveriaSerifGWF-Regular.ttf"
+hash = "a4502cf1365172629a9dc419076b0b431d6dd47fa5195668438efaf93ca9c13e"
 
 [[files]]
 file = "resourcepacks_disabled/pirate.pw.toml"
