@@ -5916,6 +5916,34 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/stru
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_0.png"
+hash = "53308946b11b56b0427f2ebc4143a958ae13b99408180ba2ed6d7e5555d324af"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_1.png"
+hash = "c3d53819f5774d6ca06b954daf0cd1c8e8e5047ed422ca27d2620887cf6f5fff"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_2.png"
+hash = "c80c49bb2c5617e03d995204eda880bef7c79a0ee9eeb8277db48d097ccca75e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_3.png"
+hash = "5f9a0e5ba759f02eb7edfa06de346c03fbd5b7c7c45e33f6431c48a79daedec8"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_4.png"
+hash = "839b118c76e2d925a202c897a126e59a4ebf89d05964de32ac5256dd87677864"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_5.png"
+hash = "efc13484edda11d1f4ece6b9afc0d7171cb195aec48fd5dfe6cbb558bf743c10"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_6.png"
+hash = "08c134fb4c181d2912e8fa57794bcabd3498463d32d543608c23ab8770e139b5"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us.json"
 hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 
@@ -6245,7 +6273,7 @@ hash = "910f802f34d7d212022285d69b7833422bd93682aae967388e9f5f665fcc403f"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "7a6cb02e8240b5ccbfb7bb0e3202b582780f62fa6d2fdf8d12afebe41ac284f9"
+hash = "ae3334244acb881b7063d582a6613eab81b28d1590fdcf1d4972f20c98c1775a"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -7142,6 +7170,11 @@ hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
 
 [[files]]
+file = "mods/heracles-for-villagers.pw.toml"
+hash = "38a04c32b5a3fd48d4eb83243022b510fa9e94dcda532eb6e1336552c236ed39"
+metafile = true
+
+[[files]]
 file = "mods/heracles.pw.toml"
 hash = "3460277f521c66c6f32ad2b64369139c01d8fbc1237266d7416d43de758c3bb4"
 metafile = true
@@ -7516,6 +7549,11 @@ hash = "d8530cd5c47a4c34e1e9faeac3c2b9bd53e4ad70c1a352c577ccf18f05414b36"
 metafile = true
 
 [[files]]
+file = "mods/regrowth.pw.toml"
+hash = "b36fee42c2d9cf9d457719ea538cd54d3b51e26412763ac481299a6982495a6c"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -7687,6 +7725,11 @@ metafile = true
 [[files]]
 file = "mods/unseaworthy.pw.toml"
 hash = "a133fc524126c0ad777902010da9704f82e8c51c3a217f89d1d12c40b29f539e"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig.pw.toml"
+hash = "76455684c281e57f2e80d8ab019543fc75d221839aefb660515b7c8e3597190b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Regrowth"
+filename = "fabric-release-regrowth-1.20-83.31.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eR7uVkrb/versions/stuB6mht/fabric-release-regrowth-1.20-83.31.1.jar"
+hash-format = "sha512"
+hash = "3ae0042369aeb1d9855a3080c44c795ff48587b521c1afd1fee45c36dc30c22dfe1594fb52d39553eac872d8610bfd2a516b9446115c4c0c9bc5aff22610ad5d"
+
+[update]
+[update.modrinth]
+mod-id = "eR7uVkrb"
+version = "stuB6mht"

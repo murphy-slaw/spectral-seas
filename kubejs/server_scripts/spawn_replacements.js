@@ -15,11 +15,7 @@ const vindicatorWeapons = [
 ]
 
 const pillagerWeapons = [
-    "musketmod:pistol",
-    "musketmod:pistol",
-    "musketmod:pistol",
-    "musketmod:pistol",
-    "musketmod:blunderbuss",
+    "musketmod:pistol"
 ]
 
 EntityEvents.spawned(event => {
