@@ -6771,7 +6771,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -7610,6 +7610,11 @@ metafile = true
 [[files]]
 file = "mods/selfish-villager.pw.toml"
 hash = "ea84e6242bcff0342d7cbf8077afc1656b622f907a0e95ad2aa1cb9b2e9fb736"
+metafile = true
+
+[[files]]
+file = "mods/separatedleaves.pw.toml"
+hash = "3e4e75703a1575a8f3a5033a10d1c503fbcca8357775eb6e816355779885d1c0"
 metafile = true
 
 [[files]]
