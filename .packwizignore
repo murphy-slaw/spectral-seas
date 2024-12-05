@@ -7,3 +7,4 @@ builds
 design_docs
 *.code-workspace
 kubejs/probe
+local
