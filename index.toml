@@ -182,7 +182,7 @@ hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "73634407140dc7ed9f7e58b3a1f8396878c6876b98bb682ad0cd84c3487969c0"
+hash = "ac9efb4242964815d6709802847ecb7f1279f8dd33dc2ae9498c2e343650d94f"
 
 [[files]]
 file = "config/deathlog.json5"
@@ -526,7 +526,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "a15b886b0e97866dbdbc931515ef005e435a556c154189ea285424383ea83cf6"
+hash = "961ce203c750efaf748151dadf49a48a64750e45666a6bee782d2b7b487e0ff6"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/LICENSE"
@@ -938,8 +938,12 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/h
 hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json"
+hash = "732c03b11a6e7a89c06ea3d06bb1cdbd7a19418b9f88ce98fbf0a9e8209a0894"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_beach.json"
-hash = "b39edb2302ca854726657d7e5a1684f08c91273aff1d7607746ab729676ba578"
+hash = "d89d5ee0be6ecac94fd42dcedae7414033b83d18d072772c30db77918554d639"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_nether.json"
@@ -1148,6 +1152,10 @@ hash = "2722ad28792eb0a5ce3394e608e4ac7dc2dd9723bb5a3535e72ab09f67c3fcd4"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_nether.json"
 hash = "323b7f6bfb15e3e69a75b7abc25e78f509d02b9bb5dfbcb38d6762f1a5fbc183"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/shipwrecks.json"
+hash = "8b5c5e9fd3f60f1f7f3946fc94cb57562ca31b85ece029d1350af20bcb199065"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
@@ -2291,7 +2299,7 @@ hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
-hash = "e82ccb5eb93ab1f684e2cc0e149dbf6fc664606d574960e4940efb75d643b984"
+hash = "c04b252440ed506cdf19918fa5dc79205b1b1bf04e2926f78968b69aaf21e89a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
@@ -3959,7 +3967,15 @@ hash = "0de0280141a33cf2dd93be5905e8f7a8daf6588c13ba82f1d45ce0a0c3848ae2"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
-hash = "47c38ee03679aa5cd2552d3946b1eccfe19042fba0abb649b5687c64554c1f24"
+hash = "a36616fc35c853810b3ae613ea4686b02cf35e45448a5e27a2cfc2ccb645fa6d"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/marker/structure/shipwreck_beached.png"
+hash = "279b87e30aa3e59562ff1cd76c08cc012bd2276be2a84f318856a87c3a56b33e"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/marker/structure/shipwreck_beached.png.mcmeta"
+hash = "b2e0f990f544155d2925445c7a73723e3a97582109a25fc06f2d437ce841ae44"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/tile/structure/shipwreck/beached/shipwreck_beached.png"
@@ -5752,6 +5768,14 @@ hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/nova_structures/atlas/structure/start/village_swamp.json"
 hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/revamped_shipwrecks/atlas/structure/start/shipwreck.json"
+hash = "6fec5338a5902665927345c38ac636826a5094ce29773c8a149a56e67006aa43"
+
+[[files]]
+file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/revamped_shipwrecks/atlas/structure/start/shipwreck_beached.json"
+hash = "6fec5338a5902665927345c38ac636826a5094ce29773c8a149a56e67006aa43"
 
 [[files]]
 file = "config/paxi/resourcepacks/antique_atlas_respacks/assets/totw_reworked/atlas/structure/start/derelict.json"
