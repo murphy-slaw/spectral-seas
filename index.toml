@@ -6946,7 +6946,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
@@ -7335,7 +7335,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "53a82095df6f2e55f87c02a688b79bfb4be5fea04a3d8ceb8e57853bd1e0dcd6"
+hash = "53b190cf830b889377cfc476a0992224afa2182a8930d501402c2b1999123edf"
 metafile = true
 
 [[files]]
@@ -7664,7 +7664,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "659d57b5c9c5dcf08728faec38027c1c3b99208014b00d3bdc23023179957135"
+hash = "71f3aa353ecf403cbea9fa44b7aec8e700abeb92f99ea9f677bc50de6734e3b6"
 metafile = true
 
 [[files]]
@@ -7773,7 +7773,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bfbc7df6faf59abeefe6f24d9aa64878270d53867ef3130c1c5acb85d814e77f"
+hash = "a1e018b4de9eab21229948372fbf4225dce8fe0ef39773f1d0b68e14a3a0156c"
 metafile = true
 
 [[files]]
