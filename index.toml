@@ -6855,11 +6855,6 @@ hash = "9bf0bd16fe45d6f316402afcdf86a29f939215f865654a2293255cf19f0256b1"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
-metafile = true
-
-[[files]]
 file = "mods/boats-on-lilypads.pw.toml"
 hash = "336e07640931f18456fcebe32417f353469ad73abc28b97be5205a256a8ffd3a"
 metafile = true
