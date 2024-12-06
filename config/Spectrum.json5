@@ -14,7 +14,7 @@
 	"ExtraDarkDimension": false,
 	// Adjusts the general brightness of the dimension (an increase of 1 is a lot, for reference)
 	"DimensionBrightnessMod": 1.0,
-	// Mod Integration Packs to not load (in case of mod compat errors)
+	// Mod Integration Packs to not load (in case of mod compat errors). Put the mod id of the mod with integration pack conflict here
 	"IntegrationPacksToSkipLoading": [],
 	// Add some advanced tooltips to items, like if Sculk Shriekers are able to summon the Warden
 	"AddItemTooltips": true,

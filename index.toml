@@ -30,7 +30,7 @@ hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "a54effc43b52d4bfe821bd9a818a67f02638f6f44b34b4f15e7f92c7dda54ef0"
+hash = "604528bd9e741155a866d3c95449e24b01fce5fb09db5dd64de4f5bfa95a6226"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -7296,9 +7296,8 @@ hash = "71f3aa353ecf403cbea9fa44b7aec8e700abeb92f99ea9f677bc50de6734e3b6"
 metafile = true
 
 [[files]]
-file = "mods/spellbound.pw.toml"
-hash = "643e0016dc7b157cb0ea94dbfd5cc68910e9376d813cdf04ccbb43719dab7d2e"
-metafile = true
+file = "mods/spellbound-1.17.0.jar"
+hash = "6ab5e296a9251e732cbdbf7cdfc64a8b336984c988461d9d5f7775125e4c9823"
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
