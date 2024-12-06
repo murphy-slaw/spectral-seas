@@ -2318,6 +2318,10 @@ file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_typ
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/diving_set.json"
+hash = "15035aef92c5503ce696a679b20decaf4778a42dd726ff62a720200ab7fa503a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
 hash = "52d63b62e3f953d1211bd7cb848899dbfc5be825bfcc771b0409afb1655e9b35"
 
@@ -2352,6 +2356,10 @@ hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/revelations/reveal_mystical_flowers.json"
 hash = "7e4be20290fe21687227521412f587f83994f5a4276d1df561ac35a45043c709"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/items/diving_suit_set.json"
+hash = "e4790cddd2317cd552e1a1e0c7538b9a294431fd000a72049ebddf4aa1e90afb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
@@ -6962,6 +6970,11 @@ hash = "36629dc7bf584f22f84d7fcb1664876f722d4ad248fa6692ec77fa1b1edf553c"
 metafile = true
 
 [[files]]
+file = "mods/lilligant.pw.toml"
+hash = "b27f1edbdd9a03aff43ca8dbdb211c40ac6f28d8bb3c09dd7fd1aece8c436074"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a3e443343c15ff73b4180e0573db24b0a5faf9479fdf55ca89786c1a4adf1c2c"
 metafile = true
@@ -7367,6 +7380,11 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing-2.7.0+1.20.jar"
 hash = "693529938ebe873f089ba6c9c08e414b378a27b14c1004821c925f12bc60272e"
+
+[[files]]
+file = "mods/tipsylib.pw.toml"
+hash = "1979f7c25dcef7e866c94569099c52e68f4ef7c3f8afa72e5ff1561875cf57eb"
+metafile = true
 
 [[files]]
 file = "mods/tridents-n-stuff.pw.toml"
