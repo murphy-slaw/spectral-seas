@@ -6698,6 +6698,11 @@ hash = "b7292ddaf4e29b7e9bebadfc1948c98ab08366914ef312e37cfc56601763f828"
 metafile = true
 
 [[files]]
+file = "mods/equipment-sets.pw.toml"
+hash = "b040ab501955119d1980fbd208c369c502e9e1ee5e9b0037ad12490df8e396ab"
+metafile = true
+
+[[files]]
 file = "mods/euphonium.pw.toml"
 hash = "18db436190bc3e3747008549edd0f712912e76c9eaac4061dcc53966f0904114"
 metafile = true

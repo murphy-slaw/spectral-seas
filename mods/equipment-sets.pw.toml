@@ -1,0 +1,13 @@
+name = "Equipment Sets"
+filename = "equipment-sets-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VS7JpRo/versions/K1yTJ48Y/equipment-sets-1.0.1.jar"
+hash-format = "sha512"
+hash = "69c5ee343d5f19567ac1fa6aba2fbb5737c1091538267e071be6e6d51b3ba5a8e0dd92f2041ba2b0d37b0176c425b9310fd55fa1a466ac6e64d44e6e5a51eb06"
+
+[update]
+[update.modrinth]
+mod-id = "1VS7JpRo"
+version = "K1yTJ48Y"
