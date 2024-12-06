@@ -1,0 +1,13 @@
+name = "TipsyLib"
+filename = "TipsyLib-fabric-1.20.1-2.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/t8k16ZNB/TipsyLib-fabric-1.20.1-2.0.9.jar"
+hash-format = "sha512"
+hash = "932866f5a5d75fea1fa2cca1d59ff70a52114b54b35cb2dcb33350ee6fb601770af482f303472c817d108605087aa822b8ad58085bbee0ec408f0c3362abe99f"
+
+[update]
+[update.modrinth]
+mod-id = "mk0Htq87"
+version = "t8k16ZNB"
