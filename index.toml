@@ -54,7 +54,7 @@ hash = "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "2d20a99bd82ab5aa1cd695affc9495b0a57b3f81b2111cf61f9971b88342276e"
+hash = "c425f5e7271402bce3b131502fcd84b3720c9cf236737dd17f95c0ff82a3da0c"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -824,6 +824,10 @@ hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
 hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
+hash = "a309420fbfb3324ee46c439e0f44ef264e0a8b3319b84d196cc195d8c0c66449"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
@@ -2319,7 +2323,7 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/diving_set.json"
-hash = "15035aef92c5503ce696a679b20decaf4778a42dd726ff62a720200ab7fa503a"
+hash = "de44cb69eda114cef94f0c44aa828a4a985b4c320c732fd786e50ff13792038a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -5984,6 +5988,10 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us
 hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/mob_effect/amphibious.png"
+hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
 
@@ -6338,6 +6346,10 @@ hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 [[files]]
 file = "kubejs/server_scripts_disabled/tags.js"
 hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
+
+[[files]]
+file = "kubejs/startup_scripts/amphibious.js"
+hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
 
 [[files]]
 file = "kubejs/startup_scripts/turtle.js"

@@ -11,6 +11,18 @@
 		"fadeOut": 0.0
 	},
 	"revealType": "Stacked",
+	"events": {
+		"onScreenOpen": "Nothing",
+		"onMoving": "Nothing",
+		"onStandingStill": "Nothing",
+		"onPauseScreen": "Nothing",
+		"onSneaking": "Nothing",
+		"onFlying": "Nothing",
+		"onUsingItem": false,
+		"onMining": false,
+		"onSwinging": false,
+		"onAttacking": false
+	},
 	"statusEffectTimer": false,
 	"defaultValues": {
 		"speedMultiplier": 1.0,
@@ -23,6 +35,7 @@
 	"hunger": {
 		"policy": "Low"
 	},
+	"revealHungerWhenHoldingFoodItem": true,
 	"air": {
 		"policy": "NotFull"
 	},
@@ -33,6 +46,11 @@
 		"active": true,
 		"onChange": true
 	},
+	"experienceBar": {
+		"active": true,
+		"onChange": true
+	},
+	"revealExperienceTextOnTargetingEnchantingBlock": true,
 	"mountJumpBar": {
 		"active": true,
 		"onChange": true
@@ -41,10 +59,11 @@
 		"policy": "Changing"
 	},
 	"statusEffects": {
-		"active": true,
+		"active": false,
 		"onChange": true
 	},
-	"hidePersistentStatusEffects": true,
+	"hidePersistentStatusEffects": false,
+	"showHiddenStatusEffects": true,
 	"hotbar": {
 		"hotbar": {
 			"active": true,
@@ -54,7 +73,9 @@
 		"onLowDurability": true,
 		"durabilityPercentage": 10,
 		"durabilityTotal": 20,
-		"maximumFadeHotbarItems": 0.0
+		"maximumFadeHotbarItems": 0.0,
+		"revealExperienceTextWithHotbar": true,
+		"hideTooltip": false
 	},
 	"scoreboard": {
 		"scoreboard": {
@@ -67,6 +88,18 @@
 	"crosshair": {
 		"active": true,
 		"onChange": true
+	},
+	"chat": {
+		"chat": {
+			"active": false
+		},
+		"displayIndicator": true
+	},
+	"actionBar": {
+		"active": false
+	},
+	"bossBar": {
+		"active": false
 	},
 	"advanced": {
 		"hotbar": {
@@ -132,6 +165,24 @@
 		"crosshair": {
 			"speedMultiplier": 2.5,
 			"maximumFade": 0.1
+		},
+		"chat": {
+			"direction": "Left",
+			"speedMultiplier": -1.0,
+			"distance": 100,
+			"maximumFade": -1.0
+		},
+		"actionBar": {
+			"direction": "Down",
+			"speedMultiplier": -1.0,
+			"distance": -1,
+			"maximumFade": -1.0
+		},
+		"bossBar": {
+			"direction": "Up",
+			"speedMultiplier": -1.0,
+			"distance": -1,
+			"maximumFade": -1.0
 		}
 	}
 }
