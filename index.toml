@@ -6982,9 +6982,8 @@ hash = "36629dc7bf584f22f84d7fcb1664876f722d4ad248fa6692ec77fa1b1edf553c"
 metafile = true
 
 [[files]]
-file = "mods/lilligant.pw.toml"
-hash = "b27f1edbdd9a03aff43ca8dbdb211c40ac6f28d8bb3c09dd7fd1aece8c436074"
-metafile = true
+file = "mods/lilligant-0.8.1-2-g7eca0a5.jar"
+hash = "276a4c3313a7d005a540636d24c8dafa9e3459520d748652deaa203fdc080a1d"
 
 [[files]]
 file = "mods/lithium.pw.toml"
