@@ -7364,6 +7364,11 @@ hash = "dfcc3670bff556635fdfa355c050659537a63a36d884b49a6ec591c8369759b3"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "3535f09ca9885063d4830c1cb32d24e6a98c1d16bd24b9071d4f5f42a3d7ad4d"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
 metafile = true
