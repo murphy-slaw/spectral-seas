@@ -67,12 +67,11 @@ key_modifiers_key.craftingtweaks.decompress_stack:0,0,0
 key_modifiers_key.craftingtweaks.decompress_all:0,0,0
 key_modifiers_key.craftingtweaks.refill_last_stack:0,0,0
 key_modifiers_key.craftingtweaks.transfer_stack:0,0,0
+key_modifiers_key.crawl:0,0,0
 key_modifiers_key.deathlog.death_screen:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_key.mount_jump:0,0,0
 key_modifiers_key.exposure.camera_controls:0,0,0
-key_modifiers_fakerlib.toggleWings:0,0,0
-key_modifiers_fakerlib.toggleTrails:0,0,0
 key_modifiers_key.fbp.toggle_mod:0,0,0
 key_modifiers_key.fbp.toggle_animations:0,0,0
 key_modifiers_key.fbp.open_settings:0,0,0
@@ -92,6 +91,7 @@ key_modifiers_key.climbdown.desc:0,0,0
 key_modifiers_key.enderlaunch.desc:0,0,0
 key_modifiers_key.rocket.desc:0,0,0
 key_modifiers_key.slide.desc:0,0,0
+key_modifiers_key.heracles.open_quests:0,0,0
 key_modifiers_key.inmis.open_backpack:0,0,0
 key_modifiers_key.interactic.pickup_item:0,0,0
 key_modifiers_key.jei.toggleOverlay:0,1,0
@@ -125,10 +125,10 @@ key_modifiers_key.jei.previousCategory:0,0,1
 key_modifiers_key.jei.nextCategory:0,0,1
 key_modifiers_key.jei.closeRecipeGui:0,0,0
 key_modifiers_key.jei.copy.recipe.id:0,0,0
-key_modifiers_key.map_atlases.open_minimap:0,0,0
+key_modifiers_lootbeams.keybindings.savePreset:0,0,0
+key_modifiers_key.modernui.openCenter:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_supplementaries.keybind.quiver:0,0,0
-key_modifiers_nimble.keybind.frontView:0,0,0
 key_modifiers_key.observable.profile:0,0,0
 key_modifiers_key.presencefootsteps.settings:0,0,0
 key_modifiers_key.presencefootsteps.toggle:0,0,0

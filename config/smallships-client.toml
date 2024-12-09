@@ -19,7 +19,7 @@ schematicVersion = 2
 				#Range: 1.0 ~ 50.0
 				shipGeneralCameraZoomMin = 10.0
 				#Generally enable the zooming feature.
-				shipGeneralCameraZoomEnable = true
+				shipGeneralCameraZoomEnable = false
 				#Set maximum distance of zoom (value must be smaller than or equal to 50.0).
 				#Range: 1.0 ~ 50.0
 				shipGeneralCameraZoomMax = 40.0

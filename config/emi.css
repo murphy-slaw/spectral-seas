@@ -192,7 +192,7 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: modern;
+	left-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the right sidebar
@@ -227,7 +227,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: modern;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar

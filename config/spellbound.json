@@ -547,7 +547,8 @@
     "ALLOW_NEW_PLOTHOOKS": true,
     "RARITY_OF_NEW_PLOTHOOKS": 2,
     "CAN_CREATE_TREASURE": true,
-    "CAN_CREATE_CURSE": false
+    "CAN_CREATE_CURSE": false,
+    "CAN_CREATE_NON_LOOT": false
   },
   "sunkenTreasure": {
     "ENABLED": true,

@@ -202,7 +202,7 @@ hash = "5e731f55e80750073b26502434c19c432b0d565617c64a7248400d2e39c962b8"
 
 [[files]]
 file = "config/emi.css"
-hash = "a675cf09baea077a4198ff032c55d21faccb7ae2c30e7fe72aeaf2a2467a134c"
+hash = "986707f14cd69ab3019851c57db8afcda01ec0c4c5e167f3927466b97aaff2ac"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -451,6 +451,10 @@ hash = "72c7fbc45788e5a7ef8096689ba1fcaa5781a45711d11359fa7d11f6949b0460"
 [[files]]
 file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lilligant/content.toml"
+hash = "d10b21a682dba92458cf78217e99dd41246aa51199b1e9159cdf651ca8375286"
 
 [[files]]
 file = "config/lithium.properties"
@@ -827,7 +831,7 @@ hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
-hash = "a309420fbfb3324ee46c439e0f44ef264e0a8b3319b84d196cc195d8c0c66449"
+hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
@@ -2323,7 +2327,7 @@ hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/diving_set.json"
-hash = "de44cb69eda114cef94f0c44aa828a4a985b4c320c732fd786e50ff13792038a"
+hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -6129,7 +6133,7 @@ hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
 
 [[files]]
 file = "config/smallships-client.toml"
-hash = "a14aa775ef4b21c8be8101feed4c22415a41b30644bc14c7dc5814e8be9a24ce"
+hash = "5732efc15c1adc6ecaa01baa67bdd929cee3b8e5b4101beca50fec106c424cba"
 
 [[files]]
 file = "config/smallships-common.toml"
@@ -6149,7 +6153,7 @@ hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "048f72a6582fd332725c53dfac173c2634bdc582273bacb5d5e980704ebd3c09"
+hash = "b24a17dff281e9389bcabfdfe113bf748405ec5fc992456466520041e515964d"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -6161,7 +6165,7 @@ hash = "31cb6c01241454faa0631f357975a2b0c0b410a7827546f5a5c6caf1c34a4eaa"
 
 [[files]]
 file = "config/status-effect-bars.json"
-hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+hash = "50ed73e5306a43c4e3db7911ca017148591160ac78707c1a07a8ba628aa32bce"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -6253,15 +6257,11 @@ hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "20e70f27a339742cf6c15f1ae6a80914bad622adfb2388c612202dcb1e2d2a39"
+hash = "f81daec2041e5c4b8d609a4bfeeff59a75db050ed430beb37263d0484234b0e1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "005024fd772f94547537803ac5e335ba311beaddde25ecbd2b5c0604e98c0edd"
-
-[[files]]
-file = "keybindings.txt"
-hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
+hash = "1eb1ac87005432a9bc51484f27a1f61f9248efae0778fba4cfd73a5e45e7b309"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -7486,14 +7486,6 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
-
-[[files]]
-file = "options.amecsapi.txt"
-hash = "7b60366b4d10ca47a3caf60d6710fa512660ce7b0275f923299d8b1b8e769915"
-
-[[files]]
-file = "options.txt"
-hash = "005024fd772f94547537803ac5e335ba311beaddde25ecbd2b5c0604e98c0edd"
 
 [[files]]
 file = "resourcepacks/AveriaSerifGWF-Regular.ttf"

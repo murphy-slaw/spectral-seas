@@ -32,10 +32,10 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:16
+renderDistance:20
 simulationDistance:12
 entityDistanceScaling:5.0
-guiScale:2
+guiScale:3
 particles:0
 maxFps:260
 graphicsMode:1
@@ -93,7 +93,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sprint:key.keyboard.right.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -154,7 +154,7 @@ key_key.craftingtweaks.decompress_stack:key.keyboard.unknown
 key_key.craftingtweaks.decompress_all:key.keyboard.unknown
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
-key_key.crawl:key.keyboard.unknown
+key_key.crawl:key.keyboard.x
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.mount_jump:key.keyboard.f7
@@ -164,7 +164,7 @@ key_key.fbp.toggle_animations:key.keyboard.unknown
 key_key.fbp.open_settings:key.keyboard.i
 key_key.fbp.freeze_particles:key.keyboard.unknown
 key_key.fbp.kill_particles:key.keyboard.unknown
-key_key.fbp.add_to_blacklist:key.keyboard.x
+key_key.fbp.add_to_blacklist:key.keyboard.unknown
 key_key.fbp.reload_config:key.keyboard.unknown
 key_key.boththrow.desc:key.mouse.right
 key_key.leftthrow.desc:key.keyboard.unknown
@@ -178,7 +178,7 @@ key_key.climbdown.desc:key.keyboard.unknown
 key_key.enderlaunch.desc:key.mouse.left
 key_key.rocket.desc:key.mouse.left
 key_key.slide.desc:key.keyboard.left.shift
-key_key.heracles.open_quests:key.keyboard.q
+key_key.heracles.open_quests:key.keyboard.p
 key_key.inmis.open_backpack:key.keyboard.b
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o
@@ -213,9 +213,9 @@ key_key.jei.nextCategory:key.keyboard.unknown
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_lootbeams.keybindings.savePreset:key.keyboard.keypad.5
+key_key.modernui.openCenter:key.keyboard.k
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
-key_nimble.keybind.frontView:key.keyboard.f4
 key_key.observable.profile:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
