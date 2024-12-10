@@ -2551,7 +2551,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "c0a59db4c62ef19425b531a247cbe9fa1d2dd616f9169a9b53fe05b4628ab319"
+hash = "0dbba98111faadc927028dd34be0175d4bab6b22f9c767e4e35c049c142be3b5"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -6396,6 +6396,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "76e9141a89148bb8d65fadc66c71bef228f0a6250d2730f5a38ef32588730373"
+metafile = true
+
+[[files]]
+file = "mods/actionhunger.pw.toml"
+hash = "5a0f37716da27a726e4775a34ded2c60251a26953eab38a5e06657206d4452ad"
 metafile = true
 
 [[files]]
