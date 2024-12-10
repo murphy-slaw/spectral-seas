@@ -7325,6 +7325,11 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "ae32d47c8c76f4c93318fb82d7e47baed5e785cb4be362d223a89c41ccfb53e4"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "67b7128420433aa7c34cd4052b7ee98884b3a97dcd2811006fa01f8ecd05b9ae"
 metafile = true
