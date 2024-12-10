@@ -951,7 +951,7 @@ hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json"
-hash = "732c03b11a6e7a89c06ea3d06bb1cdbd7a19418b9f88ce98fbf0a9e8209a0894"
+hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_beach.json"
@@ -1171,7 +1171,7 @@ hash = "8b5c5e9fd3f60f1f7f3946fc94cb57562ca31b85ece029d1350af20bcb199065"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "75690443fc1f5c086215c68cea7e204d35f240d18b9846118a7f79da17a89841"
+hash = "fbe33f98ebece5a81f401cbc5ddb7c9d403c966ea510d486838a97f966f9d810"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1459,7 +1459,7 @@ hash = "904462e375cddea018714d32d0137a2e1231011320d1b036ae2976d433579f34"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/killer_bunny_castle.json"
-hash = "4ac46293478af0c5c66068a478b66e853d6399ac0261cc83c759db467ec3b4b7"
+hash = "a43cea74588dfc0960682848b88a571503a5faa875efb656e04fc543cd7769d7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/lighthouse.json"
@@ -1475,7 +1475,7 @@ hash = "3beea5964da8db691a8220310f655235d2c0faad5eae5bf1bfc4e64c41c2c9c7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/pillager_mines.json"
-hash = "3beea5964da8db691a8220310f655235d2c0faad5eae5bf1bfc4e64c41c2c9c7"
+hash = "8afedeeb8c26137ba4aee725ffdac0a8ff85a01233ebd2c34b06a51dcbaf6edb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/tags/worldgen/biome/has_structure/pirate_ship.json"
@@ -1626,12 +1626,20 @@ file = "config/paxi/datapacks/spectral_seas/data/mvs/tags/worldgen/biome/has_str
 hash = "0bcd7cecad48d05cb0d70a6322f2de2859ad5fb2dea1e354b8ca605cd178eccc"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mvs/tags/worldgen/biome/has_structure/large_warped_tower.json"
+hash = "20582a52df620da41b6e343d37d9236cd56eb1fcc285ce8c7725b5739d9bdb8d"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/tags/worldgen/structure_set/common_avoid.json"
 hash = "5d32e19e1cae1598ce4aadac679c2566a8acf1c2c3f413a51cbe6a8666469c6a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure/cathedral.json"
 hash = "f85b8e105886ae8b04753ecff26910f9ce246c7fd7a99c94b47091c04618c874"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure/houses/large_warped_tower.json"
+hash = "cecd605ce858baa64d1c0fe89da4a0688987691a7f990634c58303c3f472dc67"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/naturalist/tags/worldgen/biome/has_alligator.json"
@@ -2310,6 +2318,14 @@ file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_fe
 hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
+hash = "fa1924acb8bdd1f0870d8aaaad4b46004d208ab8ad6d37838b0e3817edcd55f0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck_beached.json"
+hash = "71abd7352587e039c6497e3a52b4160ce137b55ee35f46ef7693db6b851ac284"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
 hash = "c04b252440ed506cdf19918fa5dc79205b1b1bf04e2926f78968b69aaf21e89a"
 
@@ -2415,7 +2431,7 @@ hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/rare_structures.json"
-hash = "a81bdb4175a5fea623c72bd7863ce49f0c560bf25404d463d4097a658b06f2ce"
+hash = "5a6a7a6951e7a3a1b07e6d2c6b54983f92b5a16aefac69e456daa4a4858584c8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/supplementaries/worldgen/configured_feature/wild_flax.json"
