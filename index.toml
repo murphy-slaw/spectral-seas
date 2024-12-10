@@ -6369,7 +6369,7 @@ hash = "011a3b650212c46275e33a815dcdd4fe2dcf68cdba8fe01a06449819785ffc66"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ad1984450d006011db847e9e9a39dd562cf54979fa698eb7ed5f1ce3eb0c91aa"
+hash = "fd59dabb912dc8d91903b9a9c4510d3d6d3cfe50fa97ee7c6146cf4830314ae1"
 metafile = true
 
 [[files]]
@@ -6704,7 +6704,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
+hash = "c3bf7d6d25260b023f8cd2906527bf2ddfe36eb7929894ac0ae6d61abe2328cd"
 metafile = true
 
 [[files]]
@@ -6759,7 +6759,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "9337e02ac174dec76ea5f21cd11f384afb36fef41250c1a2e4707065698bfdb3"
+hash = "75795e1b60be8794aa67a88d4062c5638dc3dfe7e94d15819c9bc707ca15034c"
 metafile = true
 
 [[files]]
@@ -6803,7 +6803,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "bb887fecd6205784b181e555c54a1ff3b7ab2e46609716294d1b1e5fd7b345b1"
+hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
 metafile = true
 
 [[files]]
@@ -7047,12 +7047,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "29ba21e77786b746407e73a1fa4d6c84921f2d2aecf18cf453c7ba655e8ec7f6"
+hash = "6b4b6053b2035dde79354d94c0d3e19f921c5d14e317acb3eb0d4329d52f946c"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
+hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
 metafile = true
 
 [[files]]
@@ -7072,7 +7072,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "103caf4674b7e6dd8cd189c88bc2a261d135a073a4ebec132316fc14662bb7bc"
+hash = "aa962904e41a1ab65355361653ccd8f6a67a33bcd3f5edb0aba16eacf9d59a8c"
 metafile = true
 
 [[files]]
@@ -7132,7 +7132,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e03ac81e2f130c7909fafc10ad93936c2f2df80cd984b04818c07e9fa21d1db1"
+hash = "1aed912bd332f82c307260cae717b75a8f31ece3fc41245495edbbd04e8d503d"
 metafile = true
 
 [[files]]
@@ -7326,7 +7326,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "71f3aa353ecf403cbea9fa44b7aec8e700abeb92f99ea9f677bc50de6734e3b6"
+hash = "67b7128420433aa7c34cd4052b7ee98884b3a97dcd2811006fa01f8ecd05b9ae"
 metafile = true
 
 [[files]]
@@ -7439,7 +7439,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a6317061a5b6fdbc9b344d29f19adb292412c967d1ad1f01a2b771a539fc17c6"
+hash = "9941f7467e2a56834a581a04e6096521b8492f44d26064774b979d5b803ac993"
 metafile = true
 
 [[files]]
