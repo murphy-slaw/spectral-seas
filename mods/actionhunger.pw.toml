@@ -1,6 +1,6 @@
 name = "ActionHunger"
 filename = "action_hunger-0.2.0+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VG7CYY0D/versions/yJf4XPtr/action_hunger-0.2.0%2B1.20.jar"

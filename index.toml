@@ -6404,7 +6404,7 @@ metafile = true
 
 [[files]]
 file = "mods/actionhunger.pw.toml"
-hash = "5a0f37716da27a726e4775a34ded2c60251a26953eab38a5e06657206d4452ad"
+hash = "3cb244337e9d982571421839e2a0a8494c04fc229f27725790312d4237ab026e"
 metafile = true
 
 [[files]]
@@ -6774,7 +6774,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -7183,6 +7183,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bc8b80d3626c3d0a77bb576964bc7b9ba4b5d562ec37e6970f06a1d73d5040e4"
+metafile = true
+
+[[files]]
+file = "mods/pale.pw.toml"
+hash = "e391487d73f354be3766be21ba6fd7abe27902902e77d0eaf6f92b99c52d9e3f"
 metafile = true
 
 [[files]]
