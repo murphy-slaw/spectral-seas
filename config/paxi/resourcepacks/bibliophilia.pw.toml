@@ -1,13 +1,13 @@
 name = "Bibliophilia | Enchanted Books"
-filename = "Bibliophilia 1.13.1 (1.20.1).zip"
+filename = "Bibliophilia 1.13.2 (1.20.1).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/aytcks6H/Bibliophilia%201.13.1%20%281.20.1%29.zip"
+url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/glte25TN/Bibliophilia%201.13.2%20%281.20.1%29.zip"
 hash-format = "sha512"
-hash = "0fdb7a4f0928916499927da34fdb5231d6b0418340f68d2c0c4ad60e7fe1c6c646bc301395d1fb9e1015736bf4bdcfb3366fa54a5a780787324b7a5f9f6571b8"
+hash = "8fa413f13d4513699e071eed6d2843f121de380ed1e670ba7ff44cc0c30c0d06d35f041fb7efdbc5b7d1e0259d88e02eac5ea421a44c3aa7dfb4a0c5ba6e895d"
 
 [update]
 [update.modrinth]
 mod-id = "50Rh3CqF"
-version = "aytcks6H"
+version = "glte25TN"
