@@ -99,6 +99,18 @@ ServerEvents.recipes(event => {
         }
     );
 
+    event.remove({ output: 'minecraft:bread' });
+    event.shaped(
+        Item.of('minecraft:bread'),
+        [
+            'WWW',
+            'WWW'
+        ],
+        {
+            'W': 'minecraft:wheat'
+        }
+    );
+
     // https://github.com/KubeJS-Mods/KubeJS/issues/797#issuecomment-2223430177
     // Fix broken rope arrow recipes
     // We are not able to fix or remove rope arrow recipes, so we hide them. See `kubejs/client_scripts/rei.js`

@@ -6312,8 +6312,8 @@ file = "kubejs/server_scripts/broken.js"
 hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
-file = "kubejs/server_scripts/items.js"
-hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
+file = "kubejs/server_scripts/item_counts.js"
+hash = "07ed7ae16d559754efadc5a9098ba2cec8c18b43ba6a50a829ee875bc6914db6"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
@@ -6325,7 +6325,7 @@ hash = "4090a47db0c746e98dd1abf9e316cb2a7b788ea52531ca01aef1371d4d90e13c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "77fac9c4d9e31cd0b41748e494a67d1ebaed93a5bff4068bfeb194a12811f34d"
+hash = "799b8933543a6af72e729a11557375954961b444418ddf131d91fe63b5c91e6c"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -6338,6 +6338,10 @@ hash = "ae3334244acb881b7063d582a6613eab81b28d1590fdcf1d4972f20c98c1775a"
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
 hash = "14239ceb9385b062f07b46026325486ed96871fbca4494e61b01390970296b1d"
+
+[[files]]
+file = "kubejs/server_scripts/turtle_helmet.js"
+hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/recipes.js"
