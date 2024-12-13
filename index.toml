@@ -18,7 +18,7 @@ hash = "d5f6b3eea1b4f5453af72df4a0eeed9fb8df125c397e20a1493cfde68f7852cb"
 
 [[files]]
 file = "config/ModernUI/text.toml"
-hash = "b9222c180761da05a7c492c57943137ea29b8eae4abaf4e4a03763c5445439f4"
+hash = "42dd9ef1c903ec4a03f2c6d1df02ecd606586e7ab0538569f47d38c4182e5f5d"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
@@ -31,6 +31,10 @@ hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 [[files]]
 file = "config/Spectrum.json5"
 hash = "604528bd9e741155a866d3c95449e24b01fce5fb09db5dd64de4f5bfa95a6226"
+
+[[files]]
+file = "config/action_hunger.json"
+hash = "aa824eb36562ca5a4ca00560e7086fb4915f009de5655a13d63c42c88a2d7ab9"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -194,7 +198,7 @@ hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "427aadd29aea1256db321fcac7f33d3fd3e858324d85269a77deee7a0614c701"
+hash = "39fa36f7f068dc389c4754f7a902855da3f4f2f95e6668cfe3946907eefe2fe1"
 
 [[files]]
 file = "config/ecologics.json"
@@ -6312,12 +6316,8 @@ file = "kubejs/server_scripts/broken.js"
 hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
-file = "kubejs/server_scripts/item_counts.js"
-hash = "07ed7ae16d559754efadc5a9098ba2cec8c18b43ba6a50a829ee875bc6914db6"
-
-[[files]]
 file = "kubejs/server_scripts/pity_chest.js"
-hash = "d2d253077ff333f52e0927a9dd28ee5eb4687e50e7de4a861e81202d89da1e47"
+hash = "d3c1d5579e1dde610b629d0ab5422df6aa70bf45f0bf977c01babde1a5ceec43"
 
 [[files]]
 file = "kubejs/server_scripts/portal.js"
@@ -6329,7 +6329,7 @@ hash = "799b8933543a6af72e729a11557375954961b444418ddf131d91fe63b5c91e6c"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "910f802f34d7d212022285d69b7833422bd93682aae967388e9f5f665fcc403f"
+hash = "237424dcb82aef6dcb884969af7faea3cd4f289dff19190521b9633f3e32791e"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
@@ -6370,6 +6370,10 @@ hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 [[files]]
 file = "kubejs/startup_scripts/amphibious.js"
 hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
+
+[[files]]
+file = "kubejs/startup_scripts/item_counts.js"
+hash = "5b996564ee63ffd276469124d85e1b6b2b558f929f581675e2e6255d463a6ca8"
 
 [[files]]
 file = "kubejs/startup_scripts/turtle.js"

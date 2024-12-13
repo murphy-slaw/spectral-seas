@@ -4,32 +4,34 @@ const shipTypes = [
     "smallships:drakkar",
     "smallships:galley"
 ];
+
 PlayerEvents.tick(event => {
-    let player = event.player;
-    let vehicle = player.getVehicle();
+    const player = event.player;
+    const vehicle = player.getVehicle();
 
     if (vehicle) {
         if (shipTypes.includes(vehicle.type)) {
             if (!player.tags.contains('on_ship')) {
                 player.addTag("on_ship");
-                let respawnPos = player.getRespawnPosition();
-                if (respawnPos) {
-                    let pos = Math.floor(respawnPos.x) + ' ' + Math.floor(respawnPos.y) + ' ' + Math.floor(respawnPos.z);
-                    player.runCommandSilent('surveyor landmarks remove surveyor:point ' + pos);
+                let markerPos = player.persistentData.getCompound("MarkerPosition");
+                if (markerPos) {
+                    player.runCommandSilent(`surveyor landmarks remove surveyor:point ${markerPos.x} ${markerPos.y} ${markerPos.z}`);
                 }
             }
         }
     } else {
         if (player.tags.contains("on_ship")) {
             player.removeTag("on_ship");
-            let name = player.username + '';
-            let pos = Math.floor(event.player.x) + ' ' + Math.floor(event.player.y) + ' ' + Math.floor(event.player.z);
-
+            let markerPos = {};
+            markerPos.x = Math.floor(player.x);
+            markerPos.y = Math.floor(player.y);
+            markerPos.z = Math.floor(player.z);
+            player.persistentData.put("MarkerPosition", markerPos);
             Utils.server.scheduleInTicks(1, callback => {
-                Utils.server.runCommandSilent('execute as ' + name + ' run spawnpoint @s ' + pos);
-                Utils.server.runCommandSilent('execute as ' + name + ' run surveyor landmarks add surveyor:point ' + pos + ' red Ship');
+                Utils.server.runCommandSilent(`execute as ${player.username} run spawnpoint @s ${markerPos.x} ${markerPos.y} ${markerPos.g}`);
+                Utils.server.runCommandSilent(`execute as ${player.username} run surveyor landmarks add surveyor:point ${markerPos.x} ${markerPos.y} ${markerPos.z} red Ship`);
             });
-            Utils.server.runCommandSilent('tellraw ' + name + ' "Spawnpoint has been set to your ship\'s location"');
+            Utils.server.runCommandSilent(`tellraw ${player.username} "Spawnpoint has been set to your ship\'s location"`);
         }
     }
-});
+});;
