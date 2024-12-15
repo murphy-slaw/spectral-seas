@@ -1,0 +1,13 @@
+name = "Formations Overworld"
+filename = "formationsoverworld-1.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KX1XC0Oo/versions/APtZazrk/formationsoverworld-1.0.4.jar"
+hash-format = "sha512"
+hash = "4ef9a05e37f1277c801541d0750168bce5dcf8f56a306ffd31aee05bcb1eb11d6f2e4538937c0150128aadbf9bff3538062d572e40df7dbb8b3ded9e3a20aabf"
+
+[update]
+[update.modrinth]
+mod-id = "KX1XC0Oo"
+version = "APtZazrk"

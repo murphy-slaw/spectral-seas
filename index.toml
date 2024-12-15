@@ -7089,6 +7089,11 @@ hash = "681e076cd78ffdd49634852bcca393d53eb255090e5b0a18e08e200da065addb"
 metafile = true
 
 [[files]]
+file = "mods/feur-extension-jungle.pw.toml"
+hash = "f14a9e473de058b2d1bca285ae481ae587a059019c5b30cff8ad9263f4e4c353"
+metafile = true
+
+[[files]]
 file = "mods/flow.pw.toml"
 hash = "4781ee1cedfc65036263ded52b4c68cdcc701eb5fdb198334fed05cb6190af24"
 metafile = true
@@ -7096,6 +7101,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "a9ed985d2453f61db49f2af28c30d40119a0654f9a58dc850f24eaad50417150"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "94ddda7ccf408a1cf1380924efca253e6ebac5353df83ef9f580b29d8e85d9cb"
 metafile = true
 
 [[files]]
@@ -7583,6 +7598,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
+metafile = true
+
+[[files]]
+file = "mods/roguelikedungeons.pw.toml"
+hash = "27cc1716c9340e742fdcb916e7ce1fe490e1dcdce6c334f83ad22560e3b6f4a4"
 metafile = true
 
 [[files]]
