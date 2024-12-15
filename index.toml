@@ -2438,6 +2438,10 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structur
 hash = "5a6a7a6951e7a3a1b07e6d2c6b54983f92b5a16aefac69e456daa4a4858584c8"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectrum/advancements/spectrum.json"
+hash = "b631da8a1292b70d9db9b6baa6c21afdff3815146571d1d951f5706229875623"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/supplementaries/worldgen/configured_feature/wild_flax.json"
 hash = "353bd4cb678e6494286af858c364d4fcc620123d88308d8a86c96d7be1985269"
 
@@ -6317,7 +6321,7 @@ hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
-hash = "d3c1d5579e1dde610b629d0ab5422df6aa70bf45f0bf977c01babde1a5ceec43"
+hash = "d2d253077ff333f52e0927a9dd28ee5eb4687e50e7de4a861e81202d89da1e47"
 
 [[files]]
 file = "kubejs/server_scripts/portal.js"
@@ -6337,7 +6341,7 @@ hash = "ae3334244acb881b7063d582a6613eab81b28d1590fdcf1d4972f20c98c1775a"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "14239ceb9385b062f07b46026325486ed96871fbca4494e61b01390970296b1d"
+hash = "f8f9ac68de1b02c71777938449f727138371b347e3c66514c94910707e1af0b3"
 
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
@@ -6743,7 +6747,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b7292ddaf4e29b7e9bebadfc1948c98ab08366914ef312e37cfc56601763f828"
+hash = "359dbf210e6657849bb7496155766cf1ae3030c83547744f136209a8c1594a80"
 metafile = true
 
 [[files]]
@@ -6852,7 +6856,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0482f2072a1323a5421af02429c24f073f00b201e7907d90786c8da0a053a92d"
+hash = "29da2f809ff1287394c2a214f991227c5f0e9dd198f8969ab22c32fd56b3733b"
 metafile = true
 
 [[files]]
@@ -7026,7 +7030,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
-hash = "afd3a97f50509c2f3bc3ac09ceaa8ebc4acacb0ee7a0906ccf99a67253db53e8"
+hash = "6ddba5dcc0aa262cc23bf98cfb787a60149c3d2ee29e14a00e6751a5cf0106e4"
 metafile = true
 
 [[files]]
@@ -7081,7 +7085,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
+hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
 metafile = true
 
 [[files]]
@@ -7350,7 +7354,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
+hash = "8fa4fd7d6da644f5fa814ba598101d3b33cf48a9b0dbabd1377248b495df25d3"
 metafile = true
 
 [[files]]
@@ -7384,7 +7388,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "84255f0a2017545bfdc90fd5ed990ace86f01b9a5cc621e22a34e12074383e4b"
+hash = "cfb8c9c34ea28a2771ebc7b8b182cc7b5353da0c75a435e5d6e41767af75f279"
 metafile = true
 
 [[files]]
@@ -7531,6 +7535,10 @@ file = "resourcepacks/AveriaSerifGWF-Regular.ttf"
 hash = "a4502cf1365172629a9dc419076b0b431d6dd47fa5195668438efaf93ca9c13e"
 
 [[files]]
+file = "resourcepacks/Mops.ttf"
+hash = "6db27557ec61aed012c5ffcfad5f6f96c8df2cd6a3e8c536fcbb87113be25f6a"
+
+[[files]]
 file = "resourcepacks_disabled/pirate.pw.toml"
 hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
@@ -7546,7 +7554,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "debfc9032c943c978fb1bd5c1e3eec5f46d3655111bbbd57cae8020e3cea173b"
+hash = "b6e68a3b1083348cd30685a04535e5a779353b5e94aca5bf0a8749174995d147"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "MakeUp - Ultra Fast"
-filename = "MakeUp-UltraFast-9.1.zip"
+filename = "MakeUp-UltraFast-9.1a.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/izsIPI7a/versions/UlPJPPb2/MakeUp-UltraFast-9.1.zip"
+url = "https://cdn.modrinth.com/data/izsIPI7a/versions/5TyG5chH/MakeUp-UltraFast-9.1a.zip"
 hash-format = "sha512"
-hash = "116a79c3819d02342faf2d97bccf7e0ca019d0ae8b72fa0c107f3f42b400dd49e3b824e4b5c0cbed26802566df55615b6cc4f90da6e8b188fafacee6643d464d"
+hash = "b6151eb02ccfc43990b96a5da6a1b474c7771aa75f1564c12dac74c5824c4bc7fc8d02b00badc8edae44a1543eeb7e62c1b0b64e91bbe8ab0111a6b628008dbb"
 
 [update]
 [update.modrinth]
 mod-id = "izsIPI7a"
-version = "UlPJPPb2"
+version = "5TyG5chH"
