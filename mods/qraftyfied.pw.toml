@@ -1,0 +1,13 @@
+name = "qraftyfied: STRUCTURES"
+filename = "qraftyfied-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/rwUF19Pe/qraftyfied-6.jar"
+hash-format = "sha512"
+hash = "63faa2dbf312d0718ab426fa795b1ef3325f40961fd228975f21368aa7c42bb81fa361253979399d9ba9ce73bb3330b1fe7cd1b0727351a5d1026285d9d490a4"
+
+[update]
+[update.modrinth]
+mod-id = "ibnDR6oc"
+version = "rwUF19Pe"

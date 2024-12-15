@@ -1,0 +1,13 @@
+name = "Just Another Structure Pack"
+filename = "just-another-structure-pack-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A9XFwNaH/versions/I22FK4xu/just-another-structure-pack-1.5.jar"
+hash-format = "sha512"
+hash = "c8c992f71d2fe554076546ccc94c2b15c4e60f6ab4e2f4901134f72c567aa8e5f9dbbc86c6db3215835ebb46ea6b4776b7d84e54bb8c7d41b1d89caab86dd54f"
+
+[update]
+[update.modrinth]
+mod-id = "A9XFwNaH"
+version = "I22FK4xu"

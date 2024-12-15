@@ -1,0 +1,13 @@
+name = "Ancient Enchantment Temple"
+filename = "ancientenchantmenttemple-1.0.1 fabric 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u9bP79Zj/versions/lEECPPju/ancientenchantmenttemple-1.0.1%20fabric%201.20.1.jar"
+hash-format = "sha512"
+hash = "8cde56b2314b9938bd3d71ca2064c50b84e126486bf599b532a3872c620ad4bc4dd82f0387b21e0114df4471d34eb1951de253aa58c5ad24c7e5bafbb481bf57"
+
+[update]
+[update.modrinth]
+mod-id = "u9bP79Zj"
+version = "lEECPPju"
