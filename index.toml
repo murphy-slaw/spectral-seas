@@ -1559,27 +1559,27 @@ hash = "435fee7cef56163b221d145acbe11c250313b659de5c7af14f5d8fee9a0a5ce4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/big_pyramid.json"
-hash = "4ec461fddf5ac07191770dfa8c1b8e0bf43213f420ab583b517a7972918f58fb"
+hash = "1845d16c20f00156644d480769d63857a46438b63cbf037727da72ab596ba58c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/ice_tower.json"
-hash = "7b2ff58aed35c00d67e5f1413eee10ce0639c6f3cab630cc2346eed20a2a6077"
+hash = "79e3ee2569f9175b1a1f2f8359f7822d279642af52acf969a79e66022886740a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/jungle_pyramid.json"
-hash = "1207115413b7d1cb97db6d9a83bd5e64d4e635f906fe75e231914b89ae87c9f7"
+hash = "38c6bc057eba92881d6872caf33602aebc13da93d2e486d31a8d33e8819b4728"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/killer_bunny_castle.json"
-hash = "5d11bfd7e6deddba14f40a8c41c433746cb37ab68928320f4e663840a3056c04"
+hash = "e7f50f435d47e6de54062d24794d8690871c60ae678ad054242177536d1d5fcb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/moai.json"
-hash = "8d78643cdcdec83a842dc8f3cca989268143b51d7d0bbf1ae1a717e3e064291a"
+hash = "bda0489336116caf4372356cf581352fadd03d0847b38e629ecdce0e6b490282"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_factory.json"
-hash = "d9abde2a59fbdf268ca4e6567da187b980bb263e60428161c59ae99a1407f1ad"
+hash = "3180d8d8f5c3980f9c5679b1cfb14ffcac56bbee90aaec20c3b5b3773ef15c0c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_mines.json"
