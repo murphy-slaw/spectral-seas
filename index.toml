@@ -2857,6 +2857,11 @@ hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/swords-and-axes-dungeon.pw.toml"
+hash = "d64ac1d815b0684366cfcf11f38f5c990a7115cd29c4e9fe2749d93dfc7ea451"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "4b501bb11beca9bff0a44a5f2187ed28644dab433bae0e5cd54f20c1ceb4587e"
 metafile = true
@@ -7793,11 +7798,6 @@ metafile = true
 [[files]]
 file = "mods/wabi-sabi-structures.pw.toml"
 hash = "b4b5aecebc47156610f18cf1320652071ece1afed9764768cc1e0d5425cdafa8"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
 metafile = true
 
 [[files]]

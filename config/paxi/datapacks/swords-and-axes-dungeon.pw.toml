@@ -1,0 +1,13 @@
+name = "Swords And Axes - Dungeon"
+filename = "swords and axes.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/62ZpJmeY/versions/pivEvTYO/swords%20and%20axes.zip"
+hash-format = "sha512"
+hash = "5125863b50bca8d0c36784b05376954dfcf8ed5c1d9e2b3a4df01b33e1f1217527344c7390c294ec1b93d50c6352a67166bb2a2a519616a1f74c19f877102f1d"
+
+[update]
+[update.modrinth]
+mod-id = "62ZpJmeY"
+version = "pivEvTYO"
