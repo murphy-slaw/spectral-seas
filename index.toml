@@ -7843,8 +7843,32 @@ file = "resourcepacks/AveriaSerifGWF-Regular.ttf"
 hash = "a4502cf1365172629a9dc419076b0b431d6dd47fa5195668438efaf93ca9c13e"
 
 [[files]]
+file = "resourcepacks/Freebooter-6yn1.ttf"
+hash = "9010083ebb9f04f42d09b2f924955716986256da00c36b831da914d8846f9158"
+
+[[files]]
+file = "resourcepacks/FreebooterItalic-5Xlv.ttf"
+hash = "5a6fbe4fa6585dfb6fe501f7f9fefa17e6c537d9e2069132de30272698450dfd"
+
+[[files]]
+file = "resourcepacks/FreebooterShadow-yL0V.ttf"
+hash = "84fce40d531bf29fa475832dd46e9ebcc0711831cd6d78e08f3960b87cf0f44a"
+
+[[files]]
 file = "resourcepacks/Mops.ttf"
 hash = "6db27557ec61aed012c5ffcfad5f6f96c8df2cd6a3e8c536fcbb87113be25f6a"
+
+[[files]]
+file = "resourcepacks/PirateKids-d9G9R.ttf"
+hash = "7dc3b2e68a92ad6905cd4c7e84c9c5b982a632c9abce3a5e966958f3bcf33a20"
+
+[[files]]
+file = "resourcepacks/Primitive-4yGY.ttf"
+hash = "2183168789751819a1728c444a61d69966c7ef98dbbb7fd52440069cd73d3aa5"
+
+[[files]]
+file = "resourcepacks/TreasureMapDeadhand-yLA3.ttf"
+hash = "2f2463bcac1945ff09b2952638967ebb221bbb3909c334f84cd1127c79e646ca"
 
 [[files]]
 file = "resourcepacks_disabled/pirate.pw.toml"
