@@ -720,6 +720,18 @@ file = "config/paxi/datapacks/spectral_seas/data/fabric/tags/blocks/needs_tool_l
 hash = "232d236c3ce0e2aea058d85683e17e29e4a2de959eb5464281c9d0fa56ddff7b"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/rafts.json"
+hash = "63d7b53f6a42134b0c815e9000d8f4ab078ca686c79c0de00e858b4f33830b29"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/rare.json"
+hash = "c150f0cfebca3737afb9b2f5a7281b90e37adcd24305dc4a3852e7adeb76e523"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/uncommon.json"
+hash = "0189f5c1b7e30a5e3b774d7a54082dc8ed7eb2a441033125a5cbf4d0e4618723"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
 hash = "a071d77faff73a18efd8ff2ded356104e74a0aa693b089ac4fe08c9b3d5777d6"
 
@@ -7250,11 +7262,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
-metafile = true
-
-[[files]]
-file = "mods/just-another-structure-pack.pw.toml"
-hash = "59676353663082889cac6efe0bb2b4f8963e8fcaa9d2bd6fe55eb79508a4d007"
 metafile = true
 
 [[files]]
