@@ -729,7 +729,7 @@ hash = "c150f0cfebca3737afb9b2f5a7281b90e37adcd24305dc4a3852e7adeb76e523"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/uncommon.json"
-hash = "0189f5c1b7e30a5e3b774d7a54082dc8ed7eb2a441033125a5cbf4d0e4618723"
+hash = "7141caa55982b808d8cf6329ddd92dc40a687ec069aa90db9ba53524a4fe161a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
