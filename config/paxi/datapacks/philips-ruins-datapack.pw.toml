@@ -1,0 +1,13 @@
+name = "Philip's Ruins Datapack"
+filename = "Philips-Ruins-datapack-1.20+.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOraoRvG/versions/xwxdJbET/Philips-Ruins-datapack-1.20%2B.zip"
+hash-format = "sha512"
+hash = "07d62afc8f00f94afb6473dc9aee570b9608b98181c7b88ad9d8f7d66074f4a18e9171cd16ff5c89f1277f20bdbe1755310ffd060394397af65bdd7e0a6222cc"
+
+[update]
+[update.modrinth]
+mod-id = "uOraoRvG"
+version = "xwxdJbET"

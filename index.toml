@@ -595,6 +595,11 @@ hash = "6d7601f2b5bfd710459c5c273c514bede346bc84c8f42b8852b1372dfacad32b"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/forgotten-hallways.pw.toml"
+hash = "0ca75bc4767b557cf66acf40826173c3a0a59d31f720c461789db7bc04ce791c"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/hopo-better-ruined-portals.pw.toml"
 hash = "80944a917ecefe304b8cacfd9ffcb556f837bf116358e6da256a96dde9ce1739"
 metafile = true
@@ -647,6 +652,11 @@ hash = "46de99d69eb95c4af66e53144218608c59c81c3c7c6d8402c055d63b0f95c47f"
 [[files]]
 file = "config/paxi/datapacks/no_hay_for_you/pack.mcmeta"
 hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
+
+[[files]]
+file = "config/paxi/datapacks/philips-ruins-datapack.pw.toml"
+hash = "86ca6c819c0695b6e35993662f8b73c5fa48155cedc52a896129341a60cc5131"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
@@ -1175,7 +1185,7 @@ hash = "8b5c5e9fd3f60f1f7f3946fc94cb57562ca31b85ece029d1350af20bcb199065"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "a11c0b13acdb175c8d3932619ad723932ad00ef315e13f0bfdd985acc9924ddb"
+hash = "5fb002da07f684de43745654019f92ed4e85afdbcdcc21d9b7b99e082ed11508"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -1571,7 +1581,7 @@ hash = "38c6bc057eba92881d6872caf33602aebc13da93d2e486d31a8d33e8819b4728"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/killer_bunny_castle.json"
-hash = "e7f50f435d47e6de54062d24794d8690871c60ae678ad054242177536d1d5fcb"
+hash = "c527f86350fa3436144412e8b4ce531cec7ad49a46daacadb6f10bbf8ce690ca"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/moai.json"
@@ -1579,11 +1589,11 @@ hash = "bda0489336116caf4372356cf581352fadd03d0847b38e629ecdce0e6b490282"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_factory.json"
-hash = "3180d8d8f5c3980f9c5679b1cfb14ffcac56bbee90aaec20c3b5b3773ef15c0c"
+hash = "30719b92322bcaa0cfbf7165ce9de1752d20d38804d038436d79dec5b940eb87"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/worldgen/structure_set/pillager_mines.json"
-hash = "39a03d0273e40b80c8779c67a80426dbd3c527c06cfa407e7016ef6417998f2a"
+hash = "648869a3f1f3422dfbce353a342f58e44aeeb3977d0a462feb5efaf7d6a0f111"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/loot_tables/abandoned.json"
@@ -1863,7 +1873,7 @@ hash = "3a84cd7eee8a0e1e6ab211dd962b8f7da1f33fae961f0e19784e79ad8fca3d4a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/ruins/small_ruin.json"
-hash = "f51c456b0fd9134ccf385ba2720f559cb08b86bd4b437a8ef12f0b5cce3f3d78"
+hash = "a0daa6ff95dd1e7d874901d1721fe7653f2075977199291d16084c7036a092b9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mvs/worldgen/structure_set/ruins/statue_ruins.json"
@@ -2411,11 +2421,11 @@ hash = "a68a6363486a1184344c97af30fa1ad9584fd3c1d66b136eb4c4687a6ab1b407"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/badlands_miner_outpost.json"
-hash = "81b73d678493b6c9a017b9bc48b6b77fbeacdb88d693733db23bfa6ba479ca60"
+hash = "334f2f935f45c248cac74f6abf6b60e705b5e0b3ebb06c100f033b455b817322"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/bunker.json"
-hash = "cf041949a6f7eec9affcb0bfb9497f845c9857a4a7635655af6a1fefe39d9d39"
+hash = "a3074b23f2d19e1eef02beee928340af5d76214389e6e3225a73e4ae86906663"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/conduit_ruin.json"
@@ -2423,23 +2433,23 @@ hash = "417035e257768a181f60bfeec7ff1dd02f3fb9bb3b7678c0990a588d5e24c544"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/creeping_crypt.json"
-hash = "1d9a8b501d2ea13f3b800f181266f140470f3d45f302aee792b0674286194385"
+hash = "df176e6b1460999f0aa359f6ffe4b74ea96a4bf774632e0e81cbe03cad295109"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/desert_ruins.json"
-hash = "430ce2aa70cd53c55935389e95de8d58a7e30941256d8c58d4bcb04ae1bf8b41"
+hash = "4e4fc85334b8ac2faaa14c741789dbedbbc0ed4688c54a36382f41af74f7f801"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/illager_hideout.json"
-hash = "2ad3224384b68eaf16d4d52aa9eba0f8a809be726490a11cfb10c96077fd725a"
+hash = "3d14b579e4a8d51880d5736c93767b08d242bf862b77971979e2bf4cf88de552"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/jungle_ruins.json"
-hash = "f6bb7b04e34173ba98689d830cf33ba1ae077ee903ef083be90ef7d1bc0ff711"
+hash = "a2639806075baa7f2e1a2883ed51f71f4483d15e484c3f5ef7b641d47634bd09"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/mangrove_witch_hut.json"
-hash = "5a134d5346bcad08c3b87ca82bedfb48bb723f7367a9816d52c731c9a44bd8b7"
+hash = "10b811242bdc555f7c9e46c8db6d4e32d6f3ce05aedaa7c13115e6990e36e872"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/nether_camps.json"
@@ -2455,11 +2465,11 @@ hash = "c7669e3fbfcf5c7f35c5480b2f81224b7fd8fded0cd2ca51fcc463d57cb3b01c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/ruin_town.json"
-hash = "f8fa6ee8bc808bb6cd91d0912ab49947544f1ab841926221d8f4b7d5fb966720"
+hash = "e9300258f4aedaf0f090ae16c9f69a1abd744c3ed5cbadfb40758b2e49bd05e2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/taverns.json"
-hash = "155c25415821353864f6d4bc8f2f9dd72fc545130f6429ab8723d4f9ea09aa7e"
+hash = "6a017cb42d540e97edd09a5fa0d26f18814b4494f77c9a005df8768aa7fecc6b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/undead_crypt.json"
@@ -2467,15 +2477,15 @@ hash = "fbed47213b989816de77cc318a2fab92a5eef0b0637f2ed905349473bd4b2d3a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/underground_house.json"
-hash = "419d19428644753b5461b0a69968458014a0956a2058d7cb088effdd29cb271e"
+hash = "99b1e5be2a36f3a3879f4026c05b76d8726b3e482f7a56760b90bf0eac51f267"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wells.json"
-hash = "76876fdb8b4ed9d26d49f43076c3d38105adcc108fc36caa4f55aa2cba9b2064"
+hash = "ae30da5986c923f990a6dfc06efe3b26a21729825a17e56a1315760e3392caed"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/wild_ruin.json"
-hash = "90e07b663eaddf88ba58eeaed97eddbab34ffda46e652cbee49a37da5e064f51"
+hash = "08d7b8748445eee3c559a5369b1aa666590c18b28913bba8b7be995b97b7c3e9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/witch_villa.json"
@@ -2795,7 +2805,7 @@ hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towers.json"
-hash = "2a600b131fce6b67c0278994074e6dc637b6541815928b31e984fe4c05b546ee"
+hash = "a02b737cdcec8a2b24ce3a149cfda294161db376e16197501223c66052c13f97"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
@@ -6699,11 +6709,6 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
-file = "mods/ancient-enchantment-temple.pw.toml"
-hash = "ff4c15fef6042e50b6ed0cca91437460003eda4faed84d89d23a00023189907a"
-metafile = true
-
-[[files]]
 file = "mods/animationoverhaul.pw.toml"
 hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
 metafile = true
@@ -6865,7 +6870,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -7089,11 +7094,6 @@ hash = "681e076cd78ffdd49634852bcca393d53eb255090e5b0a18e08e200da065addb"
 metafile = true
 
 [[files]]
-file = "mods/feur-extension-jungle.pw.toml"
-hash = "f14a9e473de058b2d1bca285ae481ae587a059019c5b30cff8ad9263f4e4c353"
-metafile = true
-
-[[files]]
 file = "mods/flow.pw.toml"
 hash = "4781ee1cedfc65036263ded52b4c68cdcc701eb5fdb198334fed05cb6190af24"
 metafile = true
@@ -7205,11 +7205,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "19aeb31581d8cdc322a939f76b1c5e088acd5115453f4f7cbe826854615311c0"
-metafile = true
-
-[[files]]
-file = "mods/immersive-structures.pw.toml"
-hash = "9276cb26c8a8313bb5d7b9b94c61306b1ab25f257a5e49032585b9d5ecd48f09"
 metafile = true
 
 [[files]]
@@ -7551,11 +7546,6 @@ hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
-file = "mods/qraftyfied.pw.toml"
-hash = "857fab6e4165870158db645dc5cb00ae845426bf37af87961a80953fe9b465bd"
-metafile = true
-
-[[files]]
 file = "mods/rabbit-behavior-fix.pw.toml"
 hash = "8cca24da1a913bef4e64d3e5b7974b59f408415e4565cff9d752a5a8f20bab3a"
 metafile = true
@@ -7598,11 +7588,6 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
-metafile = true
-
-[[files]]
-file = "mods/roguelikedungeons.pw.toml"
-hash = "27cc1716c9340e742fdcb916e7ce1fe490e1dcdce6c334f83ad22560e3b6f4a4"
 metafile = true
 
 [[files]]
@@ -7776,6 +7761,11 @@ metafile = true
 [[files]]
 file = "mods/unseaworthy.pw.toml"
 hash = "a133fc524126c0ad777902010da9704f82e8c51c3a217f89d1d12c40b29f539e"
+metafile = true
+
+[[files]]
+file = "mods/urkaz-moon-tools.pw.toml"
+hash = "0eea414cfa9308cc791e8eabb12a1853a07da3434f984dd975d9127b05d491c5"
 metafile = true
 
 [[files]]
