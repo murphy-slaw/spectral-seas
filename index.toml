@@ -7041,6 +7041,11 @@ hash = "359dbf210e6657849bb7496155766cf1ae3030c83547744f136209a8c1594a80"
 metafile = true
 
 [[files]]
+file = "mods/epic-dungeons-a-roguelike-minecraft.pw.toml"
+hash = "f075901def559e036261d66afedfe4099f2e96afa5c55e19040993dc1e41fef5"
+metafile = true
+
+[[files]]
 file = "mods/equipment-sets.pw.toml"
 hash = "b040ab501955119d1980fbd208c369c502e9e1ee5e9b0037ad12490df8e396ab"
 metafile = true
@@ -7788,6 +7793,11 @@ metafile = true
 [[files]]
 file = "mods/wabi-sabi-structures.pw.toml"
 hash = "b4b5aecebc47156610f18cf1320652071ece1afed9764768cc1e0d5425cdafa8"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
 metafile = true
 
 [[files]]
