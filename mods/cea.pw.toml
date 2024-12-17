@@ -1,6 +1,6 @@
 name = "Custom Entity Attributes (CEA)"
 filename = "CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HrX8DMup/versions/KxenaBoI/CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Custom Item Attributes (CIA)"
 filename = "CustomItemAttributes-FABRIC-1.20.X-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6wP3NByD/versions/CPxPGAIr/CustomItemAttributes-FABRIC-1.20.X-2.0.0.jar"

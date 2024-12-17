@@ -6840,7 +6840,7 @@ metafile = true
 
 [[files]]
 file = "mods/cea.pw.toml"
-hash = "f00b4e481a694b98b9b1ee32ac3515f16ae71c4409d363ad4e0c459ed29b36ae"
+hash = "d254eb93cc21d4f49437cf2ff1dc7c6ece3f206f2283723e6a0e1b86bf0fc97c"
 metafile = true
 
 [[files]]
@@ -6860,7 +6860,7 @@ metafile = true
 
 [[files]]
 file = "mods/cia.pw.toml"
-hash = "e7e87bffcf5ee06ac78e1d6af8a2d060df55eb3c41f360f5b25e1f11446c6dd8"
+hash = "2d4c0dc55260b1b9a1fbeeed97828a2ecb9ea7938092c33f7c353dc5b7c7f775"
 metafile = true
 
 [[files]]
@@ -7105,12 +7105,12 @@ metafile = true
 
 [[files]]
 file = "mods/formations-overworld.pw.toml"
-hash = "a9ed985d2453f61db49f2af28c30d40119a0654f9a58dc850f24eaad50417150"
+hash = "c7d68ec0eb8e415a4a320a81477c7a83834c9ac725826e6c14fb1edb42622574"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "94ddda7ccf408a1cf1380924efca253e6ebac5353df83ef9f580b29d8e85d9cb"
+hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
 
 [[files]]
@@ -7184,7 +7184,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-see-what-you-did-there.pw.toml"
-hash = "a3a759baa8fcd86438ad2bc946be4bc0ca172470f43b7c1f27fe47d558539fa9"
+hash = "f0036efc66e448eec547899901eec3cf0906bf66ed7585363a5ae82e5f292e81"
 metafile = true
 
 [[files]]
@@ -7547,7 +7547,7 @@ metafile = true
 
 [[files]]
 file = "mods/rabbit-behavior-fix.pw.toml"
-hash = "8cca24da1a913bef4e64d3e5b7974b59f408415e4565cff9d752a5a8f20bab3a"
+hash = "8a9a56131a0b6fbe7fed0f7e3c1e3e42ef3b932d5ea852d1497960c8a869d841"
 metafile = true
 
 [[files]]
@@ -7597,12 +7597,12 @@ metafile = true
 
 [[files]]
 file = "mods/selfish-villager.pw.toml"
-hash = "ea84e6242bcff0342d7cbf8077afc1656b622f907a0e95ad2aa1cb9b2e9fb736"
+hash = "076fcc364ccef5014221ec5ad5ea7e4d99275a05413718535a0abae5388cb147"
 metafile = true
 
 [[files]]
 file = "mods/separatedleaves.pw.toml"
-hash = "3e4e75703a1575a8f3a5033a10d1c503fbcca8357775eb6e816355779885d1c0"
+hash = "2d0ffe6792b0d0c97137383d16a92b4af38cbe7b57917f42e3c3440f9f6b10cc"
 metafile = true
 
 [[files]]
@@ -7706,7 +7706,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "ab40ca8e01c666304eecd980fc7d70397e691b1e8603eb972076dc50be5e2525"
+hash = "20325f6b15e166034388f0a7deaa6c3103d74a8e93e1d4541e580f577fce829d"
 metafile = true
 
 [[files]]

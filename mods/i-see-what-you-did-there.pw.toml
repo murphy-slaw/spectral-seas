@@ -1,6 +1,6 @@
 name = "I See What You Did There!"
 filename = "iswydt-1.0.4-1.20.x-FABRIC.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IRfoIXHf/versions/YVytwUXL/iswydt-1.0.4-1.20.x-FABRIC.jar"

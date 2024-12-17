@@ -1,6 +1,6 @@
 name = "Formations Overworld"
 filename = "formationsoverworld-1.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KX1XC0Oo/versions/APtZazrk/formationsoverworld-1.0.4.jar"
