@@ -1,0 +1,13 @@
+name = "Realistic Cobwebs"
+filename = "Realistic-Cobwebs-Fabric-2.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KbSE3UgH/versions/2FHIq8tm/Realistic-Cobwebs-Fabric-2.1.0.jar"
+hash-format = "sha512"
+hash = "bf706edeb3144e74c4b1ce8edf7e3b3a545a1d4f9620ded319df19c8b2d062a796d6eefc302c2942bc90ae8a9ab90410dde1e379cdc291711fd48cdf644088f4"
+
+[update]
+[update.modrinth]
+mod-id = "KbSE3UgH"
+version = "2FHIq8tm"
