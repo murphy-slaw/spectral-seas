@@ -10,11 +10,11 @@
 	#For bitmap fonts, 8 represents a glyph size of 8x or 16x if fixed resolution.
 	#This option only applies to TrueType fonts.
 	#Range: 6.5 ~ 9.5
-	baseFontSize = 6.5
+	baseFontSize = 8.0
 	#Control vertical baseline for vanilla text layout, in GUI scaled pixels.
 	#The vanilla default value is 7.
 	#Range: 4.0 ~ 10.0
-	baselineShift = 7.0
+	baselineShift = 6.5
 	#Control the text shadow offset for vanilla text rendering, in GUI scaled pixels.
 	#Range: 0.20000000298023224 ~ 2.0
 	shadowOffset = 0.67

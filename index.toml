@@ -6803,7 +6803,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
+hash = "08934eee57062f77648ace8c6fe393a6072e13a013ce519f7009d6f1e4733c24"
 metafile = true
 
 [[files]]
@@ -7038,7 +7038,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "872705bce835533f3fb10812e406f2a9dab781cb39ec67749112d34353289408"
+hash = "2ac0ffe2bf029e5a5fabb27f6ac0ad4d32f2de5d1a9ee3eebcdbf4522c5cde5d"
 metafile = true
 
 [[files]]
@@ -7287,7 +7287,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "3050b863508621c476d6a501c5372d1e3811c52bda0c7f670dfd1ac7bb6de216"
+hash = "77930bfaf0dd2d730c9b4f232d2adcf271b9a54748951e163a042e26a912e179"
 metafile = true
 
 [[files]]
@@ -7346,7 +7346,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
-hash = "6ddba5dcc0aa262cc23bf98cfb787a60149c3d2ee29e14a00e6751a5cf0106e4"
+hash = "13cec5bcc334536fdfda2970f1b3e3739225d601ca614288b214c9cccf738ecc"
 metafile = true
 
 [[files]]
@@ -7421,7 +7421,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f4eb6b3902bd9c2f70034caf398c443bea82a7792c08b5d53101d77ee596fb0"
+hash = "d2d8cf93100f6d256a03a7c0527394e269320582b2b19b6f8d10592ed3fe5384"
 metafile = true
 
 [[files]]
@@ -7909,7 +7909,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "b6e68a3b1083348cd30685a04535e5a779353b5e94aca5bf0a8749174995d147"
+hash = "f0028056b797510149e0cd56564d5b1125e151e69947cb0f04a67ca40042142e"
 metafile = true
 
 [[files]]

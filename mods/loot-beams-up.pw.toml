@@ -1,13 +1,13 @@
 name = "Loot beams"
-filename = "lootbeams-3.0.3-mc1.20-.4.jar"
+filename = "lootbeams-3.1.1-mc1.20-.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFPOjWlN/versions/OfNNhQzR/lootbeams-3.0.3-mc1.20-.4.jar"
+url = "https://cdn.modrinth.com/data/fFPOjWlN/versions/492fsU0l/lootbeams-3.1.1-mc1.20-.4.jar"
 hash-format = "sha512"
-hash = "704549e2817cca46928b82544a8b8694e1a5853eb22237f62eb2fcc53d76fd76d148d9e21a91f1372de2bdf2dc4fe8ce435917ba2682b07a18bfe8f6f2d5a3d5"
+hash = "426f8f0e9e421b7bc59ab4ca94f4049a61cfc33393723e6e9d4469419a2abaa050b50903d7ae4f61d57f7c79d4da9ad30f50f2da3c92290c54541ff3e1601ae1"
 
 [update]
 [update.modrinth]
 mod-id = "fFPOjWlN"
-version = "OfNNhQzR"
+version = "492fsU0l"
