@@ -126,7 +126,7 @@ hash = "357504489493c0b7962affb4277116664163c21d4b8e922ff23125d936fb61f9"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
-hash = "8982b46cb118f3f45df21269f7729d8a29b6a9fa8f67f1ac6750540d5f4c9196"
+hash = "c65ced43d1e622547a470683685a16008b196366918491abf737e169b68203fb"
 
 [[files]]
 file = "config/blur.json"
@@ -186,7 +186,7 @@ hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "ac9efb4242964815d6709802847ecb7f1279f8dd33dc2ae9498c2e343650d94f"
+hash = "cc83392b2440cbbea6e9765ec6b24cef23aa9e3f0cbab84741b69ebe8465f538"
 
 [[files]]
 file = "config/deathlog.json5"
@@ -866,10 +866,6 @@ hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
 hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "61666ea0addaaba7bfe9be3fec160e1b6f30f4499f3faeb54ed59ca9fc89ba3d"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
@@ -2677,7 +2673,7 @@ hash = "e7d630fb1adc687e8cd4aaa88695c89d03975ae16a28b831b7c8062ebcb5ce6e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
-hash = "78c9fa985c6751b640e62aef24a7155645628a973b9d040bf293840e3e13317d"
+hash = "7d307e1fc60a7ae6e580fd6bc09261ed50b056da05063b83ef2f9354bb4e13e8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/diamond_weapon.json"
@@ -2705,7 +2701,7 @@ hash = "de914c0cca5da6e4f99b03c93f01e36bfeda4fd59a11619e432c384d5267d764"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
-hash = "16315c4797550a0c366743f84196895ddc9eee5e0ae5431c483d904a7b812c09"
+hash = "4459f4484b360d0715388a71e1cad0fe8dd6889f686962cd06e21159389eba5f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
@@ -7863,11 +7859,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
 
 [[files]]

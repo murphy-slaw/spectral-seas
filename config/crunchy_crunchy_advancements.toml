@@ -10,8 +10,7 @@ filterMode = "BLACKLIST"
 # Namespaces to be entirely filtered, e.g. 'minecraft' or 'antique_atlas'
 filterNamespaces = [
     "mostructures", 
-    "totw_reworked",
-    "yungscavebiomes"
+    "totw_reworked"
 ]
 # Namespace-inclusive paths to be filtered, e.g. 'minecraft:recipes/' or 'tconstruct:foundry/'
 filterPaths = []
