@@ -538,7 +538,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "718555111c6679d0c196682d72f55ddf012d37837c05fe7b6bbd2842b2335e2d"
+hash = "75f87feb63f0426080cfbfdd2bdb6cd947f4890e8de2d107ea1ba7818a2d555e"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/LICENSE"
@@ -550,7 +550,7 @@ hash = "188519696345184381ff74a38ff470653b1e74cd2f0dbe87e94acbd648079f64"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "e3cf02d06297db0a464c7191a9073bf49ed9bfc151ad4b469dd694f1413e9ccb"
+hash = "eafcb2ab1095fb28d902a8b515c27ef612132cd6990f7c1357a15bf0bb98cff9"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -583,6 +583,10 @@ hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 [[files]]
 file = "config/paxi/datapacks/Oceania/pack.mcmeta"
 hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
+
+[[files]]
+file = "config/paxi/datapacks/Perlinescent 1.20.1 v1.0.zip"
+hash = "47e98717c774ce9f4a89b90c846d3bc4217a7856ef7882bfef2b8abf4028b9fa"
 
 [[files]]
 file = "config/paxi/datapacks/bundles-craft.pw.toml"
@@ -2649,11 +2653,11 @@ hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_dripstone.json"
-hash = "6967811313a092e577a7a1531a63b91b4e42a260a16122cadf830ae1877fac0d"
+hash = "a545f34a2fc368203cf1dcdefa2b57ab94ec519d4bca98f84f9ad50428adbd46"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_perlinescent_vegetation.json"
-hash = "d301f7db835e41187b8ef633bc6cb7e3c9756909c6ecd7801b0bf8c42e06e6e4"
+hash = "23f29df90520f2d69c59717a53ae266cb347f29cdbb1b31e9ff542bda88d34fa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -2870,11 +2874,6 @@ hash = "0dbba98111faadc927028dd34be0175d4bab6b22f9c767e4e35c049c142be3b5"
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
 hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/swords-and-axes-dungeon.pw.toml"
-hash = "d64ac1d815b0684366cfcf11f38f5c990a7115cd29c4e9fe2749d93dfc7ea451"
 metafile = true
 
 [[files]]
@@ -7059,11 +7058,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "359dbf210e6657849bb7496155766cf1ae3030c83547744f136209a8c1594a80"
-metafile = true
-
-[[files]]
-file = "mods/epic-dungeons-a-roguelike-minecraft.pw.toml"
-hash = "f075901def559e036261d66afedfe4099f2e96afa5c55e19040993dc1e41fef5"
 metafile = true
 
 [[files]]
