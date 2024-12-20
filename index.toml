@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/Perlinescent 1.20.1 v1.0.zip"
-hash = "2060c8c024303f03e6f56b5d8e5678518c9854934dfa8a0ea62115e2578ab8ca"
+hash = "fbefb5f143474742797209d79aac94ec4ec5a82f100baffea7c359d6f2ca1426"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
@@ -737,7 +737,7 @@ hash = "c150f0cfebca3737afb9b2f5a7281b90e37adcd24305dc4a3852e7adeb76e523"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/uncommon.json"
-hash = "7141caa55982b808d8cf6329ddd92dc40a687ec069aa90db9ba53524a4fe161a"
+hash = "19fa22bf648c86ccf2505d4e583c726fc338a941f47fec3f6dc6f1d1e23a456b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
@@ -2838,6 +2838,38 @@ hash = "a02b737cdcec8a2b24ce3a149cfda294161db376e16197501223c66052c13f97"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
 hash = "002c3d181fabc09d886e9d219d47689252d341f98d4ace0a0817261d2c1c6012"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/beetroot_patch.json"
+hash = "5b46fa642eeb925aa36ab77a5c33bfdbeff18f9a83493cb079e27eb6fdaf51f1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/carrot_patch.json"
+hash = "7cc39d5da818c1e72ab1ddae6cd76f0db43909b64bc6db9b30d2dedc8b16f66c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/gallows.json"
+hash = "bd65e80b2f85bd39e2cf68eb6a79d77cf52a6d6bfe95f29c20f6b4ccc14f5d9d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/potato_patch.json"
+hash = "5104650f43e6e776eb9399e5c732730ff95a03d42988099288c71111d92720db"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/pumpkin_field.json"
+hash = "02d968a7559c801fe85b5cff1ba9e77ef5ac56da58165229aeeef908196bd56b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/pumpkin_patch.json"
+hash = "2ace00fd93bd4fae8507794090da5bb44f9a196c99d4a8733840dd6ef1074da8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/spruce_berry_farm.json"
+hash = "cac3f98806f367eeca61b5436a05a2b74d2a5e5260f5b5f5288b950246e9af56"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/wheat_patch.json"
+hash = "d36a0374c7ea3fb534d21819dec75d0f6bebe53994a9476fccceec1b3bd28b37"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/zhopo/tags/worldgen/biome/has_structure/piglin_ruin.json"
