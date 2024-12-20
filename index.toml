@@ -6495,11 +6495,11 @@ hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
 
 [[files]]
 file = "config/smallships-client.toml"
-hash = "5732efc15c1adc6ecaa01baa67bdd929cee3b8e5b4101beca50fec106c424cba"
+hash = "5da374b1f4a254f359fd29170fabc65f0f8857a63dbb2b96e5dc7fe9b9eadbd9"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "f7ff959bf751f16100d6fd14ac380d64a422a026f4b4f4f34ca02dfe194519c5"
+hash = "c3c78b30038d49b9821ff5a1cb62c5e1ad4d0c6038a321a7c31afc3391e3ea1f"
 
 [[files]]
 file = "config/spark/activity.json"

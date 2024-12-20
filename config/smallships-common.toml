@@ -56,13 +56,13 @@ schematicVersion = 5
 		#Default configs for the container of the Cog.
 		[Ship.Cog.Container]
 			#Set container size for the Cog (value must be divisible by 9 and bigger than 0).
-			shipContainerCogContainerSize = 108
+			shipContainerCogContainerSize = 216
 		#Default attributes for the Cog. Speed in km/h, Health in default mc health points
 		[Ship.Cog.Attributes]
 			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxRotationSpeed = 4.5
 			#Range: 0.0 ~ 100.0
-			shipAttributeCogMaxSpeed = 40.0
+			shipAttributeCogMaxSpeed = 45.0
 			#Range: 1.0 ~ 10000.0
 			shipAttributeCogMaxHealth = 300.0
 			#Range: 0.0 ~ 100.0
@@ -80,7 +80,7 @@ schematicVersion = 5
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]
 			#Set container size for the Drakkar (value must be divisible by 9 and bigger than 0).
-			shipContainerDrakkarContainerSize = 54
+			shipContainerDrakkarContainerSize = 108
 		#Default attributes for the Drakkar. Speed in km/h, Health in default mc health points
 		[Ship.Drakkar.Attributes]
 			#Range: 0.0 ~ 100.0
@@ -104,7 +104,7 @@ schematicVersion = 5
 		#Default configs for the container of the Brigg.
 		[Ship.Brigg.Container]
 			#Set container size for the Brigg (value must be divisible by 9 and bigger than 0).
-			shipContainerBriggContainerSize = 162
+			shipContainerBriggContainerSize = 324
 		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
 		[Ship.Brigg.Attributes]
 			#Range: 0.0 ~ 100.0
@@ -128,7 +128,7 @@ schematicVersion = 5
 		#Default configs for the container of the Galley.
 		[Ship.Galley.Container]
 			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
-			shipContainerGalleyContainerSize = 54
+			shipContainerGalleyContainerSize = 108
 		#Default attributes for the Galley. Speed in km/h, Health in default mc health points
 		[Ship.Galley.Attributes]
 			#Range: 0.0 ~ 100.0

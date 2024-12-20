@@ -17,9 +17,9 @@ schematicVersion = 2
 			[Ship.General.Camera.Zoom]
 				#Set minimum distance of zoom (value must be bigger than or equal to 1.0).
 				#Range: 1.0 ~ 50.0
-				shipGeneralCameraZoomMin = 10.0
+				shipGeneralCameraZoomMin = 20.0
 				#Generally enable the zooming feature.
-				shipGeneralCameraZoomEnable = false
+				shipGeneralCameraZoomEnable = true
 				#Set maximum distance of zoom (value must be smaller than or equal to 50.0).
 				#Range: 1.0 ~ 50.0
 				shipGeneralCameraZoomMax = 40.0
