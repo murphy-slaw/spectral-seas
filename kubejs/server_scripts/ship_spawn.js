@@ -28,7 +28,7 @@ PlayerEvents.tick(event => {
             markerPos.z = Math.floor(player.z);
             player.persistentData.put("MarkerPosition", markerPos);
             Utils.server.scheduleInTicks(1, callback => {
-                Utils.server.runCommandSilent(`execute as ${player.username} run spawnpoint @s ${markerPos.x} ${markerPos.y} ${markerPos.g}`);
+                Utils.server.runCommandSilent(`execute as ${player.username} run spawnpoint @s ${markerPos.x} ${markerPos.y} ${markerPos.z}`);
                 Utils.server.runCommandSilent(`execute as ${player.username} run surveyor landmarks add surveyor:point ${markerPos.x} ${markerPos.y} ${markerPos.z} red Ship`);
             });
             Utils.server.runCommandSilent(`tellraw ${player.username} "Spawnpoint has been set to your ship\'s location"`);
