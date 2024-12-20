@@ -1,13 +1,13 @@
 name = "Data Attributes: Directors Cut"
-filename = "data-attributes-2.0.3+1.20.1-beta.1-fabric.jar"
+filename = "data-attributes-2.0.3+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KCGxOJsE/versions/wBYp4WMO/data-attributes-2.0.3%2B1.20.1-beta.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/KCGxOJsE/versions/qT343MvQ/data-attributes-2.0.3%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "2eca187ea3a807a157c6d105d80db86642d5c549a6873e5bb9bea52b0f1475e37f05472964e076691ae37d0985aa51387c45445a0346935b489125aae97982d9"
+hash = "f7eadd96594137581be5e1d4ea2fd0f023d0444dac5f15f513a9c5338ac505b005ea6884589aa6e430722f8d85fa8de911b52b7303a02650e706647bce238944"
 
 [update]
 [update.modrinth]
 mod-id = "KCGxOJsE"
-version = "wBYp4WMO"
+version = "qT343MvQ"

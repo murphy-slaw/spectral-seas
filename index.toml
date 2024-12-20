@@ -6968,7 +6968,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "4bdba8dc5096bff911df1e3c2a1e465028c770981e4c0f4da79856bf82764eb9"
+hash = "04d56ce53d087e1c2a7d628d86efc87e4c3d96dc64a991eb825f920a5676320d"
 metafile = true
 
 [[files]]
@@ -7078,7 +7078,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+hash = "b222af06f73a3f90c1508f0d9b0e7a56642c45bb1769daf28b96675ccf94adb2"
 metafile = true
 
 [[files]]
@@ -7615,7 +7615,7 @@ metafile = true
 
 [[files]]
 file = "mods/ribbits.pw.toml"
-hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
+hash = "dbc0b5ce2ab4043c9965072e7e269867b895253289eeba6cf21da9c92207e14a"
 metafile = true
 
 [[files]]
