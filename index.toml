@@ -2845,7 +2845,7 @@ hash = "5b46fa642eeb925aa36ab77a5c33bfdbeff18f9a83493cb079e27eb6fdaf51f1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/carrot_patch.json"
-hash = "7cc39d5da818c1e72ab1ddae6cd76f0db43909b64bc6db9b30d2dedc8b16f66c"
+hash = "b44b43b10614adb95abecb97999778bab0d61d0681859226f52a73994d978fec"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/gallows.json"
