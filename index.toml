@@ -7497,11 +7497,6 @@ hash = "d86ebd0487123cbcc95ba6e20b440788d9aa5e5618b84be16793e5a3b782efdc"
 metafile = true
 
 [[files]]
-file = "mods/nimble.pw.toml"
-hash = "64c69eb5b6b559e2f77dc9d7c01f60fe2d3d2bbc84890060865633b6f6b9a68b"
-metafile = true
-
-[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
