@@ -733,11 +733,11 @@ hash = "63d7b53f6a42134b0c815e9000d8f4ab078ca686c79c0de00e858b4f33830b29"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/rare.json"
-hash = "c150f0cfebca3737afb9b2f5a7281b90e37adcd24305dc4a3852e7adeb76e523"
+hash = "ba4fcce04167eb0d6d9acb5fd37716053d3b4982f167985f9bd649ce27de31f6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/structure_set/uncommon.json"
-hash = "19fa22bf648c86ccf2505d4e583c726fc338a941f47fec3f6dc6f1d1e23a456b"
+hash = "75e92a3624d3bf88e3f3a238d8bac7b0fa59dd5d25211b4bcf3d2ad9ff99dd6f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
@@ -2620,6 +2620,106 @@ file = "config/paxi/datapacks/spectral_seas/data/overworldify/worldgen/placed_fe
 hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/badlands_structures.json"
+hash = "58ce6aa7c1849c7643163f8797f926614b02dead701795795ef2c14a1c182991"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/desert_structures.json"
+hash = "3ad968f6b751463ce9d41486e7cbab9055602c3030a82261e2186c634ff0c9a9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/end_ruins.json"
+hash = "e0d8b02c1640c926391e7bb2658aabd969b5b02d83f9955e49f54ad5ee412270"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/field_stone_ruins.json"
+hash = "43dc91510012b58daa280eb1a0eede932e9b50d000509ec4a6c67ca62f4fcad1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/field_stone_ruins_rocks.json"
+hash = "7529b724de693ea0ce25136843ed224d3ecc382bdb5051683e3b23bc7d27bc6f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_one_ruins.json"
+hash = "c140e817235800cd124c528e1a881fbfcf121492c3db2e1042d7567573ad19ce"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_three_ruins.json"
+hash = "493114f51128084885826bf636b8f7949691b5ed313e63012d7a2602ed893aab"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins.json"
+hash = "49020df28805ed181b8c6375296bcf26636d3a807389ad27f1765d0cdae9bd66"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
+hash = "b3a10c6200e7b6981bfbae742b93a7f719e9495b4c7f0c17662b5647c3b05202"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/lost_soul_city.json"
+hash = "49de93250ed85d5261b37342488642eba78ce80424d0222c256a61cfcfa3fe93"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/lost_soul_dungeon.json"
+hash = "cf20f21dd739efbe69a83e8386be491de14119fc716a2172de976496568cb716"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/ocean_fortress.json"
+hash = "6b3bfe5a3d58dd1e756696048d8fe05a08d98f4df03fcd82dc8975e9c7325a87"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/ocean_ruins.json"
+hash = "3993b9eb2e85ef557d423fe8579e890e2b0f454f6baac125bb4b82eae530eee1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/underground_structures.json"
+hash = "1c54c6ea1296c41927cb9fd77b24eb8feabdf681830481e0471e4326372d58d0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/desert_structures.json"
+hash = "6e2eba8a067f1737e636474f5a9d701d0f66b65cf41e3af3ffe7a2e6ec9874aa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/end_ruins.json"
+hash = "f5be0eaee7c1fe933854603f6210cf95c8d4a99acc3c971377d7d6f019010301"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/field_stone_ruins.json"
+hash = "70f232551f7e59b252f35156def088d55ff56f42b7b0de0fe998ffd0dd48c29e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/field_stone_ruins_rocks.json"
+hash = "a7f173d5f09ad03c61fb104591f2e7bb7438f6261c846c72d4f2aea9686191e6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/level_one_ruins.json"
+hash = "4e34bde1547a93027119a14cfaa600a514759f89780813e4103cb0b8f29453a1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/level_three_ruins.json"
+hash = "b36ab40f49394be21985cda4bdb408517f6cfb0c1560fe528df4a9d563247457"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/level_two_ruins.json"
+hash = "e09d3227c64d6b96cc12c063fb89685304a779c41beaed0cddcac5b7dc270421"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/lost_soul_city.json"
+hash = "82982033dcbcf7f3eb7887121fc2107cb43e39bf8a9ddccb77a949558f85aded"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_fortress_main.json"
+hash = "f61e3e4dc6977c0d289f2326bb6afd2be135dcf038594f375ba20b377017319f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_ruins.json"
+hash = "84ad8301e2946b277f5574473c025f176a954ec7f894a44220258a0d714a0c4d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/underground_structures.json"
+hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
 hash = "fa1924acb8bdd1f0870d8aaaad4b46004d208ab8ad6d37838b0e3817edcd55f0"
 
@@ -2633,7 +2733,7 @@ hash = "c04b252440ed506cdf19918fa5dc79205b1b1bf04e2926f78968b69aaf21e89a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
-hash = "6554c1cc8794a1daf77606a8a82af19597d446f947ce05d4bea8fae1793051ce"
+hash = "d86203a3ba3119f466f59e351d4be3c89eeb01c198312f721ee94d0e6c1670c4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/non_property.json"
@@ -6495,7 +6595,7 @@ hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
 
 [[files]]
 file = "config/smallships-client.toml"
-hash = "5da374b1f4a254f359fd29170fabc65f0f8857a63dbb2b96e5dc7fe9b9eadbd9"
+hash = "6037814dc2860cd65ac1b7532212078ebb7b4fe21e4c64c026b38fda16c1c41a"
 
 [[files]]
 file = "config/smallships-common.toml"
