@@ -2621,7 +2621,7 @@ hash = "9036024bef778202adb2ae550aaecae6213860272ddb287c4298766472a8de6a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/badlands_structures.json"
-hash = "58ce6aa7c1849c7643163f8797f926614b02dead701795795ef2c14a1c182991"
+hash = "c924adca9cf51c6091f7455157a94291b0c6dca507bfe9a40ab5de142b9e5e62"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/desert_structures.json"
@@ -2701,7 +2701,7 @@ hash = "b36ab40f49394be21985cda4bdb408517f6cfb0c1560fe528df4a9d563247457"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/level_two_ruins.json"
-hash = "e09d3227c64d6b96cc12c063fb89685304a779c41beaed0cddcac5b7dc270421"
+hash = "263570ab9d72fc678526c54d71156597a0154769b08a42a6d5bb407a2355f977"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/lost_soul_city.json"
@@ -6420,6 +6420,14 @@ hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/archeologyplus/atlas/structure/start/statue_jungle.json"
 hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/emi/index/stacks/stacks.json"
+hash = "4cef0d9228ad31e1d0a196fa8a101ad2b5f47a94a44ec90c74ed1476e3a91366"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/emi/recipe/filters/filters.json"
+hash = "af1b64f00fcac3b60e68929550f86eb670369f86000f2ca7dd1c22828a351bb0"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_0.png"

@@ -1,0 +1,13 @@
+{
+    "filters": [
+        {
+            "id": "supplementaries:rope_arrow_create_display"
+        },
+        {
+            "id": "supplementaries:rope_arrow_add_display"
+        },
+        {
+            "id": "/minecraft:kjs\/supplementaries_rope_arrow_/"
+        }
+    ]
+}
