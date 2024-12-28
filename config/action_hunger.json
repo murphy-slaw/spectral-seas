@@ -37,7 +37,7 @@
   "shieldExhaustionAmount": 0.0,
   "sleepExhaustionAmount": 0.0,
   "dynamicSleepExhaustionAmount": 1.0,
-  "debug": true,
+  "debug": false,
   "effects": [
     {
       "effect": "speed",

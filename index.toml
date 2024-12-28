@@ -34,7 +34,7 @@ hash = "604528bd9e741155a866d3c95449e24b01fce5fb09db5dd64de4f5bfa95a6226"
 
 [[files]]
 file = "config/action_hunger.json"
-hash = "aa824eb36562ca5a4ca00560e7086fb4915f009de5655a13d63c42c88a2d7ab9"
+hash = "11c24eadab22d418fafe4c7d50225ab516e7babdbb9f4b23624d727cfee0b9de"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -6742,8 +6742,20 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/spectral_seas/textures/item/beetroot_soup.png"
+hash = "2e15843432d7f0db97d3e8c3ab4ae3bae83d8f7ece8417aa67580b36062e26ca"
+
+[[files]]
+file = "kubejs/assets/spectral_seas/textures/item/mushroom_stew.png"
+hash = "bd46d7a66c430433049f4e2b82c4f871d9ebdace85a17571fbfc6c1e27a54370"
+
+[[files]]
+file = "kubejs/assets/spectral_seas/textures/item/rabbit_stew.png"
+hash = "777cdb318f89224f4f685ebfc9c5b60e1feddfb5686444151467d425d0427f1b"
+
+[[files]]
+file = "kubejs/assets/spectral_seas/textures/item/suspicious_stew.png"
+hash = "37341eee562a1f12d37115ba962e5b146eeb1ec36eb643cdd6345ee6bc50c6ce"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -6775,7 +6787,7 @@ hash = "4090a47db0c746e98dd1abf9e316cb2a7b788ea52531ca01aef1371d4d90e13c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "799b8933543a6af72e729a11557375954961b444418ddf131d91fe63b5c91e6c"
+hash = "10da7307ba60ea4e302eb368e98c2250f4d88fcfc0dfd4bf981bbbd3430a3f6d"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -6792,10 +6804,6 @@ hash = "f8f9ac68de1b02c71777938449f727138371b347e3c66514c94910707e1af0b3"
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
 hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/recipes.js"
-hash = "4def2456d47c91ac67fc8189d7fc9da9c545b02085ed9df5fe850caca0dd3ca2"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/spawn_control/LICENSE.txt"
@@ -6822,8 +6830,12 @@ file = "kubejs/startup_scripts/amphibious.js"
 hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
 
 [[files]]
+file = "kubejs/startup_scripts/bowl_food.js"
+hash = "8599f56fa59e590be8f91b0ef6eb841e2b7f31f6b57ecffe3ff47ca8cb5c26f3"
+
+[[files]]
 file = "kubejs/startup_scripts/item_counts.js"
-hash = "5b996564ee63ffd276469124d85e1b6b2b558f929f581675e2e6255d463a6ca8"
+hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
 [[files]]
 file = "kubejs/startup_scripts/turtle.js"
@@ -7482,11 +7494,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "53b190cf830b889377cfc476a0992224afa2182a8930d501402c2b1999123edf"
-metafile = true
-
-[[files]]
-file = "mods/loot-beams-up.pw.toml"
-hash = "13cec5bcc334536fdfda2970f1b3e3739225d601ca614288b214c9cccf738ecc"
 metafile = true
 
 [[files]]

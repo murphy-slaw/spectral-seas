@@ -1,4 +1,4 @@
-Platform.mods.spectral_seas.name = "Spectral Seas";
+Platform.mods.kubejs.name = "Spectral Seas";
 
 StartupEvents.registry('item', event => {
 

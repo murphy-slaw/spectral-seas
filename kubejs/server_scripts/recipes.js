@@ -155,11 +155,25 @@ ServerEvents.recipes(event => {
         'spectral_seas:beetroot_soup'
     );
 
-    event.replaceOutput(
-        { output: 'minecraft:suspicious_stew' },
-        'minecraft:suspicious_stew',
-        'spectral_seas:suspicious_stew'
-    );
+    event.remove('minecraft:suspicious_stew');
+
+    function suspicious_stew(input, effect, duration, amplifier) {
+        let output = Item.of('spectral_seas:suspicious_stew', {
+            Effects: [
+                { EffectId: NBT.i(23), EffectDuration: NBT.i(600) }
+            ]
+        });
+        event.shapeless(
+            output,
+            [
+                input,
+                'minecraft:red_mushroom',
+                'minecraft:brown_mushroom',
+                'minecraft:bowl'
+            ]
+        );
+    };
+    suspicious_stew('minecraft:blue_orchid', 'staminafortweakers:tirelessness', 30, 0);
 });
 
 ItemEvents.foodEaten('spectral_seas:mushroom_stew', event => {
@@ -182,3 +196,4 @@ ItemEvents.foodEaten('spectral_seas:beetroot_soup', event => {
         event.player.give('minecraft:bowl');
     }
 });
+
