@@ -6895,7 +6895,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "81b964558fbd63789a768648660ac2bf7a6601a6a6a50d6cac1c0a41affed0fd"
+hash = "038890da6852c75044ad7d2c68106dca43f6a4bedda98cf81cb20d5cb5d32b43"
 metafile = true
 
 [[files]]
@@ -6985,7 +6985,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
+hash = "a290e0138d7a94b71a02ead8d1e7f9dcb6500af316516f034f4297fe6c556451"
 metafile = true
 
 [[files]]
@@ -7230,7 +7230,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
 
 [[files]]
@@ -7250,7 +7250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "75795e1b60be8794aa67a88d4062c5638dc3dfe7e94d15819c9bc707ca15034c"
+hash = "330b396e85081dd03ad76f12d115bd77475545622a8bb16e1ac7f86b8c99b6bc"
 metafile = true
 
 [[files]]
@@ -7319,7 +7319,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
+hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
@@ -7493,7 +7493,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "53b190cf830b889377cfc476a0992224afa2182a8930d501402c2b1999123edf"
+hash = "42fb06c2572b815e93ef166d01770a016743b935cb44d5c15fb9fb6a54b856cd"
 metafile = true
 
 [[files]]
@@ -7548,7 +7548,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
+hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
 metafile = true
 
 [[files]]
@@ -7568,7 +7568,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d2d8cf93100f6d256a03a7c0527394e269320582b2b19b6f8d10592ed3fe5384"
+hash = "1beaceb2b40228c48cbda401cbc059d0021e99b27f81a8813519b9bd43f4904d"
 metafile = true
 
 [[files]]
@@ -7623,7 +7623,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1aed912bd332f82c307260cae717b75a8f31ece3fc41245495edbbd04e8d503d"
+hash = "79e57cd55f470e4fb9279be512fc6a7d824c9c013682d33a5db92bf26d2f43ff"
 metafile = true
 
 [[files]]
@@ -7827,7 +7827,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "ae32d47c8c76f4c93318fb82d7e47baed5e785cb4be362d223a89c41ccfb53e4"
+hash = "b5bacc033bf61a53a4d2095923a603ad99df709cc79e270228d9655151816cd4"
 metafile = true
 
 [[files]]
@@ -7876,7 +7876,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "20325f6b15e166034388f0a7deaa6c3103d74a8e93e1d4541e580f577fce829d"
+hash = "4305067a5cda55470e1d051ca3fbd56f5e26b633dcfed3839015984f34383317"
 metafile = true
 
 [[files]]
