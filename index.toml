@@ -668,10 +668,6 @@ hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/Perlinescent 1.20.1 v1.0.zip"
-hash = "fbefb5f143474742797209d79aac94ec4ec5a82f100baffea7c359d6f2ca1426"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
 hash = "020fd74e17d35f81bef2857f68f23bd464e75d95b5885464cf361a325528d08a"
 
@@ -906,6 +902,10 @@ hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
 hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
+hash = "1f7f6c204948d20a2ab8ffe70223054740beb83acf40fe24bf000fd0b296c3a3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
