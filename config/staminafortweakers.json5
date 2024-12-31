@@ -14,15 +14,11 @@
 	// Stamina points depleted per jump
 	"depletionPerJump": 4.0,
 	// Stamina points depleted per attack
-	"depletionPerAttack": 1.0,
+	"depletionPerAttack": 0.5,
 	// Stamina points depleted per block broken
-	"depletionPerBlockBroken": 4.0,
-	// Exhaustion slows mining
-	"exhaustionSlowsMining": true,
+	"depletionPerBlockBroken": 8.0,
 	// Can jump while exhausted
 	"canJumpWhileExhausted": true,
-	// Exhaustion causes Darkness
-	"exhaustionBlackout": true,
 	// Exhaustion sounds
 	"exhaustionSounds": true,
 	// Efficiency increases exhaustion
@@ -55,20 +51,6 @@
 	"alignH": "CENTER",
 	// HUD Display Mode
 	"hudMode": "BAR",
-	// Stamina bar background color
-	"staminaBarBackgroundColor": 2236962,
-	// Stamina bar outline color
-	"staminaBarOutlineColor": 0,
-	// Stamina bar main color
-	"staminaBarColor": 65280,
-	// Stamina bar fatigued color
-	"staminaBarFatiguedColor": 16776960,
-	// Stamina bar winded color
-	"staminaBarWindedColor": 16744448,
-	// Stamina bar nearly exhausted color
-	"staminaBarNearlyExhaustedColor": 16711680,
-	// Stamina bar Tireless effect color
-	"staminaBarTirelessColor": 16691766,
 	// Icon Settings
 	"icon": {
 		// Hud Icon Height
@@ -90,5 +72,65 @@
 		"offsetY": 1,
 		// Vertical offset
 		"offsetX": 0
-	}
+	},
+	// Stamina bar background color
+	"staminaBarBackgroundColor": 2236962,
+	// Stamina bar outline color
+	"staminaBarOutlineColor": 0,
+	// Stamina bar main color
+	"staminaBarColor": 65280,
+	// Stamina bar fatigued color
+	"staminaBarFatiguedColor": 16776960,
+	// Stamina bar winded color
+	"staminaBarWindedColor": 16744448,
+	// Stamina bar nearly exhausted color
+	"staminaBarNearlyExhaustedColor": 16711680,
+	// Stamina bar Tireless effect color
+	"staminaBarTirelessColor": 16691766,
+	// Exhaustion effects
+	"exhaustedEffects": [
+		{
+			"id": "staminafortweakers:fatigue",
+			"duration": 3,
+			"amplifier": 4,
+			"ambient": true,
+			"visible": true
+		},
+		{
+			"id": "minecraft:darkness",
+			"duration": 60,
+			"amplifier": 0,
+			"ambient": true,
+			"visible": false
+		},
+		{
+			"id": "minecraft:mining_fatigue",
+			"duration": 20,
+			"amplifier": 1,
+			"ambient": true,
+			"visible": true
+		}
+	],
+	// Winded effects
+	"windedEffects": [
+		{
+			"id": "staminafortweakers:fatigue",
+			"duration": 3,
+			"amplifier": 2,
+			"ambient": true,
+			"visible": true
+		}
+	],
+	// Fatigued effects
+	"fatiguedEffects": [
+		{
+			"id": "staminafortweakers:fatigue",
+			"duration": 3,
+			"amplifier": 0,
+			"ambient": true,
+			"visible": true
+		}
+	],
+	// Effects equivalent to Untiring
+	"untiringEquivalentEffects": []
 }

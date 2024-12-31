@@ -712,6 +712,10 @@ file = "config/paxi/datapacks/spectral_seas/data/betteroceanmonuments/worldgen/s
 hash = "ed6771ed37a711d2bd10071261ff84d9b883966de4995cf8027d360d636f5b33"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
+hash = "4cb48d25faddd3156d1a0cc21043aaf70a688422c9421cebee4a593a2518af9b"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/deeper_oceans/worldgen/density_function/overworld/warped_factor.json"
 hash = "590a8f962ec360b209de296d2ca17ee61e50b1e67495efda16ee0eba2217c9a1"
 
@@ -742,6 +746,42 @@ hash = "75e92a3624d3bf88e3f3a238d8bac7b0fa59dd5d25211b4bcf3d2ad9ff99dd6f"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
 hash = "a071d77faff73a18efd8ff2ded356104e74a0aa693b089ac4fe08c9b3d5777d6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_city.json"
+hash = "65802a7472e33c699293115bbfbe692ccecbcc778343bec6febd35920c6669c5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_fossils.json"
+hash = "366fa71b54a3841fd49d0526eb7f22bf2281c0ab2d5c92df108568b222da7d37"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_small_ruins.json"
+hash = "253c3d3946edbc8a894df1f0e6089e67a810bda690dd7384457b0f84f9f12708"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_warm_small_ruins.json"
+hash = "24bea22cf7fcb40282e86edc65c3334b7c105ae689681467a647acf303c3cd1f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/underwater_city.json"
+hash = "10463043aeb17b54f50b266fde1012d6df8ebc44c0c8182b3911be73f9a74b8f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/underwater_fossils.json"
+hash = "e1a251d444ea2fe642a4e19faa64f5a628458dbb812b74cc4db4c09216422ea2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/underwater_small_ruins.json"
+hash = "169ec5e19f35cee5c8f82f78a0408c0c0bc82a7bbd24f7de94d40c8452682c26"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/underwater_warm_small_ruins.json"
+hash = "28c944e2e29212c4148f52def4b65d74510cd14244e1a20c6aeee93220a9e893"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/template_pool/underwater_city.json"
+hash = "ceaf1f2e225f11eb8c1608c921500782cafd715f294008631bc91973140c6257"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/hybrid-aquatic/sea_message/amethyst.json"
@@ -1030,6 +1070,10 @@ hash = "98f99b66ee5309c3681f8a7fe887cb23f577ad58b2e753ca8e92b8dfea879157"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/trees_rocky_beach.json"
 hash = "7731500e3ac3e6c71d18c56852bb02d39cc8d4e559d41121ab7f47d80a285ce1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
+hash = "7bcd75dec69ad4e494eed86e4389f4005084e0387b4bd336853c1de4befa04a3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
@@ -2360,6 +2404,10 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/che
 hash = "5633a90bb18dd0fa7f6aeb4af7fdc33c553ae17f036deb9fccd12c0c6beef45e"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/creeping_crypt.json"
+hash = "f1715b662252783a32bf178f6fd2b9d833d6e75813867420f7f2ca05d69bd9cd"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/desert_ruins.json"
 hash = "349553c3ac5dd2ddb2957a2f2bb685748510de000583a4f0614c23869ba27f7d"
 
@@ -2409,7 +2457,7 @@ hash = "2312b15afa19b18b2859b5ba5a36a8166143aa37e3b0be5b6adc4197cdbc04b5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/ruin_town.json"
-hash = "1f2754bf9b754824e5e9e6c98151d989fe5fffec9f86d9f8b7e6a84796e85393"
+hash = "9567ec78c13be347dac7e8c4b9d2f8263c9e6f35fa31f150f4ce8b3664070c43"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_crimson.json"
@@ -2426,6 +2474,10 @@ hash = "dd827856b2120c66e28ca26bba3185377e7031ebf1e61f1f2916f9b13fd845da"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/skeleton_camp_waste.json"
 hash = "fe7eb4005a4234f9121347028e3ad8608f8d0726024f58fc0821080e4aed2ec5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/undead_crypt.json"
+hash = "ed5979b3f66fd2eb77c654324521d6331890a96c964adc22e1fdfa025e4a582a"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/village_jungle.json"
@@ -2709,7 +2761,7 @@ hash = "82982033dcbcf7f3eb7887121fc2107cb43e39bf8a9ddccb77a949558f85aded"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_fortress_main.json"
-hash = "f61e3e4dc6977c0d289f2326bb6afd2be135dcf038594f375ba20b377017319f"
+hash = "bd83d38c6205529c06f2bbd86abfe76692abb1f597bfb0dc7a80072fefdc6e31"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_ruins.json"
@@ -2721,7 +2773,7 @@ hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
-hash = "fa1924acb8bdd1f0870d8aaaad4b46004d208ab8ad6d37838b0e3817edcd55f0"
+hash = "b7f3012e9e717e88df17ad0429182debac45852e9671e1c589387de44b30e259"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck_beached.json"
@@ -2842,6 +2894,10 @@ hash = "66ba65119114f77edf05d59751148d1ef26599a9a0fc4e04f6d2a99afef4a71c"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/undead.json"
 hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/large_ocean_structures.json"
+hash = "c0ab37ed99a6d2b7262024179fabdcba6c67e3dee84f93750a01f090bd7b3ed7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectrum/advancements/spectrum.json"
@@ -6631,7 +6687,7 @@ hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
 file = "config/staminafortweakers.json5"
-hash = "31cb6c01241454faa0631f357975a2b0c0b410a7827546f5a5c6caf1c34a4eaa"
+hash = "3a5e8193d8b7853f9c6d76529a181eb90465e8585e577f0958013bd11cb24792"
 
 [[files]]
 file = "config/status-effect-bars.json"
@@ -7614,11 +7670,6 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "16d6aa9d44c46852330f1feec8e69bcb9b5409ea38b7f2db02e5dd38b9ecef5e"
 metafile = true
 
 [[files]]
