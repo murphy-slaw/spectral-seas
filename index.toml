@@ -545,12 +545,16 @@ file = "config/paxi/datapacks/Oceania/LICENSE"
 hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/dimension/overworld.json"
+hash = "e0574f849b60cb99e82036dfe0de7f97369bc261bd4921af3affc3714a49a65a"
+
+[[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continentalness.json"
 hash = "0170138e6a3f7ba8975bed54666fb832f9dc725305d49492108eeda8e51057ed"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "ef45cd7ed258a92f109b2e61217edf7aa18b9e03fec93f88435f77994c0b1cd8"
+hash = "fa78e9a80033d99e6d961c32a50ecb1ab231344b8a3736c7fd35ad1990e3f342"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -558,15 +562,15 @@ hash = "b5e43b2ab9460b27ae9ee740c57f1052f8c2fc68f2af2cb823cd151ae246459f"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
-hash = "61a10650446ea076487d65db473d971d5214af1f5c3897e0f4045ecf3dd61375"
+hash = "11aec6898421212504d5b9dfceab1c8d5644249b6d6e90424af884b30e169545"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
-hash = "226ab579b2fa31dd9b174977cdca8ec7ea5f8447f229e6a8f98fdeae79a60527"
+hash = "81364c25f23a3ab27d4f3f6acd7af489e30fd3777416ddd3a7988795c30af180"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/erosion.json"
-hash = "c98a776f2ceea88899b8681483f9d7d906c708c1e924ee8d3e44cf4fb5252932"
+hash = "89ce22b29d4fea8e6f0e2033b64c4af65f277e52fed5b0be11a0693e2c2c8b5b"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/ridge.json"
@@ -905,7 +909,7 @@ hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "109bb2e817a98e9cb0e4daaff7dd42284f3a3667f6990882447eeaaa65d23717"
+hash = "4f8bda1eda7a5ff5a1e0aea64164a11829e6387c18fd8e02fcd0fe646275128f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
@@ -1081,7 +1085,7 @@ hash = "b63da60873928326fae7dc63912fe5b3d198d0f8ab5af68e590dd6bbf6f838a1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "42d5ee41f283c1d4138c3a3babaff7b15d701fe0cef3e661338a0b384b96aa18"
+hash = "a0d9243693eb35aec5d336925f6735c7cd597c3d79e228f8291ecb8ab7b4802e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -2693,15 +2697,15 @@ hash = "7529b724de693ea0ce25136843ed224d3ecc382bdb5051683e3b23bc7d27bc6f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_one_ruins.json"
-hash = "c140e817235800cd124c528e1a881fbfcf121492c3db2e1042d7567573ad19ce"
+hash = "321cc5d889fa8760b5a61e3bd590d7388483bd338690b2dd3ddaf60274e358fb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_three_ruins.json"
-hash = "493114f51128084885826bf636b8f7949691b5ed313e63012d7a2602ed893aab"
+hash = "fde89750b05923e38dd6cb0eacf6f40b020b4edaa41bf974aeabd79e1e9a5182"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins.json"
-hash = "49020df28805ed181b8c6375296bcf26636d3a807389ad27f1765d0cdae9bd66"
+hash = "0a887396fb2e08d0328f7f5aab2269c69b4539d82928aed00ce8fc6c4d942c02"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
@@ -2800,6 +2804,14 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/di
 hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_dripstone.json"
+hash = "a545f34a2fc368203cf1dcdefa2b57ab94ec519d4bca98f84f9ad50428adbd46"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_perlinescent_vegetation.json"
+hash = "23f29df90520f2d69c59717a53ae266cb347f29cdbb1b31e9ff542bda88d34fa"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
 hash = "52d63b62e3f953d1211bd7cb848899dbfc5be825bfcc771b0409afb1655e9b35"
 
@@ -2817,7 +2829,7 @@ hash = "e7d630fb1adc687e8cd4aaa88695c89d03975ae16a28b831b7c8062ebcb5ce6e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
-hash = "2865034991f612a780618b7c4d45689dac1775bb94c745773b33d93c43890965"
+hash = "7d307e1fc60a7ae6e580fd6bc09261ed50b056da05063b83ef2f9354bb4e13e8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/diamond_weapon.json"
