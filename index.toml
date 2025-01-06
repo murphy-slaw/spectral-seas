@@ -538,7 +538,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "75f87feb63f0426080cfbfdd2bdb6cd947f4890e8de2d107ea1ba7818a2d555e"
+hash = "f4b4583c05fa1d0584f43e233d82cea1b3832a4f12b0e1560cfca4cd345fbdbb"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/LICENSE"
@@ -546,7 +546,27 @@ hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/dimension/overworld.json"
-hash = "e0574f849b60cb99e82036dfe0de7f97369bc261bd4921af3affc3714a49a65a"
+hash = "109bb2e817a98e9cb0e4daaff7dd42284f3a3667f6990882447eeaaa65d23717"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/biome/rocky_beach.json"
+hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_feature/beach_cypress.json"
+hash = "168a398130ec7c9d627b4410d2a34e927e3d07d92993f71008fef69032849ad8"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_feature/boulder.json"
+hash = "2c5b0300e498650e75dbb838b958ffdf1222f3c6a39665b7294a1338c18de235"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_feature/trees_rocky_beach.json"
+hash = "7731500e3ac3e6c71d18c56852bb02d39cc8d4e559d41121ab7f47d80a285ce1"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/caves/cool_entrances.json"
+hash = "47d8f4eb8c9c2a39480bfd0e68db8947e2c94779e24687c6969b2b4b9d907270"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continentalness.json"
@@ -554,7 +574,7 @@ hash = "0170138e6a3f7ba8975bed54666fb832f9dc725305d49492108eeda8e51057ed"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "fa78e9a80033d99e6d961c32a50ecb1ab231344b8a3736c7fd35ad1990e3f342"
+hash = "a14f45b94a763f3925d4ecc626e9a542edb7440ce5438c7c69e225219bbb654a"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -567,6 +587,10 @@ hash = "11aec6898421212504d5b9dfceab1c8d5644249b6d6e90424af884b30e169545"
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
 hash = "81364c25f23a3ab27d4f3f6acd7af489e30fd3777416ddd3a7988795c30af180"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/cool_entrance.json"
+hash = "334bbe92ca999a1843b32ac8cf42b99cff4d2c9c9b3f387665b4376c96f887a9"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/erosion.json"
@@ -585,17 +609,45 @@ file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/vegetation.j
 hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
-file = "config/paxi/datapacks/Oceania/pack.mcmeta"
-hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "375405452065955abd93682f4aae66ce6e94869f50e28bcfc7d84b8ec0e5e591"
 
 [[files]]
-file = "config/paxi/datapacks/Perlinescent 1.20.1 v1.0.zip"
-hash = "80439a7eff6a75c03f159eb3c3731d0e3865c505200f0a73da726144cee4a895"
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/beach_boulders.json"
+hash = "32c8b6d8b575b05d1ee51a8297e95fcb6d1c2d486904ffd56452c70cb6a87f45"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/beach_trees.json"
+hash = "05b230589c6daff5ceaaf11205dd992e823ddfc2b895a8b266f3b46e7e821427"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/cypress.json"
+hash = "b8af584df8e4e27a64ef3468db96df50d2724ee0ab302a3156f866118880df99"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/lake_lava_underground.json"
+hash = "1178f141949420b8ddf2af4ff26c7fe7c1a4391de506de8212d816546d5634e8"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/spring_lava.json"
+hash = "2c6ab55f6fb5474292ca34292a464c8c142e0d869ea4473eaca0785078046b30"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/spring_water.json"
+hash = "26cc0d3310b256028f213a89c23cb9eb369c6c06a714c30d30002c6c32bb8fdb"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/pack.mcmeta"
+hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
 
 [[files]]
 file = "config/paxi/datapacks/bundles-craft.pw.toml"
 hash = "5a56af407cd6af5f7b2cc9733eab27a83f9ecc9ce7c32fc33c4961c4d1ef1248"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cool_caves.zip"
+hash = "6c38dc1142c8a9240eb3343cc54c8a309dcb73c174174756768c25b275faf079"
 
 [[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
@@ -908,16 +960,8 @@ file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives
 hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "4f8bda1eda7a5ff5a1e0aea64164a11829e6387c18fd8e02fcd0fe646275128f"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
 hash = "b05ab49ee2f0f2255f81b6b516c029f1ef24382da901c4d9f25ea8b58866f10f"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension_type/overworld.json"
-hash = "36551e9bf34cd51be33080090a1fe72dca0f61c39db5b96b5b5825d498c8b593"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension_type/the_nether.json"
@@ -1052,14 +1096,6 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_
 hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/beach_cypress.json"
-hash = "168a398130ec7c9d627b4410d2a34e927e3d07d92993f71008fef69032849ad8"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/boulder.json"
-hash = "2c5b0300e498650e75dbb838b958ffdf1222f3c6a39665b7294a1338c18de235"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
 hash = "6ab5a4ba0663d1a07ab7f418b663e681a0c9d2c49d12daadb61f5e91ab7dbfa6"
 
@@ -1072,20 +1108,20 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_f
 hash = "98f99b66ee5309c3681f8a7fe887cb23f577ad58b2e753ca8e92b8dfea879157"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/trees_rocky_beach.json"
-hash = "7731500e3ac3e6c71d18c56852bb02d39cc8d4e559d41121ab7f47d80a285ce1"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/caves/cool_entrances.json"
+hash = "47d8f4eb8c9c2a39480bfd0e68db8947e2c94779e24687c6969b2b4b9d907270"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
 hash = "7bcd75dec69ad4e494eed86e4389f4005084e0387b4bd336853c1de4befa04a3"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
-hash = "b63da60873928326fae7dc63912fe5b3d198d0f8ab5af68e590dd6bbf6f838a1"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/cool_entrance.json"
+hash = "334bbe92ca999a1843b32ac8cf42b99cff4d2c9c9b3f387665b4376c96f887a9"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "a0d9243693eb35aec5d336925f6735c7cd597c3d79e228f8291ecb8ab7b4802e"
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
+hash = "b63da60873928326fae7dc63912fe5b3d198d0f8ab5af68e590dd6bbf6f838a1"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -1104,10 +1140,6 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "32c8b6d8b575b05d1ee51a8297e95fcb6d1c2d486904ffd56452c70cb6a87f45"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/beach_trees.json"
-hash = "05b230589c6daff5ceaaf11205dd992e823ddfc2b895a8b266f3b46e7e821427"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/blackstone_blobs.json"
 hash = "00ece53a91c5f872e3d281560c1c3f21827f3075414413fff505b4fa04e8d938"
 
@@ -1118,10 +1150,6 @@ hash = "bef8a360078694b05e9eaaf1c9f547fbdadb37efbdeaa46841acd1b4845d7ed7"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/crimson_fungi.json"
 hash = "a9d94dd4477375389cc1e4c932813aab1c93861981f27c274e4b34882f9a1739"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/cypress.json"
-hash = "b8af584df8e4e27a64ef3468db96df50d2724ee0ab302a3156f866118880df99"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/glowstone.json"
@@ -2697,15 +2725,15 @@ hash = "7529b724de693ea0ce25136843ed224d3ecc382bdb5051683e3b23bc7d27bc6f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_one_ruins.json"
-hash = "321cc5d889fa8760b5a61e3bd590d7388483bd338690b2dd3ddaf60274e358fb"
+hash = "d1e209413b9627f6a191f4a8da9e8723a873ed2c35b58054938fb2a65fb463c6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_three_ruins.json"
-hash = "fde89750b05923e38dd6cb0eacf6f40b020b4edaa41bf974aeabd79e1e9a5182"
+hash = "4b90a5be49948d0b11dabf218ae58842759a273b2d082427d7c5b98fb8dc28eb"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins.json"
-hash = "0a887396fb2e08d0328f7f5aab2269c69b4539d82928aed00ce8fc6c4d942c02"
+hash = "7506d690edc1a61818802a53ff082834e0adddfd5d0393d8685a6e5139a96e06"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
@@ -2804,14 +2832,6 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/di
 hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_dripstone.json"
-hash = "a545f34a2fc368203cf1dcdefa2b57ab94ec519d4bca98f84f9ad50428adbd46"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_perlinescent_vegetation.json"
-hash = "23f29df90520f2d69c59717a53ae266cb347f29cdbb1b31e9ff542bda88d34fa"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
 hash = "52d63b62e3f953d1211bd7cb848899dbfc5be825bfcc771b0409afb1655e9b35"
 
@@ -2829,7 +2849,7 @@ hash = "e7d630fb1adc687e8cd4aaa88695c89d03975ae16a28b831b7c8062ebcb5ce6e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
-hash = "7d307e1fc60a7ae6e580fd6bc09261ed50b056da05063b83ef2f9354bb4e13e8"
+hash = "2865034991f612a780618b7c4d45689dac1775bb94c745773b33d93c43890965"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/loot_tables/chests/diamond_weapon.json"
