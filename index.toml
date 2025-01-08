@@ -2725,15 +2725,15 @@ hash = "7529b724de693ea0ce25136843ed224d3ecc382bdb5051683e3b23bc7d27bc6f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_one_ruins.json"
-hash = "d1e209413b9627f6a191f4a8da9e8723a873ed2c35b58054938fb2a65fb463c6"
+hash = "af8ca4574807d60da59038cfb4af4be6e86f93bef3409b05a164b82ef6b9ff6f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_three_ruins.json"
-hash = "4b90a5be49948d0b11dabf218ae58842759a273b2d082427d7c5b98fb8dc28eb"
+hash = "d706dedd2d7a5c2e41c150bef84f175a9b829d71e4f01bd9a906991cf093ebb8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins.json"
-hash = "7506d690edc1a61818802a53ff082834e0adddfd5d0393d8685a6e5139a96e06"
+hash = "f502737a41b6fdb787eab9429db59e43e3574052f8f8b095c9dc4e6c671d5080"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
@@ -7384,7 +7384,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
+hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
 metafile = true
 
 [[files]]
@@ -7464,7 +7464,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-lanterns.pw.toml"
-hash = "19aeb31581d8cdc322a939f76b1c5e088acd5115453f4f7cbe826854615311c0"
+hash = "9694dc72c7992f216de75b1c948cd4ab81a16b79ae8119f189c47e391b226500"
 metafile = true
 
 [[files]]
@@ -7648,7 +7648,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "98c5a3ed8bd41a7ab32f6c52006f443849f3ccfa8683b8c013fd57a1ee67f692"
+hash = "cb9d907b5139656687de624d1cf5ebf0f5f9549acefc2695280fd09a60a5779b"
 metafile = true
 
 [[files]]
@@ -8050,7 +8050,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
+hash = "b458dd0f1aa985254b7b9e7d91ea08857724b564dc19f7baf2400eccc7d9030a"
 metafile = true
 
 [[files]]

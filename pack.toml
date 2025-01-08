@@ -1,4 +1,4 @@
-name = "Spectral Seas - Cool Caves Edition"
+name = "Spectral Seas"
 author = "Kevin Murphy"
 version = "0.1.6-alpha"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0bfe99af9d6358b130f990a0caf59d34929f0fa3697affd51c7110a3f04908ea"
+hash = "f2d1ac0212be9b7f8f2b80c9d80a1dfcdb980632aff2b925c5316249b2a62612"
 
 [versions]
 fabric = "0.16.9"
