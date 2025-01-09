@@ -5,6 +5,6 @@
 	#Water breathing
 	waterBreathing = true
 	#Night vision
-	nightVision = true
+	nightVision = false
 	#Aqua affinity
 	aquaAffinity = true

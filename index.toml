@@ -125,10 +125,6 @@ file = "config/biome_replacer.properties"
 hash = "357504489493c0b7962affb4277116664163c21d4b8e922ff23125d936fb61f9"
 
 [[files]]
-file = "config/biomespawnpoint/spawnbiomes.txt"
-hash = "c65ced43d1e622547a470683685a16008b196366918491abf737e169b68203fb"
-
-[[files]]
 file = "config/blur.json"
 hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
 
@@ -482,7 +478,7 @@ hash = "4f88cdd32eafe986c7b50d8ad4e32cc03875c2eed0d32bfb64f213ce6f0ed20b"
 
 [[files]]
 file = "config/mermod-server.toml"
-hash = "024d0e73e1e2c9575aa3b62f3c38b1f251a0f975bca6b5ad499c6f798fa0c1a0"
+hash = "4e7f506d3e5ce62457b7e35501b204821e91e665efc80865e371fe3ab87e2a5c"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -7066,11 +7062,6 @@ metafile = true
 [[files]]
 file = "mods/biome-replacer.pw.toml"
 hash = "a290e0138d7a94b71a02ead8d1e7f9dcb6500af316516f034f4297fe6c556451"
-metafile = true
-
-[[files]]
-file = "mods/biome-spawn-point.pw.toml"
-hash = "9bf0bd16fe45d6f316402afcdf86a29f939215f865654a2293255cf19f0256b1"
 metafile = true
 
 [[files]]
