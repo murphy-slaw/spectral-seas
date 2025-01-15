@@ -64,7 +64,7 @@
       // Y position relative from screen anchor
       // Position is affected by scale
       // Default value: [0]
-      y: 0,
+      y: 20,
       // Boss Bars Overlap
       // If set to false, the tooltip will move down if there are boss bars visible
       // Only affect top-center alignment

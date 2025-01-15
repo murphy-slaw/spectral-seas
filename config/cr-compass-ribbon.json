@@ -3,7 +3,7 @@
   "ribbonRange": 240,
   "ribbonYOffset": 0,
   "fovHighlightOpacity": 30,
-  "fovHighlightColor": "white",
+  "fovHighlightColor": "black",
   "fovHighlightShape": "line1",
   "directionsCompassSlot": "hand",
   "directionsInNether": "hidden",

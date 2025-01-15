@@ -4,7 +4,7 @@
     "locked": false,
     "disableOculusWarning": false,
     "freezeEffect": false,
-    "cartoonMode": false,
+    "cartoonMode": true,
     "cullParticles": true,
     "infiniteDuration": false,
     "disabledParticles": [],
@@ -26,9 +26,9 @@
     "randomSize": true,
     "randomRotation": true,
     "randomFadingSpeed": true,
-    "particlesPerAxis": 4,
-    "minLifetime": 10,
-    "maxLifetime": 55,
+    "particlesPerAxis": 2,
+    "minLifetime": 5,
+    "maxLifetime": 20,
     "sizeMultiplier": 0.75,
     "rotationMultiplier": 1.0,
     "gravityMultiplier": 1.0
@@ -104,7 +104,7 @@
     "gravityMultiplier": 1.0
   },
   "animations": {
-    "enabled": true,
+    "enabled": false,
     "renderOutline": false,
     "minLifetime": 3,
     "maxLifetime": 3,
