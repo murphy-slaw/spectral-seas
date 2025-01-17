@@ -682,6 +682,66 @@ hash = "2aebece8c08790f1529503560fa9240c4d61410b220004d1d6ce30864c410494"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/blackstonier.json"
+hash = "0c200fa87a604d36f1bf758566a146837a3d9915e6dea39ea7852cc5df2c6872"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/deepslater.json"
+hash = "2343376042a9a57afc1950ef4822127d1cc4a0d36d21e0407184ba3ca5697eda"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/drippier.json"
+hash = "b103ba242c386c1db2731269a8f5e88c6d358f3a8f1616075f5d4abe8a5778e0"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/mossier.json"
+hash = "3b791ed3adbf2d51c5d68a0bd3a1c85e18c85eefdfdf252476a44a4e2e405274"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/netherrackier.json"
+hash = "344033f61e4ed34b040ede6365f83c11bd8ffeda87a193d0360c2149c6b96e45"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/portalier.json"
+hash = "fa564c85737c43f7ff8f9a737d4e3972d1e71ee393a053e9596c353b75479412"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/ruiner.json"
+hash = "f8f20857833f1035098cf389e81f97d19b71cdc1ba71f75f892994f8e811a330"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/deepslate_portal.json"
+hash = "15ba9b3baa5805281b18b4754a41bf8e610ad0e20bcd1d7681c81d0ce5bd5018"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/dripstone_portal.json"
+hash = "a676bcafe624dec9ab8ce8bd591a33787e3f4c31baf6fd9eb7244b82cf9cb4ec"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/lush_portal.json"
+hash = "4fedfaf38615758409305c0c94d3430caac5ca041fe7367e016ef07261491ced"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure_set/jigsaw_portals.json"
+hash = "94769d054d014bef89bc22f2456d3f81ae210ae057dd6121bc7d7000c4985d8d"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/template_pool/deepslate_portals.json"
+hash = "7874976fbdc78aace63c53b6c0371ab53a636d4d90ee73f75b0a822281ba23c2"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/template_pool/dripstone_portals.json"
+hash = "028be9f77184425bc8805ad9fafb2118dc4c9e8b2ace825e886c007211d350c8"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/template_pool/lush_portals.json"
+hash = "36708c94f7470d7da20accd4ee0175d5fa1c9b486dab1779f20761a07019ac27"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/pack.mcmeta"
+hash = "33b458e3ec46d9823dd828c3545a73233c243acb158cbd6433f4594cea31d0eb"
+
+[[files]]
 file = "config/paxi/datapacks/no_hay_for_you/data/kaisyn/worldgen/template_pool/village/jungle_tribal/decor.json"
 hash = "046a60505378079460f96bff918852c234aba24cc4d1d2844c1334a7f45edf25"
 
@@ -799,12 +859,32 @@ file = "config/paxi/datapacks/spectral_seas/data/formationsoverworld/worldgen/st
 hash = "75e92a3624d3bf88e3f3a238d8bac7b0fa59dd5d25211b4bcf3d2ad9ff99dd6f"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/galosphere/worldgen/biome/crystal_canyons.json"
+hash = "c1f51a8f56d5952756bf704e9f59c2ed7d86607a3dc295af5170a35f94ba2561"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/galosphere/worldgen/biome/lichen_caves.json"
+hash = "4b21dc5da7f0262472a82fe0a0312ae24ec40685006b2dbf89708454499b6327"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/galosphere/worldgen/biome/pink_salt_caves.json"
+hash = "3a38e907a00ca93e71d4249847210ea9057ffdbea29906b4a45b1bf99fe95c1e"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/piglin_ruin.json"
 hash = "a071d77faff73a18efd8ff2ded356104e74a0aa693b089ac4fe08c9b3d5777d6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/portal_deepslate.json"
-hash = "0c7f489f0fb3c05c8beb5b69443359c3113c8c3b9f845de45dea96159882d1f7"
+hash = "0035db8fc9f2b77b6d897700f6f8d1968cfb190ebcd3c7da762801b5365ecce9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/portal_dripstone.json"
+hash = "460d7ecd2e5bd421dd3bef6175ff3ddebc6fd713350191a8935f28608e7e433f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/portal_lush.json"
+hash = "08c1c860e5a45773916ecec362a61ae0f15b82126529c42b34e1ca2cd91fc5a8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_city.json"
@@ -821,6 +901,22 @@ hash = "253c3d3946edbc8a894df1f0e6089e67a810bda690dd7384457b0f84f9f12708"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_warm_small_ruins.json"
 hash = "24bea22cf7fcb40282e86edc65c3334b7c105ae689681467a647acf303c3cd1f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/portal.json"
+hash = "1c1a9be446ee9c7143f3b559508ad52d23a3ad2665d138ffc1f9d81e907ff702"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/portal_deepslate.json"
+hash = "c50c14abbe33342025cefe6f7031debf23eb7bcd67d8d9c279b5c0ad75a1b44a"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/portal_dripstone.json"
+hash = "17a3dad09b6eab24a3a0f512df3a35b65c290b31e57123b57f89b597c96754bf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/portal_lush.json"
+hash = "bbd36e4207cd6fd9f71b91ad0cf8bb5bf3a018fe6e18d2a667edfec4726685b9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure_set/underwater_city.json"
@@ -965,6 +1061,10 @@ hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
 hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
+hash = "6768d2c41bdda15cfdca06117d22fbc2c8ded27c5705e31000ccc4c658f57f8c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
@@ -6559,6 +6659,10 @@ hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/mob_effect/amphibious.png"
 hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/atlas/biome/lava_sea.json"
+hash = "fd83cfd26ca5b0620cfe5de8ac52a782b8195d1ca98c917311f185cca987071d"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
