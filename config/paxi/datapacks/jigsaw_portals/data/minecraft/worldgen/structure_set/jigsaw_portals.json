@@ -1,0 +1,25 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:lush_portal",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:dripstone_portal",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:deepslate_portal",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "spacing": 40,
+    "separation": 15,
+    "salt": 749274,
+    "super_exclusion_zone": {
+      "other_set": "#minecraft:mineshaft"
+    }
+  }
+}

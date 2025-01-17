@@ -1,0 +1,123 @@
+{
+    "name": "deepslate_portals",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/giant_portal_1",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/giant_portal_2",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/giant_portal_3",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_1",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_2",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_3",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_4",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_5",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_6",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_7",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_8",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_9",
+                "processors": "minecraft:deepslater"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "minecraft:ruined_portal/portal_10",
+                "processors": "minecraft:deepslater"
+            }
+        }
+    ]
+}

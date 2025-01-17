@@ -1,0 +1,21 @@
+{
+  "type": "mvs:mvs_generic_jigsaw_structure",
+  "cannot_spawn_in_liquid": true,
+  "biomes": "#minecraft:has_structure/portal_deepslate",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "minecraft:jigsaw_portals",
+  "size": 1,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": -33
+    },
+    "max_inclusive": {
+      "absolute": -50
+    }
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

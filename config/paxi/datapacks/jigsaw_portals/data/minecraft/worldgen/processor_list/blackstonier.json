@@ -1,0 +1,139 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_bricks",
+						"probability": 0.22
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_bricks",
+						"probability": 0.07
+					},
+					"output_state": {
+						"Name": "minecraft:nether_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_bricks",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:cracked_polished_blackstone_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_bricks",
+						"probability": 0.09
+					},
+					"output_state": {
+						"Name": "minecraft:polished_blackstone_brick_slab"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:gilded_blackstone",
+						"probability": 0.27
+					},
+					"output_state": {
+						"Name": "minecraft:polished_blackstone_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_bricks",
+						"probability": 0.18
+					},
+					"output_state": {
+						"Name": "minecraft:blackstone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:polished_blackstone_brick_wall",
+						"probability": 0.18
+					},
+					"output_state": {
+						"Name": "minecraft:polished_blackstone_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:obsidian",
+						"probability": 0.15
+					},
+					"output_state": {
+						"Name": "minecraft:crying_obsidian"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:netherrack",
+						"probability": 0.01
+					},
+					"output_state": {
+						"Name": "minecraft:nether_gold_ore"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:chain",
+						"probability": 0.07
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		}
+	]
+}

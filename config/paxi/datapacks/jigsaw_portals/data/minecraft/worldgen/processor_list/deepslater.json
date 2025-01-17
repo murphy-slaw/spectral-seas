@@ -1,0 +1,178 @@
+{
+	"processors": [
+		{
+			"processor_type": "lithostitched:block_swap",
+			"blocks": {
+				"minecraft:stone_bricks": "minecraft:deepslate_bricks",
+				"minecraft:stone_brick_slab": "minecraft:deepslate_brick_slab",
+				"minecraft:stone_brick_stairs": "minecraft:deepslate_brick_stairs",
+				"minecraft:stone_brick_wall": "minecraft:deepslate_brick_wall",
+				"minecraft:chiseled_stone_bricks": "minecraft:chiseled_deepslate",
+				"minecraft:stone": "minecraft:polished_deepslate",
+				"minecraft:stone_slab": "minecraft:polished_deepslate_slab",
+				"minecraft:smooth_stone": "minecraft:deepslate_tiles",
+				"minecraft:smooth_stone_slab": "minecraft:deepslate_tile_slab"
+			}
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_brick_stairs",
+						"probability": 0.1
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_bricks",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:deepslate_tiles"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_bricks",
+						"probability": 0.2
+					},
+					"output_state": {
+						"Name": "minecraft:cracked_deepslate_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_bricks",
+						"probability": 0.2
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_bricks",
+						"probability": 0.1
+					},
+					"output_state": {
+						"Name": "minecraft:deepslate",
+						"Properties": {
+							"axis": "y"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_bricks",
+						"probability": 0.27
+					},
+					"output_state": {
+						"Name": "minecraft:cobbled_deepslate"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:obsidian",
+						"probability": 0.14
+					},
+					"output_state": {
+						"Name": "minecraft:crying_obsidian"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_brick_stairs",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:deepslate_bricks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:deepslate_brick_slab",
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:deepslate_tile_slab",
+						"Properties": {
+							"type": "bottom",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:netherrack"
+						},
+						"probability": 0.6
+					},
+					"output_state": {
+						"Name": "minecraft:deepslate",
+						"Properties": {
+							"axis": "y"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:netherrack",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:magma_block"
+					}
+				}
+			]
+		}
+	]
+}
