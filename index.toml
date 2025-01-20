@@ -38,7 +38,7 @@ hash = "11c24eadab22d418fafe4c7d50225ab516e7babdbb9f4b23624d727cfee0b9de"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "92b3464943ef0c0ebb1cea5a6b85a0bba517c133811251a3403c9a037988003c"
+hash = "166798cc5dfedbd2cf07020a063dda1ddeb86f45dd44c34d366661a6bc0ffb50"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -3238,7 +3238,7 @@ hash = "4f1d462640d896bfd2d1da01beddbed6b014f62e3bf77ffd8383d76c9703847f"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-muskets.pw.toml"
-hash = "06a197f76400aab40c4a34311614db8a2b3163ab5b7979bee29733500c13c689"
+hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
 metafile = true
 
 [[files]]
@@ -6596,7 +6596,7 @@ hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
 file = "config/paxi/resourcepacks/bibliophilia.pw.toml"
-hash = "06f734a3a41d3f0cc9b589d9fc4b28a919344724bee40ad6516a0766b74a9ec4"
+hash = "416087ac043699ed1ffd8723fb242bc7fefb333394db0ae53907a0629b55b6b0"
 metafile = true
 
 [[files]]
@@ -7088,7 +7088,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "76e9141a89148bb8d65fadc66c71bef228f0a6250d2730f5a38ef32588730373"
+hash = "3e8c49e8be3f8fa55f28ffa3553bcedb4931106247660b405de0cfb0701dc3a9"
 metafile = true
 
 [[files]]
@@ -7118,7 +7118,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "038890da6852c75044ad7d2c68106dca43f6a4bedda98cf81cb20d5cb5d32b43"
+hash = "55f9f0411300fa4678b006e3369139966b31e43b3c8c6e519934a84aaa156d20"
 metafile = true
 
 [[files]]
@@ -7163,7 +7163,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "f32b6dd530fa4e63712683882ca261d49e6986505cdfc5a6c350b3ef4c6ea0d0"
+hash = "bb50d50677362311665493f995b97d5dc5163253e23f264f3c15664df69c64b2"
 metafile = true
 
 [[files]]
@@ -7178,7 +7178,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "08934eee57062f77648ace8c6fe393a6072e13a013ce519f7009d6f1e4733c24"
+hash = "48d47327b3e356a1f40a05ae5f2709b16a169cfc4500711bfdbef20157ac462b"
 metafile = true
 
 [[files]]
@@ -7388,7 +7388,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7a56df4ddd87960e987fbf2f40a3c8056aea2b42f2d2208d38f7f420f5383333"
+hash = "08572749d373333591e1dfdfa9d2f6dee5e425885261cd884417a56ed240e689"
 metafile = true
 
 [[files]]
@@ -7468,7 +7468,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e2b4f570c162788ee0f84c5c755bc1bad60e0a36938b05a9a17912f94bda5b24"
+hash = "9f4b3ab255d63cd35fd021a474113d121cf87f1e888ce648e9f66c8450aa9c5e"
 metafile = true
 
 [[files]]
@@ -7522,7 +7522,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
+hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
 metafile = true
 
 [[files]]
@@ -7542,7 +7542,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "29da2f809ff1287394c2a214f991227c5f0e9dd198f8969ab22c32fd56b3733b"
+hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
 metafile = true
 
 [[files]]
@@ -7627,7 +7627,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "1d7d3fd534ffae2521350fddde6d146a6fc8f767c82018f9bf536c16641ae759"
+hash = "465d7aac3ab99e38561354e331b640016f9ea82379b4d1e56b417bef8a881e92"
 metafile = true
 
 [[files]]
@@ -7647,7 +7647,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
 metafile = true
 
 [[files]]
@@ -7706,12 +7706,12 @@ hash = "276a4c3313a7d005a540636d24c8dafa9e3459520d748652deaa203fdc080a1d"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a3e443343c15ff73b4180e0573db24b0a5faf9479fdf55ca89786c1a4adf1c2c"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "42fb06c2572b815e93ef166d01770a016743b935cb44d5c15fb9fb6a54b856cd"
+hash = "5878165d0b85618fb415caeb18786c7f6f855393bd9ae00d0fa243c97291cb0d"
 metafile = true
 
 [[files]]
@@ -7786,7 +7786,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb9d907b5139656687de624d1cf5ebf0f5f9549acefc2695280fd09a60a5779b"
+hash = "f1620b07e2659293a371e71cdb482b2d2acaf27e23f823202dadedfbd940d55f"
 metafile = true
 
 [[files]]
@@ -7836,7 +7836,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "79e57cd55f470e4fb9279be512fc6a7d824c9c013682d33a5db92bf26d2f43ff"
+hash = "c73485df3afcc912f301b1906eee6b53edea7b7559614ad129c8866924ef0bd6"
 metafile = true
 
 [[files]]
@@ -8050,7 +8050,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "67b7128420433aa7c34cd4052b7ee98884b3a97dcd2811006fa01f8ecd05b9ae"
+hash = "4e52bb35b64a65658ee837e632edd1167dac97b398c62e92d9bc23c68c6f094d"
 metafile = true
 
 [[files]]
@@ -8069,7 +8069,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "cfb8c9c34ea28a2771ebc7b8b182cc7b5353da0c75a435e5d6e41767af75f279"
+hash = "1ce996db0e1b3643efa4b1ebf6397a0ba36a5e08c66067c228b9cff74c792973"
 metafile = true
 
 [[files]]
@@ -8109,7 +8109,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "9f37f04384bd80a9c5d0dd72aa55cc7884ec18818d5657b7ec2c0dad4ff1358a"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
 metafile = true
 
 [[files]]
@@ -8178,7 +8178,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "9941f7467e2a56834a581a04e6096521b8492f44d26064774b979d5b803ac993"
+hash = "d8f50939e42da8385f61c8e57f5e8d710994f4060eb6dad55f9ce8f173737f03"
 metafile = true
 
 [[files]]
@@ -8193,7 +8193,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "b458dd0f1aa985254b7b9e7d91ea08857724b564dc19f7baf2400eccc7d9030a"
+hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
 metafile = true
 
 [[files]]
@@ -8260,7 +8260,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
-hash = "40c4214e724a9e227d0c4ad77bde82d60db868ef04a2ff158e8d9189a3cc0e92"
+hash = "91c4639b7c82710fa014e500a7443c6c0fc642014d8181ec4369abb7c5c1c7e5"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
@@ -8269,7 +8269,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "f0028056b797510149e0cd56564d5b1125e151e69947cb0f04a67ca40042142e"
+hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
 metafile = true
 
 [[files]]

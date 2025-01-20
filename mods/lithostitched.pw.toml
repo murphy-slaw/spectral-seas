@@ -1,13 +1,13 @@
 name = "Lithostitched"
-filename = "lithostitched-fabric-1.20.1-1.3.10.jar"
+filename = "lithostitched-fabric-1.20.1-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XaDC71GB/versions/qtDaNLK0/lithostitched-fabric-1.20.1-1.3.10.jar"
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/PxDlrVW2/lithostitched-fabric-1.20.1-1.4.jar"
 hash-format = "sha512"
-hash = "fcb5a08884f8d582825516f36c8a4248cd977f16a25f547ef5f95ddee019ec37272b43f5f7420aedd7b8eacdee4981fbe24694bd11931b9b1b5281431a9c3981"
+hash = "721608003013ac67f15146f130be9b0daab33fda61d01e9664af98a0a1ba11bdc51c3517be6cec03a1dae772a7f3fe2fea3463dd5fa15d5f12d5f924939cbf63"
 
 [update]
 [update.modrinth]
 mod-id = "XaDC71GB"
-version = "qtDaNLK0"
+version = "PxDlrVW2"

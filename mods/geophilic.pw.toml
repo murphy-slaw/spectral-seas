@@ -1,13 +1,13 @@
 name = "Geophilic"
-filename = "Geophilic v3.1.5 f15-61.jar"
+filename = "Geophilic v3.2 f15-61.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hl5OLM95/versions/jxBATpGx/Geophilic%20v3.1.5%20f15-61.jar"
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/wIVsGybb/Geophilic%20v3.2%20f15-61.jar"
 hash-format = "sha512"
-hash = "389d8bb48ab492906f4e03219b2d3fb7c64a4f7cc0d12b8ae30689785bc20adf78f469a93e58d16752f8db1acc88a965a84bf4c318a9e5231d8c97150cfefe8e"
+hash = "6109a5ee6f21a587cc68330e37dcddb4a5a8c095f063f15c37bba35756da360e48d15edba48c21ff7ca391d66fcb2844ea1b0dec7cef37e93e9de4ca1e5d4e33"
 
 [update]
 [update.modrinth]
 mod-id = "hl5OLM95"
-version = "jxBATpGx"
+version = "wIVsGybb"

@@ -1,13 +1,13 @@
 name = "3D Muskets"
-filename = "3D-muskets.zip"
+filename = "3D-muskets-1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CnHKbzuv/versions/iNtMNkdq/3D-muskets.zip"
+url = "https://cdn.modrinth.com/data/CnHKbzuv/versions/8CcAm520/3D-muskets-1.1.zip"
 hash-format = "sha512"
-hash = "1277b94af5d6109a7b60f8a8a6ca0e5073dd880c62e718e3dd1886c562a1bd650baa9acf4103ab8e09d2fd9488a697dd42151e1b8099248d9a5de01b97f5bfd5"
+hash = "9e475d0dc53d1a30d8f9b094669071e60fd013803cbdee81ccafcb373c5b61782d285b5b5d805c5569534d4a10f88dc23b8b3d3c98007643c3bf90d692a31b54"
 
 [update]
 [update.modrinth]
 mod-id = "CnHKbzuv"
-version = "iNtMNkdq"
+version = "8CcAm520"
