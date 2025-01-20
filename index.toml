@@ -2931,6 +2931,30 @@ file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/st
 hash = "c04b252440ed506cdf19918fa5dc79205b1b1bf04e2926f78968b69aaf21e89a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/fisherman_main.json"
+hash = "2731204816e07135666eee54dc564d6397b5a8bfcc7a9d60ae8b67cf0be8a58d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/fisherman_storage.json"
+hash = "f4b7101da7700fe813f421bc7a3eff31c0011cfe633aac927115a8cdd63ea857"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/gardener.json"
+hash = "eb3a95e4f9f3d61b130039dc512a541b2e241079656c5b54e44fb745c795d7b7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/merchant.json"
+hash = "fcee64291cfa50da43e2326d7f57683852e99df1ff08ba7e41be2a9e5822e8fc"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/nitwit.json"
+hash = "44e696c003e90ba7e0bd5173a392c3264bf13e1c86271716858e09bff8acfe7d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/ribbits/loot_tables/chests/sorcerer.json"
+hash = "2c8ae0d4efb603bf07c0c2b8e635e38939e21f0e4e49a9af0b0bc09cf4369c48"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/interactable_property.json"
 hash = "d86203a3ba3119f466f59e351d4be3c89eeb01c198312f721ee94d0e6c1670c4"
 
@@ -3192,7 +3216,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "0dbba98111faadc927028dd34be0175d4bab6b22f9c767e4e35c049c142be3b5"
+hash = "eb5a4e1a8df8135c14c7f4ba6ce65feba984befad85b72bf171a171348c3d707"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
