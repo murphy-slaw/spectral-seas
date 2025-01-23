@@ -534,7 +534,15 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "f4b4583c05fa1d0584f43e233d82cea1b3832a4f12b0e1560cfca4cd345fbdbb"
+hash = "e47afa962cf83db51a9a48142f6358e7af967168f5fd4a2ec3ca81364115a74a"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/41/data/minecraft/worldgen/configured_feature/beach_cypress.json"
+hash = "a2bfedb0b7fc3a609b86089e449f79402666c30aef44b1c64e4798eadb111ceb"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/41/data/minecraft/worldgen/configured_feature/boulder.json"
+hash = "016aaca97b6a267900f1649c5e084cebce9871c6ecf49aee3080f0aefbbe5717"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/LICENSE"
@@ -547,6 +555,18 @@ hash = "109bb2e817a98e9cb0e4daaff7dd42284f3a3667f6990882447eeaaa65d23717"
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/biome/rocky_beach.json"
 hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_carver/canyon.json"
+hash = "fb6de7d70d02fcd586f15e3d3514c034c8754b8347477a9c1d9106aa677526cc"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_carver/cave.json"
+hash = "c57b37ad3bedd931389e872faa6e9c72261df18b9bd0469c20886032f1f51263"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_carver/cave_extra_underground.json"
+hash = "c57b37ad3bedd931389e872faa6e9c72261df18b9bd0469c20886032f1f51263"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/configured_feature/beach_cypress.json"
@@ -595,6 +615,10 @@ hash = "f820d4d716eaf21940d0f831d078c664ca3d20fe321c2f63a6dcca4570b31f17"
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
 hash = "11aec6898421212504d5b9dfceab1c8d5644249b6d6e90424af884b30e169545"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/cave.json"
+hash = "a0ad53af87d8189691e02580ce10045b26364fef109674268abf9b77d4554977"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
@@ -650,16 +674,16 @@ hash = "26cc0d3310b256028f213a89c23cb9eb369c6c06a714c30d30002c6c32bb8fdb"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/pack.mcmeta"
-hash = "720e696f3e2d2ba3b5079d05a74409b227674b854b1b4e046ee7cf9d3a6a08b3"
+hash = "f67be45771a7d2569006ea2ae36b3dcef5450fa82eea0d7d579c97d9898e704e"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/readme.md"
+hash = "6d749ce7c019a60c51c334e455b3286d90bd58e954ee2bb3070c5fa76066f980"
 
 [[files]]
 file = "config/paxi/datapacks/bundles-craft.pw.toml"
 hash = "5a56af407cd6af5f7b2cc9733eab27a83f9ecc9ce7c32fc33c4961c4d1ef1248"
 metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/cool_caves.zip"
-hash = "6c38dc1142c8a9240eb3343cc54c8a309dcb73c174174756768c25b275faf079"
 
 [[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
@@ -723,7 +747,7 @@ hash = "4fedfaf38615758409305c0c94d3430caac5ca041fe7367e016ef07261491ced"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure_set/jigsaw_portals.json"
-hash = "94769d054d014bef89bc22f2456d3f81ae210ae057dd6121bc7d7000c4985d8d"
+hash = "784bba097a48db2d45b17404ba6c6681106be08c8d9afb6279b3ba5a8221f903"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/template_pool/deepslate_portals.json"
@@ -1203,10 +1227,6 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/lava_s
 hash = "6b84d319238c2841e4ec43e7ef9eac0c07b206dd43f89350a7043092aa0c98ee"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/rocky_beach.json"
-hash = "95552ce6e223fe2ee10cf085d72a566b854daa17d3daa4ed2c1585ed4adec16d"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_carver/nether_cave.json"
 hash = "f8ed7fd7c1b38bf6218a7aafb89b0dd8598df5808ac47487ec765902694ac3a5"
 
@@ -1221,18 +1241,6 @@ hash = "90892ee7cadb7aefefed1893d5b30e0237907f8c0d4b5961abaea8a7ad350493"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
 hash = "98f99b66ee5309c3681f8a7fe887cb23f577ad58b2e753ca8e92b8dfea879157"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/caves/cool_entrances.json"
-hash = "47d8f4eb8c9c2a39480bfd0e68db8947e2c94779e24687c6969b2b4b9d907270"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
-hash = "7bcd75dec69ad4e494eed86e4389f4005084e0387b4bd336853c1de4befa04a3"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise/cool_entrance.json"
-hash = "334bbe92ca999a1843b32ac8cf42b99cff4d2c9c9b3f387665b4376c96f887a9"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
@@ -6681,6 +6689,14 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us
 hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/item/ship_speed_upgrade.png"
+hash = "3aa0b927cb470619d6800009977c8f8c2c8bcb2147adb4075fdf5d845d10d78f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/item/ship_storage_upgrade.png"
+hash = "ac18be9912b51bfd5b992a33fbe40528c01175ba96e8cba829883b20e2b17f43"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/mob_effect/amphibious.png"
 hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
 
@@ -6830,7 +6846,7 @@ hash = "6037814dc2860cd65ac1b7532212078ebb7b4fe21e4c64c026b38fda16c1c41a"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "c3c78b30038d49b9821ff5a1cb62c5e1ad4d0c6038a321a7c31afc3391e3ea1f"
+hash = "832f35b794472d931d127115fc824662a114609fd7776c484d5a6c6cc3341ad8"
 
 [[files]]
 file = "config/spark/activity.json"
@@ -7013,6 +7029,10 @@ file = "kubejs/server_scripts/ship_spawn.js"
 hash = "5b8baac279cced2486de47b48fd76dfce74c5f39a226a4b29ce04f952a50aa97"
 
 [[files]]
+file = "kubejs/server_scripts/ship_upgrades.js"
+hash = "5a97b6ccc3542207cfa3ea87c67b94506522e4754876ef8cadde2e335e6c083a"
+
+[[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
 hash = "ae3334244acb881b7063d582a6613eab81b28d1590fdcf1d4972f20c98c1775a"
 
@@ -7061,6 +7081,10 @@ file = "kubejs/startup_scripts/item_counts.js"
 hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
 [[files]]
+file = "kubejs/startup_scripts/ship_upgrades.js"
+hash = "989f553dca51e09b16b35a596adaef99b24af89f8eb14ca944b048e181cab6a9"
+
+[[files]]
 file = "kubejs/startup_scripts/turtle.js"
 hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
 
@@ -7080,6 +7104,10 @@ hash = "011a3b650212c46275e33a815dcdd4fe2dcf68cdba8fe01a06449819785ffc66"
 file = "mods/3dskinlayers.pw.toml"
 hash = "fd59dabb912dc8d91903b9a9c4510d3d6d3cfe50fa97ee7c6146cf4830314ae1"
 metafile = true
+
+[[files]]
+file = "mods/[1.20.1] Hybrid Aquatic-1.3.6-Test.jar"
+hash = "969c5d6732c4b7c5d6a80fd5a8aab6e0f12b2287d21ae89fbd2d9c399c584cae"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
