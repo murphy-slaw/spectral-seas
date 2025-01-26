@@ -8,3 +8,4 @@ design_docs
 *.code-workspace
 kubejs/probe
 local
+spyglass.json

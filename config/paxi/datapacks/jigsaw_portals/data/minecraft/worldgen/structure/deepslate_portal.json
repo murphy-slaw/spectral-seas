@@ -5,7 +5,7 @@
   "step": "underground_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
-  "start_pool": "minecraft:jigsaw_portals",
+  "start_pool": "minecraft:deepslate_portals",
   "size": 1,
   "start_height": {
     "type": "minecraft:uniform",

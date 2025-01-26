@@ -598,7 +598,7 @@ hash = "0170138e6a3f7ba8975bed54666fb832f9dc725305d49492108eeda8e51057ed"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "a14f45b94a763f3925d4ecc626e9a542edb7440ce5438c7c69e225219bbb654a"
+hash = "33360d4be1d32a97e501fb44bc5ec3abac99212308222fa4b0986fcf248b63e5"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -610,7 +610,11 @@ hash = "e93f465cb002c0c565c6189b5f9a1350c97d2b3857d4b389a05cffdd9409b116"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
-hash = "f820d4d716eaf21940d0f831d078c664ca3d20fe321c2f63a6dcca4570b31f17"
+hash = "438a3107637a06f368f2c8a47a41f06e21126b6fdc73a42d1fe9a93f268d27c9"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves_inverse.json"
+hash = "e169882d74a8309c6b9857d88b7f85e44ed175eb730068786cccfb2ba59c1af1"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
@@ -618,7 +622,11 @@ hash = "11aec6898421212504d5b9dfceab1c8d5644249b6d6e90424af884b30e169545"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/cave.json"
-hash = "a0ad53af87d8189691e02580ce10045b26364fef109674268abf9b77d4554977"
+hash = "a1140469a4c7949af72402b09c4de4e3fb890fdacbe237a180aea2bb2875189f"
+
+[[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/cave_roughness.json"
+hash = "5f13a7913ff95676daa29e43e0bd692b72ab036d0ecbec90f4e65f59996c1c6c"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise/continentalness.json"
@@ -735,7 +743,7 @@ hash = "f8f20857833f1035098cf389e81f97d19b71cdc1ba71f75f892994f8e811a330"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/deepslate_portal.json"
-hash = "15ba9b3baa5805281b18b4754a41bf8e610ad0e20bcd1d7681c81d0ce5bd5018"
+hash = "5767ccc4079cd0ae1cd77ffbb96abd1c0076d8e072e47521b6c245daef81d5af"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/dripstone_portal.json"
@@ -1244,7 +1252,7 @@ hash = "98f99b66ee5309c3681f8a7fe887cb23f577ad58b2e753ca8e92b8dfea879157"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/noise_settings/nether.json"
-hash = "1da6c387a417bea532a441ece330fc68fd7a0f51c18d457d90d038bb0fe018c7"
+hash = "37c64088290bd1ee3af07c47da4428581189c59a42038027e72f68c210954863"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
@@ -1272,7 +1280,7 @@ hash = "bef8a360078694b05e9eaaf1c9f547fbdadb37efbdeaa46841acd1b4845d7ed7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/crimson_fungi.json"
-hash = "a9d94dd4477375389cc1e4c932813aab1c93861981f27c274e4b34882f9a1739"
+hash = "c4b23b4adb149f9994db7823bc92e0eebbc9d9130f02fc6c32dc13d7d0051eb5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/glowstone.json"
@@ -1376,7 +1384,7 @@ hash = "4f248b9eecba88c438902010376b1b1e9c6c4db8002f1cd46c5d4584693b3226"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/warped_fungi.json"
-hash = "7231b3696b47182672307cb8c9c195ea21530beca15647f3ee27d3a97dc24217"
+hash = "6a1866177db59eae01bf3493bda784e4863ca6750f66043c8ea9d9e64081c641"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/weeping_vines.json"
@@ -7146,7 +7154,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "55f9f0411300fa4678b006e3369139966b31e43b3c8c6e519934a84aaa156d20"
+hash = "9add3f3ef6a8125639df3d08bee47fade2783202e04f63d0e3d0e2832d9f6af4"
 metafile = true
 
 [[files]]
@@ -7556,6 +7564,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-core.pw.toml"
 hash = "dac761273638f48b6949bc01d38a5999b3d6b3c3918afd98284d05c4ecac307b"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "a9d477bfc9d01ad6974e16a88820fc6243973f8f0da7b3f53f1b2dc84ecfb8a7"
 metafile = true
 
 [[files]]
