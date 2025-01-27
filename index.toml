@@ -6958,7 +6958,7 @@ hash = "f4cf33e5915e03d4900370a8fa68e429b64a9f02f3510e82b05f0a85832e585a"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
-hash = "eee8eb4558a76b38831755e765cb1fce17b3291e0f88abcbfe708ec130e74134"
+hash = "c16d4c0ed1a82ea316f51a83157eda44fd385b58b40dc7bd26c561207665d80e"
 
 [[files]]
 file = "config/yacl.json5"
@@ -7083,6 +7083,10 @@ hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
 [[files]]
 file = "kubejs/startup_scripts/bowl_food.js"
 hash = "8599f56fa59e590be8f91b0ef6eb841e2b7f31f6b57ecffe3ff47ca8cb5c26f3"
+
+[[files]]
+file = "kubejs/startup_scripts/grave_dirt.js"
+hash = "d7e51b58a800ce80fda4dc80aa425e2bba2ceae9c56e2e610cfe547eb4510640"
 
 [[files]]
 file = "kubejs/startup_scripts/item_counts.js"
