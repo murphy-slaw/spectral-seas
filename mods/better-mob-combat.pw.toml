@@ -1,13 +1,13 @@
 name = "Better Mob Combat"
-filename = "bettermobcombat-fabric-1.20.1-1.2.4.jar"
+filename = "bettermobcombat-fabric-1.20.1-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KU8N7kPc/versions/FOvv47Jg/bettermobcombat-fabric-1.20.1-1.2.4.jar"
+url = "https://cdn.modrinth.com/data/KU8N7kPc/versions/wboV6qEY/bettermobcombat-fabric-1.20.1-1.3.0.jar"
 hash-format = "sha512"
-hash = "be5d49382700b65bf108534c19b468a84c7274e504d4a93642d79296f50b4f0c51f57bd15ebef73952e1c8230f8657fd46acd6deab5d34279a692f8f1d76a25c"
+hash = "14a014e82ba52f64ab36b288f9035e2197995a468289c13541d2f426bfabbdeb14fb10b3e9e5ea2ca4a6758adbaebee2f43e5b6a8a630de5c8c97a0cc622795a"
 
 [update]
 [update.modrinth]
 mod-id = "KU8N7kPc"
-version = "FOvv47Jg"
+version = "wboV6qEY"

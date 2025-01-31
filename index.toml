@@ -598,7 +598,7 @@ hash = "0170138e6a3f7ba8975bed54666fb832f9dc725305d49492108eeda8e51057ed"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "33360d4be1d32a97e501fb44bc5ec3abac99212308222fa4b0986fcf248b63e5"
+hash = "020583899d02e4becb9070ad71c4068d535cea98bded66e3e187bc991f0e7815"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -610,7 +610,7 @@ hash = "e93f465cb002c0c565c6189b5f9a1350c97d2b3857d4b389a05cffdd9409b116"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
-hash = "438a3107637a06f368f2c8a47a41f06e21126b6fdc73a42d1fe9a93f268d27c9"
+hash = "dd9c2067960a252babd98ecf52835b09fb9ac8e4e2cb8f2d7abfd67b7d97b345"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves_inverse.json"
@@ -682,7 +682,7 @@ hash = "26cc0d3310b256028f213a89c23cb9eb369c6c06a714c30d30002c6c32bb8fdb"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/pack.mcmeta"
-hash = "f67be45771a7d2569006ea2ae36b3dcef5450fa82eea0d7d579c97d9898e704e"
+hash = "2f3a4df08ce6c07be606736812b99a440a6c73604febaa9076f5c549a054240d"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/readme.md"
@@ -7017,6 +7017,10 @@ file = "kubejs/config/probejs.json"
 hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
 
 [[files]]
+file = "kubejs/config/unique_items.json"
+hash = "1857c0b4bb35ec3f0c13d31e14f710731923b8bafeafbe5eb5f664e0d8589498"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
@@ -7051,6 +7055,10 @@ hash = "f8f9ac68de1b02c71777938449f727138371b347e3c66514c94910707e1af0b3"
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
 hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
+
+[[files]]
+file = "kubejs/server_scripts/unique_items.js"
+hash = "016ac843fed029529fe37ca02afd4ced0bb04a3548c8ca2c21abdc9b6cbf5326"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/portal.js"
@@ -7158,7 +7166,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "9add3f3ef6a8125639df3d08bee47fade2783202e04f63d0e3d0e2832d9f6af4"
+hash = "5d748b1c75efdc9b4220ff47d73a08e5a8fac22af7ecdad377035433b94dd725"
 metafile = true
 
 [[files]]
@@ -7238,7 +7246,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mob-combat.pw.toml"
-hash = "c3f0fe04f6eb18de804562a918df187bf912c8e2b1b48f6c011229d4731d8b0f"
+hash = "ec5dae4378e97086d9e8fd3ee13c54a9ce3e8566d7e627693bbc5049bbced86c"
 metafile = true
 
 [[files]]
@@ -7562,7 +7570,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
+hash = "b949a5fa30a0198a928c82a0df032740aad132d54bf7d07b6e91b5e9d2de3819"
 metafile = true
 
 [[files]]
@@ -7642,7 +7650,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -7697,7 +7705,7 @@ metafile = true
 
 [[files]]
 file = "mods/kinecraft-serialization.pw.toml"
-hash = "01a1b13b08d1546acfd6e7feabe8931e94b2990dabe4f77edea78e678a97ccaf"
+hash = "5b35c14ae3eb6b97378984b2018dc5355c68f56cd1746383671c367977bfc12d"
 metafile = true
 
 [[files]]
@@ -7796,12 +7804,12 @@ metafile = true
 
 [[files]]
 file = "mods/mob-player-animator.pw.toml"
-hash = "f9dfa55224fb56a008d6b801bb80ceede99d7457fb74ae46d6321401bfd89e99"
+hash = "3be353b92080eff330995040871e15bbd39d0a899f24046547d5f8c76bfec5c3"
 metafile = true
 
 [[files]]
 file = "mods/mod-sets.pw.toml"
-hash = "2a0dc29ddcde717c59c60905d40eb779e99f198659cc4c678e9ff43ad2b426fc"
+hash = "e060cdd70da4c87e23a854ac99df280b9247a46b2c0c3e760e3c46cd5783468c"
 metafile = true
 
 [[files]]
@@ -7811,7 +7819,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
@@ -7831,7 +7839,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f1620b07e2659293a371e71cdb482b2d2acaf27e23f823202dadedfbd940d55f"
+hash = "2ceb8d2b68dd8c437eb1a324eaead4bc27b42263f07271cb78be0b5aff2e0d4c"
 metafile = true
 
 [[files]]
@@ -8139,7 +8147,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "2d27affacc02ff35103e5ef28a5823b69634f80deeb79f072ccef06d64bb0245"
+hash = "87e36e00f1f3abc55bf40fc2249fcfb94821fd1ddcd9c6de5c9fd63ec4a554d8"
 metafile = true
 
 [[files]]
@@ -8188,7 +8196,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "145568cba439a419a4173e4bf3efc7f5a874e505bfb1983f2033f4b1f30fe0ad"
+hash = "aa8ca7c6b77cc8b027d7f402faa0b1e692d4e489f7063a6cec49b6a0af225c66"
 metafile = true
 
 [[files]]
@@ -8223,7 +8231,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d8f50939e42da8385f61c8e57f5e8d710994f4060eb6dad55f9ce8f173737f03"
+hash = "80b47b595f82044476049ac09dadd3236be9195010483ee965e38a092edf3190"
 metafile = true
 
 [[files]]
@@ -8304,12 +8312,12 @@ hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
-hash = "91c4639b7c82710fa014e500a7443c6c0fc642014d8181ec4369abb7c5c1c7e5"
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
+hash = "6fa3fae2f48c214fa2fd386408cf7bf69fcbd7cd017be932bfe1027e55dab1d9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
 metafile = true
 
 [[files]]

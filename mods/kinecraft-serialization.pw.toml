@@ -1,13 +1,13 @@
 name = "Kinecraft Serialization"
-filename = "kinecraft-serialization-1.16.1.jar"
+filename = "kinecraft-serialization-1.16.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/epmEbmF0/versions/y5larKlJ/kinecraft-serialization-1.16.1.jar"
+url = "https://cdn.modrinth.com/data/epmEbmF0/versions/ppUfV7UC/kinecraft-serialization-1.16.2.jar"
 hash-format = "sha512"
-hash = "5ee9e58672d8c9f199a1b586d7d044241a5eee6d08b9024578c20913f9390fd49f858942130137f0750f99a1b9f09c432edffb3aaf2b7bfb04dadf6f69ad51e7"
+hash = "a73c02036163a686132f228d562cddb5eec1e2aca8e996dc235251614aef60b3e79696a2e52bde6272a89a5ff1412afe9aba42d2c07d3c435d22588a7d8ac67a"
 
 [update]
 [update.modrinth]
 mod-id = "epmEbmF0"
-version = "y5larKlJ"
+version = "ppUfV7UC"
