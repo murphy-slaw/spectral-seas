@@ -7046,7 +7046,7 @@ hash = "5a97b6ccc3542207cfa3ea87c67b94506522e4754876ef8cadde2e335e6c083a"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "ae3334244acb881b7063d582a6613eab81b28d1590fdcf1d4972f20c98c1775a"
+hash = "8199c3da5179fa3b51e39071dde52a9b5153832e9d72fbc479dcbd4f2c777622"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -7058,7 +7058,7 @@ hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
 
 [[files]]
 file = "kubejs/server_scripts/unique_items.js"
-hash = "016ac843fed029529fe37ca02afd4ced0bb04a3548c8ca2c21abdc9b6cbf5326"
+hash = "c74eb611e4b5f06fb988e4d2f6e0d5489022fd68b583a6031fdb64d8afb8210b"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/portal.js"
