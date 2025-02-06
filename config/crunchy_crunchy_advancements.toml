@@ -9,6 +9,8 @@ preventAdvancementBroadcasts = true
 filterMode = "BLACKLIST"
 # Namespaces to be entirely filtered, e.g. 'minecraft' or 'antique_atlas'
 filterNamespaces = [
+    "hopo",
+    "hybrid-aquatic",
     "mostructures", 
     "totw_reworked"
 ]
