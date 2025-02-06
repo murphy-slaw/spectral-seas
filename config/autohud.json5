@@ -69,6 +69,8 @@
 			"active": true,
 			"onChange": true
 		},
+		"onDamageChange": false,
+		"onStackSizeChange": true,
 		"onSlotChange": true,
 		"onLowDurability": true,
 		"durabilityPercentage": 10,
@@ -85,10 +87,6 @@
 		"onScoreChange": true,
 		"onTeamChange": true
 	},
-	"crosshair": {
-		"active": true,
-		"onChange": true
-	},
 	"chat": {
 		"chat": {
 			"active": false
@@ -101,6 +99,15 @@
 	"bossBar": {
 		"active": false
 	},
+	"crosshair": {
+		"active": true,
+		"onChange": true
+	},
+	"crosshairAlwaysVisible": [
+		"minecraft:bow",
+		"minecraft:crossbow",
+		"minecraft:trident"
+	],
 	"advanced": {
 		"hotbar": {
 			"direction": "Down",

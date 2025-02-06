@@ -1,47 +1,50 @@
 {
-	// General
-	// OFF/FAST/FANCY (default: FANCY)
-	betterGrassMode: "FANCY",
+	/* -> General
+	   OFF/FAST/FANCY (default: FANCY)
+	*/
+	"betterGrassMode": "FANCY",
 	// (default: true)
-	snowy: true,
-	// 
-	// Connected Blocks
+	"resourcePackCompatibilityMode": true,
+	/* Blocks
+	   (default: true)
+	*/
+	"grassBlocks": true,
 	// (default: true)
-	grassBlocks: true,
+	"snowy": true,
 	// (default: true)
-	dirtPaths: false,
+	"dirtPaths": false,
 	// (default: true)
-	farmLands: false,
+	"farmLands": false,
 	// (default: true)
-	podzol: true,
+	"podzol": true,
 	// (default: true)
-	mycelium: true,
+	"mycelium": true,
 	// (default: true)
-	crimsonNylium: true,
+	"crimsonNylium": true,
 	// (default: true)
-	warpedNylium: true,
-	moreBlocks: [],
-	// 
-	// Better Snow
-	// OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
-	betterSnowMode: "LAMBDA",
-	snowLayers: [
+	"warpedNylium": true,
+	"moreBlocks": [],
+	/* -> Better Snow
+	   OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	*/
+	"betterSnowMode": "LAMBDA",
+	"snowLayers": [
 		"snow",
 		"moss_carpet",
 		"pale_moss_carpet"
 	],
-	excludedTags: [
+	"excludedTags": [
 		"leaves",
 		"buttons",
 		"rails",
 		"wooden_pressure_plates"
 	],
-	excludedBlocks: [
+	"excludedBlocks": [
 		"heavy_weighted_pressure_plate",
 		"light_weighted_pressure_plate",
 		"polished_blackstone_pressure_plate",
 		"stone_pressure_plate"
 	],
-	whitelistedTags: [],
-	whitelistedBlocks: []
+	"whitelistedTags": [],
+	"whitelistedBlocks": []
 }
