@@ -1,0 +1,13 @@
+name = "Eclectic Trove (Legendary Tooltips)"
+filename = "EclecticTrove-noconfig-1.20.1-1.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8GunilxB/versions/86FpvUpo/EclecticTrove-noconfig-1.20.1-1.2.0.zip"
+hash-format = "sha512"
+hash = "5b7d30110bcb40eb6c420d0460d7baa597d0fd03e56bf0d2f6a48bfb53a823577c74202267401863926ee67629af4d34ed37dfd6120e2db1b114f382434d10f8"
+
+[update]
+[update.modrinth]
+mod-id = "8GunilxB"
+version = "86FpvUpo"

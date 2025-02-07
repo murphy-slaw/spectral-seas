@@ -7101,6 +7101,11 @@ hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "4e048c8606c8d99371620aec0ada8456adbeb558090192048df0e206491435de"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/round-shield.zip"
 hash = "1bc8649b5cc1be76b4536d238a841966daefe205029ed85c62cb0074fc36509b"
 
