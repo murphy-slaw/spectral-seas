@@ -1,0 +1,9 @@
+{
+    // Type: Float
+    "torch_consume_chance": 0.03,
+    "flint_and_steel_burst_enabled": true,
+    // Type: Integer
+    "flint_and_steel_damage_per_use": 1,
+    // Valid Values: SINGLE, BURST, DISABLED
+    "fire_aspect_behavior": "BURST"
+}

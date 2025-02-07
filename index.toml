@@ -33,8 +33,24 @@ file = "config/Spectrum.json5"
 hash = "604528bd9e741155a866d3c95449e24b01fce5fb09db5dd64de4f5bfa95a6226"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d"
+
+[[files]]
 file = "config/action_hunger.json"
 hash = "11c24eadab22d418fafe4c7d50225ab516e7babdbb9f4b23624d727cfee0b9de"
+
+[[files]]
+file = "config/adaptive-tooltips.json"
+hash = "1b0bcbe31b71576d02a5dd364bfea9e20d9fb291e7237def8b57a4c17695ea55"
+
+[[files]]
+file = "config/animation_overhaul/animations.json5"
+hash = "00f4a867204a3424faf35ecd8291bcf76dd212c330525fe5ecffb5f39aeea347"
+
+[[files]]
+file = "config/animation_overhaul/local_player.json5"
+hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -57,6 +73,10 @@ file = "config/asynclocator.properties"
 hash = "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3"
 
 [[files]]
+file = "config/attributefix.json"
+hash = "2e8fc443c9fa8ea50b138cf76c3c1d219bf2b206d79f9e835496a84400785d48"
+
+[[files]]
 file = "config/autohud.json5"
 hash = "84ce8828e3bdfe56b9d893476ad7617d0ed784cfc27bddd3b72b4a7771635670"
 
@@ -73,6 +93,10 @@ file = "config/balm-common.toml"
 hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
+file = "config/betteranimationscollection-client.toml"
+hash = "974550a97068cc01de815dff6e6dc4dbac75f1c669aaa534902f5896ee75257c"
+
+[[files]]
 file = "config/bettercombat/client.json5"
 hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
 
@@ -87,6 +111,10 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 [[files]]
 file = "config/bettergrass.json5"
 hash = "875e2046dd579d26c3b53b0a7e27acd5223bde6ab00117822f11c5f02bde5e46"
+
+[[files]]
+file = "config/bettermobcombat/server.json5"
+hash = "fa89bc39ee43668a4255c74734c567dfae7bf78f77c9f10eb7372db201db71ef"
 
 [[files]]
 file = "config/betteroceanmonuments-fabric-1_20.toml"
@@ -119,6 +147,10 @@ hash = "78c95869c73e8a0a8aa4ee12a01eb4cbb5861f870d579de38d88bd41c59b7c80"
 [[files]]
 file = "config/betterstrongholds/fabric-1_20/rareblocks.json"
 hash = "d6b58f956e80e1db8b7907b34d4ff87f91e4464c1a757e1350ee74b187ca078c"
+
+[[files]]
+file = "config/betterthirdperson.json5"
+hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -157,12 +189,20 @@ file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "26a37454232f91ebcbe55236c0892bd4b395fd54e6478d3345fc528b43391d55"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
 file = "config/clean_tooltips-client.toml"
 hash = "9785c4cdcfc1cb18f4781cd8db8fe8c3b2dfccae0ce248d09f11ebab0bf3073f"
 
 [[files]]
 file = "config/comforts-server.toml"
 hash = "c943c2652aa6ccfaf0859064d2a63fdfa8d2cc680e71cef276a7c4d861dd4132"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/cr-compass-ribbon.json"
@@ -191,6 +231,10 @@ hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
 [[files]]
 file = "config/dynamiccrosshair.json5"
 hash = "39fa36f7f068dc389c4754f7a902855da3f4f2f95e6668cfe3946907eefe2fe1"
+
+[[files]]
+file = "config/eccentrictome-common.toml"
+hash = "a797cf710f570ca07e9182c7b796a8caf39ed543731fd3d21246816ca06eaf68"
 
 [[files]]
 file = "config/ecologics.json"
@@ -401,6 +445,14 @@ file = "config/forgeconfigapiport.toml"
 hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
+file = "config/frycmobvariants.json5"
+hash = "bb69f445004c183c8ab751d4f5ccd51eb71027af36a48a9c50ed9e85f2e466bf"
+
+[[files]]
+file = "config/galosphere.json"
+hash = "806f3bbc59990c7ce8c99d11e876740afe25a922f7c5ca0cfe5b4b9c2c646a19"
+
+[[files]]
 file = "config/grapplemod.json"
 hash = "3d887f05b1dcd84cfa372d88563d25b5faaafccfc431b43feb615b1b29279abe"
 
@@ -419,6 +471,10 @@ hash = "4d392e47db3c286bfc6c1c9798ddcd597ec510602aeac893d40c88ba9eea456f"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "e5268ef119ab15c0a20b56a2fb6288986ce36770c02924f49795f10fc434bd38"
+
+[[files]]
+file = "config/immersivelanterns-client.toml"
+hash = "32465e5fb2fff3f9cb03a0b3124442a8f0ba8cabbb9e87d6d7708e5e1aa50299"
 
 [[files]]
 file = "config/inmis.json"
@@ -443,6 +499,10 @@ hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
 [[files]]
 file = "config/leavesbegone-server.toml"
 hash = "72c7fbc45788e5a7ef8096689ba1fcaa5781a45711d11359fa7d11f6949b0460"
+
+[[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "26c997e7d6dd7f5171a45bd43967fbb08fa3ac784b7f5c56f1dc3de5c35907d2"
 
 [[files]]
 file = "config/libgui.json5"
@@ -477,8 +537,16 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "config/mobplayeranimator/client.json5"
+hash = "2717e96df4a5d1829f34ba414c46d9c1be1b066fd8f14d24ae99889a5deb2e57"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "6cd311b44f9aaa24ffbacab86b90755597058390dbf5c620d8c74255133b47ac"
+
+[[files]]
+file = "config/modonomicon.json5"
+hash = "87fd65de24393d78939110ea4506e10ab028f81e3d2db6c73101a3669b7ad543"
 
 [[files]]
 file = "config/morejeiinfo_config.properties"
@@ -7233,12 +7301,24 @@ file = "config/raised.json"
 hash = "4c523e4e904770547f6163adac77e72c6ce3f282b9c81e274ad83df2bbb3755d"
 
 [[files]]
+file = "config/realistic_cobwebs.jsonc"
+hash = "a3ee10bd0912212f909d5f30a2022068e87a7683a8c8e8cd02bd94e99bd08a60"
+
+[[files]]
+file = "config/regrowthconfig.properties"
+hash = "1524e9793a163decf7e404ca295a579c7be8b26e7adeb4e2a2980bed089646c7"
+
+[[files]]
 file = "config/resourceful-config-web.json"
 hash = "e7378252028396d288924a5344ac2cca71232febf367982834180a64d26345e5"
 
 [[files]]
 file = "config/rrp.properties"
 hash = "a2e6c09a08020b72f3d36942bdd8a6982cbdccd1b2610b62eb0fa191dc4be700"
+
+[[files]]
+file = "config/satisfying_buttons-client.toml"
+hash = "316c0eefd56635693223425ee566b56127e8b8706618bca53226f92934eaea78"
 
 [[files]]
 file = "config/selfish_villager/general.json"
@@ -7319,6 +7399,26 @@ hash = "3a5e8193d8b7853f9c6d76529a181eb90465e8585e577f0958013bd11cb24792"
 [[files]]
 file = "config/status-effect-bars.json"
 hash = "50ed73e5306a43c4e3db7911ca017148591160ac78707c1a07a8ba628aa32bce"
+
+[[files]]
+file = "config/subtle_effects/biomes.toml"
+hash = "2e1a7c663cc1131d23346a8db2b3d1059985020ce7d71b7eece89acf61974a16"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "cd86a3d0699e311ceba4cb6de75a9e2be11d34ea6491cb9e705327966cee43f1"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "08b1626c883af4493c1b551501f14e632fd17623803d9f7af5add2dd89665596"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "507e2fc3f4972818dc3378dec7fa2abf88a4c04738b1a488622162db0ff92015"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
 
 [[files]]
 file = "config/supplementaries-client.json"

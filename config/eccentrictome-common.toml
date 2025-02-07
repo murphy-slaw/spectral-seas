@@ -1,0 +1,18 @@
+#Common configuration settings
+[common]
+	#Allow all items to be added
+	allitems = false
+	#Whitelisted names
+	names = ["book", "chronicle", "codex", "compendium", "enchiridion", "grimoire", "guide", "journal", "knowledge", "lexicon", "manual", "nomicon", "pedia", "tome"]
+	#Mod aliases
+	aliases = ["deepresonance=rftoolsbase", "integratedcrafting=integrateddynamics", "integratedterminals=integrateddynamics", "integratedtunnels=integrateddynamics", "mysticalaggraditions=mysticalagriculture", "mythicbotany=botania", "rftoolsbuilder=rftoolsbase", "rftoolscontrol=rftoolsbase", "rftoolsdim=rftoolsbase", "rftoolspower=rftoolsbase", "rftoolspower=rftoolsbase", "rftoolsstorage=rftoolsbase", "rftoolsutility=rftoolsbase", "xnet=rftoolsbase"]
+	#Blacklisted items
+	exclude_items = ["apotheosis:boots_tome", "apotheosis:bow_tome", "apotheosis:chestplate_tome", "apotheosis:extraction_tome", "apotheosis:fishing_tome", "apotheosis:helmet_tome", "apotheosis:improved_scrap_tome", "apotheosis:leggings_tome", "apotheosis:other_tome", "apotheosis:pickaxe_tome", "apotheosis:scrap_tome", "apotheosis:weapon_tome", "archers:archer_spell_book", "ars_nouveau:annotated_codex", "blue_skies:blue_journal", "cookingforblockheads:crafting_book", "cookingforblockheads:recipe_book", "darkutils:book_galactic", "darkutils:book_restore", "darkutils:book_runelic", "darkutils:tome_enchanting", "darkutils:tome_illager", "darkutils:tome_pigpen", "darkutils:tome_runelic", "darkutils:tome_sga", "darkutils:tome_shadows", "fwaystones:scroll_of_infinite_knowledge", "invoke:invoker_spell_book", "minecolonies:ancienttome", "minecraft:book", "minecraft:enchanted_book", "occultism:book_of_binding_afrit", "occultism:book_of_binding_bound_afrit", "occultism:book_of_binding_bound_djinni", "occultism:book_of_binding_bound_foliot", "occultism:book_of_binding_bound_marid", "occultism:book_of_binding_djinni", "occultism:book_of_binding_foliot", "occultism:book_of_binding_marid", "occultism:book_of_calling_djinni_manage_machine", "occultism:book_of_calling_foliot_cleaner", "occultism:book_of_calling_foliot_lumberjack", "occultism:book_of_calling_foliot_transport_items", "projecte:tome", "quark:ancient_tome", "spectrum:gilded_book", "tombstone:book_of_disenchantment", "tombstone:book_of_magic_impregnation", "tombstone:book_of_recycling", "tombstone:book_of_repairing", "wizards:arcane_spell_book", "wizards:fire_spell_book", "wizards:frost_spell_book", "zenith:boots_tome", "zenith:bow_tome", "zenith:chestplate_tome", "zenith:extraction_tome", "zenith:fishing_tome", "zenith:helmet_tome", "zenith:improved_scrap_tome", "zenith:leggings_tome", "zenith:other_tome", "zenith:pickaxe_tome", "zenith:scrap_tome", "zenith:weapon_tome"]
+	#Whitelisted item tags
+	include_item_tags = []
+	#Blacklisted mods
+	exclude = []
+	#Disable overlay previewing tome conversion
+	disable_overlay = false
+	#Whitelisted items
+	items = ["ad_astra:astrodux", "alexsmobs:animal_dictionary", "compactmachines:personal_shrinking_device", "cookingforblockheads:no_filter_edition", "draconicevolution:info_tablet", "enigmaticlegacy:the_acknowledgment", "evilcraft:origins_of_darkness", "iceandfire:bestiary", "integrateddynamics:on_the_dynamics_of_integration", "occultism:dictionary_of_spirits", "rootsclassic:runic_tablet", "tconstruct:fantastic_foundry", "tconstruct:materials_and_you", "tconstruct:mighty_smelting", "tconstruct:puny_smelting", "tconstruct:tinkers_gadgetry", "theoneprobe:probenote"]
