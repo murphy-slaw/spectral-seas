@@ -58,7 +58,7 @@ hash = "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "c425f5e7271402bce3b131502fcd84b3720c9cf236737dd17f95c0ff82a3da0c"
+hash = "84ce8828e3bdfe56b9d893476ad7617d0ed784cfc27bddd3b72b4a7771635670"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -86,7 +86,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "8ae1b44b11b3520102f61e295cf7183b64aa4a662a5b8bbae5af4c7a302fb69e"
+hash = "875e2046dd579d26c3b53b0a7e27acd5223bde6ab00117822f11c5f02bde5e46"
 
 [[files]]
 file = "config/betteroceanmonuments-fabric-1_20.toml"
@@ -123,10 +123,6 @@ hash = "d6b58f956e80e1db8b7907b34d4ff87f91e4464c1a757e1350ee74b187ca078c"
 [[files]]
 file = "config/biome_replacer.properties"
 hash = "357504489493c0b7962affb4277116664163c21d4b8e922ff23125d936fb61f9"
-
-[[files]]
-file = "config/blur.json"
-hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -182,11 +178,11 @@ hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "cc83392b2440cbbea6e9765ec6b24cef23aa9e3f0cbab84741b69ebe8465f538"
+hash = "18276a5ef07c73e808e4400042c0991917ad1a3302bb91aed210ee6ec897a03a"
 
 [[files]]
 file = "config/deathlog.json5"
-hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
+hash = "4237c79a83d0d5ffc8f4eae6bc580e12cff8deb4cc3c8d8c5d5fddecd05cc186"
 
 [[files]]
 file = "config/detailarmorbar.json"
@@ -218,11 +214,11 @@ hash = "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "02eb2ff8b8caca4a7518781e14d41f3294bcf9059cb54d7b3fb1077ec11a76cf"
+hash = "697fd055aa06966d44251e53e1b51da5cbc903769bf631bcdc6534526a243683"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "a78b708622316646134ae1e7b80e52d6ed8ca43ffd9a5239fd22b619a0b4c283"
+hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
 
 [[files]]
 file = "config/entityculling.json"
@@ -238,7 +234,7 @@ hash = "bf3f4db624187cc0d0af98ae39216e7cabe61094b03249c8665913eb8c136ecc"
 
 [[files]]
 file = "config/explosiveenhancement.json"
-hash = "86f3699ca35c9e7450fb8b835de20cbde3d19ba77fcc7b47f0b9687fa11921e3"
+hash = "91299501c49e2b907439a77189e031842b24c313aca4ac3fc301c34b63e4ae33"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -438,7 +434,7 @@ hash = "ed928e0d524c365c55680dd5f9d9e46d5097f55046291253d7cb024b0eba166a"
 
 [[files]]
 file = "config/kiwi-client.yaml"
-hash = "d341410037970de3771f55a69df8ea4f12b9b527d51183551192de4d3a0ff16d"
+hash = "276b43040c836f91b14f37d9c32c15e43b14ad4caa5dc11c3d0a7c0ed7bc92e1"
 
 [[files]]
 file = "config/kiwi-common.yaml"
@@ -469,10 +465,6 @@ file = "config/lunaslimes/visuals_audio.json"
 hash = "7e97b48f8d2dabdc27b75e3992f08326cef2aba1e895d37705f0caff2c058476"
 
 [[files]]
-file = "config/map_atlases.json5"
-hash = "9f13b3f743017c6cc69cf76b1cb56f0f484305cb8f2061aa615b248df8237573"
-
-[[files]]
 file = "config/mermod-client.toml"
 hash = "4f88cdd32eafe986c7b50d8ad4e32cc03875c2eed0d32bfb64f213ce6f0ed20b"
 
@@ -486,7 +478,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "f9b1a6add163b391b638211b75784d14e8df9f8271cae3d0ab5bb640803b9aa5"
+hash = "6cd311b44f9aaa24ffbacab86b90755597058390dbf5c620d8c74255133b47ac"
 
 [[files]]
 file = "config/morejeiinfo_config.properties"
@@ -507,10 +499,6 @@ hash = "0d64e07f1427f761cde573b16522096cb38df0cf23cf703aaed5265b43e8e0fc"
 [[files]]
 file = "config/nerb.yaml"
 hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
-
-[[files]]
-file = "config/nimble-client.yaml"
-hash = "22752d62f31be5185d516a11a548129f495f6711d0a83d667ef30fb1df3e9662"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -654,7 +642,7 @@ hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "efb422930fbd49d515571aeba779a1240a7647d55060bfcbba12c1650d0c8802"
+hash = "41cc6671cafd2620b1f0d833ec87ce309ae9999656a4303a14b858b7f3ae020b"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/beach_boulders.json"
@@ -920,7 +908,7 @@ hash = "08c1c860e5a45773916ecec362a61ae0f15b82126529c42b34e1ca2cd91fc5a8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_city.json"
-hash = "65802a7472e33c699293115bbfbe692ccecbcc778343bec6febd35920c6669c5"
+hash = "47a1c09afeaf7e2faea5fa749c7cf4055cece1816798dae1acbbae20f17797e0"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hopo/worldgen/structure/underwater_fossils.json"
@@ -1155,6 +1143,206 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/loot_tables/entities/
 hash = "1caeac9664f787a8e41f9ebc0ee56bebbf92bcba75592f50068c5d41fcd27baf"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/chain.json"
+hash = "25548ded1e2ad6431f4612b53c0fd211dfdb82c003750bf8843453ca57906503"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/diamond.json"
+hash = "551b74e24617b119f8891bc5c48cdc8da69e0c7ff62f980805fb94833e22f0b9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/gold.json"
+hash = "df6da920272dd99cb10d77a09df77484a100f56997eb8f9d71e3be3aa2483a38"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/iron.json"
+hash = "8d90b788ad0aacf8ad0a044c6fc73953fe660f3512760d8064c2425199a96bca"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/leather.json"
+hash = "f000c1032661388ca5811b062ffdd9a7db8a2b053fc2a9c1fda6e3fd6b2e6836"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/netherite.json"
+hash = "824f7d5277503ab0a8f87a947fd3397b5f6e5f9fc04b35dbca37fba8deb9793e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_armor_materials/turtle.json"
+hash = "6ffe1e78956cfd4124d213ad03fdd40c4d8e9bffee9540cf28885987d2506d5e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/diamond.json"
+hash = "5346a5669d6ac71dcbf99d00327b7bdb0e6d6ef76ae4a0e91e3ceaf98d11bc52"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/gold.json"
+hash = "a1d444ea6f8d0f87f8470a45a38c4e03b04162827d614e90062771da770cd9f1"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/iron.json"
+hash = "2cdc5918575d4c30de71afb1cdb49d164713fcd14d03324a202f1cb3b7601667"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/netherite.json"
+hash = "86f5d0d988e39b267d6ba709dcee044a095d8ccd11e4e18737a4fe5f01045628"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/stone.json"
+hash = "3a847e9702262a03851fbb521c49a63c842c2e9bbd8960267bb4f8201c99f167"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/string.json"
+hash = "323a748312a1af54f0daba59a1016e13c85e9fe7e091f704bf6f69b49998628b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_tool_materials/wood.json"
+hash = "103920899734310a77a7707cf7a9e4dacf2dd1d861286ec7e844a7c2a51a1158"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/axe.json"
+hash = "f9e8d262fdf3bb87e710dd500526b492a4c8f8d09ae82727b036caca0f999cc6"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/boots.json"
+hash = "b5bf15c97d8408d85ce28078ea845be932d7df796cd60857f5f78a7b095ec078"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/bow.json"
+hash = "40cce9005ea935b2adffff60e6947800aea53fd254aa6745a11ec3666d71dd06"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/chestplate.json"
+hash = "b5bf15c97d8408d85ce28078ea845be932d7df796cd60857f5f78a7b095ec078"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/crossbow.json"
+hash = "618886f444faaf239c14320671296598ee4500d0986ec1f4ea3d83620b40420c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/fishing_rod.json"
+hash = "642e1b2b1cb06706381d4bab5c60d59f03c17ddbf4dd7f5dd8563baefd603f1b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/helmet.json"
+hash = "b5bf15c97d8408d85ce28078ea845be932d7df796cd60857f5f78a7b095ec078"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/hoe.json"
+hash = "b2f991c508142e2001cc2b77f455f30cfd4463b34812f3c6d3d50636cebbc863"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/horse_armor.json"
+hash = "ceb56a30253f02d764981ebcd01a7671aeb5577c9cc0e498215ee98abc8f0057"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/leggings.json"
+hash = "b5bf15c97d8408d85ce28078ea845be932d7df796cd60857f5f78a7b095ec078"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/pickaxe.json"
+hash = "d519a208b5bec5ab5bc88ce578ef3c4db8c590324228a03fc387443cf645a98b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/shears.json"
+hash = "e4423fc2b5b7c3d60c3bb4b34d267dae29e52a498ec3286c79324a9a6a5da417"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/shield.json"
+hash = "943d14acf25432ead2ffef7181b11efa66e60d31c96612e4d77040aa3f39b109"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/shovel.json"
+hash = "9caebfb5010f160ac3904729943ea4e5ee9a9806c053337d833dae207cd1f4f8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/sword.json"
+hash = "c439f392a0645dcdc003e68d1ace7c465971a948b9d7e1e39dc58c01b7b867bf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/brush.json"
+hash = "8cfad14556eaf744a65b102e790be1596d13bfb2b1dab28736c6f60efaa0c037"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/carrot_on_a_stick.json"
+hash = "af15c1a8f63c0aac0582898ee8a57dd12677a5b0d36a6ff32f17af7e44c32d21"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/chainmail_boots.json"
+hash = "0e59ba8a788873ee6ef2f371d224bbbcf8c8f901bcc1b56ad99feba39ac19429"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/chainmail_chestplate.json"
+hash = "588b586328789402acde9c5dd7f8eef1390febbe8981f123365649f197448ef8"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/chainmail_helmet.json"
+hash = "648993c728593715a034ff8b12f8436d4b9e590cf06181e90fe1f62400cffd48"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/chainmail_leggings.json"
+hash = "1ee49c2487313e59c54a79311616af3b9d22c901b99dd05c8a65fc8bdb9eb024"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/diamond_horse_armor.json"
+hash = "03afee53110b7a7a3ed2d541832131d40fb43859352ffcae4e1d6097da18977b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/elytra.json"
+hash = "84343e334bc8de7fd9064f62bb159a657dfe507a047c59b9674a7eeaa3dc9909"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/golden_horse_armor.json"
+hash = "8bd938fc5fa511d812424617e1397b9cf7d9b38119efe31ecb07e8b69d99270d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/iron_horse_armor.json"
+hash = "8498b0e2cef6f80e57d54a122ae680fe8caee94079e6aeb74eebbf1314b472d7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_axe.json"
+hash = "348e46cf92451877a210e9bde79b4517dc9e1070262bae1a5c8984cb3ba8843e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_boots.json"
+hash = "1534b15b7b93eae2da62e446a53ecb367dd00e0baef187a06f81f6e8d3ee2c9e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_chestplate.json"
+hash = "7e0b797a40953d60723ce04b7f3325d8d48db63f8904f6901d748cd1f977d107"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_helmet.json"
+hash = "ca8ca744665262fe30119e79521ea2a96ca11a47ea5b023d494edcc9f2f4009c"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_hoe.json"
+hash = "6832f2d2f501e4e8052fb3fcbd105557504fcf54d8cc331efd8f8adde194ad96"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_leggings.json"
+hash = "03afee53110b7a7a3ed2d541832131d40fb43859352ffcae4e1d6097da18977b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_pickaxe.json"
+hash = "348e46cf92451877a210e9bde79b4517dc9e1070262bae1a5c8984cb3ba8843e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_shovel.json"
+hash = "3adf92b82a1c2aeaaa3508d067933ea60027c34e806e3c17af8988898e03a480"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/netherite_sword.json"
+hash = "6832f2d2f501e4e8052fb3fcbd105557504fcf54d8cc331efd8f8adde194ad96"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/trident.json"
+hash = "559799e65625005195ec261bda888837032b4d4fe78e1728ebb713b08e6a329b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/warped_fungus_on_a_stick.json"
+hash = "5c7ef27aebafbe6dbe13767718ca9bca2a7c136768402fc6ea96ecc8f4919b25"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/structures/village_jungle/jungle_village_center1.nbt"
 hash = "54e69e5c86479b2ca08bbcedbf9cfa32a4576b5cd1df64cc5097cf7363476c5a"
 
@@ -1173,6 +1361,10 @@ hash = "428e679c13971fec752a3c412923ac9cc13e43f2be2f7badde1eeb2b80749eba"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/blocks/needs_diamond_tool.json"
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/items/dyes.json"
+hash = "3a8cc4b5bfd1a278e9d457efdba4443d24c20ff9770930ad3ac15721357da63c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/has_structure/nether_fortress.json"
@@ -1223,12 +1415,16 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/i
 hash = "af83fee1af1aa5cad3d84f7bcb47c262be55e67b2c96424aeb5d2c5de0e698ca"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/biome/is_overworld.json"
+hash = "4a17a4164997f63ce64be24c1e018da5777c1788382acd34a7c4c6e7e90a6683"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/tags/worldgen/structure/village.json"
-hash = "a7cffec82c96fee23a25021f554d4595efb00a10545f8ce6f84487b593eea077"
+hash = "f50e27582784345dc886c9a5ad717bf0070a8fbaef6d4dc1fea365d1a926e588"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/biome/lava_sea.json"
@@ -1403,12 +1599,36 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ru
 hash = "323b7f6bfb15e3e69a75b7abc25e78f509d02b9bb5dfbcb38d6762f1a5fbc183"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_desert.json"
+hash = "bc6b9535661121a82163615de75e8cae30b9929a440fadaf1e72e686c8694e1e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_plains.json"
+hash = "03ed9a7e0bf42714495fe65bb760ede6d943b40bbeffcef23479dbb03e610f43"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "baedbc671fe048b5224dea87e74bb36da5a81d79ea19bfcff80323524b9b95f7"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "c1d0bee0f8be154393a1281b353e7943f799528e3551d273b366c095d9984031"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "3684efbe9627d9e419bfe123b5eee4824cfd7837ca1d883eb9ee59062d17b6b4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/pillager_outposts.json"
+hash = "1e683a7b02f44ebf3b26b1810c3e3ea60c0594b4d89016bf881a71f474cdc027"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/shipwrecks.json"
 hash = "8b5c5e9fd3f60f1f7f3946fc94cb57562ca31b85ece029d1350af20bcb199065"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "5fb002da07f684de43745654019f92ed4e85afdbcdcc21d9b7b99e082ed11508"
+hash = "4d3b283f5c33af43e8a56258206a301823ee63d16639c974d7154b3e1b7f2d03"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -2567,6 +2787,10 @@ file = "config/paxi/datapacks/spectral_seas/data/nova_structures/loot_tables/che
 hash = "5633a90bb18dd0fa7f6aeb4af7fdc33c553ae17f036deb9fccd12c0c6beef45e"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/tags/worldgen/structure/taverns.json"
+hash = "b66d31c9800485acd91bf2de77b8a22433877fcbca8e96c0789d765cdbf34b17"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure/creeping_crypt.json"
 hash = "f1715b662252783a32bf178f6fd2b9d833d6e75813867420f7f2ca05d69bd9cd"
 
@@ -2979,12 +3203,120 @@ file = "config/paxi/datapacks/spectral_seas/data/selfish_villager/tags/blocks/no
 hash = "65ae4ca32ceee89cfedac3b1c82209977f6d39a5bfbcacfb66a00dba27551030"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/smallships/tags/entity_types/ships.json"
+hash = "1c372e75b1ac458fd209de9390584e21f8fa9d3fe46616b1fc62f7b2a8edca9c"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spawnanimations/tags/entity_types/exclude.json"
 hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/beacon_sighted.json"
+hash = "0ea013ed54b4afdeda6179a894df9d6920fb645016835cd64ec88d819466ddae"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/diving_suit.json"
+hash = "cd8ac1738253c5133c1af345e054c419fbeb06652fe34d500021b7e6dfc8cfc9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/fleet_commander.json"
+hash = "01e1d6590b7fd2b9821e01700ecc8dfa7981ba7396a924ef7895e62bcf08aeca"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/flying_colors.json"
+hash = "69c152af2d9c4959ec384e79ef5b08d9984ad324d9d114d851cd391c902616f3"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/got_them_in_my_sights.json"
+hash = "778a131c1ce1f0b2ea8ba83f542cdcce0a0f6c06d553dd414dcc9dbe5134ef64"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/legend_awakened.json"
+hash = "ab27f27f6bbdb9f3c973a4d60985d9b155f7047b8e40bcf997bb507edf9a0d01"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/master_of_the_hunt.json"
+hash = "d9ac146c54bd622983ea06c7112bcfe910a2e83874b94b4197ec537a6cbad5d9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/neptunes_lance.json"
+hash = "b08f0a6f19cb4f1a2570e6473fd28b0d30892bd932577da59094fb08e18f0445"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/on_foreign_shores.json"
+hash = "d514e7c510eff4aa02365482a3a8c6e3b48808a262474b69badeba3f98295490"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/one_sheet_to_the_wind.json"
+hash = "056c6f1aa1f28a13e6aa625c428012a08aaae55eaf1fac9722c973bcd64d0611"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/powder_and_shot.json"
+hash = "4bed7a33249e869fa439f9e887cb7b66e7244677ff044119f7c5da08cfb47b1f"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/rigged.json"
+hash = "31398ddcc6382c26d530efd88b79d33b36e29534cfcdeff92c966146702afc1b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/root.json"
+hash = "48d0f722d95d3122f75f5e1673abdb642cfaefd2453204668c3ffb1105e864ee"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/sail_away.json"
+hash = "b5e1f675043be4d2942fbe55ccabc312798bdd075e21499e3d784a26b5bfc914"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/shipwright.json"
+hash = "8ca1405a127360060f4b488a71b926b5ede369dc579d358fa851b44d5d19fefe"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/sleeping_legend.json"
+hash = "e0d04fc538071cdb0a04cfd634537e4a11d7552c39d07696fe5ed921dd857a01"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/thar_she_blows.json"
+hash = "1e521f7bce583bf1b830211045c02a23e75ee3e5a40956ca3bd9a6c0b94be345"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/the_long_arm.json"
+hash = "08b2221b169fb32ec3f7fef640f64183a7906e4067b88cba3e46f3e2a9313658"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/this_is_my_boom_stick.json"
+hash = "88ace7134162f72a83033680f8de7e440d6f4469c8758b015bfce80ad16b0da9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/three_times_as_awesome.json"
+hash = "322b5ae8eca8bfdd40704508fcbdf4c744669cff87b7a76de1cd2f2d1e735e0d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/towering_achievement.json"
+hash = "f9881c7ebd01e757483a5a83afb6b67a23f75c87e34611d7a0e930096c611c07"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/advancements/seamanship/what_lies_beneath.json"
+hash = "02d3eb6958b35f84c7c751a6b983157b678509b202bd2e5297140c69b9087f40"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/diving_set.json"
 hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_ruin_placement.json"
+hash = "16e96fc59ddb4b25c06f491d9a9531f7c649c48392e90b356aedb587670a4deb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_tavern_placement.json"
+hash = "af090a2de28430a12cec294ff74fbbc6a10d6a271aa7b6d287e074615457bb51"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_underwater_city_placement.json"
+hash = "2e055b2d8f405fc6ad9aaf2ac18655948db54b55a9b5723485b8666fa1fff46d"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_village_placement.json"
+hash = "334ac7c0941291b31c6a2c8a404e7d2a4e9d56ec08dbacb81656474f7a676949"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -3076,7 +3408,7 @@ hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/large_ocean_structures.json"
-hash = "c0ab37ed99a6d2b7262024179fabdcba6c67e3dee84f93750a01f090bd7b3ed7"
+hash = "5e264b7d273fc59fa8aca502aa3dcd7b6e9bb0fd526197e9717b90fbbd2e74f4"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectrum/advancements/spectrum.json"
@@ -3152,7 +3484,7 @@ hash = "9361e2d19e335e73e675aed60adc0b1f401708f3200a40001f187d1781afd8b3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/worldgen/structure_set/regular.json"
-hash = "91dbcbaf3be703409591997ca867ba6c2b3c58b90881d17f1cbfe3f9809b28f5"
+hash = "c962b9068958ced3346798361a08e77bc85236baf9f9b5992f55faab5a809a78"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/tags/worldgen/structure/town.json"
@@ -3163,16 +3495,96 @@ file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/struc
 hash = "792b59f1f7d068393dda4b60d31d9a85bec83ad6b372bed24028b1d72269c177"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_badlands.json"
+hash = "cbb7d78c0c9ef4608df880c40feb7f07ddd3862e81f80276181ff039c05c9527"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_beach.json"
+hash = "81ef067621d57b11f1febc1ab49ee2c80b7a3bff5f77fa9c0370540fb5bdebf9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_birch_forest.json"
+hash = "8776bef34405b3f704934f724119e9f0ab229a641290f9b118e9cc241bcec56e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_flower_forest.json"
+hash = "976fc75d5d115c0ca634e3c5a0edcbf6a7118290dbb84786b39b7b3a3b87a3da"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_forest.json"
+hash = "053d24359ebb30eaad341a101ff32e301b706d0491ee2f42a8d41dcfda26993b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_grove.json"
+hash = "ffb11428d42de4347563654a67072a2ac4f0239e2dbffe86d87a462aaba8de7e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_meadow.json"
+hash = "2da46fe559b940d1bcdaa065f6d6c7f7214d18d244305f497ef6afe75402ada9"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_mushroom_fields.json"
+hash = "d694c09b7dc082b5d98343bb6e54bcfca0d2888e4d8643fbc4a2d288d25c00cf"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_old_growth_taiga.json"
+hash = "92725f2a6d1871739c618232b0e6a7677907bbcc7ae79b4faac4d40b47bac141"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_savanna_plateau.json"
+hash = "96e1c6f7d57834258cb8682c88456687e0db0f50720a57c16def6c50884d00e5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_snowy_slopes.json"
+hash = "981adcb5301603fa1cb844b30b8baffdc31a31210f9021b60e1e8287563d88a5"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_snowy_taiga.json"
+hash = "61b78165f8a8f0d4e83edc26a0934ee2a64786a2bbacec7ce7ba2404f4eced49"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_sparse_jungle.json"
+hash = "1ca7a59b9bfe0ba30f3703acff12d81ede8f61ecb5ac77af6e405018de4306fa"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_sunflower_plains.json"
+hash = "1800cff773470db675fe72146704a4fb881681f5a4cd785122429ef5692147bd"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_swamp.json"
+hash = "1f2bbe947c8f4c70a12590f2698778781aae32a8c73c7d0f1073e8bb3775ce52"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure/village_wooded_badlands.json"
+hash = "543923dc768723b830c2023cc87620585a78b4310c96d9577f29c4f92823f452"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/other.json"
 hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towers.json"
-hash = "a02b737cdcec8a2b24ce3a149cfda294161db376e16197501223c66052c13f97"
+hash = "0eb5d273c4947cb68b12191269e3e52f738e6691c469a04effb793a9a5847412"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/tridents_n_stuff/tags/entity_types/harpoons.json"
+hash = "f9417950007a5594ff98de195f20cee1a4339668f6412356bc0199ea96f1c746"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/tridents_n_stuff/tags/items/harpoons.json"
+hash = "d97365523bc6f3a0873ed81de97161656e089ae06a5dfc47a67d20dd67910fda"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/tridents_n_stuff/tags/items/upgraded_tridents.json"
+hash = "2429c4dee0432197242321dd70e39cf3eb46ba067567cf0f6007e277a7e83bdc"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/unseaworthy/tags/entity_types/sinkable.json"
 hash = "002c3d181fabc09d886e9d219d47689252d341f98d4ace0a0817261d2c1c6012"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure/monster_egg_banquet.json"
+hash = "e9b456c2dc835fc811d328355d9b8a3cd699f453ce9f254eef6fd5e1b2594360"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/beetroot_patch.json"
@@ -6697,16 +7109,8 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/hybrid-aquatic/lang/en_us
 hash = "962c7bb6e372a8ec2a40b2f554a057246bbfbe656660a6e80f367825af798e52"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/item/ship_speed_upgrade.png"
-hash = "3aa0b927cb470619d6800009977c8f8c2c8bcb2147adb4075fdf5d845d10d78f"
-
-[[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/item/ship_storage_upgrade.png"
-hash = "ac18be9912b51bfd5b992a33fbe40528c01175ba96e8cba829883b20e2b17f43"
-
-[[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/mob_effect/amphibious.png"
-hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
+file = "config/paxi/resourcepacks/spectral_seas/assets/kubejs/textures/item/fishermans_resin.png"
+hash = "5fa8adba83db89f05b3974a86621fc36fb31e8345f0fda7233ef4da714840c12"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/atlas/biome/lava_sea.json"
@@ -6715,6 +7119,42 @@ hash = "fd83cfd26ca5b0620cfe5de8ac52a782b8195d1ca98c917311f185cca987071d"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/advancement_frames/frames.json"
+hash = "4bf868de028f653725953e71b891db988e64fb75ea51d2a4c77f1b3052cc989e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/beetroot_soup.png"
+hash = "2e15843432d7f0db97d3e8c3ab4ae3bae83d8f7ece8417aa67580b36062e26ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/fishermans_resin.png"
+hash = "5fa8adba83db89f05b3974a86621fc36fb31e8345f0fda7233ef4da714840c12"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/mushroom_stew.png"
+hash = "bd46d7a66c430433049f4e2b82c4f871d9ebdace85a17571fbfc6c1e27a54370"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/rabbit_stew.png"
+hash = "777cdb318f89224f4f685ebfc9c5b60e1feddfb5686444151467d425d0427f1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/ship_speed_upgrade.png"
+hash = "3aa0b927cb470619d6800009977c8f8c2c8bcb2147adb4075fdf5d845d10d78f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/ship_storage_upgrade.png"
+hash = "ac18be9912b51bfd5b992a33fbe40528c01175ba96e8cba829883b20e2b17f43"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/item/suspicious_stew.png"
+hash = "37341eee562a1f12d37115ba962e5b146eeb1ec36eb643cdd6345ee6bc50c6ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/spectral_seas/textures/mob_effect/amphibious.png"
+hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/vc_gliders/lang/en_us.json"
@@ -6854,7 +7294,7 @@ hash = "6037814dc2860cd65ac1b7532212078ebb7b4fe21e4c64c026b38fda16c1c41a"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "832f35b794472d931d127115fc824662a114609fd7776c484d5a6c6cc3341ad8"
+hash = "74c19926a2e46dbc32993dad40b1eb6e28e7ff69b8135d963df344801feff0e1"
 
 [[files]]
 file = "config/spark/activity.json"
@@ -6863,10 +7303,6 @@ hash = "0cca3ca8c369704e46f504e6899b15ad0db42d2706c5ab7303fe1a4a5c0341a0"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spawnanimations.json"
-hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
 [[files]]
 file = "config/spellbound.json"
@@ -6926,7 +7362,7 @@ hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
 
 [[files]]
 file = "config/waila/category_entries.json5"
-hash = "4480b57457f5b75262eec0d3d597489e2bd2e341f91568d2291d2d866288bf12"
+hash = "4081a6c19a3db35daab67d31d57704a863630cba67efb5713d0e9accc709423b"
 
 [[files]]
 file = "config/waila/debug.json5"
@@ -6966,7 +7402,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yigd.json"
-hash = "116caf5ebd57ac7f8dc50431d63789450eae0fb32191f0c3929e37f52b0c644f"
+hash = "5b4ac39bc9d9d45fb504db75f639627cccc6c371432f9146de03eff2c51ee482"
 
 [[files]]
 file = "config/yosbr/keybindings.txt"
@@ -6989,22 +7425,6 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "kubejs/assets/spectral_seas/textures/item/beetroot_soup.png"
-hash = "2e15843432d7f0db97d3e8c3ab4ae3bae83d8f7ece8417aa67580b36062e26ca"
-
-[[files]]
-file = "kubejs/assets/spectral_seas/textures/item/mushroom_stew.png"
-hash = "bd46d7a66c430433049f4e2b82c4f871d9ebdace85a17571fbfc6c1e27a54370"
-
-[[files]]
-file = "kubejs/assets/spectral_seas/textures/item/rabbit_stew.png"
-hash = "777cdb318f89224f4f685ebfc9c5b60e1feddfb5686444151467d425d0427f1b"
-
-[[files]]
-file = "kubejs/assets/spectral_seas/textures/item/suspicious_stew.png"
-hash = "37341eee562a1f12d37115ba962e5b146eeb1ec36eb643cdd6345ee6bc50c6ce"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "75f5f3ed5ff92ac158222af2aa57a22f81d9e163d87b6d2f0b57ae8851e07f92"
 
@@ -7014,7 +7434,7 @@ hash = "7d197ccebfdc893aea80bf8fe8fbd45773a04c973aa517bed6e225e9b6342671"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
+hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
 
 [[files]]
 file = "kubejs/config/unique_items.json"
@@ -7043,6 +7463,10 @@ hash = "5b8baac279cced2486de47b48fd76dfce74c5f39a226a4b29ce04f952a50aa97"
 [[files]]
 file = "kubejs/server_scripts/ship_upgrades.js"
 hash = "5a97b6ccc3542207cfa3ea87c67b94506522e4754876ef8cadde2e335e6c083a"
+
+[[files]]
+file = "kubejs/server_scripts/spawn_distance.js"
+hash = "6e4a2e1de22730394fcb20bfe8ef13374956b29f0ae4ec9b95c3dbdc45cf3cbe"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
@@ -7089,11 +7513,7 @@ file = "kubejs/startup_scripts/amphibious.js"
 hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
 
 [[files]]
-file = "kubejs/startup_scripts/bowl_food.js"
-hash = "8599f56fa59e590be8f91b0ef6eb841e2b7f31f6b57ecffe3ff47ca8cb5c26f3"
-
-[[files]]
-file = "kubejs/startup_scripts/grave_dirt.js"
+file = "kubejs/startup_scripts/blocks/grave_dirt.js"
 hash = "d7e51b58a800ce80fda4dc80aa425e2bba2ceae9c56e2e610cfe547eb4510640"
 
 [[files]]
@@ -7101,7 +7521,15 @@ file = "kubejs/startup_scripts/item_counts.js"
 hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
 [[files]]
-file = "kubejs/startup_scripts/ship_upgrades.js"
+file = "kubejs/startup_scripts/items/bowl_food.js"
+hash = "8599f56fa59e590be8f91b0ef6eb841e2b7f31f6b57ecffe3ff47ca8cb5c26f3"
+
+[[files]]
+file = "kubejs/startup_scripts/items/fishermans_resin.js"
+hash = "85847f15602577f50c0ff6a72f793e5d5a082885a875f31ca5e3fc0c07e6be32"
+
+[[files]]
+file = "kubejs/startup_scripts/items/ship_upgrades.js"
 hash = "989f553dca51e09b16b35a596adaef99b24af89f8eb14ca944b048e181cab6a9"
 
 [[files]]
@@ -7561,7 +7989,7 @@ metafile = true
 
 [[files]]
 file = "mods/fortress-tweak-1.0.0+1.20.1.jar"
-hash = "3da9c927265bd5d99c1e9d4a72c86fb59568cea5a0469cc254ba80f210723437"
+hash = "a43e89ca402f13088f06e7ed584dae459f23c52ad7f8dc28fa4d1ee8cd2ccd50"
 
 [[files]]
 file = "mods/fryc-mob-variants.pw.toml"
@@ -7646,11 +8074,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -7805,11 +8228,6 @@ metafile = true
 [[files]]
 file = "mods/mob-player-animator.pw.toml"
 hash = "3be353b92080eff330995040871e15bbd39d0a899f24046547d5f8c76bfec5c3"
-metafile = true
-
-[[files]]
-file = "mods/mod-sets.pw.toml"
-hash = "e060cdd70da4c87e23a854ac99df280b9247a46b2c0c3e760e3c46cd5783468c"
 metafile = true
 
 [[files]]
@@ -8240,11 +8658,6 @@ hash = "a1e018b4de9eab21229948372fbf4225dce8fe0ef39773f1d0b68e14a3a0156c"
 metafile = true
 
 [[files]]
-file = "mods/yeetus-experimentus.pw.toml"
-hash = "aff9151946042f9b61efe9322437909657ad87235ea63b5d5cfb6a7e4f9c2da3"
-metafile = true
-
-[[files]]
 file = "mods/yigd.pw.toml"
 hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
 metafile = true
@@ -8273,6 +8686,18 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
+
+[[files]]
+file = "patchouli_books/mariners_handbook/book.json"
+hash = "56d1eaf760f4f4471dd3e2984dff6a9e49073862225aca064dd575fa3269afa0"
+
+[[files]]
+file = "patchouli_books/mariners_handbook/en_us/categories/test_category.json"
+hash = "530b15146c08927e8516cc51415075ff7326c742215be12f5c8b995d34466659"
+
+[[files]]
+file = "patchouli_books/mariners_handbook/en_us/entries/test_entry.json"
+hash = "df5b6a125c6c64c9a9fbc6ed898f3d58fe79d1da2ae47b6dd85883ad372e487c"
 
 [[files]]
 file = "resourcepacks/AveriaSerifGWF-Regular.ttf"
@@ -8318,16 +8743,6 @@ hash = "6fa3fae2f48c214fa2fd386408cf7bf69fcbd7cd017be932bfe1027e55dab1d9"
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
-metafile = true
-
-[[files]]
-file = "shaderpacks/vanilla-advanced.pw.toml"
-hash = "d20753bc7a02d9dc122eb7934b177c64a57d04a92a99605adb72a1adaf96e496"
 metafile = true
 
 [[files]]
