@@ -1696,7 +1696,7 @@ hash = "8b5c5e9fd3f60f1f7f3946fc94cb57562ca31b85ece029d1350af20bcb199065"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure_set/villages.json"
-hash = "4d3b283f5c33af43e8a56258206a301823ee63d16639c974d7154b3e1b7f2d03"
+hash = "2232189a3a16a43e8e44e235c7e97b7b109d1b424f01147a2963464e51139dc6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/mostructures/advancements/abandoned_church.json"
@@ -2992,7 +2992,7 @@ hash = "e9300258f4aedaf0f090ae16c9f69a1abd744c3ed5cbadfb40758b2e49bd05e2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/taverns.json"
-hash = "6a017cb42d540e97edd09a5fa0d26f18814b4494f77c9a005df8768aa7fecc6b"
+hash = "7ef7b6b3f7d0aa9a096a45aa25d5d9e33cbdf1f7e8cf1b12998f698172128007"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/undead_crypt.json"
@@ -3632,7 +3632,7 @@ hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towers.json"
-hash = "0eb5d273c4947cb68b12191269e3e52f738e6691c469a04effb793a9a5847412"
+hash = "1fcd1801d252349d0d616a2053afc42f480e71a698b37c8010cafba1ca986803"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/tridents_n_stuff/tags/entity_types/harpoons.json"
