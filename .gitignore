@@ -6,6 +6,50 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Local mod jars
+mods/*.jar
+mods/*.jar.disabled
+
+# Per-instance stuff
+.fabric
+.mixin.out
+config/spark/tmp/
+data/
+deaths.dat
+emi.json
+fancymenu_data/
+heracles_options.json
+irisUpdateInfo.json
+keybindings.txt
+kubejs/client_scripts/
+logs/
+modernfix/
+observable_announce
+options.amecsapi.txt
+options.txt
+patchouli_data.json
+rhino.local.properties
+saves/
+screenshots/
+usercache.json
+config/konkrete/locals
+config/terrablender.toml
+config/heracles
+config/jei/
+config/modmenu.json
+config/necronomicon.json5
+config/indium-renderer.properties
+config/iris.properties
+config/rabbit_behavior_fix.json5
+config/inventoryprofilesnext/**/*
+config/sodium-fingerprint.json
+config/better_log4j_config.xml
+config/citresewn-defaults.json
+config/data_attributes.json5
+config/data_attributes/
+config/sodium-extra.properties
+config/sodium-mixins.properties
+
 # server export directory
 server
 
@@ -16,4 +60,5 @@ builds
 .vscode
 /.idea/
 *.code-workspace
+*.swp
 local
