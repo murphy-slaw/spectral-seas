@@ -5,8 +5,6 @@
   "waila:harvest": true,
   "waila:extra": true,
   "waila:fabric": true,
-  "zenith:ench": true,
-  "zenith:spawner": true,
-  "zenith:adventure": true,
-  "reputation:plugin": true
+  "reputation:plugin": true,
+  "smallships:waila": true
 }

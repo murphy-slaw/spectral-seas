@@ -1,0 +1,19 @@
+{
+    "use_classic_hookshot_logic": false,
+    "hookshot_cancels_fall_damage": false,
+    // Type: Integer
+    "hookshot_cooldown": 5,
+    "hookshot_affects_vehicle": false,
+    // Type: Integer
+    "default_durability": 512,
+    // Type: Double
+    "default_range": 24.0,
+    // Type: Double
+    "default_speed": 10.0,
+    // Type: Double
+    "durability_upgrade_multiplier": 2.0,
+    // Type: Double
+    "range_upgrade_multiplier": 2.0,
+    // Type: Double
+    "speed_upgrade_multiplier": 1.5
+}

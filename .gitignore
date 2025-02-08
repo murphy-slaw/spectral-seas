@@ -13,11 +13,15 @@ mods/*.jar.disabled
 # Per-instance stuff
 .fabric
 .mixin.out
-config/spark/tmp/
-data/
+/config/fabric
+/config/sound_physics_remastered/
+/config/spark/tmp/
+/config/spark/activity.json
+/crash-reports/
+/data/
 deaths.dat
 emi.json
-fancymenu_data/
+/fancymenu_data/
 heracles_options.json
 irisUpdateInfo.json
 keybindings.txt

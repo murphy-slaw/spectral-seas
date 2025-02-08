@@ -8,12 +8,7 @@ preventAdvancementBroadcasts = true
 # default: BLACKLIST
 filterMode = "BLACKLIST"
 # Namespaces to be entirely filtered, e.g. 'minecraft' or 'antique_atlas'
-filterNamespaces = [
-    "hopo",
-    "hybrid-aquatic",
-    "mostructures", 
-    "totw_reworked"
-]
+filterNamespaces = ["minecraft", "hopo", "hybrid-aquatic", "mostructures", "totw_reworked"]
 # Namespace-inclusive paths to be filtered, e.g. 'minecraft:recipes/' or 'tconstruct:foundry/'
 filterPaths = []
 # Whether to filter advancements that are triggered when obtaining a recipe, used for recipe advancements
