@@ -1,0 +1,20 @@
+{
+    "speed": {
+        "increment": 10,
+        "upgradeCaps": {
+            "smallships:cog": 8,
+            "smallships:brigg": 10,
+            "smallships:drakkar": 6,
+            "smallships:galley": 5
+        }
+    },
+    "cargo": {
+        "increment": 54,
+        "upgradeCaps": {
+            "smallships:cog": 6,
+            "smallships:brigg": 9,
+            "smallships:drakkar": 3,
+            "smallships:galley": 3
+        }
+    }
+}
