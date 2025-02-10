@@ -1,4 +1,9 @@
 {
-	"fortressOffset": 48,
-	"portalStructures": []
+	"fortressOffset": 24,
+	"allowOnceLit": true,
+	"portalStructures": [
+		"minecraft:deepslate_portal",
+		"minecraft:lush_portal",
+		"minecraft:dripstone_portal"
+	]
 }

@@ -13,7 +13,7 @@ filterNamespaces = ["minecraft", "hopo", "hybrid-aquatic", "mostructures", "totw
 filterPaths = []
 # Whether to filter advancements that are triggered when obtaining a recipe, used for recipe advancements
 # default: true
-filterRecipes = false
+filterRecipes = true
 # Whether to remove the advancements keybind from the game
 # default: true
 removeAdvancementsKeybind = false
