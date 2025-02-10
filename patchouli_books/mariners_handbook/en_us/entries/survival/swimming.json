@@ -1,0 +1,16 @@
+{
+    "name": "Swimming",
+    "icon": "artifacts:flippers",
+    "category": "patchouli:survival",
+    "entry_color": "FF00FF",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        }
+    ]
+}

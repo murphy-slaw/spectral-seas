@@ -1,7 +1,9 @@
 {
     "name": "The Mariner's Handbook",
+    "subtitle": "Survival, but wetter.",
     "landing_text": "Hubba Hubba Zoot Zoot",
-    "version": 1,
+    "version": 0,
     "creative_tab": "minecraft:tools_and_utilities",
-    "use_resource_pack": false
+    "use_resource_pack": false,
+    "model": "patchouli:book_cyan"
 }
