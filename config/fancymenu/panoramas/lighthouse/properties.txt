@@ -3,7 +3,7 @@ type = panorama
 panorama-meta {
   name = lighthouse
   speed = 1.0
-  fov = 85.0
+  fov = 90
   angle = 25.0
   start_rotation = 0
 }
