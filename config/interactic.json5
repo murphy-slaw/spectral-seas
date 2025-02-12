@@ -5,7 +5,7 @@
 	// Whether players can throw items farther than normal by holding down the drop key
 	"itemThrowing": true,
 	// Whether the Item Filter should be loaded
-	"itemFilterEnabled": true,
+	"itemFilterEnabled": false,
 	// Whether items that have damage modifiers should also deal damage when thrown
 	"itemsActAsProjectiles": true,
 	// Whether players should be able to pick up items like normal

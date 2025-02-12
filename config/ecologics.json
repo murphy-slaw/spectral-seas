@@ -1,11 +1,11 @@
 {
   "beach": {
-    "coconutCrabSpawnChance": 0.2,
+    "coconutCrabSpawnChance": 0.05,
     "generateCoconutTrees": true,
     "generateSeashells": true
   },
   "desert": {
-    "spawnCamels": false,
+    "spawnCamels": true,
     "generatePricklyPears": true,
     "pricklyPearGrowthChance": 1.0,
     "generateDesertRuins": false

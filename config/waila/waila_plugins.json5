@@ -1,4 +1,15 @@
 {
+  waila_smallships: {
+    // Show Stat Icons
+    // Default value: [true]
+    show_icons: true,
+    // Show Stat Text
+    // Default value: [true]
+    show_text: true,
+    // Max Icons Per Line
+    // Default value: [15]
+    icon_length: 15
+  },
   waila: {
     // Show Blocks
     // Default value: [true]
