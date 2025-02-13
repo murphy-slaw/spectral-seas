@@ -7,9 +7,9 @@ PlayerEvents.tick(event => {
         if (!distanceObjective) {
             distanceObjective = event.server.scoreboard.addObjective(
                 'spawnDistance',
-                ObjectiveCriteria.DUMMY,
+                ObjectiveCriteria$DUMMY,
                 'spawnDistance',
-                ObjectiveCriteria.DUMMY.getDefaultRenderType()
+                ObjectiveCriteria$DUMMY.getDefaultRenderType()
             )
             // Display in the tab list
             scoreboard.setDisplayObjective(0, distanceObjective)

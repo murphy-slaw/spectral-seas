@@ -22,3 +22,4 @@ var MapItemSavedData = Java.loadClass(
 var ObjectiveCriteria = Java.loadClass(
     'net.minecraft.world.scores.criteria.ObjectiveCriteria'
 )
+var ObjectiveCriteria$DUMMY = ObjectiveCriteria.DUMMY
