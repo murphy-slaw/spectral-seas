@@ -1,29 +1,24 @@
 PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
-    let map = event.item
-    let mapNbt = map.getNbt()
-    console.log(mapNbt)
-    let mapNumber = mapNbt.getInt('map')
+    let map = event.item.getNbt()
+    let mapNumber = map.getString('map')
     let seenMaps = event.player.persistentData.getCompound('seenMaps')
-    let dimension = event.level.dimensionKey
-    if (!seenMaps.getBoolean(mapNumber)) {
-        let decorations = mapNbt.get('Decorations')
-        decorations.forEach(decoration => {
+    let display = map.display
+    let name = JSON.parse(display.Name)
+    name.text += ' Destination'
+
+    if (!(seenMaps && seenMaps.get(mapNumber))) {
+        map['Decorations'].forEach(decoration => {
+            let pos = Vec3i(decoration.x, 64, decoration.z)
             addAntiqueAtlasMarker(
                 event.level,
-                'antique_atlas:custom/scroll',
-                BlockPos(
-                    Math.floor(decoration.x),
-                    64,
-                    Math.floor(decoration.z)
-                ),
-                DyeColor.RED,
-                'moose'
+                'antique_atlas:custom/red_x_small',
+                pos,
+                name.color,
+                Component.of(name)
             )
-            console.log(decoration)
-            if (mapNbt.get('dimension') == dimension) {
-                console.log(dimension)
-            }
+            event.player.sendData('OpenMap', { x: pos.x, z: pos.z })
         })
-        seenMaps.putBoolean(mapNumber, true)
+        seenMaps[mapNumber] = true
+        event.player.persistentData.put('seenMaps', seenMaps)
     }
 })

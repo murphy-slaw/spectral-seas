@@ -18,9 +18,9 @@ PlayerEvents.tick(event => {
             event.player.username,
             distanceObjective
         )
-        let xdist = (spawn.x - event.player.x) ** 2
-        let zdist = (spawn.z - event.player.z) ** 2
-        let distance = Math.sqrt(xdist + zdist)
-        score.score = distance
+
+        score.score = Math.sqrt(
+            spawn.distSqr(Vec3i(event.player.x, event.player.y, event.player.z))
+        )
     }
 })
