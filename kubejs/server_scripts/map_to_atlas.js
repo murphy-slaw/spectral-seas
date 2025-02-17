@@ -1,6 +1,6 @@
 PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
     let map = event.item.getNbt()
-    let mapNumber = map.getString('map')
+    let mapNumber = map.get('map')
     let seenMaps = event.player.persistentData.getCompound('seenMaps')
     let display = map.display
     let name = JSON.parse(display.Name)
@@ -18,7 +18,7 @@ PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
             )
             event.player.sendData('OpenMap', { x: pos.x, z: pos.z })
         })
-        seenMaps[mapNumber] = true
+        seenMaps.putBoolean(mapNumber, true)
         event.player.persistentData.put('seenMaps', seenMaps)
     }
 })
