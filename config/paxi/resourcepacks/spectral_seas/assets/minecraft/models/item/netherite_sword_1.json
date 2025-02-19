@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_grimdark",
+    "textures": {
+        "layer0": "item/netherite_sword_1"
+    }
+}
