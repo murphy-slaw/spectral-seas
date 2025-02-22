@@ -1,0 +1,13 @@
+name = "Dukette's Armors"
+filename = "Dukette's Armor.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GvuiEF9I/versions/rYxKLZgE/Dukette%27s%20Armor.zip"
+hash-format = "sha512"
+hash = "f09f6b51b07a37d1d73b5105b27f81056af69dee95a9c5da34ec58da44d23e71efd18c1fb5a134908e038b056b99df9a198ccf72b8538cc3d0a7095ebc8c034d"
+
+[update]
+[update.modrinth]
+mod-id = "GvuiEF9I"
+version = "rYxKLZgE"

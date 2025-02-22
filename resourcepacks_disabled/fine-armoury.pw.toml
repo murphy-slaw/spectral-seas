@@ -1,0 +1,13 @@
+name = "Fine Armory"
+filename = "Fine Armoury v1.3 f8-34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H0Q0y5Fn/versions/ePn7b7QZ/Fine%20Armoury%20v1.3%20f8-34.zip"
+hash-format = "sha512"
+hash = "0eb526945a435c706eda40110552d83c81fabaf4f2de3dc9c7186c0b6f3c3e28818208bf66317ecbdddf54ac51f5ee3c01c389e2094fdc662ab34e5171a07db9"
+
+[update]
+[update.modrinth]
+mod-id = "H0Q0y5Fn"
+version = "ePn7b7QZ"

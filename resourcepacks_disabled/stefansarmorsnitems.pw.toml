@@ -1,0 +1,13 @@
+name = "Stefan's Armors'N'Items"
+filename = "Stefan'sArmors'N'Items1.34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoHN1bmW/versions/EwYhX6Ti/Stefan%27sArmors%27N%27Items1.34.zip"
+hash-format = "sha512"
+hash = "3b6908457603dc2c65c46a2f46d5a1f3791cba6ce58cd9dd981be4e1a0d98c2b7c2963212bd30e1f14545a9b3fc758b87827dad2d1a2de39401309cab10be2e2"
+
+[update]
+[update.modrinth]
+mod-id = "SoHN1bmW"
+version = "EwYhX6Ti"
