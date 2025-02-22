@@ -50,7 +50,7 @@ PlayerEvents.tick(event => {
             }
             addAntiqueAtlasMarker(
                 player.level,
-                `antique_atlas:custom/${shipType}`,
+                `antique_atlas:ship/${shipType}`,
                 pos,
                 color,
                 shipName
