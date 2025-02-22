@@ -7,7 +7,7 @@ schematicVersion = 5
 	[Ship.General]
 		#The damage that is delivered to entities on collision with a cruising ship. Set 0 to disable feature.
 		#Range: 0.0 ~ 100.0
-		shipGeneralCollisionDamage = 0
+		shipGeneralCollisionDamage = 7.5
 		#Should entities be pushed on collision with a cruising ship?
 		shipGeneralCollisionKnockBack = true
 		#The cool-down for sails when increasing or decreasing sail state.
@@ -27,19 +27,19 @@ schematicVersion = 5
 		#General speed modifiers for ships.
 		[Ship.General.Modifier]
 			#Entities in this list won't be able to mount a ship, for example: ["minecraft:creeper", "minecraft:sheep", ...]
-			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "alexmobs:cachalot_whale"]
+			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "alexmobs:cachalot_whale", "minecraft:guardian", "pesky_seagulls:seagull", "minecraft:turtle"]
 			#Amount of destruction a cannonball does when hit the ground.
 			#Range: 0.0 ~ 100.0
 			shipGeneralCannonDestruction = 1.0
 			#Maximum speed penalty for a filled container in percent.
 			#Range: -500.0 ~ 500.0
-			shipGeneralContainerModifier = 10.0
+			shipGeneralContainerModifier = 5.0
 			#Speed penalty per cannon in percent.
 			#Range: -500.0 ~ 500.0
 			shipGeneralCannonModifier = 2.5
 			#Maximum speed bonus and penalty depending on the ship biome type in percent.
 			#Range: 0.0 ~ 500.0
-			shipGeneralBiomeModifier = 0
+			shipGeneralBiomeModifier = 25.0
 			#Damage reduction per shield in percent.
 			#Range: -500.0 ~ 500.0
 			shipGeneralShieldDamageReduction = 3.0
