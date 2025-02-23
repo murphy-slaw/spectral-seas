@@ -17702,6 +17702,11 @@ hash = "55779930859fdb5ce10956909c965e436ed2a7712c2b4932e6eda395e6383658"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
+metafile = true
+
+[[files]]
 file = "mods/cea.pw.toml"
 hash = "d254eb93cc21d4f49437cf2ff1dc7c6ece3f206f2283723e6a0e1b86bf0fc97c"
 metafile = true
@@ -18031,6 +18036,11 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
+metafile = true
+
+[[files]]
+file = "mods/hookshot.pw.toml"
+hash = "c4e2fff7e145a3b85335fa4b65208cd26bfe022f87654876a74ce95488236586"
 metafile = true
 
 [[files]]
@@ -18475,6 +18485,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "8408c021cf9fc2fed7b6322cdd17d8654a9703855fd3e35487e516a4b30eb30c"
 metafile = true
 
 [[files]]

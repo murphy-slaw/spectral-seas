@@ -1,0 +1,22 @@
+{
+  "config.compass.dir_display_mode.list": "config.compass.display_mode.list.hand",
+  "config.compass.wp_display_mode.list": "config.compass.display_mode.list.hand",
+  "config.compass.scale.double": 3.0,
+  "config.compass.dir_scale.double": 0.4,
+  "config.compass.wp_scale.double": 1.0,
+  "config.compass.waypoints.page": {
+    "config.compass.waypoints.a.toggle": false,
+    "config.compass.waypoints.a.x": 0,
+    "config.compass.waypoints.a.z": 0,
+    "config.compass.waypoints.b.toggle": false,
+    "config.compass.waypoints.b.x": 0,
+    "config.compass.waypoints.b.z": 0,
+    "config.compass.waypoints.c.toggle": false,
+    "config.compass.waypoints.c.x": 0,
+    "config.compass.waypoints.c.z": 0,
+    "config.compass.waypoints.d.toggle": false,
+    "config.compass.waypoints.d.x": 0,
+    "config.compass.waypoints.d.z": 0
+  },
+  "config.compass.open_config.keybind": []
+}
