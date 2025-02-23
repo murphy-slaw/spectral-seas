@@ -60,9 +60,10 @@ PlayerEvents.tick(event => {
 })
 
 EntityEvents.death('minecraft:player', event => {
-    let shipID = event.player.persistentData.get('shipID')
+    let shipID = event.player.persistentData.getString('shipID')
     if (shipID) {
         console.info(`Ship ID: ${shipID}`)
+        let entities = event.level.getEntities()
         let ship = event.level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
@@ -75,7 +76,7 @@ EntityEvents.death('minecraft:player', event => {
             )
         } else {
             console.info(`Ship not found!`)
-            event.player.persistentData.delete('shipID')
+            event.player.persistentData.remove('shipID')
         }
     }
 })
