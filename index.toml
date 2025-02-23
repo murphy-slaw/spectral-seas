@@ -9,20 +9,16 @@ file = "LICENSE"
 hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
-file = "ModTranslations/chunksfadein.timestamp"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ISeeYouOverThere.properties"
 hash = "3d112d5cfe7f110ef6491dfa0b14e5aef07385b45ed3abdba536e4bbede1522c"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "fcb77087dd0a5eafa32bb606514a9900f47b68f9f652db6b52fc5abc68916628"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "083b646d3235adfff12462b43aa67797d7ba5d3504f76ddc66df9d881aa34229"
+hash = "df8ab79108e2fb95e63db30ee558c5de75c4e791522d23f910162d65b865089a"
 
 [[files]]
 file = "config/ModernUI/common.toml"
@@ -30,19 +26,15 @@ hash = "d5f6b3eea1b4f5453af72df4a0eeed9fb8df125c397e20a1493cfde68f7852cb"
 
 [[files]]
 file = "config/ModernUI/text.toml"
-hash = "c43da7526d9a3c0eabd448fe15463c4596481790888a24fd2e6694c6f6ae8b04"
+hash = "4be45ea35d83a3dfcbc82eb5f8389c36f68cd2fae9793c56a075f0a98cfc06d1"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
-hash = "aee3ddd00b61fe46d709ab28eadab1a09ccb6513bee3e6af206e85a389627c2e"
-
-[[files]]
-file = "config/ReactiveMusic.json5"
-hash = "b0fdc1822197bc51742faa4bce59a62357f5dc934a1ffde641148d44545d63ae"
+hash = "105f5d839c10fe6b03c2455a76e0fdc6e617b4f5046dae642fd4ee0502e579d5"
 
 [[files]]
 file = "config/Revelationary.json"
-hash = "b8e0a40c4a8eff307d72062c8736bb3c4fe7dd9613b58b35fcc42890c5ef0828"
+hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 
 [[files]]
 file = "config/Spectrum.json5"
@@ -197,24 +189,20 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
-file = "config/carpet/default_carpet.conf"
-hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
-
-[[files]]
 file = "config/chalk.properties"
 hash = "f509c1eae7a8e55699b2a96156d417064be80b1b406b6b56aff656fa1eb87888"
-
-[[files]]
-file = "config/chunksfadein.properties"
-hash = "4ca3958e56fe7cd75a6e30c13a54360e257e6dfc0fbc4fc2e826da3da8feed75"
 
 [[files]]
 file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "6e69bb650c3c0d5cf152bbdf71bdad9f124989fa9195384f02780c514c894888"
+
+[[files]]
 file = "config/citresewn.json"
-hash = "f802a4f95cb36dd9e3f9b95e671b72c87600b6b82f3ead9afecd27fb175d6b89"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
 [[files]]
 file = "config/clean_tooltips-client.toml"
@@ -229,44 +217,12 @@ file = "config/compass/compass.json"
 hash = "4f4f4d91003355010b3909328cc73707068ed174a2c5078328340403fc6cd6cf"
 
 [[files]]
-file = "config/compass/waypoints/fudgy_goodness.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/guards_.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/hybrid_4_0_test.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/hybrid_test.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/screns.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/survival_test_02_19_2024.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/survival_test_02_19_2025.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
-file = "config/compass/waypoints/survival_test_02_20_2025.json"
-hash = "b5273fbf3ba56ceee78476860ea011ac4e9c45dc1201e4889ae9e3547a5aa625"
-
-[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/cr-compass-ribbon.json"
-hash = "900a85c1b22e8b3d3f1d4578f7a2c68bce48fdc4dc5ab0576e42e91e2662f3fa"
+hash = "534c6a5099e0f294a3b3f03c337901bf5f391b11845d9b9b6f646ac523b885dc"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
@@ -275,10 +231,6 @@ hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
 [[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "11703f4e608ee5d33d6c48c4c59f9a1e048a0dff973b32202aa81a3dd3fed2d2"
-
-[[files]]
-file = "config/crowdin.txt"
-hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
@@ -326,7 +278,11 @@ hash = "de0f8ed0afea490c0f94227bd41d18e724f217f3aab680ba421d3bda46d9b9d6"
 
 [[files]]
 file = "config/emi.css"
-hash = "b8cfd8a24d678fdb7f2000c96278fa64b458923dc4618f1f8002959084821af0"
+hash = "5b00f49f44dd7da8f512343e019eedc6faf1f694988a6610c6debd9f1eacbd04"
+
+[[files]]
+file = "config/enchant_faker.json5"
+hash = "bc428c05008049252b4e3b0d49fe08367d230332ec67eb262c0c4c831bc1bb49"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -374,7 +330,7 @@ hash = "fb41974a4c5014e05390d88b4c1af988a9925bd108b0e26064f3e8974332a199"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "56d0ad5f0f74751475446bec3ee9294cffb87068dc895221c01aae577f6e653d"
+hash = "11b6b08ab8e04da4cb1349dca4ed401794bf0bd145010a485df52e499946b4b8"
 
 [[files]]
 file = "config/fancymenu/assets/325407__shadydave__on-the-seas-extended.ogg"
@@ -458,7 +414,7 @@ hash = "a286e27216c7e0bb32c1641832981120f0490b5b3086b434fe435da2aa6a5241"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "81e6afd3d96495ec67d97e5eb1ca29733b87b873e4704d620d76ffa715023c1f"
+hash = "e79762ebfe8177e296340c39de032865563e933601b3ef2d5a1ef5d726bd9213"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -523,10 +479,6 @@ hash = "8e314c0c31ebf1c802fa81fe2bb57c899384fbcf5695b5c158b3baf8b6660e8a"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
-file = "config/fog/config.json"
-hash = "e12da3f4d811978017b71f4dca80aded928ddf1e9dba6fcc6061d8576fc75d5c"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -617,10 +569,6 @@ file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
-file = "config/lilligant/content.toml"
-hash = "140dd4e24cf7a2649196956a7fba929d551f3c23ad63f390925afab67c197d87"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -633,32 +581,16 @@ file = "config/lunaslimes/visuals_audio.json"
 hash = "7e97b48f8d2dabdc27b75e3992f08326cef2aba1e895d37705f0caff2c058476"
 
 [[files]]
-file = "config/malilib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
-
-[[files]]
 file = "config/mermod-client.toml"
 hash = "4f88cdd32eafe986c7b50d8ad4e32cc03875c2eed0d32bfb64f213ce6f0ed20b"
 
 [[files]]
 file = "config/mermod-server.toml"
-hash = "8a65137656fbbdc5105d9cb3000e4d35ac5821bdae61bd5daacebaea79cbdabe"
+hash = "4e7f506d3e5ce62457b7e35501b204821e91e665efc80865e371fe3ab87e2a5c"
 
 [[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
-
-[[files]]
-file = "config/minihud.json"
-hash = "b4f1272ccfdd2666a1d17f2ccf32fb2a47cecce657433d40665d0cc859107d4b"
-
-[[files]]
-file = "config/minihud/survival_test_02_11_2025.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/survival_test_02_11_2025_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
 file = "config/mobplayeranimator/client.json5"
@@ -710,7 +642,7 @@ hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "55a4e0f90851b2edb830511ddba97bf06ffbd06a6b4c028988003eec0bbbb214"
+hash = "896b26b011d574f07bc04d0224711ada22435f27b9897ba5b93e795c804308fd"
 
 [[files]]
 file = "config/pal.properties"
@@ -1083,6 +1015,10 @@ file = "config/paxi/datapacks/spectral_seas/data/ecologics/loot_tables/entities/
 hash = "3cd2964085b6c5f78e3bcde1f0e80acadc58f732386351bee2448295980451fd"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/enchant_faker/tags/mob_effect/gives_aqua_affinity.json"
+hash = "37b69ef1b6a44ca0ea38208a1da1b57875063e374240f82721b73e3f083b4923"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/exposure/advancements/adventure/composite_confounded_compound.json"
 hash = "1d26414a87c80763161601d28b9b14e10342431a36dc70164fb25ce51b1b3d83"
 
@@ -1413,10 +1349,6 @@ hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
 hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/lilligant/tags/mob_effect/gives_aqua_affinity.json"
-hash = "9315205357259b8bd8cd209c36411fe1f80b01438be50448f17359e65eb90dfa"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
@@ -1824,7 +1756,7 @@ hash = "bef8a360078694b05e9eaaf1c9f547fbdadb37efbdeaa46841acd1b4845d7ed7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/crimson_fungi.json"
-hash = "c4b23b4adb149f9994db7823bc92e0eebbc9d9130f02fc6c32dc13d7d0051eb5"
+hash = "509b5e7bb55ab3021ed48c2e7f14e2e84b368a511f6af7c1dd0eebe26f47e28e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/glowstone.json"
@@ -1872,7 +1804,7 @@ hash = "a86d183c152f996ff0f2c400b89246d211e9d7ed6d74262b75674c2a4958b3d5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_magma.json"
-hash = "e6f7d88d52047a87ea9b1e38bdee439f13ad451b26314248c9aedab9ac0df7b5"
+hash = "4ee8ce7532abbf2dfa2ee9a1b74e8bf972c7eee204c210e9e5478c6fd60f46f5"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
@@ -1928,7 +1860,7 @@ hash = "4f248b9eecba88c438902010376b1b1e9c6c4db8002f1cd46c5d4584693b3226"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/warped_fungi.json"
-hash = "6a1866177db59eae01bf3493bda784e4863ca6750f66043c8ea9d9e64081c641"
+hash = "652aaa46ea8d09cb13b759694a8bed3436e3ac1600a2ee9a84fb15b9c6f9cd5e"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/weeping_vines.json"
@@ -1944,7 +1876,7 @@ hash = "9c4e15e6b962f4e83b4c552212836bad26a9362dd22081caad0409603989d14f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/ruined_portal_nether.json"
-hash = "323b7f6bfb15e3e69a75b7abc25e78f509d02b9bb5dfbcb38d6762f1a5fbc183"
+hash = "c9232382f43b92ffaf8006902a953b147ecc1783b7dfee772f05f7df8e91a873"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/structure/village_desert.json"
@@ -3672,7 +3604,11 @@ hash = "02d3eb6958b35f84c7c751a6b983157b678509b202bd2e5297140c69b9087f40"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/diving_set.json"
-hash = "baea39e55d9dec709d8a93457f83444310c5354eee32c509ad886040373a1ed0"
+hash = "08ed5483b3bc996028d4a6aa9e9b13e4334dc18e74d2f392dd20d2fecae20e02"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_totw_processors.json"
+hash = "fb30337d1bb109d4fce9e1f3397a5ba210e0fa010ff91838e94abe0614a5c7da"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_pillager_large_structure_placement.json"
@@ -6018,35 +5954,35 @@ hash = "4e048c8606c8d99371620aec0ada8456adbeb558090192048df0e206491435de"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/brigg.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/brigg.png"
 hash = "738b5dca0529b74d23e3329598f5439ef1a1e91232ff15ffc0571d80b9776557"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/brigg_accent.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/brigg_accent.png"
 hash = "a31fe900ec4cbe2196941a67a0cbeb71718cde9953a0bfce1a819e1608d5c6e4"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/cog.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/cog.png"
 hash = "b18131a5d20539133f7a1d18ab6f184a027e0df79b6b3623f0d93866e6d3d5ff"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/cog_accent.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/cog_accent.png"
 hash = "c7fe6b92dc15113c49f45a7432c13bd6b73089f1f70bb288b555f8d0395997c1"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/drakkar.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/drakkar.png"
 hash = "33907604bebec479e76c2c6acbc751678870864965fd2b258d1ef6c804fefac7"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/drakkar_accent.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/drakkar_accent.png"
 hash = "7e8a461c9d71bd576d7f6704f591450bb664537ea96993453e8ccdcd29cd3147"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/galley.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/galley.png"
 hash = "be303ae6b93360f7d587fe4a4f9c05966471df71befe9da3ae1fdf6d2bb063df"
 
 [[files]]
-file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/custom/galley_accent.png"
+file = "config/paxi/resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/galley_accent.png"
 hash = "c4de48444f4da0d56557e8ec35380a082620cec73ae1ffaade32b30a50399b4b"
 
 [[files]]
@@ -6088,6 +6024,34 @@ hash = "4cef0d9228ad31e1d0a196fa8a101ad2b5f47a94a44ec90c74ed1476e3a91366"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/emi/recipe/filters/filters.json"
 hash = "af1b64f00fcac3b60e68929550f86eb670369f86000f2ca7dd1c22828a351bb0"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_down_bottom.json"
+hash = "1043e58b888750784f2f9584b3dce2569bac9cf60b1ae77826865e67817f9d0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_down_middle.json"
+hash = "fefa5555281229b115ed831546fcd6c3d8eea0512a3b43bed0073c2dbf1a6852"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_down_top.json"
+hash = "ffcb4fdf24322a0b4208892567fe831e749673d95ab8dd35222ea4fddbda9858"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_up_bottom.json"
+hash = "df1bdcf7a53b3f954a7c1d254fabbc28fae000056657aef8f963ae0f6178bdcc"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_up_middle.json"
+hash = "7c78887eadf64b276fed9165fafa656da95d2e6029d9f362406455359f1dbbde"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_up_top.json"
+hash = "2ecdd904536d428b31bdd0035b81f848a36d4bb8418f747b0734068ae58e31b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/galosphere/models/block/pointed_dripstone.json"
+hash = "641634cf5e963f2a29498ef915a7f7b389e4938939084ccb78b522d98c198f3e"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/guardvillagers/textures/entity/guard/guard_0.png"
@@ -6464,6 +6428,178 @@ hash = "6e37c79b69a9b37110bf3f7a4a104b9e73e2b2f21e4b01b9fbbe272fcb7229c7"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/models/item/wooden_shovel_1.json"
 hash = "dae399fda949f2dc68c62b3894065123b25d23ca22ed3009114353c525313128"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/chainmail_layer_1.png"
+hash = "2b0fc7db990d64589217a00149fbaec9746f7152ff384743d5990f536066a03c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/chainmail_layer_2.png"
+hash = "3e9806ee4fb372e84b8e2ab36af32250f1da847176730c456be737cb788fc0a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/diamond_layer_1.png"
+hash = "19459f75bb34cea1b7e144e1464d2310793ff89ca22662baf2d0788a84040b4f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/diamond_layer_2.png"
+hash = "8b016d1017a6cfa9ccab4ababdc2a0ed82858badff7f445e247f9d4db3a93e98"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/gold_layer_1.png"
+hash = "d025b19b8e91d8001d0d2df264d33abcf0b17c2bc5b7a965423d6f5ef0164baf"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/gold_layer_2.png"
+hash = "d89abfa0dad83357b2d2c261551abd04891db3b1629769a8a9dd1badad728dcc"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/iron_layer_1.png"
+hash = "07fbcc03f8648565e42e70523fb1d3ad9bb0504b674bddcceff07414dfaf58bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/iron_layer_2.png"
+hash = "a2bb02e910be4ddc1f6cd3440817feda7675f78ea1d92db9e1a1ac6b3783e22a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/leather_layer_1.png"
+hash = "8da1c22eafa4e734c3c686eff43bd0c6bde95174f41346ead9ecb275bf30cfa1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/leather_layer_1_overlay.png"
+hash = "c4bdc50e00a268a4a4d58d28870548c2c939a23ee4320dc3c2a5fb682210a629"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/leather_layer_2.png"
+hash = "70a47ed8938fed8059a3df4eb6bdcbe1bfeadc93e76e4a56bd0a7fcb507caf96"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/leather_layer_2_overlay.png"
+hash = "13cfba34d3e0fa22592eb31ab7c822744afffc5cc7aa2ba7e7e5de2b492fbbd6"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/netherite_layer_1.png"
+hash = "e1252af702f043c59b6fa9dbe9eea8f2f7ea65ca9a7b0262c33be48e0a51170c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/netherite_layer_1_e.png"
+hash = "c02f47d8ad6b804e3dc0c7dfe723ccae5921f32269d00c623b50b8d8345fe692"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/netherite_layer_2.png"
+hash = "bb149fdcc6ae94635ca04e21bec5d9d04f6cfa02a90cbeb74510fc8112ba20d1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/netherite_layer_2_e.png"
+hash = "da6a859ddababd0c3eb64cfdbe2399914ddea4a3a5b325dacafc50c135447048"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette/turtle_layer_1.png"
+hash = "abaf30b3420172d12d0258b184f8d40e77983fbff34e42f695c58c4a26ef4efc"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_chainmail_boots.properties"
+hash = "ed108989666856c85e53543f5860446776f9ef5a0ace0cb63140190168df123f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_chainmail_chestplate.properties"
+hash = "e6491acc95e627722e0443c12a4ebeafaace8bb7268542916345adc55d5abee0"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_chainmail_helmet.properties"
+hash = "0182a0d3e769c0307dd2f8f4297f3876a05dfd4981a8fc2c3de8f9b971c5296c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_chainmail_leggings.properties"
+hash = "b8ed97ad2d8e1f351ebb036e94485468403fde9178eed19820c069cabee8606c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_diamond_boots.properties"
+hash = "6a7b21e1414fa2514fcd661ea71d43c34da3f84cb4946871647656d86c708a5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_diamond_chestplate.properties"
+hash = "187d6801714e8607df974c0339893143efd334f9b623b097fe6aa282b3a12487"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_diamond_helmet.properties"
+hash = "e577d09318c22fe5794cd7b23bca7048e70474b0e42275a57b384396335b0897"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_diamond_leggings.properties"
+hash = "e5af3b6c96c0a37ec576634a299bd8509d74e626ecbfe74e6d3fa764099f6ac7"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_gold_boots.properties"
+hash = "a4703347cdd1ae70769153e81f3e92822621a6fbac0188d6d8622a21b28e6f29"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_gold_chestplate.properties"
+hash = "99cc958459f53f0a1ed3cd45c09d63af946908abd8c2ea368d8d77bb27b6c79c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_gold_helmet.properties"
+hash = "bbc6563f998cd1d1389177cb0243f52fc0074a261224c4a73141b5da42ad81d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_gold_leggings.properties"
+hash = "8792523f994c3b1673d4d987b88028df86f3d0c942e336d7ed6154e4998f561d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_iron_boots.properties"
+hash = "417bb4a341a13edcb4503fdb816ceb58f1b89d65200e134c7ce1517dd704238d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_iron_chestplate.properties"
+hash = "e8940b2582b011027a6da800a24c9c827458ec7518d00f7eccfe40076d91dafd"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_iron_helmet.properties"
+hash = "5889470740305f6eda44dc44b49622d4ccb3dff01ecec7c55284cee4585d30a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_iron_leggings.properties"
+hash = "8d0eed2935057a0740b93d2cdbd8a2974081260e154051264b25e91c080e767a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_leather_boots.properties"
+hash = "52c016ba3c76bcdd4b5bd260267d8cc6c57aed3c803b1f326d0b1671be64105c"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_leather_chestplate.properties"
+hash = "a9a413417dca39d5915a4a826502ce30284a12aae52174375ec05cc07a3452f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_leather_helmet.properties"
+hash = "3d0bbbbaf657e825c6880650504eed8d395cdee14e84ecde3d893556fa9b13c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_leather_leggings.properties"
+hash = "ec8c9f766b23825c0b3f9145d743ecad991b2f93581f856e8da27a22e228e503"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_netherite.properties"
+hash = "76ccf7db27123b70020f592ee3358591270eeeeb9eec5179a6192125c5df969e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_netherite_boots.properties"
+hash = "f4a1be207cdb539ac13f7d41664645f3f1b483eb330176cecc211dd4ba81a0f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_netherite_chestplate.properties"
+hash = "67d1977641a7c0b181fe29aacdd169a471b42d32ee0369aca77f9166781c49da"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_netherite_helmet.properties"
+hash = "76ccf7db27123b70020f592ee3358591270eeeeb9eec5179a6192125c5df969e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_netherite_leggings.properties"
+hash = "53bb44fc2aab6c121849600dc079827c400834088faaec878edceb0bd5833480"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/dukette_turtle_helmet.properties"
+hash = "f0b1180cb556110dd918f402398e1a6075925c4197da0a1eec8691420f6a9903"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/armor/heavy_chainmail_boots.properties"
@@ -8216,6 +8352,250 @@ hash = "bc64ec531e5b22fb6e4d71fc09801f0a716f4ce9d677ba9a4d97a5ffaca19587"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/diamond_viking_sword.properties"
 hash = "71194935dc8dadddfd72fce01afc7ae9fdd78afc6ad228ebb5fe149a06ae729b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/chainmail_boots.png"
+hash = "a19b0208590750e4e94adf09c1fd44bec54712d4537c7b8b1c3d8cf2894f2177"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/chainmail_chestplate.png"
+hash = "59ea931d95b23cab2ce598bcf867191f15187f80baaaf4ac154cc4107a25a51f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/chainmail_helmet.png"
+hash = "31679e9d7e7c288f52f0efc17ec20a7b280e954189feb06d716680179de22334"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/chainmail_leggings.png"
+hash = "1aa21315a68f50b45e2e7de526ec45a525695d5bd4d40b47c34009bb9ed66522"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/diamond_boots.png"
+hash = "4e582e8294c91ff778a892774d6994299e2e5cb8697b73e57a96ddf502e8d5a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/diamond_chestplate.png"
+hash = "0bfce0d0e2721665e1d58c4ed41de9d915162453e2e83a07562392728c406039"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/diamond_helmet.png"
+hash = "57b7be10dd9ea7615dc3a132549cc43bd138fba2e42b3ca554a40123be1f238a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/diamond_leggings.png"
+hash = "d78315729418a7169bc356ce4e46252c28755fce247c2b43db978f3bcbee8e2e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/empty_armor_slot_boots.png"
+hash = "9c1964b7f9d497862d021c1ec806a301bd40e8d590f795fd87ebefdf0785b358"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/empty_armor_slot_chestplate.png"
+hash = "63316460ec2ed96ac5441c941c9964826231544028ae6d8ceaa6f95144d1f4d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/empty_armor_slot_helmet.png"
+hash = "3410fc5a17bc31a6236f9db6f5ea17c3118adeae45d5b2725486cbbdeba06675"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/empty_armor_slot_leggings.png"
+hash = "9224585844c886ad5ff1791687f70eb7886f879e31485e2fe3eefae607ef7f48"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/golden_boots.png"
+hash = "84af4b1af8f2bc7fad9ded87b20ba24098f9bc7ab0ffd0ad771f50841c03ca33"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/golden_chestplate.png"
+hash = "21425537ca6a582fbfa19488e14d391556310962c737abadf68ce8593d518385"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/golden_helmet.png"
+hash = "f2e2d30ee22c27bb75fbf28d073fc5483262651e43f9ea323b512e404d933826"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/golden_leggings.png"
+hash = "6e58175ab879ae0e34918a8e50237a311433dadb13c2cc8db3f30b658bdf26ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/iron_boots.png"
+hash = "5fef049ea9436e94f42c277da87fc5ce37ffa64e8413347af266a73a31520caa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/iron_chestplate.png"
+hash = "af2bb65a6ef8d1a5dc6b8dfef170052aea279bd3f20549be4487cb76010a649e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/iron_helmet.png"
+hash = "74f6c3b3cbd1e22c7af688bed9f63d121dfff5dee96a02e15bdd0dc6a7c83349"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/iron_leggings.png"
+hash = "ed077c2f7264604bd1e0a9b4e1dcee7cc71d2ce9f7d4751d845c8fdf51d2307b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_boots.png"
+hash = "06fcd2f89a355c92b8464acea36835de5b36a4ccc188aa46dcede931dd0adfa9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_boots_overlay.png"
+hash = "bca93fcd643533b83329dd7941f0947285b39de348ce4ca35fa27bf381eae88e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_chestplate.png"
+hash = "ac73a86e7caad1115cc3c4129ef998dfa8c552d3d817e4cf2b61a45d794a8917"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_chestplate_overlay.png"
+hash = "a6899981a26e198386a1741fb990531ad2a0f542047ffa0a5e0c1eecfc3b6fad"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_helmet.png"
+hash = "d964c4ab658a0e346d56f89fe92a64b866afa3a8d3e62717c58d6e99536a5974"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_helmet_overlay.png"
+hash = "5016a323018f09e292165ad5392d82dcbad5e79c2b6b93aff3322dffff80b309"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_leggings.png"
+hash = "33b386c30a4d82f30eff9286c5b70ed15ce4dcf8e79e9f27d2792a83ac6503eb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/leather_leggings_overlay.png"
+hash = "786b2430eb80e27edffd5842d71cbba14c48e3068f70c2426df4bcfac9e63106"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_boots.png"
+hash = "0240aa81150f200fb8786a4e3f4325a15ddc42314a705041c318b661afb8a85e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_boots_e.png"
+hash = "51fe244909f30a0138c16f512d6fc9de7ecb807997dfae5878ec964b7620b49d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_chestplate.png"
+hash = "ef9afffd7c33be7fad1f41bb7e0a0136fbb618e9fa6566b0d9e0052ab492a328"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_chestplate_e.png"
+hash = "d39ca370850bb0d521ff5f590f2b3438b40f20fe92d94385f483e70bee9e3853"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_helmet.png"
+hash = "b8f72240a2733d22aec1179bac97e94e0f9f53b4cd52b6e8ebdbd8035c9bb05e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_helmet_e.png"
+hash = "a8ceb6ae4c2f1e1083f2ebcfc9c7925a3da9b8d08680a9b289abf3ab8dcf81f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_leggings.png"
+hash = "044f451ab559e0df2dc866d76385867b5b47249ddea2d4f3fdc128a3bb5f9ff1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/netherite_leggings_e.png"
+hash = "d9b9c3cafcc82045d1aa0128676a2e168b69472a9d8b745405335978f92a3d92"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette/turtle_helmet.png"
+hash = "f52e5fcb78d73302b18f0247e2b6f69286d332bfb8c24580b91c2194679eb1eb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_chainmail_boots.properties"
+hash = "2cd7ecc1931cee3d15c27dfe6b760fdda4bb44f0894b06533ecf4ad2c11eb6fc"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_chainmail_chestplate.properties"
+hash = "62f6ca5d8ab5553eae95287561ef47cd545c91275d95a60454bb75f5f4cc9146"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_chainmail_helmet.properties"
+hash = "38580bc3589a47fa8fe97703c3245f2dfbe747dc98421eb6c2b357fb513a770a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_chainmail_leggings.properties"
+hash = "035f9200f0739e68ef32a53832abcbf4b075077ba348165488c87de89fa024a3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_diamond_boots.properties"
+hash = "5c67036501b5a3236f5382a803d93544df68a64154175752675250b24ad41d3b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_diamond_chestplate.properties"
+hash = "6307cd27a86c51818bda478bdf5df5ba522b16398b0cb1197db5ee05cb5b13e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_diamond_helmet.properties"
+hash = "66b81dcd3c0f559492ddc53532e8192504f21d19ea6f4a0c6159fb3563195a60"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_diamond_leggings.properties"
+hash = "ed7072ccad0c55728a883cb45ba0a217e7877b1aa25b836928479d5801bf59ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_golden_boots.properties"
+hash = "5e0496fb95dc9269a085de15ec9879b3bead2eeaa969639705a185a6f4e5e30d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_golden_chestplate.properties"
+hash = "91e94094a8ceacb5ed586a19e9f258834f860e714f153d783270027e5a64cd61"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_golden_helmet.properties"
+hash = "2f0eb454d72eaaa4d9241c43820c50a6eeece31aa7a4bc190c45ea8c9e1d651f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_golden_leggings.properties"
+hash = "9ebd6cb2517c2c48e1c7b1cf514447e6aee2674fff23c36de4df6c30ecd05645"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_iron_boots.properties"
+hash = "bec8c8ff080b0d4d171cf76be224e8ec5dfbf22334fe5a0778c1bc7b0f43966b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_iron_chestplate.properties"
+hash = "7dceeac31fded87fafd733e12bbbab629413c3145bfbfe8e8cce4ff7d32a6aae"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_iron_helmet.properties"
+hash = "51344ddcf125c23a3f400bf9df2fb301e6e2cdec1a8604f042d55ffe8b0c0071"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_iron_leggings.properties"
+hash = "519737e0f104a99800af20c8d383c50ee1ba29c321b155725d76c3325ea156fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_leather_boots.properties"
+hash = "cf1302d66994f4efa4e1ef357c190296b32cf4991b7d4c1ff9c188a330d13c5a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_leather_chestplate.properties"
+hash = "2d865def6318bb39b3155d2bfc62ef3564a859227db52e65783294fb72404c48"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_leather_helmet.properties"
+hash = "6affe45ef373a6dab96c9cc5917cb7fbe7b6ee2ce7034944080cac85c4cd3dd8"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_leather_leggings.properties"
+hash = "6e3194c14007a3c34b01d5854524854993f39f614b26f16f54aec34477612df4"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_netherite_boots.properties"
+hash = "da5e6843436fc1938f81d12267d35bc8cb6bce425a1c3a2a21f4793a6b607256"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_netherite_chestplate.properties"
+hash = "7b0b52bae4d4374d0c710ceda68651fd1d05e724f0a45d955e8845dbb59bb456"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_netherite_helmet.properties"
+hash = "d2d00bf18b28720275cf7d5b12b2bc1f835b0d339cdbc74a5327ab8c6d80af08"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/dukette_netherite_leggings.properties"
+hash = "eae82af2894e63d8c7fd74860594206e82ea8a0a700e18e093b34fb5eede1e45"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/item/golden_battleaxe.png"
@@ -11190,6 +11570,10 @@ file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/cit/sh
 hash = "f7208405df2944948f2e602d0bd0aad67975cf5ae5c2e8e6de7a4da1559ce9e2"
 
 [[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/optifine/emissive.properties"
+hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
+
+[[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
 
@@ -11376,6 +11760,154 @@ hash = "7200784465057ff3092eeabe164a1dbb9548eac713012579d33f9dd33bb15e77"
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/diamond_shovel_1.png"
 hash = "b44fc8a93db05c66075a6ad6245f26c7a440c78b97fc96cfe45dbad143c2e2b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/chainmail_boots.png"
+hash = "a19b0208590750e4e94adf09c1fd44bec54712d4537c7b8b1c3d8cf2894f2177"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/chainmail_chestplate.png"
+hash = "59ea931d95b23cab2ce598bcf867191f15187f80baaaf4ac154cc4107a25a51f"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/chainmail_helmet.png"
+hash = "31679e9d7e7c288f52f0efc17ec20a7b280e954189feb06d716680179de22334"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/chainmail_leggings.png"
+hash = "1aa21315a68f50b45e2e7de526ec45a525695d5bd4d40b47c34009bb9ed66522"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/diamond_boots.png"
+hash = "4e582e8294c91ff778a892774d6994299e2e5cb8697b73e57a96ddf502e8d5a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/diamond_chestplate.png"
+hash = "0bfce0d0e2721665e1d58c4ed41de9d915162453e2e83a07562392728c406039"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/diamond_helmet.png"
+hash = "57b7be10dd9ea7615dc3a132549cc43bd138fba2e42b3ca554a40123be1f238a"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/diamond_leggings.png"
+hash = "d78315729418a7169bc356ce4e46252c28755fce247c2b43db978f3bcbee8e2e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/empty_armor_slot_boots.png"
+hash = "9c1964b7f9d497862d021c1ec806a301bd40e8d590f795fd87ebefdf0785b358"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/empty_armor_slot_chestplate.png"
+hash = "63316460ec2ed96ac5441c941c9964826231544028ae6d8ceaa6f95144d1f4d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/empty_armor_slot_helmet.png"
+hash = "3410fc5a17bc31a6236f9db6f5ea17c3118adeae45d5b2725486cbbdeba06675"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/empty_armor_slot_leggings.png"
+hash = "9224585844c886ad5ff1791687f70eb7886f879e31485e2fe3eefae607ef7f48"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/golden_boots.png"
+hash = "84af4b1af8f2bc7fad9ded87b20ba24098f9bc7ab0ffd0ad771f50841c03ca33"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/golden_chestplate.png"
+hash = "21425537ca6a582fbfa19488e14d391556310962c737abadf68ce8593d518385"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/golden_helmet.png"
+hash = "f2e2d30ee22c27bb75fbf28d073fc5483262651e43f9ea323b512e404d933826"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/golden_leggings.png"
+hash = "6e58175ab879ae0e34918a8e50237a311433dadb13c2cc8db3f30b658bdf26ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/iron_boots.png"
+hash = "5fef049ea9436e94f42c277da87fc5ce37ffa64e8413347af266a73a31520caa"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/iron_chestplate.png"
+hash = "af2bb65a6ef8d1a5dc6b8dfef170052aea279bd3f20549be4487cb76010a649e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/iron_helmet.png"
+hash = "74f6c3b3cbd1e22c7af688bed9f63d121dfff5dee96a02e15bdd0dc6a7c83349"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/iron_leggings.png"
+hash = "ed077c2f7264604bd1e0a9b4e1dcee7cc71d2ce9f7d4751d845c8fdf51d2307b"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_boots.png"
+hash = "06fcd2f89a355c92b8464acea36835de5b36a4ccc188aa46dcede931dd0adfa9"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_boots_overlay.png"
+hash = "bca93fcd643533b83329dd7941f0947285b39de348ce4ca35fa27bf381eae88e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_chestplate.png"
+hash = "ac73a86e7caad1115cc3c4129ef998dfa8c552d3d817e4cf2b61a45d794a8917"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_chestplate_overlay.png"
+hash = "a6899981a26e198386a1741fb990531ad2a0f542047ffa0a5e0c1eecfc3b6fad"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_helmet.png"
+hash = "d964c4ab658a0e346d56f89fe92a64b866afa3a8d3e62717c58d6e99536a5974"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_helmet_overlay.png"
+hash = "5016a323018f09e292165ad5392d82dcbad5e79c2b6b93aff3322dffff80b309"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_leggings.png"
+hash = "33b386c30a4d82f30eff9286c5b70ed15ce4dcf8e79e9f27d2792a83ac6503eb"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/leather_leggings_overlay.png"
+hash = "786b2430eb80e27edffd5842d71cbba14c48e3068f70c2426df4bcfac9e63106"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_boots.png"
+hash = "0240aa81150f200fb8786a4e3f4325a15ddc42314a705041c318b661afb8a85e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_boots_e.png"
+hash = "51fe244909f30a0138c16f512d6fc9de7ecb807997dfae5878ec964b7620b49d"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_chestplate.png"
+hash = "ef9afffd7c33be7fad1f41bb7e0a0136fbb618e9fa6566b0d9e0052ab492a328"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_chestplate_e.png"
+hash = "d39ca370850bb0d521ff5f590f2b3438b40f20fe92d94385f483e70bee9e3853"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_helmet.png"
+hash = "b8f72240a2733d22aec1179bac97e94e0f9f53b4cd52b6e8ebdbd8035c9bb05e"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_helmet_e.png"
+hash = "a8ceb6ae4c2f1e1083f2ebcfc9c7925a3da9b8d08680a9b289abf3ab8dcf81f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_leggings.png"
+hash = "044f451ab559e0df2dc866d76385867b5b47249ddea2d4f3fdc128a3bb5f9ff1"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/netherite_leggings_e.png"
+hash = "d9b9c3cafcc82045d1aa0128676a2e168b69472a9d8b745405335978f92a3d92"
+
+[[files]]
+file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/dukette/turtle_helmet.png"
+hash = "f52e5fcb78d73302b18f0247e2b6f69286d332bfb8c24580b91c2194679eb1eb"
 
 [[files]]
 file = "config/paxi/resourcepacks/spectral_seas/assets/minecraft/textures/item/elytra.png"
@@ -11862,12 +12394,8 @@ file = "config/smallships-client.toml"
 hash = "6037814dc2860cd65ac1b7532212078ebb7b4fe21e4c64c026b38fda16c1c41a"
 
 [[files]]
-file = "config/smallships-common-1.toml.bak"
-hash = "146805e3a45098ac7075a2462e1112e22a9d656d4fd229513f007fa6965f79fa"
-
-[[files]]
 file = "config/smallships-common.toml"
-hash = "07f4bdcd34e92d81cb55e1267bd9267ac0a5b6c0b301ddb88596e2834cd63084"
+hash = "052b8875dff4313befed5f0fa1f8f56625c40ecf18acf1c851e2cecf34b5ccf4"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -11883,7 +12411,7 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "188e2c571ffc0587340db1e535bd7fd31f0196794f746cca6f9ce23e63325499"
+hash = "001e45df23122651b3645821df31cf3ada9de4fa1bf8a75c377d45169c124fb2"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
@@ -11891,11 +12419,11 @@ hash = "4720e08c6ae414a527451adb12e42f57bc899fa4ce38be8ebd6cfe3cf6b14a41"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4e9c5e09ae6340759634146db8a790daa932bb45f6b5d22e79ad3566b918f377"
+hash = "ffbc22b3d4e0efba8316a8602a7242e6548a891f5627c08be59b76e741b2bd4c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b2e5c7492d57314e6fff2fae2441c99104102c564ecd1dc56666d1e2dcb4c5e1"
+hash = "08feb2648b170ccc016c7ecab47498b3cd397b42c33ebb42f54d92d01ef87cc8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -11932,6 +12460,10 @@ hash = "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f"
 [[files]]
 file = "config/spark/tmp/spark-87ac7d5f447d-profile-data.jfr.tmp"
 hash = "8d1e8e9af8796803ea35b767bc83f5d146f6bd931fb11551d148b74d0d8ee0c1"
+
+[[files]]
+file = "config/spark/tmp/spark-b8ed075606fd-profile-data.jfr.tmp"
+hash = "84b963f644d4334cd771e65d897051cd427389a01f9da32d07aa9ad793aa481f"
 
 [[files]]
 file = "config/spark/tmp/spark-f612b34ebc86-libasyncProfiler.so.tmp"
@@ -12003,7 +12535,7 @@ hash = "9710ff28b8043f8a36becc49942b0be2b71f452a9ca1233488d7545eb9a2c0dd"
 
 [[files]]
 file = "config/tinkerers_smithing.toml"
-hash = "29afdb0e9d3114f1289dd49cf331e64aef2f1815b28283038b923dae9fb3795a"
+hash = "084513c39793862ca92343beec0b2d353f0ffc69ed7b190ced3d0908679c16cc"
 
 [[files]]
 file = "config/tridents_n_stuff/items_config.toml"
@@ -12020,10 +12552,6 @@ hash = "19505d71808eb985d868f0309660c6b47b14b48b17c4c4cde4ea1c71aeaa1a10"
 [[files]]
 file = "config/unseaworthy.json5"
 hash = "2587f2bd066b8332a311d5a8f8dc230442a8b764cd09e178807fec1904745800"
-
-[[files]]
-file = "config/vanillaconfig.json"
-hash = "3880dbe36276db4f27a73cca7c3b51f21170bac77cda5f278bd50a45c30a4053"
 
 [[files]]
 file = "config/visuality.json"
@@ -12122,20 +12650,40 @@ file = "crash-reports/crash-2025-02-12_21.45.26-client.txt"
 hash = "59a014edb4b6b4bff75029227f9d17cdec926ac0e107160a2576900f59021a59"
 
 [[files]]
+file = "crash-reports/crash-2025-02-21_11.57.20-client.txt"
+hash = "141d28a117ac0c8f2e6ef60ebcab3a07aa6a46c9cc6be26d17160c8a6c8d404c"
+
+[[files]]
+file = "crash-reports/crash-2025-02-21_12.00.19-client.txt"
+hash = "b03a47557f66a38daa8e58f26de3df1965f5804095d512cb28fe94c3a71eb200"
+
+[[files]]
+file = "crash-reports/crash-2025-02-22_02.33.57-client.txt"
+hash = "07486d88926822f94de4d1aff79b0b271a2eab080007041dc0829cd8775e0d1d"
+
+[[files]]
+file = "crash-reports/crash-2025-02-22_02.41.17-client.txt"
+hash = "a673a8107dcba7af64cb3ead68adfdc61c5bef5f9b80d40f060305316e95a6b4"
+
+[[files]]
+file = "crash-reports/crash-2025-02-22_11.38.49-server.txt"
+hash = "94eec455dfe0ccf5e064700d52550ffc652a2122c4ca9b56e0e84049fc7c573e"
+
+[[files]]
 file = "data/fabricDefaultResourcePacks.dat"
 hash = "29f167a9fa58ff89db8cd70d5afc75bdf00c9094d6e866308f0fa3e184f5832c"
 
 [[files]]
 file = "deaths.dat"
-hash = "691a1a67964eb2e7e7bacfd9641b9b9ae2c058e853e98e92c311dd797df072f4"
+hash = "9554220c5b161a1f2cf6ef9a0a5a19cc7681c3ad2ca8e1215538d0074ca4a57d"
 
 [[files]]
 file = "emi.json"
-hash = "d68d6177d02c1e4cc64502d3bfccb34db9ab3c93de84e09a717b4359fc6a23df"
+hash = "7911d98e507e7a2ee292f774e7afe6366b905cbacf7a39fb5a3ea40434e4a5fe"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "31d0209debd7d2eea4681a017069f3f1d25b7a68a8412e9182ab3efd31211590"
+hash = "f21a34cca2b90d5f5dfa2b75071a7a0a1f95e8f9045280007b9c1a7aa432888e"
 
 [[files]]
 file = "heracles_options.json"
@@ -12159,7 +12707,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/open_map.js"
-hash = "69f1834860aaffc9705627af4ce5bfc6fa5fe911fad0a67fcd9f7cbe56395c66"
+hash = "e198a13a39d34f7bcbfdf9c1764e05f111ac531490bbad107a58026862068319"
 
 [[files]]
 file = "kubejs/client_scripts/pull_globals.js"
@@ -12219,7 +12767,7 @@ hash = "10da7307ba60ea4e302eb368e98c2250f4d88fcfc0dfd4bf981bbbd3430a3f6d"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "b9d9f880dee1e41c9884f91a41bc6792a4e198d71aa36757c9489f91795598a1"
+hash = "2e974853b2969d4386f3be4788f8691d3c7bfd9e1522db097227f699ae577742"
 
 [[files]]
 file = "kubejs/server_scripts/ship_upgrades.js"
@@ -12231,7 +12779,7 @@ hash = "b70f1599b8bcf5c39f865294d307a073fdd5a0fb0c113e3abcc9043715543e1f"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "351d81337a19b2fcd772bcdfc884b0c80e9e32e6ec280420c7750bf6244ca540"
+hash = "462f84feea0ba3e5fc251806b74c63fddf8914feaa762f8a820b78b4ee25af04"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -12246,28 +12794,8 @@ file = "kubejs/server_scripts/unique_items.js"
 hash = "c74eb611e4b5f06fb988e4d2f6e0d5489022fd68b583a6031fdb64d8afb8210b"
 
 [[files]]
-file = "kubejs/server_scripts_disabled/map_faker.js"
-hash = "dbca8692efaff2128f5ca29f5f093120f156e5b621a0d1a16316df8a733cb41c"
-
-[[files]]
 file = "kubejs/server_scripts_disabled/portal.js"
 hash = "4090a47db0c746e98dd1abf9e316cb2a7b788ea52531ca01aef1371d4d90e13c"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/spawn_control/LICENSE.txt"
-hash = "b25b3404983147d4cc2451e0170fce8745204bc1c57371a806006589e4081f3b"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/spawn_control/README.md"
-hash = "bf52875164fc6473247393eaa6ea6975008a659781e8067652d776e85e61ee1d"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/spawn_control/mob_spawn_control.js"
-hash = "a157603c8affa17658230d53ec6b9c3cd173b134d316da20b0ab8236069c5f91"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/spawn_control/spawn-control-config.json"
-hash = "db235a6c9ffd9ec4a23a3fcb517bbb82dac89b31ad09b11bb815bcc7d1bee78e"
 
 [[files]]
 file = "kubejs/server_scripts_disabled/tags.js"
@@ -12275,7 +12803,7 @@ hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 
 [[files]]
 file = "kubejs/startup_scripts/amphibious.js"
-hash = "a8ff719f6d4b1d4fa92328d11f26256e9eab383b2e282256b8a483bf7fc29055"
+hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
 
 [[files]]
 file = "kubejs/startup_scripts/antique_atlas.js"
@@ -12675,71 +13203,123 @@ hash = "bda4e3bbe773453424a556e488775181466cb30e3dead1f4c7a44d826be1b468"
 
 [[files]]
 file = "logs/2025-02-20-1.log.gz"
-hash = "0ecb24eca6bb31f807860189050656cb411a623d9743f877628fe3b9042f0b0f"
-
-[[files]]
-file = "logs/2025-02-20-2.log.gz"
-hash = "3bc17afea7b8baa9e78a7439a0f5130fe66e6b75468f70c7dd58c7414ca704dd"
-
-[[files]]
-file = "logs/2025-02-20-3.log.gz"
-hash = "dd7f58d54dd0e44b160666a9f075c29bf13ddff5abbe7a739f804fa46822879f"
-
-[[files]]
-file = "logs/2025-02-20-4.log.gz"
-hash = "3d45681521f048b0739bc02318c3e48b987aa6f8374710be9bb8ba189f88d006"
-
-[[files]]
-file = "logs/2025-02-20-5.log.gz"
-hash = "8250626bfe909439d9e8db7f4e4b2cfb892fee0d9dbb5743fb5ec0277301ed83"
-
-[[files]]
-file = "logs/2025-02-20-6.log.gz"
-hash = "5e567ccef2f59d47c74dced80a19e3a7cad8f5dae37a97833d8a2ee033dbbd3b"
-
-[[files]]
-file = "logs/2025-02-20-7.log.gz"
 hash = "955c08f145fbcf298e1df3044be277a89b9e220a08ea82aacd65339f3033a61a"
 
 [[files]]
+file = "logs/2025-02-20-2.log.gz"
+hash = "5ddf6680e742dffd25a068680993155d016bb13962cc1e528529dc37e705be43"
+
+[[files]]
+file = "logs/2025-02-20-3.log.gz"
+hash = "05f31033b9dde3660e83ee54ea3146ee642846ef104df8fc4ab69dfc1a3c4d84"
+
+[[files]]
+file = "logs/2025-02-20-4.log.gz"
+hash = "2dcda6be319b22dccdc4246a26a227e0e076ef30de74ff8e857d642f05a3bd26"
+
+[[files]]
+file = "logs/2025-02-20-5.log.gz"
+hash = "ce87c455d6dffe6e6ccc96180eeaa011e7879502874d051a806c0c422aaee441"
+
+[[files]]
+file = "logs/2025-02-20-6.log.gz"
+hash = "36f37ce7e673a81dab734d34b83d64bfcfba87d095d1d9a244d8f69ba1f4434a"
+
+[[files]]
+file = "logs/2025-02-20-7.log.gz"
+hash = "f70a7d468f4a590abb6bcf8580432d52d78b9ead859d705578432517179525d4"
+
+[[files]]
+file = "logs/2025-02-21-1.log.gz"
+hash = "be839c43dd5d0e08a4ee9a7990b50cded650363f7ed3531659468d5c08225b82"
+
+[[files]]
+file = "logs/2025-02-21-2.log.gz"
+hash = "6f33f2b98fb6ae065d384d759a6a5a455c03be1ddadcbe6ea00322c908c2dcde"
+
+[[files]]
+file = "logs/2025-02-21-3.log.gz"
+hash = "2e1e46f1bed1799f091331285316b2f90fa100d9ec94d6ca446dc6ee163bebe0"
+
+[[files]]
+file = "logs/2025-02-21-4.log.gz"
+hash = "063971bce68bb083c69d00aa6183edaef37eafbb3ff26e969a31d648d310afd6"
+
+[[files]]
+file = "logs/2025-02-21-5.log.gz"
+hash = "714f8eb4a09d4761bf2c0b0bd55a4115b06a7083fa08915072c3e6ba37bf15ce"
+
+[[files]]
+file = "logs/2025-02-21-6.log.gz"
+hash = "f8d98059d41cc8afbf623ef824d8f76f3f3c73e208ad2eabf28b66de7e8fa294"
+
+[[files]]
+file = "logs/2025-02-22-1.log.gz"
+hash = "d47b9efb3b28d377ecb317d31d3694f2a368806f2678405fba21b60ad601284b"
+
+[[files]]
+file = "logs/2025-02-22-2.log.gz"
+hash = "f1d23ac1c2595172aa9a283394ab6101ce76fbe8ec1dbee2e6fc8268e9fef064"
+
+[[files]]
+file = "logs/2025-02-22-3.log.gz"
+hash = "64e595ecbbb063a4e21807f481cc0b29d9f757e421d59c12c2fdeb4a4d2733a5"
+
+[[files]]
+file = "logs/2025-02-22-4.log.gz"
+hash = "cbe8e541c2f1669d818a918f15079b11b13f664fd00316a004537cdc1e7c00cc"
+
+[[files]]
+file = "logs/2025-02-22-5.log.gz"
+hash = "b9997914d78307d55506bd246357170cc9f2f23330aec28685f8127bd8f91100"
+
+[[files]]
+file = "logs/2025-02-22-6.log.gz"
+hash = "5327a173184defb921ffe0499e610b4e9f2f760fe73932343cb9804e717668e2"
+
+[[files]]
+file = "logs/2025-02-22-7.log.gz"
+hash = "478c750e5258ec9e9d57542dfe201e42361213386d9a0c957c2bc417ebaa8d54"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "1fbeb93c7dd33ded9e09cc849fc9808ef7d61e33332874046192ba699a7f360c"
+hash = "5c8fe41434158b1693789368e579c80414ae8fb7ad32376741d25a7129b57d30"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "d6fdc7858cdf43db7feecf0669f64d0df17e8f3fd513daaafe1fdc0bb00001f6"
+hash = "e793039f3c10145ed46979d848dd6984f2d79fd8c71610359edb8fcca9230b6f"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "273c48581ac19f620309e8ed604fffb34464a2ad32ec1492358f2c08bf3026f8"
+hash = "ebad8601499fe0a0bf080a849bc80ef7d0ea0caef1e35f239758abfb9d4e5a7c"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "5a649ebb1b1032538c478d408240af7066f18be3b7eb0108b982c33af3831b95"
+hash = "7d3e9452874c18c34780e5fbdd7f7c9ce8efbbd652e24dd24f381ae332c4f258"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "a789f2989eacf507f7cd82688b70aa4a03037f36eef09bf5ed205cd65dd539ff"
+hash = "7b759b10f062bf053281a40aa6cfdd045184e815067be94f653992a38d2da052"
 
 [[files]]
 file = "logs/debug.log"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "276754c56f70c87678265a0b91857f52033eb1fc1ff0546fb8b2c70f05d51bb5"
 
 [[files]]
 file = "logs/kubejs/client.log"
-hash = "4fe789841715e2d9b4c9dbbc74836bd41d3529fed81712182657fd288535d60c"
+hash = "93ae54ea64e156bffb896354618885dd2898da97844e5143507f8431ca86e2c9"
 
 [[files]]
 file = "logs/kubejs/server.log"
-hash = "1e699589b4f9dc180daf3d73bc579bac5adc385a615c5b4106486fb30bd5335b"
+hash = "e29fc1344d86f7ee9b359a36760bc6b851eed28af2b9d385286967dec8f643f6"
 
 [[files]]
 file = "logs/kubejs/startup.log"
-hash = "a2d1d48f5266be878bd2dcb835bd4bf1020460d44b6a4d04726d5ef12b63e90d"
+hash = "76e0994ab0707957813c8e79369dbfe4c19e981c2f0d5a5be405200afa6aa4c7"
 
 [[files]]
 file = "logs/latest.log"
-hash = "a068268c4026e7fa4154338a24f90b72460b08c86a98e62f5f48d3a4d604f191"
+hash = "157eba6c8276b5c69b8ce67bb30c69e59120241f731a44e82ef1ec6cfd955ddc"
 
 [[files]]
 file = "modernfix/structureCacheV1/hopo_mobs_piglin_crossbow_4ee4f49c91.nbt"
@@ -13180,6 +13760,22 @@ hash = "98d550abc9b0d0540dfda7e28216916a942056b9438b0091e632d11ae4a32c32"
 [[files]]
 file = "modernfix/structureCacheV1/kaisyn_village_swamp_boat_town_centers_swamp_b_meeting_point_1_c659a6b80c.nbt"
 hash = "f3fc3439e46cb607a93fde97fa2f9fbdc102862c94ea4e41c6f9ee6833c304ca"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_houses_large_huts_wooded_badlands_large_hut_black_1_b223f45535.nbt"
+hash = "4a1993dc9855cb0273b7f8b91b5aec038a01d3bd61ee9a6763fc84b6985df07b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_houses_large_huts_wooded_badlands_large_hut_brown_1_aabb934f64.nbt"
+hash = "1eeb4462fef67d236dc53175f9100e4208dae818d5946a77973b06be7d686693"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_houses_small_huts_wooded_badlands_small_hut_blue_1_540e19a7e8.nbt"
+hash = "bbccad57a46357f6b3e7f55dcc240f7afa76e6945e1062ad810b941c0311c4d3"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_houses_small_huts_wooded_badlands_small_hut_red_1_a03c355931.nbt"
+hash = "fd5103c96867bf4fad38d9dea20963a92d0da5307421a83ae6b65cb2c87a8e6f"
 
 [[files]]
 file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_town_centers_wooded_badlands_meeting_point_1_005119925e.nbt"
@@ -14970,6 +15566,22 @@ file = "modernfix/structureCacheV1/nova_structures_mangrove_witch_hut_mangrove_w
 hash = "8913876e68cff4bdf87a48291d2fa980043435bcdd7a91189dd34fb06e1c7a8f"
 
 [[files]]
+file = "modernfix/structureCacheV1/nova_structures_nether_skeleton_tower_nether_skeleton_tower_2_basalt_bcdffcd244.nbt"
+hash = "b14fac2e612955361988ff843a001ce52f17321a70b7e187c36d7ccaf1961f90"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_nether_skeleton_tower_nether_skeleton_tower_2_crimson_e00884be6e.nbt"
+hash = "ed9b84031b0802b1faa73fe74b1f00381a148fca2e1c0ee53f32695b18bc135f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_nether_skeleton_tower_nether_skeleton_tower_2_soul_6ea3603156.nbt"
+hash = "a1d02f37edbdf3a0da784a6d173931e41b426159f4c5b916b0ef72f29611235d"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_nether_skeleton_tower_nether_skeleton_tower_2_warped_9963b5117d.nbt"
+hash = "e0059e59780612b254f03e3604434ada1daf71ff6bb0b02de3cb5e49f43c36fe"
+
+[[files]]
 file = "modernfix/structureCacheV1/nova_structures_piglin_camp_camp_mob_piglin_brute_6c2a5bca76.nbt"
 hash = "cfcdf29f9fc0d4bb586cce09f8ef94e30cc26a8de34c4f0a945cb2ea70d9cdf5"
 
@@ -15784,6 +16396,10 @@ hash = "a28c1c06d5651a41ee204c325db890ef9c00ea9c9b68174ec2b8487135a75eb3"
 [[files]]
 file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_9b_ca2746a340.nbt"
 hash = "919945893b5d764f27a7eec84e6c729e92bbb1ef952d1ae1bf1ba7464feff5be"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_witch_villa_backyard_witch_villa_backyard_1_a5a4588252.nbt"
+hash = "4fc9bf06c629b927e56a111afd0e546095918b6311a6fb7b8cbc22a8cdbde522"
 
 [[files]]
 file = "modernfix/structureCacheV1/philipsruins_ancient_dungeon_0_08244b824c.nbt"
@@ -17547,6 +18163,10 @@ hash = "fd59dabb912dc8d91903b9a9c4510d3d6d3cfe50fa97ee7c6146cf4830314ae1"
 metafile = true
 
 [[files]]
+file = "mods/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar.disabled"
+hash = "7949b9ef4b7ea263a1b1370f7b2193b1d0c7f17b61ba953b31a02b1caf8aa1c7"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "886832ee8ee9622623a9d36351f3f955a923d3e67a0b097532d1c8b8fc7848b1"
 metafile = true
@@ -17722,10 +18342,6 @@ hash = "5b056ee93d9b8c14785ba810ab3a1f3ce309f6fb79e2298cd85b2f70483f342a"
 metafile = true
 
 [[files]]
-file = "mods/chunksfadein-1.0.7-1.20.1.jar.disabled"
-hash = "6057f77a8455121ae1473e02c55429e586d8511af57934ffdc4f96eea1ef13a3"
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "678e99cfc3b17830ea7c0438e29d8b3669642e39579c969cec0a9338d9ac9c58"
 metafile = true
@@ -17766,11 +18382,6 @@ hash = "b99d5b9487ac9f7041af14efa6c1643800b36612f5ba50b14eebdf931c522ea7"
 metafile = true
 
 [[files]]
-file = "mods/compass-ribbon.pw.toml"
-hash = "dbf4d20b58fcf585e96378b4732704f13d465485ea4d5d85d5f11f97d92202e0"
-metafile = true
-
-[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
 metafile = true
@@ -17779,10 +18390,6 @@ metafile = true
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
-
-[[files]]
-file = "mods/cr-compass-ribbon-fabric-2.8.3+1.20.jar.disabled"
-hash = "18c168d0f0d1fa326e2a2cd881e79141c8db60e7f06570f87721f7dce1490c3e"
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
@@ -17812,15 +18419,6 @@ metafile = true
 [[files]]
 file = "mods/cyanide.pw.toml"
 hash = "0c4ea6eca3216ca828bfcf8b5a47a711566ac2854fa5d992495ad6d57ba62086"
-metafile = true
-
-[[files]]
-file = "mods/data-attributes-2.0.3+1.20.1-fabric.jar.disabled"
-hash = "e54e9d9b1175e22071f785e52d1d90af54449820b87cb4318fda77c418679987"
-
-[[files]]
-file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "04d56ce53d087e1c2a7d628d86efc87e4c3d96dc64a991eb825f920a5676320d"
 metafile = true
 
 [[files]]
@@ -18588,6 +19186,16 @@ hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
 metafile = true
 
 [[files]]
+file = "mods/tinkerers-smithing-kubejs-compat.pw.toml"
+hash = "5bd5f9ba6d6944018b970e3590092f3a2184aacd81cd131ca81ea8ad1f61b7e7"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
+metafile = true
+
+[[files]]
 file = "mods/tipsylib.pw.toml"
 hash = "1979f7c25dcef7e866c94569099c52e68f4ef7c3f8afa72e5ff1561875cf57eb"
 metafile = true
@@ -18682,7 +19290,7 @@ hash = "4a56d9613d432f1fdddee6a5615aa9dff43df602563224f5437a15905958f264"
 
 [[files]]
 file = "options.txt"
-hash = "1a55db1305137a9c0ebe4f0cd7d6a4c1c1f97b4e3609f352931cb862f0c4263f"
+hash = "576cf7db9367991bc6da7aa0cc15428abc095fc073ca38d92e64ea1e0e40ff3c"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/book.json"
@@ -18761,520 +19369,264 @@ file = "rhino.local.properties"
 hash = "907b77b6d5dedb073350f8fbc3f90bbcda0e783f83689c09624e46f230167fae"
 
 [[files]]
-file = "saves/Hybrid Test/DIM-1/data/cardinal_world_components.dat"
+file = "saves/DEATH TEST/DIM-1/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
 [[files]]
-file = "saves/Hybrid Test/DIM-1/data/raids.dat"
-hash = "9a79bd077eabbc603565667d516eb90deb03115871e6f3d311f67e252af18bdc"
+file = "saves/DEATH TEST/DIM-1/data/raids.dat"
+hash = "49bed42465fb9d7ad85fa41aea0f552b32b0f287e0143036a72df51d20393873"
 
 [[files]]
-file = "saves/Hybrid Test/DIM1/data/cardinal_world_components.dat"
+file = "saves/DEATH TEST/DIM1/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
 [[files]]
-file = "saves/Hybrid Test/DIM1/data/raids_end.dat"
-hash = "9a79bd077eabbc603565667d516eb90deb03115871e6f3d311f67e252af18bdc"
+file = "saves/DEATH TEST/DIM1/data/raids_end.dat"
+hash = "49bed42465fb9d7ad85fa41aea0f552b32b0f287e0143036a72df51d20393873"
 
 [[files]]
-file = "saves/Hybrid Test/advancements/f0726398-654d-473c-af31-b0a210214fd4.json"
-hash = "4b38d587319952d4db9dccdbfc795942a3dade00527d614649b236d77e07433e"
+file = "saves/DEATH TEST/advancements/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "113030be7d71527ac522edca91992b111d22f59b8f7a0b239e10f245a490ea3f"
 
 [[files]]
-file = "saves/Hybrid Test/data/cardinal_world_components.dat"
+file = "saves/DEATH TEST/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
 [[files]]
-file = "saves/Hybrid Test/data/fabricRegistry.dat"
-hash = "85f123d52017bc1ead0b35160e66bc719f5222d71ee3e25946c262fd8e105b4f"
+file = "saves/DEATH TEST/data/fabricRegistry.dat"
+hash = "8d3579fa04eb6134c65cd5e1ddc07f933c872c237c16818f5ff16f61bc3e6ae9"
 
 [[files]]
-file = "saves/Hybrid Test/data/mfix_strongholds.dat"
-hash = "804d41250d84e278aff2bda540d05337d20ae58d4211cbc1582243f8be07860c"
+file = "saves/DEATH TEST/data/mfix_strongholds.dat"
+hash = "4a7f633f01462fb91b194bb0e1d1e6524253a30e31742940040ed29c90aa61c3"
 
 [[files]]
-file = "saves/Hybrid Test/data/modonomicon_book_states.dat"
+file = "saves/DEATH TEST/data/modonomicon_book_states.dat"
 hash = "48b2aeadf909cfcaafe2ab6a5d63ad14076efd7a3f7550567b1b566cb48312ba"
 
 [[files]]
-file = "saves/Hybrid Test/data/raids.dat"
-hash = "9a79bd077eabbc603565667d516eb90deb03115871e6f3d311f67e252af18bdc"
+file = "saves/DEATH TEST/data/raids.dat"
+hash = "49bed42465fb9d7ad85fa41aea0f552b32b0f287e0143036a72df51d20393873"
 
 [[files]]
-file = "saves/Hybrid Test/data/random_sequences.dat"
-hash = "a771d187d63d839b456facc0bfa9fe29dd7a5de043c9888ee02fa7308c4cb888"
+file = "saves/DEATH TEST/data/random_sequences.dat"
+hash = "1720d4bfe1b2bb5069d19787d806211d46601daf4316174d9c805c8e239806cc"
 
 [[files]]
-file = "saves/Hybrid Test/data/scoreboard.dat"
-hash = "a146ea535797004fca758d668169883423c7105a00a27a9018f6cf748dca38da"
+file = "saves/DEATH TEST/data/scoreboard.dat"
+hash = "9ac727c789c860414ed163793369c23e873cb1a796aa6c914f8e93fb53dbf65c"
 
 [[files]]
-file = "saves/Hybrid Test/data/spectrum_pastel_network_manager.dat"
+file = "saves/DEATH TEST/data/spectrum_pastel_network_manager.dat"
 hash = "7008c3e3956fbffc67815dfd86e90e701ade697cbc328f199e84ed43827aa62e"
 
 [[files]]
-file = "saves/Hybrid Test/data/spellboundTouchedBlocks.dat"
-hash = "df661fc70bfdc108b80e98b7a5bfd6a9ef00e47db92481bc37ab7f1164f0c269"
+file = "saves/DEATH TEST/data/spellboundTouchedBlocks.dat"
+hash = "fd984118db305241062b6c294f67e259280f3c19b67bc0745cc21e265fae0f21"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.-1.-1.dat"
-hash = "be7b77ef2ef7ac1064ad2458e216ed920a7edeb34e6ab4e2402dd7abb4125d89"
+file = "saves/DEATH TEST/data/surveyor/c.-1.-1.dat"
+hash = "f65b69d95416c644dfafe5b13d8ca8e4257091bc8b78ce10647beb5914b00f8c"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.-1.-2.dat"
-hash = "087637c5d14f0c5998cfc0b226c559da68a5b43316452cd3755d6da1505ee35d"
+file = "saves/DEATH TEST/data/surveyor/c.-1.-2.dat"
+hash = "5df297ecb5ac6b7df6655797700ae93d26d514478a2b3bc27e952b670a9899e6"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.-1.0.dat"
-hash = "82fa111a3b03056d53d4c0bacf017555b9506d4dc2f8c7cb3d82a1cd62909d30"
+file = "saves/DEATH TEST/data/surveyor/c.-1.0.dat"
+hash = "5bf60c5bd510dac08a1062ebe01db8b01604958e91423f18480933a28d9948ad"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.-2.-1.dat"
-hash = "3a903f396ba688fb0e8d776fd185252a2c6d78584208391d50bda9a92a3dcfe1"
+file = "saves/DEATH TEST/data/surveyor/c.0.-1.dat"
+hash = "7705352d4f673bb7780f491b595862ae1a4fe0b4a95436da9ec7244faf29ee4a"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.-2.-2.dat"
-hash = "6e551da367174fd5a40390034b27d34a6e862127b1e67dec97191591510551cb"
+file = "saves/DEATH TEST/data/surveyor/c.0.-2.dat"
+hash = "f87e28e17fade6eff36accf04b0eff3249c9c2f0a58e6fe027e189acf01c4c56"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.0.-1.dat"
-hash = "aa2c79d1a560a397f237262114c28f24a8ee635238e81d64961ac22a79a2dc35"
+file = "saves/DEATH TEST/data/surveyor/c.0.0.dat"
+hash = "997e2ca76c27a57302fef1294a56c1a8bb33558292dc5f2287baa84169ff0ba2"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.0.-2.dat"
-hash = "831eee975fe5bfc100e1454c34e221e1fcf246b2a9fad12aff09fc5dfb3e953d"
+file = "saves/DEATH TEST/data/surveyor/landmarks.dat"
+hash = "90786f17fc8ef849f2b9e98b67ab4827836409cd0ccc8220ec5bba45e882dc27"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.1.0.dat"
-hash = "181a1345c8d73103cdf728ae0c72279af420e35cb127c6e3d7b6f5a20a5f539e"
+file = "saves/DEATH TEST/data/surveyor/s.-1.-1.dat"
+hash = "b9c3bc0420f91e186b307e21a7cea0b719f3bdefe83217fc871a726915b761a8"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.1.1.dat"
-hash = "7a42288acda03046b352c9b8f5bfa609108f25115ca4e628c4b3494e7b8b7370"
+file = "saves/DEATH TEST/data/surveyor/s.-1.-2.dat"
+hash = "c077a63888b881a05557ce9d43ed4863af57bd64826d0d1f72d4f0806723a364"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.2.0.dat"
-hash = "79b5c0f8480dae66a2426be16e38b1b6af53009d4dfd760259e819bf4c385cf4"
+file = "saves/DEATH TEST/data/surveyor/s.-1.0.dat"
+hash = "7526c01e001c816ced90f9841f3d1fe8acd1498bec347a03214197da5865f1e9"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.2.1.dat"
-hash = "eccc214167f9528559d766bc290aba9ade3b10e6c3a702663f4721b37dcfdb2f"
+file = "saves/DEATH TEST/data/surveyor/s.-2.0.dat"
+hash = "71ca1787109da7bc6fd8514f566791e1869aae3da0a71663d509cad57fea8415"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.3.0.dat"
-hash = "81cef07806cc3c01ac78f285132f3ecab453dc5232ad3e7769dc9ca0a6d9151d"
+file = "saves/DEATH TEST/data/surveyor/s.0.-1.dat"
+hash = "76f999a21ff0b687d22e7eab2f30fe1f9661945ee3dfe9933a35b169e3911060"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/c.3.1.dat"
-hash = "7ba16f2bb623cb84a4a82b3cf727aee4733c7f567de0bc60128b1693efe026c9"
+file = "saves/DEATH TEST/data/surveyor/s.0.-2.dat"
+hash = "4e02fb38c9ac39ec8cc84ce8e455bc098680a87cc509739b4dffd132f021abbd"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/s.-1.-1.dat"
-hash = "03f411aa7a8f248d22807f41fc39575f9a95e377290b28a133a1b38c2a9667c1"
+file = "saves/DEATH TEST/data/surveyor/s.0.0.dat"
+hash = "570a5584a92246a86662683f1e504a6ce38f6a67cb6c18130df856c08fe24df4"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/s.-1.-2.dat"
-hash = "d5458f7472de4fee12c66948a3d0a85670f8b72c3cbfae773bfb7c2d69893fbe"
+file = "saves/DEATH TEST/data/surveyor/s.1.0.dat"
+hash = "f895cc242a278ea10b72319b0c3fab186bc482e2124275d4135a7bcf2d9d253c"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/s.-1.0.dat"
-hash = "5808adf8e423331c3bef850ba6ed7d751684e198f9e8830a204620d25a945aa0"
+file = "saves/DEATH TEST/data/surveyor/structures.dat"
+hash = "51d9808e98335b3def58ca93050c9310ed0289cc204259d818eda1317263d52e"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/s.-2.-1.dat"
-hash = "3c05524bfbcd53abe56d29f6d21a585916ccd75e2eded71e5854b064272f6c88"
+file = "saves/DEATH TEST/data/yigd_data.dat"
+hash = "18c210ed634d273a2741637fd36e27bc6f9dc1913cfca0a2c574d1067b57dc1e"
 
 [[files]]
-file = "saves/Hybrid Test/data/surveyor/s.-2.-2.dat"
-hash = "d6eeb23065eecc97d5c3dc347bd425e1f270ba14628fb0da28f013980c527f98"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.0.-1.dat"
-hash = "31581b84b9ade3f68e313fe26fbd0eb0d9999766382bc0db21a3ac5d202c0070"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.0.0.dat"
-hash = "6fc1fe9a3dc0e35f97b867d613286cbe58e371bd3d97819d703c9b918940de44"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.1.0.dat"
-hash = "088baca2343cba96a299caf91dd95920935b2904b8f90a4c1f8affaa3740fe08"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.1.1.dat"
-hash = "d60c62a8c410470b93eb6c5ffd091758fddb94edcf3fb39089b543a259158d8f"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.1.2.dat"
-hash = "fda2e6b16348bc34dd84bc7ed719cc36729833ecadd4ada72c39718e07a8a8b6"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.2.0.dat"
-hash = "3abcb5f7afb42d453154622d2db4fbf2087ffd8def470f6ac6b3c55d30b6f27d"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.2.1.dat"
-hash = "a97f42ebdb087dc4f9702a09693064219ce5164b825aebc3c32ca6c9f66a4ed6"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.2.2.dat"
-hash = "c03b58e19b086f83fc21b8fe2dfdbe495c025f48ddfc308c013e868243836914"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.3.0.dat"
-hash = "b84909ca07e0268d6cdb4a5222605d336315d03ccf479121c094cbdccbd8cdfb"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.3.1.dat"
-hash = "d8cb078cde078ef8fa09f3d2ff601931e5f51a559cda86c590b1bb6a690fc565"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/s.3.2.dat"
-hash = "004924765a076f6002fdad7abb93005a613d657747f48b361e2c1a12a9c7a122"
-
-[[files]]
-file = "saves/Hybrid Test/data/surveyor/structures.dat"
-hash = "f2c29a392d4dfbf894759e64e69b27dad6e46b2029f1c3a9e5043538ea8bbc0d"
-
-[[files]]
-file = "saves/Hybrid Test/data/yigd_data.dat"
-hash = "3919f73c8ac210166043eec3b846a422867467d9a3971da4cf4fc6b141344394"
-
-[[files]]
-file = "saves/Hybrid Test/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat"
+file = "saves/DEATH TEST/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
 [[files]]
-file = "saves/Hybrid Test/dimensions/spectrum/deeper_down/data/mfix_strongholds.dat"
-hash = "e3b3fcc17a7bbf3663e94cfc2659ca8c081a700982568b4003e4145006361bee"
+file = "saves/DEATH TEST/dimensions/spectrum/deeper_down/data/mfix_strongholds.dat"
+hash = "7d7052504e28e6bf6cedc66ddfc90892387b10d35704aeeab76856e64e4874fc"
 
 [[files]]
-file = "saves/Hybrid Test/dimensions/spectrum/deeper_down/data/raids.dat"
-hash = "9a79bd077eabbc603565667d516eb90deb03115871e6f3d311f67e252af18bdc"
+file = "saves/DEATH TEST/dimensions/spectrum/deeper_down/data/raids.dat"
+hash = "49bed42465fb9d7ad85fa41aea0f552b32b0f287e0143036a72df51d20393873"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.-1.-1.mca"
-hash = "065e2bfc62a3553c884cfd996380dcae062c28f4a88247a2d4413ea29b3ee605"
+file = "saves/DEATH TEST/entities/r.-1.-1.mca"
+hash = "bd69f0bc784d41368980ce6d25e807b0a6e83dd13c134f11d478e32bc0464df1"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.-1.-2.mca"
-hash = "9e1bd05c80729f9328fdc3210f9b8c6e884bb0239c1157dd53c3273fb4d9e0ac"
+file = "saves/DEATH TEST/entities/r.-1.-2.mca"
+hash = "0ed86d74c70bc1b0052ab5a394bde4de049886f9b86460544fa521ab3b8355f9"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.-1.0.mca"
+file = "saves/DEATH TEST/entities/r.-1.0.mca"
+hash = "3eddefbcfcf9c533d8f28c40062adf0f491aba546553dc68b61c666920a0818b"
+
+[[files]]
+file = "saves/DEATH TEST/entities/r.0.-1.mca"
+hash = "1c37c3b757fc474eee8d4b2dd3e704763775e23053f95a5769fe28b9d983266b"
+
+[[files]]
+file = "saves/DEATH TEST/entities/r.0.-2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.-2.-1.mca"
-hash = "edce23a905934c7135a7a6fe4c43b6a21ab036500aa0551a35d3a9ea5d9e061f"
+file = "saves/DEATH TEST/entities/r.0.0.mca"
+hash = "ac9789a3a3e28d55e3fedae4baa4f1f1b32b7560b0c063d5edd52a707b86e2c3"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.-2.-2.mca"
-hash = "cd6cad7e111627257bb7a334fb916f84908bed86c8f88d160448fcd4946cc5b1"
+file = "saves/DEATH TEST/icon.png"
+hash = "b69cb0ed400eb24041f3b3a9bf525a19790561d07ec68fa758362b7275f39c51"
 
 [[files]]
-file = "saves/Hybrid Test/entities/r.0.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.0.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.1.0.mca"
-hash = "e1c020cbf9c0867355707377f1c768673c75cbe791f46b61358005f9660f5db6"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.1.1.mca"
-hash = "553312b1fc159bb7b6528e6d3ea094463d90b9d09dab2e4bb74e7b397b2192a5"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.2.0.mca"
-hash = "752216a833aef2d47801cf440435362abfcdd73647c83725846ea074daa6aff3"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.2.1.mca"
-hash = "855fdb3ea745a90d7573bed75d3645a9ca379e4a8272881a95fab620466141d1"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.3.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/entities/r.3.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/icon.png"
-hash = "8d4eddfae821b0de6cbe633ea1873dbe97cd890b045b083422fa12b7062ef444"
-
-[[files]]
-file = "saves/Hybrid Test/kubejs_persistent_data.nbt"
+file = "saves/DEATH TEST/kubejs_persistent_data.nbt"
 hash = "b45c66ea477304cdc365d7e2463f33b25e8ea44164b326766137ed6058d397e6"
 
 [[files]]
-file = "saves/Hybrid Test/level.dat"
-hash = "d0159b79002ac13c1cb30d6c17acaeeadb3885de040a560975e02776223040c5"
+file = "saves/DEATH TEST/level.dat"
+hash = "76fa1f1fab5d1bac2c1a21449b417680c9fa24f96922d8bcb8d18db0dec6707b"
 
 [[files]]
-file = "saves/Hybrid Test/level.dat_old"
-hash = "0cdb33a4109cce510c7ada3b39289c0b539d787ccae9b3736e1ac00f95d8c18d"
+file = "saves/DEATH TEST/level.dat_old"
+hash = "e1b1ecd3913b69cc6b12b6cc7fae59a32e008f13784abe26bc93a6e5c6b1d0be"
 
 [[files]]
-file = "saves/Hybrid Test/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat"
-hash = "08b5cc270d6b43f8185f2e700d22713c01e80bec33a0d2a251259141429ca019"
+file = "saves/DEATH TEST/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat"
+hash = "b069f0ed83552cd96abfbb0e98dd53ae193ab693250c47af1ce94f5c0e818dbf"
 
 [[files]]
-file = "saves/Hybrid Test/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat_old"
-hash = "13dfac522dce329388e66b1462515e965853e499bcf215c278a5a5f8ddadd7a6"
+file = "saves/DEATH TEST/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat_old"
+hash = "53e878e208a66f42de336fd21aa03a2604c9c465989979cbce1ae7f5df7dd8a0"
 
 [[files]]
-file = "saves/Hybrid Test/poi/r.-1.-1.mca"
-hash = "2d5e1ed5d50779755185826ed1a00da860591fa0eafaf0074424a628576fb342"
+file = "saves/DEATH TEST/poi/r.-1.-1.mca"
+hash = "ae81aa8a0d645ae492b9d8b72532e95308aee3c07907ddac71a1260f4adbafad"
 
 [[files]]
-file = "saves/Hybrid Test/poi/r.-2.0.mca"
-hash = "35ea8435064c5327bb483a9fa3432b8eb8de8ecd94c2b84342284aa07f3c7684"
+file = "saves/DEATH TEST/poi/r.-1.-2.mca"
+hash = "78e9161e5a55c1f6c6c42e7b64e104ded8a5a16e7b40ecce6c455b2a2d380443"
 
 [[files]]
-file = "saves/Hybrid Test/poi/r.1.0.mca"
-hash = "b70233108f5956fa23cd87d7d750188568cd10eeb9c66b21b051002d08546ff1"
-
-[[files]]
-file = "saves/Hybrid Test/poi/r.2.0.mca"
-hash = "992ed40cf74a8b86ba3f844a0c767430eba90cee577f0a30827e183bc703e1f4"
-
-[[files]]
-file = "saves/Hybrid Test/poi/r.2.1.mca"
-hash = "73bb92295d198880f26a2307bf1103576bbd952c4d95874a026cfa0b15c61cbc"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-1.-1.mca"
-hash = "5173bf1066e11d001d76fcc1a0f04d8c527c0db32185ea41b6846b7cd777a9e3"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-1.-2.mca"
-hash = "fa0ea951be0ebac3aefad11a79bffa2ea9b1ca8dc7f15932751228214f6753a1"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-1.-4.mca"
+file = "saves/DEATH TEST/poi/r.-1.0.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-1.0.mca"
-hash = "ccc527dc483e8d083027f5e5c62cdd8d75bf1dc7d6c77c59b109fe44a6107eb0"
+file = "saves/DEATH TEST/poi/r.0.-1.mca"
+hash = "96c0cd94dec12d25edf298fc8917d9bd4fffd8db9742351a43b2c3e1a4c4ca58"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-1.1.mca"
+file = "saves/DEATH TEST/poi/r.0.-2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-1.2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.-1.-1.mca"
+hash = "e2c7df148ce8624929f0f46b3697db801f2d63f77916ae6ce3f06a15d9720733"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.-1.mca"
-hash = "27679b90f160cf344c096f8a75c6123aa82421cbf54e6719423de73df28bd06a"
+file = "saves/DEATH TEST/region/r.-1.-2.mca"
+hash = "70d8d4f979a948bb1491777f89aedb8f89d76919606a30de8bb6022749c045a0"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.-2.mca"
-hash = "792f09e2c0305dee5ac2cf87187b8e821c1838e5c861cea7d2eb5a687a61e740"
+file = "saves/DEATH TEST/region/r.-1.0.mca"
+hash = "6ccc2f1fa00f782facdf63b12d9af8c3f1f95386996f8815c777333cb4b6ed5a"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.-3.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.-2.-1.mca"
+hash = "73907a42fe589c99863be93a5cc1ea01bc9c4b9b5d1b12ad685ddb000983c745"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.-2.-2.mca"
+hash = "9111b746d5389dbf1b91ef104601afb117d9231f7cd03d6b4fb44cbec1cef504"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.-2.0.mca"
+hash = "9b68292500d539a8eac73d65911d08c35d9d8abc2e1bca4028163e69e051d658"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-2.0.mca"
-hash = "dc4c4de5f75dba5bff735da0ddbe217f428af7c76b4b25b673bdc88f7beb33b5"
+file = "saves/DEATH TEST/region/r.0.-1.mca"
+hash = "46edf7fb1ad44f14c2c87532cea6f91ed6e66d25abf623e1b94ceffdcdbd6df6"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-3.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.0.-2.mca"
+hash = "8b3be67cd104775e24b9937035594ebfce5945bfdbb51a434834dcfdf95d5fc4"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-3.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.0.0.mca"
+hash = "a02dfe5f31d9a36e5ef7778bf3f6c2b501a429484933fb5e6104a9b50d01179c"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-3.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.1.-1.mca"
+hash = "33696ca4674f7b02abc76dd215b9418060990e824bcc479d4f1d08ce34ce2076"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-3.2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.1.-2.mca"
+hash = "2b16b4a1ed6c35ae9a918fe68892e0098dc8d13391a85605e41ba4761e323211"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-4.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "saves/DEATH TEST/region/r.1.0.mca"
+hash = "1db8fa1d52aed1bf37c528160a5004ca6014af9d3df18fbdecb18f955fd9b7cc"
 
 [[files]]
-file = "saves/Hybrid Test/region/r.-4.-3.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-4.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-4.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-4.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-4.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-4.2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.-5.2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.-1.mca"
-hash = "d20d88d9ed80ecb78a2075b813456dd3c664a9cbc2826c536d09c49ec1685b48"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.-2.mca"
-hash = "8350d64c247f8aeb7f065e7d32aebcb015b53dabdcacc82d6cc9dfb1881b245b"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.-3.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.0.mca"
-hash = "283a664e2652f4fbeb74b3bed977e21572dae0691587d39ed055d1c7032596f8"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.0.2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.-3.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.0.mca"
-hash = "0d3bc393faef4c7479334907b8cee758a453d4e13488ebb7c5aa28f120f1d7fa"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.1.mca"
-hash = "772bc3a189f3f4e1923938b09a63e2c2e4a57855c42980b9b521a32f2a69ab9e"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.1.2.mca"
-hash = "f7a4edfd62586663aecf3a4c4625a4c56c426194e1e11d240174acc7455cacdd"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.-3.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.-5.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.0.mca"
-hash = "83866c632076c664ffa9a3b4ec8b4aa4a9375c65725665c0a7598939006edea5"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.1.mca"
-hash = "624446ee66ea9ab3c9cc99373eaee96c4632914f02767cd2050fabcb0dfd95e5"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.2.2.mca"
-hash = "5a9bd4bb24ecaa71485e57282fec4046114d21f9bdca45eadc48a28d4fdc53d7"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.3.0.mca"
-hash = "30700bb0a4a89c4cd7f0f063eea35229a1cb523d40c03264f589ee0ab4077ef8"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.3.1.mca"
-hash = "17386ed031b8d4e5a069a7873e7d6c8fc8dac5208b41ef3ea948cae5598891ec"
-
-[[files]]
-file = "saves/Hybrid Test/region/r.3.2.mca"
-hash = "36de38b65f3525ebb73492d44e4ea61e1b3ca54f471c161aaeb60b773fc4b9dc"
-
-[[files]]
-file = "saves/Hybrid Test/session.lock"
+file = "saves/DEATH TEST/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
 [[files]]
-file = "saves/Hybrid Test/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
-hash = "3daa34c5efb99184d91c3d4868fc4bfae3ecd06cafd2f956590eb42a4e6495cf"
+file = "saves/DEATH TEST/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "fce775cb2d30557e80469969eeee9b19368d33837d7ce855b5efcf50901bab8f"
 
 [[files]]
 file = "saves/Panorama (1)/DIM-1/data/cardinal_world_components.dat"
@@ -21549,6 +21901,1186 @@ file = "saves/Panorama/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
 hash = "9e07e8be450fa9521d86c04e355d4e45f8376fa6529ff3d7b01ee9e74f5e692f"
 
 [[files]]
+file = "saves/Survival Test 02_22_2025/DIM-1/data/cardinal_world_components.dat"
+hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/DIM-1/data/raids.dat"
+hash = "4f83586f4ff0a6f6597e4bd29c7f4c8dda7eb52e8e96a1fd57d1456cf8f5849f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/DIM1/data/cardinal_world_components.dat"
+hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/DIM1/data/raids_end.dat"
+hash = "4f83586f4ff0a6f6597e4bd29c7f4c8dda7eb52e8e96a1fd57d1456cf8f5849f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/advancements/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "5d04a4dcba147d297c66a73c9ddaaf1430a5fa3326114809b80972a48a018191"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/cardinal_world_components.dat"
+hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/fabricRegistry.dat"
+hash = "8d3579fa04eb6134c65cd5e1ddc07f933c872c237c16818f5ff16f61bc3e6ae9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/idcounts.dat"
+hash = "f48d4e3230f3e521f285253c85eff6613764fe4cc721e61012e561dc4d2ae63c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/map_0.dat"
+hash = "e381e9505ba31b94e00a5563cacdaa19552c5cc90e1f6495cc44e22756bd2c7f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/map_1.dat"
+hash = "d0280c28d812d2e20e0ee4a54e9ee5b9c298d9be7f9318db4d8819fa29b6bfca"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/map_2.dat"
+hash = "9ce53e438674c84e6c449a481971f10bce80b0bebac48c189ca1f1289450c3a7"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/mfix_strongholds.dat"
+hash = "336746210541cd73fe4e38a6409cca4b54aa1961e7ed5a8e12e1fa0920e5eb39"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/modonomicon_book_states.dat"
+hash = "48b2aeadf909cfcaafe2ab6a5d63ad14076efd7a3f7550567b1b566cb48312ba"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/raids.dat"
+hash = "4f83586f4ff0a6f6597e4bd29c7f4c8dda7eb52e8e96a1fd57d1456cf8f5849f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/random_sequences.dat"
+hash = "c2c913744ee91b1c380f4f8a44690e2cb935c57a4cf107daa74e0cc27f31c76f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/scoreboard.dat"
+hash = "79d6ac7de369d3d32a60c4c95ef4467ea66f8b6f92f0b7b2c63908cfec3f5240"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/spectrum_pastel_network_manager.dat"
+hash = "7008c3e3956fbffc67815dfd86e90e701ade697cbc328f199e84ed43827aa62e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/spellboundTouchedBlocks.dat"
+hash = "39cffe613473be8e67deee004d289f8b913eb6ae56aa5a596ba79558817f943e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.-1.dat"
+hash = "4e319c04351ee492d77d47049a1ca0791835f2cca4cdc1b20fa481e9cbccc02d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.0.dat"
+hash = "e279e7457975e89207837ee16cd14a7c42be12aa437e1c3e322fbfb5b05ac89c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.1.dat"
+hash = "47c8f7db97aac52583a7dbde8c22df76044397c2fc945ce701fe6b6638e6d7f5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.2.dat"
+hash = "51b557c173883628c6e9f6ec9c81b68f31be2dd625a52fb5735185304252317b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.4.dat"
+hash = "b4ec911fb02b6204f1eb25af2191c1a3be81cbcb4816252da0fa815ad0548777"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-1.6.dat"
+hash = "3f1f27e2f800ec2c4f397834be6a3bbaa950a4f3678832f8c50ecc7d7a4c62f8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-2.-1.dat"
+hash = "f6e48a6463cc5655fe6e71301ae9519a6ce3b364015a50ca6bc1bc9602f4b382"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-2.0.dat"
+hash = "1bb9ad8f3ec7bf373337aafc1a3dcc0edfab4737222f3a47b42ae7e7ba26a539"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-2.1.dat"
+hash = "a78f3323ba95accf94fc8e263507f61ceaa670c811a3e602e7690a201f939c96"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-2.2.dat"
+hash = "9f24231bfb7bdcd142a2bc77146af6341abf97efcc92a2ec79b5145e94d6662c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-2.3.dat"
+hash = "7dc23f6643effc441ec4257ef5364a1171a4efa8e9b3586d6664af5eaa382560"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-3.-1.dat"
+hash = "48e49926a8d4087cba4c4d4afb00446b5e687c549fe96ef5855bbc06f3c58f02"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-3.0.dat"
+hash = "bf6c8bf8dea165fcffb296a7224f18b91da3db7f0f3408ac9588ad74c97ebc98"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-3.1.dat"
+hash = "a1967682db1b90609686d21be2e3f5e849e0f6309cf740a9e63e3fe68ac26356"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-3.2.dat"
+hash = "597c71dc10cee15e273909801f19a5d67eff86cd55d25282be1fbbecc3fb4de8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-3.3.dat"
+hash = "510165feae078f1df863ac682298ecddb0ddc3c71318559cea825842b6fbecac"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.1.dat"
+hash = "c080abd65dcd33f5dae76af66eff406e32988608c6c64d938bdb7fc6cd0a35a9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.2.dat"
+hash = "9009895a23b1110aea1aea74bc5b9ab070afd8e466dfb41560151cb5316793d5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.3.dat"
+hash = "55be323d98c849c4fe6d97a1b6b1ecd1b33355a03bd632a201f745c576e75144"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.4.dat"
+hash = "bd66cf8724f080878f6937a24e7c79d45685878eb8f29cc93379f42c4d713b56"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.5.dat"
+hash = "d49102c1cb8108c8d7affd7527f329637bc46912c6bb7307fa534cf443ba37b5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-4.6.dat"
+hash = "c5b00e5ea65b2a8a04b406ece74e1211f23b7746f265113076148ceec3741aa1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.-1.dat"
+hash = "b4f02b0d0da8b6d65f66e231059ff58d488a3863d9a05d0933336c1a89da6e16"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.2.dat"
+hash = "156bf089a2fb16950905f25cef6cd24956835bcc2f6e55285a51350dd26ee2d3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.3.dat"
+hash = "147e5a324a0e252f18f220468eb7e562832d09c9628a73ba03eecabaffc8393d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.4.dat"
+hash = "8189d68a18f79d2fb5f3f2a5994c171d986c695971210982bb6930e0fe741d55"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.5.dat"
+hash = "9895f7f48b4fe9c2e52453dc74b3b1bd168791cb4c781287ecbf8099371a7d7f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.6.dat"
+hash = "5a16dfa86b30dd22988e08231d6c3ff4b1ec4a5e591ee8232f07eeb9a7981e4a"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-5.7.dat"
+hash = "f6df00a1d37858696219fdb821d6aa344a5625e622b5eaadf15dbcd43e293655"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-6.3.dat"
+hash = "4142a3a2e46ee48876c281c9e871b4c4618a2e23cfbcbb99cb822dd396f78b3c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-6.4.dat"
+hash = "09937bf688e1a4c90b071b226404b1fb1cfd3f056614d4d1e30d55261ed61aeb"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-6.5.dat"
+hash = "4b61bce8d00d5a721f6f65bfa41f6c6ba171be462e7fd376bba0e5faaa9d8805"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-6.6.dat"
+hash = "3cc2296d0576ac8280e6ab363cc7ad609cc1a7670670895ea2029463be8a9e5a"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-6.7.dat"
+hash = "ba347410a2d3e625c0d3e9cb17cb16e3e234e805dd4a095d7957c4ea61d4c17c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-7.-1.dat"
+hash = "abc4166f8c3da31dd9b4b509be2b267383f769c57df99b9b7c366c4d4d203093"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-7.0.dat"
+hash = "a536248ba76e86dbca4e3d537978fdb7195b9028ee181d9699d0204655df96ee"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-7.5.dat"
+hash = "399d2e847304b6978608637979c762c546bb9a9b201c002f2e9cf3e29e245cde"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-7.6.dat"
+hash = "94a691a007023fef26999f7aab265ba112a529c8e8f99345366f8f3204ae8cd6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-7.7.dat"
+hash = "ced34333b8718f7d9f3a034b1dd99a83084133be5a6d08b2a323b992b0e9529f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-8.6.dat"
+hash = "a85cbf84cee643456df69e9a8105b6dfe7928f58a0b0dd398d349d87b379c118"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.-8.7.dat"
+hash = "975c8a4e7ad86ea041754c4d9c000dab0622c4579e4e263092fed64e4b62d39c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.0.-1.dat"
+hash = "61bd42135e08f93a07eaf118729562eff9d45b484ff0b2610cd7b96af47212ea"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.0.0.dat"
+hash = "fb9dd94f990efb6d70939b4d634ae2d6883bc56ad9ce4c9a125539b1ded13a91"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.0.1.dat"
+hash = "1a30af7593ff3031083f4dadf6ca8a4369eebf51789fd039132e42e1092f869a"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.0.3.dat"
+hash = "9dbc6f026225b0bee2ba77cb88a9be15842cc5a0bb3f8802b9cdb1708c97956c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.1.-1.dat"
+hash = "c9bc8b5593397802c1a1260e684e38f37090f1d058f0901d1295e36319747ce5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/c.1.0.dat"
+hash = "13887458e68e8a8d26cce11ea4778df645e3015a342e4e946e59352d7d2fbc17"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/landmarks.dat"
+hash = "a54fe06ab1bd9ac1a525cc6392b611b1a3d66b32148b70bc19a2d9e878205321"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-1.-1.dat"
+hash = "41f5ea48b22b6277b5ad0a2cde7685a07549a0e50a599039921f3c2ecd5d13b0"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-1.0.dat"
+hash = "c4c63ffb71fd7113da1efa8e14989a0d6602c100458cda665dd236d1a132c959"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-1.1.dat"
+hash = "d0f5f3616e91a0fc2da5225f812c69c8e69f737de140b46be7cbf3799a7cdbc3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-1.2.dat"
+hash = "b46819d20b36ddec5e35f8367c0e411913f80ad6f10897ab8c807be02e16eebd"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-1.6.dat"
+hash = "20addbd6e1329fd72fa68688261758ea70ecc6bd47dce3ab2b25c5a21dcaa6b5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-2.-1.dat"
+hash = "2c0acd5db7677cb0f1152035f45608d2639cafd1fe445d2c62563da00ea53d19"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-2.0.dat"
+hash = "f3434188b6142715094db8111ab741d92abbe27813a25dd64c01c3bd0347a1bd"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-2.1.dat"
+hash = "393ce2d68b0c2c55632b8e8375558fe8cc4970a950bc04c184e73c7b59acf7ad"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-2.2.dat"
+hash = "b1dcaad0b856928e73401658126a8e51fdb29c8de22d68efba45700121a01be1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-2.3.dat"
+hash = "92152452f66efac0e59e7d45483158abcfb848e34e80a19bf2548239c94a7198"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.-1.dat"
+hash = "21dd2aafadc0a675abd6e72974a8374eb8586a138f7d12156a2e78f00577c73c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.0.dat"
+hash = "e1e4bd56fe227f9932aad75704f5b489d8d0f497599bbef3fc500acc9e96b738"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.1.dat"
+hash = "e12145a0d064aa19dfb1c5e0c7b4c69b451c1d0b3fa182fbebd4b0f891e9dcc1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.2.dat"
+hash = "56f8d3d01f289da15e90772237c683e61a424bae78963e2d714b94359864a5b4"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.3.dat"
+hash = "45b0f20886c833b7e30f751730b6b3255cc89215dde9d155fe54642feca84e21"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-3.4.dat"
+hash = "14efb9cf0c0c77d3829bc06c93f6d92b06433f4569a836fce58687be297f8068"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.2.dat"
+hash = "443710362e787afd4777eef02562a81989f434900e823200186a36bb414ba556"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.3.dat"
+hash = "93988cb6d0625b0645945480f8228b4c748f7bf6e4116c58b59efa1d09b892eb"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.4.dat"
+hash = "4b0417193e4e07961e5b5755cddbce78deed7d53f71ad50bbf64346ebc2e884f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.5.dat"
+hash = "5ccafe1de5abbbc1ab9b7c2e6d7875661660569fe38dd6c87ceb2015a338180c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.6.dat"
+hash = "805a6a32a2d282ec57ae6280fb42d09298de2e1f087c9379144d984ee13fc61b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-4.7.dat"
+hash = "73ed3f8919bc6bef9723615b0d62d8ac6e2e49305f9e54c8c6f3752b1b56a173"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.0.dat"
+hash = "ff486a91f272d986534da33a93717abca46ccb517f393b3875b155efe14b719f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.2.dat"
+hash = "a906f7b9d95f92e9399cf955284d924847025129f80587d83090cdc5f96ba327"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.3.dat"
+hash = "dad7397538894fce6f629912aa06a1f455f81842558ca5a38b88a041efcc60a8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.4.dat"
+hash = "a381656e884d500bc3bd7f0d6858979b4c574d5fe7038b6d06ecc7a01fcbf73c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.5.dat"
+hash = "c9bb2f4c57fb2e98aeb1871082f85d800e858899ac6db2a9c54ee30dc0939fb8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.6.dat"
+hash = "794c34be9fe0b260d8482a19207190fd20f8263395d541c409b182fd0114e65b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-5.7.dat"
+hash = "cbd846b782c4bc6c411d6c3d0cf8bfe772b7bc874aad82a997cf093b07b67c09"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.-1.dat"
+hash = "e255dd88c5f812da9a98987ae5cd104b023d7cc3f062624bd27e5daa98f83d5c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.3.dat"
+hash = "56aa30e528edd65e349f62b67f83a783aed7a1e5f28a32d9e1a753b03587c0eb"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.4.dat"
+hash = "237354430a47423fd1a8fb180a3a8d7afc22b4b0f56177bbca8eb7f9c4ee20a4"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.5.dat"
+hash = "0c48baa6e84a1c1bc9e4cca137a2c147de2347b4aa8d4ea6ac889294f20fbb20"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.6.dat"
+hash = "98469b003c241e9d189262fe467101a8c9d021fbdf55db601e4c36f200c27572"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-6.7.dat"
+hash = "584bcb24259b2179852c079a0e318dd25132756db6f14322251efc53e9468aff"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-7.0.dat"
+hash = "793ae89ee71ab8f4b8a620e2b4d78faaed72d66830eb027002ffff99d981464d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-7.5.dat"
+hash = "4ba3d618d8d8b9a99acb78305f4c1207e7fde3f20a7cf0f5663c9140cbe210a4"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-7.6.dat"
+hash = "93c5122d6cbf6170644c76c8f2d381de9c1963438b3c917ef945c7ab23929836"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-7.7.dat"
+hash = "58fded4119f0d24082add560ae1ef3b21e3dc0f70ce9e195bce97860118a5978"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-8.6.dat"
+hash = "583cd3bf22844d4b9b2bfd29ad946a21614840965fec36580eae81a2e3ad4db6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.-8.7.dat"
+hash = "146ce414d99f4894db47fadc71e5a204146f296941f3b9715e570e6d37c6de8f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.0.-1.dat"
+hash = "77b133b20682996eead44c1cf755ddbbc911ba1b4c380507e941f072267b7439"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.0.0.dat"
+hash = "fe32a9fb1efdd9338d49bfac377beef82c0c7e6afcb94aa28338d6eff78058a3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.0.1.dat"
+hash = "19d921c88914e82ed7f9ef3b55be9d21095ff78e490c1bc4aae25de450b695d2"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.0.3.dat"
+hash = "7738a3ff3aea387da16791eaefc6cd68372002ec0781545c4b16ae6b5cecc4ca"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.0.6.dat"
+hash = "596cf721aca6395b159812ac85315695efc69fe2587d38bff50da0f4ac097fc8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.1.-1.dat"
+hash = "c9afddd5094ab7e6089ece02f0128df5a82b6042a383c2c52c85823f99109430"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/s.1.0.dat"
+hash = "ed3e568164f5f9f0caaea40a356035d65350be157df6b7468621c8cd6c286a77"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/surveyor/structures.dat"
+hash = "28e3c88893fcb64f391a99eaaf0ac8411555920c5adeb814c8cb4fc6fdebd8ce"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/data/yigd_data.dat"
+hash = "168a2d38458c61fefbfbdee1e8a313a8e31680f7ef8a8cdd07acf9ad07ae03ea"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat"
+hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/dimensions/spectrum/deeper_down/data/mfix_strongholds.dat"
+hash = "6a3c162758b89bb5d4b20d0a62992e7737a787a9924a452909894fa106739c81"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/dimensions/spectrum/deeper_down/data/raids.dat"
+hash = "4f83586f4ff0a6f6597e4bd29c7f4c8dda7eb52e8e96a1fd57d1456cf8f5849f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.-1.mca"
+hash = "20005d61bdce9057f0569dc5965f2240aa2f2d19f5ed79b7e50d3de54d75e93b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.0.mca"
+hash = "ce73f1f65fb622767ba2a5b09f683ef271a266354b353563b5445c9860bf63fe"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.1.mca"
+hash = "2ffee48edfeb50a942c23715b54b8a0987a4cd730a136700a70655da238c57df"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.2.mca"
+hash = "a2020ddaf14de9823aaaba380e85113cd2bb26c4ea269e9f4e674866921d0761"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-1.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-2.-1.mca"
+hash = "ffe82c29febfb81bac921e08fa89ca9ad45ffae25b838284accedf84aabcf390"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-2.0.mca"
+hash = "f8ef039e2ea028f5e1c9f943d7a2809f7f991d95f3a06105f7e701197dc5c039"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-2.1.mca"
+hash = "4eddef1b87273c3ad9d7f12aeb7119dfb4d0f8bf1e6caea18b1e7524bc19d14b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-2.2.mca"
+hash = "e76dbe85039cf712f293accfe170353848aa4784ce1f93f96d1c90c3c899b274"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-2.3.mca"
+hash = "93ad46397839bbd55912a56e2c27cd7a47e984038b1233830bd74b46ad5971da"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-3.-1.mca"
+hash = "c62f00c455c9ec655d72b2381c05f212d6d15f789695302ea2a92cdae569364b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-3.0.mca"
+hash = "bb618730b2781c18bed1841070d5c027f064ce503615aac3583674af2de83ec2"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-3.1.mca"
+hash = "77fbb3cdd23f91a9b529ebb169c441eefa5bfe5e2282863a0c29e2f2e503b75b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-3.2.mca"
+hash = "59298daaa8a0c2475ef03411e3d3f60de599b60b86a918d6e20156eaf2f8ee10"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-3.3.mca"
+hash = "bf65812f77180d3e68f34cb17a41e1346c3f19f3e4a817d5f2b9b43699c31931"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.2.mca"
+hash = "e8e1f789ada00e2e7a1302aeb9a60f47d7eb795408614e7a0d2b79dba2da1abc"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.3.mca"
+hash = "32b9f892340e55d8510d0ebdff949b3139349c6148634455241515751d793856"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.4.mca"
+hash = "e22740e3a1dca64f6eddf344e813f8322b392cbdb5a2817bd4c99ffdc5fa50c0"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.5.mca"
+hash = "a25b6f6105b8a14976c4ff953a39b314fe6aa938af30aadb9eb02217d1d4314e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-4.6.mca"
+hash = "dfe3505f75b9022dc08857b3f1fb829621815a3ebd1eb98651553383778ead7b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.-1.mca"
+hash = "605532fffd89c8e7dea7f339f9e5d7ab25483d4e446078055f185e6ee63d7991"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.2.mca"
+hash = "619fedab7a15dea6f478f79100a0ac4d20cc32af4f46552cd229a2cb05c072a6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.3.mca"
+hash = "47a4033962ef41557184238b6b581ab8ac19567ece5f1c05f5905dcc04687102"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.4.mca"
+hash = "dd0aafeaaff14f8f24f9c283b22cfc696a9bec38a708bb636901b031f45964d8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.5.mca"
+hash = "b1630884fc68b5e6e8076dfda82f11d2d8a3dd333dc5c7a57d102e18e06bf1d6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.6.mca"
+hash = "04db43b1ef3d735af343c160efdb2a7544b5ac1be5e5b08ca43489c46866c358"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-5.7.mca"
+hash = "9f275d9c0badd29e1db52a9cf21b9f78afb18828c6c8755c17d2264a2fca7b69"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-6.3.mca"
+hash = "991dde83dc59c20f45fc53b4a4007289a0ff04f9dfe415b5554dd5f72310f7f9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-6.4.mca"
+hash = "24136668fe8686ada41b991a8cc71a5203de5592dd51fb7a438817b2728ebeb2"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-6.5.mca"
+hash = "a6c359dea226dd37c118c8b525711b0f3ad5bdd1468c16e3905ef29b0807f013"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-6.6.mca"
+hash = "08ad6902565489fc304cfa9de65cc9a9c3e3b4c50c01aacf532cd8da877438d6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-6.7.mca"
+hash = "2b4bdfb76ab20e0cbe4d4085352198fdddc8642f3a179463894d0d3964240551"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-7.-1.mca"
+hash = "fb1729ec8fbf91cd5599523ff3264a250822d701d919455946f8a03a57ee3439"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-7.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-7.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-7.6.mca"
+hash = "e96990f87a589944f7dd84b66b212ac71160d2637480dc17c94d967fe506ff49"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-7.7.mca"
+hash = "073f1a64f44cb0779408016c6ae192c66d4dd82ee3f8dfd4f502b4b1f0e654c0"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-8.6.mca"
+hash = "22d8d4aeb54360de9f7bad6deee1ad74ffffc41c5f588bee9dd4bf568da866ea"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.-8.7.mca"
+hash = "192e70c26f8642611c85b4ce295b99305bd3269f1442a0853a12bcc544354d86"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.0.-1.mca"
+hash = "f0486364a3c0e8d9e42832b91fa3a560cd3f64e609e7b0c578df1a8d20323f09"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.0.0.mca"
+hash = "547186da9ce489b5baf94b7edd0fc6deb2a3e2c4a7fa57817b0b24670b898a46"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.0.1.mca"
+hash = "9210ed7eb903d870fa8442d8f5149a6d986c4d97f59c227e0c3c2a5ba64fbac3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.0.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.1.-1.mca"
+hash = "0d2bec6e299af4ba8bc58251b21e704ba45fdf844425564d0c1bcf1bb7c3d74d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/entities/r.1.0.mca"
+hash = "813d87378797accbdc59a06e93438d25beb408bf28f74250e8b221b2c65b0eff"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/icon.png"
+hash = "17e23cc0b8e5cc39677bb79dd94a1cebce1c9f94f9c0e0768cd182ae9811b366"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/kubejs_persistent_data.nbt"
+hash = "b45c66ea477304cdc365d7e2463f33b25e8ea44164b326766137ed6058d397e6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/level.dat"
+hash = "52b18e8dc2d7610a4b4a7fe1fcbe09efadb22b8e8613b3962393ecb599ae3e0d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/level.dat_old"
+hash = "9f6451eb982a7b5cbf057c76ae7efc82928ba6dc093332085a9dd6024d3ede71"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat"
+hash = "d087cc2c4a1782c5c1f72e74d27888f55ec807286e763fb11b8f48d8b9cdc1d1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat_old"
+hash = "31deff2c1ad6a5d2460df649d25a958d42bc29132842a6aecd79444cf973cec0"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-1.0.mca"
+hash = "9e288a2b8c763093794ab7ced170d39f57090490b5dd801e10f398a3d4966cd3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-1.1.mca"
+hash = "d62d01c6fe5e008e0ab19988a128b78aa4bc5faf341d5a33371603fb6d5d72e7"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-1.2.mca"
+hash = "3552ae307e713b0aa776cba5b8ee4ef5776acccef41aa2bc0a3325125ef364dc"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-1.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-2.0.mca"
+hash = "75fd14eff8cdf95fe1a06a00f30ff06a4d93d1797c0b8d2bdc23e6af50b4607b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-2.2.mca"
+hash = "c54d661e1670830e313b5f371a2c0ed19e15c5448fd25bb647a64580e006f367"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-2.3.mca"
+hash = "71b3b973effc9cda4d3bf9797e5d2c34fdd8f415bd9deb244e7462bbbbe41604"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.2.mca"
+hash = "56ebc09644370cc674fcae77be1aa0ecf4a96d740d36423e2dac1c30a7e0b42f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.3.mca"
+hash = "d23af5e2ec78e514b54d636dcbae6f7945cfe60a2a8a2a395e5cd1ae80f237c9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-3.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-4.2.mca"
+hash = "761713121c09b9586750c36bcbeecd369b313fab9ec1d25bd21fd064e6ff4bdf"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-4.3.mca"
+hash = "514c75eb92d23047d177754c12f38e8797997a0d38c5e74590c049667668427a"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-4.4.mca"
+hash = "84937ab5e035634d1ce4cf08c3784acbf8d6e717c3a352684e012635ce645cb1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-4.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-4.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.3.mca"
+hash = "33ff0a7d78fe9673c6f1646f33f34301f1083df4fd551db6541f89b5a7246a3b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.4.mca"
+hash = "fc2547801b9f694762225e1db32a32bd19f5f34fe7e950b4a816d28669a49c58"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.5.mca"
+hash = "06b1760c15999ac46ed0ed92dcacfb366672123ab4269efdd9451b62a060fecd"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.6.mca"
+hash = "a75bcd02840c79213ce173319a7e780d786cf9db956ddc10472a86e47f1b0087"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-5.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-6.4.mca"
+hash = "683ac82daaa1c070b6c526dba5ffdef9f114aa708468bc6aea75d4e2134c58f9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-6.5.mca"
+hash = "4f84153efb4a7e7bff6e699ea6d757ad5b1690992c9f0645bd71a50e7a177935"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-6.6.mca"
+hash = "6a417e39e8c5f2577c739dc8b1d250e280deb8e3c40f980f642cfd53eda679b1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-6.7.mca"
+hash = "57868b68a436b26c7a250df5062d45f7f90050dec452494c972a5a30d5b96830"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.6.mca"
+hash = "ea25c8b8df65262bcdc0c1e71532501d2c7d5eed159117049efc55bf7bf157e3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.7.mca"
+hash = "0905e00bff6e5abb731ea2af55bca8ff53cfce4230f8f8af9ba3a53eaf2f583e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-7.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-8.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-8.6.mca"
+hash = "b362ddee0e08766d84aa8e8e5a17d24e1b5dc2179e3b9606003d219e7d558211"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-8.7.mca"
+hash = "9eb28aebf9ca3d01198fe82e79de54474675aebe05b5a458aa473f678975abeb"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.-8.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.0.-1.mca"
+hash = "a9dd38e48acbd998efac5b693274d6c3911b863c74ed20e5fda198078571da79"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.0.0.mca"
+hash = "a0d19b9afb91a7fe7275278cdfb3b08ad65b20c04f5ad7cadef25db034732166"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.0.1.mca"
+hash = "d4ebea15c0f2fcc812c2e12e0bb2a6a0bee411ab44ef7cbe628cf9a1f01fc171"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.0.3.mca"
+hash = "cd688bccc99301dd55fb1865aaa1ca855c969a1961c8354d2fe19b38aa74dfd1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.-1.mca"
+hash = "20f98180f27849746af7b1e28b066f5e833e3619f0ac6a936a7012f20f3618c4"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.0.mca"
+hash = "fc2ca2bad3c458b19f611a2af1ec50ecfafdc0d9bd530070e234a33605056a52"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.1.mca"
+hash = "022b2dfca2f57dc648963d10d020fc278323b9b1bda3efecb00c86c877b2ed18"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.2.mca"
+hash = "2371a9a0a8be7088ffb0667ccf9b873cb4213bdeb469566528fa040a3dc40910"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.3.mca"
+hash = "8affb981c01a780a7b2e2f213e166f673ae1ceefac1e8577ae341d4e1ee274b8"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.4.mca"
+hash = "bb2d9a854f5fa444bacf318c01dea2bf1622a410c01190f68488cc3a1bde249b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.6.mca"
+hash = "719e7ce6125c4cc7844cb9293832bd7f73ebcc0caefa8c2b4e8c304d7a8dc5a9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-1.7.mca"
+hash = "1796177e09a369a7d240f5f89a17accdc3d474029b5d5730d34c8cde983fc3d7"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.-1.mca"
+hash = "afcdbb5b9ea8b3be454b8a51c795fe3197acb1adff092af9051169f25ac42630"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.0.mca"
+hash = "3488bb5712e680f83671ee974cfbc98ced425269ff808024405c7703399b0a2e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.1.mca"
+hash = "2ae6ebabf760d498370aa83d6d8c1b338db3cd5701d9aa07aee0e3a391ea055c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.2.mca"
+hash = "5a615751bd337bee28e1740c9302972006d4761741af6abace5c4acd24b1f6ae"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.3.mca"
+hash = "81f94fb2b82e5a3d97bbf7b5bb6f7b2c8c7f06d1155e84b7ae4ec03169374c35"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-2.4.mca"
+hash = "b8ad59c43c29a3e6351fbac7ac68a9f34f8a2cd81c07238dc4cfc0d7fde908a5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.-1.mca"
+hash = "8b042ef7bf8d204aa2be412acc3b7cd8a9a797b88765a540ae7b7138be127eb7"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.0.mca"
+hash = "0cb808458f134fcda0d917eab97485a2a33bd0e162c9e2c6dcb3ca335567eae1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.1.mca"
+hash = "1333cb11dffe5ff2738cf5b79645a4be2075ec7f2b4b471187fb24a29e842788"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.2.mca"
+hash = "1b5ae77b3f324e3437cf4aa432e1f42e5745553db1523a098116d5679e499651"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.3.mca"
+hash = "42e6915508c14b9862653cb34f8edb37a4e9deac198688690de547f8535dc22f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-3.4.mca"
+hash = "3c28c8b4acaf90ea8a65aaec1828d6c917b880e25084b091a5f4b924e6005f63"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.-2.mca"
+hash = "a9d6cf2930e3cbe9e9488e323b10c07aca348822e56f6d18f027938b54e53b4d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.1.mca"
+hash = "42aeda3ec99e41f1c785e0b43914fd125e76593e4814f89014cfc4957cc84714"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.2.mca"
+hash = "6fab4189749c7afc36091e2dd5c9c49b5541d64b38471cdfcd6171235e3cf869"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.3.mca"
+hash = "340071d2a1428a9623ee3c2ff5bb180a65afde93ba460a44bf56cd626e7420ec"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.4.mca"
+hash = "e70e83f28f1bf6c50abac445c6f6b25a932645cd1fe96f2fed5e870e2731c5ee"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.5.mca"
+hash = "a1562ffcf97e80fca4a8581bac5a63fd8df2a43605d3b154862408ffa97e4d74"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.6.mca"
+hash = "b61ed7fb50e28d449d628284073af675d61f12178483005350c39035bbe49487"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-4.7.mca"
+hash = "a32492987c0f99e735e16d60fd08e55d8187488e3bb03a06480a315c8ab57591"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.-1.mca"
+hash = "22dc1315d26ab479af47f37d9bc95c9f5bdb22e35ad89d49ed6d328c50cf3c8c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.0.mca"
+hash = "f0ed8f47ce7a6fcf178148a539883cb0d0396a7d299e8f47cd2c9e3b96747801"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.2.mca"
+hash = "d19f32b09fd180113f176d2a4378133f77b0da2bb2f39159666d4fbfa5c5a490"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.3.mca"
+hash = "dc290af4880babdca0fc2961aa5a72a7a83a4088dda911f1003501639455651e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.4.mca"
+hash = "933555f1ed40477c4a5654e90de647a59e1e466cd2f21b3237b7a0ca85394fcd"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.5.mca"
+hash = "0fb59f693416c9889db79f82f87360b10b179f74bf3547ba0964ef5076a81879"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.6.mca"
+hash = "463adc77d0ad0e10a1a649bcb66077fc2a218e49957ccb9361e5845a31d86091"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-5.7.mca"
+hash = "da17b6d149becca3588351956180ef56f6542fc8049cde4991bd62d590aa6cc3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.-1.mca"
+hash = "fb086b908205b3ffafd3e8bf8aa81c6fe4b74368c073dbd05e21ddd6c76be49b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.0.mca"
+hash = "c795ac78e5a2ab168e9c35e57a0bfc96a818dd16726d78d3f71f19cc88221bfc"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.2.mca"
+hash = "39ca623b972f11974b0fcdf83ee820c4c83fe365f18b117446e6d489f6c8fe7e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.3.mca"
+hash = "c8752035f47685f5f3d32b4c2181ba11a60f2c75d0b390414cf0544cc52f8057"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.4.mca"
+hash = "d847e7cd3f3c130225a47018af164d921cb93c4fe3ef1840265f049c654b06d3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.5.mca"
+hash = "83f2243a902c985e24d084c532626ae79544792dcb6a72a4e2dbc1a0c0ca1d79"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.6.mca"
+hash = "1793b2cdfad8e1f35976e1ee882632db83f55f924ef4380abaa98cdc9f03823a"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.7.mca"
+hash = "dc50fd3cc8db38be8901e558f0413ef50b425fb5f0fd8e816c1d9065babec700"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-6.8.mca"
+hash = "294b5bcd58ec5acbaae6b36cd2070697bc4c5622936d0ad466a05fd6b899f259"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.-1.mca"
+hash = "f2ce06dde3f2571d9d8391ab72743cdb60ce65363775094ceb434696493f7ca3"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.0.mca"
+hash = "1ea2cb5fc1f2e3dd150dfd952cde5740b7f57f60a99e7e91f7f75cd59d68b63c"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.3.mca"
+hash = "5dcf65b4047ad3b0afd17374e09733d8d151fc172e24b747ef43517cff9fe79b"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.4.mca"
+hash = "06e87e2339752d7ba90aa29566a656059dff636f770095c28e686f6df6ca8fb9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.5.mca"
+hash = "69f82f9e77a4b0bc1667fd48832296ee39de29217d7495ccbc80b2f0b4ca5fb6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.6.mca"
+hash = "5dc5fe40a68f16a060c819701e4251c4a9dd5b625f0f5a1d6a3479eb45f66c4e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.7.mca"
+hash = "87751a36460f05bff829759da209fa62cab8b8e5ed89a57ad2c0391a7cf18ec9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-7.8.mca"
+hash = "7d258b53d3066d4cc1f6f213e960e1e67c51052e0fca863e488334282c4b392f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-8.5.mca"
+hash = "b19ceababd4d53a672830355c03870de8a6a561e2ff7b1d3a74bd497cb7bf05f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-8.6.mca"
+hash = "0c3ed99e116ae482c25739ae3e0acde376c1d45d7b96f90dc55739c97a7d5483"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-8.7.mca"
+hash = "ccb6e77ca8e138629edf8aefddd3462612ea1bad21714b03ffa664954307d8e1"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.-8.8.mca"
+hash = "23ceb829b068e4d94c31b37d8e1ff0ee5c9e6c6caa284b3d653d5749b5868e34"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.-1.mca"
+hash = "49856c7236a0a21276ddfcc2859135f96c3bd90fc6a233604ad8dbbc23467430"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.0.mca"
+hash = "dd444aa46406ac903304b99cfa1de433234108590fb3fe67da6c7f89e7f81fe6"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.1.mca"
+hash = "4309cdbe4236c8737ceb9d612ed629596b7364e776a59fd094a6d4c60d117ba5"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.2.mca"
+hash = "7e381cf36606c81219df00c5bee766e414153c1ced6c7703e9fb990a801d41e2"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.3.mca"
+hash = "5de4881a3ccfaa06bd3176b9d9d938bb994cd2c8447cd2a4f2a9102164ad1ed9"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.4.mca"
+hash = "99fe0ad843ea683f58d908a452fe5787abdaa1f6c959518e36029edfc45c7637"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.6.mca"
+hash = "62a788f6ad39b620b231382f0953f1ba4a7a19dff1c7a9f655f65d9b8bfb483f"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.0.7.mca"
+hash = "a94aa5d9c9e1771f15637c6571622cb3c4b1467c671fef69ef3293e92557da04"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.1.-1.mca"
+hash = "8a19877ce248d37c121f7b71507465fdb82c38f7d93cc3ebfb11a9f87c197a9e"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.1.0.mca"
+hash = "c467e96751412382a463df9feaebe8dfb825ea4243caa0f77bf9b34b10435319"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/region/r.1.1.mca"
+hash = "cbe21ea3e451f6ba3a136c86ae8e58fe9d79ee3fd2e27c150c8def8cc79edc7d"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/Survival Test 02_22_2025/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "b77d4c1d83e05a91745d1c84d6b806b0c00b91e08351aeaf51825b01323f0725"
+
+[[files]]
 file = "screenshots/2025-02-06_18.51.03.png"
 hash = "1d668d23f830c794c89a7df8e22f25276fd74623686d25267b7124f93e0fb0e0"
 
@@ -21685,6 +23217,34 @@ file = "screenshots/2025-02-19_22.19.29.png"
 hash = "62cde16587364277b7f9e1bf327850d8aa4726a98520cf029028b2ed7fbecff9"
 
 [[files]]
+file = "screenshots/2025-02-22_12.40.54.png"
+hash = "aac67edadf58ec17a6ec86d5db8a13bf80b0600dc45431c35996fe325b816e06"
+
+[[files]]
+file = "screenshots/2025-02-22_22.01.42.png"
+hash = "eadc77096c9a22f940a031390e59a4630acb35fae0714cca6b54152e0e8fc156"
+
+[[files]]
+file = "screenshots/2025-02-22_22.08.36.png"
+hash = "d7974d5393b45add6bb40a7feb8a017e88112aec4afa40d39aee9de68e8b5d46"
+
+[[files]]
+file = "screenshots/2025-02-22_22.12.37.png"
+hash = "422e3db32e3dd59e2c8f88bbe62ff59dcb1b442399c09c305c6e127317ab6cc8"
+
+[[files]]
+file = "screenshots/2025-02-22_22.21.42.png"
+hash = "d6a676d4bad1b94475835607ea0f7de68dd1fc118ec219b3738fea75bbf7c51e"
+
+[[files]]
+file = "screenshots/2025-02-22_22.21.58.png"
+hash = "a70d552a330fe5afa82fa8296b8bf11aa686dac7184a1c341411fbcb041d1058"
+
+[[files]]
+file = "screenshots/2025-02-22_23.36.28.png"
+hash = "7a29e8e0736d3e6100c19d3c72a87b49ed790b374c78cb4d30b1058c911a7877"
+
+[[files]]
 file = "screenshots/panorama_2025-02-10_17.11.07/panorama_0.png"
 hash = "f4e9551650e3c595191d2badcb8ddc722a49e2602d577f8a81cd6e55ab8a5e32"
 
@@ -21806,7 +23366,7 @@ hash = "d5bcf63717c17e369d056537bebff71dc4738be97b72a69bb76eef65531cb442"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
-hash = "f87883da034a94c8c06875249f4e00f2bf3a20347cdf625c2d8476729fc06322"
+hash = "e80a6d629f568b4a3a9bd09d256f49b47e2e7677d2ab3ac3559a1da6304464b9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
@@ -21820,4 +23380,4 @@ metafile = true
 
 [[files]]
 file = "usercache.json"
-hash = "b6520498446591d0472656d222739e9255f30eceec003075b01f8d6b0548d87a"
+hash = "54b522397ff977b1b054d565d11f8f4944fe0ac46c3d18d370c2a78515c34ece"
