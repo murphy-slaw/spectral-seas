@@ -1,0 +1,10 @@
+{
+	// Tag To Enchantment Mappings
+	"tagConfig": [
+		{
+			"tag": "gives_aqua_affinity",
+			"enchantment": "minecraft:aqua_affinity",
+			"level": 0
+		}
+	]
+}
