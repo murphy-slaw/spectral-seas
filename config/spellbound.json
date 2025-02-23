@@ -359,6 +359,19 @@
     "LIGHT_MINIMUM": 8,
     "REPAIR_PERIOD": 40
   },
+  "pinata": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 3,
+    "SOFT_CAP": 3,
+    "HARD_CAP": 3,
+    "BASE_POWER": 6,
+    "POWER_PER_RANK": 9,
+    "POWER_RANGE": 50,
+    "KILLS_TO_PAYOUT": 20,
+    "PAYOUT_MULTIPLIER": 20
+  },
   "polygamous": {
     "ENABLED": false,
     "IS_TREASURE": false,
