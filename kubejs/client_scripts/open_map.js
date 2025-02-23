@@ -29,7 +29,7 @@ NetworkEvents.dataReceived('OpenMap', event => {
     screen.prepareToOpen()
     //This deselects the player button so that the screen doesn't snap back to the player immediately
     screen.clearTargetBookmarks(null)
-    while (zoomOut.invoke(screen, true, Integer.valueOf('64'))) {}
+    while (zoomOut.invoke(screen, true, Integer.valueOf('32'))) {}
     Client.setScreen(screen)
     //Move the center of the map to the position we got in the packet
     setTargetPosition.invoke(screen, ColumnPos(pos.x, pos.z))
