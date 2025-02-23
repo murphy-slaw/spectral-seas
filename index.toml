@@ -17974,6 +17974,11 @@ hash = "681e076cd78ffdd49634852bcca393d53eb255090e5b0a18e08e200da065addb"
 metafile = true
 
 [[files]]
+file = "mods/fog.pw.toml"
+hash = "0dd6a98258783de2b2d6dd2e825edb02008a4d9801e18ef57030e1bbfd314d49"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
