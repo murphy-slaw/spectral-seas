@@ -1,13 +1,13 @@
 name = "Ribbits"
-filename = "Ribbits-1.20.1-Fabric-3.0.2.jar"
+filename = "Ribbits-1.20.1-Fabric-3.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8YcE8y4T/versions/15vB3aE9/Ribbits-1.20.1-Fabric-3.0.2.jar"
+url = "https://cdn.modrinth.com/data/8YcE8y4T/versions/GvnepCrI/Ribbits-1.20.1-Fabric-3.0.4.jar"
 hash-format = "sha512"
-hash = "1bfc3dae6bc65c772c0b5c4661cd86070462decbef16ecfcd9e3c986d575831af5b39164936fd39b6b426a3eda86ffa9e461538ef9c9f1ca0b97ac47a8e1e64d"
+hash = "4a00b8a8377caa3530885a87a07cf739658562eebf7d69b700ed8aff75bf96f9bbec53fc6496ecf4ae62d9c9bc5f2008909cc3199dc1d49851a1891554265eb9"
 
 [update]
 [update.modrinth]
 mod-id = "8YcE8y4T"
-version = "15vB3aE9"
+version = "GvnepCrI"
