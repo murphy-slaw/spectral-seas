@@ -7,12 +7,12 @@ schematicVersion = 5
 	[Ship.General]
 		#The damage that is delivered to entities on collision with a cruising ship. Set 0 to disable feature.
 		#Range: 0.0 ~ 100.0
-		shipGeneralCollisionDamage = 7.5
+		shipGeneralCollisionDamage = 0.0
 		#Should entities be pushed on collision with a cruising ship?
 		shipGeneralCollisionKnockBack = true
 		#The cool-down for sails when increasing or decreasing sail state.
 		#Range: 0 ~ 1000
-		shipGeneralSailCooldown = 30
+		shipGeneralSailCooldown = 60
 		#Should the ship item be dropped when the ship is fully damaged?
 		shipGeneralDoItemDrop = true
 
