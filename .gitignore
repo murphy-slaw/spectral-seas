@@ -13,6 +13,7 @@ mods/*.jar.disabled
 # Per-instance stuff
 .fabric
 .mixin.out
+/config/chunky/tasks/
 /config/fabric
 /config/sound_physics_remastered/
 /config/spark/tmp/
