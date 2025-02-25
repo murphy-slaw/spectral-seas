@@ -6,5 +6,6 @@
   "waila:extra": true,
   "waila:fabric": true,
   "reputation:plugin": true,
-  "smallships:waila": true
+  "smallships:waila": true,
+  "balm:wthit": true
 }

@@ -202,8 +202,7 @@
       "gui": true
     },
     "pedestal": {
-      "enabled": true,
-      "crystal_enchanting": 3
+      "enabled": true
     },
     "ash": {
       "enabled": true,
@@ -250,6 +249,10 @@
       "enabled": true,
       "simple_mode": true
     },
+    "netherite_doors": {
+      "door": true,
+      "trapdoor": true
+    },
     "lapis_bricks": false,
     "deepslate_lamp": true,
     "end_stone_lamp": true,
@@ -261,8 +264,6 @@
     "sconce": true,
     "sconce_lever": true,
     "pancake": true,
-    "netherite_door": true,
-    "netherite_trapdoor": true,
     "checker_block": true,
     "raked_gravel": true,
     "feather_block": true,
@@ -357,6 +358,9 @@
     "red_merchant_spawn_multiplier": 1.0
   },
   "tweaks": {
+    "dragon_banner_pattern": {
+      "enabled": true
+    },
     "shulker_helmet": {
       "enabled": true
     },
@@ -401,8 +405,6 @@
     "placeable_books": {
       "written_books": true,
       "enabled": true,
-      "book_power": 1.0,
-      "enchanted_book_power": 1.334,
       "mixed_books": false
     },
     "zombie_horse": {

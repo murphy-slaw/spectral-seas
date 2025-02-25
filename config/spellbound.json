@@ -370,7 +370,8 @@
     "POWER_PER_RANK": 9,
     "POWER_RANGE": 50,
     "KILLS_TO_PAYOUT": 20,
-    "PAYOUT_MULTIPLIER": 20
+    "PAYOUT_MULTIPLIER": 20,
+    "ADVANCE_NOTICE": 3
   },
   "polygamous": {
     "ENABLED": false,
@@ -618,6 +619,22 @@
     "POWER_PER_RANK": 10,
     "POWER_RANGE": 50,
     "OFF_TYPE_MINING_SPEED_FACTOR": 0.5
+  },
+  "vengeful": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 3,
+    "SOFT_CAP": 3,
+    "HARD_CAP": 3,
+    "BASE_POWER": -10,
+    "POWER_PER_RANK": 20,
+    "POWER_RANGE": 50,
+    "DAMAGE_RATIO_PER_LEVEL": 0.33,
+    "INJURY_MINIMUM": 4.0,
+    "TIMEOUT": 100,
+    "FOLLOWUP_HIT_DELAY": 12,
+    "HIGHLIGHT_COLOR": 8914952
   },
   "warlike": {
     "ENABLED": true,

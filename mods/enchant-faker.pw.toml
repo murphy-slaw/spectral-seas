@@ -1,0 +1,13 @@
+name = "Enchant Faker"
+filename = "enchant_faker-1.0.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qm9cRdy/versions/Qfri4eFD/enchant_faker-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "aa4504be41b128bfceeda27f42c3dadfafd3d9e86b105f521014c3df46b3546ad8e831fa99792c885d189297cdcc84e140d2a4307edf3c88aed1c99a16d94fa1"
+
+[update]
+[update.modrinth]
+mod-id = "4qm9cRdy"
+version = "Qfri4eFD"

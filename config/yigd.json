@@ -133,23 +133,23 @@
     "enableProtectionApiCompat": true,
     "standardDropRuleInClaim": "PUT_IN_GRAVE",
     "standardDropRuleInOwnClaim": "PUT_IN_GRAVE",
-    "enableAccessoriesCompat": true,
+    "enableAccessoriesCompat": false,
     "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
-    "enableInventorioCompat": true,
+    "enableInventorioCompat": false,
     "defaultInventorioDropRule": "PUT_IN_GRAVE",
-    "enableLevelzCompat": true,
+    "enableLevelzCompat": false,
     "defaultLevelzDropRule": "PUT_IN_GRAVE",
-    "enableNumismaticOverhaulCompat": true,
+    "enableNumismaticOverhaulCompat": false,
     "defaultNumismaticDropRule": "PUT_IN_GRAVE",
-    "enableOriginsInventoryCompat": true,
+    "enableOriginsInventoryCompat": false,
     "defaultOriginsDropRule": "PUT_IN_GRAVE",
-    "enableTravelersBackpackCompat": true,
+    "enableTravelersBackpackCompat": false,
     "defaultTravelersBackpackDropRule": "PUT_IN_GRAVE",
     "enableTrinketsCompat": true,
     "defaultTrinketsDropRule": "PUT_IN_GRAVE",
-    "enableBeansBackpacksCompat": true,
+    "enableBeansBackpacksCompat": false,
     "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE",
-    "enableRespawnObelisksCompat": true
+    "enableRespawnObelisksCompat": false
   },
   "commandConfig": {
     "mainCommand": "yigd",
@@ -174,7 +174,7 @@
   },
   "extraFeatures": {
     "soulboundEnchant": {
-      "enabled": true,
+      "enabled": false,
       "isTreasure": true,
       "isAvailableForEnchantedBookOffer": true,
       "isAvailableForRandomSelection": false
