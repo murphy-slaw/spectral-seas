@@ -1,4 +1,8 @@
 {
+	"DisplayRule": "COMPASS_HELD",
+	"ShowDirections": true,
+	"ShowMarkers": true,
+	"DrawBackground": true,
 	"CompassArc": 180,
 	"CompassWidth": 90,
 	"CompassOpacity": 80,

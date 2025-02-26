@@ -73,6 +73,61 @@ mode = "fancy"
 				trident = true
 				wandering_trader = true
 				trader_llama = true
+				potion = true
+				elder_guardian = true
+				egg = true
+				area_effect_cloud = true
+				blaze = true
+				block_display = true
+				boat = true
+				camel = true
+				cave_spider = true
+				chest_boat = true
+				command_block_minecart = true
+				dragon_fireball = true
+				end_crystal = true
+				ender_dragon = true
+				ender_pearl = true
+				endermite = true
+				evoker = true
+				evoker_fangs = true
+				experience_bottle = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+				furnace_minecart = true
+				ghast = true
+				giant = true
+				goat = true
+				hoglin = true
+				hopper_minecart = true
+				husk = true
+				illusioner = true
+				interaction = true
+				item_display = true
+				fireball = true
+				leash_knot = true
+				lightning_bolt = true
+				llama = true
+				llama_spit = true
+				magma_cube = true
+				marker = true
+				minecart = true
+				mooshroom = true
+				mule = true
+				ocelot = true
+				phantom = true
+				piglin = true
+				piglin_brute = true
+				polar_bear = true
+				ravager = true
+				shulker = true
+				shulker_bullet = true
+				silverfish = true
+				skeleton_horse = true
+				small_fireball = true
+				sniffer = true
+				snow_golem = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -98,6 +153,9 @@ mode = "fancy"
 				tortoise = true
 				hippo = true
 				alligator = true
+				duck = true
+				bluejay = true
+				vulture = true
 
 			[light_sources.settings.entities.frycmobvariants]
 				cave_creeper = true
@@ -117,9 +175,13 @@ mode = "fancy"
 				bamboo_creeper = true
 				jungle_creeper = true
 				beach_creeper = true
+				savannah_creeper = true
+				hills_creeper = true
+				spruce_creeper = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
+				coconut_crab = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -192,6 +254,12 @@ mode = "fancy"
 				opah = true
 				manta_ray = true
 				sunfish = true
+				tiger_barb = true
+				arrow_squid = true
+				nomura_jellyfish = true
+				yeti_crab = true
+				sea_angel = true
+				lions_mane_jellyfish = true
 
 			[light_sources.settings.entities.pesky_seagulls]
 				seagull = true
@@ -203,10 +271,21 @@ mode = "fancy"
 				cave_enderman = true
 				dark_oak_enderman = true
 				savanna_enderman = true
+				windswept_hills_enderman = true
+				swamp_enderman = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
+
+			[light_sources.settings.entities.musketmod]
+				bullet = true
+
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
+
+			[light_sources.settings.entities.tridents_n_stuff]
+				stone_spear_entity = true
 

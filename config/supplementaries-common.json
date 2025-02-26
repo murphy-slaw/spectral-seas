@@ -420,7 +420,7 @@
       "lightning_unluck": true
     },
     "item_lore": {
-      "enabled": true
+      "enabled": false
     },
     "sus_recipes": {
       "enabled": true
