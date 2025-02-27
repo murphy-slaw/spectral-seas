@@ -67,12 +67,11 @@ EntityEvents.death('minecraft:player', event => {
         let ship = event.level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
-            Utils.server.runCommand(
-                `execute as ${
-                    event.player.username
-                } run spawnpoint @s ${Math.floor(ship.x)} ${
-                    Math.floor(ship.y) + 1
-                } ${Math.floor(ship.z)}`
+            setSpawn(
+                event.player,
+                Math.floor(ship.x),
+                Math.floor(ship.y) + 1,
+                Math.floor(ship.z)
             )
         } else {
             console.info(`Ship not found!`)
@@ -80,3 +79,7 @@ EntityEvents.death('minecraft:player', event => {
         }
     }
 })
+
+function setSpawn (player, x, y, z) {
+    Utils.server.runCommand(`spawnpoint ${player.username} ${x} ${y} ${z}`)
+}

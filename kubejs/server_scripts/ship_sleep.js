@@ -1,3 +1,10 @@
+const BedSleepingProblem = Java.loadClass(
+    'net.minecraft.world.entity.player.Player$BedSleepingProblem'
+)
+const $AABB = Java.loadClass('net.minecraft.world.phys.AABB')
+// gross
+const Monster = Java.class.forName('net.minecraft.class_1588')
+
 ItemEvents.entityInteracted(event => {
     let item = event.player.handSlots[0]
     if (
@@ -7,10 +14,19 @@ ItemEvents.entityInteracted(event => {
             shipTypes.includes(event.target.type)
         )
     )
-        return
+        event.cancel()
 
     let ship = event.target
     let bedPos = new BlockPos(ship.x, ship.y + 1, ship.z)
+
+    let problem = getSleepProblem(event, bedPos)
+    if (problem != null) {
+        if (problem.getMessage() != null) {
+            event.player.displayClientMessage(problem.getMessage(), true)
+        }
+        event.cancel()
+    }
+
     let fakeBedPos = {
         x: bedPos.x,
         y: bedPos.y,
@@ -28,6 +44,32 @@ ItemEvents.entityInteracted(event => {
     serverLevel.updateSleepingPlayerList()
     event.success()
 })
+
+function getSleepProblem (event, bedPos) {
+    if (!event.level.dimensionType().natural()) {
+        return BedSleepingProblem.NOT_POSSIBLE_HERE
+    } else if (event.level.isDay()) {
+        return BedSleepingProblem.NOT_POSSIBLE_NOW
+    } else {
+        let vec3 = Vec3d.atBottomCenterOf(bedPos)
+        let monsters = event.level.getEntitiesOfClass(
+            Monster,
+            new $AABB(
+                vec3.x() - 8.0,
+                vec3.y() - 5.0,
+                vec3.z() - 8.0,
+                vec3.x() + 8.0,
+                vec3.y() + 5.0,
+                vec3.z() + 8.0
+            ),
+            monster => monster.isPreventingPlayerRest(event.player)
+        )
+        if (!monsters.isEmpty()) {
+            return BedSleepingProblem.NOT_SAFE
+        }
+    }
+    return null
+}
 
 FabricAddedEvents.stopSleeping(event => {
     // Now we remove the fake bed!
