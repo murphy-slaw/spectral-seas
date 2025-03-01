@@ -53,6 +53,9 @@ config/data_attributes.json5
 config/data_attributes/
 config/sodium-extra.properties
 config/sodium-mixins.properties
+config/carpet
+usernamecache.json
+.trueadaptivemusic
 
 # server export directory
 server

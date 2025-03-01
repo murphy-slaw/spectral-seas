@@ -8,7 +8,7 @@
   "minAmbientAge": 90,
   "hudLayout": {
     "enabled": true,
-    "direction": "BOTTOM_TO_TOP",
+    "direction": "LEFT_TO_RIGHT",
     "relativeToEnd": true,
     "thickness": 1,
     "collinearPadding": 3,

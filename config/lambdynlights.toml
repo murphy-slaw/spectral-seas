@@ -178,6 +178,7 @@ mode = "fancy"
 				savannah_creeper = true
 				hills_creeper = true
 				spruce_creeper = true
+				badlands_creeper = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -260,6 +261,21 @@ mode = "fancy"
 				yeti_crab = true
 				sea_angel = true
 				lions_mane_jellyfish = true
+				shrimp = true
+				seahorse = true
+				surgeonfish = true
+				decorator_crab = true
+				cuttlefish = true
+				stonefish = true
+				triggerfish = true
+				lionfish = true
+				parrotfish = true
+				boxfish = true
+				clownfish = true
+				moray_eel = true
+				toadfish = true
+				betta = true
+				oscar = true
 
 			[light_sources.settings.entities.pesky_seagulls]
 				seagull = true
@@ -273,9 +289,12 @@ mode = "fancy"
 				savanna_enderman = true
 				windswept_hills_enderman = true
 				swamp_enderman = true
+				coral_enderman = true
+				desert_enderman = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
+				cog = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true

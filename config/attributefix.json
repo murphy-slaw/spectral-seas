@@ -121,6 +121,28 @@
         "value": 1000000
       }
     },
+    "lodestone:magic_proficiency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "porting_lib:step_height_addition": {
+      "enabled": false,
+      "min": {
+        "default": -512,
+        "value": -512
+      },
+      "max": {
+        "default": 512,
+        "value": 512
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -144,6 +166,17 @@
       }
     },
     "creeperoverhaul:reach_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "porting_lib:swim_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -207,6 +240,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "porting_lib:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
       }
     },
     "additionalentityattributes:generic.jump_height": {
@@ -374,6 +418,17 @@
         "value": 1000000
       }
     },
+    "lodestone:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "minecraft:generic.knockback_resistance": {
       "enabled": true,
       "min": {
@@ -394,6 +449,17 @@
       "max": {
         "default": 20,
         "value": 1000000
+      }
+    },
+    "lodestone:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "additionalentityattributes:player.critical_bonus_damage": {

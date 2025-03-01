@@ -2,7 +2,7 @@ const BedSleepingProblem = Java.loadClass(
     'net.minecraft.world.entity.player.Player$BedSleepingProblem'
 )
 const $AABB = Java.loadClass('net.minecraft.world.phys.AABB')
-// gross
+// gross - Have to load class by intermediate name.
 const Monster = Java.class.forName('net.minecraft.class_1588')
 
 ItemEvents.entityInteracted(event => {
@@ -14,7 +14,7 @@ ItemEvents.entityInteracted(event => {
             shipTypes.includes(event.target.type)
         )
     )
-        event.cancel()
+        return
 
     let ship = event.target
     let bedPos = new BlockPos(ship.x, ship.y + 1, ship.z)
@@ -36,6 +36,7 @@ ItemEvents.entityInteracted(event => {
 
     //The game will wake you up immediately if there isn't a bed in the position you started sleeping in. So we place a 'fake' bed.
     event.level.getBlock(bedPos).set('minecraft:red_bed')
+    event.player.yRot = ship.yRot
     event.player.startSleeping(bedPos)
 
     // We are sleeping in a cheaty way, so we have to tell the ServerLevel to do a sleep status update.
@@ -74,6 +75,7 @@ function getSleepProblem (event, bedPos) {
 FabricAddedEvents.stopSleeping(event => {
     // Now we remove the fake bed!
     let pos = event.player.persistentData.getCompound('fakeBedPos')
+    if (pos === undefined) return
     let blockPos = BlockPos(pos.x, pos.y, pos.z)
     event.level.getBlock(blockPos).set('minecraft:air')
 })
