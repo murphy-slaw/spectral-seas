@@ -4,11 +4,11 @@ const shipTypes = [
     'smallships:drakkar',
     'smallships:galley',
 ]
+
 PlayerEvents.tick(event => {
     const player = event.player
     const vehicle = player.getVehicle()
     const shipID = player.persistentData.getString('shipID')
-
     if (vehicle) {
         if (shipTypes.includes(vehicle.type)) {
             if (!player.tags.contains('on_ship')) {
@@ -26,6 +26,14 @@ PlayerEvents.tick(event => {
                     )
                     player.persistentData.remove('MarkerPosition')
                 }
+
+                event.level.entities
+                    .filter(entity => entity.type === 'minecraft:parrot')
+                    .forEach(entity => {
+                        if (entity.owner === player) {
+                            entity.startRiding(vehicle)
+                        }
+                    })
             }
         }
     } else {
@@ -63,7 +71,6 @@ EntityEvents.death('minecraft:player', event => {
     let shipID = event.player.persistentData.getString('shipID')
     if (shipID) {
         console.info(`Ship ID: ${shipID}`)
-        let entities = event.level.getEntities()
         let ship = event.level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
