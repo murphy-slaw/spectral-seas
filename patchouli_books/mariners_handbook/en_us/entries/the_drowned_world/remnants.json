@@ -1,0 +1,17 @@
+{
+    "name": "Remnants of the Past",
+    "icon": "archeologyplus:nautilus_pottery_sherd",
+    "category": "patchouli:the_drowned_world",
+    "entry_color": "43120F",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Resources",
+    "icon": "ecologics:sandcastle",
+    "category": "patchouli:start",
+    "entry_color": "43120F",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        }
+    ]
+}

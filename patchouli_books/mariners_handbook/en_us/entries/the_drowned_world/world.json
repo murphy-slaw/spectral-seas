@@ -1,0 +1,17 @@
+{
+    "name": "The Known World",
+    "icon": "supplementaries:globe_sepia",
+    "category": "patchouli:the_drowned_world",
+    "entry_color": "43120F",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is a test entry, but it should show up!"
+        }
+    ]
+}

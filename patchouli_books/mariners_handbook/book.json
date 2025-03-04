@@ -1,7 +1,7 @@
 {
     "name": "The Mariner's Handbook",
-    "subtitle": "Survival, but wetter.",
-    "landing_text": "Hubba Hubba Zoot Zoot",
+    "subtitle": "(Shipwreck Edition)",
+    "landing_text": "$(o)Being the remembrances and wisdom of an Old Salt, proffered to those in Dire Straits.",
     "version": 0,
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": false,

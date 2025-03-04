@@ -1,8 +1,9 @@
 {
-    "name": "Swimming",
-    "icon": "artifacts:flippers",
-    "category": "patchouli:survival",
-    "entry_color": "FF00FF",
+    "name": "Landfall",
+    "icon": "ecologics:coconut_seedling",
+    "category": "patchouli:start",
+    "entry_color": "43120F",
+    "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",

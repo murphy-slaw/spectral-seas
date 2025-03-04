@@ -1,6 +1,6 @@
 {
-  "name": "Shipbuilding",
+  "name": "Ships & Seamanship",
   "icon": "smallships:dark_oak_cog",
   "description": "It's not a boat!\nIt's not a boat!\n",
-  "parent": "patchouli:survival"
+  "sortnum": 2
 }
