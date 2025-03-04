@@ -1,34 +1,39 @@
-const UNIQUE_CONFIG = "kubejs/config/unique_items.json";
+//priority: 0
+const UNIQUE_CONFIG = 'kubejs/config/unique_items.json'
 
 ServerEvents.loaded(event => {
-    let levelOW = event.server.getLevel("minecraft:overworld");
-    let uniques = levelOW.persistentData.getCompound("uniqueItems");
+    let levelOW = event.server.getLevel('minecraft:overworld')
+    let uniques = levelOW.persistentData.getCompound('uniqueItems')
     if (uniques.isEmpty()) {
-        JsonIO.read(UNIQUE_CONFIG)["uniqueItems"].forEach(itemId => uniques.putInt(itemId, 0));
-        levelOW.persistentData.put("uniqueItems", uniques);
+        JsonIO.read(UNIQUE_CONFIG)['uniqueItems'].forEach(itemId =>
+            uniques.putInt(itemId, 0)
+        )
+        levelOW.persistentData.put('uniqueItems', uniques)
     }
-    console.log(levelOW.persistentData.getCompound("uniqueItems"));
-});
+    console.log(levelOW.persistentData.getCompound('uniqueItems'))
+})
 
-LootJS.modifiers((event) => {
-    let lootTable = /./;
-    event.addLootTableModifier(lootTable).apply(ctx => {
-        let uniques = ctx.level.persistentData.getCompound("uniqueItems");
-        let excess = {};
-        let reserve = [];
+LootJS.modifiers(event => {
+    event.addLootTypeModifier(LootType.CHEST).apply(ctx => {
+        let uniques = ctx.level.persistentData.getCompound('uniqueItems')
+        let allowed = []
+        let banned = []
         ctx.forEachLoot(itemStack => {
             if (uniques.contains(itemStack.id)) {
-                let count = uniques.getInt(itemStack.id);
-                excess[itemStack.id] = true;
+                let count = uniques.getInt(itemStack.id)
                 if (count === 0) {
-                    uniques.put(itemStack.id, ++count);
-                    reserve.push(itemStack);
+                    uniques.put(itemStack.id, ++count)
+                    allowed.push(itemStack)
+                } else {
+                    console.log(
+                        `Unique item ${itemStack.id} already exists, banned.`
+                    )
+                    banned.push(itemStack)
                 }
             }
-        });
-        excess.entries.forEach(key => console.log(`removing ${key}`), ctx.removeLoot(key));
-        reserve.forEach(stack => console.log(`adding one ${stack.id}`), ctx.addLoot(LootEntry.of(stack.id)));
-        level.persistentData.put("uniqueItems", uniques);
-    });
-});
-
+        })
+        banned.forEach(stack => ctx.removeLoot(stack.id))
+        allowed.forEach(stack => stack.setCount(1))
+        ctx.level.persistentData.put('uniqueItems', uniques)
+    })
+})
