@@ -5,7 +5,7 @@
         "/simplehats:/",
         "/artifacts:/",
         "simplyswords:runic_grimoire",
-        "/simplyswords:.*chakram//",
+        "/simplyswords:.*chakram/",
         "/simplyswords:.*glaive/",
         "/simplyswords:.*halberd/",
         "/simplyswords:.*claymore/",
