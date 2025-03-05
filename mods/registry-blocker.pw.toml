@@ -1,0 +1,13 @@
+name = "Registry Blocker"
+filename = "RegistryBlocker-0.5.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uy92ImJL/versions/JeMUdvqX/RegistryBlocker-0.5.3.jar"
+hash-format = "sha512"
+hash = "42bdb45a63926cabcfa82433fda5d78c4f01476af22ae1e2d5c2ab0b50e1f005e1c3bae2ba4a586926ae47ddad27a7f69f62415ce24d070c74a4d00364e04812"
+
+[update]
+[update.modrinth]
+mod-id = "uy92ImJL"
+version = "JeMUdvqX"

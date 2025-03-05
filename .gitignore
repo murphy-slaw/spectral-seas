@@ -56,6 +56,8 @@ config/sodium-mixins.properties
 config/carpet
 usernamecache.json
 .trueadaptivemusic
+.datadumper
+config/tellme
 
 # server export directory
 server
