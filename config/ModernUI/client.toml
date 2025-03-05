@@ -81,6 +81,8 @@
 	#Amount to scroll the tooltip in response to a arrow key pressed event.
 	#Range: 0 ~ 320
 	arrowScrollFactor = 60
+	#Provide line wrapping and optimization for tooltip components.
+	lineWrapping = true
 #General Config
 [general]
 	#Play a sound effect when the game is loaded.

@@ -9,7 +9,10 @@
   "entityRenderModeOverrides": {},
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
-  "modelsNamesDisabled": [],
+  "modelsNamesDisabled": [
+    "betteranimationscollection:animated_squid",
+    "modded/betteranimationscollection/animated_squid"
+  ],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
@@ -19,7 +22,7 @@
   "onlyClientPlayerModel": false,
   "doubleChestAnimFix": true,
   "enforceOptifineVariationRequiresDefaultModel": false,
-  "enforceOptifineVariationRequiresDefaultModel_v2": false,
+  "enforceOptifineVariationRequiresDefaultModel_v2": true,
   "resetPlayerModelEachRender": true,
   "resetPlayerModelEachRender_v2": true,
   "onlyDebugRenderOnHover": false,

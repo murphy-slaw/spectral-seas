@@ -1,0 +1,26 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "programmer_art",
+      "spectrum:spectrum_generation_1",
+      "spectrum:spectrum_programmer_art",
+      "continuity:default",
+      "supplementaries:darker_ropes"
+    ],
+    "$$1": {
+      "hidden": true
+    },
+    "file/spectral_seas": {
+      "default_position": "TOP",
+      "required": true,
+      "fixed_position": true
+    },
+    "file/antique_atlas_respacks": {
+      "required": true
+    }
+  }
+}

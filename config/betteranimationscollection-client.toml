@@ -19,7 +19,7 @@
 	#Does this by adding back their mouth and knees while staying true to the vanilla model style.
 	familiar_horse = true
 	#Gives a jellyfish-like effect to the swimming animation of squids; generally just makes their tentacles flow more while moving.
-	squiggly_squid_tentacles = true
+	squiggly_squid_tentacles = false
 	#A pleasing visual change; this makes the insides of slimes flow around like liquid.
 	#They splish-splosh about even more when they jump. The eyes, the mouth, and the core itself all move independently.
 	jiggly_liquidy_slime = true

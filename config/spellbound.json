@@ -148,7 +148,23 @@
     "BASE_POWER": -10,
     "POWER_PER_RANK": 11,
     "POWER_RANGE": 50,
-    "ABSORPTION_PER_DAMAGE_PER_LEVEL": 0.125
+    "ABSORPTION_RATIO_PER_RANK": 0.125,
+    "DURATION": 600
+  },
+  "goldskin": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 2,
+    "SOFT_CAP": 4,
+    "HARD_CAP": 4,
+    "BASE_POWER": -10,
+    "POWER_PER_RANK": 11,
+    "POWER_RANGE": 50,
+    "TIME_UNTIL_RESET": 100,
+    "ABSORPTION_PER_TICK": 0.01,
+    "BASE_ABSORPTION": 0.05,
+    "ABSORPTION_PER_LEVEL": 0.05
   },
   "grace": {
     "ENABLED": true,
@@ -630,8 +646,10 @@
     "BASE_POWER": -10,
     "POWER_PER_RANK": 20,
     "POWER_RANGE": 50,
-    "DAMAGE_RATIO_PER_LEVEL": 0.33,
-    "INJURY_MINIMUM": 4.0,
+    "DAMAGE_BASE": 1.0,
+    "DAMAGE_RATIO": 0.33,
+    "INJURY_MINIMUM_BASE": 10.0,
+    "INJURY_MINIMUM_PER_LEVEL": -2.0,
     "TIMEOUT": 100,
     "FOLLOWUP_HIT_DELAY": 12,
     "HIGHLIGHT_COLOR": 8914952
