@@ -111,7 +111,7 @@
       "fade": 5
     },
     "edge_idle": {
-      "enabled": false,
+      "enabled": true,
       "speed": 1.0,
       "fade": 5
     },
