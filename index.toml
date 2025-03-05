@@ -16865,6 +16865,11 @@ file = "resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
+file = "resourcepacks/better-squid.pw.toml"
+hash = "2a3ca49c4e811f3a3a391833d2ac3ebe2316d48ba41fb1b1e9a9a00be439e4fa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
 hash = "416087ac043699ed1ffd8723fb242bc7fefb333394db0ae53907a0629b55b6b0"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Better Squid"
+filename = "§2BetterSquid§7_v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aad5aa7afe6207a1fedaf9b1d3b1ae22e97eb4e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4497693
+project-id = 648239
