@@ -3070,7 +3070,7 @@ hash = "fb41974a4c5014e05390d88b4c1af988a9925bd108b0e26064f3e8974332a199"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0164777e5c18fa760adae2c5bec64f230d8f06239f110f41ffec832d813b8f24"
+hash = "2220ea28ff18726f6a646e450b17609e441c7acb468943b3ecc07281f7e2fadd"
 
 [[files]]
 file = "config/fancymenu/assets/325407__shadydave__on-the-seas-extended.ogg"
@@ -3170,7 +3170,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9634c915e7a90a0e861f04dae892e70c47181f6f72c46144df4940d01181aeeb"
+hash = "885cd653ba14af801b2f0ec02623ae5c7ca11ed0b191c4f6c79357903ce61775"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
@@ -3390,7 +3390,7 @@ hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "f6885d8ce8d267fd545f5cf45b94a896ce5fbe5c88a0e0b9fc4df7b0d40796ab"
+hash = "37ef087cfd0d998f465c5e5586ad753c4d47e41309257da36931df0c6e88373e"
 
 [[files]]
 file = "config/pal.properties"
@@ -6942,7 +6942,7 @@ hash = "e7378252028396d288924a5344ac2cca71232febf367982834180a64d26345e5"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "8bbce0b210a5070f06f103e2d9fbfabfc269ec9641eb6f18ed8cae065d6ed6e6"
+hash = "bb73625da2a91d736d23203f9a1faa6fd90102b07b9d5ad4263d7606e2be4d8c"
 
 [[files]]
 file = "config/ribbits-fabric-1_20_1.toml"
@@ -7038,11 +7038,11 @@ hash = "1071cc401ef995e987e98338bd1a98d39980e76e997e7f77c3de40b824903d27"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c27ffb8daff161abf7ecea1134f9194a291f21b83debd79167a21b7186397b5b"
+hash = "c4074e8dd921a43d771391dc419055618a41aff19f154a7eb71e01d1edd961c3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9f2c7ec2b21df0e0a859223b32e2f2af76d4574c7426368b206238dc019cc812"
+hash = "0e80b08a4e2f094d1d02503378e8dfd99c7b7f995a94cd4e3b5bc951fa446a51"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -8626,59 +8626,59 @@ hash = "f44471a1d3d5ffcd0aa42e2be602cf66b2a223f2c211c16832e25fcfa83e3494"
 
 [[files]]
 file = "logs/2025-03-04-1.log.gz"
-hash = "9b9c6a3ed9b0e9241c8e25b0f7733ddf32fdbd771ed6e256c1ca5a2497ebc857"
-
-[[files]]
-file = "logs/2025-03-04-2.log.gz"
 hash = "66d1c6fb1a2a3592d0d21ba0485037a8827bd32f7440d6952fdc7222d9c36bfe"
 
 [[files]]
-file = "logs/2025-03-04-3.log.gz"
+file = "logs/2025-03-04-2.log.gz"
 hash = "862d663f81b183a71f8008caee4dd1590c96bcd29b575fded8500b0b8d2872ea"
 
 [[files]]
-file = "logs/2025-03-04-4.log.gz"
+file = "logs/2025-03-04-3.log.gz"
 hash = "b8598e9cd2360a3a17c8fc766889397aa09c83bff6b1227c9168e74c9b13d7da"
 
 [[files]]
-file = "logs/2025-03-04-5.log.gz"
+file = "logs/2025-03-04-4.log.gz"
 hash = "5748c9c85dc49be79b7db6adb5acfd3f83a8c13f9dba734e511cbfabb483af93"
 
 [[files]]
-file = "logs/2025-03-04-6.log.gz"
+file = "logs/2025-03-04-5.log.gz"
 hash = "20c966b9460c67a6157b49ac446f837d9da944d78df88cfb363fc04f7a51b046"
 
 [[files]]
-file = "logs/2025-03-04-7.log.gz"
+file = "logs/2025-03-04-6.log.gz"
 hash = "10761527bcf58e074ff8e5b62ba7d7de50b3cbbb2ca98d8bf88296811c3a5ff8"
 
 [[files]]
+file = "logs/2025-03-04-7.log.gz"
+hash = "5b67e67c997164f9e6613bad20c350ed01f27d9fd4ff3ea821635392cdcf4ab7"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "68e12f756fc2615685637c58caddc29181a36aef401d73cc5cb0c17eb3c72856"
+hash = "a74a4491decf6bd4474063915bcb46ece4fcaf8573617daa428053972aeb02ee"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "835e41c9bc5f3b8644be4aa54412fea13989d9321187238a0e5576f4ea5712c4"
+hash = "68e12f756fc2615685637c58caddc29181a36aef401d73cc5cb0c17eb3c72856"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "160e6a531d93e744d12eb68edcbcc54f62d484e0b7498542e7ddb6d49f07ef6f"
+hash = "835e41c9bc5f3b8644be4aa54412fea13989d9321187238a0e5576f4ea5712c4"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "176f582b4c817218ac159520d34dc79c44f93934a4df2debd493241094d25ca6"
+hash = "160e6a531d93e744d12eb68edcbcc54f62d484e0b7498542e7ddb6d49f07ef6f"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "1616f86eadc47673e2734a56bb78892e1bded1196912cfe7faea7ed5acd2d94e"
+hash = "176f582b4c817218ac159520d34dc79c44f93934a4df2debd493241094d25ca6"
 
 [[files]]
 file = "logs/debug.log"
-hash = "40f443fb20b5bf873159cb6058622ea45c6435c66814ea42eb6fc79fc38b6b01"
+hash = "2706a8e604632a9d2b874820a636cbb0330c4dc541622800121650cda17166b8"
 
 [[files]]
 file = "logs/kubejs/client.log"
-hash = "8213033b29e27a54e675ff4ca4670e6afcedcae06bf4bdb15c7d8847d4dbada9"
+hash = "e8d49101d86b45c7ce9f1d2c53bc7d00be1a8636838c3316adea5f627bbb6391"
 
 [[files]]
 file = "logs/kubejs/server.log"
@@ -8686,11 +8686,11 @@ hash = "115ada3cc287a67744be8b8c347e604b881fed7a1c15bcf820cc931f1e3a6ac4"
 
 [[files]]
 file = "logs/kubejs/startup.log"
-hash = "ae40a0afc2209ff29571abed0c6cc2c2e12260422d838beb15e8721a8ad9fee0"
+hash = "02552f0a9a2a01ca2de689c6cc143f999eb7e327383f8d8b859a268674138086"
 
 [[files]]
 file = "logs/latest.log"
-hash = "89d39a066abe206048d86eccc01b3639afd54cfb268d311a01d83489200a976d"
+hash = "82817289d2238f52eb61379c7957a7a083530ce524ca276e721aa5db993711fb"
 
 [[files]]
 file = "modernfix/structureCacheV1/hopo_mobs_piglin_crossbow_4ee4f49c91.nbt"
@@ -16865,6 +16865,11 @@ file = "resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "aac2a57d786414cbaa16da16b3b03741e9052c2a29d70456b76a9fbd23a4ad0a"
 
 [[files]]
+file = "resourcepacks/battlepack.pw.toml"
+hash = "7654c79467f847b7977c5adfd5054bd28b2c12d34f5bfec2f777c5229e0776b2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-squid.pw.toml"
 hash = "2a3ca49c4e811f3a3a391833d2ac3ebe2316d48ba41fb1b1e9a9a00be439e4fa"
 metafile = true
@@ -16880,8 +16885,23 @@ hash = "9c941190beb71aac05cb0b3f93d787f143070a294970c45973de04f6c8a5d950"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dukettes-armors.pw.toml"
+hash = "c4038c839a6f0a9acb352e6b9701a49718611fc4c402d37d7ff9506f716184c3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fine-armoury.pw.toml"
+hash = "56649d62fd5d6ac3b646d9a3af0b84b4569f7013d0efb6e8d44e08cd9d86f272"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pirate.pw.toml"
+hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
 
 [[files]]
@@ -22973,22 +22993,7 @@ file = "resourcepacks/spectrum_public_server_pack/pack.mcmeta"
 hash = "abb3963fb10403610ad5e2ff2be2d9b9bb1bcbad0945766c70b7b4468c21e7bd"
 
 [[files]]
-file = "resourcepacks_disabled/dukettes-armors.pw.toml"
-hash = "c4038c839a6f0a9acb352e6b9701a49718611fc4c402d37d7ff9506f716184c3"
-metafile = true
-
-[[files]]
-file = "resourcepacks_disabled/fine-armoury.pw.toml"
-hash = "56649d62fd5d6ac3b646d9a3af0b84b4569f7013d0efb6e8d44e08cd9d86f272"
-metafile = true
-
-[[files]]
-file = "resourcepacks_disabled/pirate.pw.toml"
-hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
-metafile = true
-
-[[files]]
-file = "resourcepacks_disabled/stefansarmorsnitems.pw.toml"
+file = "resourcepacks/stefansarmorsnitems.pw.toml"
 hash = "6cff735706dffeddde0e0336aab5207e07ed8e7fc5648494163dc9f5665aa268"
 metafile = true
 
@@ -28562,7 +28567,7 @@ hash = "d5bcf63717c17e369d056537bebff71dc4738be97b72a69bb76eef65531cb442"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
-hash = "e80a6d629f568b4a3a9bd09d256f49b47e2e7677d2ab3ac3559a1da6304464b9"
+hash = "dc52739ac327d44afee041b4b6fc9e10d45f5430f0ab0f7fa4df25f3f9a3e0bf"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
