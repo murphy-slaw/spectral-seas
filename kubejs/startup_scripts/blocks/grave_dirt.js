@@ -7,6 +7,7 @@ StartupEvents.registry('block', event => {
         .requiresTool(true)
         .tagBlock('minecraft:mineable/shovel')
         .textureAll('minecraft:block/dirt')
+        .gravelSoundType()
         .blockEntity(entityInfo => {
             entityInfo.serverTick(60, 0, entityEvent =>
                 global.reloadableParticle(entityEvent)
