@@ -3022,7 +3022,7 @@ hash = "2104884ff0f01b69226b956d0b8cf1385de426fc88e867ad8884cba53181a9a5"
 
 [[files]]
 file = "config/enchant_faker.json5"
-hash = "8a8ad8ddc20e74fa940aa25af9834f4e13949a73cda9b62d0dd302c84cfa98fe"
+hash = "0da8a9a64d07f300646336f1891efd22c79ee43e5cbb14a24b413e57b4fa689b"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -3070,7 +3070,7 @@ hash = "fb41974a4c5014e05390d88b4c1af988a9925bd108b0e26064f3e8974332a199"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e363a7b4172a3901bc8b1b0a1ffe504de13d82f0572c9c81050ef38fa47c403d"
+hash = "272b9f64dba4d76cc5712cedaaca400003fbf83c2e4cdee4960a9c111f0de9c6"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -3241,6 +3241,10 @@ file = "config/frycmobvariants.json5"
 hash = "bb69f445004c183c8ab751d4f5ccd51eb71027af36a48a9c50ed9e85f2e466bf"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "28617a24eb498579b48f0435571212ad87289d872d3c8ef5d99661a67c06117c"
+
+[[files]]
 file = "config/fzzy_core/README.txt"
 hash = "a0f3193f6f226f143aa7bc2c18afffc7035cf868a97713f46027c4a85a004960"
 
@@ -3271,6 +3275,14 @@ hash = "4d392e47db3c286bfc6c1c9798ddcd597ec510602aeac893d40c88ba9eea456f"
 [[files]]
 file = "config/hookshot.jsonc"
 hash = "a000e202b49f2478f767a0848339980cde3c9aefb10f510205178e9bab8c46ab"
+
+[[files]]
+file = "config/horseman-client.toml"
+hash = "e638f4a3903923911dafb5d6d75d9d3f891204402fc4a30aa690bfaa193c1c6b"
+
+[[files]]
+file = "config/horseman-common.toml"
+hash = "9a9ecdb8fe495579e1a9004672a95b3e9fc2e2a2811376b7652a8a190cf8b5ac"
 
 [[files]]
 file = "config/hybrid-aquatic.json"
@@ -7082,11 +7094,11 @@ hash = "96e0c50732b8583d5e6e55df7fd68647ec17a19125ddbcacc17f1d46759b438d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a83e3a4eef2187bf59ed52780d87c4053ab067c32c92cbb69bdf08858e9268c3"
+hash = "294c2bbcb4e3df35fe63577e37581880b4e681c6825d0fa76f7c498ebdb4f3cd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "85590942741db08e3cba088652994bda7902e94534ba1af21f9311447dcb907f"
+hash = "026fad69c9a82c2bb2b1876f1091a39a5bad106e65df9580e4e051466ca43c19"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7222,7 +7234,7 @@ hash = "2ce2e5755ddc44005012d6c2142f1a7e86532bd269ae6df19924e636759b5e50"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "609eabbe185acb4bc891a4d45469ca7e81d1ce5eaefa52b5e03138e79124467c"
+hash = "7d8efdbe3ac61592048cf4d66f6137bab11caac035e1ada890fd8b66486ec7a9"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -7989,32 +8001,48 @@ file = "logs/2025-03-08-3.log.gz"
 hash = "a4dd11722f44c75336374f9a319b8f18e0a75227034df9c4f38dfedbb0d00a64"
 
 [[files]]
+file = "logs/2025-03-08-4.log.gz"
+hash = "c7ef8256d14a01ff644db20ac892b8365cce59be611cadf800f0b846c98279bf"
+
+[[files]]
+file = "logs/2025-03-08-5.log.gz"
+hash = "71cd1b1ad760697ff1b1769a6f298cc5ca4f728c18db8c1424b4dc9474cf8c28"
+
+[[files]]
+file = "logs/2025-03-08-6.log.gz"
+hash = "4b17e82aea11441dc3cdd8768edd24fd5911809d3079cc3b77f350e6a9d68ad4"
+
+[[files]]
+file = "logs/2025-03-08-7.log.gz"
+hash = "810c357f8f7f7732261c9cdb77791657c5e2cefa3a1655b818e35f2c6c4572ce"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "57ff061a7c39a0dc2ae06d6c05827f6a5e2cdef4457f73578cc2d6abc8def788"
+hash = "93fc50f3ecc61be91e88657f74bb0d29ced616e64a8de45cb720068ab0233fb2"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "ea4778213297870b4877cb13923a40896f2b35be39f9b384111628e85b7f354b"
+hash = "b40508a76cd0f3a75203cd40016380371cd06cc4b27f1b77a5d6096ceee13a39"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "ea380354bf15ebefc73874ee4b967bd25b719fa1f977f01a8bee840f6cb55738"
+hash = "77593f4cf6ab76e6ef83863eaec8adb14f85e7a0791161c2a99ed3734476262d"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "fab1182827fe241602117a581c7fcc33b1707228d2c3762147be7f59ed5f876d"
+hash = "66c91dc9137f3f9c6430e4aa01b6d0c9d6f3e8ebf6d6d17e1f4095aa4b64314c"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "4b697693b309d2aae2f5864e84cf2ed436c560e31c7c9694af3ec164c365d105"
+hash = "57ff061a7c39a0dc2ae06d6c05827f6a5e2cdef4457f73578cc2d6abc8def788"
 
 [[files]]
 file = "logs/debug.log"
-hash = "1a27a2fc660244f0e306ee4ab01bfc78d440725e0de53012df1cc456dea516f8"
+hash = "01352c397a8f06569445b64f5c6d3874e2360769d7968906de540a3b509fadf4"
 
 [[files]]
 file = "logs/kubejs/client.log"
-hash = "b120ebda823352eff84d25936d97c26d28ecbe4cf55961a6ac4654b8d6e57e03"
+hash = "fb57cf0359e070e7f7c4431d3c5584a646367c46451df2fcf3caab179d0e9f72"
 
 [[files]]
 file = "logs/kubejs/server.log"
@@ -8022,11 +8050,11 @@ hash = "0f90e02d56731ccb006db9965843fb6020edf10efe4ef76d5fe29849d509682b"
 
 [[files]]
 file = "logs/kubejs/startup.log"
-hash = "90b87d281d180e5adcc27aebe718b3dcdf123e71611fb6ce5fdf8931abf647dd"
+hash = "dd987acf3009c47b55b610951e9e671ed0a64d3eadc5bd3feab82ca0254bf481"
 
 [[files]]
 file = "logs/latest.log"
-hash = "9f7c450d6c4f9349c3357f2e9a5a6f5a3c27f072f70c2008b025d47572e2ea3b"
+hash = "c9772c60a0760ab96bb9045e6fd694bcdee7013bb5c2c968a3b1318b2829bca1"
 
 [[files]]
 file = "modernfix/structureCacheV1/hopo_mobs_piglin_crossbow_4ee4f49c91.nbt"
@@ -14161,7 +14189,7 @@ hash = "a1beb9b95224779851999c0d26f2c50c005a9dec6cdc0235b52c7c1ca0ec0d52"
 
 [[files]]
 file = "options.txt"
-hash = "f6bc88cfcd5d422c5c8e5c0229dc1062557e38e6674ba7f79afc69a7bfb0e620"
+hash = "f79fca8fa6bd20fbeec6760554e115aade4837206fbd8b07bb0f7d6ba9a377d1"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/book.json"
