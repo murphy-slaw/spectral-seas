@@ -3,20 +3,20 @@ LootJS.modifiers(event => {
         .addBlockLootModifier('spectral_seas:grave_dirt')
         .removeLoot(ItemFilter.ALWAYS_TRUE)
         .pool(pool => {
-            pool.addAlternativesLoot([
+            pool.addWeightedLoot([
                 LootEntry.of(Ingredient.of('#spectral_seas:diamond_weapon'))
-                    .when(c => c.randomChance(0.01))
+                    .withWeight(1)
                     .enchantRandomly()
                     .damage([0]),
                 LootEntry.of(Item.of('minecraft:book'))
-                    .when(c => c.randomChance(0.04))
+                    .withWeight(4)
                     .enchantRandomly(),
                 LootEntry.of(Ingredient.of('#spectral_seas:iron_weapon'))
-                    .when(c => c.randomChance(0.15))
+                    .withWeight(15)
                     .damage([0.15, 0.95])
                     .enchantWithLevels([-2, 20]),
                 LootEntry.of(Ingredient.of('#spectral_seas:grave_treasure'))
-                    .when(c => c.randomChance(0.5))
+                    .withWeight(50)
                     .limitCount([1, 4]),
                 LootEntry.of(
                     Ingredient.of('#spectral_seas:grave_trash')

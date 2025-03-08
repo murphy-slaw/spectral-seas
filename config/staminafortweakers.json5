@@ -14,9 +14,13 @@
 	// Stamina points depleted per jump
 	"depletionPerJump": 4.0,
 	// Stamina points depleted per attack
-	"depletionPerAttack": 0.5,
+	"depletionPerAttack": 1.0,
+	// Stamina points depleted per tick while mining
+	"depletionPerMiningTick": 0.5,
 	// Stamina points depleted per block broken
-	"depletionPerBlockBroken": 8.0,
+	"depletionPerBlockBroken": 0.0,
+	// Stamina points depleted per tick while using a shield
+	"depletionPerShieldTick": 1.0,
 	// Can jump while exhausted
 	"canJumpWhileExhausted": true,
 	// Exhaustion sounds
@@ -43,6 +47,8 @@
 	"recoveryExhaustDelayTicks": 40,
 	// Delay in ticks before starting recovery after depletion
 	"recoveryDelayTicks": 0,
+	// Delay in ticks before regaining shield use
+	"shieldRecoveryDelayTicks": 40,
 	// Which formula to use for recovery
 	"formula": "LOGARITHMIC",
 	// HUD vertical alignment

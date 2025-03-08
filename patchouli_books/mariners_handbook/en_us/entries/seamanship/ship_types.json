@@ -10,6 +10,7 @@
             "text": "This is a test entry, but it should show up!"
         },
         {
+            "title": "Moose Time?",
             "type": "patchouli:text",
             "text": "This is a test entry, but it should show up!"
         }

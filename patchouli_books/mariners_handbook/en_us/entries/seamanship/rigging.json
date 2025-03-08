@@ -7,7 +7,9 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "tag": "minecraft:axes",
+            "item": {
+                "tag": "minecraft:axes"
+            },
             "text": "This is a test entry, but it should show up!"
         },
         {
