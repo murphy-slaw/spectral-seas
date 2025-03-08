@@ -13169,7 +13169,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "12f955dc335c9f16185011edd63b473d21ba4f1777950782b7455673a1238fd2"
+hash = "2a894ba5648ecd5192e4448d7d5c88e77c261565361780049fad05c09fff0dea"
 metafile = true
 
 [[files]]
@@ -13359,7 +13359,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
-hash = "e1ee2450278b2ae78e38277c39f91cc5ea9a528c69519b7c87804506b1592e20"
+hash = "38e5960d9212b882dcdc59e47e45944e8b1417b5bad07028da1ff54c86215dae"
 metafile = true
 
 [[files]]
@@ -13459,7 +13459,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
+hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
 metafile = true
 
 [[files]]
@@ -13777,7 +13777,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
+hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
 
 [[files]]
@@ -13817,7 +13817,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "5890bffc984f1f87176f57220738a53190a3bec1cefa4c1337ab8a933fb72f1e"
+hash = "97eb6726bc960a98d98b7524193a0a868fff94215e5c634e05178d975f7d0893"
 metafile = true
 
 [[files]]
@@ -13842,7 +13842,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
+hash = "f3bfb5abad2940532944e9012d1a2f36079fd4d10bf4dfea99a76b4bf717a2ee"
 metafile = true
 
 [[files]]
