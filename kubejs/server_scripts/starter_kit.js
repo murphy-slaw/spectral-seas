@@ -124,19 +124,17 @@ PlayerEvents.loggedIn(event => {
 
         player.give(
             Item.of(
-                'eccentrictome:tome',
-                1,
-                '{"eccentrictome:mods":{\
-                spectrum: {0: {id: "spectrum:guidebook", Count: 1b}},\
-                simplyswords: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "simplyswords:runic_grimoire"}}}\
-                },\
-                "eccentrictome:version": 1}'
+                'patchouli:guide_book',
+                '{display:{Name:\'{"translate":"eccentrictome.name","with":[{"color":"green","translate":"The Mariner\\\'s Handbook"}]}\'},"eccentrictome:is_tome":1b,"eccentrictome:mods":{simplyswords:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"simplyswords:runic_grimoire"}}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}},"eccentrictome:version":1,"patchouli:book":"patchouli:mariners_handbook"}'
             )
         )
 
         let weapon = Item.of('simplyswords:iron_cutlass', 1)
             .enchant('spellbound:storied', 1)
             .withName("Grandad's Nasty Old Cutlass")
+            .withLore(
+                "You're sure there's a blade somewhere under all that rust."
+            )
 
         weapon.setDamageValue(weapon.maxDamage)
         player.give(weapon)

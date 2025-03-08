@@ -3070,7 +3070,7 @@ hash = "fb41974a4c5014e05390d88b4c1af988a9925bd108b0e26064f3e8974332a199"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "39449b3108310ff4469f94c7aba5ad5d880fc46ac437ab1040737443520f3d32"
+hash = "e363a7b4172a3901bc8b1b0a1ffe504de13d82f0572c9c81050ef38fa47c403d"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -7082,11 +7082,11 @@ hash = "96e0c50732b8583d5e6e55df7fd68647ec17a19125ddbcacc17f1d46759b438d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "59991729e803d236e2e9f5313a38e951e430b09b15b26fe0e7b8c3c70a7b7712"
+hash = "a83e3a4eef2187bf59ed52780d87c4053ab067c32c92cbb69bdf08858e9268c3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6b2d7f8e315845a2eaf497613fce863c5861b197ff3aebc402e1cf83d66e5916"
+hash = "85590942741db08e3cba088652994bda7902e94534ba1af21f9311447dcb907f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7874,7 +7874,7 @@ hash = "462f84feea0ba3e5fc251806b74c63fddf8914feaa762f8a820b78b4ee25af04"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "2d820337da674eb4a424386955d76e9808a6595c0a843e3412abe1aeb6c5e9f4"
+hash = "effbaf88219783daf9cdaef8a7a04e07817000ecce857765a312a94e7a9587cc"
 
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
@@ -7985,44 +7985,48 @@ file = "logs/2025-03-08-2.log.gz"
 hash = "c1a2323b0c9b10b233112e69ccc39076ce757d5ac9c751d604d73118f4f38c2b"
 
 [[files]]
+file = "logs/2025-03-08-3.log.gz"
+hash = "a4dd11722f44c75336374f9a319b8f18e0a75227034df9c4f38dfedbb0d00a64"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "ea4778213297870b4877cb13923a40896f2b35be39f9b384111628e85b7f354b"
+hash = "57ff061a7c39a0dc2ae06d6c05827f6a5e2cdef4457f73578cc2d6abc8def788"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "ea380354bf15ebefc73874ee4b967bd25b719fa1f977f01a8bee840f6cb55738"
+hash = "ea4778213297870b4877cb13923a40896f2b35be39f9b384111628e85b7f354b"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "fab1182827fe241602117a581c7fcc33b1707228d2c3762147be7f59ed5f876d"
+hash = "ea380354bf15ebefc73874ee4b967bd25b719fa1f977f01a8bee840f6cb55738"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "4b697693b309d2aae2f5864e84cf2ed436c560e31c7c9694af3ec164c365d105"
+hash = "fab1182827fe241602117a581c7fcc33b1707228d2c3762147be7f59ed5f876d"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "b3b769b23c8136b5ce5cb6f60c53c61959c51e64107834be98e4812e930c3de4"
+hash = "4b697693b309d2aae2f5864e84cf2ed436c560e31c7c9694af3ec164c365d105"
 
 [[files]]
 file = "logs/debug.log"
-hash = "914cb5fef841d22ba9623fefa310ea3b84e0ba8c9d7b5527012050ea455f3a07"
+hash = "1a27a2fc660244f0e306ee4ab01bfc78d440725e0de53012df1cc456dea516f8"
 
 [[files]]
 file = "logs/kubejs/client.log"
-hash = "771746295f1acfc28450517befdfe492aa34cee2224c695c54588d7bb795ff38"
+hash = "b120ebda823352eff84d25936d97c26d28ecbe4cf55961a6ac4654b8d6e57e03"
 
 [[files]]
 file = "logs/kubejs/server.log"
-hash = "ea715fb944b2aa881d90d683ae6d5b316e06aba08d452a3fe852df4983a78f79"
+hash = "0f90e02d56731ccb006db9965843fb6020edf10efe4ef76d5fe29849d509682b"
 
 [[files]]
 file = "logs/kubejs/startup.log"
-hash = "aea237037618f557e59048e05753420b24cee41a5386c0692230ca6bbe078b22"
+hash = "90b87d281d180e5adcc27aebe718b3dcdf123e71611fb6ce5fdf8931abf647dd"
 
 [[files]]
 file = "logs/latest.log"
-hash = "d17d6ca5307b36cd875fdefb32c4e0ac055bfb24394e72ef31c2a6b9dc3965f5"
+hash = "9f7c450d6c4f9349c3357f2e9a5a6f5a3c27f072f70c2008b025d47572e2ea3b"
 
 [[files]]
 file = "modernfix/structureCacheV1/hopo_mobs_piglin_crossbow_4ee4f49c91.nbt"
@@ -14232,7 +14236,7 @@ hash = "bbfec9767fe33936e0b8abf6d64adfc11fbb057d35504de3b3c74c2ec3af9ec2"
 
 [[files]]
 file = "patchouli_data.json"
-hash = "9000e33598dec90b5643a9f2a8e14281231d6e3652272277d0b445e13249a066"
+hash = "57af21d111c707e25cb4c9f4999c4e1bf9d6f12e1690e7df183da969816b90be"
 
 [[files]]
 file = "resourcepacks/3d-muskets.pw.toml"
@@ -22334,6 +22338,254 @@ file = "rhino.local.properties"
 hash = "907b77b6d5dedb073350f8fbc3f90bbcda0e783f83689c09624e46f230167fae"
 
 [[files]]
+file = "saves/New World/DIM-1/data/cardinal_world_components.dat"
+hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
+
+[[files]]
+file = "saves/New World/DIM-1/data/raids.dat"
+hash = "51806429938ebed084c736fab203c571c65bdb2dd8003391c2192c71457b216d"
+
+[[files]]
+file = "saves/New World/DIM1/data/cardinal_world_components.dat"
+hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
+
+[[files]]
+file = "saves/New World/DIM1/data/raids_end.dat"
+hash = "51806429938ebed084c736fab203c571c65bdb2dd8003391c2192c71457b216d"
+
+[[files]]
+file = "saves/New World/advancements/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "d0eaeabe438f1a7014d431c3b7f4dacfc3dd7c7cfd82f04f95a59d2f9fe0f3af"
+
+[[files]]
+file = "saves/New World/data/cardinal_world_components.dat"
+hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
+
+[[files]]
+file = "saves/New World/data/fabricRegistry.dat"
+hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
+
+[[files]]
+file = "saves/New World/data/fabricRegistry.dat.1"
+hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
+
+[[files]]
+file = "saves/New World/data/fabricRegistry.dat.2"
+hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
+
+[[files]]
+file = "saves/New World/data/mfix_strongholds.dat"
+hash = "ee519328c104c104572461a38b214ce5a237a13f870fb4bef8272323f03a813f"
+
+[[files]]
+file = "saves/New World/data/modonomicon_book_states.dat"
+hash = "8c1797949dcdf897de15a7d64fe259c0fdd0a501d90eb62c1d3750a6576e242e"
+
+[[files]]
+file = "saves/New World/data/raids.dat"
+hash = "51806429938ebed084c736fab203c571c65bdb2dd8003391c2192c71457b216d"
+
+[[files]]
+file = "saves/New World/data/random_sequences.dat"
+hash = "3b0b503f238bfbacc6a232b2883472c71d258afe8da41150dd415f209d32f4fd"
+
+[[files]]
+file = "saves/New World/data/scoreboard.dat"
+hash = "868e562a851d778f115e6f7db46d549087a5e5a80e7c2b1b5cf605496d4a24af"
+
+[[files]]
+file = "saves/New World/data/spectrum_pastel_network_manager.dat"
+hash = "7008c3e3956fbffc67815dfd86e90e701ade697cbc328f199e84ed43827aa62e"
+
+[[files]]
+file = "saves/New World/data/spellboundTouchedBlocks.dat"
+hash = "cf30d2a29b2538caa392d1ceccb634925da7561978b9fa2c7e2368efca80fa67"
+
+[[files]]
+file = "saves/New World/data/surveyor/c.0.-1.dat"
+hash = "b20244d968ecde28490d836f27952ed46e5b350d793512277f504d06617f49ff"
+
+[[files]]
+file = "saves/New World/data/surveyor/c.0.0.dat"
+hash = "34aab1250f58cd88fe88eeab451b80bda48296af3527d710bae7be5a37c39455"
+
+[[files]]
+file = "saves/New World/data/surveyor/c.0.1.dat"
+hash = "b438625851df500d8599ee59e587aa423a2b3fec69fd968cf76c43dfacbbcc47"
+
+[[files]]
+file = "saves/New World/data/surveyor/c.1.0.dat"
+hash = "46db4f0b1461008c7779108eff0f3501b2c9875d0215d364ff921cd1083f4282"
+
+[[files]]
+file = "saves/New World/data/surveyor/c.1.1.dat"
+hash = "dfe00c49ca35dca71dbec2cd98e53c7cb98969eb574a2904c1e59f3ac16adf05"
+
+[[files]]
+file = "saves/New World/data/surveyor/s.0.-1.dat"
+hash = "ab0c5a35fd73fbcd6508840bce4596084b37adfa00f837c1655b22989d407534"
+
+[[files]]
+file = "saves/New World/data/surveyor/s.0.0.dat"
+hash = "d48642314164497ec21001c9df959ca87b95fe5d33491d2ccba18811adb87244"
+
+[[files]]
+file = "saves/New World/data/surveyor/s.0.1.dat"
+hash = "e09746acc8e172198f2817e3c4025dac573a9a33ded0e782034d864623f0d16f"
+
+[[files]]
+file = "saves/New World/data/surveyor/s.1.0.dat"
+hash = "78abaa02457fee9a2beb6872006935f5d499c1f64199fc2dc6b8a62fb5cd888d"
+
+[[files]]
+file = "saves/New World/data/surveyor/s.1.1.dat"
+hash = "f380d68d7ebd58d3d8a35f7c7345d139995b6c46614f881afd6b77fca2cafff0"
+
+[[files]]
+file = "saves/New World/data/surveyor/structures.dat"
+hash = "5d54076de0da5de1e2e5d49c95eea48eaa8c8f8b4836769aacf7e3f8b79137a1"
+
+[[files]]
+file = "saves/New World/data/yigd_data.dat"
+hash = "3919f73c8ac210166043eec3b846a422867467d9a3971da4cf4fc6b141344394"
+
+[[files]]
+file = "saves/New World/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat"
+hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
+
+[[files]]
+file = "saves/New World/dimensions/spectrum/deeper_down/data/mfix_strongholds.dat"
+hash = "98062e5380dea3a05e588aa58b06acd1b5f36a5b306da17f5f296a083276bfcb"
+
+[[files]]
+file = "saves/New World/dimensions/spectrum/deeper_down/data/raids.dat"
+hash = "51806429938ebed084c736fab203c571c65bdb2dd8003391c2192c71457b216d"
+
+[[files]]
+file = "saves/New World/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/entities/r.0.0.mca"
+hash = "9a0e266218af297c8aa28215a0d1d4e731ca1514517fd1007feb092c42119534"
+
+[[files]]
+file = "saves/New World/entities/r.0.1.mca"
+hash = "d5f625f71dd02dd8d1a30652e4b9d4261ef6e3b14823bb74b140a0f279c80160"
+
+[[files]]
+file = "saves/New World/entities/r.1.0.mca"
+hash = "d6d3e245441182579baa879887a3043977592001a271cdc889d6f3bf8a3fe191"
+
+[[files]]
+file = "saves/New World/entities/r.1.1.mca"
+hash = "a7856c98af280dd4050559c44cbc81b4d6b6ddf4c63e1e21dbde6fbe6977c8e5"
+
+[[files]]
+file = "saves/New World/icon.png"
+hash = "f839a4f49ef676381e066a03a1dfd501a9b8400eb8688e2e220fae35b6947a67"
+
+[[files]]
+file = "saves/New World/kubejs_persistent_data.nbt"
+hash = "b45c66ea477304cdc365d7e2463f33b25e8ea44164b326766137ed6058d397e6"
+
+[[files]]
+file = "saves/New World/level.dat"
+hash = "38851fb05d9c0824b79d4cb640a5023b2d3ab9ea8eef663b73ed4bdfcdb79c15"
+
+[[files]]
+file = "saves/New World/level.dat_old"
+hash = "175a516bf6aba7182d14273c6bd2df892aa6d8950508c3871107052ad15b5af9"
+
+[[files]]
+file = "saves/New World/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat"
+hash = "da3fa267bcb58a7f8c0d0c4e82ed16a616a13a3676ce4e5f147b03a9d9746edd"
+
+[[files]]
+file = "saves/New World/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat_old"
+hash = "d1136e04256212d7ca27d541281f2006c9ccc2825a0ee43636fea5a4930aa1f6"
+
+[[files]]
+file = "saves/New World/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.0.1.mca"
+hash = "f94233db40f9241d264c6fb00fb4758e7d5d9649867a76f425d82d330caade0d"
+
+[[files]]
+file = "saves/New World/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.1.1.mca"
+hash = "4d0ad150a818186f0d3bdbbe308d10198774db7cfc0d4e0194fa1373a4c03100"
+
+[[files]]
+file = "saves/New World/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-1.0.mca"
+hash = "cdd9dc8d5b0663a0e28cf4ceb879a27ef8dbda89c3b1acb7c90d8610311acdae"
+
+[[files]]
+file = "saves/New World/region/r.-1.1.mca"
+hash = "a8cf0dc5f6891f18390cbdf0781ef85d0fab0a0cfd7941011411a180b5c2cfc8"
+
+[[files]]
+file = "saves/New World/region/r.-1.2.mca"
+hash = "900f22904b42fbb1ec2decb23b681b8428ed3b54a7daf6944d3ea5a653913e74"
+
+[[files]]
+file = "saves/New World/region/r.0.-1.mca"
+hash = "b5aff5f038387527829750409bd209a5aef0b144290b8e65a96bcbbda9957b53"
+
+[[files]]
+file = "saves/New World/region/r.0.0.mca"
+hash = "d230877c66b816c6243f2a97eeaeb4ce3eb1e734336e77c2bf81a386773367e8"
+
+[[files]]
+file = "saves/New World/region/r.0.1.mca"
+hash = "552ccfb937e07274d80130447c53410d62a7211faa8e58b6da85e4af113e5ee3"
+
+[[files]]
+file = "saves/New World/region/r.0.2.mca"
+hash = "1fd5a0ed271bf682f0c17f13c268b94fedca259cf58fc597fe691a735746c577"
+
+[[files]]
+file = "saves/New World/region/r.1.-1.mca"
+hash = "0d7dfd05ce7df5d4183d1062e017e3b7b9e7824639cd373731fc87728c2fdb8c"
+
+[[files]]
+file = "saves/New World/region/r.1.0.mca"
+hash = "e361fdbbb19757ce4c8291db65731d6f210e3cc96a827a00eb18cee5816b57cc"
+
+[[files]]
+file = "saves/New World/region/r.1.1.mca"
+hash = "e5ea285949c5ee089a99cb5aeeed6d02d6eb6223e693098b7f91a92332783897"
+
+[[files]]
+file = "saves/New World/region/r.1.2.mca"
+hash = "f5b52777359b75296f6b2862c6555101b57969d163fe585e38bb8133687704d0"
+
+[[files]]
+file = "saves/New World/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/New World/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
+hash = "278d218e43aa1a53b5ce970c99c408f6687005c12b1adce2b07b6fe824d6c6c2"
+
+[[files]]
 file = "saves/Panorama (1)/DIM-1/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
@@ -24890,6 +25142,14 @@ file = "screenshots/2025-03-07_06.58.32.png"
 hash = "a5daec0feae2113745b0a1ec198f51434df1360f059decde1ba38d9f8c09d3fe"
 
 [[files]]
+file = "screenshots/2025-03-08_09.37.03.png"
+hash = "c8e300303f6307ea9d8c2c099e35c04790e4b1c13fd9024186b9fb30a19b3442"
+
+[[files]]
+file = "screenshots/2025-03-08_09.37.07.png"
+hash = "0d674cf6301612c85dc86bbe6a0ea077f8dbb39515469174dab1822b8f121976"
+
+[[files]]
 file = "screenshots/panorama_2025-02-10_17.11.07/panorama_0.png"
 hash = "f4e9551650e3c595191d2badcb8ddc722a49e2602d577f8a81cd6e55ab8a5e32"
 
@@ -25025,7 +25285,7 @@ metafile = true
 
 [[files]]
 file = "usercache.json"
-hash = "4ee8bb684453b37fdb4c1e09a44df7f7255a896d28acc9c478a1cc4931abe0ac"
+hash = "ce5a9b34f3c40b2c487192cefb2fe51f0510b9f808768893d4f96f63e1dcd4d3"
 
 [[files]]
 file = "usernamecache.json"
