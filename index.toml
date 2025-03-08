@@ -13513,6 +13513,11 @@ hash = "c4e2fff7e145a3b85335fa4b65208cd26bfe022f87654876a74ce95488236586"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "c1bcca68b303c6614e75129dbdf59fb065df3be9d08318a0c3599c483b2bcc64"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "d409d08d17fbf9b9e0d673e236df1df66aa3a7c8646bf0ba60fba29671b8941f"
 metafile = true
