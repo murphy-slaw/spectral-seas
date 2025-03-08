@@ -1,65 +1,147 @@
-const ParrotClass$Variant = Java.loadClass("net.minecraft.world.entity.animal.Parrot$Variant");
-const variants = ParrotClass$Variant.values();
-const names = ["Alfie", "Alex", "Barney", "Benny", "Bentley", "Billy", "Bobby", "Bongo", "Buddy", "Castor", "Charlie", "Coco", "Cosmo", "Dave", "Echo", "Elwood", "Felix", "Fernando", "Frank", "George", "Gizmo", "Greyson", "Harry", "Homer", "Jack", "Jambo", "Kirby", "Lester", "Max", "Monty", "Newman", "Nibbles", "Oliver", "Orville", "Oscar", "Pebbles", "Quincy", "Ringo", "Rocco", "Rusty", "Scooter", "Sterling", "Storm", "Taz", "Toby", "Tyson", "Vincent", "Whisky", "Wilbur", "Zak", "Ziggy", "Abby", "Angel", "Ash", "Belle", "Betty", "Bobbi", "Bonnie", "Chloe", "Dotty", "Dusty", "Gracey", "Honey", "Kika", "Kiki", "Lucky", "Mindy", "Nell", "Pepper", "Polly", "Pixie", "Rosie", "Sasha", "Smokey", "Star", "Talulla", "Tilly", "Trixie", "Twinkle", "Wanda", "Zizzi", "Zola"];
-function getRandomParrotVariant() {
-    return Utils.randomOf(Utils.random, variants);
+const ParrotClass$Variant = Java.loadClass(
+    'net.minecraft.world.entity.animal.Parrot$Variant'
+)
+const variants = ParrotClass$Variant.values()
+const names = [
+    'Alfie',
+    'Alex',
+    'Barney',
+    'Benny',
+    'Bentley',
+    'Billy',
+    'Bobby',
+    'Bongo',
+    'Buddy',
+    'Castor',
+    'Charlie',
+    'Coco',
+    'Cosmo',
+    'Dave',
+    'Echo',
+    'Elwood',
+    'Felix',
+    'Fernando',
+    'Frank',
+    'George',
+    'Gizmo',
+    'Greyson',
+    'Harry',
+    'Homer',
+    'Jack',
+    'Jambo',
+    'Kirby',
+    'Lester',
+    'Max',
+    'Monty',
+    'Newman',
+    'Nibbles',
+    'Oliver',
+    'Orville',
+    'Oscar',
+    'Pebbles',
+    'Quincy',
+    'Ringo',
+    'Rocco',
+    'Rusty',
+    'Scooter',
+    'Sterling',
+    'Storm',
+    'Taz',
+    'Toby',
+    'Tyson',
+    'Vincent',
+    'Whisky',
+    'Wilbur',
+    'Zak',
+    'Ziggy',
+    'Abby',
+    'Angel',
+    'Ash',
+    'Belle',
+    'Betty',
+    'Bobbi',
+    'Bonnie',
+    'Chloe',
+    'Dotty',
+    'Dusty',
+    'Gracey',
+    'Honey',
+    'Kika',
+    'Kiki',
+    'Lucky',
+    'Mindy',
+    'Nell',
+    'Pepper',
+    'Polly',
+    'Pixie',
+    'Rosie',
+    'Sasha',
+    'Smokey',
+    'Star',
+    'Talulla',
+    'Tilly',
+    'Trixie',
+    'Twinkle',
+    'Wanda',
+    'Zizzi',
+    'Zola',
+]
+function getRandomParrotVariant () {
+    return Utils.randomOf(Utils.random, variants)
 }
 
-function givePlayerParrot(player) {
-    const parrot = player.block.createEntity("minecraft:parrot");
-    parrot.copyPosition(player);
-    parrot.setVariant(getRandomParrotVariant());
-    parrot.setCustomName(Utils.randomOf(Utils.random, names));
-    parrot.spawn();
-    parrot.tame(player);
-    parrot.setEntityOnShoulder(player);
+function givePlayerParrot (player) {
+    const parrot = player.block.createEntity('minecraft:parrot')
+    parrot.copyPosition(player)
+    parrot.setVariant(getRandomParrotVariant())
+    parrot.setCustomName(Utils.randomOf(Utils.random, names))
+    parrot.spawn()
+    parrot.tame(player)
 }
 
-function givePlayerBundle(player, contents) {
-    const bundle = Item.of('minecraft:bundle');
-    bundle.setNbt({ "Items": contents });
-    player.give(bundle);
+function givePlayerBundle (player, contents) {
+    const bundle = Item.of('minecraft:bundle')
+    bundle.setNbt({ Items: contents })
+    player.give(bundle)
 }
 PlayerEvents.loggedIn(event => {
-    const player = event.player;
-    if (!player.stages.has("starter_kit")) {
-        player.stages.add("starter_kit");
+    const player = event.player
+    if (!player.stages.has('starter_kit')) {
+        player.stages.add('starter_kit')
 
-        Client.options.setCameraType('third_person_front');
+        Client.options.setCameraType('third_person_back')
 
         givePlayerBundle(player, [
-            Item.of("minecraft:apple", 3),
-            Item.of("minecraft:bread", 3),
-            Item.of("minecraft:torch", 4)
-        ]);
+            Item.of('minecraft:apple', 3),
+            Item.of('minecraft:bread', 3),
+            Item.of('minecraft:torch', 4),
+        ])
 
-        Utils.server.scheduleInTicks(
-            40,
-            () => {
-                givePlayerParrot(player);
-            }
-        );
+        givePlayerParrot(player)
+        Utils.server.scheduleInTicks(40, () => {
+            parrot.setEntityOnShoulder(player)
+        })
 
         player.give(
-            Item.of("eccentrictome:tome", 1,
+            Item.of(
+                'eccentrictome:tome',
+                1,
                 '{"eccentrictome:mods":{\
-                botania: {0: {id: "botania:lexicon", Count: 1}},\
-                simplyswords: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "simplyswords:runic_grimoire"}}},\
-                spectrum: {0: {id: "spectrum:guidebook", Count: 1b}}\
+                spectrum: {0: {id: "spectrum:guidebook", Count: 1b}},\
+                simplyswords: {0: {id: "patchouli:guide_book", Count: 1, tag: {"patchouli:book": "simplyswords:runic_grimoire"}}}\
                 },\
                 "eccentrictome:version": 1}'
             )
-        );
+        )
 
-        let weapon =
-            Item.of("simplyswords:iron_cutlass", 1)
-                .enchant("spellbound:storied", 1)
-                .withName("Grandad's Nasty Old Cutlass");
+        let weapon = Item.of('simplyswords:iron_cutlass', 1)
+            .enchant('spellbound:storied', 1)
+            .withName("Grandad's Nasty Old Cutlass")
 
-        weapon.setDamageValue(weapon.maxDamage);
-        player.give(
-            weapon
-        );
+        weapon.setDamageValue(weapon.maxDamage)
+        player.give(weapon)
+        Utils.server.scheduleInTicks(40, () => {
+            Client.options.setCameraType('first_person')
+        })
     }
 })
-

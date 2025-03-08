@@ -3070,7 +3070,7 @@ hash = "fb41974a4c5014e05390d88b4c1af988a9925bd108b0e26064f3e8974332a199"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "942c2648e8e7287a450257336abe8521daa1c49f55133c09daa88b9090bc772d"
+hash = "39449b3108310ff4469f94c7aba5ad5d880fc46ac437ab1040737443520f3d32"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -6112,7 +6112,7 @@ hash = "2ea290031f94ad9aafff6ae8e3cdfe359684b9f327b1ace5b6fb05c29f8ca9a7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/taverns.json"
-hash = "c25fce94494f9e40eb01d007f2d9883fc8e86e90da19c00721bf4b9d19cf3424"
+hash = "d49c9bedec7cf4aac83c0c672e36f6fd40180b75d0e18b11d8bc1fbc6504d68c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/undead_crypt.json"
@@ -6133,6 +6133,14 @@ hash = "08d7b8748445eee3c559a5369b1aa666590c18b28913bba8b7be995b97b7c3e9"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/structure_set/witch_villa.json"
 hash = "e7a56f362eca3e8083529871ee3d70959733477e60b887cbe5f005d18c4da864"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/template_pool/bunker_room.json"
+hash = "9b7fbdc4cb590bc85bb62aed4eb88af1d19c54a42a0fa3158abb87e4bc8f0fe2"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/nova_structures/worldgen/template_pool/bunker_room_hallway.json"
+hash = "42d5bd25332c44e3c91f6a373f6ecdb3f10752be9bb2fd04abee16e332545ac3"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/overworldify/tags/blocks/everything_but_water.json"
@@ -6520,7 +6528,7 @@ hash = "9763d05afc10caa95ef95e69cd00e47c99fa94e3494a2a4e6ecd77537173de5b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/grave_dirt.json"
-hash = "3c316193e2e0db1864e2c17d42656c827f19f4aaffa79265daad3f2514423031"
+hash = "f76923f5e4b13bcbdc58d20c66ce3e43747b2cf2a9613e655613b6492c085a25"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -6629,6 +6637,14 @@ hash = "d2b888a36a8d993cda192d40a81fe074f3208c41efa1ba4e3553ffd93528f27a"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/undead.json"
 hash = "0b51d4da247695c7686dcb9d140a25e51d12132969a8906e4a291d1aa6fdbc32"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/processor_list/bunker_degradation.json"
+hash = "bd0298c084d4b780fad01aeed3ba04245760e3b05b0c4d885ad20ca9bda40001"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/processor_list/bunker_grave_dirt.json"
+hash = "fe4e7a0758561d7c6535da9d7c3a400bf8cdbe8b3eb63ffa9dc9de87d08e8be7"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/worldgen/structure_set/large_ocean_structures.json"
@@ -7066,11 +7082,11 @@ hash = "96e0c50732b8583d5e6e55df7fd68647ec17a19125ddbcacc17f1d46759b438d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "641413a51faec05c34cf9927067b888605407542638875d615f851977358364c"
+hash = "59991729e803d236e2e9f5313a38e951e430b09b15b26fe0e7b8c3c70a7b7712"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f1d351709eaf12961a912f236c610a980753c3adb5cd60579809c23f3712104c"
+hash = "6b2d7f8e315845a2eaf497613fce863c5861b197ff3aebc402e1cf83d66e5916"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7729,6 +7745,10 @@ file = "config/yosbr/options.txt"
 hash = "1eb1ac87005432a9bc51484f27a1f61f9248efae0778fba4cfd73a5e45e7b309"
 
 [[files]]
+file = "crash-reports/crash-2025-03-08_00.22.28-server.txt"
+hash = "49b674924b841d6fd3512e23ff8d441835b990c77708bb85eb4c0a8dd7d5ed1f"
+
+[[files]]
 file = "data/fabricDefaultResourcePacks.dat"
 hash = "29f167a9fa58ff89db8cd70d5afc75bdf00c9094d6e866308f0fa3e184f5832c"
 
@@ -7738,11 +7758,11 @@ hash = "ca37b12279caf54850020b247ba545559dda8b64b27d352017ef788d08d11109"
 
 [[files]]
 file = "emi.json"
-hash = "fe755f52ca7e061f809df0cbfb06c070e21cb3aa23bb8b479daab30d7c07efe2"
+hash = "d543d7a18ef3dd6f932c0c75ef6fdec5dff61044720b669473426cd95ccd48ac"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "fef5e68e579bb34e0dd756fecbdeb85280afb4dcca9c11ab1d94fd8b6bce4a62"
+hash = "b278070b8517b685b67824b8330be93395e57e5f2366f5d933081afa6e0c05f2"
 
 [[files]]
 file = "irisUpdateInfo.json"
@@ -7854,7 +7874,7 @@ hash = "462f84feea0ba3e5fc251806b74c63fddf8914feaa762f8a820b78b4ee25af04"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "f8f9ac68de1b02c71777938449f727138371b347e3c66514c94910707e1af0b3"
+hash = "2d820337da674eb4a424386955d76e9808a6595c0a843e3412abe1aeb6c5e9f4"
 
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
@@ -7930,71 +7950,79 @@ hash = "011a3b650212c46275e33a815dcdd4fe2dcf68cdba8fe01a06449819785ffc66"
 
 [[files]]
 file = "logs/2025-03-07-1.log.gz"
-hash = "4d36b19563ccd8cd1c807368867d3ce522e2b908bd99e87e74602e31cb44f5e6"
-
-[[files]]
-file = "logs/2025-03-07-2.log.gz"
-hash = "755beeae0f2abc27ea0b610581e3bbfc1938efd361bbcc8c068e34739c0fe132"
-
-[[files]]
-file = "logs/2025-03-07-3.log.gz"
 hash = "3fcbfda7b2810bfcb00643052889e997fc673aac44eef51579916ac06b9e0396"
 
 [[files]]
-file = "logs/2025-03-07-4.log.gz"
+file = "logs/2025-03-07-2.log.gz"
 hash = "c5e097d6f77c3c0569a37bca9aa58f8e3c165f9c299f11d94a32612bb1b7d410"
 
 [[files]]
-file = "logs/2025-03-07-5.log.gz"
+file = "logs/2025-03-07-3.log.gz"
 hash = "156a1f0eb24c1664b29f5a39ddec39d4839c93e523d7b64b97fd14aa22a5b9e9"
 
 [[files]]
-file = "logs/2025-03-07-6.log.gz"
+file = "logs/2025-03-07-4.log.gz"
 hash = "08d32509a309ef14480f95489691fea6912e755b4a6ff040a3ffd58dea91ec77"
 
 [[files]]
-file = "logs/2025-03-07-7.log.gz"
+file = "logs/2025-03-07-5.log.gz"
 hash = "ccbfcaad031bdf710d5d92fd5d673c91405450de8bbc70517e5cfdd390b64528"
 
 [[files]]
+file = "logs/2025-03-07-6.log.gz"
+hash = "1270fb734f4868207241d1f323f569330b7ece6bffcfbb2f7e79ba40a92dd442"
+
+[[files]]
+file = "logs/2025-03-07-7.log.gz"
+hash = "e09169c77700a669f694558c3da75e63f652bd9a3578b5571651e09e8fd11498"
+
+[[files]]
+file = "logs/2025-03-08-1.log.gz"
+hash = "43755d48ab617d8a732910668cdb00c107ffe7163286ae0f737718fad25c90ac"
+
+[[files]]
+file = "logs/2025-03-08-2.log.gz"
+hash = "c1a2323b0c9b10b233112e69ccc39076ce757d5ac9c751d604d73118f4f38c2b"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "4b697693b309d2aae2f5864e84cf2ed436c560e31c7c9694af3ec164c365d105"
+hash = "ea4778213297870b4877cb13923a40896f2b35be39f9b384111628e85b7f354b"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "b3b769b23c8136b5ce5cb6f60c53c61959c51e64107834be98e4812e930c3de4"
+hash = "ea380354bf15ebefc73874ee4b967bd25b719fa1f977f01a8bee840f6cb55738"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "01b4c0f7670d82226f4f81a26305646125e60f73014dc8a6302723867d5c53d5"
+hash = "fab1182827fe241602117a581c7fcc33b1707228d2c3762147be7f59ed5f876d"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "583a442630a94104363dd71f194b60e5dad7012dea24e28f2527bb3e1a1cae09"
+hash = "4b697693b309d2aae2f5864e84cf2ed436c560e31c7c9694af3ec164c365d105"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "d133cbcaf17a534b7462750ab26bd282d29859cf0d16c39b3e403440d6bd05e2"
+hash = "b3b769b23c8136b5ce5cb6f60c53c61959c51e64107834be98e4812e930c3de4"
 
 [[files]]
 file = "logs/debug.log"
-hash = "053510d786b92d1009427828f3d7b4f5dca7d6b853c45793498c6b5171d5da51"
+hash = "914cb5fef841d22ba9623fefa310ea3b84e0ba8c9d7b5527012050ea455f3a07"
 
 [[files]]
 file = "logs/kubejs/client.log"
-hash = "cf4862d99e45aa5384273cd8a3f95ddb10ec75cafc56a40e290e2af5098da402"
+hash = "771746295f1acfc28450517befdfe492aa34cee2224c695c54588d7bb795ff38"
 
 [[files]]
 file = "logs/kubejs/server.log"
-hash = "af147812385dba849f1ae925b7dbb363b40a7808fc4c58a2659b0493fcdaabec"
+hash = "ea715fb944b2aa881d90d683ae6d5b316e06aba08d452a3fe852df4983a78f79"
 
 [[files]]
 file = "logs/kubejs/startup.log"
-hash = "0097f19d5bf3f8e42ef6cda164af9d7937beba759efe59011d04986f656cc5dc"
+hash = "aea237037618f557e59048e05753420b24cee41a5386c0692230ca6bbe078b22"
 
 [[files]]
 file = "logs/latest.log"
-hash = "fd8a3e54ef184683aa17d21daad13bdce3337eed98a5f62a4a065cb16ef294a2"
+hash = "d17d6ca5307b36cd875fdefb32c4e0ac055bfb24394e72ef31c2a6b9dc3965f5"
 
 [[files]]
 file = "modernfix/structureCacheV1/hopo_mobs_piglin_crossbow_4ee4f49c91.nbt"
@@ -22306,222 +22334,6 @@ file = "rhino.local.properties"
 hash = "907b77b6d5dedb073350f8fbc3f90bbcda0e783f83689c09624e46f230167fae"
 
 [[files]]
-file = "saves/Chubbs/DIM-1/data/cardinal_world_components.dat"
-hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
-
-[[files]]
-file = "saves/Chubbs/DIM-1/data/raids.dat"
-hash = "4eb6ebe322f200122553f462c6abf5e4b208db296ce3828da53b04fba321a3e7"
-
-[[files]]
-file = "saves/Chubbs/DIM1/data/cardinal_world_components.dat"
-hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
-
-[[files]]
-file = "saves/Chubbs/DIM1/data/raids_end.dat"
-hash = "4eb6ebe322f200122553f462c6abf5e4b208db296ce3828da53b04fba321a3e7"
-
-[[files]]
-file = "saves/Chubbs/advancements/f0726398-654d-473c-af31-b0a210214fd4.json"
-hash = "a81dcee2453e93ad1912e8d17a06778dfc170047394db14af2d939e1c73d52e0"
-
-[[files]]
-file = "saves/Chubbs/data/cardinal_world_components.dat"
-hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
-
-[[files]]
-file = "saves/Chubbs/data/fabricRegistry.dat"
-hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
-
-[[files]]
-file = "saves/Chubbs/data/fabricRegistry.dat.1"
-hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
-
-[[files]]
-file = "saves/Chubbs/data/fabricRegistry.dat.2"
-hash = "98e70c12b9664e8fb7e4bc6d0a9d4d7074642d688816b7f0cdee777822faed06"
-
-[[files]]
-file = "saves/Chubbs/data/mfix_strongholds.dat"
-hash = "a737e6a0af9001c72f0441156339a1d4a18bd0c69fad57d95e9b8bc46dd1b658"
-
-[[files]]
-file = "saves/Chubbs/data/modonomicon_book_states.dat"
-hash = "39ee1d3dc5e1b72270115004b552f3027a7868878faa0e24377b29fd9c6047e8"
-
-[[files]]
-file = "saves/Chubbs/data/raids.dat"
-hash = "4eb6ebe322f200122553f462c6abf5e4b208db296ce3828da53b04fba321a3e7"
-
-[[files]]
-file = "saves/Chubbs/data/random_sequences.dat"
-hash = "9c56465558dd5252d0d470004711348adf3f5df5458c4043f9f5b4c39340a85e"
-
-[[files]]
-file = "saves/Chubbs/data/scoreboard.dat"
-hash = "38fc2ff9a90d5c7996fd0520750cf9d9a98e81549d3e1c71b6d0546e71ddb892"
-
-[[files]]
-file = "saves/Chubbs/data/spectrum_pastel_network_manager.dat"
-hash = "7008c3e3956fbffc67815dfd86e90e701ade697cbc328f199e84ed43827aa62e"
-
-[[files]]
-file = "saves/Chubbs/data/spellboundTouchedBlocks.dat"
-hash = "e8e30734d19c3f35e0989fc93639c7220db87d61a430096f53a8f9efc453b251"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/c.-1.-1.dat"
-hash = "5b8990d5b7fadf4406df485e482345409e0df13d215c15d57f3c88f45695b9fb"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/c.-1.0.dat"
-hash = "9efdddfa6eab8a12562ccd7df3d02ac2829acb3573bcf2070e37e64e7bb669d1"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/c.0.-1.dat"
-hash = "bf3198591cc46bd496ae263301addeb19c9a55eb416952132c33b29a3e74e0aa"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/c.0.0.dat"
-hash = "1cedbcc8f9db68f7237b8c80a53eab9fda88e824452dd22864fc9298c96ac1d1"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/s.-1.-1.dat"
-hash = "18c042f6938d58ea91f6a1e487c6fd72507efd062a5b23e8582acfde4fd53ffc"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/s.-1.0.dat"
-hash = "cdcfb7bd3c97ad9bb320a2272381b112158b5b64c9ad6abe6113740614f7fd00"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/s.0.-1.dat"
-hash = "c6f448a5d81bf7f2429a3f388fff110f72a48cffba28033a98b4c650923462bd"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/s.0.0.dat"
-hash = "8a028129a7fc5490a62b7e96ef10dee5ca6b6ae2e48138b5475c58a6bed46e27"
-
-[[files]]
-file = "saves/Chubbs/data/surveyor/structures.dat"
-hash = "93e49e4e5a76da7a2d2ead9616660c7167012d98c23d872e27b744281919d53e"
-
-[[files]]
-file = "saves/Chubbs/data/yigd_data.dat"
-hash = "3919f73c8ac210166043eec3b846a422867467d9a3971da4cf4fc6b141344394"
-
-[[files]]
-file = "saves/Chubbs/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat"
-hash = "090ff687ae608539a9026e1a8950230957a1c6fd7f5e78e70da4e6131abab4d0"
-
-[[files]]
-file = "saves/Chubbs/dimensions/spectrum/deeper_down/data/mfix_strongholds.dat"
-hash = "3200578b638630b9c91020de396c8003b900762337a53ed0d515a821f16a114f"
-
-[[files]]
-file = "saves/Chubbs/dimensions/spectrum/deeper_down/data/raids.dat"
-hash = "4eb6ebe322f200122553f462c6abf5e4b208db296ce3828da53b04fba321a3e7"
-
-[[files]]
-file = "saves/Chubbs/entities/r.-1.-1.mca"
-hash = "fda68adb64b0a30a635e58878b24fe5f141f994196f19212107e2b94cc6bcf74"
-
-[[files]]
-file = "saves/Chubbs/entities/r.-1.0.mca"
-hash = "09d8c65cb813c1d623213452106b4d8c33cd9f74b2d329d751f812ea7d32edc8"
-
-[[files]]
-file = "saves/Chubbs/entities/r.0.-1.mca"
-hash = "3ab6fd537465d046e824a86649af6626fb962046ab5eaf168cfb9d2d4959118e"
-
-[[files]]
-file = "saves/Chubbs/entities/r.0.0.mca"
-hash = "ed6133cd01ff32ad7808e4f20be33f0fa2bbf04e23c9b4252787071bdf6478df"
-
-[[files]]
-file = "saves/Chubbs/icon.png"
-hash = "b215301f97bf3d5e27160e3a79946e57640ccdf0769aa4a442400b15f6800088"
-
-[[files]]
-file = "saves/Chubbs/kubejs_persistent_data.nbt"
-hash = "b45c66ea477304cdc365d7e2463f33b25e8ea44164b326766137ed6058d397e6"
-
-[[files]]
-file = "saves/Chubbs/level.dat"
-hash = "5d3291a582bf2029977f848c663ae9f3878ada17e407abb61d155f1895c466b1"
-
-[[files]]
-file = "saves/Chubbs/level.dat_old"
-hash = "93fadd264a256c25530a546a5e35867224cc7ad21be744b2df33a5e54433bf0d"
-
-[[files]]
-file = "saves/Chubbs/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat"
-hash = "e6fa1a0e8754ab43c2615e0869684f5232b2057c6300b801ac5adce94ff2e9cd"
-
-[[files]]
-file = "saves/Chubbs/playerdata/f0726398-654d-473c-af31-b0a210214fd4.dat_old"
-hash = "51207ef0ad966980991b31d5403ba10c8a79cd5027d6ae5715e4c3fff85732d7"
-
-[[files]]
-file = "saves/Chubbs/poi/r.-1.-1.mca"
-hash = "fb521a8df58acac4ff41830d97ea49e98ebd577d1a2a2998a9987454973a7504"
-
-[[files]]
-file = "saves/Chubbs/poi/r.-1.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Chubbs/poi/r.0.-1.mca"
-hash = "7c9f948bb07b5b577d06f77b95dd13fd97f1958742382ccb5b05de8f0c4d9e52"
-
-[[files]]
-file = "saves/Chubbs/poi/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Chubbs/region/r.-1.-1.mca"
-hash = "0a02044577b3fb7986506cb3d49986d95aec54a4bfd6a2630f4500de9c50a603"
-
-[[files]]
-file = "saves/Chubbs/region/r.-1.-2.mca"
-hash = "d355c487e28a71c0741da206eda8a0785b85e393f261dd45b83d9a39a01e300b"
-
-[[files]]
-file = "saves/Chubbs/region/r.-1.0.mca"
-hash = "a32ef38a3aa8006250998c2eee7237e1d434cc027fb55af36d5e9f7002585240"
-
-[[files]]
-file = "saves/Chubbs/region/r.-2.-1.mca"
-hash = "e9d5867fbfead21ad0a69e27268737fddf517f86e9e1b99981274ca8ea35def5"
-
-[[files]]
-file = "saves/Chubbs/region/r.-2.-2.mca"
-hash = "daf5bf079be4891aae7d9e874202c951444947d75f8da0649aa492d1000338b2"
-
-[[files]]
-file = "saves/Chubbs/region/r.-2.0.mca"
-hash = "fba4fe1e3aa46c2710960272410f608c486e699db8926a7110aed332156f98cb"
-
-[[files]]
-file = "saves/Chubbs/region/r.0.-1.mca"
-hash = "6ce092a22f470e7aaf69234afb7b224a3eea7eb7d804208d015bd7cd75e68697"
-
-[[files]]
-file = "saves/Chubbs/region/r.0.-2.mca"
-hash = "78d8094d92c56295d14168466da4d08987cae85c5d54e9bff87afd618ab30879"
-
-[[files]]
-file = "saves/Chubbs/region/r.0.0.mca"
-hash = "77ddd52785c608ed39c5f3d4d140b3ae4fd422674eee7a00b380fbfecad4e5c6"
-
-[[files]]
-file = "saves/Chubbs/session.lock"
-hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
-
-[[files]]
-file = "saves/Chubbs/stats/f0726398-654d-473c-af31-b0a210214fd4.json"
-hash = "5657cb9f9bc6a0bb953d52e07fe14334d79d5f5e353909e0ca3c8e8c97fd6c1a"
-
-[[files]]
 file = "saves/Panorama (1)/DIM-1/data/cardinal_world_components.dat"
 hash = "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92"
 
@@ -25213,7 +25025,7 @@ metafile = true
 
 [[files]]
 file = "usercache.json"
-hash = "6d44fa458d36e74617c3ef334f875eacf941cd815c96e32db2d610f7135ec32e"
+hash = "4ee8bb684453b37fdb4c1e09a44df7f7255a896d28acc9c478a1cc4931abe0ac"
 
 [[files]]
 file = "usernamecache.json"
