@@ -74,6 +74,7 @@ function getSleepProblem (event, bedPos) {
 
 FabricAddedEvents.stopSleeping(event => {
     // Now we remove the fake bed!
+    if (event.level.isClientSide()) return
     let pos = event.player.persistentData.getCompound('fakeBedPos')
     if (pos === undefined) return
     let blockPos = BlockPos(pos.x, pos.y, pos.z)
