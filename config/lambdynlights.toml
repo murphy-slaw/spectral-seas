@@ -146,6 +146,7 @@ mode = "fancy"
 				snowy_enderman = true
 				dark_oak_enderman = true
 				swamp_enderman = true
+				badlands_enderman = true
 
 			[light_sources.settings.entities.musketmod]
 				bullet = true
@@ -219,11 +220,13 @@ mode = "fancy"
 				cave_creeper = true
 				forgotten = true
 				explorer = true
+				frozen_zombie = true
 				bloated_corpse = true
 				undead_warrior = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
+				penguin = true
 				coconut_crab = true
 
 			[light_sources.settings.entities.tridents_n_stuff]

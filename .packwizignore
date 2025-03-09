@@ -30,4 +30,6 @@ config/data_attributes.json5
 config/data_attributes/
 config/sodium-extra.properties
 config/sodium-mixins.properties
+screenshots/
+exposures/
 *.zip
