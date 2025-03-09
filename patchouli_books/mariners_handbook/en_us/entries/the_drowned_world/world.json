@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "text": "Ours is a drowned World, a boundless Sea broken only by a smattering of Islands. The Sea stretches to the Horizon in every Direction, and if it have a Limit, no Man alive has seen it.$(p)The Islands are not without Inhabitants, but Settlements are small and sparse, and the great Cities of old are unknown.$(p)A few hearty Souls dare take Ship and roam the Deep in search of Trade and Fortune, but many Pirates (and worse Things) lurk, seeking to deprive them of their Gain.$(p)"
         },
         {
             "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "text": "The People of the Settlements are hard-bitten and suspicious, and do not welcome Strangers without Gifts or Cargo.$(p)A few Folk of a less choleric Temperament establish Inns or Taverns, where a Sailor may find Rest and Sustenance, for a Fee.$(p)Below the Surface of the Islands, great Wealth can be Mined in grand Caverns, but Creatures and other Horrors wait for the unwary.$(p)In this World, the Bold prosper, but Folly brings Ruin just as surely.$(p)"
         }
     ]
 }

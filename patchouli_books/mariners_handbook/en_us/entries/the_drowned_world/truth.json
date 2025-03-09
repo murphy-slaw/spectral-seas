@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "text": "Anyone with Eyes can see that we live in a changed World. How this came to be is a Matter of great Speculation and Rumor, but in all my Days of Sailing I have heard little that convinces.$(p)Some say the Land was sunk by a mighty Flood as Punishment for the Hubris and Greed of the Ancients.$(p)Some say that it is the Work of great Sorcerors gone awry.$(p)"
         },
         {
             "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "text": "Others claim that the very Methods used to raise the majestic Cities led to their Downfall.$(p)Perhaps one day a cunning Sailor shall find some Proof of these in their Travels.$(p)But the Sea swallows Dreamers and rewards the Prepared. Before chasing Legends, master the practical Arts of the Mariner."
         }
     ]
 }

@@ -5,5 +5,6 @@
     "version": 0,
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": false,
-    "model": "patchouli:book_cyan"
+    "model": "patchouli:book_cyan",
+    "text_overflow_mode": "resize"
 }
