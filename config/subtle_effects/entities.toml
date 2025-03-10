@@ -43,8 +43,8 @@ adjustNameTagWhenSleeping = true
 
 [humanoids]
 drowningBubblesDisplayType = "DEFAULT"
-drowningBubblesDensity = 10
-drowningBubbleAlpha = 1.0
+drowningBubblesDensity = 5
+drowningBubbleAlpha = 0.5042586
 potionRingsDisplayType = "DEFAULT"
 potionRingsParticleType = "BOTH"
 NPCsHavePotionRings = true
