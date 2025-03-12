@@ -1,11 +1,11 @@
 name = "Sushi Bar"
 filename = "sushi_bar-0.2.2+1.20.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tr2Mv6ke/versions/jr9lc3k8/sushi_bar-0.2.2%2B1.20.jar"
-hash-format = "sha1"
-hash = "03238309995c476ca7f61f6d55d41d1408692c67"
+hash-format = "sha512"
+hash = "d8619fe5e575e62eca86e898569df122eb5002914167cf75d7d61f17633ead9e3c6b4b7a3b00d2336964b21f299f653459fc1964440f6ad2d36011be5dc72889"
 
 [update]
 [update.modrinth]
