@@ -44,6 +44,7 @@ mode = "fancy"
 				llama_spit = true
 				mooshroom = true
 				glow_item_frame = false
+				snowball = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
@@ -211,6 +212,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.pesky_seagulls]
 				seagull = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
 
 			[light_sources.settings.entities.frycmobvariants]
 				tropical_spider = true
