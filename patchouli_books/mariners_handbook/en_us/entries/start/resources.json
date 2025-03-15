@@ -1,17 +1,13 @@
 {
-    "name": "Resources",
+    "name": "A Fragile Sanctuary",
     "icon": "ecologics:sandcastle",
     "category": "patchouli:start",
     "entry_color": "43120F",
     "sortnum": 1,
     "pages": [
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
-        }
+        "Having survived the first Night, the Time has come to assess the Island's true Bounty.$(p)Islands appear in many Forms – from sprawling Landmasses with towering Crags to tiny Islets scarcely larger than a Sandbar. Their Climates range from lush Rain-Forests to brutal Deserts or cold-bitten Coasts. $(p)Each provides or withholds the Stuff of Life according to its Nature.",
+        "The Gifts of an Island are threefold - its Timber, its Minerals, and its allotment of Animals - and each of these may be bountiful or meagre.$(p)Of these, animal Life depletes most easily, for their Numbers are small and replenish slowly. Fish suffice for Food, but yield neither Wool nor Leather. Establishing a Ranch may tempt, but whoever took to the Sea hoping to be a Farmer?$(p)A Survivor needs Timber, for Fuel, Tools – and Ships. Few Islands are bereft of Wood, but faced with a Lack one may scour the nearby Waters for Wrecks or Drift-Wood.$(p)",
+        "Mineral Wealth is most uncertain. It would be a blighted Island that had no reserves of Coal and Copper, nor any Stone for Tools – but other Treasure may be lacking.$(p)Surface Iron is rare except in Mountains, which may be absent. Below the Surface, Weath abounds, but Openings to those Caves sulk among the Cliffs and Crags.$(p)With Luck, a Survivor otherwise impoverished might gain Metals from Wrecks or Ruins.",
+        "With all such Allotments in the Hands of capricious Fortune, only the luckiest of Castaways could hope to find themselves ashore in a Paradise of Abundance.$(p)A canny Survivor will exploit such Gifts as present themselves – while always keeping an Eye on the Horizon for further Lands that beckon.$(p)Even if amply supplied, once Survival is assured the wise Sailor works towards the Sea – and Escape."
     ]
 }

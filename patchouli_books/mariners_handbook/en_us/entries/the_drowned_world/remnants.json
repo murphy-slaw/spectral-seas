@@ -5,10 +5,7 @@
     "entry_color": "43120F",
     "sortnum": 1,
     "pages": [
-        {
-            "type": "patchouli:text",
-            "text": "Howsoever we find the World now, it was not always thus. On the Islands and beneath the Waves lay Ruins of Times past, some nearly crumbled to Dust, some intact.$(p)The Villagers shun these, but a bold Adventurer may find Treasure and Trash among the Rubble.$(p)Of the great Cities of Legend there are few Signs, though old Sailors speak of strange Lights that beckon from the deepest Waters.$(p)"
-        },
+        "Howsoever we find the World now, it was not always thus. On the Islands and beneath the Waves lay Ruins of Times past, some nearly crumbled to Dust, some intact.$(p)The Villagers shun these, but a bold Adventurer may find Treasure and Trash among the Rubble.$(p)Of the great Cities of Legend there are few Signs, though old Sailors speak of strange Lights that beckon from the deepest Waters.$(p)",
         {
             "type": "patchouli:image",
             "images": [
@@ -16,7 +13,7 @@
             ],
             "title": "A Tower",
             "border": true,
-            "text": "Of the looming Spires that pierce the Skies and the Deeps, little is known, but some say great Prizes await those who scale their Heights.$(p)"
+            "text": "Little is known of the looming Spires that pierce the Skies and the Deeps, but some say great Prizes await those who scale their Heights.$(p)"
         }
     ]
 }

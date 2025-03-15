@@ -1,0 +1,13 @@
+{
+    "name": "Facing The Merciless Sea",
+    "icon": "artifacts:flippers",
+    "category": "patchouli:start",
+    "entry_color": "43120F",
+    "sortnum": 2,
+    "pages": [
+        "By now, the Reader must exclaim \"Mariner! Cease your Prattle! You drone on about endless Toil and Grubbing for Sustenance, but lo! I am young and hale, and with a full Belly, may strike out from the Shore and swim 'til a more fortunate Land with Settlements and Comfort is gained!\" This is, of course, purest Piffle, and thus I write the Manual and you read it.$(p)Howsoever young and hale a Sailor may be, the Sea is no mere Swimming-Hole and a wise Mariner is ken to its many Dooms.$(p)",
+        "Many behold the Sea and think it a mere Pond to be crossed with valiant Effort, but the Waters are cold, and sodden Limbs are heavy and quickly lose their Strength.$(p)The Swimmer slows, and their Vision dims as deep Fatigue grips them - a great Peril, for the Denizens of the Sea are keen-eyed and swift.$(p)A wise Sailor measures their Breath and keeps their Head above the Brine. The surest Doom comes when the Breath gives out below the Waves and no Strength can be found to breach the Surface.",
+        "If the Sea itself fails to drag you down, its Creatures, both mundane and uncanny, may complete the Task.$(p)Some say the Drowned are Wraiths of lost Sailors, but their vast Numbers suggest otherwise. By Night they rise to the Surface, though the face of the Sun sends them lurking to their Depths. Flee those bearing Tridents, for their Aim is as keen as their Prongs.$(p)Sharks of every Temperament dwell in these Seas – from gentle Behemoths that pay no heed to Men to devoted Man-Eaters. The most savage are found in deep open Water, though the Shallows are not without Teeth. Observe well their Movements, for their Intent is writ in their Approach.$(p)",
+        "All manner of Jellyfish drift with the Currents, their venomous Tentacles a Bane to the unwary Swimmer. Even the most virulent is rarely fatal, but their Sting leaves one weak and vulnerable, magnifying other Threats. Even so, a careful Hunter may gather them for their useful Fluids.$(p)Of the primeval Edifices of the greatest Deeps and their strange Guardians, little need be said, save that only the bravest and most prepared Mariners dare approach.$(p)Armed now with a Litany of Dangers posed by the Sea, let us turn our Thoughts to securing a safe Departure from our makeshift Home.$(p)"
+    ]
+}
