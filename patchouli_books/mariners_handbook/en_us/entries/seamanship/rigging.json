@@ -1,20 +1,15 @@
 {
-    "name": "Rigging",
+    "name": "On Rigging",
     "icon": "supplementaries:rope",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
     "sortnum": 2,
     "pages": [
+        "To the Layman, Rigging seems the least Element of a Ship, yet Rope is the Sailor's steadfast Companion – and like Friendship, if it perish, only Ruin can follow. Effort spent securing proper Rigging repays itself Hundredfold.$(p)All Rope begins with Fibers. The patient may gather the Threads of Spiders - or the stout-hearted may seize them. Some Reeds of Fen or Bog yield String if gathered in Quantity. The unhurried may cultivate wild Flax Seeds found on Shores – from which fine Rope is wrought.$(p)",
         {
-            "type": "patchouli:spotlight",
-            "item": {
-                "tag": "minecraft:axes"
-            },
-            "text": "This is a test entry, but it should show up!"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "type": "crafting",
+            "recipe": "minecraft:kjs/supplementaries_rope",
+            "text": "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task.$(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools$(p)."
         }
     ]
 }

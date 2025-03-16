@@ -5,13 +5,7 @@
     "entry_color": "43120F",
     "sortnum": 3,
     "pages": [
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
-        }
+        "Having fashioned your Craft and rigged it from Stem to Stern, few Obstacles stand between you and the open Sea. Yet pay Heed – a Ship, however finely wrought, is mere Drift-Wood without a capable Helmsman.  It remains for you to launch it into a suitable Harbor, and to study the Arts of Pilotry and Navigation.$(p)To launch, select a calm Harbor of fitting Depth and lay the Craft upon the Water with a firm right Hand $(o)(RMB)$(). If she balks, adjust your Stance and try again. Mind not to cast too near the Shore, lest the Stern lodge in Muck and require Digging.$(p)",
+        "With a firm Hand on the Tiller $(o)(A/D)$(), turn the Prow towards the open Sea and unfurl the Sails $(o)(R)$(). Presently they shall catch Wind and your Vessel is under Way. To gain Speed, trim the Sails $(o)(W)$(), setting them until the Sheets are taut. To slow, slacken the Sails $(o)(S)$(), and furl them fully $(o)(R)$() to drift to a Stop.$(p)Mind that your Ship responds not as a Nag to the Whip – adjustments to the Sails need Moments to effect. Note too that a Ship alters course with some Reluctance – and the larger the Vessel, the wider her Turns. The wise Pilot is patient.$(p)If your Craft is fitted with Oars, you may engage them by directing the Crew to row $(o)(hold W)$() – adding their Strength to the Wind, or maneuvering by Oar alone for finer control.$(p)"
     ]
 }

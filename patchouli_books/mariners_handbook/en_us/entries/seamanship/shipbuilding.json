@@ -5,13 +5,13 @@
     "entry_color": "43120F",
     "sortnum": 1,
     "pages": [
+        "All Ships, of any Design, require the same Elements, albeit in differing Measure. A Hull is wrought from Timber like a Boat, but grander in Scale. Sails need stout Masts, woolen Sheets to catch the Wind, and fortified Ropes for Rigging. Further Ropes secure the Vessel's Fittings and Cargo.$(p)Of Timber, I have already spoken. Gather a great Heap of it, for Needs may exceed Estimation.  Wood Type matters not, and may be chosen by Taste or Opportunity. For Masts, the stripped Bole of a Tree serves best.$(p)Sailcloth needs a tidy Stockpile of Wool – and I trust you have saved enough Sheeps to fill the Order.$(p)Rigging demands its own Topic.$(p)",
         {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "This is a test entry, but it should show up!"
+            "type": "patchouli:crafting",
+            "recipe": "smallships:oak_cog",
+            "recipe2": "smallships:sail",
+            "title": "The Plan of an Oaken Cog",
+            "text": "$(o)Figures illuminate the Design of a Cog, for those who tire of Words.$(p)$()"
         }
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "name": "The Way of Charts",
+    "icon": "minecraft:compass",
+    "category": "patchouli:seamanship",
+    "entry_color": "43120F",
+    "sortnum": 4,
+    "pages": [
+        ""
+    ]
+}

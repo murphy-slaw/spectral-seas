@@ -1,0 +1,11 @@
+{
+    "name": "To Sea!",
+    "icon": "smallships:oak_brigg",
+    "category": "patchouli:seamanship",
+    "entry_color": "43120F",
+    "sortnum": 0,
+    "pages": [
+        "The Time comes when the Charm of Island Life, however secure, begins to wane. Tho every Comfort be had, the Heart of the Sailor keens for Salt Air and the Call of the far Horizons. Or perhaps one's Ration-Bag has grown so thin that Worry steals restful Sleep. Whatever the Symptom, the Cure is the same - to Sea!$(p)Still, to heed the Call takes proper Preparation and we must spurn undue Haste. The longing Castaway is tempted to craft a crude Dug-Out or Raft and depart forthwith - a grave Error. A mere Boat may safely hug the Shore but rougher Waters will smash it to Flinders in a Trice.$(p)",
+        "With a moment's Thought, the Boons of a proper Ship are manifest. A well-wrought Hull is steadfast against the grasping Waves, a taut Sail makes the Wind our Servant, and a spacious Hold assures that no Treasure need be abandoned. As the Master of a Ship, the Mariner outshines the Castaway as Man exceeds the Ape.$(p)Ships rival the Birds of the Air in variety, but for our Purpose, four Types shall serve. The Cog and the Brigg are Merchant Craft, built for Cargo. The Galley and Drakkar are sleeker, made for Raiding and War. Of these, the Cog excels as a first Vessel, being manageable in Size with a modest Bill of Material.$(p)"
+    ]
+}
