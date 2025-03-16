@@ -1,13 +1,13 @@
 name = "TipsyLib"
-filename = "TipsyLib-fabric-1.20.1-2.0.9.jar"
+filename = "TipsyLib-fabric-1.20.1-4.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mk0Htq87/versions/t8k16ZNB/TipsyLib-fabric-1.20.1-2.0.9.jar"
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/CBtlaTbB/TipsyLib-fabric-1.20.1-4.0.0.jar"
 hash-format = "sha512"
-hash = "932866f5a5d75fea1fa2cca1d59ff70a52114b54b35cb2dcb33350ee6fb601770af482f303472c817d108605087aa822b8ad58085bbee0ec408f0c3362abe99f"
+hash = "71c3379302019465a8c4861fdbb589ecf85805127eba505bea21b60b1f2fa441e263f4a66937358c25211d6c728051728eb381bc0b861d8332f2a55e9e3f32a7"
 
 [update]
 [update.modrinth]
 mod-id = "mk0Htq87"
-version = "t8k16ZNB"
+version = "CBtlaTbB"

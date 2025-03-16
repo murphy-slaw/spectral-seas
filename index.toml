@@ -13639,7 +13639,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "74081837a83fd33bbb44a96d2220fc24ff83b35f0e994fa2c6c66250e0b5f3c6"
+hash = "73f4da3b3810bde0822f7f11836a5a2c5a0d5c94dcc2822f0ec3c1b7f0d9971a"
 metafile = true
 
 [[files]]
@@ -13673,7 +13673,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "b25429f449679640179059ac41c1950b0f25681057c870f743fef0c317d2dd8f"
+hash = "716a320b7e7f93ca7f93f4d36bbb428ab3e48024d3d2068011260d9a9952b266"
 metafile = true
 
 [[files]]
@@ -13728,7 +13728,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
+hash = "12f40e8ef4301259b61ca5d32a9d3c0c7e790f0854b6a1f42986bf71485408e4"
 metafile = true
 
 [[files]]
@@ -13768,7 +13768,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "d409d08d17fbf9b9e0d673e236df1df66aa3a7c8646bf0ba60fba29671b8941f"
+hash = "c442a122b6955c76b3ffc3ae9a1e77cd77eb8b039bf6d360ceec0ddc3ce7fee5"
 metafile = true
 
 [[files]]
@@ -13848,7 +13848,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+hash = "871823f9cddce5616209687d3c2434cefcafd43c30b61c9024da87a3b9b9e9e9"
 metafile = true
 
 [[files]]
@@ -13948,7 +13948,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7d3f6050aa325263ac720038e99aa72ba6bb464601dfac5a956d48659a2ebba2"
+hash = "5590eaf0dfc38b96940a8a699079052a7c5723c03528b0cfaca646c2e9d64da8"
 metafile = true
 
 [[files]]
@@ -14078,7 +14078,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f3bfb5abad2940532944e9012d1a2f36079fd4d10bf4dfea99a76b4bf717a2ee"
+hash = "3e2a1448933199b681df01a7dbf50fb13bbd95e7d79d3e7f49dcc13f739ceaab"
 metafile = true
 
 [[files]]
@@ -14153,7 +14153,7 @@ metafile = true
 
 [[files]]
 file = "mods/separatedleaves.pw.toml"
-hash = "2d0ffe6792b0d0c97137383d16a92b4af38cbe7b57917f42e3c3440f9f6b10cc"
+hash = "e448efc0f62a8b3eb28ce5ba31773f1360d33e32ab0e64ee7d143bc865ac50ae"
 metafile = true
 
 [[files]]
@@ -14183,7 +14183,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "54dc64bf9572591ece995cf2bfde5511e2b510242c8977d69a14fd7f12cd4f14"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
 
 [[files]]
@@ -14223,7 +14223,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellbound.pw.toml"
-hash = "00d9ac5a4e4ecf56a0229b2d4a771805a93d64461dd5f1e30f0a7d28325f131e"
+hash = "366454c2535fdbad6b22225479657e34ed5b394f43efab760e287425cfa7b738"
 metafile = true
 
 [[files]]
@@ -14238,7 +14238,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "52cd111d0a2cf8c03780f36fdf4f6733efbb4087efdd67211e5b69dfe8bd06f1"
+hash = "ae196fcf084ec3c9ac548828b9b0470bb238f2a9d7943589a37c4923a3a886dd"
 metafile = true
 
 [[files]]
@@ -14268,7 +14268,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "aa3315eb331ad68bef16dfba51a5df2413109f5342482e60978b450df6348506"
+hash = "c3f667ef07dc9dcbd5441081d30942ec0749d8530b7affbde2d6914f82b14d32"
 metafile = true
 
 [[files]]
@@ -14288,7 +14288,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
@@ -14308,7 +14308,7 @@ metafile = true
 
 [[files]]
 file = "mods/tipsylib.pw.toml"
-hash = "1979f7c25dcef7e866c94569099c52e68f4ef7c3f8afa72e5ff1561875cf57eb"
+hash = "34da4dd56fbe0b05c0e0900a3ee8abbc0bcd4ff990640eb45d1b199634bf4d94"
 metafile = true
 
 [[files]]
@@ -14323,7 +14323,7 @@ metafile = true
 
 [[files]]
 file = "mods/unseaworthy.pw.toml"
-hash = "a133fc524126c0ad777902010da9704f82e8c51c3a217f89d1d12c40b29f539e"
+hash = "ce226873b562e6bbbafa72eb967f5c7db03ac12e3f9e15bd3a66daddce7cff0b"
 metafile = true
 
 [[files]]

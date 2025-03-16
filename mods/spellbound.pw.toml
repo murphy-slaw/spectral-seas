@@ -1,13 +1,13 @@
 name = "Spellbound Enchantments"
-filename = "spellbound-1.20.2.jar"
+filename = "spellbound-1.20.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PvOWwwRg/versions/BAjIfHf5/spellbound-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/PvOWwwRg/versions/bieyaFxV/spellbound-1.20.3.jar"
 hash-format = "sha512"
-hash = "48509114fc3b36c0aeb1c6177181a2d790ace40af5e2db3f971a2a9206ebfb99048a75a1437cb2fca8506c3e6c62df4d13a1b0b31a793b3240e4c0327e1ddd2e"
+hash = "07545a22c4799efdc948f0ce06c573fd349d6cb9a6ffed1b8ed77b9a6062002c96083bbd0016ea6b5b9d3610577ebd2595fd6ba0b4987a497c7de9a3b7e0f940"
 
 [update]
 [update.modrinth]
 mod-id = "PvOWwwRg"
-version = "BAjIfHf5"
+version = "bieyaFxV"

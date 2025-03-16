@@ -6,5 +6,7 @@
 	// Minimum water depth to sink boats.
 	"minDepth": 5,
 	// What happens to wrecked boats?
-	"fate": "DESTROY"
+	"fate": "DESTROY",
+	// What weather is required for boats to sink?
+	"weatherRequired": "CLEAR"
 }
