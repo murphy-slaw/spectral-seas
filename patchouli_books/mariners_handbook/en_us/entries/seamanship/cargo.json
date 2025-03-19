@@ -3,7 +3,7 @@
     "icon": "minecraft:chest",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
-    "sortnum": 4,
+    "sortnum": 5,
     "pages": [
         {
             "type": "patchouli:text",

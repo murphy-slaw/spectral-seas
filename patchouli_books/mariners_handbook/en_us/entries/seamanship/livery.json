@@ -3,7 +3,7 @@
     "icon": "supplementaries:flag_black",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
-    "sortnum": 5,
+    "sortnum": 6,
     "pages": [
         {
             "type": "patchouli:text",

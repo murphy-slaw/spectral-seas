@@ -55,6 +55,9 @@ config/data_attributes/
 config/sodium-extra.properties
 config/sodium-mixins.properties
 config/carpet
+config/malilib.json
+config/minihud.json
+config/minihud
 usernamecache.json
 .trueadaptivemusic
 .datadumper

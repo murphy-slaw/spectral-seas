@@ -3,7 +3,7 @@
     "icon": "supplementaries:wrench",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
-    "sortnum": 6,
+    "sortnum": 7,
     "pages": [
         {
             "type": "patchouli:text",
