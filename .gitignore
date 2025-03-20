@@ -75,3 +75,4 @@ builds
 *.code-workspace
 *.swp
 local
+welcomescreen_cache.json
