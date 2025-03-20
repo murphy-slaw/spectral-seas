@@ -1,0 +1,11 @@
+{
+    "name": "Home at Sea",
+    "icon": "comforts:sleeping_bag_red",
+    "category": "patchouli:life_at_sea",
+    "entry_color": "43120F",
+    "sortnum": 0,
+    "pages": [
+        "Some would call the Mariner a Kind of Vagabond or Nomad – but this is inept. A finer relation is to the esteemed Tortoise, who takes his Castle along on his Travels. Your Ship is where you take your Meals, lay your Head at Night, stow your Estate, and – in Extremity – defend your Liberty. Is this not a Home?$(p)For those unaccustomed to shipboard Living, some Adaptation is required. While a Sailor may break Fast under full sail,  Sleep demands the Vessel be still and Anchor set. $(p)Few Pleasures match taking one's Rest upon the Decks under an open Sky. To do so, simply place your Bed or Sleeping-Bag upon the Deck with  a firm right Hand $(o)(RMB)$(). In a Nonce, the Waves shall rock you to a most refreshing Slumber.$(p)",
+        "The Ship's role as a Sanctuary for the Body is manifest – but some whisper of a Connection more sublime.$(p)Old Salts speak of the Sailor's Covenant – that the last Ship boarded becomes a Haven to which one will always return. Whether workings of Fate or mere Tavern-Talk, a prudent Mariner offers each Vessel its due respect.$(p)Aboard a Ship, a Sailor's Life is lived upon the Decks – but the Means of Living dwell in the Hold. These Assets, their Use, Stowage, and Arrangement shall comprise our next Topic.$(p)"
+    ]
+}

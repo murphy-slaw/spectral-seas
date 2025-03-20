@@ -1,0 +1,11 @@
+{
+    "name": "The Wealth Below Decks",
+    "icon": "minecraft:chest",
+    "category": "patchouli:life_at_sea",
+    "entry_color": "43120F",
+    "sortnum": 1,
+    "pages": [
+        "In Principle, a Ship's Hold is much like a common Chest - but what a Chest! Even the humblest of Vessels offers a generous Depository for Goods, while merchant Craft boast Holds of prodigious Capacity. Still, a wise Sailor arranges their Cargo with Care, both for handy Access, and to exploit every Inch of precious Space.$(p)While aboard your Ship, accessing the Hold is as simple as looking in one's Pockets $(o)(E)$(). The Sections of the Hold are arranged from Starboard to Port, their Number varying with Size. Loading, retrieving from, and organizing each Section works precisely as one's own Trunk.$(p)",
+        "If ashore but adjacent to the Vessel, Cargo may be accessed by crouching low and opening the hatches with the right Hand $(o)(RMB)$().$(p)While the Sectioning of the Hold simplifies Management, a wise Sailor inspects their Manifest with care, ensuring no partial Stacks of Goods spread between Sections, wasting Compartments.$(p)Further Efficiencies are gained by gathering loose goods into Bundles, or compacting bulky Cargo into flaxen Sacks. Adventuresome Mariners may discover yet more ingenious Methods of Packaging.$(p)"
+    ]
+}
