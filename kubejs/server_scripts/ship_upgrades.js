@@ -121,3 +121,31 @@ ItemEvents.entityInteracted('spectral_seas:ship_cargo_upgrade', event => {
         event.cancel()
     }
 })
+
+ItemEvents.entityInteracted('minecraft:potion', event => {
+    let display = event.item.nbt.getCompound('display')
+    if (display === undefined) return
+    console.log(display)
+    if (shipTypes.includes(event.target.type)) {
+        let ship = event.target
+        let shipNBT = ship.nbt
+        shipNBT.put('CustomName', display.get('Name'))
+        ship.setNbt(shipNBT)
+        event.item.shrink(1)
+        event.level.playSound(
+            null,
+            ship.x,
+            ship.y,
+            ship.z,
+            'minecraft:block.glass.break',
+            'ambient',
+            1,
+            1
+        )
+        event.cancel()
+    }
+})
+
+ItemEvents.entityInteracted('minecraft:name_tag', event => {
+    if (shipTypes.includes(event.target.type)) event.cancel()
+})
