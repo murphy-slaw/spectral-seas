@@ -1,10 +1,11 @@
 {
-    "name": "Livery",
+    "name": "Your Vessel's Livery",
     "icon": "supplementaries:flag_black",
     "category": "patchouli:life_at_sea",
     "entry_color": "43120F",
     "sortnum": 2,
     "pages": [
-        "In Principle, a Ship's Hold is much like a common Chest - but what a Chest! Even the humblest of Vessels offers a generous Depository for Goods, while of merchant Craft boat Holds of prodigious Capacity indeed. Still, a wise Sailor arranges their Cargo with Car, both for handy Access, and to exploit every Inch of precious Space."
+        "Having built, rigged, and provisioned your Ship, and adapted to Life aboard, the Time comes to mark it as your Own. A Ship's Livery announces to the World your Allegiances, your Style, and your Character. It is a Matter of both Whim and vital Importance. The essential Mien of your ship is expressed in the Timber of its Construction, but further Avenues for Display abound.$(p)First among these is the Colour of the Sails. When made, Canvas bears the pale Hue of raw Wool, but Alterations are simple. To recolour Sails, take a Pot of your chosen Dye in Hand and apply it firmly $(o)(RMB)$() to the Vessel. You may repeat the Process as Fancy dictates.$(p)",
+        "While vibrant Sails may catch the Eye, a ship's Ensign declares one's Allegiance and Purpose. A Banner may be plain or emblazoned with Heraldry, announcing that you sail as Merchant, Explorer, or something more ominous. To fly your Pennant, take a Banner worked to your Design, and present it to your Ship $(o)(RMB)$(), whence it shall run up the Mainmast to its appointed Place, to be seen by All.$(p)Having stamped your Vessel with Identity, she has earned a Name. To baptize a Ship requires both Solemnity and Celebration. Roughly slapping a Nameplate upon the Hull will not do. Rather, have a Blacksmith or other Artisan engrave the Name upon a fine Bottle of a favorite Libation, and smash it against the Timbers with Vehemence. The Ship is named, and the Revels may commence.$(p)"
     ]
 }
