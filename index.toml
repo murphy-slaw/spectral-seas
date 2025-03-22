@@ -58,7 +58,7 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "1d46e75f64a26f3d6c72c9a21186bbbe61a1ba437901c02d276e42367b2eeac4"
+hash = "d6d9e4c158049e4168982e65cb2c234c6aafe45b89ed5ae033b89852089a4368"
 
 [[files]]
 file = "config/appleskin.json5"
