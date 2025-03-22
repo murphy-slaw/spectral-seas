@@ -1,6 +1,6 @@
 name = "Tinkerer's Smithing: KubeJS Compat"
 filename = "tinkerers_kubejs_plugin-1.0.0+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5U1y0liR/versions/gnpszfhe/tinkerers_kubejs_plugin-1.0.0%2B1.20.1.jar"

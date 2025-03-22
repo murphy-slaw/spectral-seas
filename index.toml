@@ -4969,7 +4969,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
@@ -5019,7 +5019,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "b69a0d8a946b728049dc743c65f9328c7c25c872222eadf8a2ab6666e64b3eca"
+hash = "796c5d6ce308df5bf6f3fe9e945f0b59968c9bd37a3f8ee590a8371bcdc31638"
 metafile = true
 
 [[files]]
@@ -5114,7 +5114,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchant-faker.pw.toml"
-hash = "0179180aa94bc74a5cfccd2f9da173bb9d6e949b331195d2c948a1dc0e0b1eb2"
+hash = "907616c65eb6538fcc72ffb662078c1d0131a35b06f5c989394fb01c39b321c2"
 metafile = true
 
 [[files]]
@@ -5839,12 +5839,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing-kubejs-compat.pw.toml"
-hash = "5bd5f9ba6d6944018b970e3590092f3a2184aacd81cd131ca81ea8ad1f61b7e7"
+hash = "4524b00d8b1a5ed44d9308b777f5d6607f0b9b6ca2d38c236bfa713cf2e5287c"
 metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
+hash = "5e654c6b2b2530ee3c74a2e6638ebb4cf1a170ca9ae9b9e391c34de3915e3f2f"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Enchant Faker"
 filename = "enchant_faker-1.0.1+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4qm9cRdy/versions/6oAbuD89/enchant_faker-1.0.1%2B1.20.1.jar"
