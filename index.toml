@@ -5895,6 +5895,11 @@ hash = "b4b5aecebc47156610f18cf1320652071ece1afed9764768cc1e0d5425cdafa8"
 metafile = true
 
 [[files]]
+file = "mods/welcome-screen.pw.toml"
+hash = "109e5ae68cad35a343e47c21b5d4573203aa20f521fd0c1875545f16d8cb3f50"
+metafile = true
+
+[[files]]
 file = "mods/wits.pw.toml"
 hash = "cd6498331b4f31cfe3170cf6a5d12d82dc300b02346dd9a9df68dd1de96797ab"
 metafile = true
