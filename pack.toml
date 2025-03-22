@@ -1,6 +1,6 @@
 name = "Spectral Seas"
 author = "Kevin Murphy"
-version = "0.1.6-alpha"
+version = "0.1.7-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
