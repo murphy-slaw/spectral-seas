@@ -6019,8 +6019,20 @@ hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
 metafile = true
 
 [[files]]
+file = "resourcepacks/CTM-Overhaul-V_5.0.zip"
+hash = "89e713c6901ea0f4f100c7c6d398c22548a6d7caa4282dea3d97474844377d9c"
+
+[[files]]
+file = "resourcepacks/Mops.ttf"
+hash = "6db27557ec61aed012c5ffcfad5f6f96c8df2cd6a3e8c536fcbb87113be25f6a"
+
+[[files]]
 file = "resourcepacks/TreasureMapDeadhand-yLA3.ttf"
 hash = "2f2463bcac1945ff09b2952638967ebb221bbb3909c334f84cd1127c79e646ca"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r965091_MC1.20.x.zip"
+hash = "28a22743d4db38182b9991279a185ff1ea8a8c0dc01fe8f10baf8f65483be050"
 
 [[files]]
 file = "resourcepacks/alternative-sounds-musket-mod.pw.toml"
@@ -8014,6 +8026,10 @@ metafile = true
 file = "resourcepacks/pirate.pw.toml"
 hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
+
+[[files]]
+file = "resourcepacks/round-shield.zip"
+hash = "1bc8649b5cc1be76b4536d238a841966daefe205029ed85c62cb0074fc36509b"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/brigg.png"
