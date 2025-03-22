@@ -33,4 +33,3 @@ config/sodium-mixins.properties
 screenshots/
 exposures/
 mods/dev/
-*.zip
