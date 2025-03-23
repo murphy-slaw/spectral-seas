@@ -4649,10 +4649,6 @@ file = "config/yosbr/options.amecsapi.txt"
 hash = "f81daec2041e5c4b8d609a4bfeeff59a75db050ed430beb37263d0484234b0e1"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "1eb1ac87005432a9bc51484f27a1f61f9248efae0778fba4cfd73a5e45e7b309"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -5938,6 +5934,11 @@ hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
+metafile = true
+
+[[files]]
 file = "mods/your-reputation.pw.toml"
 hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
@@ -5995,7 +5996,7 @@ hash = "d402cb73990b68b06e12cabdbc4898632b16bcd82f9cda326aaaa13f42ef2d0c"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/en_us/entries/seamanship/rigging.json"
-hash = "98aff78c9103274cf2dba5abf35502260870e91660aece47b4ca313f5dd4e629"
+hash = "13350c4f590723ec4d5ad491b9a3dda4f99cab0b585d799eefcc3736b9d6a8e9"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/en_us/entries/seamanship/sailing.json"
