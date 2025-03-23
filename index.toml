@@ -4863,6 +4863,11 @@ hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-compass-hud.pw.toml"
+hash = "14f115fbc9ef9b73f9b257eb9ae4d552508832cc1f2981254fb99a1211255dbe"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3587cc3dc1a93cd06a2f713077c1f451b1623926001e2c7d06f213561fd37ac"
 metafile = true
@@ -4919,7 +4924,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f0af23e064c9d7e164c766545063fa03023ae3c98200759fba10545a6d821ee6"
+hash = "0407876d515f1471b69c43b609ba8433c100a1e53de082dd9e0d827cc9f99869"
 metafile = true
 
 [[files]]
@@ -5098,6 +5103,11 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
@@ -5259,7 +5269,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "7d4e9f5ab4f22f929c458fa88c003d6679eadafe287d180df17f9853c18b83d1"
+hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
@@ -5428,6 +5438,16 @@ hash = "cfcb977b508916453d95960c2435cde6d6a02dd6a4a3eb894cfcf0d90378d137"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "c036fba25fdb9a9206b3cdf0cc94d3f1877c63fbf47ce7199bd09358c6289dea"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "65af8adf11070a823ab36edde42d4d9f9069061b51275da17cc0bc7b721d5a81"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "1f5ae1f4f54dc839782958176ee8c5151515d6163a89fcff2b1bce5576619e8f"
 metafile = true
@@ -5560,6 +5580,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
@@ -5910,11 +5935,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
 metafile = true
 
 [[files]]
