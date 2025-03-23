@@ -13,8 +13,10 @@
         },
         "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task.$(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools$(p).",
         {
+            "title": "A fine Piece of Rigging",
             "type": "crafting",
-            "recipe": "minecraft:kjs/lead"
+            "recipe": "minecraft:kjs/lead",
+            "Some call this a mere tool to lead Animals, but a Mariner knows better."
         }
     ]
 }
