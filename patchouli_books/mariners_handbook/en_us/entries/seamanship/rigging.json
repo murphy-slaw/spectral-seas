@@ -9,7 +9,8 @@
         {
             "type": "crafting",
             "recipe": "minecraft:kjs/supplementaries_rope",
-            "text": "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task.$(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools$(p)."
-        }
+            "recipe2": "supplementaries:rope"
+        },
+        "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task.$(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools$(p)."
     ]
 }
