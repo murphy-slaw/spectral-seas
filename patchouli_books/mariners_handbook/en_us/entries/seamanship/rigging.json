@@ -16,7 +16,7 @@
             "title": "A fine Piece of Rigging",
             "type": "crafting",
             "recipe": "minecraft:kjs/lead",
-            "Some call this a mere tool to lead Animals, but a Mariner knows better."
+            "text": "$(o)Some would call this a mere Tool to lead Animals, but a Mariner knows better.$()"
         }
     ]
 }
