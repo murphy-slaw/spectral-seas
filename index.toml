@@ -206,7 +206,7 @@ hash = "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d"
 
 [[files]]
 file = "config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+hash = "97e9b117a4c4e58a4a67189fc8e7b6f83408d7735db8ad5b5dd5c6b4d9b13910"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
