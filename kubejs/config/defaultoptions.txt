@@ -4,8 +4,7 @@ gamma:0.5
 renderDistance:16
 simulationDistance:12
 entityDistanceScaling:5.0
-resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","spectrum:spectrum_style_amethyst","spectral-decorations:spectral_decorations","fabric","file/minclick-1.3.zip","grapplemod:original_textures","file/§2BetterSquid§7_v1.1.zip","Bibliophilia 1.14 (1.20.1).zip","Musketmod(v1.4.5)- Michail01011101\u0027s alternative sounds_v2.3.7.zip","3D-muskets-1.1.zip","spectrum_public_server_pack","VanillaTweaks_r965091_MC1.20.x.zip","EclecticTrove-noconfig-1.20.1-1.2.0.zip","CTM-Overhaul-V_5.0.zip",
-"round-shield.zip", "antique_atlas_respacks" ,"spectral_seas"]
+resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","spectrum:spectrum_style_amethyst","spectral-decorations:spectral_decorations","fabric","file/minclick-1.3.zip","grapplemod:original_textures","file/§2BetterSquid§7_v1.1.zip","Bibliophilia 1.14 (1.20.1).zip","Musketmod(v1.4.5)- Michail01011101\u0027s alternative sounds_v2.3.7.zip","3D-muskets-1.1.zip","spectrum_public_server_pack","VanillaTweaks_r965091_MC1.20.x.zip","EclecticTrove-noconfig-1.20.1-1.2.0.zip","CTM-Overhaul-V_5.0.zip","round-shield.zip", "antique_atlas_respacks" ,"spectral_seas"]
 tutorialStep:none
 hideBundleTutorial:true
 key_key.antique_atlas.open:key.keyboard.m
