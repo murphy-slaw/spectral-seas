@@ -850,7 +850,7 @@ hash = "e93f465cb002c0c565c6189b5f9a1350c97d2b3857d4b389a05cffdd9409b116"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
-hash = "dd9c2067960a252babd98ecf52835b09fb9ac8e4e2cb8f2d7abfd67b7d97b345"
+hash = "7f61946c697a640be2695cbed3d808be56caccbfc9a8b710709168fc345ef65b"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves_inverse.json"
