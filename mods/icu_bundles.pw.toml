@@ -1,0 +1,13 @@
+name = "I Can't Update - Bundles Of Bravery"
+filename = "ICantUpdate-Bundles-1.20.1+1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WMqF5rwZ/versions/S3JgabA4/ICantUpdate-Bundles-1.20.1%2B1.0.1.jar"
+hash-format = "sha512"
+hash = "d93eb754378b81a03188d4f2e4cc496cc444904264b8d46de04a643fe22f70e4571cfd937b7e6ba012f6c461a8a788c850caf4faaf0a61985266c06df90aeccc"
+
+[update]
+[update.modrinth]
+mod-id = "WMqF5rwZ"
+version = "S3JgabA4"
