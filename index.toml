@@ -1535,7 +1535,7 @@ hash = "7a059538461b973f51aaa3d6a2e4fcabc71d8bb402bb7c9d264da4fe186225e2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/overworld.json"
-hash = "11f4bca2b911458ba67da85fc96d51c18e81f85f4111797e5204c4b8a13722e4"
+hash = "d30969d2e4b36d1daaabd73aa17241f8f279a43d82e36fd8c021afaf60852aba"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/dimension/the_nether.json"
