@@ -58,7 +58,7 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "d6d9e4c158049e4168982e65cb2c234c6aafe45b89ed5ae033b89852089a4368"
+hash = "ed682befab4d6fd7449750b44de6dcafe3a498779b1cc0ec3ccfd4be74db5724"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -14056,6 +14056,10 @@ hash = "219e64726df08bc9eb121824fa50875922cf8338cfa45b63a565361a71588dca"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/advancement_frames/frames.json"
 hash = "4bf868de028f653725953e71b891db988e64fb75ea51d2a4c77f1b3052cc989e"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/lang/en_us.json"
+hash = "3932ccb19cfa62014a1d5154d550e8c6257fa5a028f28a6d28d5ed55acb788d9"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/gui/entries/tower_aged.png"
