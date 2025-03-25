@@ -4007,7 +4007,7 @@ hash = "de914c0cca5da6e4f99b03c93f01e36bfeda4fd59a11619e432c384d5267d764"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
-hash = "94dcf87eabf52f04c5b01fed0e7521cba38a4697a9dfbe83a3a6f9cdbbaf2ad9"
+hash = "84fec4f3f95932334e74aef77e8fcfaac29ca7cbe5e9963d3ad217ea2aee1d0f"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
@@ -6087,7 +6087,7 @@ hash = "0de0280141a33cf2dd93be5905e8f7a8daf6588c13ba82f1d45ce0a0c3848ae2"
 
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/antique_atlas/lang/en_us.json"
-hash = "a36616fc35c853810b3ae613ea4686b02cf35e45448a5e27a2cfc2ccb645fa6d"
+hash = "06032041505c9cb5d9c4d21c583062130e4b839972603ec8f266dba3568d9c11"
 
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/marker/structure/shipwreck_beached.png"
@@ -7896,6 +7896,10 @@ hash = "6fec5338a5902665927345c38ac636826a5094ce29773c8a149a56e67006aa43"
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/revamped_shipwrecks/atlas/structure/start/shipwreck_beached.json"
 hash = "6fec5338a5902665927345c38ac636826a5094ce29773c8a149a56e67006aa43"
+
+[[files]]
+file = "resourcepacks/antique_atlas_respacks/assets/ribbits/atlas/structure/start/ribbit_village.json"
+hash = "68c532b68bf1299db26d8d356e74296af340a10a1ab3a38d394a2536a7425cfa"
 
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/totw_reworked/atlas/structure/start/derelict.json"

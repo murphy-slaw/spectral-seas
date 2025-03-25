@@ -37,5 +37,13 @@
     "structure.start.nova_structures.village_swamp": "Swamp Village",
     "structure.start.betteroceanmonuments.ocean_monument": "Ocean Monument",
     "structure.start.revamped_shipwrecks.shipwreck": "Shipwreck",
-    "structure.start.revamped_shipwrecks.shipwreck_beached": "Shipwreck"
+    "structure.start.revamped_shipwrecks.shipwreck_beached": "Shipwreck",
+    "structure.start.archaeologyplus.bone_desert": "Archaeological Site",
+    "structure.start.archaeologyplus.desert_temple": "Archaeological Site",
+    "structure.start.archaeologyplus.digsite_forest": "Archaeological Site",
+    "structure.start.archaeologyplus.fallen_monolith_desert": "Archaeological Site",
+    "structure.start.archaeologyplus.medium_ruins_desert": "Archaeological Site",
+    "structure.start.archaeologyplus.monolith_desert": "Archaeological Site",
+    "structure.start.archaeologyplus.small_ruins_desert": "Archaeological Site",
+    "structure.start.ribbits.ribbit_village": "Ribbit Village"
 }
