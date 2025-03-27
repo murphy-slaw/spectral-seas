@@ -4653,7 +4653,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/antique_atlas.js"
-hash = "bed61948cf0c6e7824907b20193b2b1117e7f6493cd2601ab00569040699233f"
+hash = "539f9214739b11ed5f3cb21bdb7dbf200e81ed42eb1129f3076a5808463492d6"
 
 [[files]]
 file = "kubejs/client_scripts/open_map.js"
@@ -4713,7 +4713,7 @@ hash = "58ae109fdee11cdf61500891e9c320e8b184ef023696316e919981a21167b55f"
 
 [[files]]
 file = "kubejs/server_scripts/map_to_atlas.js"
-hash = "56a43cd61dedd7109b9a1ea8e9203529e7069e052c7ac3983994eaefa5807440"
+hash = "b91792efe80463dd70cab4da90314aac8435bcba10a110e7de9573fa4dc55ade"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
@@ -4737,7 +4737,7 @@ hash = "ee28a59d4707432e8686566d56a70ac68b6332febf8578ee8a9f5d234d5212e8"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "9f3827be8b40e75c80cd8b0bd1c3bca9540451891a318e600e0eff83f4c19e48"
+hash = "ae433e19101a22c9120c5767e58679b598c4a76655c76787c63f6f0fe159be9c"
 
 [[files]]
 file = "kubejs/server_scripts/ship_upgrades.js"

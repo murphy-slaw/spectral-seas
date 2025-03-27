@@ -1,10 +1,13 @@
+
+var WorldAtlasData = Java.loadClass('folk.sisby.antique_atlas.WorldAtlasData');
+var SimplePointLandmark = Java.loadClass('folk.sisby.surveyor.landmark.SimplePointLandmark');
 var MarkerTextures = Java.loadClass(
     'folk.sisby.antique_atlas.reloader.MarkerTextures'
 );
 
 NetworkEvents.dataReceived('AddMarker', event => {
     let marker = event.data;
-    let level = Client.getLevel(marker.level);
+    let level = Client.level;
     addAntiqueAtlasMarker(level, marker.texture, marker.pos, marker.color, marker.label);
 });
 
