@@ -1110,6 +1110,10 @@ file = "config/paxi/datapacks/spectral_seas/data/betteroceanmonuments/worldgen/s
 hash = "4cb48d25faddd3156d1a0cc21043aaf70a688422c9421cebee4a593a2518af9b"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/c/tags/blocks/mushroom_caps.json"
+hash = "03142c72a4bf59e5ba2b683b5c6d40f5641fb8485ca4277d41ecbba18b38ac06"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/deeper_oceans/worldgen/density_function/overworld/warped_factor.json"
 hash = "590a8f962ec360b209de296d2ca17ee61e50b1e67495efda16ee0eba2217c9a1"
 
@@ -4220,6 +4224,14 @@ hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/towns_and_towers/worldgen/structure_set/towers.json"
 hash = "ef96cdd3e196bc5831564b822241d64535a02fec71891e7d44289dc2c7fe4dee"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/treechop/tags/blocks/choppables.json"
+hash = "d5793036277c5b4a042321971096df36b9bcce38e5f83faae0e7d10f2f2cdce4"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/treechop/tags/blocks/leaves_like.json"
+hash = "03142c72a4bf59e5ba2b683b5c6d40f5641fb8485ca4277d41ecbba18b38ac06"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/tridents_n_stuff/smithing_tool_materials/gold.json"
