@@ -4576,6 +4576,14 @@ file = "config/tinkerers_smithing.toml"
 hash = "29afdb0e9d3114f1289dd49cf331e64aef2f1815b28283038b923dae9fb3795a"
 
 [[files]]
+file = "config/treechop-client.toml"
+hash = "b0063f4bd33d8c3383b5f0104fef6491882c78de9e7573c994479b64a17d0dc4"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "cebaa860b2625d69716a5c0205720b888c09117b2e6c6db2da0ff5c9cb86b884"
+
+[[files]]
 file = "config/tridents_n_stuff/items_config.toml"
 hash = "763045a90ac23713422e234c072dba0334c1b3648628a856d83a35fe6c87fad2"
 
