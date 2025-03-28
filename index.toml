@@ -5818,6 +5818,11 @@ hash = "4b126846127dc6aad432e3d6d64faa9253d773b2491098d3abd6e858e9ef2e69"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
 hash = "ae196fcf084ec3c9ac548828b9b0470bb238f2a9d7943589a37c4923a3a886dd"
 metafile = true
