@@ -589,10 +589,6 @@ file = "config/galosphere.json"
 hash = "806f3bbc59990c7ce8c99d11e876740afe25a922f7c5ca0cfe5b4b9c2c646a19"
 
 [[files]]
-file = "config/grapplemod.json"
-hash = "3d887f05b1dcd84cfa372d88563d25b5faaafccfc431b43feb615b1b29279abe"
-
-[[files]]
 file = "config/guardvillagers.json"
 hash = "996793fb138143fe17486e45fd91c398614834474722b62645c4896d748a7c79"
 
@@ -606,7 +602,7 @@ hash = "4d392e47db3c286bfc6c1c9798ddcd597ec510602aeac893d40c88ba9eea456f"
 
 [[files]]
 file = "config/hookshot.jsonc"
-hash = "a000e202b49f2478f767a0848339980cde3c9aefb10f510205178e9bab8c46ab"
+hash = "8ecd63a1991bf3e7123f761d2f199640c0acada77c3f309f9c66f12936864931"
 
 [[files]]
 file = "config/horseman-client.toml"
@@ -4091,11 +4087,11 @@ hash = "f96675bea4fb4becd7743c5e7fed8b9484151ab64d88a5c1e1b2584a7c20d9f2"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/ocean_tower_chest.json"
-hash = "5b9a86c0fc1df17ad37fa6d1106da394857223dcac3400e9c732939a26b690de"
+hash = "786f1d6d8c4b66e58b06e3f1457a17978c04d2de465a735e74d625d9a2dc6791"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_chest.json"
-hash = "51f92b9515fb8eb2e679b70b8423f0a720d416a474afab3c8cf5b29cdaddad1d"
+hash = "6dc8d307a0435257afbfd97777e1b2d0b2a8b6551e0de5b0236bdd8f1e27f1c8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/totw_reworked/loot_tables/tower_map.json"
@@ -4862,6 +4858,11 @@ hash = "3cb244337e9d982571421839e2a0a8494c04fc229f27725790312d4237ab026e"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "716f5a27285b086823dbf12a5228f2274f2eade5b97f53f866ca203d97bf78bf"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "a2dbd810c7c28b9879e92f082a93828e1aa07fb82887d9ed906785eabc0b4ebc"
 metafile = true
@@ -5304,11 +5305,6 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "99c62c9c13bf1486a1305246c0b0025f7b1748120725771b9be614169707c5f3"
-metafile = true
-
-[[files]]
-file = "mods/grappling-hook-mod-fabric.pw.toml"
-hash = "5eb49b42d5c40e3f169480df6bf167eeb8e6fa8e7eeab252c6edfb4b07f28e0e"
 metafile = true
 
 [[files]]
@@ -8168,7 +8164,7 @@ hash = "a7fe6a34f9ba4a8f52b7bd037861eedb3a029988bff1ac34423da9d255debd54"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/emi/index/stacks/stacks.json"
-hash = "8712269b3e53d39f5c0ee239405464b43e8f8fea0b5555b9ddaf48b34d33de52"
+hash = "039384b4b92c1273a4e061d1d80fb87cf54c6c0a3384125504cb8ca91570008a"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/emi/recipe/filters/filters.json"

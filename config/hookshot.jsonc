@@ -1,5 +1,5 @@
 {
-    "use_classic_hookshot_logic": false,
+    "use_classic_hookshot_logic": true,
     "hookshot_cancels_fall_damage": false,
     // Type: Integer
     "hookshot_cooldown": 5,
