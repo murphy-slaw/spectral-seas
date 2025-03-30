@@ -4664,6 +4664,10 @@ file = "config/yosbr/options.amecsapi.txt"
 hash = "f81daec2041e5c4b8d609a4bfeeff59a75db050ed430beb37263d0484234b0e1"
 
 [[files]]
+file = "icon.png"
+hash = "feb0adc31910921fcc3cebaafcc5423db14ffcab011688ab5e5587a2e2293783"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
