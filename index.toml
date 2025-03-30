@@ -4756,6 +4756,10 @@ file = "kubejs/server_scripts/broken.js"
 hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
+file = "kubejs/server_scripts/clear_grave.js"
+hash = "40742cb3e121805373c92738e796e32f7195f4d2f180584a56f7528244b6b1f1"
+
+[[files]]
 file = "kubejs/server_scripts/grave_dirt_loot.js"
 hash = "58ae109fdee11cdf61500891e9c320e8b184ef023696316e919981a21167b55f"
 
