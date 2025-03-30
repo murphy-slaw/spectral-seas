@@ -1250,6 +1250,10 @@ file = "config/paxi/datapacks/spectral_seas/data/galosphere/worldgen/biome/pink_
 hash = "3a38e907a00ca93e71d4249847210ea9057ffdbea29906b4a45b1bf99fe95c1e"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/geophilic/worldgen/configured_feature/bush/jungle.json"
+hash = "c25be0a656b4bc5cf98a68ffe741dc6ccf1dcbe8294ed89533edabc06bc5b657"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
 hash = "568a6684531e72d9a3df77417d295d9b9eca0d58b4e02c39ab78a0dd669c0508"
 
@@ -1978,6 +1982,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_c
 hash = "f8ed7fd7c1b38bf6218a7aafb89b0dd8598df5808ac47487ec765902694ac3a5"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/jungle_bush.json"
+hash = "2d9abe13227fb0c86538a0b5ed8905850aac1b07ee2b9f02afa1bd250ae06535"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
 hash = "6ab5a4ba0663d1a07ab7f418b663e681a0c9d2c49d12daadb61f5e91ab7dbfa6"
 
@@ -2092,6 +2100,10 @@ hash = "e5525d1a20232dd57fe6cb873a5f085712c9cadff0798e4e8ed8b2d06892f3bb"
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/red_mushroom_nether.json"
 hash = "a475804c69f210b182e9eb60442a92b7e0c826bf6b239ec6f167ed6152abcdbb"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/rooted_azalea_tree.json"
+hash = "de39965744d3d88ed08b8c836af194c4c805db3f7d96f7d20936c1a4f87a7a96"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/small_basalt_columns.json"
@@ -3918,10 +3930,6 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/equipment_sets/di
 hash = "08ed5483b3bc996028d4a6aa9e9b13e4334dc18e74d2f392dd20d2fecae20e02"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/add_totw_processors.json"
-hash = "fb30337d1bb109d4fce9e1f3397a5ba210e0fa010ff91838e94abe0614a5c7da"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_pillager_large_structure_placement.json"
 hash = "d2f7e733a874a3352b0449a0c86adcca64860d516e95001ac475a9551751fdcf"
 
@@ -3942,8 +3950,20 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/wor
 hash = "569768a8dc49248ba5741d71e25504fa92388c83e0e8af15acf087fe0d264e0e"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/derelict_tower_swap.json"
+hash = "97db73bd2914c5a12e0f1e074b625929804b37bbecff2b467363e93a03d0e15e"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/grave_dirt.json"
 hash = "f76923f5e4b13bcbdc58d20c66ce3e43747b2cf2a9613e655613b6492c085a25"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/ice_tower_swap.json"
+hash = "2a24aba513b3a83f17283790f07e9249cb0b6d20bfc2988f2813c28d3410093e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/jungle_tower_swap.json"
+hash = "8a88f8b1c3602adecc11bbbf7bb94334dbb112ed8489824a3a5fe36dfd31007c"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/no_desert_lava.json"
@@ -3958,8 +3978,16 @@ file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/wor
 hash = "6f6d0072d9a1bb7d7486177412dbf90f2463c79d2e8d4e59bbcadc34fb7e8add"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/ocean_warm_tower_swap.json"
+hash = "8bbed84c150d0aa013c7e465f454544e851051ee5f0854e1b8ef00615eab4b71"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/overworldify_nether.json"
 hash = "e7d630fb1adc687e8cd4aaa88695c89d03975ae16a28b831b7c8062ebcb5ce6e"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/regular_tower_swap.json"
+hash = "02cb77b110af7174fb8adf2061ea4d4b5a0d076a66e1e5e02dfa6c425f98cf88"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/remove_amethyst.json"
