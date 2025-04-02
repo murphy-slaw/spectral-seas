@@ -1,0 +1,1696 @@
+Entity: murphy_slaw_mc [registry name: minecraft:player] (entityId: 10)
+Entity class: net.minecraft.class_3222
+
++------------------------+-----------+----------+---------+
+| Effect                 | Amplifier | Duration | Ambient |
++------------------------+-----------+----------+---------+
+| minecraft:night_vision |         0 |       -1 | false   |
+| minecraft:regeneration |         0 |       -1 | false   |
+| minecraft:saturation   |         1 |       -1 | false   |
++------------------------+-----------+----------+---------+
+| Effect                 | Amplifier | Duration | Ambient |
++------------------------+-----------+----------+---------+
+
+[TAG_Compound (56 values)] 
+{
+    [TAG_Float] "AbsorptionAmount": 0.0
+    [TAG_List (3 values of type TAG_Compound)] "ActiveEffects"
+    [
+        [TAG_Compound (6 values)] 
+        {
+            [TAG_Byte] "Ambient": 0
+            [TAG_Byte] "Amplifier": 1
+            [TAG_Int] "Duration": -1
+            [TAG_Int] "Id": 23
+            [TAG_Byte] "ShowIcon": 0
+            [TAG_Byte] "ShowParticles": 0
+        }
+        [TAG_Compound (6 values)] 
+        {
+            [TAG_Byte] "Ambient": 0
+            [TAG_Byte] "Amplifier": 0
+            [TAG_Int] "Duration": -1
+            [TAG_Int] "Id": 16
+            [TAG_Byte] "ShowIcon": 0
+            [TAG_Byte] "ShowParticles": 0
+        }
+        [TAG_Compound (6 values)] 
+        {
+            [TAG_Byte] "Ambient": 0
+            [TAG_Byte] "Amplifier": 0
+            [TAG_Int] "Duration": -1
+            [TAG_Int] "Id": 10
+            [TAG_Byte] "ShowIcon": 0
+            [TAG_Byte] "ShowParticles": 0
+        }
+    ]
+    [TAG_Short] "Air": 300
+    [TAG_List (15 values of type TAG_Compound)] "Attributes"
+    [
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "minecraft:generic.armor"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "additionalentityattributes:generic.mob_detection_range"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "additionalentityattributes:generic.magic_protection"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.08
+            [TAG_String] "Name": "porting_lib:entity_gravity"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.004431008441654272
+            [TAG_String] "Name": "staminafortweakers:generic.climb_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "additionalentityattributes:generic.lung_capacity"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 1.0
+            [TAG_String] "Name": "porting_lib:swim_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "additionalentityattributes:generic.jump_height"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 100.0
+            [TAG_String] "Name": "staminafortweakers:generic.stamina"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "porting_lib:step_height_addition"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "additionalentityattributes:player.collection_range"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.019999999552965164
+            [TAG_String] "Name": "additionalentityattributes:generic.water_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.10000000149011612
+            [TAG_String] "Name": "minecraft:generic.movement_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "stepheightentityattribute:stepheight"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "reach-entity-attributes:reach"
+        }
+    ]
+    [TAG_Compound (1 values)] "BalmData"
+    {
+        [TAG_Compound (2 values)] "TrashSlot"
+        {
+            [TAG_Byte] "Count": 0
+            [TAG_String] "id": "minecraft:air"
+        }
+    }
+    [TAG_Compound (3 values)] "BannerStack"
+    {
+        [TAG_Byte] "Count": 0
+        [TAG_String] "id": "minecraft:air"
+        [TAG_Compound (2 values)] "tag"
+        {
+            [TAG_Byte] "glide": 0
+            [TAG_Byte] "struck": 0
+        }
+    }
+    [TAG_Compound (1 values)] "Brain"
+    {
+        [TAG_Compound (0 values)] "memories"
+        {
+        }
+    }
+    [TAG_Int] "DataVersion": 3465
+    [TAG_Short] "DeathTime": 0
+    [TAG_String] "Dimension": "minecraft:overworld"
+    [TAG_List (0 values of type ?)] "EnderItems"
+    [
+    ]
+    [TAG_Float] "FallDistance": 0.0
+    [TAG_Byte] "FallFlying": 0
+    [TAG_Short] "Fire": -20
+    [TAG_Compound (1 values)] "ForgeData"
+    {
+        [TAG_Compound (0 values)] "PlayerPersisted"
+        {
+        }
+    }
+    [TAG_Float] "GoldenAirSupply": 0.0
+    [TAG_Float] "Health": 20.0
+    [TAG_Int] "HurtByTimestamp": 0
+    [TAG_Short] "HurtTime": 0
+    [TAG_List (13 values of type TAG_Compound)] "Inventory"
+    [
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 0
+            [TAG_Byte] "LapisReserve": 0
+            [TAG_String] "id": "minecraft:air"
+            [TAG_Compound (2 values)] "tag"
+            {
+                [TAG_Byte] "glide": 0
+                [TAG_Byte] "struck": 0
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 0
+            [TAG_String] "id": "hookshot:black_hookshot"
+            [TAG_Compound (2 values)] "tag"
+            {
+                [TAG_Int] "Damage": 8
+                [TAG_Compound (1 values)] "hookshot"
+                {
+                    [TAG_List (1 values of type TAG_String)] "Upgrades"
+                    [
+                        [TAG_String] : "hookshot:automatic"
+                    ]
+                }
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 1
+            [TAG_String] "id": "minecraft:smithing_table"
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 2
+            [TAG_String] "id": "hookshot:blue_hookshot"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Int] "Damage": 21
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 3
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": -52688.0
+                        [TAG_Double] "z": -49616.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 7
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 4
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": -51280.0
+                        [TAG_Double] "z": -50528.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 6
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 5
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": 50032.0
+                        [TAG_Double] "z": -50688.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 5
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 6
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": 90096.0
+                        [TAG_Double] "z": 89808.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 3
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 7
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": 89008.0
+                        [TAG_Double] "z": 89216.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 2
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 8
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": 7664.0
+                        [TAG_Double] "z": 10016.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 0
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 34
+            [TAG_String] "id": "minecraft:filled_map"
+            [TAG_Compound (3 values)] "tag"
+            {
+                [TAG_List (1 values of type TAG_Compound)] "Decorations"
+                [
+                    [TAG_Compound (5 values)] 
+                    {
+                        [TAG_String] "id": "+"
+                        [TAG_Double] "rot": 180.0
+                        [TAG_Byte] "type": 26
+                        [TAG_Double] "x": -53712.0
+                        [TAG_Double] "z": -50384.0
+                    }
+                ]
+                [TAG_Compound (1 values)] "display"
+                {
+                    [TAG_String] "Name": "{"color":"dark_aqua","text":"Tower Map"}"
+                }
+                [TAG_Int] "map": 8
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 35
+            [TAG_String] "id": "hookshot:white_hookshot"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Int] "Damage": 0
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": -106
+            [TAG_String] "id": "minecraft:compass"
+        }
+    ]
+    [TAG_Byte] "Invulnerable": 0
+    [TAG_Compound (3 values)] "KubeJSPersistentData"
+    {
+        [TAG_Compound (3 values)] "MarkerPosition"
+        {
+            [TAG_Double] "x": -7137.0
+            [TAG_Double] "y": 63.0
+            [TAG_Double] "z": 2987.0
+        }
+        [TAG_Compound (3 values)] "fakeBedPos"
+        {
+            [TAG_Int] "x": -7136
+            [TAG_Int] "y": 63
+            [TAG_Int] "z": 2987
+        }
+        [TAG_Compound (7 values)] "seenMaps"
+        {
+            [TAG_Byte] "0": 1
+            [TAG_Byte] "2": 1
+            [TAG_Byte] "3": 1
+            [TAG_Byte] "5": 1
+            [TAG_Byte] "6": 1
+            [TAG_Byte] "7": 1
+            [TAG_Byte] "8": 1
+        }
+    }
+    [TAG_Compound (2 values)] "LastDeathLocation"
+    {
+        [TAG_String] "dimension": "minecraft:overworld"
+        [TAG_Int_Array (3 entries)] "pos"
+        [
+              0: 0x00000146 ( 326)
+              1: 0x00000051 (  81)
+              2: 0x000000D7 ( 215)
+        ]
+    }
+    [TAG_List (3 values of type TAG_Double)] "Motion"
+    [
+        [TAG_Double] : 0.0
+        [TAG_Double] : -0.0784000015258789
+        [TAG_Double] : 0.0
+    ]
+    [TAG_Byte] "OnGround": 1
+    [TAG_Int] "PortalCooldown": 0
+    [TAG_List (3 values of type TAG_Double)] "Pos"
+    [
+        [TAG_Double] : -52686.56196544113
+        [TAG_Double] : 128.0
+        [TAG_Double] : -49612.21119851252
+    ]
+    [TAG_Byte] "Preserved": 0
+    [TAG_List (2 values of type TAG_Float)] "Rotation"
+    [
+        [TAG_Float] : 122.24892
+        [TAG_Float] : -90.0
+    ]
+    [TAG_Int] "Score": 0
+    [TAG_Int] "SelectedItemSlot": 0
+    [TAG_Short] "SleepTimer": 0
+    [TAG_List (1 values of type TAG_String)] "Tags"
+    [
+        [TAG_String] : "starter_kit"
+    ]
+    [TAG_Int_Array (4 entries)] "UUID"
+    [
+          0: 0xF0726398 (-260938856)
+          1: 0x654D473C (1699563324)
+          2: 0xAF31B0A2 (-1355698014)
+          3: 0x10214FD4 (270618580)
+    ]
+    [TAG_Byte] "UsingSpectreBoundedSpyglass": 0
+    [TAG_Int] "XpLevel": 0
+    [TAG_Float] "XpP": 0.0
+    [TAG_Int] "XpSeed": 2110387826
+    [TAG_Int] "XpTotal": 0
+    [TAG_Compound (7 values)] "abilities"
+    {
+        [TAG_Float] "flySpeed": 0.05
+        [TAG_Byte] "flying": 0
+        [TAG_Byte] "instabuild": 1
+        [TAG_Byte] "invulnerable": 1
+        [TAG_Byte] "mayBuild": 1
+        [TAG_Byte] "mayfly": 1
+        [TAG_Float] "walkSpeed": 0.1
+    }
+    [TAG_Compound (9 values)] "cardinal_components"
+    {
+        [TAG_Compound (1 values)] "airhop:air_hops"
+        {
+            [TAG_Byte] "AirHops": 0
+        }
+        [TAG_Compound (3 values)] "artifacts:swim_data"
+        {
+            [TAG_Byte] "HasTouchedWater": 0
+            [TAG_Byte] "ShouldSwim": 0
+            [TAG_Int] "SwimTime": 0
+        }
+        [TAG_Compound (1 values)] "comforts:sleep_tracker"
+        {
+            [TAG_Compound (3 values)] "Data"
+            {
+                [TAG_Long] "sleepTime": 0
+                [TAG_Long] "tiredTime": 19500
+                [TAG_Long] "wakeTime": 13000
+            }
+        }
+        [TAG_Compound (1 values)] "hookshot:hook_owner"
+        {
+            [TAG_Byte] "hook": 0
+        }
+        [TAG_Compound (1 values)] "lodestone:player"
+        {
+            [TAG_Byte] "firstTimeJoin": 1
+        }
+        [TAG_Compound (5 values)] "spectrum:azure_dike"
+        {
+            [TAG_Int] "current_recharge_delay": 0
+            [TAG_Float] "max_protection": 0.0
+            [TAG_Float] "protection": 0.0
+            [TAG_Int] "recharge_delay_after_damage": 0
+            [TAG_Int] "recharge_delay_default": 0
+        }
+        [TAG_Compound (4 values)] "spectrum:misc_player_data"
+        {
+            [TAG_Int] "dragonrotTicks": 0
+            [TAG_Int] "sleepInvincibility": 0
+            [TAG_Int] "sleepingWindow": -1
+            [TAG_Int] "ticksBeforeSleep": -1
+        }
+        [TAG_Compound (6 values)] "trinkets:trinkets"
+        {
+            [TAG_Compound (4 values)] "chest"
+            {
+                [TAG_Compound (2 values)] "back"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "cape"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "necklace"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "pin"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (1 values)] "feet"
+            {
+                [TAG_Compound (2 values)] "shoes"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (2 values)] "hand"
+            {
+                [TAG_Compound (2 values)] "glove"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "ring"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (3 values)] "head"
+            {
+                [TAG_Compound (2 values)] "crown"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "face"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "hat"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (4 values)] "legs"
+            {
+                [TAG_Compound (2 values)] "belt"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "key"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "pigment_palette"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "quiver"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (2 values)] "offhand"
+            {
+                [TAG_Compound (2 values)] "glove"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "ring"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 0
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (2 values)] "tag"
+                            {
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+        }
+        [TAG_Compound (2 values)] "vc_gliders:player_data"
+        {
+            [TAG_Byte] "is_gliding": 0
+            [TAG_Int] "lightningTimer": 0
+        }
+    }
+    [TAG_Int] "counter_0": 0
+    [TAG_Float] "foodExhaustionLevel": 1.400002
+    [TAG_Int] "foodLevel": 20
+    [TAG_Float] "foodSaturationLevel": 20.0
+    [TAG_Int] "foodTickTimer": 0
+    [TAG_Int] "haHurtTime": 0
+    [TAG_String] "key_0": "spectral_seas:diving_set"
+    [TAG_Compound (0 values)] "modifier_container"
+    {
+    }
+    [TAG_Int] "playerGameType": 1
+    [TAG_Compound (0 values)] "recipeBook"
+    {
+    }
+    [TAG_Byte] "seenCredits": 0
+    [TAG_Int] "sideEntrancesSize": 1
+    [TAG_Compound (3 values)] "surveyor"
+    {
+        [TAG_Compound (1 values)] "exploredStructures"
+        {
+            [TAG_Compound (15 values)] "minecraft:overworld"
+            {
+                [TAG_Long_Array (1 entries)] "archeologyplus:bone_desert"
+                [
+                      0: 0x0000003EFFFFFDBF (270582939071)
+                ]
+                [TAG_Long_Array (1 entries)] "betteroceanmonuments:ocean_monument"
+                [
+                      0: 0x0000026F000001D5 (2675764625877)
+                ]
+                [TAG_Long_Array (1 entries)] "formationsoverworld:hobbit_hole"
+                [
+                      0: 0x0000004BFFFFFDE8 (326417513960)
+                ]
+                [TAG_Long_Array (1 entries)] "galosphere:pink_salt_shrine"
+                [
+                      0: 0x0000001200000011 (77309411345)
+                ]
+                [TAG_Long_Array (1 entries)] "lord:hallway_dungeon"
+                [
+                      0: 0x00000152FFFFFEFB (1455993913083)
+                ]
+                [TAG_Long_Array (2 entries)] "minecraft:deepslate_portal"
+                [
+                      0: 0x00000155FFFFFEDA (1468878814938)
+                      1: 0xFFFFFFA1FFFFFFCD (-403726925875)
+                ]
+                [TAG_Long_Array (11 entries)] "minecraft:mineshaft"
+                [
+                      0: 0x00000179FFFFFF01 (1623497637633)
+                      1: 0xFFFFF3B0FFFFF373 (-13533441952909)
+                      2: 0x00000276000001E2 (2705829396962)
+                      3: 0x0000026F000001D4 (2675764625876)
+                      4: 0x0000003900000049 (244813135945)
+                      5: 0x00000158FFFFFEDD (1481763716829)
+                      6: 0x0000004800000050 (309237645392)
+                      7: 0x0000017FFFFFFF00 (1649267441408)
+                      8: 0x0000000E00000013 (60129542163)
+                      9: 0x0000015FFFFFFF04 (1511828487940)
+                     10: 0x00000178FFFFFF05 (1619202670341)
+                ]
+                [TAG_Long_Array (1 entries)] "mvs:houses/desert_house"
+                [
+                      0: 0x00000051FFFFFDE8 (352187317736)
+                ]
+                [TAG_Long_Array (1 entries)] "philipsruins:lost_soul_city"
+                [
+                      0: 0x0000003F00000049 (270582939721)
+                ]
+                [TAG_Long_Array (1 entries)] "ribbits:ribbit_village"
+                [
+                      0: 0x00000187FFFFFEAA (1683627179690)
+                ]
+                [TAG_Long_Array (4 entries)] "spectrum:preservation_ruins"
+                [
+                      0: 0x000000A9FFFFFE3E (730144439870)
+                      1: 0x0000015CFFFFFEFE (1498943586046)
+                      2: 0x0000003600000048 (231928234056)
+                      3: 0x00000156FFFFFEDB (1473173782235)
+                ]
+                [TAG_Long_Array (2 entries)] "totw_reworked:derelict_grass"
+                [
+                      0: 0x000015ED000015FF (24107651438079)
+                      1: 0x0000026000000214 (2611340116500)
+                ]
+                [TAG_Long_Array (2 entries)] "totw_reworked:jungle"
+                [
+                      0: 0xFFFFF3E3FFFFF323 (-13314398620893)
+                      1: 0xFFFFF3A000000C37 (-13606456390601)
+                ]
+                [TAG_Long_Array (4 entries)] "totw_reworked:ocean"
+                [
+                      0: 0xFFFFF3B2FFFFF3B8 (-13524852018248)
+                      1: 0x00000272000001DF (2688649527775)
+                      2: 0xFFFFF32000000BB2 (-14156212204622)
+                      3: 0x000015C8000015BB (23948737648059)
+                ]
+                [TAG_Long_Array (1 entries)] "totw_reworked:ocean_warm"
+                [
+                      0: 0xFFFFF3AAFFFFF37B (-13559211756677)
+                ]
+            }
+        }
+        [TAG_Compound (1 values)] "exploredTerrain"
+        {
+            [TAG_Long_Array (1405 entries)] "minecraft:overworld"
+            [
+                    0: 0x00000005FFFFFFF1 (25769803761), 0x0000000000000010 (  16)
+                    2: 0x001FFFFF000FFFFF (9007194960822271), 0x007FFFFF003FFFFF (36028792728190975)
+                    4: 0x00FFFFFF007FFFFF (72057589751349247), 0x00FFFFFF00FFFFFF (72057589759737855)
+                    6: 0x00FFFFFF00FFFFFF (72057589759737855), 0xFFFFFFFFFFFFFFFF (  -1)
+                    8: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                   10: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                   12: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                   14: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                   16: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                   18: 0x0000000AFFFFFFF6 (47244640246), 0x0000000000000010 (  16)
+                   20: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   22: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   24: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   26: 0x0FFF800000000000 (1152780767118491648), 0x7FFFF0003FFFE000 (9223354445742465024)
+                   28: 0xFFFFFC00FFFFF800 (-4393751545856), 0xFFFFFF00FFFFFE00 (-1095216660992)
+                   30: 0xFFFFFF80FFFFFF00 (-545460846848), 0xFFFFFF80FFFFFF80 (-545460846720)
+                   32: 0xFFFFFF80FFFFFF80 (-545460846720), 0xFFFFFFC0FFFFFFC0 (-270582939712)
+                   34: 0xFFFFFFE0FFFFFFE0 (-133143986208), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                   36: 0xFFFFFF9FFFFFFF99 (-412316860519), 0x000000000000000E (  14)
+                   38: 0x01FFFFFF01FFFFFF (144115183814443007), 0x01FFFFFF01FFFFFF (144115183814443007)
+                   40: 0x01FFFFFF01FFFFFF (144115183814443007), 0x01FFFFFF01FFFFFF (144115183814443007)
+                   42: 0x01FFFFFF01FFFFFF (144115183814443007), 0x00FFFFFF01FFFFFF (72057589776515071)
+                   44: 0x007FFFFF00FFFFFF (36028792740773887), 0x003FFFFF007FFFFF (18014394222903295)
+                   46: 0x001FFFFF001FFFFF (9007194961870847), 0x0007FFFF000FFFFF (2251795519766527)
+                   48: 0x0000FFFF0003FFFF (281470682005503), 0x00001FFF00007FFF (35180077154303)
+                   50: 0x00000001000007FF (4294969343), 0x0000000000000001 (   1)
+                   52: 0x00000001FFFFFFED (8589934573), 0x0000000000000010 (  16)
+                   54: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   56: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   58: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   60: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   62: 0xFE00000000000000 (-144115188075855872), 0xFFC00000FF800000 (-18014394222903296)
+                   64: 0xFFF80000FFF00000 (-2251795519766528), 0xFFFE0000FFFC0000 (-562945658716160)
+                   66: 0xFFFF8000FFFF0000 (-140733193453568), 0xFFFFC000FFFF8000 (-70364449243136)
+                   68: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                   70: 0x0000000100000001 (4294967297), 0x0000000000000010 (  16)
+                   72: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   74: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   76: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   78: 0x0000000000000000 (   0), 0xFFF80000FFE00000 (-2251795520815104)
+                   80: 0xFFFE0000FFFC0000 (-562945658716160), 0xFFFF8000FFFF0000 (-140733193453568)
+                   82: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFE000FFFFE000 (-35180077129728)
+                   84: 0xFFFFE000FFFFE000 (-35180077129728), 0xFFFFE000FFFFE000 (-35180077129728)
+                   86: 0xFFFFF000FFFFE000 (-17587891085312), 0xFFFFFC00FFFFF800 (-4393751545856)
+                   88: 0x000000140000000E (85899345934), 0x0000000000000010 (  16)
+                   90: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   92: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   94: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   96: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                   98: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  100: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  102: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  104: 0x0000000100000000 (4294967296), 0x0000000100000001 (4294967297)
+                  106: 0x00000006FFFFFFF2 (30064771058), 0x0000000000000010 (  16)
+                  108: 0x000001FF000003FF (2194728289279), 0x000000FF000001FF (1095216660991)
+                  110: 0x000000FF000000FF (1095216660735), 0x000000FF000000FF (1095216660735)
+                  112: 0x000000FF000000FF (1095216660735), 0x0000007F0000007F (545460846719)
+                  114: 0x0000003F0000003F (270582939711), 0x0000007F0000003F (545460846655)
+                  116: 0x000000FF0000007F (1095216660607), 0x000000FF000000FF (1095216660735)
+                  118: 0x000000FF000000FF (1095216660735), 0x000000FF000000FF (1095216660735)
+                  120: 0x000000FF000000FF (1095216660735), 0x000000FF000000FF (1095216660735)
+                  122: 0x0000007F000000FF (545460846847), 0x0000003F0000007F (270582939775)
+                  124: 0xFFFFFFFDFFFFFFFF (-8589934593), 0x0000000000000004 (   4)
+                  126: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFF800FFFFFFFF (-8791798054913)
+                  128: 0xFFFFE000FFFFF000 (-35180077125632), 0xFFFF0000FFFF8000 (-281470681776128)
+                  130: 0xFFFFFFFF00000000 (-4294967296), 0x0000000000000010 (  16)
+                  132: 0xFF800000FF800000 (-36028792732385280), 0xFF000000FF800000 (-72057589751349248)
+                  134: 0xFF000000FF000000 (-72057589759737856), 0xFF000000FF000000 (-72057589759737856)
+                  136: 0xE0000000FF000000 (-2305843004935503872), 0x0000000000000000 (   0)
+                  138: 0x0000000000000000 (   0), 0x8000000080000000 (-9223372034707292160)
+                  140: 0xC000000080000000 (-4611686016279904256), 0xE0000000E0000000 (-2305843005455597568)
+                  142: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                  144: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                  146: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                  148: 0x0000000BFFFFFFF7 (51539607543), 0x0000000000000010 (  16)
+                  150: 0x00007FFF00007FFF (140733193420799), 0xFFC07FFF00007FFF (-17873665316061185)
+                  152: 0xFFFC3FFFFFF87FFF (-1055531163156481), 0xFFFF3FFFFFFE3FFF (-211106232647681)
+                  154: 0xFFFFFFFFFFFFBFFF (-16385), 0xFFFFFFFFFFFFDFFF (-8193)
+                  156: 0xFFFFEFFFFFFFFFFF (-17592186044417), 0xFFFFE7FFFFFFEFFF (-26388279070721)
+                  158: 0xFFFFE1FFFFFFE3FF (-32985348840449), 0xFFFFF9FFFFFFF0FF (-6597069770497)
+                  160: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  162: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  164: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  166: 0x000000AD000000AD (743029342381), 0x0000000000000010 (  16)
+                  168: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  170: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  172: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  174: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  176: 0x8000000000000000 (-9223372036854775808), 0xE0000000C0000000 (-2305843005992468480)
+                  178: 0xF0000000F0000000 (-1152921500580315136), 0xF8000000F8000000 (-576460748142673920)
+                  180: 0xF8000000F8000000 (-576460748142673920), 0xF8000000F8000000 (-576460748142673920)
+                  182: 0xF8000000F8000000 (-576460748142673920), 0xF8000000F8000000 (-576460748142673920)
+                  184: 0xFFFFFF9D00000062 (-425201762206), 0x0000000000000003 (   3)
+                  186: 0x000003FF000007FF (4393751545855), 0x000000FF000001FF (1095216660991)
+                  188: 0x000000000000003F (  63), 0xFFFFFFFEFFFFFFFF (-4294967297)
+                  190: 0x0000000000000004 (   4), 0x00000FFF00001FFF (17587891085311)
+                  192: 0x000003FF000007FF (4393751545855), 0x0000007F000001FF (545460847103)
+                  194: 0x0000000300000007 (12884901895), 0xFFFFFF9CFFFFFF9B (-425201762405)
+                  196: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  198: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  200: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  202: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  204: 0x0000000000000000 (   0), 0x8000000000000000 (-9223372036854775808)
+                  206: 0x8000000080000000 (-9223372034707292160), 0x8000000080000000 (-9223372034707292160)
+                  208: 0x8000000080000000 (-9223372034707292160), 0x8000000080000000 (-9223372034707292160)
+                  210: 0x8000000080000000 (-9223372034707292160), 0x8000000080000000 (-9223372034707292160)
+                  212: 0x8000000080000000 (-9223372034707292160), 0xFFFFFF980000005D (-446676598691)
+                  214: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  216: 0x0000000000000000 (   0), 0xFC00000000000000 (-288230376151711744)
+                  218: 0xFFC00000FF000000 (-18014394231291904), 0xFFE00000FFC00000 (-9007194963968000)
+                  220: 0xFFF80000FFF00000 (-2251795519766528), 0xFFFC0000FFF80000 (-1125895612399616)
+                  222: 0xFFFC0000FFFC0000 (-1125895612137472), 0xFFFC0000FFFC0000 (-1125895612137472)
+                  224: 0xFFFC0000FFFC0000 (-1125895612137472), 0xFFFC0000FFFC0000 (-1125895612137472)
+                  226: 0xFFFC0000FFFC0000 (-1125895612137472), 0xFFF80000FFF80000 (-2251795519242240)
+                  228: 0xFFE00000FFF00000 (-9007194960822272), 0xFF800000FFC00000 (-36028792728190976)
+                  230: 0xFC000000FF000000 (-288230371873521664), 0x000000140000000F (85899345935)
+                  232: 0x000000000000000A (  10), 0x0000000100000001 (4294967297)
+                  234: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                  236: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                  238: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                  240: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                  242: 0x0000000100000001 (4294967297), 0xFFFFFF9CFFFFFF9E (-425201762402)
+                  244: 0x000000000000000C (  12), 0xFFE00000FFC00000 (-9007194963968000)
+                  246: 0xFFF00000FFF00000 (-4503595333451776), 0xFFF80000FFF80000 (-2251795519242240)
+                  248: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  250: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  252: 0xFFF00000FFF80000 (-4503595332927488), 0xFFE00000FFF00000 (-9007194960822272)
+                  254: 0xFF800000FFC00000 (-36028792728190976), 0xFE000000FF000000 (-144115183797665792)
+                  256: 0x0000000038000000 (939524096), 0x000000130000000F (81604378639)
+                  258: 0x0000000000000010 (  16), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  260: 0xFFFFFFE0FFFFFFE0 (-133143986208), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  262: 0xFFFFFFC0FFFFFFE0 (-270582939680), 0xFFFFFFE0FFFFFFC0 (-133143986240)
+                  264: 0xFFFFFFF0FFFFFFF0 (-64424509456), 0xFFFFFFF8FFFFFFF8 (-30064771080)
+                  266: 0xFFFFFFFCFFFFFFFC (-12884901892), 0xFFFFFFFEFFFFFFFE (-4294967298)
+                  268: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  270: 0x7FFFFFFF7FFFFFFF (9223372034707292159), 0x1FFFFFFF3FFFFFFF (2305843005992468479)
+                  272: 0x0FFFFFFF1FFFFFFF (1152921500848750591), 0x07FFFFFF07FFFFFF (576460748142673919)
+                  274: 0x01FFFFFF03FFFFFF (144115183847997439), 0x0000000AFFFFFFF9 (47244640249)
+                  276: 0x0000000000000008 (   8), 0xFFF00000FFF00000 (-4503595333451776)
+                  278: 0xFFF00000FFF00000 (-4503595333451776), 0xFFE00000FFE00000 (-9007194961870848)
+                  280: 0xFF800000FFC00000 (-36028792728190976), 0xFF000000FF800000 (-72057589751349248)
+                  282: 0xFC000000FE000000 (-288230371890298880), 0xF0000000F8000000 (-1152921500446097408)
+                  284: 0xC0000000E0000000 (-4611686014669291520), 0xFFFFFF9CFFFFFF9C (-425201762404)
+                  286: 0x0000000000000002 (   2), 0x8000000080000000 (-9223372034707292160)
+                  288: 0x8000000080000000 (-9223372034707292160), 0x0000001200000011 (77309411345)
+                  290: 0x0000000000000001 (   1), 0xF8000000FE000000 (-576460748042010624)
+                  292: 0xFFFFFFFDFFFFFFFD (-8589934595), 0x0000000000000010 (  16)
+                  294: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  296: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  298: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  300: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  302: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  304: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  306: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  308: 0x0000000000000000 (   0), 0x000001FF00000001 (2194728288257)
+                  310: 0x0000000000000000 (   0), 0x0000000000000010 (  16)
+                  312: 0xFFFFFDFFFFFFFBFF (-2199023256577), 0xFFFFFFFFFFFFFFFF (  -1)
+                  314: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  316: 0xFFFFFFFDFFFFFFFF (-8589934593), 0xFFFFFFFEFFFFFFFE (-4294967298)
+                  318: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  320: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  322: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  324: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  326: 0x7FFFFFFFFFFFFFFF (9223372036854775807), 0x3FFFFFFF7FFFFFFF (4611686016279904255)
+                  328: 0xFFFFFF9DFFFFFF9A (-420906795110), 0x0000000000000010 (  16)
+                  330: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  332: 0x0000000000000000 (   0), 0x8000000000000000 (-9223372036854775808)
+                  334: 0xC000000080000000 (-4611686016279904256), 0xE0000000E0000000 (-2305843005455597568)
+                  336: 0xF8000000F0000000 (-576460748276891648), 0xF8000000F8000000 (-576460748142673920)
+                  338: 0xFE000000F8000000 (-144115183915106304), 0xFF800000FE000000 (-36028792757551104)
+                  340: 0xFFC00000FF800000 (-18014394222903296), 0xFFF00000FFC00000 (-4503595336597504)
+                  342: 0xFFF80000FFF00000 (-2251795519766528), 0xFFFC0000FFFC0000 (-1125895612137472)
+                  344: 0xFFFF8000FFFF0000 (-140733193453568), 0xFFFFC000FFFF8000 (-70364449243136)
+                  346: 0xFFFFFF9CFFFFFF9D (-425201762403), 0x0000000000000010 (  16)
+                  348: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  350: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  352: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  354: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  356: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  358: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  360: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  362: 0xFE00000008000000 (-144115187941638144), 0xFF800000FF000000 (-36028792740773888)
+                  364: 0x000000130000000E (81604378638), 0x0000000000000010 (  16)
+                  366: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  368: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  370: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  372: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  374: 0x0000000000000000 (   0), 0x03FFF80000FFE000 (288221580075458560)
+                  376: 0x0FFFFE0007FFFC00 (1152919305717808128), 0x3FFFFF801FFFFF00 (4611685469208444672)
+                  378: 0x7FFFFFC07FFFFFC0 (9223371764124352448), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  380: 0xFFFFFFE0FFFFFFE0 (-133143986208), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  382: 0x0000000BFFFFFFF4 (51539607540), 0x0000000000000010 (  16)
+                  384: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  386: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  388: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  390: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  392: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  394: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  396: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  398: 0x0000000000000000 (   0), 0x8000000000000000 (-9223372036854775808)
+                  400: 0x0000000CFFFFFFF5 (55834574837), 0x000000000000000C (  12)
+                  402: 0x0003FFFF0001FFFF (1125895612006399), 0x000FFFFF0007FFFF (4503595332927487)
+                  404: 0x001FFFFF000FFFFF (9007194960822271), 0x001FFFFF001FFFFF (9007194961870847)
+                  406: 0x001FFFFF001FFFFF (9007194961870847), 0x001FFFFF001FFFFF (9007194961870847)
+                  408: 0x001FFFFF001FFFFF (9007194961870847), 0x001FFFFF001FFFFF (9007194961870847)
+                  410: 0x000FFFFF000FFFFF (4503595333451775), 0x0003FFFF0007FFFF (1125895612399615)
+                  412: 0x0000FFFF0001FFFF (281470681874431), 0x00001FFC00007FFF (35167192252415)
+                  414: 0xFFFFFF9FFFFFFF98 (-412316860520), 0x0000000000000010 (  16)
+                  416: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  418: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  420: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  422: 0x0000000000000000 (   0), 0x00001FFF000007FF (35180077123583)
+                  424: 0x0000FFFF00007FFF (281470681776127), 0x0007FFFF0003FFFF (2251795518980095)
+                  426: 0x001FFFFF000FFFFF (9007194960822271), 0x003FFFFF001FFFFF (18014394216611839)
+                  428: 0x007FFFFF007FFFFF (36028792732385279), 0x00FFFFFF00FFFFFF (72057589759737855)
+                  430: 0x01FFFFFF01FFFFFF (144115183814443007), 0x01FFFFFF01FFFFFF (144115183814443007)
+                  432: 0x0000001200000010 (77309411344), 0x0000000000000010 (  16)
+                  434: 0xFE000000FE000000 (-144115183814443008), 0xFF000000FF000000 (-72057589759737856)
+                  436: 0xFF800000FF800000 (-36028792732385280), 0xFFC00000FFC00000 (-18014394218708992)
+                  438: 0xFFE00000FFE00000 (-9007194961870848), 0xFFF00000FFF00000 (-4503595333451776)
+                  440: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  442: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  444: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  446: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF00000FFF00000 (-4503595333451776)
+                  448: 0xFFC00000FFE00000 (-18014394216611840), 0xFF000000FF800000 (-72057589751349248)
+                  450: 0xFFFFFF9C00000061 (-429496729503), 0x0000000000000010 (  16)
+                  452: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  454: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  456: 0x0000000000000000 (   0), 0xFE000000F8000000 (-144115183915106304)
+                  458: 0xFFC00000FF000000 (-18014394231291904), 0xFFE00000FFC00000 (-9007194963968000)
+                  460: 0xFFF00000FFF00000 (-4503595333451776), 0xFFF80000FFF80000 (-2251795519242240)
+                  462: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  464: 0xFFF80000FFF80000 (-2251795519242240), 0xFFF80000FFF80000 (-2251795519242240)
+                  466: 0xFFF00000FFF80000 (-4503595332927488), 0xFFE00000FFF00000 (-9007194960822272)
+                  468: 0x00000003FFFFFFF2 (17179869170), 0x0000000000000006 (   6)
+                  470: 0xF8000000F8000000 (-576460748142673920), 0xF8000000F8000000 (-576460748142673920)
+                  472: 0xF8000000F8000000 (-576460748142673920), 0xF8000000F8000000 (-576460748142673920)
+                  474: 0xE0000000F0000000 (-2305843005187162112), 0x00000000C0000000 (3221225472)
+                  476: 0xFFFFFF9DFFFFFF9E (-420906795106), 0x000000000000000C (  12)
+                  478: 0x1FFFFFFF3FFFFFFF (2305843005992468479), 0x07FFFFFF0FFFFFFF (576460748276891647)
+                  480: 0x00FFFFFF03FFFFFF (72057589810069503), 0x00003FFF00003FFF (70364449226751)
+                  482: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  484: 0x00003FFF00003FFF (70364449226751), 0x00001FFF00003FFF (35180077137919)
+                  486: 0x00000FFF00001FFF (17587891085311), 0x000003FF000007FF (4393751545855)
+                  488: 0x000000FF000001FF (1095216660991), 0x0000000000000020 (  32)
+                  490: 0xFFFFFFFCFFFFFFFD (-12884901891), 0x0000000000000010 (  16)
+                  492: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  494: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  496: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  498: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  500: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  502: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  504: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  506: 0x0000000000000000 (   0), 0xFFC00000FF000000 (-18014394231291904)
+                  508: 0x00000004FFFFFFF2 (21474836466), 0x0000000000000006 (   6)
+                  510: 0xFC03FFFFFC07FFFF (-287104476311453697), 0xFC03FFFFFC03FFFF (-287104476311715841)
+                  512: 0xF803FFFFF803FFFF (-575334852530536449), 0xE003FFFFF003FFFF (-2304717109575024641)
+                  514: 0x8000FFFFC001FFFF (-9223090562951675905), 0x0000000000007FFF (32767)
+                  516: 0xFFFFFF9C00000062 (-429496729502), 0x0000000000000003 (   3)
+                  518: 0xFF800000FFC00000 (-36028792728190976), 0xFE000000FF000000 (-144115183797665792)
+                  520: 0x00000000F8000000 (4160749568), 0x00000002FFFFFFEF (12884901871)
+                  522: 0x000000000000000D (  13), 0xFFFFFFFFFFFFFFFF (  -1)
+                  524: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  526: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  528: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  530: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  532: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFCFFFFFFFE (-12884901890)
+                  534: 0xFFFFE000FFFFFFF0 (-35180077121552), 0x3FF80000FFFF8000 (4609434222908637184)
+                  536: 0xFFFFFF9EFFFFFF98 (-416611827816), 0x0000000000000010 (  16)
+                  538: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  540: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  542: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  544: 0x0000000000000000 (   0), 0xFC000000F0000000 (-288230372125179904)
+                  546: 0xFF800000FF000000 (-36028792740773888), 0xFFF00000FFE00000 (-4503595334500352)
+                  548: 0xFFFC0000FFF80000 (-1125895612399616), 0xFFFE0000FFFC0000 (-562945658716160)
+                  550: 0xFFFF0000FFFF0000 (-281470681808896), 0xFFFF8000FFFF8000 (-140733193420800)
+                  552: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                  554: 0x00000000FFFFFFFF (4294967295), 0x0000000000000010 (  16)
+                  556: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  558: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  560: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  562: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  564: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  566: 0x0000000000000000 (   0), 0x0000000700000000 (30064771072)
+                  568: 0x000001FF000001FF (2194728288767), 0x000003FF000001FF (4393751544319)
+                  570: 0xFFFFC3FF7FFF03FF (-65972845214721), 0xFFFFF3FFFFFFE3FF (-13194139540481)
+                  572: 0xFFFFFF9DFFFFFF9B (-420906795109), 0x0000000000000010 (  16)
+                  574: 0xFFFFF000FFFFE000 (-17587891085312), 0xFFFFFC00FFFFF800 (-4393751545856)
+                  576: 0xFFFFFE00FFFFFC00 (-2194728289280), 0xFFFFFF00FFFFFF00 (-1095216660736)
+                  578: 0xFFFFFFC0FFFFFF80 (-270582939776), 0xFFFFFFF0FFFFFFE0 (-64424509472)
+                  580: 0xFFFFFFF8FFFFFFF8 (-30064771080), 0xFFFFFFFEFFFFFFFC (-4294967300)
+                  582: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  584: 0xFFFFFFFFFFFFFFFF (  -1), 0x7FFFFFFFFFFFFFFF (9223372036854775807)
+                  586: 0x3FFFFFFF7FFFFFFF (4611686016279904255), 0x0FFFFFFF1FFFFFFF (1152921500848750591)
+                  588: 0x07FFFFFF07FFFFFF (576460748142673919), 0x01FFFFFF03FFFFFF (144115183847997439)
+                  590: 0xFFFFFF9DFFFFFF9C (-420906795108), 0x0000000000000003 (   3)
+                  592: 0x007FFFFF00FFFFFF (36028792740773887), 0x001FFFFF003FFFFF (9007194963967999)
+                  594: 0x0007CF3C000FFFFF (2198181443010559), 0xFFFFFFFFFFFFFFFF (  -1)
+                  596: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  598: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  600: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  602: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  604: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  606: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  608: 0x8000000000000000 (-9223372036854775808), 0xFF000000FF000000 (-72057589759737856)
+                  610: 0xFF000000FF000000 (-72057589759737856), 0xFF000000FF000000 (-72057589759737856)
+                  612: 0xFF000000FF000000 (-72057589759737856), 0x0000000BFFFFFFF8 (51539607544)
+                  614: 0x0000000000000010 (  16), 0xFFFFFFFFFFFFFFFF (  -1)
+                  616: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  618: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  620: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  622: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  624: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  626: 0x0003FFFF7FFFFFFF (1125897759358975), 0x0007FFFF0007FFFF (2251795519242239)
+                  628: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  630: 0x000FFFFF000FFFFF (4503595333451775), 0x00000006FFFFFFF3 (30064771059)
+                  632: 0x0000000000000002 (   2), 0x0000000F0000001F (64424509471)
+                  634: 0x0000000300000007 (12884901895), 0xFFFFFFFCFFFFFFFF (-12884901889)
+                  636: 0x0000000000000001 (   1), 0xC0000000E0000000 (-4611686014669291520)
+                  638: 0xFFFFFF9EFFFFFF99 (-416611827815), 0x0000000000000010 (  16)
+                  640: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                  642: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                  644: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                  646: 0xFFFFE000FFFFE000 (-35180077129728), 0xFFFFF800FFFFF800 (-8791798056960)
+                  648: 0xFFFFFE00FFFFF800 (-2194728290304), 0xFFFFFE00FFFFFE00 (-2194728288768)
+                  650: 0xFFFFFF80FFFFFF80 (-545460846720), 0xFFFFFF80FFFFFF80 (-545460846720)
+                  652: 0xFFFFFFE0FFFFFFC0 (-133143986240), 0xFFFFFFF0FFFFFFE0 (-64424509472)
+                  654: 0xFFFFFFF8FFFFFFF0 (-30064771088), 0x7FFFFFFC7FFFFFF8 (9223372021822390264)
+                  656: 0x00000001FFFFFFEE (8589934574), 0x0000000000000010 (  16)
+                  658: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFFC000FFFFC000 (-70364449226752)
+                  660: 0xFFFFC000FFFFC000 (-70364449226752), 0xFFFF8000FFFF8000 (-140733193420800)
+                  662: 0xFFFE0000FFFF0000 (-562945658519552), 0xFFF80000FFFC0000 (-2251795518980096)
+                  664: 0xFFC00000FFF00000 (-18014394215563264), 0x0000000000000000 (   0)
+                  666: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  668: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  670: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  672: 0x8000000000000000 (-9223372036854775808), 0xC0000000C0000000 (-4611686015206162432)
+                  674: 0x00000003FFFFFFEF (17179869167), 0x000000000000000D (  13)
+                  676: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  678: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  680: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  682: 0x00003FFF00003FFF (70364449226751), 0x00001FFF00003FFF (35180077137919)
+                  684: 0x00000FFF00000FFF (17587891081215), 0x000003FF000007FF (4393751545855)
+                  686: 0x0000003F0000007F (270582939775), 0x0000000F0000001F (64424509471)
+                  688: 0x0000000000000003 (   3), 0xFFFFFF9D00000061 (-425201762207)
+                  690: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  692: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  694: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  696: 0x000000FF0000003F (1095216660543), 0x000007FF000001FF (8791798055423)
+                  698: 0x00000FFF000007FF (17587891079167), 0x00001FFF00001FFF (35180077129727)
+                  700: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  702: 0x00003FFF00003FFF (70364449226751), 0x00003FFF00003FFF (70364449226751)
+                  704: 0x00003FFF00003FFF (70364449226751), 0x00001FFF00003FFF (35180077137919)
+                  706: 0x00000FFF00001FFF (17587891085311), 0x00000005FFFFFFF0 (25769803760)
+                  708: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  710: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  712: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  714: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  716: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  718: 0x00003FFF00000FFF (70364449214463), 0x0000FFFF00007FFF (281470681776127)
+                  720: 0x0001FFFF0001FFFF (562945658585087), 0x0003FFFF0003FFFF (1125895612137471)
+                  722: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  724: 0x0007FFFF0007FFFF (2251795519242239), 0xFFFFFF9DFFFFFF9D (-420906795107)
+                  726: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                  728: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  730: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  732: 0x00FFE00000000000 (72022409665839104), 0x0FFFFF0007FFFC00 (1152920405229435904)
+                  734: 0x3FFFFFC01FFFFF80 (4611685744086351744), 0x7FFFFFC03FFFFFC0 (9223371763050610624)
+                  736: 0xFFFFFFE07FFFFFC0 (-135291469888), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  738: 0xFFFFFFE0FFFFFFE0 (-133143986208), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                  740: 0xFFFFFFE0FFFFFFE0 (-133143986208), 0xFFFFFFFFFFFFFFFF (  -1)
+                  742: 0x7FFFFFFF7FFFFFFF (9223372034707292159), 0x000000AD000000AE (743029342382)
+                  744: 0x0000000000000003 (   3), 0xF0000000F8000000 (-1152921500446097408)
+                  746: 0xE0000000F0000000 (-2305843005187162112), 0x80000000C0000000 (-9223372033633550336)
+                  748: 0x0000000100000002 (4294967298), 0x000000000000000F (  15)
+                  750: 0xFFFFFF00FFFFFE00 (-1095216660992), 0xFFFFFF80FFFFFF00 (-545460846848)
+                  752: 0xFFFFFF80FFFFFF80 (-545460846720), 0xFFFFFF80FFFFFF80 (-545460846720)
+                  754: 0xFFFFFF80FFFFFF80 (-545460846720), 0xFFFFFF80FFFFFF80 (-545460846720)
+                  756: 0xFFFFFF80FFFFFF80 (-545460846720), 0xFFFFFF80FFFFFF80 (-545460846720)
+                  758: 0xFFFFFF00FFFFFF00 (-1095216660736), 0xFFFFFC00FFFFFE00 (-4393751544320)
+                  760: 0xFFFFF000FFFFF800 (-17587891079168), 0xFFFF8000FFFFE000 (-140733193396224)
+                  762: 0xFF000000FF800000 (-72057589751349248), 0xFC000000FE000000 (-288230371890298880)
+                  764: 0xF0000000F8000000 (-1152921500446097408), 0x00000002FFFFFFEE (12884901870)
+                  766: 0x0000000000000010 (  16), 0x00001FFF00001FFF (35180077129727)
+                  768: 0x00001FFF00001FFF (35180077129727), 0x00000FFF00000FFF (17587891081215)
+                  770: 0x000003FF000007FF (4393751545855), 0x000001FF000001FF (2194728288767)
+                  772: 0x0000003F0000007F (270582939775), 0x000000030000000F (12884901903)
+                  774: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  776: 0x0FFFE00003FF8000 (1152886320301834240), 0x3FFFFF801FFFFE00 (4611685469208444416)
+                  778: 0xFFFFFFE07FFFFFC0 (-135291469888), 0xFFFFFFF8FFFFFFF0 (-30064771088)
+                  780: 0xFFFFFFFEFFFFFFFC (-4294967300), 0xFFFFFFFFFFFFFFFF (  -1)
+                  782: 0xFFFFFFFFFFFFFFFF (  -1), 0x000000AE000000AE (747324309678)
+                  784: 0x0000000000000005 (   5), 0x001FFFFF003FFFFF (9007194963967999)
+                  786: 0x000FFFFF001FFFFF (4503595334500351), 0x0003FFFF0007FFFF (1125895612399615)
+                  788: 0x0000FFFE0001FFFF (281466386907135), 0x0000000000003FF8 (16376)
+                  790: 0xFFFFFF9EFFFFFF9A (-416611827814), 0x0000000000000010 (  16)
+                  792: 0x3FFFFFFC3FFFFFFC (4611686002321260540), 0x1FFFFFFC1FFFFFFC (2305842992570695676)
+                  794: 0x1FFFFFFF1FFFFFFE (2305843005455597566), 0x0FFFFFFF0FFFFFFF (1152921500580315135)
+                  796: 0x07FFFFFF0FFFFFFF (576460748276891647), 0x03FFFFFF03FFFFFF (288230371923853311)
+                  798: 0x01FFFFFF03FFFFFF (144115183847997439), 0x00FFFFFF01FFFFFF (72057589776515071)
+                  800: 0x007FFFFF00FFFFFF (36028792740773887), 0x001FFFFF007FFFFF (9007194968162303)
+                  802: 0x000FFFFF000FFFFF (4503595333451775), 0x0003FFFF0007FFFF (1125895612399615)
+                  804: 0x0001FFFF0001FFFF (562945658585087), 0x00007FFF0000FFFF (140733193453567)
+                  806: 0x00001FFF00003FFF (35180077137919), 0x00000FFF00001FFF (17587891085311)
+                  808: 0x0000000CFFFFFFF8 (55834574840), 0x000000000000000B (  11)
+                  810: 0x00003FFF00007FFF (70364449243135), 0x00001FFF00001FFF (35180077129727)
+                  812: 0x00001FFF00001FFF (35180077129727), 0x00001FFF00001FFF (35180077129727)
+                  814: 0x00000FFF00001FFF (17587891085311), 0x000007FF00000FFF (8791798059007)
+                  816: 0x000003FF000007FF (4393751545855), 0x000000FF000001FF (1095216660991)
+                  818: 0x0000003F0000007F (270582939775), 0x000000070000000F (30064771087)
+                  820: 0x0000000000000001 (   1), 0x0000000200000002 (8589934594)
+                  822: 0x000000000000000F (  15), 0x00001FFF00001FFF (35180077129727)
+                  824: 0x00001FFF00001FFF (35180077129727), 0x0001FFFF00007FFF (562945658486783)
+                  826: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  828: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  830: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  832: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                  834: 0x0007FFFF0007FFFF (2251795519242239), 0x0003FFFF0007FFFF (1125895612399615)
+                  836: 0x00003FFF0000FFFF (70364449275903), 0x000007FF00001FFF (8791798063103)
+                  838: 0x00000006FFFFFFF1 (30064771057), 0x0000000000000010 (  16)
+                  840: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  842: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  844: 0x0000000000000000 (   0), 0x0000000F00000001 (64424509441)
+                  846: 0x0000003F0000001F (270582939679), 0x000000FF0000007F (1095216660607)
+                  848: 0x000001FF000001FF (2194728288767), 0x000001FF000001FF (2194728288767)
+                  850: 0x000001FF000001FF (2194728288767), 0x000001FF000001FF (2194728288767)
+                  852: 0x000001FF000001FF (2194728288767), 0x000001FF000001FF (2194728288767)
+                  854: 0x000003FF000003FF (4393751544831), 0x000003FF000003FF (4393751544831)
+                  856: 0x0000000BFFFFFFF6 (51539607542), 0x0000000000000010 (  16)
+                  858: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  860: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  862: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  864: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  866: 0x0000007F0000001F (545460846623), 0x000003FF000001FF (4393751544319)
+                  868: 0x00000FFF000007FF (17587891079167), 0x00003FFF00001FFF (70364449218559)
+                  870: 0x00007FFF00003FFF (140733193404415), 0x00007FFF00007FFF (140733193420799)
+                  872: 0x00007FFF00007FFF (140733193420799), 0x00007FFF00007FFF (140733193420799)
+                  874: 0xFFFFFFFCFFFFFFFE (-12884901890), 0x0000000000000010 (  16)
+                  876: 0xFFF00000FFE00000 (-4503595334500352), 0xFFFC0000FFF80000 (-1125895612399616)
+                  878: 0xFFFF0000FFFE0000 (-281470681874432), 0xFFFF8000FFFF0000 (-140733193453568)
+                  880: 0xFFFF8000FFFF8000 (-140733193420800), 0xFFFF8000FFFF8000 (-140733193420800)
+                  882: 0xFFFF8000FFFF8000 (-140733193420800), 0xFFFF8000FFFF8000 (-140733193420800)
+                  884: 0xFFFF8000FFFF8000 (-140733193420800), 0xFFFF8000FFFF8000 (-140733193420800)
+                  886: 0xFFFF0000FFFF0000 (-281470681808896), 0xFFFC0000FFFE0000 (-1125895612006400)
+                  888: 0xFFF00000FFF80000 (-4503595332927488), 0xFFC00000FFE00000 (-18014394216611840)
+                  890: 0xFC000000FF800000 (-288230371865133056), 0xF0000000F8000000 (-1152921500446097408)
+                  892: 0x000000AE000000AF (747324309679), 0x0000000000000010 (  16)
+                  894: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  896: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  898: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  900: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  902: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  904: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  906: 0x8000000000000000 (-9223372036854775808), 0x8000000080000000 (-9223372034707292160)
+                  908: 0x8000000080000000 (-9223372034707292160), 0x8000000080000000 (-9223372034707292160)
+                  910: 0x0000000AFFFFFFF7 (47244640247), 0x0000000000000010 (  16)
+                  912: 0xFFFFFFF0FFFFFFF0 (-64424509456), 0xFFFFFFF0FFFFFFF0 (-64424509456)
+                  914: 0xFFFFFFF8FFFFFFF8 (-30064771080), 0xFFFFFFF8FFFFFFF8 (-30064771080)
+                  916: 0xFFFFFFF8FFFFFFF8 (-30064771080), 0xFFFFFFF8FFFFFFF8 (-30064771080)
+                  918: 0xFFFFFFF8FFFFFFF8 (-30064771080), 0xFFFFFFF8FFFFFFF8 (-30064771080)
+                  920: 0xFFFFFFF0FFFFFFF8 (-64424509448), 0xFFFFFFF0FFFFFFF0 (-64424509456)
+                  922: 0xFFFFFFF0FFFFFFF0 (-64424509456), 0xFFFFFFF0FFFFFFF0 (-64424509456)
+                  924: 0xFFFFFFF0FFFFFFF0 (-64424509456), 0xFFFFFFF0FFFFFFF0 (-64424509456)
+                  926: 0xFFFFFFF0FFFFFFF0 (-64424509456), 0xFFFFFFF0FFFFFFF0 (-64424509456)
+                  928: 0x0000000000000001 (   1), 0x0000000000000004 (   4)
+                  930: 0x1FFFFFFF3FFFFFFF (2305843005992468479), 0x07FFFFFF0FFFFFFF (576460748276891647)
+                  932: 0x01FFFFFE03FFFFFF (144115179553030143), 0x0001FFF0007FFFFC (562881242333180)
+                  934: 0x00000005FFFFFFF2 (25769803762), 0x0000000000000010 (  16)
+                  936: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  938: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                  940: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFCFFFFFFFF (-12884901889)
+                  942: 0xFFFFFFFCFFFFFFFC (-12884901892), 0xFFFFFFFCFFFFFFFC (-12884901892)
+                  944: 0xFFFFFFFCFFFFFFFC (-12884901892), 0xFFFFFFFCFFFFFFFC (-12884901892)
+                  946: 0xFFFFFFF8FFFFFFF8 (-30064771080), 0xFFFFFFE0FFFFFFF0 (-133143986192)
+                  948: 0xFFFFFF80FFFFFFC0 (-545460846656), 0xFFFFFC00FFFFFF00 (-4393751544064)
+                  950: 0xFFFFF800FFFFFC00 (-8791798055936), 0xFFFFE000FFFFF000 (-35180077125632)
+                  952: 0xFFFFFFFF00000001 (-4294967295), 0x0000000000000002 (   2)
+                  954: 0xE0000000E0000000 (-2305843005455597568), 0x80000000C0000000 (-9223372033633550336)
+                  956: 0x00000003FFFFFFEE (17179869166), 0x0000000000000010 (  16)
+                  958: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  960: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  962: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  964: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  966: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  968: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  970: 0x0000001F00000001 (133143986177), 0x000001FF000000FF (2194728288511)
+                  972: 0x000007FF000003FF (8791798055935), 0x00001FFF00000FFF (35180077125631)
+                  974: 0x0000000100000000 (4294967296), 0x000000000000000E (  14)
+                  976: 0x0000001F0000000F (133143986191), 0x0000003F0000003F (270582939711)
+                  978: 0x0000007F0000007F (545460846719), 0x0000007F0000007F (545460846719)
+                  980: 0x0000007F0000007F (545460846719), 0x0000007F0000007F (545460846719)
+                  982: 0x0000007F0000007F (545460846719), 0x0000007F0000007F (545460846719)
+                  984: 0x0000003F0000003F (270582939711), 0x0000001F0000001F (133143986207)
+                  986: 0x0000000F0000001F (64424509471), 0x0000000300000003 (12884901891)
+                  988: 0x0000000300000003 (12884901891), 0x0000000100000001 (4294967297)
+                  990: 0x000000B0000000AF (755914244271), 0x0000000000000010 (  16)
+                  992: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  994: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  996: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                  998: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1000: 0x0000000300000001 (12884901889), 0x0000000300000003 (12884901891)
+                 1002: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                 1004: 0x0000000300000003 (12884901891), 0x0000000300000003 (12884901891)
+                 1006: 0x0000000300000003 (12884901891), 0x0000000700000007 (30064771079)
+                 1008: 0x000000AF000000AF (751619276975), 0x0000000000000010 (  16)
+                 1010: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1012: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1014: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1016: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1018: 0xFFFFFF80F8000000 (-545595064320), 0xFFFFFFF0FFFFFFE0 (-64424509472)
+                 1020: 0xFFFFFFFCFFFFFFF8 (-12884901896), 0xFFFFFFFFFFFFFFFE (  -2)
+                 1022: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1024: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1026: 0x0000001300000013 (81604378643), 0x000000000000000F (  15)
+                 1028: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1030: 0x0000000000000000 (   0), 0x07FFFF0000000000 (576459652791795712)
+                 1032: 0x1FFFFF800FFFFF80 (2305842459726315392), 0x0FFFFF801FFFFF80 (1152920955387903872)
+                 1034: 0x0FFFFFC00FFFFFC0 (1152921229997375424), 0x0FFFFF800FFFFFC0 (1152920955119468480)
+                 1036: 0x0FFFFFC00FFFFFC0 (1152921229997375424), 0x0FFFFFC00FFFFFC0 (1152921229997375424)
+                 1038: 0x1FFFFF801FFFFF80 (2305842459994750848), 0x1FFFFF801FFFFF80 (2305842459994750848)
+                 1040: 0x0FFFFF801FFFFF80 (1152920955387903872), 0x07FFFF000FFFFF80 (576459653060231040)
+                 1042: 0x0000000002003800 (33568768), 0x00000001FFFFFFEF (8589934575)
+                 1044: 0x000000000000000A (  10), 0xE0000000E0000000 (-2305843005455597568)
+                 1046: 0xF0000000E0000000 (-1152921500848750592), 0xF0000000F0000000 (-1152921500580315136)
+                 1048: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                 1050: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                 1052: 0xE0000000F0000000 (-2305843005187162112), 0xC0000000E0000000 (-4611686014669291520)
+                 1054: 0x0000000080000000 (2147483648), 0xFFFFFF990000005D (-442381631395)
+                 1056: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1058: 0x0000000000000000 (   0), 0x0000001F00000000 (133143986176)
+                 1060: 0x000000FF0000007F (1095216660607), 0x000003FF000003FF (4393751544831)
+                 1062: 0x00000FFF000007FF (17587891079167), 0x00001FFF00000FFF (35180077125631)
+                 1064: 0x00001FFF00001FFF (35180077129727), 0x00001FFF00001FFF (35180077129727)
+                 1066: 0x00001FFF00001FFF (35180077129727), 0x00001FFF00001FFF (35180077129727)
+                 1068: 0x00001FFF00001FFF (35180077129727), 0x00000FFF00000FFF (17587891081215)
+                 1070: 0x000003FF000007FF (4393751545855), 0x000000FF000001FF (1095216660991)
+                 1072: 0x0000001F0000007F (133143986303), 0x0000000BFFFFFFF9 (51539607545)
+                 1074: 0x0000000000000009 (   9), 0x000FFFFF000FFFFF (4503595333451775)
+                 1076: 0x000FFFFF000FFFFF (4503595333451775), 0x000FFFFF000FFFFF (4503595333451775)
+                 1078: 0x000FFFFF000FFFFF (4503595333451775), 0x0007FFFF000FFFFF (2251795519766527)
+                 1080: 0x0003FFFF0007FFFF (1125895612399615), 0x0000FFFF0001FFFF (281470681874431)
+                 1082: 0x00003FFF00007FFF (70364449243135), 0x0000000000000FFF (4095)
+                 1084: 0x00000004FFFFFFF0 (21474836464), 0x0000000000000010 (  16)
+                 1086: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1088: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1090: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1092: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1094: 0x0000000000000000 (   0), 0xF8000000E0000000 (-576460748545327104)
+                 1096: 0xFE000000FC000000 (-144115183847997440), 0xFF000000FF000000 (-72057589759737856)
+                 1098: 0xFF800000FF800000 (-36028792732385280), 0xFFC00000FFC00000 (-18014394218708992)
+                 1100: 0xFFC00000FFC00000 (-18014394218708992), 0xFFC00000FFC00000 (-18014394218708992)
+                 1102: 0x00000001FFFFFFFF (8589934591), 0x0000000000000010 (  16)
+                 1104: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1106: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1108: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1110: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1112: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1114: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1116: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1118: 0x0000000100000000 (4294967296), 0x0000000F00000003 (64424509443)
+                 1120: 0x0000000CFFFFFFF4 (55834574836), 0x0000000000000010 (  16)
+                 1122: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1124: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1126: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1128: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1130: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1132: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1134: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1136: 0x00001FFC00000000 (35167192219648), 0x0000FFFF00007FFF (281470681776127)
+                 1138: 0x0000000BFFFFFFF5 (51539607541), 0x000000000000000B (  11)
+                 1140: 0xE0000000C0000000 (-2305843005992468480), 0xF8000000F0000000 (-576460748276891648)
+                 1142: 0xFC000000F8000000 (-288230371990962176), 0xFC000000FC000000 (-288230371923853312)
+                 1144: 0xFC000000FC000000 (-288230371923853312), 0xFC000000FC000000 (-288230371923853312)
+                 1146: 0xFC000000FC000000 (-288230371923853312), 0xFC000000FC000000 (-288230371923853312)
+                 1148: 0xF8000000F8000000 (-576460748142673920), 0xE0000000F0000000 (-2305843005187162112)
+                 1150: 0x80000000C0000000 (-9223372033633550336), 0x00000004FFFFFFF1 (21474836465)
+                 1152: 0x0000000000000010 (  16), 0xFFC00000FFC00000 (-18014394218708992)
+                 1154: 0xFFC00000FFC00000 (-18014394218708992), 0xFFC00000FFC00000 (-18014394218708992)
+                 1156: 0xFF800000FF800000 (-36028792732385280), 0xFF000000FF000000 (-72057589759737856)
+                 1158: 0xFC000000FE000000 (-288230371890298880), 0xF0000000F8000000 (-1152921500446097408)
+                 1160: 0xF0000000F0000000 (-1152921500580315136), 0xF0000000F0000000 (-1152921500580315136)
+                 1162: 0xF0000000F0000000 (-1152921500580315136), 0xF000FFFFF0007FFF (-1152640029898539009)
+                 1164: 0xF803FFFFF801FFFF (-575334852530667521), 0xFC07FFFFFC07FFFF (-285978576404611073)
+                 1166: 0xFC03FFFFFC07FFFF (-287104476311453697), 0xFC03FFFFFC03FFFF (-287104476311715841)
+                 1168: 0xFC07FFFFFC07FFFF (-285978576404611073), 0xFFFFFF9E00000061 (-420906794911)
+                 1170: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1172: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1174: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1176: 0x001FFFFC00000000 (9007182074871808), 0x003FFFFE003FFFFE (18014389923741694)
+                 1178: 0x003FFFFE003FFFFE (18014389923741694), 0x003FFFFE003FFFFE (18014389923741694)
+                 1180: 0x003FFFFE003FFFFE (18014389923741694), 0x003FFFFE003FFFFE (18014389923741694)
+                 1182: 0x003FFFFE003FFFFE (18014389923741694), 0x003FFFFE003FFFFE (18014389923741694)
+                 1184: 0x003FFFFE003FFFFE (18014389923741694), 0x003FFFFE003FFFFE (18014389923741694)
+                 1186: 0x001FFFFC001FFFFE (9007182076968958), 0x00000003FFFFFFF1 (17179869169)
+                 1188: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1190: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1192: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1194: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1196: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1198: 0x0000000000000000 (   0), 0xE0000000C0000000 (-2305843005992468480)
+                 1200: 0xF8000000F0000000 (-576460748276891648), 0xF8000000F8000000 (-576460748142673920)
+                 1202: 0xF8000000F8000000 (-576460748142673920), 0xFC000000F8000000 (-288230371990962176)
+                 1204: 0xF8000000F8000000 (-576460748142673920), 0x000000AE000000B0 (747324309680)
+                 1206: 0x0000000000000003 (   3), 0x8000000080000000 (-9223372034707292160)
+                 1208: 0x8000000080000000 (-9223372034707292160), 0x0000000080000000 (2147483648)
+                 1210: 0xFFFFFF9EFFFFFF9B (-416611827813), 0x000000000000000B (  11)
+                 1212: 0x000007FF000007FF (8791798056959), 0x000003FF000003FF (4393751544831)
+                 1214: 0x000001FF000001FF (2194728288767), 0x000000FF000000FF (1095216660735)
+                 1216: 0x0000007F0000007F (545460846719), 0x0000003F0000003F (270582939711)
+                 1218: 0x0000001F0000003F (133143986239), 0x0000000F0000001F (64424509471)
+                 1220: 0x0000000700000007 (30064771079), 0x0000000300000003 (12884901891)
+                 1222: 0x0000000000000001 (   1), 0x000000AE000000AD (747324309677)
+                 1224: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1226: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1228: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1230: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1232: 0x0000FFFE00003FF8 (281466386792440), 0x0003FFFF0001FFFF (1125895612006399)
+                 1234: 0x000FFFFF0007FFFF (4503595332927487), 0x001FFFFF001FFFFF (9007194961870847)
+                 1236: 0x003FFFFF003FFFFF (18014394218708991), 0x003FFFFF003FFFFF (18014394218708991)
+                 1238: 0x003FFFFF003FFFFF (18014394218708991), 0x003FFFFF003FFFFF (18014394218708991)
+                 1240: 0x003FFFFF003FFFFF (18014394218708991), 0x00000002FFFFFFED (12884901869)
+                 1242: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1244: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1246: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1248: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1250: 0x0000000000000000 (   0), 0x0000001F00000000 (133143986176)
+                 1252: 0x000000FF0000007F (1095216660607), 0x000003FF000001FF (4393751544319)
+                 1254: 0x00000FFF000007FF (17587891079167), 0x00001FFF00000FFF (35180077125631)
+                 1256: 0x00001FFF00001FFF (35180077129727), 0x00001FFF00001FFF (35180077129727)
+                 1258: 0x00001FFF00001FFF (35180077129727), 0x0000000200000001 (8589934593)
+                 1260: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1262: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1264: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1266: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1268: 0x0000000300000000 (12884901888), 0x0000000F00000007 (64424509447)
+                 1270: 0x0000007F0000001F (545460846623), 0x000001FF000000FF (2194728288511)
+                 1272: 0x000007FF000003FF (8791798055935), 0x00000FFF00000FFF (17587891081215)
+                 1274: 0x00001FFF00000FFF (35180077125631), 0x00001FFF00001FFF (35180077129727)
+                 1276: 0x00001FFF00001FFF (35180077129727), 0x0000001300000010 (81604378640)
+                 1278: 0x0000000000000010 (  16), 0x00FFFFFF01FFFFFF (72057589776515071)
+                 1280: 0x007FFFFF00FFFFFF (36028792740773887), 0x003FFFFF003FFFFF (18014394218708991)
+                 1282: 0x001FFFFF001FFFFF (9007194961870847), 0x000FFFFF000FFFFF (4503595333451775)
+                 1284: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                 1286: 0x0003FFFF0003FFFF (1125895612137471), 0x0001FFFF0003FFFF (562945658716159)
+                 1288: 0x0000FFFF0001FFFF (281470681874431), 0x00007FFF0000FFFF (140733193453567)
+                 1290: 0x00003FFF00007FFF (70364449243135), 0x00003FFF00003FFF (70364449226751)
+                 1292: 0x00001FFF00001FFF (35180077129727), 0x000007FF00000FFF (8791798059007)
+                 1294: 0x000001FF000003FF (2194728289279), 0xFFFFFFFEFFFFFFFE (-4294967298)
+                 1296: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1298: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1300: 0x0000007F00000000 (545460846592), 0x000003FF000001FF (4393751544319)
+                 1302: 0x00000FFF000007FF (17587891079167), 0x00003FFF00001FFF (70364449218559)
+                 1304: 0x00007FFF00003FFF (140733193404415), 0x00007FFF00007FFF (140733193420799)
+                 1306: 0x00007FFF00007FFF (140733193420799), 0x00007FFF00007FFF (140733193420799)
+                 1308: 0x00007FFF00007FFF (140733193420799), 0x00007FFF00007FFF (140733193420799)
+                 1310: 0x00007FFF00007FFF (140733193420799), 0x00007FFF00007FFF (140733193420799)
+                 1312: 0x00003FFF00003FFF (70364449226751), 0x0000000AFFFFFFF8 (47244640248)
+                 1314: 0x0000000000000010 (  16), 0xFFFFFFE0FFFFFFE0 (-133143986208)
+                 1316: 0xFFFFFFC0FFFFFFC0 (-270582939712), 0xFFFFFF00FFFFFF80 (-1095216660608)
+                 1318: 0xFFFFFC00FFFFFE00 (-4393751544320), 0xFFFFF000FFFFF800 (-17587891079168)
+                 1320: 0xFFFF8000FFFFE000 (-140733193396224), 0xFFC00000FFE00000 (-18014394216611840)
+                 1322: 0xFF000000FF800000 (-72057589751349248), 0xFE000000FE000000 (-144115183814443008)
+                 1324: 0xFF800000FF000000 (-36028792740773888), 0xFFC00000FFC00000 (-18014394218708992)
+                 1326: 0xFFE00000FFE00000 (-9007194961870848), 0xFFF00000FFF00000 (-4503595333451776)
+                 1328: 0xFFF00000FFF00000 (-4503595333451776), 0xFFF00000FFF00000 (-4503595333451776)
+                 1330: 0xFFF00000FFF00000 (-4503595333451776), 0x000000B0000000B0 (755914244272)
+                 1332: 0x0000000000000001 (   1), 0x0000000700000007 (30064771079)
+                 1334: 0x000000AF000000B0 (751619276976), 0x0000000000000007 (   7)
+                 1336: 0xFFFFFFFFFFFFFFFF (  -1), 0x07FFFFFF07FFFFFF (576460748142673919)
+                 1338: 0x03FFFFFF03FFFFFF (288230371923853311), 0x00FFFFFE01FFFFFF (72057585481547775)
+                 1340: 0x007FFFF800FFFFFC (36028762676002812), 0x000FFFE0003FFFF0 (4503462192611312)
+                 1342: 0x000000000003FF80 (262016), 0xFFFFFFFDFFFFFFFE (-8589934594)
+                 1344: 0x0000000000000010 (  16), 0x0000FFFF000007FF (281470681745407)
+                 1346: 0x001FFFFF0007FFFF (9007194960297983), 0x007FFFFF003FFFFF (36028792728190975)
+                 1348: 0xF8FFFFFF00FFFFFF (-504403162543685633), 0xFFFFFFFFFEFFFFFF (-16777217)
+                 1350: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1352: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1354: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1356: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1358: 0xFFFFFFFFFFFFFFFF (  -1), 0xFFFFFFFFFFFFFFFF (  -1)
+                 1360: 0xFFFFFFFFFFFFFFFF (  -1), 0x0000000CFFFFFFF7 (55834574839)
+                 1362: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1364: 0x0000000F00000000 (64424509440), 0x000000FF0000003F (1095216660543)
+                 1366: 0x000007FF000001FF (8791798055423), 0x00003FFF00001FFF (70364449218559)
+                 1368: 0x0000FFFF00007FFF (281470681776127), 0x0003FFFF0001FFFF (1125895612006399)
+                 1370: 0x0007FFFF0003FFFF (2251795518980095), 0x0007FFFF0007FFFF (2251795519242239)
+                 1372: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                 1374: 0x0007FFFF0007FFFF (2251795519242239), 0x0007FFFF0007FFFF (2251795519242239)
+                 1376: 0x0007FFFF0007FFFF (2251795519242239), 0x0003FFFF0003FFFF (1125895612137471)
+                 1378: 0x0000FFFF0001FFFF (281470681874431), 0x000000120000000F (77309411343)
+                 1380: 0x0000000000000010 (  16), 0x0000000000000000 (   0)
+                 1382: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1384: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1386: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1388: 0x0000000000000000 (   0), 0x0000000000000000 (   0)
+                 1390: 0x0000000000000000 (   0), 0xC000000080000000 (-4611686016279904256)
+                 1392: 0xE0000000C0000000 (-2305843005992468480), 0xF0000000E0000000 (-1152921500848750592)
+                 1394: 0xF8000000F0000000 (-576460748276891648), 0xFC000000F8000000 (-288230371990962176)
+                 1396: 0xFC000000FC000000 (-288230371923853312), 0x0000001300000011 (81604378641)
+                 1398: 0x0000000000000001 (   1), 0x0000003F000000FF (270582939903)
+                 1400: 0x00000005FFFFFFF3 (25769803763), 0x0000000000000003 (   3)
+                 1402: 0xFFFF8000FFFFC000 (-140733193404416), 0xFFF80000FFFE0000 (-2251795518849024)
+                 1404: 0x00000000FFE00000 (4292870144)
+            ]
+        }
+        [TAG_String] "username": "murphy_slaw_mc"
+    }
+    [TAG_Compound (6 values)] "treechop:chopSettings"
+    {
+        [TAG_Byte] "chopInCreativeMode": 0
+        [TAG_Byte] "choppingEnabled": 1
+        [TAG_Byte] "fellingEnabled": 1
+        [TAG_Byte] "isSynced": 1
+        [TAG_String] "sneakBehavior": "INVERT_CHOPPING"
+        [TAG_Byte] "treesMustHaveLeaves": 1
+    }
+    [TAG_Compound (3 values)] "warden_spawn_tracker"
+    {
+        [TAG_Int] "cooldown_ticks": 0
+        [TAG_Int] "ticks_since_last_warning": 7957
+        [TAG_Int] "warning_level": 0
+    }
+}

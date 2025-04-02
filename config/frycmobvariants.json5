@@ -30,17 +30,17 @@
 	// For example, when set to 12, Zombified Piglin will have 12% chance to convert to Zombified Piglin Brute after spawning
 	"zombifiedPiglinConvertChance": 4,
 	// For example, when set to 90, Zombie will have 90% chance to convert to Explorer after spawning in jungle or lush cave
-	"zombieToExplorerConvertChance": 75,
+	"zombieToExplorerConvertChance": 100,
 	// For example, when set to 90, Zombie will have 90% chance to convert to Frozen Zombie after spawning in snowy biome
-	"zombieToFrozenZombieConvertChance": 80,
+	"zombieToFrozenZombieConvertChance": 100,
 	// For example, when set to 90, Zombie will have 90% chance to convert to Bloated Corpse after spawning in swamp
-	"zombieToBloatedCorpseConvertChance": 75,
+	"zombieToBloatedCorpseConvertChance": 100,
 	// For example, when set to 70, Spider will have 70% chance to convert to Tropical Spider after spawning in jungle
-	"spiderToTropicalSpiderConvertChance": 75,
+	"spiderToTropicalSpiderConvertChance": 100,
 	// For example, when set to 100, Slime will have 100% chance to convert to Toxic Slime after spawning in swamp biomes
-	"slimeToToxicSlimeConvertChance": 70,
+	"slimeToToxicSlimeConvertChance": 100,
 	// For skeletons spawned in ocean or beach. Doesn't affect Corsairs spawning on Shipwrecks
-	"skeletonToCorsairConvertChance": 60,
+	"skeletonToCorsairConvertChance": 100,
 	"undeadWarriorAttributes": {
 		// Skeletons with enchanted bow always convert to undead warrior with bow
 		"undeadWarriorSpawnWithBowChance": 50,

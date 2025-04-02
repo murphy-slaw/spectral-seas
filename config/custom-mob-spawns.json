@@ -62,8 +62,35 @@
   "ambientPersistent": false,
   "waterPersistent": false,
   "mobSpawnAdditions": [],
-  "mobSpawnRemovals": [],
-  "mobSpawnReplacements": [],
+  "mobSpawnRemovals": [
+    {
+      "biomeId": "",
+      "biomeTag": "c:is_dry/overworld",
+      "mobId": "minecraft:zombie"
+    }
+  ],
+  "mobSpawnReplacements": [
+    {
+      "biomeId": "c:is_dry/overworld",
+      "biomeTag": "",
+      "originalMobId": "minecraft:skeleton",
+      "replacementMobId": "minecraft:skeleton",
+      "replacementSpawnGroup": "MONSTER",
+      "replacementWeight": 50,
+      "replacementMinCount": 4,
+      "replacementMaxCount": 4
+    },
+    {
+      "biomeId": "",
+      "biomeTag": "minecraft:is_beach",
+      "originalMobId": "minecraft:zombie",
+      "replacementMobId": "rottencreatures:zombie_lackey",
+      "replacementSpawnGroup": "MONSTER",
+      "replacementWeight": 95,
+      "replacementMinCount": 2,
+      "replacementMaxCount": 3
+    }
+  ],
   "overrideSpawnerDefaultValues": false,
   "minSpawnDelay": 200,
   "maxSpawnDelay": 800,

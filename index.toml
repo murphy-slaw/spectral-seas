@@ -49,6 +49,10 @@ file = "config/action_hunger.json"
 hash = "11c24eadab22d418fafe4c7d50225ab516e7babdbb9f4b23624d727cfee0b9de"
 
 [[files]]
+file = "config/airhop-server.toml"
+hash = "1f593f5a0e5977fe38b5a47563f7494eceda8cf762a8199bb1266299875715bd"
+
+[[files]]
 file = "config/animation_overhaul/animations.json5"
 hash = "00f4a867204a3424faf35ecd8291bcf76dd212c330525fe5ecffb5f39aeea347"
 
@@ -82,7 +86,7 @@ hash = "5d44b8fe9bc6ed6b16544711ad16c7a999f2de5baa8e71cd5e8d2213013d8609"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "d2295ee43151659e0a1b8e67e1b13741cdc79d76b6c38d84c589edf90e10c84b"
+hash = "9b90e436fb19b7969eeb9d58e470f74b4542046103de37eb3830275fe7e45b68"
 
 [[files]]
 file = "config/autohud.json5"
@@ -222,7 +226,7 @@ hash = "92012e3fe0fc777f710a65d72716f46d758a5e98054804358296a863eb1f87b1"
 
 [[files]]
 file = "config/custom-mob-spawns.json"
-hash = "9880e90521ed37224b5c828c8d7da40840d59848f8ea59635ab87489eed7f68e"
+hash = "0bd0e0fcabc359b9633573ae0203fa89632564037bf7393db46eee4c8553ab1e"
 
 [[files]]
 file = "config/deathlog.json5"
@@ -570,7 +574,7 @@ hash = "16962424e5ff41b763bb8031dbf7ffe83203afec12c8d5304e9e130d145ca265"
 
 [[files]]
 file = "config/frycmobvariants.json5"
-hash = "bb69f445004c183c8ab751d4f5ccd51eb71027af36a48a9c50ed9e85f2e466bf"
+hash = "774be59e6df884a68ec838e2f740da493452869ab3f2c7a9e82a63380dd4559d"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -4448,6 +4452,10 @@ file = "config/ribbits-options.json"
 hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
 
 [[files]]
+file = "config/rottencreatures-common.toml"
+hash = "762891d837387a70f8a17b71d2bb010a86627ac75864838c4d52b4ea1aad2d37"
+
+[[files]]
 file = "config/rrp.properties"
 hash = "a2e6c09a08020b72f3d36942bdd8a6982cbdccd1b2610b62eb0fa191dc4be700"
 
@@ -4605,7 +4613,7 @@ hash = "b0063f4bd33d8c3383b5f0104fef6491882c78de9e7573c994479b64a17d0dc4"
 
 [[files]]
 file = "config/treechop-common.toml"
-hash = "cebaa860b2625d69716a5c0205720b888c09117b2e6c6db2da0ff5c9cb86b884"
+hash = "a3286fc5116b40054b655e1c0c0afaa7b196995014c7e24cf5c2f181234d6ca1"
 
 [[files]]
 file = "config/tridents_n_stuff/items_config.toml"

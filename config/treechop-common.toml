@@ -125,5 +125,5 @@
 			leaves = []
 			logs = []
 		[compatibility.trees.problematicLeavesTrees]
-			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "alexscaves:.*_branch", "alexscaves:pewen_pines","galosphere:lichen_moss", "#c:mushroom_caps"]
-			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "alexscaves:.*_log", "alexscaves:pewen_wood","#c:mushroom_stems"]
+			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "alexscaves:.*_branch", "alexscaves:pewen_pines", "galosphere:lichen_moss", "#c:mushroom_caps"]
+			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "alexscaves:.*_log", "alexscaves:pewen_wood", "#c:mushroom_stems"]

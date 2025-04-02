@@ -1,12 +1,12 @@
 name = "Spectral Seas"
 author = "Kevin Murphy"
-version = "0.1.19-alpha"
+version = "0.1.20-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b444e706ac754d1e354c85aa0256ab6b4698e8fcdb21bcc156096ea4005ddfd9"
+hash = "1dd4aec706df331b9175e13b13c6b861f1bf002d1b8493b39dfbf5d4156604f1"
 
 [versions]
 fabric = "0.16.10"

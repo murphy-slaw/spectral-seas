@@ -1,5 +1,5 @@
 Viking funeral advancement
-make the material for towers vary by biome
+√ make the material for towers vary by biome
 assign Simple Hats as rewards for every advancement
 add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
 add a shitpost advancement for drowning
@@ -9,9 +9,9 @@ Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes wit
 Increase spawn rates for ruined portals
 Add structure spawns for ruined portals
 Cull structures (Underground City from Philip's Ruins has to go.)
-Make a decision on hookshot vs. grappling hook
+√ Make a decision on hookshot vs. grappling hook
 Curate enchantments and determine enchantment placement by structure/biome
 Pirate ships
 Enchanting system tweaks
-Auto-remove grave markers when claimed.
+√ Auto-remove grave markers when claimed.
 More armor set bonuses.
