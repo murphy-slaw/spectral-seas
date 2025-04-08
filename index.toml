@@ -2078,6 +2078,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_featu
 hash = "a86d183c152f996ff0f2c400b89246d211e9d7ed6d74262b75674c2a4958b3d5"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "26a9229c19ff45b8ac5e7f13ce0d5fce7857b111b295a4b28572aa8bff2ec17a"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/worldgen/placed_feature/ore_magma.json"
 hash = "e6f7d88d52047a87ea9b1e38bdee439f13ad451b26314248c9aedab9ac0df7b5"
 
@@ -3786,6 +3790,10 @@ file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure
 hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
+hash = "102be9a9ed8af7e98c280fa6d27a22fcd34ecf3cd775c25abd25be17878b852e"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
 hash = "c13062c8600222a84d42a6733b9610a0525b3572ee52c7462bbcb3d28d801ef7"
 
@@ -4408,6 +4416,10 @@ file = "config/pettable.json"
 hash = "17b28d004f9b3d3fd9dbffb2a22e2eaef072c0dbdffa1f89ecbb59082180fb0a"
 
 [[files]]
+file = "config/potioncraft/potioncraft.properties"
+hash = "967ffe65c97e40be8c2c96a3ec36f2ffddf207260d0da66f788320c44ad7745d"
+
+[[files]]
 file = "config/preferred-gamerules.properties"
 hash = "b045692db306586ff4042d1bcb20bd6d51306278bd58c3e269e2d90ca45da93e"
 
@@ -4720,6 +4732,10 @@ file = "kubejs/client_scripts/pull_globals.js"
 hash = "7421e2d279677d4fa528efe565e9d8b4935256105fd21f823dc2b2e4daf3c5fc"
 
 [[files]]
+file = "kubejs/client_scripts/removed_tooltips.js"
+hash = "45a8dafc4be497d063d6483004edad2eb26f947dfb72cc26a37bde5f89ea2c2a"
+
+[[files]]
 file = "kubejs/client_scripts/starter_kit.js"
 hash = "18303c504476abf8271cbe765160bd03245f7391ca245511849f1d2764b85018"
 
@@ -4785,7 +4801,7 @@ hash = "7421e2d279677d4fa528efe565e9d8b4935256105fd21f823dc2b2e4daf3c5fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "59aecfdb0f3a0b7bf43dbd27f20118585a76728dced10a5c4042e58476696e49"
+hash = "0d451e8f32833dbd7d61997ade2d54a5cdac311fb23df2410fc2522e143804f2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -4842,6 +4858,14 @@ hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
 hash = "6e222527d1fb646b9759424ba857467188190cca654178a0cef3f3a92cf718b6"
+
+[[files]]
+file = "kubejs/startup_scripts/effects/brews.js"
+hash = "a232cf259348ccfbeda9e6dceff4abb3681db30801bc9e19edead81f4da49541"
+
+[[files]]
+file = "kubejs/startup_scripts/fluids/witch_brew.js"
+hash = "91399f22e141ddb98d529f31ba212c1e72f62a379039ba999474966cccdb9daa"
 
 [[files]]
 file = "kubejs/startup_scripts/item_counts.js"
@@ -5685,6 +5709,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/potioncraft.pw.toml"
+hash = "7f6bcb68afcff1fbd4726bfe6114a9026c33e382c6d29d7fa6ef5af971a41e9c"
 metafile = true
 
 [[files]]
@@ -14129,6 +14158,14 @@ hash = "4bf868de028f653725953e71b891db988e64fb75ea51d2a4c77f1b3052cc989e"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/lang/en_us.json"
 hash = "3932ccb19cfa62014a1d5154d550e8c6257fa5a028f28a6d28d5ed55acb788d9"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/block/witch_brew_still.png"
+hash = "0027ac1b2e63ff090e2b9f5c7d61a4beaf593a79a13cb62786854b8eb7b85074"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/block/witch_brew_still.png.mcmeta"
+hash = "6a19bef21d66aac8fdcd8032751057733e321446b304d38f5ee8ba35efe99a1d"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/gui/entries/tower_aged.png"
