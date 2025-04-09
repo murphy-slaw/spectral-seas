@@ -3791,7 +3791,7 @@ hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
-hash = "102be9a9ed8af7e98c280fa6d27a22fcd34ecf3cd775c25abd25be17878b852e"
+hash = "32ef41c936db5be62a6fbd056d6523a0f5fbd56a3b0cd379224ce48c20f6ae16"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
@@ -4861,7 +4861,7 @@ hash = "6e222527d1fb646b9759424ba857467188190cca654178a0cef3f3a92cf718b6"
 
 [[files]]
 file = "kubejs/startup_scripts/effects/brews.js"
-hash = "a232cf259348ccfbeda9e6dceff4abb3681db30801bc9e19edead81f4da49541"
+hash = "6e3814918b50de7acf0fd3ed44968b6b98abc48b7eb336e76c3fcf7e41640c6c"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids/witch_brew.js"
