@@ -3791,7 +3791,7 @@ hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
-hash = "32ef41c936db5be62a6fbd056d6523a0f5fbd56a3b0cd379224ce48c20f6ae16"
+hash = "3c99b041d40bb1109c25e00ab585bb197e9226040c073a1990f87372cc42a222"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
@@ -5713,7 +5713,7 @@ metafile = true
 
 [[files]]
 file = "mods/potioncraft.pw.toml"
-hash = "7f6bcb68afcff1fbd4726bfe6114a9026c33e382c6d29d7fa6ef5af971a41e9c"
+hash = "b8c1435186a167cfd3669e914dbfc8eab30f4e9bd6925c06525463b7d186bd87"
 metafile = true
 
 [[files]]

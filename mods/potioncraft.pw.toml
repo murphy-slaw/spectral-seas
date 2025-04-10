@@ -1,13 +1,13 @@
 name = "Potioncraft"
-filename = "potioncraft-0.5.1+1.20.1.jar"
+filename = "potioncraft-0.5.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LZdJL31s/versions/JsdOhK6k/potioncraft-0.5.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/LZdJL31s/versions/CNEbIf1t/potioncraft-0.5.2%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "ae81698c7d301e6768db452620f47b3cbeabd5ab8b5347c640c141dce60d8dad7c5a2608611d5c31d535aea859de9f2580294e87974ba0a63d2294b4fdfbb3e0"
+hash = "1f8ddcbdca6ce2c228a7acc86b6a908311f7ec76de12ae2e0782001009a11a00d15d9f91c992e08737337c17d107d1189c4a7e441a5f811b2f15fdb71c8ccf13"
 
 [update]
 [update.modrinth]
 mod-id = "LZdJL31s"
-version = "JsdOhK6k"
+version = "CNEbIf1t"
