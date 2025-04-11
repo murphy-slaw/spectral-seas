@@ -35,4 +35,14 @@ StartupEvents.registry('fluid', event => {
         .thinTexture(0x19fa0d8)
         .displayName('Moss Mushroom Brew')
         .rarity('uncommon')
+    event
+        .create('spectral_seas:potato_soup')
+        .thinTexture(0xffffff)
+        .displayName('Potato Soup')
+        .rarity('uncommon')
+    event
+        .create('spectral_seas:suspicious_chowder')
+        .thickTexture(0xffffff)
+        .displayName('Suspicious Chowder')
+        .rarity('uncommon')
 })
