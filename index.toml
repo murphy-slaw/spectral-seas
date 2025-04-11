@@ -3791,7 +3791,7 @@ hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
-hash = "3c99b041d40bb1109c25e00ab585bb197e9226040c073a1990f87372cc42a222"
+hash = "031daeecbe7f12d6e0b92a4985fa7e78e3579bdf60b6f4f001faec4ff64eb8ff"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
