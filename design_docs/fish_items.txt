@@ -1,11 +1,6 @@
-Registry name
 minecraft:cod
 minecraft:pufferfish
 minecraft:salmon
-minecraft:tropical_fish
-spectrum:crawfish
-spectrum:koi
-
 hybrid-aquatic:anglerfish
 hybrid-aquatic:barreleye
 hybrid-aquatic:betta
@@ -42,8 +37,6 @@ hybrid-aquatic:powder_blue_tang
 hybrid-aquatic:ratfish
 hybrid-aquatic:raw_crab
 hybrid-aquatic:raw_crayfish
-hybrid-aquatic:raw_fish_meat
-hybrid-aquatic:raw_fish_steak
 hybrid-aquatic:raw_lobster
 hybrid-aquatic:raw_lobster_tail
 hybrid-aquatic:raw_shrimp
