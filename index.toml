@@ -4876,10 +4876,6 @@ file = "kubejs/startup_scripts/fluids/chowder.js"
 hash = "c125a8dad51d2b527ea218c28c4f9891cd72c8f38178c5fd41a74ccc193971db"
 
 [[files]]
-file = "kubejs/startup_scripts/fluids/witch_brew.js"
-hash = "1b9b95c5c9ecfe138b2480d9fba06a3900d918336024faf98f355db35d8e3ba6"
-
-[[files]]
 file = "kubejs/startup_scripts/item_counts.js"
 hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
