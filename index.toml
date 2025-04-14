@@ -3791,7 +3791,7 @@ hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
-hash = "031daeecbe7f12d6e0b92a4985fa7e78e3579bdf60b6f4f001faec4ff64eb8ff"
+hash = "62f0b0ced9ca020965a3b7b4e1148c5396fce0d688a50d1d8d3aaaecb4f240b6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
@@ -4781,11 +4781,11 @@ hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
 file = "kubejs/server_scripts/clear_grave.js"
-hash = "40742cb3e121805373c92738e796e32f7195f4d2f180584a56f7528244b6b1f1"
+hash = "c019fe89d10908a2f8d911871c9b4b7991f70d67806ad9f084a967e9c35a1ac2"
 
 [[files]]
 file = "kubejs/server_scripts/food/suspicious_chowder.js"
-hash = "8dda315e2917559962139c362026dc80d1c1e2d62d023c80cabbde82e6133e4b"
+hash = "208c90f237651f4d3d9717f727120e1bf3eecdabd292faaaea48926db25d9c14"
 
 [[files]]
 file = "kubejs/server_scripts/grave_dirt_loot.js"
@@ -4793,7 +4793,7 @@ hash = "58ae109fdee11cdf61500891e9c320e8b184ef023696316e919981a21167b55f"
 
 [[files]]
 file = "kubejs/server_scripts/map_to_atlas.js"
-hash = "b91792efe80463dd70cab4da90314aac8435bcba10a110e7de9573fa4dc55ade"
+hash = "73ee93c2a454f35beced34689fc0eb02802732f663945db477c202cf0fe9ccd2"
 
 [[files]]
 file = "kubejs/server_scripts/pity_chest.js"
@@ -4809,11 +4809,11 @@ hash = "0d451e8f32833dbd7d61997ade2d54a5cdac311fb23df2410fc2522e143804f2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "2fa95b6137623c0635bb485084885858d15913062a8b76efe6603ab3bbba301b"
+hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
 file = "kubejs/server_scripts/ship_sleep.js"
-hash = "ee28a59d4707432e8686566d56a70ac68b6332febf8578ee8a9f5d234d5212e8"
+hash = "d1f7778efe64e3d639cb429d7da21f962a0a2fe763ad9b6c032e8769de1b0438"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
@@ -4825,7 +4825,7 @@ hash = "90fdb6b418f0e9c04625014e5b78f77523cb5674ee58037b31967150cb59975f"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_distance.js"
-hash = "b70f1599b8bcf5c39f865294d307a073fdd5a0fb0c113e3abcc9043715543e1f"
+hash = "87523825c058d281fd2e0195402a11d9cd42edf5f65d484f447c941678eb933a"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
@@ -4861,11 +4861,19 @@ hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
-hash = "6e222527d1fb646b9759424ba857467188190cca654178a0cef3f3a92cf718b6"
+hash = "e1ce4278c53c52f58b8bbf331a8d6bd424550e75496637dc7656d1ff958ef951"
 
 [[files]]
 file = "kubejs/startup_scripts/effects/brews.js"
 hash = "6e3814918b50de7acf0fd3ed44968b6b98abc48b7eb336e76c3fcf7e41640c6c"
+
+[[files]]
+file = "kubejs/startup_scripts/effects/size.js"
+hash = "0c295aeccbf6bfea46183bc9a5f9eb66e673a76d681e69226ec82a1ba76ea183"
+
+[[files]]
+file = "kubejs/startup_scripts/fluids/chowder.js"
+hash = "c125a8dad51d2b527ea218c28c4f9891cd72c8f38178c5fd41a74ccc193971db"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids/witch_brew.js"
@@ -4877,7 +4885,7 @@ hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
 [[files]]
 file = "kubejs/startup_scripts/items/bowl_food.js"
-hash = "8389c6bf8bbf3619e9718ffa0535594d0e8ed5a1af513c057a968775afbc9ccc"
+hash = "defebdffaa1cfbf568c28703292f3e9acfd7852711ee38c017add4820820d584"
 
 [[files]]
 file = "kubejs/startup_scripts/items/fishermans_resin.js"
