@@ -5719,6 +5719,11 @@ hash = "97eb6726bc960a98d98b7524193a0a868fff94215e5c634e05178d975f7d0893"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "c49371cc67698d08500a5cb03e0341fad2747bba455115efc2ddf25ac223c134"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -5806,6 +5811,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "a812307bc32bf4fa246f43e3d7dfd758c6ad75fc54448660303664582e4d272e"
+metafile = true
+
+[[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "86dd30664de6dd1d53e9ecec18ea7c3feb0b8b1e4862616af6fa5207a528c694"
 metafile = true
 
 [[files]]
