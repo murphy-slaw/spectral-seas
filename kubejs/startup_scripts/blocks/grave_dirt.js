@@ -18,8 +18,8 @@ StartupEvents.registry('block', event => {
 global.reloadableParticle = entityEvent => {
     let pos = entityEvent.blockPos.above()
     if (
-        entityEvent.tick % 4 == 0 &&
-        entityEvent.level.getBlock(pos) == 'minecraft:air'
+        entityEvent.tick % 4 === 0 &&
+        entityEvent.level.getBlock(pos) === 'minecraft:air'
     ) {
         entityEvent.level.runCommandSilent(
             `particle soul ${pos.x} ${pos.y + 0.2} ${

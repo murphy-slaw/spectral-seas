@@ -22,9 +22,7 @@ StartupEvents.registry('mob_effect', event => {
  * @param {Internal.LivingEntity} entity
  */
 global.shrink = function (entity) {
-    global.modifySize(entity, 'spectral_seas:shrinking', function (s) {
-        return 1 / (s + 2)
-    })
+    global.modifySize(entity, 'spectral_seas:shrinking', s => 1 / (s + 2))
 }
 /**
  * Grows an entity based on the amplifier of the 'spectral_seas:growth' effect instance on the entity

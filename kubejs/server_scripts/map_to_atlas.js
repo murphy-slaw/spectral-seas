@@ -1,23 +1,23 @@
 PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
-    let map = event.item.getNbt();
-    let mapNumber = map.get('map');
-    let seenMaps = event.player.persistentData.getCompound('seenMaps');
-    let display = map.display;
-    let name = JSON.parse(display.Name);
-    name.text += ' Destination';
+    let mapNbt = event.item.getNbt()
+    let seenMaps = event.player.persistentData.getCompound('seenMaps')
+    let name = JSON.parse(mapNbt.display.Name)
+    name.text += ' Destination'
 
-    if (!(seenMaps && seenMaps.get(mapNumber))) {
-        map['Decorations'].forEach(decoration => {
-            let pos = Vec3i(decoration.x, 64, decoration.z);
+    if (!(seenMaps && seenMaps.get(mapNbt.map))) {
+        mapNbt.Decorations.forEach(decoration => {
             event.player.sendData('AddMarker', {
                 texture: 'antique_atlas:custom/red_x_small',
-                pos: { x: pos.x, y: pos.y, z: pos.z },
+                pos: { x: decoration.x, y: 64, z: decoration.z },
                 color: name.color,
                 label: name.text,
-            });
-            event.player.sendData('OpenMap', { x: pos.x, z: pos.z });
-        });
-        seenMaps.putBoolean(mapNumber, true);
-        event.player.persistentData.put('seenMaps', seenMaps);
+            })
+            event.player.sendData('OpenMap', {
+                x: decoration.x,
+                z: decoration.z,
+            })
+        })
+        seenMaps.putBoolean(mapNbt.map, true)
+        event.player.persistentData.put('seenMaps', seenMaps)
     }
-});
+})

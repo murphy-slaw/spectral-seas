@@ -1,11 +1,10 @@
 PlayerEvents.tick(event => {
     // Once per second
     if (event.player.age % 20 === 0) {
-        let spawn = event.level.sharedSpawnPos
         let scoreboard = event.server.scoreboard
         let distanceObjective = scoreboard.getObjective('spawnDistance')
         if (!distanceObjective) {
-            distanceObjective = event.server.scoreboard.addObjective(
+            distanceObjective = scoreboard.addObjective(
                 'spawnDistance',
                 ObjectiveCriteria$DUMMY,
                 'spawnDistance',
@@ -14,13 +13,14 @@ PlayerEvents.tick(event => {
             // Display in the tab list
             scoreboard.setDisplayObjective(0, distanceObjective)
         }
-        let score = scoreboard.getOrCreatePlayerScore(
+
+        scoreboard.getOrCreatePlayerScore(
             event.player.username,
             distanceObjective
-        )
-
-        score.score = Math.sqrt(
-            spawn.distSqr(Vec3i(event.player.x, event.player.y, event.player.z))
+        ).score = Math.sqrt(
+            event.level.sharedSpawnPos.distSqr(
+                Vec3i(event.player.x, event.player.y, event.player.z)
+            )
         )
     }
 })
