@@ -1,0 +1,13 @@
+name = "Better Chainmail"
+filename = "Better Chainmail.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9ac073068e278ea83809797e5a091800779acde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3556487
+project-id = 554802

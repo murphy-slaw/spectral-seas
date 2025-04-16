@@ -1,0 +1,13 @@
+name = "MTW's Pirates CIT Pack"
+filename = "MTW's Pirates CIT Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4dfb9dfa374b64aef7087d9bc15d164a6ef3dd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6413184
+project-id = 1240863

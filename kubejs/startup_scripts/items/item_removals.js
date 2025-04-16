@@ -110,9 +110,40 @@ const SLAIN_ITEMS = [
     'simplyswords:runic_warglaive',
     'simplyswords:runic_scythe',
     'simplyswords:runic_halberd',
+    'sticknstone:wooden_twinblade',
+    'sticknstone:wooden_katana',
+    'sticknstone:wooden_sai',
+    'sticknstone:wooden_spear',
+    'sticknstone:wooden_glaive',
+    'sticknstone:wooden_claymore',
+    'sticknstone:wooden_chakram',
+    'sticknstone:wooden_greataxe',
+    'sticknstone:wooden_greathammer',
+    'sticknstone:wooden_warglaive',
+    'sticknstone:wooden_scythe',
+    'sticknstone:wooden_halberd',
+    'sticknstone:stone_twinblade',
+    'sticknstone:stone_katana',
+    'sticknstone:stone_sai',
+    'sticknstone:stone_spear',
+    'sticknstone:stone_glaive',
+    'sticknstone:stone_claymore',
+    'sticknstone:stone_chakram',
+    'sticknstone:stone_greataxe',
+    'sticknstone:stone_greathammer',
+    'sticknstone:stone_warglaive',
+    'sticknstone:stone_scythe',
+    'sticknstone:stone_halberd',
+    'yigd:death_scroll',
+    'yigd:grave_key',
 ]
 
 StartupEvents.modifyCreativeTab('simplyswords:simplyswords', event => {
+    SLAIN_ITEMS.forEach(item => {
+        event.removeDisplay(item)
+    })
+})
+StartupEvents.modifyCreativeTab('sticknstone:wooden_chakram', event => {
     SLAIN_ITEMS.forEach(item => {
         event.removeDisplay(item)
     })

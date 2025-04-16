@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld_grimdark",
-    "textures": {
-        "layer0": "item/iron_hoe_1"
-    }
-}
