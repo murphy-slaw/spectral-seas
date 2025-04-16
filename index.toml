@@ -1690,6 +1690,10 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/crossb
 hash = "618886f444faaf239c14320671296598ee4500d0986ec1f4ea3d83620b40420c"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/cutlass.json"
+hash = "891f561250589e333b97f84623c85579fecba50048b48de07d1c08b1d62693b2"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/fishing_rod.json"
 hash = "642e1b2b1cb06706381d4bab5c60d59f03c17ddbf4dd7f5dd8563baefd603f1b"
 
@@ -1710,8 +1714,16 @@ file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/leggin
 hash = "bafc60c1565950ad5e555b48fe097372123728224340eed8df303824e89db892"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/longsword.json"
+hash = "c3fc7e2d457c2fd72c110e3dc18186edeaa51c5a8de09b59360ccdcfe9c2d202"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/pickaxe.json"
 hash = "d519a208b5bec5ab5bc88ce578ef3c4db8c590324228a03fc387443cf645a98b"
+
+[[files]]
+file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/rapier.json"
+hash = "5e3b631b3ecdff4bdcee5b92c557d4ebc92f7d4ffade970b7e1d52ec5f8ed965"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/shears.json"
@@ -1727,7 +1739,7 @@ hash = "9caebfb5010f160ac3904729943ea4e5ee9a9806c053337d833dae207cd1f4f8"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_types/sword.json"
-hash = "c439f392a0645dcdc003e68d1ace7c465971a948b9d7e1e39dc58c01b7b867bf"
+hash = "31e47777fa33b0408c813ac1e4a46a52a05d8db30aaaa6f6b9e669d57e5d7190"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/minecraft/smithing_unit_costs/brush.json"
@@ -4805,7 +4817,7 @@ hash = "7421e2d279677d4fa528efe565e9d8b4935256105fd21f823dc2b2e4daf3c5fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "0d451e8f32833dbd7d61997ade2d54a5cdac311fb23df2410fc2522e143804f2"
+hash = "fea92e2a1d2d5b0c37f01a68732aabefd30c21e817ab735373c67f4c0381724b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -4852,10 +4864,6 @@ file = "kubejs/server_scripts_disabled/tags.js"
 hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
 
 [[files]]
-file = "kubejs/server_scripts_disabled/thanks_i_hate_it.js"
-hash = "4a817b79bfe96d073a91466119ae0a44939f7193b3d48f4b44df9430b6b13c79"
-
-[[files]]
 file = "kubejs/startup_scripts/amphibious.js"
 hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
 
@@ -4889,7 +4897,7 @@ hash = "85847f15602577f50c0ff6a72f793e5d5a082885a875f31ca5e3fc0c07e6be32"
 
 [[files]]
 file = "kubejs/startup_scripts/items/item_removals.js"
-hash = "0cbd96a2fdde0db1b1c31aeb9be9f08221c23914439e69ba523973ac0569287a"
+hash = "2ed6068da1bf9672df868188c23c061e0664218f041072ef4cfd03fdc9261070"
 
 [[files]]
 file = "kubejs/startup_scripts/items/ship_upgrades.js"

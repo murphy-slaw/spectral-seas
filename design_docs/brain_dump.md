@@ -3,7 +3,7 @@ Viking funeral advancement
 assign Simple Hats as rewards for every advancement
 add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
 add a shitpost advancement for drowning
-replace all suspicious stew recipes with Suspicious Chowder that requires specific fish to craft
+√ replace all suspicious stew recipes with Suspicious Chowder that requires specific fish to craft
 figure out how to use Pehkui to make MEGALODONS
 Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
 Increase spawn rates for ruined portals

@@ -50,31 +50,69 @@ const SLAIN_ITEMS = [
     'simplyswords:empowered_remnant',
     'simplyswords:contained_remnant',
     'simplyswords:tampered_remnant',
-]
-let BANNED_SUFFIXES = [
-    'chakram',
-    'glaive',
-    'halberd',
-    'claymore',
-    'twinblade',
-    'scythe',
-    'katana',
-    'greataxe',
-    'greathammer',
-    'sai',
-    'spear',
+    'simplyswords:iron_twinblade',
+    'simplyswords:iron_katana',
+    'simplyswords:iron_sai',
+    'simplyswords:iron_spear',
+    'simplyswords:iron_glaive',
+    'simplyswords:iron_warglaive',
+    'simplyswords:iron_claymore',
+    'simplyswords:iron_greathammer',
+    'simplyswords:iron_greataxe',
+    'simplyswords:iron_chakram',
+    'simplyswords:iron_scythe',
+    'simplyswords:iron_halberd',
+    'simplyswords:gold_twinblade',
+    'simplyswords:gold_katana',
+    'simplyswords:gold_sai',
+    'simplyswords:gold_spear',
+    'simplyswords:gold_glaive',
+    'simplyswords:gold_warglaive',
+    'simplyswords:gold_claymore',
+    'simplyswords:gold_greathammer',
+    'simplyswords:gold_greataxe',
+    'simplyswords:gold_chakram',
+    'simplyswords:gold_scythe',
+    'simplyswords:gold_halberd',
+    'simplyswords:diamond_twinblade',
+    'simplyswords:diamond_katana',
+    'simplyswords:diamond_sai',
+    'simplyswords:diamond_spear',
+    'simplyswords:diamond_glaive',
+    'simplyswords:diamond_warglaive',
+    'simplyswords:diamond_claymore',
+    'simplyswords:diamond_greathammer',
+    'simplyswords:diamond_greataxe',
+    'simplyswords:diamond_chakram',
+    'simplyswords:diamond_scythe',
+    'simplyswords:diamond_halberd',
+    'simplyswords:netherite_twinblade',
+    'simplyswords:netherite_katana',
+    'simplyswords:netherite_sai',
+    'simplyswords:netherite_spear',
+    'simplyswords:netherite_glaive',
+    'simplyswords:netherite_warglaive',
+    'simplyswords:netherite_claymore',
+    'simplyswords:netherite_greathammer',
+    'simplyswords:netherite_greataxe',
+    'simplyswords:netherite_chakram',
+    'simplyswords:netherite_scythe',
+    'simplyswords:netherite_halberd',
+    'simplyswords:runic_twinblade',
+    'simplyswords:runic_katana',
+    'simplyswords:runic_sai',
+    'simplyswords:runic_spear',
+    'simplyswords:runic_glaive',
+    'simplyswords:runic_claymore',
+    'simplyswords:runic_chakram',
+    'simplyswords:runic_greataxe',
+    'simplyswords:runic_greathammer',
+    'simplyswords:runic_warglaive',
+    'simplyswords:runic_scythe',
+    'simplyswords:runic_halberd',
 ]
 
 StartupEvents.modifyCreativeTab('simplyswords:simplyswords', event => {
-    Item.list
-        .filter(item => item.idLocation.getNamespace() === 'simplyswords')
-        .filter(item =>
-            BANNED_SUFFIXES.map(suffix =>
-                item.idLocation.path.endsWith(suffix)
-            ).some(present => present)
-        )
-        .forEach(item => SLAIN_ITEMS.push(item.id.toString()))
-
     SLAIN_ITEMS.forEach(item => {
         event.removeDisplay(item)
     })
