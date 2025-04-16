@@ -5,11 +5,8 @@ const pillagerHats = [
     Item.of('simplehats:bicorne'),
     Item.of('simplehats:eyepatch'),
     Item.of('simplehats:ushanka'),
+    Item.of('simplehats:bowler'),
     //'simplehats:dorkglassesandteeth',
-    //'simplehats:bowler',
-    Item.of('minecraft:iron_helmet').withNBT({ style: 'pirate' }),
-    Item.of('minecraft:chainmail_helmet').withNBT({ style: 'pirate' }),
-    Item.of('minecraft:leather_helmet').withNBT({ style: 'pirate' }),
 ]
 
 const vindicatorWeapons = [
