@@ -1,0 +1,14 @@
+{
+  "hiddenCategories": [
+    "jei.key.category.overlays",
+    "jei.key.category.mouse.hover",
+    "jei.key.category.search",
+    "jei.key.category.cheat.mode",
+    "jei.key.category.hover.config.button",
+    "jei.key.category.edit.mode",
+    "jei.key.category.recipe.gui",
+    "jei.key.category.dev.tools"
+  ],
+  "hiddenKeybinds": [],
+  "consoleLogs": true
+}

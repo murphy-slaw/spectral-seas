@@ -1,0 +1,13 @@
+name = "KeybindHider"
+filename = "keybindhiderfabric-1.20.1-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MVgNXRxk/versions/oKm2big0/keybindhiderfabric-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "735dc197ed5211a9f975a25f5b2a011cd72baf0b72d1637c5eccf0079808d8705b2be26026bc1f38ee65b83957c58499eec5f2b1e12a98e85a9bc21b202a03db"
+
+[update]
+[update.modrinth]
+mod-id = "MVgNXRxk"
+version = "oKm2big0"

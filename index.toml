@@ -637,6 +637,10 @@ file = "config/iswydt.json"
 hash = "355158210e130ea86334467e2776d97f1ce0b8abe7c1b199bba03ea995ca8749"
 
 [[files]]
+file = "config/keybindhider.json"
+hash = "863a6fbc81dfa5b2ac55121ec91fd9b4b7bb8b26cfe3f8963defc072ce7a9406"
+
+[[files]]
 file = "config/kiwi-client.yaml"
 hash = "276b43040c836f91b14f37d9c32c15e43b14ad4caa5dc11c3d0a7c0ed7bc92e1"
 
@@ -4465,7 +4469,7 @@ hash = "e7378252028396d288924a5344ac2cca71232febf367982834180a64d26345e5"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "bb73625da2a91d736d23203f9a1faa6fd90102b07b9d5ad4263d7606e2be4d8c"
+hash = "afec3241cca2a637c5097f5d34d9313ec1797c14c35b25117ff831d695d67ae9"
 
 [[files]]
 file = "config/ribbits-fabric-1_20_1.toml"
@@ -4712,14 +4716,6 @@ file = "config/yigd.json"
 hash = "e9c170cb3072907b497bdf4915c33cdb14d3aa3dd2831d4c508132ed973e7a9a"
 
 [[files]]
-file = "config/yosbr/keybindings.txt"
-hash = "d06d8967e1418e886fbe5fc0490a23b6140ca746fdb90f4aca4777754147a1db"
-
-[[files]]
-file = "config/yosbr/options.amecsapi.txt"
-hash = "f81daec2041e5c4b8d609a4bfeeff59a75db050ed430beb37263d0484234b0e1"
-
-[[files]]
 file = "icon.png"
 hash = "feb0adc31910921fcc3cebaafcc5423db14ffcab011688ab5e5587a2e2293783"
 
@@ -4769,7 +4765,7 @@ hash = "eb373440148e8a12817cef6f3e9332b63a2f40c22289f6fdc65fe15afd039242"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "31e4331865d252cd2bd1c5a40bd400f2c498b26480d4b95f76c877b5df33adc6"
+hash = "45447e34dd96bce43fa7f1f3c27c7a007212fe606a2f3ca76453f006410815af"
 
 [[files]]
 file = "kubejs/config/probejs.json"
@@ -5468,6 +5464,11 @@ hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
 metafile = true
 
 [[files]]
+file = "mods/keybindhider.pw.toml"
+hash = "26bc8c3f4af72a086f9113d3d6c38c049ec0c6944366c37c6b8f9c4dd523d402"
+metafile = true
+
+[[files]]
 file = "mods/kinecraft-serialization.pw.toml"
 hash = "5b35c14ae3eb6b97378984b2018dc5355c68f56cd1746383671c367977bfc12d"
 metafile = true
@@ -6068,11 +6069,6 @@ hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
-metafile = true
-
-[[files]]
 file = "mods/your-reputation.pw.toml"
 hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
@@ -6091,6 +6087,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "cbbb68638759a72fe61083f42196226aea16f465d3d05d1c02eaca7a38481335"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/book.json"
