@@ -4841,7 +4841,7 @@ hash = "87523825c058d281fd2e0195402a11d9cd42edf5f65d484f447c941678eb933a"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "462f84feea0ba3e5fc251806b74c63fddf8914feaa762f8a820b78b4ee25af04"
+hash = "e411f1c06cc4cdc2a786f355e85bb23e585cc65bb189fcbcf22d609021a259e4"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -8351,6 +8351,78 @@ hash = "fd83cfd26ca5b0620cfe5de8ac52a782b8195d1ca98c917311f185cca987071d"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
 hash = "8241cba9c5120502b33d025b2c23862547766417c11b0b25f1f58b5fbce2724f"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager2.png"
+hash = "a4f52ab6fbff081c94672909316ed84ece8122c24a4729001233e321ca2af5b3"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager3.png"
+hash = "61ab27362ea56ba1ffba41e3fca1abf126420aab3258ac69a74f36ed99311798"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager4.png"
+hash = "bd99e3b6475a8a6214344f055e6fa5f71ef098e7ad4ab05fc63b1d5a6a678e45"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager5.png"
+hash = "53d5c9592226c35481f1a78b5b22257d94b0755c9f7cec839e77f6a214828cdc"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager6.png"
+hash = "1621cc37fcdb240ecdfa34ff2695a69cf0923cf0a61f7809b7a9d92a71629249"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager7.png"
+hash = "862ea8e10b6010e0f85bb04fa556faf5e8271ba52918bbccd6ba6ac9f9e36d0c"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager8.png"
+hash = "6e803b0bd399fddebad49765e9badb3dd337f48b19576dc876d75737a3162d88"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplehats/models/item/bicorne.json"
+hash = "374302ef502da18b1fb72ec8b1f8dbf4b639f1ea43d9fbef4a2a0de8c756cec3"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplehats/models/item/tricorne.json"
+hash = "3962d99819577bde24bae575115dc31e3f61eaa39ee8042cc91006efeb6c070b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplehats/textures/item/hats/bicorne.png"
+hash = "a4f843dc57895f4847dacf7308f81af664ec4f9ad3cd83a3fb3115313158156d"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplehats/textures/item/hats/tricorne.png"
+hash = "d5d1dc2eaecfbfcc85a46b220a16bc03b689df100a09508bca5154d3e5ecad3e"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/diamond_cutlass.png"
+hash = "7e24d1ef5202765261408c270b1fa2935797a2c1d6679deb6f13b7a811ac8795"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/golden_cutlass.png"
+hash = "149d823f723fda22d5fd9d33d90642a40da465e5a0c5d647ff41cdc7698c644b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/iron_cutlass.png"
+hash = "fb407d3aa3369526a02280178c6e7672976d7545bf3052ee2e0a96b0fc692f23"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/netherite_cutlass.png"
+hash = "c200784c0af4557f5ff3f883a06c40cc6e6d060e3c9d8e4585ba2821b9eb6318"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/runic_cutlass.png"
+hash = "96aa1b72545b1b6ce548b0a32784f5a0ffafefab7a9ded89369ce87174dfb31b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/stone_cutlass.png"
+hash = "66facbe3a15eba8275a00018db1979f0412ff629d445320c2e7f0ff4eaf7028b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/simplyswords/textures/item/wooden_cutlass.png"
+hash = "d29ad786fd3fa97daa875206dfbf11f60ac4302db0b1c36246b0110b0f08afd0"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/smallships/textures/entity/ship/coconut.png"
