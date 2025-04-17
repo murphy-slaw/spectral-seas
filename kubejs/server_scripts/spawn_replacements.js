@@ -3,9 +3,9 @@ const MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 
 const pillagerHats = [
     Item.of('simplehats:bicorne'),
+    Item.of('simplehats:tricorne'),
     Item.of('simplehats:eyepatch'),
-    Item.of('simplehats:ushanka'),
-    Item.of('simplehats:bowler'),
+    Item.of('minecraft:air'),
     //'simplehats:dorkglassesandteeth',
 ]
 

@@ -4841,7 +4841,7 @@ hash = "87523825c058d281fd2e0195402a11d9cd42edf5f65d484f447c941678eb933a"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "e411f1c06cc4cdc2a786f355e85bb23e585cc65bb189fcbcf22d609021a259e4"
+hash = "d427eb23516eae839f6384858f9e714ddb51f3444c45651839e11e3415221c25"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -8147,11 +8147,6 @@ file = "resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "f727bf58c1fb1b10405083c5a636775e01646cf5986a46625cec532c06242db2"
 
 [[files]]
-file = "resourcepacks/battlepack.pw.toml"
-hash = "7654c79467f847b7977c5adfd5054bd28b2c12d34f5bfec2f777c5229e0776b2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-chainmail.pw.toml"
 hash = "88f2c540c979efc35bb92361770a7d5f57d81889032fd3e938e66d7faa1495eb"
 metafile = true
@@ -8189,11 +8184,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtws-pirates-cit-pack.pw.toml"
 hash = "d1db2cd21d0c4b61c234269b92e4e853ef14dc306b476cbdb8da4ace6ab968d5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pirate.pw.toml"
-hash = "5130a784d991dc9cfd1243fdd806ced59ebb8e3f30c439477b16f04a2b4e9456"
 metafile = true
 
 [[files]]
