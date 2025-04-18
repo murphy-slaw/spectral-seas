@@ -8147,11 +8147,6 @@ file = "resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "f727bf58c1fb1b10405083c5a636775e01646cf5986a46625cec532c06242db2"
 
 [[files]]
-file = "resourcepacks/better-chainmail.pw.toml"
-hash = "88f2c540c979efc35bb92361770a7d5f57d81889032fd3e938e66d7faa1495eb"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-squid.pw.toml"
 hash = "2a3ca49c4e811f3a3a391833d2ac3ebe2316d48ba41fb1b1e9a9a00be439e4fa"
 metafile = true
@@ -8179,11 +8174,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fine-armoury.pw.toml"
 hash = "56649d62fd5d6ac3b646d9a3af0b84b4569f7013d0efb6e8d44e08cd9d86f272"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtws-pirates-cit-pack.pw.toml"
-hash = "d1db2cd21d0c4b61c234269b92e4e853ef14dc306b476cbdb8da4ace6ab968d5"
 metafile = true
 
 [[files]]
