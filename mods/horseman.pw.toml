@@ -1,13 +1,13 @@
 name = "Horseman"
-filename = "horseman-1.20.1-1.2.0-fabric.jar"
+filename = "horseman-1.20.1-1.3.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qIv5FhAA/versions/lxn14Ntp/horseman-1.20.1-1.2.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/qIv5FhAA/versions/b9U1dAxC/horseman-1.20.1-1.3.0-fabric.jar"
 hash-format = "sha512"
-hash = "531ff5e0da8c0b8f44aec30387d6832ef69f41fa8da576e562265edaafd2d2f966c71d06fb4e7ba5645b39e1335268979027d383d0069e8de0d7b59166be3ff9"
+hash = "8798e33830d7a9c2cc0ee3096716fa42c46f3ed067587c842373aad7eb9fd463eb1b4159e60fbfb434248066b9bc4f3c030b9ec89c48e9c8fee5e026f5ff0e22"
 
 [update]
 [update.modrinth]
 mod-id = "qIv5FhAA"
-version = "lxn14Ntp"
+version = "b9U1dAxC"

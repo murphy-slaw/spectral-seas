@@ -1,13 +1,13 @@
 name = "EntityJS"
-filename = "entityjs-0.2.7-1.20.1-fabric.jar"
+filename = "entityjs-0.2.9-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/QjKKbzj6/entityjs-0.2.7-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/LWusRrq1/entityjs-0.2.9-1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "5af45b545e219977d373eb461573b9bc279ab6b9d49bcc6dab92590f3f4b4f3c340f26842499ac499b74d9d15f739d7fded0ccda419d86a498082c99c40545c0"
+hash = "1ca38bb13c1da0bc8e035ef1c414d01747de15e6dae5a175d413c22aad7e56760a532ba9ff395698cd6020958718d67b4e8977f57c43472a102db2bc851ad2e1"
 
 [update]
 [update.modrinth]
 mod-id = "OvPZ16yX"
-version = "QjKKbzj6"
+version = "LWusRrq1"
