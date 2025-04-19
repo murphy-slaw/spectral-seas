@@ -1,3 +1,6 @@
+var $ObjectiveCriteria = Java.loadClass(
+    'net.minecraft.world.scores.criteria.ObjectiveCriteria'
+);
 PlayerEvents.tick(event => {
     // Once per second
     if (event.player.age % 20 === 0) {
@@ -6,9 +9,9 @@ PlayerEvents.tick(event => {
         if (!distanceObjective) {
             distanceObjective = scoreboard.addObjective(
                 'spawnDistance',
-                ObjectiveCriteria$DUMMY,
+                $ObjectiveCriteria.DUMMY,
                 'spawnDistance',
-                ObjectiveCriteria$DUMMY.getDefaultRenderType()
+                $ObjectiveCriteria.DUMMY.getDefaultRenderType()
             )
             // Display in the tab list
             scoreboard.setDisplayObjective(0, distanceObjective)

@@ -638,7 +638,7 @@ hash = "355158210e130ea86334467e2776d97f1ce0b8abe7c1b199bba03ea995ca8749"
 
 [[files]]
 file = "config/keybindhider.json"
-hash = "863a6fbc81dfa5b2ac55121ec91fd9b4b7bb8b26cfe3f8963defc072ce7a9406"
+hash = "bd485d01e7b2760f5e357f658a01f89c429b2e0b8e019d80f6f7055380fe1cfc"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -4724,7 +4724,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/antique_atlas.js"
-hash = "c34715d694dbba1ed98969b8553069502d38322defd764646a0eaca2f8c45979"
+hash = "a303130dcca4e4a49a2b30421cc634125095c75ae7ee43690ca9e2d704e19c07"
 
 [[files]]
 file = "kubejs/client_scripts/open_map.js"
@@ -4741,14 +4741,6 @@ hash = "45a8dafc4be497d063d6483004edad2eb26f947dfb72cc26a37bde5f89ea2c2a"
 [[files]]
 file = "kubejs/client_scripts/starter_kit.js"
 hash = "18303c504476abf8271cbe765160bd03245f7391ca245511849f1d2764b85018"
-
-[[files]]
-file = "kubejs/client_scripts_disabled/atlas_fake_map.js"
-hash = "43662f474b022889dc660cdb95948b9da60c4dcda16e641de1bdfc360c00b510"
-
-[[files]]
-file = "kubejs/client_scripts_disabled/diamant.js"
-hash = "6f4c1da45263948c8fc1664abdcd60a3879c8e80e220821ea9e32adfe7ee15be"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -4815,6 +4807,10 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
+file = "kubejs/server_scripts/sea_monster.js"
+hash = "59d46300512c643029aece0c226b462a962c67b4386bc52edc6222d8bee098ab"
+
+[[files]]
 file = "kubejs/server_scripts/ship_sleep.js"
 hash = "d1f7778efe64e3d639cb429d7da21f962a0a2fe763ad9b6c032e8769de1b0438"
 
@@ -4828,11 +4824,11 @@ hash = "90fdb6b418f0e9c04625014e5b78f77523cb5674ee58037b31967150cb59975f"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_distance.js"
-hash = "87523825c058d281fd2e0195402a11d9cd42edf5f65d484f447c941678eb933a"
+hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "d427eb23516eae839f6384858f9e714ddb51f3444c45651839e11e3415221c25"
+hash = "2375630db9b765d294021bf9c94297b9091c3dfe8af2eedb4c085fed982b148b"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -4847,20 +4843,12 @@ file = "kubejs/server_scripts/unique_items.js"
 hash = "3e686cfaf429e349c61b4177c193462cf8487e51919116555a77071c483a8067"
 
 [[files]]
-file = "kubejs/server_scripts_disabled/portal.js"
-hash = "4090a47db0c746e98dd1abf9e316cb2a7b788ea52531ca01aef1371d4d90e13c"
-
-[[files]]
-file = "kubejs/server_scripts_disabled/tags.js"
-hash = "4a87e2dda2ba95c34aee9676091ec6ef8fbfb89e06c21b891b3bf6b920065b20"
-
-[[files]]
-file = "kubejs/startup_scripts/amphibious.js"
-hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
-
-[[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
 hash = "e1ce4278c53c52f58b8bbf331a8d6bd424550e75496637dc7656d1ff958ef951"
+
+[[files]]
+file = "kubejs/startup_scripts/effects/amphibious.js"
+hash = "dd0b28e25de4c3c6fcedc7a7a2e3b6836031075075a967c994db8e1a0ebf85b5"
 
 [[files]]
 file = "kubejs/startup_scripts/effects/brews.js"
@@ -4871,12 +4859,12 @@ file = "kubejs/startup_scripts/effects/size.js"
 hash = "0c295aeccbf6bfea46183bc9a5f9eb66e673a76d681e69226ec82a1ba76ea183"
 
 [[files]]
-file = "kubejs/startup_scripts/fluids/chowder.js"
-hash = "c125a8dad51d2b527ea218c28c4f9891cd72c8f38178c5fd41a74ccc193971db"
+file = "kubejs/startup_scripts/entities/turtle.js"
+hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
 
 [[files]]
-file = "kubejs/startup_scripts/item_counts.js"
-hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
+file = "kubejs/startup_scripts/fluids/chowder.js"
+hash = "c125a8dad51d2b527ea218c28c4f9891cd72c8f38178c5fd41a74ccc193971db"
 
 [[files]]
 file = "kubejs/startup_scripts/items/bowl_food.js"
@@ -4887,6 +4875,10 @@ file = "kubejs/startup_scripts/items/fishermans_resin.js"
 hash = "85847f15602577f50c0ff6a72f793e5d5a082885a875f31ca5e3fc0c07e6be32"
 
 [[files]]
+file = "kubejs/startup_scripts/items/item_counts.js"
+hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
+
+[[files]]
 file = "kubejs/startup_scripts/items/item_removals.js"
 hash = "3507d9bb04bcb4ec30c23aa49eb52877d003414c22bc4b9feff38348aba804ff"
 
@@ -4895,28 +4887,8 @@ file = "kubejs/startup_scripts/items/ship_upgrades.js"
 hash = "cd77208184426ee73403fafa82e4df3fbca5c5edf71cc9fbc97899a1d7791920"
 
 [[files]]
-file = "kubejs/startup_scripts/java_loader.js"
-hash = "46164caed1e0908c43c8efe1201f65e6e714f6f5eab1930611bcec7f1b2345dd"
-
-[[files]]
 file = "kubejs/startup_scripts/push_globals.js"
 hash = "840ff8ca94fe30e39c9fefdbbfb96c0ab6d89b85d7d95904417b38dc99d256ab"
-
-[[files]]
-file = "kubejs/startup_scripts/turtle.js"
-hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
-
-[[files]]
-file = "kubejs/startup_scripts_disabled/kill_spawns.js"
-hash = "408178d3704751b1fa74aa390ae37e90b17f4ee762db0d3639b6b2d4490db2f4"
-
-[[files]]
-file = "kubejs/startup_scripts_disabled/mobs.js"
-hash = "73e14aa74dd34c1e9b34358bc10f69e4fb83313c25ed8e33cd8bf515b3272369"
-
-[[files]]
-file = "kubejs/startup_scripts_disabled/player.js"
-hash = "011a3b650212c46275e33a815dcdd4fe2dcf68cdba8fe01a06449819785ffc66"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

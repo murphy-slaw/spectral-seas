@@ -1,5 +1,6 @@
-const baseScale = scaleTypes.BASE
-const MobType = Java.loadClass('net.minecraft.world.entity.MobType')
+const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
+var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes');
+var $ScaleTypes$BASE = $ScaleTypes.BASE
 
 const pillagerHats = [
     Item.of('simplehats:bicorne'),
@@ -19,6 +20,9 @@ const pillagerWeapons = ['musketmod:pistol']
 
 EntityEvents.spawned(event => {
     // Define constants
+    /**
+     * @type {Internal.LivingEntity}
+     */
     const entity = event.entity
 
     // Skip the logic if the entity is a player or is not living
@@ -26,7 +30,7 @@ EntityEvents.spawned(event => {
         return
     }
 
-    if (entity.mobType === MobType.ILLAGER) {
+    if (entity.mobType === $MobType.ILLAGER) {
         //Don't replace raid captain banner
         if (entity.getHeadArmorItem().empty) {
             entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
@@ -52,7 +56,7 @@ EntityEvents.spawned(event => {
 
     if (entity.type == 'hybrid-aquatic:karkinos') {
         console.infof('Summoned Karkinos: %s', entity.uuid)
-        baseScale.getScaleData(entity).setScale(3)
+        $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
     if (entity.type === 'minecraft:drowned') {
         var data = entity.nbt
@@ -79,5 +83,9 @@ EntityEvents.spawned(event => {
                 slot.addTagElement('style', 'samurai')
             }
         })
+    }
+
+    if (entity.type == 'hybrid-aquatic:great_white_shark') {
+        $ScaleTypes$BASE.getScaleData(entity).setScale(4)
     }
 })
