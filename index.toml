@@ -38,7 +38,7 @@ hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "604528bd9e741155a866d3c95449e24b01fce5fb09db5dd64de4f5bfa95a6226"
+hash = "a49da5a3fc7f8924364dff3f2163e8dd7670baea8e33788db927643f5083c196"
 
 [[files]]
 file = "config/VillagerConfig/villagerconfig.json5"
@@ -542,7 +542,7 @@ hash = "c2a99e252b09d1405e0ba1aea9bf5cbdf7e5ed785e7fb7699ad9ec37032842f7"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
@@ -610,11 +610,11 @@ hash = "8ecd63a1991bf3e7123f761d2f199640c0acada77c3f309f9c66f12936864931"
 
 [[files]]
 file = "config/horseman-client.toml"
-hash = "def47dbce0191366cde5bfac4a0b6d828d9d32c07de73f7073ddb0d9b5bc193d"
+hash = "f75e3a45e8230d9169da52576539455e71611a1d80a5aced5d6ba0208e374e8a"
 
 [[files]]
 file = "config/horseman-common.toml"
-hash = "50f92709a7b68908912c47ff4d84d1a8fe4d04ab0daa14554483f700658bec86"
+hash = "59c1388e37de9f888934f976020ca19ba0b288b35772bc3e2f534f259fed278b"
 
 [[files]]
 file = "config/hybrid-aquatic.json"
@@ -710,7 +710,7 @@ hash = "2717e96df4a5d1829f34ba414c46d9c1be1b066fd8f14d24ae99889a5deb2e57"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "c08ab88e78ea5e0b16bfe8aa388f39de8877f82262c6e2d7de1a4829324fcd48"
+hash = "daf2605f198a1144b144e2c0be14d0c8af25722866127f3f8752d329f656c71f"
 
 [[files]]
 file = "config/modonomicon.json5"
@@ -4708,7 +4708,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yigd.json"
-hash = "e9c170cb3072907b497bdf4915c33cdb14d3aa3dd2831d4c508132ed973e7a9a"
+hash = "425898aaa7f4a10dfa91ae2a6c1245b88ce68ab8ed185e8d06f39aac167894d5"
 
 [[files]]
 file = "icon.png"
@@ -5252,7 +5252,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "908db57d8e71c7c51a641c1f6c44541013e835d15f3eac3b5454f6bb9417b403"
+hash = "0c47d03d8d357331a7d48f1fb498708c5aae3ade57727280aa39c9744dab7c32"
 metafile = true
 
 [[files]]
@@ -5377,7 +5377,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "c442a122b6955c76b3ffc3ae9a1e77cd77eb8b039bf6d360ceec0ddc3ce7fee5"
+hash = "854c12e1cc1e24baf49664ad274e917cb91ac4c9dda3d4419acd926a1121d869"
 metafile = true
 
 [[files]]
