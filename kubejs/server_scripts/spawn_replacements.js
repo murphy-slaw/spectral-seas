@@ -1,5 +1,5 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
-var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes');
+var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
 var $ScaleTypes$BASE = $ScaleTypes.BASE
 
 const pillagerHats = [
@@ -86,6 +86,6 @@ EntityEvents.spawned(event => {
     }
 
     if (entity.type == 'hybrid-aquatic:great_white_shark') {
-        $ScaleTypes$BASE.getScaleData(entity).setScale(4)
+        $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
 })
