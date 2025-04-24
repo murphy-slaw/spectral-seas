@@ -4808,7 +4808,7 @@ hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
 file = "kubejs/server_scripts/sea_monster.js"
-hash = "d379d79d0348b87c108591dd58d6846ef65c3973079926bfef7092f27e9e38e8"
+hash = "fec6db48af53ec871cf610a51c0f46cc9b6e62c596a008334b4c46133521b322"
 
 [[files]]
 file = "kubejs/server_scripts/ship_sleep.js"
@@ -4828,7 +4828,7 @@ hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "c2309feda479ebdfe958044d7503bb8718d1404a603de53f93cc9a656b5f293c"
+hash = "3714f1e9656579be9059741a6a2ac96b6a04a58d390e07d59d816d41e41f99b4"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
@@ -5928,6 +5928,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "0354673aae26e7a07b8d9cd71d7fb5e923ae2865dbafc1f6c222fe314ac397d6"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "c28bc347e2c37caaf4ce0da6318f235bac53760dd9f5a2e6a558cbcd9a64f9c6"
 metafile = true
 
 [[files]]

@@ -84,8 +84,4 @@ EntityEvents.spawned(event => {
             }
         })
     }
-
-    if (entity.type == 'hybrid-aquatic:great_white_shark') {
-        $ScaleTypes$BASE.getScaleData(entity).setScale(3)
-    }
 })
