@@ -136,6 +136,7 @@ const SLAIN_ITEMS = [
     'sticknstone:stone_halberd',
     'yigd:death_scroll',
     'yigd:grave_key',
+    'minecraft:enchanting_table'
 ]
 
 StartupEvents.modifyCreativeTab('simplyswords:simplyswords', event => {
