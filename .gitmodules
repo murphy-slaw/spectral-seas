@@ -4,6 +4,3 @@
 [submodule "config/paxi/datapacks/Oceania"]
 	path = config/paxi/datapacks/Oceania
 	url = https://github.com/murphy-slaw/Oceania.git
-[submodule "config/paxi/datapacks/spectral_seas"]
-	path = config/paxi/datapacks/spectral_seas
-	url = https://github.com/murphy-slaw/spectral_seas_data.git
