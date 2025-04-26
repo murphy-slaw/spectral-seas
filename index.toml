@@ -3737,14 +3737,6 @@ file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure
 hash = "b3a10c6200e7b6981bfbae742b93a7f719e9495b4c7f0c17662b5647c3b05202"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/lost_soul_city.json"
-hash = "49de93250ed85d5261b37342488642eba78ce80424d0222c256a61cfcfa3fe93"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/lost_soul_dungeon.json"
-hash = "cf20f21dd739efbe69a83e8386be491de14119fc716a2172de976496568cb716"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure/ocean_fortress.json"
 hash = "a1ed1d8e1787896135c4276a0688b61cf45a3cdb4a596c1a8efcd18d13635f47"
 
@@ -3785,20 +3777,12 @@ file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure
 hash = "263570ab9d72fc678526c54d71156597a0154769b08a42a6d5bb407a2355f977"
 
 [[files]]
-file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/lost_soul_city.json"
-hash = "82982033dcbcf7f3eb7887121fc2107cb43e39bf8a9ddccb77a949558f85aded"
-
-[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_fortress_main.json"
 hash = "bd83d38c6205529c06f2bbd86abfe76692abb1f597bfb0dc7a80072fefdc6e31"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/ocean_ruins.json"
 hash = "84ad8301e2946b277f5574473c025f176a954ec7f894a44220258a0d714a0c4d"
-
-[[files]]
-file = "config/paxi/datapacks/spectral_seas/data/philipsruins/worldgen/structure_set/underground_structures.json"
-hash = "9b3fd2bee90b7179f805eea3401e1b7a2951b125315eb5386721464c1c814af6"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/potioncraft/metamixing/data.json"
@@ -3958,7 +3942,7 @@ hash = "d2f7e733a874a3352b0449a0c86adcca64860d516e95001ac475a9551751fdcf"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_ruin_placement.json"
-hash = "42fb70e3078a2cd56c4813815cf7879f6aa1d6da711349e4ed114eba99467ee2"
+hash = "b5dc6df8f4f2b5dbf0e1c5a061c681e3a698b841ed7b864694f4e78dcc7bf55b"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/data/spectral_seas/lithostitched/worldgen_modifier/better_tavern_placement.json"
@@ -4398,7 +4382,7 @@ hash = "e5dfed73ef89c8658f70d04d6f61b50349e22557dda685fec54731a615b379df"
 
 [[files]]
 file = "config/paxi/datapacks/spectral_seas/pack.mcmeta"
-hash = "eb5a4e1a8df8135c14c7f4ba6ce65feba984befad85b72bf171a171348c3d707"
+hash = "ac3a6f57899ffb2dc97b09b68407105f8f8e1c0f060ea2cc0228294abacfae8c"
 
 [[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
@@ -4808,7 +4792,7 @@ hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
 file = "kubejs/server_scripts/sea_monster.js"
-hash = "fec6db48af53ec871cf610a51c0f46cc9b6e62c596a008334b4c46133521b322"
+hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
 
 [[files]]
 file = "kubejs/server_scripts/ship_sleep.js"
