@@ -1,0 +1,27 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "totw_reworked:regular/top",
+        "totw_reworked:regular/bottom"
+    ],
+    "processor_list": [
+        {
+            "processor_type": "lithostitched:block_swap",
+            "blocks": {
+                "minecraft:dark_prismarine_stairs": "galosphere:smooth_amethyst_stairs",
+                "minecraft:dark_prismarine": "galosphere:smooth_amethyst",
+                "minecraft:dark_prismarine_slab": "galosphere:smooth_amethyst_slab",
+                "minecraft:polished_andesite_stairs": "minecraft:smooth_quartz_stairs",
+                "minecraft:polished_andesite_slab": "minecraft:smooth_quartz_slab",
+                "minecraft:polished_andesite": "minecraft:smooth_quartz",
+                "minecraft:andesite": "minecraft:block_of_quartz",
+                "minecraft:smooth_stone": "spectrum:polished_calcite",
+                "minecraft:smooth_stone_stairs": "spectrum:polished_calcite_stairs",
+                "minecraft:smooth_stone_slab": "spectrum:polished_calcite_slab",
+                "minecraft:stone_brick_wall": "spectrum:polished_calcite_wall",
+                "minecraft:lantern": "spectral-decorations:purple_lantern"
+            }
+        }
+    ],
+    "append": true
+}

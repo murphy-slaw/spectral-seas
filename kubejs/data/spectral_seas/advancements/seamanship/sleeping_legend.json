@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": "Sleeping Legend",
+        "description": "Obtain a Slumbering Trident",
+        "icon": {
+            "item": "tridents_n_stuff:slumbering_trident"
+        },
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": true
+    },
+    "parent": "spectral_seas:seamanship/neptunes_lance",
+    "criteria": {
+        "slumbering": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "tridents_n_stuff:slumbering_trident"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

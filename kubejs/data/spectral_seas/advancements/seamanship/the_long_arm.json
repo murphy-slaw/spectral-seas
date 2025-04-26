@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "musketmod:musket"
+        },
+        "title": "The Long Arm",
+        "description": "Obtain a Musket",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/powder_and_shot",
+    "criteria": {
+        "loaded": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "musketmod:musket",
+                            "musketmod:musket_with_bayonet",
+                            "musketmod:musket_with_scope"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

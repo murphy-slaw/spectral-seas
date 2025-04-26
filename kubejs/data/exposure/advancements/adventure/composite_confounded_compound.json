@@ -1,0 +1,41 @@
+{
+  "parent": "exposure:adventure/moment_in_time",
+  "criteria": {
+    "get_chromatic_photograph": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "exposure:photograph",
+              "exposure:aged_photograph"
+            ],
+            "nbt": "{Chromatic:true}"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": true,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "exposure:chromatic_sheet",
+      "nbt": "{Exposures:[{Id:\"1\"},{Id:\"2\"},{Id:\"3\"}]}"
+    },
+    "title": {
+      "translate": "advancement.exposure.composite_confounded_compound.title"
+    },
+    "description": {
+      "translate": "advancement.exposure.composite_confounded_compound.description"
+    }
+  },
+  "requirements": [
+    [
+      "get_chromatic_photograph"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "salt": 1024917310,
+    "spacing": 50,
+    "separation": 40,
+    "super_exclusion_zone": {
+      "chunk_count": 8,
+      "other_set": "#mvs:common_avoid"
+    }
+  },
+  "structures": [
+    {
+      "structure": "formationsoverworld:large_temple",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:witch_tower",
+      "weight": 1
+    }
+  ]
+}

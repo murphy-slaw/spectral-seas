@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:has_structure/portal_deepslate",
+  "step": "underground_decoration",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_box",
+  "start_pool": "hopo:portal_deepslate",
+  "size": 1,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": -33
+    },
+    "max_inclusive": {
+      "absolute": -50
+    }
+  },
+  "max_distance_from_center": 100,
+  "use_expansion_hack": false
+}

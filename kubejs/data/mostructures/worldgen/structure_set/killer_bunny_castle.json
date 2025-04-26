@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "mostructures:killer_bunny_castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "concentric_rings",
+    "count": 3,
+    "distance": 90,
+    "spread": 3,
+    "salt": 181239001,
+    "preferred_biomes": "#mostructures:has_structure/killer_bunny_castle"
+  }
+}

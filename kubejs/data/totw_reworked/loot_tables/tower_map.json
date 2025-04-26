@@ -1,0 +1,221 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:alternatives",
+                    "children": [
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_ocean",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "search_radius": 100,
+                                    "skip_existing_chunks": true
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:ocean"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_ocean_warm",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "search_radius": 100,
+                                    "skip_existing_chunks": true
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:ocean_warm"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_derelict_grass",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "skip_existing_chunks": true,
+                                    "search_radius": 100
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:derelict_grass"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_derelict",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "skip_existing_chunks": true,
+                                    "search_radius": 100
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:derelict"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_ice",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "skip_existing_chunks": true,
+                                    "search_radius": 100
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:ice"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:is_not_jungle",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "skip_existing_chunks": true,
+                                    "search_radius": 100
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:location_check",
+                                    "predicate": {
+                                        "structure": "totw_reworked:jungle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "minecraft:exploration_map",
+                                    "destination": "totw_reworked:regular",
+                                    "decoration": "red_x",
+                                    "zoom": 4,
+                                    "skip_existing_chunks": true,
+                                    "search_radius": 100
+                                },
+                                {
+                                    "function": "minecraft:set_name",
+                                    "name": {
+                                        "text": "Tower Map",
+                                        "color": "dark_aqua"
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:inverted",
+                                    "term": {
+                                        "condition": "minecraft:location_check",
+                                        "predicate": {
+                                            "structure": "totw_reworked:regular"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

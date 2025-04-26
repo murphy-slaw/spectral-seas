@@ -1,0 +1,15 @@
+{
+    "localizationString": "spectral_seas.diving_set.name",
+    "itemTagString": "spectral_seas:diving_suit_set",
+    "setEffects": [
+        {
+            "equippedItemThreshold": 4,
+            "toolTipText": "spectral_seas.diving_set.threshold_4",
+            "statusEffectId": "spectral_seas:amphibious",
+            "statusEffectLevel": 0,
+            "isAmbient": true,
+            "showParticles": false,
+            "showIcon": true
+        }
+    ]
+}

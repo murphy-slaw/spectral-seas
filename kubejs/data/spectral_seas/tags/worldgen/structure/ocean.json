@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "betteroceanmonuments:ocean_monument",
+        "hopo:underwater_city",
+        "nova_structures:conduit_ruin"
+    ]
+}

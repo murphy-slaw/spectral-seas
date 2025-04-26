@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "betteroceanmonuments:ocean_monument",
+      "weight": 1
+    },
+    {
+      "structure": "philipsruins:ocean_fortress",
+      "weight": 1
+    },
+    {
+      "structure": "hopo:underwater_city",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 784827271,
+    "spacing": 36,
+    "separation": 24,
+    "type": "minecraft:random_spread"
+  }
+}

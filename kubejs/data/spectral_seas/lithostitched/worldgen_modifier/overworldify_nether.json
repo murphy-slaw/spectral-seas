@@ -1,0 +1,27 @@
+{
+    "type": "lithostitched:add_features",
+    "biomes": "#minecraft:is_nether",
+    "features": [
+        "overworldify:-64",
+        "overworldify:-48",
+        "overworldify:-32",
+        "overworldify:-16",
+        "overworldify:0",
+        "overworldify:16",
+        "overworldify:32",
+        "overworldify:48",
+        "overworldify:64",
+        "overworldify:80",
+        "overworldify:96",
+        "overworldify:112",
+        "overworldify:128",
+        "overworldify:144",
+        "overworldify:160",
+        "overworldify:176",
+        "overworldify:192",
+        "overworldify:208",
+        "overworldify:224",
+        "overworldify:240"
+      ],
+    "step": "raw_generation"
+  }

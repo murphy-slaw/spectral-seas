@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "philipsruins:level_one_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#mvs:common_avoid"
+    },
+    "salt": 368134891,
+    "spacing": 23,
+    "separation": 4
+  }
+}

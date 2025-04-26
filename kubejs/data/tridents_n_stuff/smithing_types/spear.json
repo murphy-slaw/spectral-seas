@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "tridents_n_stuff:wooden_spear",
+        "tridents_n_stuff:stone_spear",
+        "tridents_n_stuff:iron_spear",
+        "tridents_n_stuff:diamond_spear",
+        "tridents_n_stuff:netherite_spear"
+    ]
+}

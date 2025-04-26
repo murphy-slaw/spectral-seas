@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:obsidian",
+    "minecraft:netherite_block",
+    "minecraft:respawn_anchor",
+    "minecraft:ancient_debris"
+  ]
+}

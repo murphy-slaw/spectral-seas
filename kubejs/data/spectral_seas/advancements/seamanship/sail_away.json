@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "smallships:oak_cog"
+    },
+    "title": "Sail Away",
+    "description": "Board a ship",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spectral_seas:seamanship/root",
+  "criteria": {
+    "board_ship": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "vehicle": {
+                "type": "#smallships:ships"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

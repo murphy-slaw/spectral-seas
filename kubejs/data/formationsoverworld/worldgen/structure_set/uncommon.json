@@ -1,0 +1,50 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 650800552,
+    "spacing": 15,
+    "separation": 8,
+    "super_exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "#mvs:common_avoid"
+    }
+  },
+  "structures": [
+    {
+      "structure": "formationsoverworld:bamboo_hut",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:desert_houses",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:fountain",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:graveyard",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:hobbit_hole",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:meteor",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:small_statue",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:small_temple",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:well",
+      "weight": 1
+    }
+  ]
+}

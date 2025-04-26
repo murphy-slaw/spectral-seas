@@ -1,0 +1,517 @@
+{
+  DataVersion: 1976,
+  blocks: [
+    {
+      nbt: {
+        attachement_type: "minecraft:bottom",
+        final_state: "minecraft:structure_void",
+        id: "minecraft:jigsaw",
+        target_pool: "minecraft:empty"
+      },
+      pos: [0, 0, 0],
+      state: 0
+    },
+    {
+      pos: [0, 1, 0],
+      state: 1
+    },
+    {
+      pos: [0, 2, 0],
+      state: 1
+    }
+  ],
+  entities: [
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
+        ArmorItems: [
+          {},
+          {},
+          {},
+          {}
+        ],
+        Attributes: [
+          {
+            Base: 100.0d,
+            Name: "generic.maxHealth"
+          },
+          {
+            Base: 1.0d,
+            Name: "generic.knockbackResistance"
+          },
+          {
+            Base: 0.25d,
+            Name: "generic.movementSpeed"
+          },
+          {
+            Base: 0.0d,
+            Name: "generic.armor"
+          },
+          {
+            Base: 0.0d,
+            Name: "generic.armorToughness"
+          },
+          {
+            Base: 16.0d,
+            Modifiers: [
+              {
+                Amount: 0.04635499892508863d,
+                Name: "Random spawn bonus",
+                Operation: 1,
+                UUIDLeast: -8634199127330175042l,
+                UUIDMost: -479428484363763392l
+              }
+            ],
+            Name: "generic.followRange"
+          },
+          {
+            Base: 0.0d,
+            Name: "generic.attackKnockback"
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
+        HandItems: [
+          {},
+          {}
+        ],
+        Health: 100.0f,
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        Motion: [0.0d, -0.0784000015258789d, 0.0d],
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "minecraft:iron_golem"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorItems: [
+          {
+            Count: 1b,
+            id: "minecraft:iron_boots",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:iron_leggings",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:iron_sword"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorItems: [
+          {
+            Count: 1b,
+            id: "minecraft:chainmail_boots",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:iron_sword"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorItems: [
+          {
+            Count: 1b,
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:iron_chestplate",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:iron_sword"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorItems: [
+          {
+            Count: 1b,
+            id: "minecraft:chainmail_boots",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:chainmail_leggings",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:chainmail_chestplate",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:chainmail_helmet",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:crossbow"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorItems: [
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:iron_helmet",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:crossbow"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    },
+    {
+      blockPos: [0, 1, 0],
+      nbt: {
+        AbsorptionAmount: 0.0f,
+        Air: 300s,
+        ArmorDropChances: [2.0f, 2.0f, 2.0f, 2.0f],
+        ArmorItems: [
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:air",
+            tag: {
+              Damage: 0
+            }
+          },
+          {
+            Count: 1b,
+            id: "minecraft:leather_helmet",
+            tag: {
+              Damage: 0,
+              style: "heavy"
+            }
+          }
+        ],
+        CanPickUpLoot: 0b,
+        DeathTime: 0s,
+        Dimension: 0,
+        FallDistance: 0.0f,
+        FallFlying: 0b,
+        Fire: -1s,
+        HandItems: [
+          {
+            Count: 1b,
+            id: "minecraft:crossbow"
+          },
+          {}
+        ],
+        HurtByTimestamp: 0,
+        HurtTime: 0s,
+        Invulnerable: 0b,
+        Leashed: 0b,
+        LeftHanded: 0b,
+        OnGround: 1b,
+        PersistenceRequired: 1b,
+        PlayerCreated: 0b,
+        PortalCooldown: 0,
+        Pos: [-57.45d, 65.0d, -17.56d],
+        Rotation: [0.0f, 0.0f],
+        UUIDLeast: -7598825889261210920l,
+        UUIDMost: -295006874027013989l,
+        id: "guardvillagers:guard"
+      },
+      pos: [0.5499999999999972d, 1.0d, 0.4400000000000013d]
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:jigsaw",
+      Properties: {
+        facing: "down"
+      }
+    },
+    {
+      Name: "minecraft:air"
+    }
+  ],
+  size: [1, 3, 1]
+}

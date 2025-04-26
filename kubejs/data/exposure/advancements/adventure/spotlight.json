@@ -1,0 +1,38 @@
+{
+  "parent": "exposure:adventure/exposure",
+  "criteria": {
+    "take_selfie": {
+      "conditions": {
+        "exposure": {
+          "nbt": "{Selfie:1b}",
+          "entities_count": 1,
+          "entity_in_frame": {
+            "type": "minecraft:player"
+          }
+        }
+      },
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "minecraft:player_head"
+    },
+    "title": {
+      "translate": "advancement.exposure.spotlight.title"
+    },
+    "description": {
+      "translate": "advancement.exposure.spotlight.description"
+    }
+  },
+  "requirements": [
+    [
+      "take_selfie"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

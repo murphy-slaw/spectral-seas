@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "mvs:houses/large_warped_tower",
+        "nova_structures:bunker",
+        "nova_structures:undead_crypt",
+        "nova_structures:creeping_crypt"
+    ]
+}

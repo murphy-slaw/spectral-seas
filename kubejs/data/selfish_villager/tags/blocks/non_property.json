@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:grass",
+      "required": false
+    },
+    {
+      "id": "#c:grass_like",
+      "required": false
+    },
+    {
+      "id": "#c:flowers",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+    "display": {
+        "title": "Beacon Sighted",
+        "description": "Discover a light in the darkness",
+        "icon": {
+            "item": "minecraft:lantern"
+        },
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/sail_away",
+    "criteria": {
+        "regular": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:regular"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "derelict": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:derelict"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "derelict_grass": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:derelict_grass"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ice": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:ice"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:jungle"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ocean_warm": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:ocean_warm"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "totw_reworked:ocean"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "regular",
+            "derelict",
+            "derelict_grass",
+            "ocean_warm",
+            "ocean",
+            "ice",
+            "jungle"
+        ]
+    ]
+}

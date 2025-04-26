@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "title": "Shipwright",
+    "description": "Build yourself a ship",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spectral_seas:seamanship/one_sheet_to_the_wind",
+  "criteria": {
+    "obtain_ship": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "smallships:ships"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obtain_ship"
+    ]
+  ],
+  "rewards": {}
+}

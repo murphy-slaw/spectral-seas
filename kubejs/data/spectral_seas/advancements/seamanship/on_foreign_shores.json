@@ -1,0 +1,51 @@
+{
+    "display": {
+        "icon": {
+            "item": "supplementaries:globe"
+        },
+        "title": "On Foreign Shores",
+        "description": "Sail to a distant island"
+    },
+    "parent": "spectral_seas:seamanship/sail_away",
+    "criteria": {
+        "i_would_walk_500_miles": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:entity_scores",
+                        "entity": "this",
+                        "scores": {
+                            "spawnDistance": {
+                                "min": 1000,
+                                "max": 100000
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "fluid": {
+                                "fluid": "minecraft:empty"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "offsetY": -1,
+                        "predicate": {
+                            "block": {
+                                "tag": "minecraft:sculk_replaceable"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "i_would_walk_500_miles"
+        ]
+    ]
+}

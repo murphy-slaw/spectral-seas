@@ -1,0 +1,13 @@
+{
+	"replace": true,
+	"values": [
+		{
+			"cost": 6,
+			"item": "minecraft:leather"
+		},
+		{
+			"cost": 2,
+			"item": "minecraft:phantom_membrane"
+		}
+	]
+}

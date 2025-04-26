@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "archeologyplus:desert_temple",
+        "minecraft:desert_pyramid",
+        "mostructures:big_pyramid",
+        "nova_structures:desert_ruins"
+    ]
+}

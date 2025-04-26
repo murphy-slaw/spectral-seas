@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "entities": [
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "minecraft:evoker"
+    ],
+    "slots": [
+        "hat"
+    ]
+}

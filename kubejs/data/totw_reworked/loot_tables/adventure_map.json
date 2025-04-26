@@ -1,0 +1,178 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:desert",
+                            "decoration": "target_x",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Desert Map",
+                                "color": "yellow"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:ice",
+                            "decoration": "target_x",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Snowy Map",
+                                "color": "aqua"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:illager",
+                            "decoration": "mansion",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Pirate Map",
+                                "color": "dark_red"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:jungle",
+                            "decoration": "mansion",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Jungle Map",
+                                "color": "dark_green"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:ocean",
+                            "decoration": "monument",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Ocean Map",
+                                "color": "dark_aqua"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:portals",
+                            "decoration": "target_point",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Underground Map",
+                                "color": "dark_purple"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:ruins",
+                            "decoration": "target_x",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Ancient Map",
+                                "color": "dark_gray"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "spectral_seas:undead",
+                            "decoration": "target_x",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Creepy Map",
+                                "color": "gray"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "display": {
+        "title": "Diving Bells and Copper Shells",
+        "description": "Craft a complete diving suit",
+        "icon": {
+            "item": "hybrid-aquatic:diving_helmet"
+        },
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/sail_away",
+    "criteria": {
+        "helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "hybrid-aquatic:diving_helmet"
+                        ]
+                    }
+                ]
+            }
+        },
+        "boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "hybrid-aquatic:diving_boots"
+                        ]
+                    }
+                ]
+            }
+        },
+        "leggings": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "hybrid-aquatic:diving_leggings"
+                        ]
+                    }
+                ]
+            }
+        },
+        "suit": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "hybrid-aquatic:diving_suit"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "boots"
+        ],
+        [
+            "helmet"
+        ],
+        [
+            "leggings"
+        ],
+        [
+            "suit"
+        ]
+    ]
+}

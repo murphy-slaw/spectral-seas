@@ -1,0 +1,70 @@
+{
+    "display": {
+        "icon": {
+            "item": "smallships:mangrove_galley"
+        },
+        "title": "Fleet Commander",
+        "description": "Build one of every ship type",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/shipwright",
+    "criteria": {
+        "build_cog": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "smallships:cogs"
+                    }
+                ]
+            }
+        },
+        "build_brigg": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "smallships:briggs"
+                    }
+                ]
+            }
+        },
+        "build_drakkar": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "smallships:drakkars"
+                    }
+                ]
+            }
+        },
+        "build_galley": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "smallships:galleys"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "build_galley"
+        ],
+        [
+            "build_drakkar"
+        ],
+        [
+            "build_cog"
+        ],
+        [
+            "build_brigg"
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "display": {
+        "icon": {
+            "item": "spectrum:pigment_palette"
+        },
+        "title": "Flying Colors",
+        "description": "Decorate your ship with dye or a banner.",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/shipwright",
+    "criteria": {
+        "dye_sail": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "player": {
+                    "flags": {
+                        "is_sneaking": false
+                    }
+                },
+                "item": {
+                    "tag": "minecraft:dyes"
+                },
+                "entity": {
+                    "type": "#smallships:ships"
+                }
+            }
+        },
+        "fly_banner": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "player": {
+                    "flags": {
+                        "is_sneaking": false
+                    }
+                },
+                "item": {
+                    "tag": "minecraft:banners"
+                },
+                "entity": {
+                    "type": "#smallships:ships"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "dye_sail",
+            "fly_banner"
+        ]
+    ]
+}

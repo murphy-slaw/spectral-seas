@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "tridents_n_stuff:harpoon_launcher"
+        },
+        "title": "Master of the Hunt",
+        "description": "Obtain a Harpoon Launcher",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "spectral_seas:seamanship/neptunes_lance",
+    "criteria": {
+        "obtain_harpoon_launcher": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "tridents_n_stuff:harpoon_launcher"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

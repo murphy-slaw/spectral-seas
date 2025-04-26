@@ -1,0 +1,14 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:conduit_ruin",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "mvs:advanced_random_spread",
+		"spacing": 140,
+		"separation": 90,
+		"salt": 394
+	}
+}

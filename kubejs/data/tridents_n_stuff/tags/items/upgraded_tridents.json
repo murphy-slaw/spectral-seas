@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "tridents_n_stuff:frenzied_trident",
+        "tridents_n_stuff:ancient_trident",
+        "tridents_n_stuff:oceanic_trident",
+        "tridents_n_stuff:holy_trident",
+        "tridents_n_stuff:farshot_trident"
+    ]
+}

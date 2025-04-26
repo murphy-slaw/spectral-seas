@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:is_ocean",
+    {
+      "id": "#minecraft:is_deep_ocean",
+      "excluded": true
+    }
+  ]
+}

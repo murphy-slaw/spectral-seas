@@ -1,0 +1,10 @@
+{
+    "inheritFromItem": [
+        "hybrid-aquatic:diving_leggings"
+    ],
+    "addItem": [
+        "hybrid-aquatic:diving_helmet",
+        "hybrid-aquatic:diving_suit",
+        "hybrid-aquatic:diving_boots"
+    ]
+}

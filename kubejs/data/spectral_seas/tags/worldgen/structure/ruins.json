@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:ancient_city",
+        "mvs:ruins/castle_ruins",
+        "mvs:ruins/log_ruin",
+        "mvs:ruins/ruined_beacon",
+        "mvs:ruins/small_ruin",
+        "mvs:ruins/statue_ruins",
+        "mvs:ruins/stone_pillars",
+        "mvs:ruins/tree_monument",
+        "nova_structures:bunker",
+        "nova_structures:ruin_town"
+    ]
+}

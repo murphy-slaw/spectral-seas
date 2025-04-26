@@ -1,0 +1,146 @@
+[
+    {
+        "processor_type": "minecraft:rule",
+        "rules": [
+            {
+                "input_predicate": {
+                    "block": "minecraft:stone_bricks",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.1
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:cracked_stone_bricks"
+                }
+            },
+            {
+                "input_predicate": {
+                    "block": "minecraft:stone_bricks",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.40
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:mossy_stone_bricks"
+                }
+            },
+            {
+                "input_predicate": {
+                    "block": "minecraft:stone_bricks",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.01
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:air"
+                }
+            },
+            {
+                "input_predicate": {
+                    "block": "minecraft:stone_bricks",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.01
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:cobweb"
+                }
+            },
+            {
+                "input_predicate": {
+                    "block": "minecraft:lantern",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.75
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:air"
+                }
+            },
+            {
+                "input_predicate": {
+                    "block": "minecraft:wall_torch",
+                    "predicate_type": "minecraft:random_block_match",
+                    "probability": 0.75
+                },
+                "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                },
+                "output_state": {
+                    "Name": "minecraft:air"
+                }
+            }
+        ]
+    },
+    {
+        "processor_type": "lithostitched:condition",
+        "if_true": [
+            {
+                "type": "lithostitched:matching_blocks",
+                "blocks": "minecraft:stone_brick_stairs",
+                "properties": {
+                    "waterlogged": true
+                },
+                "match_type": "input"
+            }
+        ],
+        "then": {
+            "processor_type": "lithostitched:set_block",
+            "preserve_state": true,
+            "state_provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                    "Name": "minecraft:stone_brick_stairs",
+                    "Properties": {
+                        "waterlogged": false
+                    }
+                }
+            }
+        }
+    },
+    {
+        "processor_type": "lithostitched:condition",
+        "if_true": [
+            {
+                "type": "lithostitched:any_of",
+                "conditions": [
+                    {
+                        "type": "lithostitched:matching_blocks",
+                        "blocks": "minecraft:chest",
+                        "properties": {
+                            "type": "left"
+                        },
+                        "match_type": "input"
+                    },
+                    {
+                        "type": "lithostitched:matching_blocks",
+                        "blocks": "minecraft:chest",
+                        "properties": {
+                            "type": "right"
+                        },
+                        "match_type": "input"
+                    }
+                ]
+            }
+        ],
+        "then": {
+            "processor_type": "lithostitched:set_block",
+            "state_provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                    "Name": "spectral_seas:grave_dirt"
+                }
+            }
+        }
+    }
+]

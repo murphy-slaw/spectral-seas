@@ -1,0 +1,27 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "totw_reworked:ice/top",
+        "totw_reworked:ice/bottom"
+    ],
+    "processor_list": [
+        {
+            "processor_type": "lithostitched:block_swap",
+            "blocks": {
+                "minecraft:dark_prismarine_stairs": "galosphere:smooth_lumiere_stairs",
+                "minecraft:dark_prismarine": "galosphere:smooth_lumiere",
+                "minecraft:dark_prismarine_slab": "galosphere:smooth_lumiere_slab",
+                "minecraft:polished_andesite_stairs": "ecologics:snow_brick_stairs",
+                "minecraft:polished_andesite_slab": "ecologics:snow_brick_slab",
+                "minecraft:polished_andesite": "ecologics:snow_bricks",
+                "minecraft:andesite": "minecraft:snow_block",
+                "minecraft:smooth_stone": "ecologics:ice_bricks",
+                "minecraft:smooth_stone_stairs": "ecologics:ice_brick_stairs",
+                "minecraft:smooth_stone_slab": "ecologics:ice_brick_slab",
+                "minecraft:stone_brick_wall": "ecologics:ice_brick_wall",
+                "minecraft:lantern": "spectral-decorations:light_blue_lantern"
+            }
+        }
+    ],
+    "append": true
+}

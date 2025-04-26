@@ -1,0 +1,416 @@
+{
+  "fluids": {
+    "spectral_seas:potato_soup": {
+      "cauldrons": [
+        "potioncraft:potion_cauldron_block"
+      ]
+    },
+    "milk:still_milk": {
+      "cauldrons": [
+        "milk:milk_cauldron",
+        "potioncraft:potion_cauldron_block"
+      ]
+    }
+  },
+  "cauldrons": {
+    "milk:milk_cauldron": "milk:still_milk"
+  },
+  "inversions": [
+    {
+      "from": "speed",
+      "to": "slowness",
+      "mutual": true
+    },
+    {
+      "from": "jump_boost",
+      "to": "slow_falling",
+      "mutual": true
+    },
+    {
+      "from": "instant_health",
+      "to": "instant_damage",
+      "mutual": true
+    },
+    {
+      "from": "poison",
+      "to": "regeneration",
+      "mutual": true
+    },
+    {
+      "from": "night_vision",
+      "to": "blindness",
+      "mutual": true
+    },
+    {
+      "from": "strength",
+      "to": "weakness",
+      "mutual": true
+    }
+  ],
+  "heats": {
+    "campfire": 2,
+    "fire": 2,
+    "magma_block": 2,
+    "lava": 3,
+    "lava_cauldron": 3,
+    "snow": -1,
+    "snow_block": -1,
+    "powder_snow": -1,
+    "powder_snow_cauldron": -1,
+    "ice": -2,
+    "frosted_ice": -2,
+    "packed_ice": -3,
+    "blue_ice": -4
+  },
+  "templates": {
+    "use_if_fluid": {
+      "defaults": {
+        "fluids": "minecraft:water",
+        "sound": "item.bottle.empty",
+        "returned_item": 0,
+        "count": 1,
+        "min_level": 3,
+        "applyPotion": false
+      },
+      "effects": [
+        {
+          "id": "HAS_FLUID",
+          "quickfail": "PASS",
+          "params": {
+            "fluids": "@{fluids}"
+          }
+        },
+        {
+          "id": "MIN_LEVEL",
+          "quickfail": "PASS",
+          "params": {
+            "level": "@{min_level}"
+          }
+        },
+        {
+          "id": "USE_ITEM",
+          "quickfail": "PASS",
+          "params": {
+            "id": "@{returned_item}",
+            "count": "@{count}",
+            "applyPotion": "@{applyPotion}",
+            "sound": "@{sound}"
+          }
+        }
+      ]
+    },
+    "add_item_if_potato_soup": {
+      "effects": [
+        {
+          "id": "${use_if_fluid}",
+          "params": {
+            "fluids": [
+              "spectral_seas:potato_soup",
+              "spectral_seas:suspicious_chowder"
+            ]
+          }
+        },
+        {
+          "id": "SET_FLUID",
+          "quickfail": "PASS",
+          "params": {
+            "fluid": "spectral_seas:suspicious_chowder"
+          }
+        }
+      ]
+    },
+    "add_potion_if_potato_soup": {
+      "effects": [
+        "${add_item_if_potato_soup}",
+        {
+          "id": "ADD_POTION_EFFECT",
+          "quickfail": "PASS",
+          "params": {
+            "id": "@{potion}"
+          }
+        }
+      ]
+    }
+  },
+  "recipes": {
+    "potioncraft:potion_cauldron_block": {
+      "hybrid-aquatic:mahi": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "swiftness"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:flying_fish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "leaping"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:ratfish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "spectral_seas:shrinking_potion"
+            }
+          }
+        ]
+      },
+      "naturalist:catfish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "spectral_seas:growth_potion"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:flashlight_fish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "night_vision"
+            }
+          }
+        ]
+      },
+      "blaze_powder": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "strength"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:anemone": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "regeneration"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:stonefish": {
+        "potency": 1,
+        "effects": [
+          "${add_item_if_potato_soup}",
+          {
+            "id": "ADD_STATUS_EFFECT",
+            "quickfail": "PASS",
+            "params": {
+              "id": "slowness",
+              "duration": 400.0,
+              "amplifier": 2.0
+            }
+          },
+          {
+            "id": "ADD_STATUS_EFFECT",
+            "quickfail": "PASS",
+            "params": {
+              "id": "resistance",
+              "duration": 400.0,
+              "amplifier": 1.0
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:dragonfish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "slow_falling"
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:lionfish": {
+        "potency": 1,
+        "effects": [
+          {
+            "id": "${add_potion_if_potato_soup}",
+            "params": {
+              "potion": "poison"
+            }
+          }
+        ]
+      },
+      "minecraft:ink_sac": {
+        "potency": 1,
+        "effects": [
+          "${add_item_if_potato_soup}",
+          {
+            "id": "ADD_STATUS_EFFECT",
+            "quickfail": "PASS",
+            "params": {
+              "id": "blindness",
+              "duration": 200.0,
+              "amplifier": 1.0
+            }
+          }
+        ]
+      },
+      "hybrid-aquatic:uni": {
+        "potency": 1,
+        "effects": [
+          "${add_item_if_potato_soup}",
+          {
+            "id": "ADD_STATUS_EFFECT",
+            "quickfail": "PASS",
+            "params": {
+              "id": "nausea",
+              "duration": 200.0,
+              "amplifier": 1.0
+            }
+          }
+        ]
+      },
+      "minecraft:bowl": {
+        "effects": [
+          {
+            "id": "${use_if_fluid}",
+            "params": {
+              "fluids": "spectral_seas:suspicious_chowder",
+              "returned_item": "spectral_seas:suspicious_chowder",
+              "sound": "item.bottle.fill",
+              "applyPotion": true,
+              "min_level": 1
+            }
+          },
+          {
+            "id": "REMOVE_LEVEL",
+            "quickfail": "PASS"
+          }
+        ]
+      },
+      "arrow": {
+        "effects": [
+          {
+            "id": "${use_if_fluid}",
+            "params": {
+              "fluids": "spectral_seas:suspicious_chowder",
+              "returned_item": "tipped_arrow",
+              "count": 8,
+              "sound": "item.bottle.fill",
+              "applyPotion": true,
+              "min_level": 1
+            }
+          },
+          {
+            "id": "REMOVE_LEVEL",
+            "quickfail": "PASS"
+          }
+        ]
+      },
+      "fermented_spider_eye": {
+        "potency": 1,
+        "effects": [
+          "${use_if_fluid}",
+          {
+            "id": "INVERT_EFFECTS",
+            "quickfail": "PASS"
+          }
+        ]
+      }
+    },
+    "minecraft:cauldron": {
+      "milk_bucket": {
+        "effects": [
+          {
+            "id": "USE_ITEM",
+            "quickfail": "PASS",
+            "params": {
+              "id": "bucket"
+            }
+          },
+          {
+            "id": "ADD_LEVEL",
+            "params": {
+              "fluid": "milk:still_milk"
+            }
+          },
+          {
+            "id": "ADD_LEVEL"
+          },
+          {
+            "id": "ADD_LEVEL"
+          }
+        ]
+      },
+      "milk:milk_bottle": {
+        "effects": [
+          {
+            "id": "USE_ITEM",
+            "quickfail": "PASS",
+            "params": {
+              "id": "glass_bottle"
+            }
+          },
+          {
+            "id": "ADD_LEVEL",
+            "params": {
+              "fluid": "milk:still_milk"
+            }
+          }
+        ]
+      }
+    },
+    "milk:milk_cauldron": {
+      "poisonous_potato": {
+        "effects": [
+          {
+            "id": "HAS_LEVEL",
+            "params": {
+              "level": 3
+            }
+          },
+          {
+            "quickfail": "PASS",
+            "id": "HAS_HEAT",
+            "params": {
+              "heat": 2
+            }
+          },
+          {
+            "id": "SET_FLUID",
+            "quickfail": "PASS",
+            "params": {
+              "fluid": "spectral_seas:potato_soup"
+            }
+          },
+          {
+            "id": "ADD_STATUS_EFFECT",
+            "quickfail": "PASS",
+            "params": {
+              "id": "poison",
+              "duration": 150,
+              "amplifier": 3.0
+            }
+          }
+        ]
+      }
+    }
+  }
+}

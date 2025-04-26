@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": "Legend Awakened",
+        "description": "Obtain a Legendary Trident",
+        "icon": {
+            "item": "tridents_n_stuff:echo_of_the_deep"
+        },
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": true
+    },
+    "parent": "spectral_seas:seamanship/sleeping_legend",
+    "criteria": {
+        "awaken": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "tridents_n_stuff:stormseeker",
+                            "tridents_n_stuff:the_desecrator",
+                            "tridents_n_stuff:echo_of_the_deep",
+                            "tridents_n_stuff:stellaris",
+                            "tridents_n_stuff:sanguine_bond"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

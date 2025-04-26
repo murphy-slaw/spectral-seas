@@ -1,0 +1,6 @@
+{
+	"replace": true,
+	"inheritFromItem": [
+		"minecraft:golden_pickaxe"
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "totw_reworked:ocean_warm/top",
+        "totw_reworked:ocean_warm/bottom"
+    ],
+    "processor_list": [
+        {
+            "processor_type": "lithostitched:block_swap",
+            "blocks": {
+                "minecraft:dark_prismarine_stairs": "minecraft:prismarine_brick_stairs",
+                "minecraft:dark_prismarine": "minecraft:prismarine_bricks",
+                "minecraft:dark_prismarine_slab": "minecraft:prismarine_brick_slab",
+                "minecraft:polished_andesite_stairs": "minecraft:polished_diorite_stairs",
+                "minecraft:polished_andesite_slab": "minecraft:polished_diorite_slab",
+                "minecraft:polished_andesite": "minecraft:polished_diorite",
+                "minecraft:andesite": "minecraft:diorite",
+                "minecraft:lantern": "spectral-decorations:cyan_lantern"
+            }
+        }
+    ],
+    "append": true
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "smallships:sail"
+    },
+    "title": "One Sheet To The Wind",
+    "description": "Get your hands on a sail",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spectral_seas:seamanship/rigged",
+  "criteria": {
+    "obtain_sail": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "smallships:sail"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obtain_sail"
+    ]
+  ]
+}

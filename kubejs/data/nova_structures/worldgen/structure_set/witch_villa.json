@@ -1,0 +1,19 @@
+{
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "#mvs:common_avoid"
+    },
+    "salt": 3042970,
+    "separation": 20,
+    "spacing": 80,
+    "spread_type": "triangular"
+  },
+  "structures": [
+    {
+      "structure": "nova_structures:witch_villa",
+      "weight": 1
+    }
+  ]
+}

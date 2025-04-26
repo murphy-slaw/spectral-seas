@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:bedrock",
+    "minecraft:spawner",
+    "minecraft:chest",
+    "minecraft:end_portal_frame",
+    "minecraft:reinforced_deepslate",
+    "#minecraft:planks",
+    "#minecraft:wooden_stairs",
+    "#minecraft:logs",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_fences",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:wooden_doors"
+  ]
+}

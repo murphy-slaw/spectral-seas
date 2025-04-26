@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:mansion",
+        "mostructures:pillager_factory",
+        "nova_structures:illager_manor",
+        "nova_structures:witch_villa"
+    ]
+}

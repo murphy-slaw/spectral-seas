@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "smallships:cog",
+        "smallships:brigg",
+        "smallships:drakkar",
+        "smallships:galley"
+    ]
+}

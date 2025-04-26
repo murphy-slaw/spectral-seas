@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "tridents_n_stuff:bone_harpoon_entity",
+        "tridents_n_stuff:prismarine_harpoon_entity",
+        "tridents_n_stuff:diamond_harpoon_entity"
+    ]
+}

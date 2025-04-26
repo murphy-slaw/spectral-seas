@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:deepslate_portal",
+        "minecraft:dripstone_portal",
+        "minecraft:lush_portal"
+    ]
+}

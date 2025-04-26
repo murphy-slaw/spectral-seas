@@ -1,0 +1,40 @@
+{
+  "parent": "exposure:adventure/exposure",
+  "criteria": {
+    "get_photograph": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "exposure:photograph",
+              "exposure:aged_photograph",
+              "exposure:stacked_photographs"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "exposure:photograph"
+    },
+    "title": {
+      "translate": "advancement.exposure.moment_in_time.title"
+    },
+    "description": {
+      "translate": "advancement.exposure.moment_in_time.description"
+    }
+  },
+  "requirements": [
+    [
+      "get_photograph"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

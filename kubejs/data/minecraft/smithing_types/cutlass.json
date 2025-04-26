@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"simplyswords:iron_cutlass",
+		"simplyswords:diamond_cutlass",
+		"simplyswords:netherite_cutlass",
+		"simplyswords:runic_cutlass"
+	]
+}

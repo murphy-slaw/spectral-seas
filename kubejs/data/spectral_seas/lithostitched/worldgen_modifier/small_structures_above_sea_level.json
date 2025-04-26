@@ -1,0 +1,39 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": "#spectral_seas:small_above_sea_level",
+  "spawn_condition": {
+    "type": "lithostitched:grid",
+    "radius": 16,
+    "distance_between_points": 8,
+    "condition": {
+      "type": "lithostitched:any_of",
+      "conditions": [
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "heightmap_relative",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              -8,
+              8
+            ]
+          }
+        },
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "absolute",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              64,
+              240
+            ]
+          }
+        }
+      ]
+    },
+    "allowed_count": 0
+  }
+}

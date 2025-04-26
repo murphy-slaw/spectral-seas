@@ -1,0 +1,15 @@
+{
+  "type": "mvs:mvs_generic_jigsaw_structure",
+  "biomes": "#minecraft:has_structure/desert_pyramid",
+  "cannot_spawn_in_liquid": true,
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "start_pool": "kaisyn:other/desert_temple_mimic/pyramid_main",
+  "size": 7,
+  "start_height": {
+    "absolute": 35
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

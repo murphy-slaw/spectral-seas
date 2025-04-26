@@ -1,0 +1,34 @@
+{
+  "parent": "exposure:adventure/exposure",
+  "criteria": {
+    "use_interplanar_projector": {
+      "conditions": {
+        "exposure": {
+          "nbt": "{Projected:1b}"
+        }
+      },
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "exposure:interplanar_projector"
+    },
+    "title": {
+      "translate": "advancement.exposure.piercing_gaze.title"
+    },
+    "description": {
+      "translate": "advancement.exposure.piercing_gaze.description"
+    }
+  },
+  "requirements": [
+    [
+      "use_interplanar_projector"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,39 @@
+{
+    "display": {
+        "announce_to_chat": true,
+        "description": "Shoot a Mob with a Harpoon",
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "tridents_n_stuff:bone_harpoon"
+        },
+        "show_toast": true,
+        "title": "Thar She Blows"
+    },
+    "parent": "spectral_seas:seamanship/master_of_the_hunt",
+    "criteria": {
+        "shot_harpoon": {
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "direct_entity": {
+                            "type": "#tridents_n_stuff:harpoons"
+                        },
+                        "tags": [
+                            {
+                                "expected": true,
+                                "id": "minecraft:is_projectile"
+                            }
+                        ]
+                    }
+                }
+            },
+            "trigger": "minecraft:player_hurt_entity"
+        }
+    },
+    "requirements": [
+        [
+            "shot_harpoon"
+        ]
+    ]
+}

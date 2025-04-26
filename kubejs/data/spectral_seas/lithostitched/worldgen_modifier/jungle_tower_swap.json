@@ -1,0 +1,26 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "totw_reworked:jungle/top",
+        "totw_reworked:jungle/bottom"
+    ],
+    "processor_list": [
+        {
+            "processor_type": "lithostitched:block_swap",
+            "blocks": {
+                "minecraft:dark_prismarine_stairs": "galosphere:smooth_allurite_stairs",
+                "minecraft:dark_prismarine": "galosphere:smooth_allurite",
+                "minecraft:dark_prismarine_slab": "galosphere:smooth_allurite_slab",
+                "minecraft:polished_andesite_stairs": "minecraft:polished_granite_stairs",
+                "minecraft:polished_andesite_slab": "minecraft:polished_granite_slab",
+                "minecraft:polished_andesite": "minecraft:polished_granite",
+                "minecraft:andesite": "minecraft:granite",
+                "minecraft:smooth_stone": "galosphere:silver_panel",
+                "minecraft:smooth_stone_stairs": "galosphere:silver_panel_stairs",
+                "minecraft:smooth_stone_slab": "galosphere:silver_panel_slab",
+                "minecraft:lantern": "spectral-decorations:green_lantern"
+            }
+        }
+    ],
+    "append": true
+}

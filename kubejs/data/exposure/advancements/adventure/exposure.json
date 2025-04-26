@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "expose_frame": {
+      "conditions": {},
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "exposure:camera",
+      "nbt": "{Active:1b}"
+    },
+    "title": {
+      "translate": "advancement.exposure.exposure.title"
+    },
+    "description": {
+      "translate": "advancement.exposure.exposure.description"
+    }
+  },
+  "requirements": [
+    [
+      "expose_frame"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,71 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "nova_structures:undead_crypt",
+        "nova_structures:creeping_crypt/rooms"
+    ],
+    "processor_list": [
+        {
+            "processor_type": "lithostitched:condition",
+            "if_true": [
+                {
+                    "type": "lithostitched:matching_blocks",
+                    "blocks": "minecraft:stone_brick_stairs",
+                    "properties": {
+                        "waterlogged": true
+                    },
+                    "match_type": "input"
+                }
+            ],
+            "then": {
+                "processor_type": "lithostitched:set_block",
+                "preserve_state": true,
+                "state_provider": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "minecraft:stone_brick_stairs",
+                        "Properties": {
+                            "waterlogged": false
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "processor_type": "lithostitched:condition",
+            "if_true": [
+                {
+                    "type": "lithostitched:any_of",
+                    "conditions": [
+                        {
+                            "type": "lithostitched:matching_blocks",
+                            "blocks": "minecraft:chest",
+                            "properties": {
+                                "type": "left"
+                            },
+                            "match_type": "input"
+                        },
+                        {
+                            "type": "lithostitched:matching_blocks",
+                            "blocks": "minecraft:chest",
+                            "properties": {
+                                "type": "right"
+                            },
+                            "match_type": "input"
+                        }
+                    ]
+                }
+            ],
+            "then": {
+                "processor_type": "lithostitched:set_block",
+                "state_provider": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "spectral_seas:grave_dirt"
+                    }
+                }
+            }
+        }
+    ],
+    "append": true
+}

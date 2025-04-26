@@ -1,0 +1,48 @@
+{
+    "display": {
+        "announce_to_chat": true,
+        "description": "Shoot a Mob With a Scoped Musket…\nwhich is a real thing",
+        "frame": "challenge",
+        "hidden": true,
+        "icon": {
+            "item": "musketmod:musket_with_scope"
+        },
+        "show_toast": true,
+        "title": "Got Them In My Sights"
+    },
+    "parent": "spectral_seas:seamanship/the_long_arm",
+    "criteria": {
+        "shot_harpoon": {
+            "conditions": {
+                "player": {
+                    "equipment": {
+                        "mainhand": {
+                            "items": [
+                                "musketmod:musket_with_scope"
+                            ]
+                        }
+                    }
+                },
+                "damage": {
+                    "type": {
+                        "direct_entity": {
+                            "type": "musketmod:bullet"
+                        },
+                        "tags": [
+                            {
+                                "expected": true,
+                                "id": "minecraft:is_projectile"
+                            }
+                        ]
+                    }
+                }
+            },
+            "trigger": "minecraft:player_hurt_entity"
+        }
+    },
+    "requirements": [
+        [
+            "shot_harpoon"
+        ]
+    ]
+}

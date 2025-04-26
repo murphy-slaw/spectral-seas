@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        "wabi_sabi_structures:abandoned_small_castle",
+        "wabi_sabi_structures:bee_farm_forest",
+        "wabi_sabi_structures:bee_farm_cherry",
+        "wabi_sabi_structures:firewatch_tower",
+        "wabi_sabi_structures:hide_tannery_oak",
+        "wabi_sabi_structures:hide_tannery_cherry",
+        "wabi_sabi_structures:infested_castle",
+        "wabi_sabi_structures:concrete_mill_ruins_desert",
+        "wabi_sabi_structures:concrete_mill_ruins_shore",
+        "wabi_sabi_structures:llama_sanctuary_hills",
+        "wabi_sabi_structures:llama_sanctuary_plateau",
+        "wabi_sabi_structures:lumpy_tower",
+        "wabi_sabi_structures:old_stable",
+        "wabi_sabi_structures:tall_birch_house",
+        "wabi_sabi_structures:water_tower_forest",
+        "wabi_sabi_structures:water_tower_oak",
+        "wabi_sabi_structures:water_tower_savanna",
+        "wabi_sabi_structures:water_tower_spruce",
+        "wabi_sabi_structures:zen_chair_museum",
+        "nova_structures:wild_ruin",
+        "towns_and_towers:village_beach"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+	"inheritFromItem": [
+		"minecraft:golden_helmet"
+	],
+	"addItem": [
+		"minecraft:golden_horse_armor"
+	]
+}
