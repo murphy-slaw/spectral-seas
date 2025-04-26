@@ -951,11 +951,6 @@ hash = "0ca75bc4767b557cf66acf40826173c3a0a59d31f720c461789db7bc04ce791c"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/hopo-better-underwater-ruins.pw.toml"
-hash = "61b605d7b1d6e03c591d3af93ca502d002fb3b735c7125e12167ae50a34f2f68"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/blackstonier.json"
 hash = "0c200fa87a604d36f1bf758566a146837a3d9915e6dea39ea7852cc5df2c6872"
 
@@ -5326,7 +5321,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -5355,8 +5350,13 @@ hash = "447524944a1c5ed9a90f7eabac4bcf58e8f8eaa08e349f138df664128975a8cd"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
+metafile = true
+
+[[files]]
 file = "mods/horseman.pw.toml"
-hash = "2023163964fdb71a928b4823a096196716e4e0d083673a908cc7ab99344d81b1"
+hash = "a77ae02bac1f817a0eff887a5ac578292b1dfd0f6f28faa824b8000c329f2bf5"
 metafile = true
 
 [[files]]
@@ -5456,7 +5456,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b4f42a6d80526e217e9f0f9fa698f6ef81697b94880803bcd5a14dd284bcb4b6"
+hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
@@ -5921,7 +5921,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bea541cfe919d9fee2275295d7e5cd203fcba7aa2731c0f979961bd9a5fb3efb"
+hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
