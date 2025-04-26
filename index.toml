@@ -781,8 +781,8 @@ file = "config/paxi/datapack_load_order.json"
 hash = "a139cb4fb4e606d14e3ee40a5b14b2f7271be3793825062dde41b60444f2f5cc"
 
 [[files]]
-file = "config/paxi/datapacks/Filters/data/no_data_here"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/paxi/datapacks/Filters/data/minecraft/tags/items/nothing.json"
+hash = "489711deb6d620e83d3dd373268130b27115d3d1be943672f2eab8f656bfae80"
 
 [[files]]
 file = "config/paxi/datapacks/Filters/pack.mcmeta"
@@ -4867,7 +4867,7 @@ hash = "24d655e14048d6e6110e4fdfd01d94cad4b3b1c541798281fb8adb0a3452e92f"
 
 [[files]]
 file = "kubejs/startup_scripts/items/item_removals.js"
-hash = "9cf0ac7e832aaeb66241fc8f87e37f7d5b180c385292e9adcfaab1e03e2a0683"
+hash = "3507d9bb04bcb4ec30c23aa49eb52877d003414c22bc4b9feff38348aba804ff"
 
 [[files]]
 file = "kubejs/startup_scripts/items/ship_upgrades.js"
