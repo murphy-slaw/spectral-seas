@@ -5,7 +5,7 @@ ServerEvents.loaded(event => {
     let levelOW = event.server.getLevel('minecraft:overworld')
     let uniques = levelOW.persistentData.getCompound('uniqueItems')
     if (uniques.isEmpty()) {
-        JsonIO.read(UNIQUE_CONFIG)['uniqueItems'].forEach(itemId =>
+        JsonIO.read(UNIQUE_CONFIG).uniqueItems.forEach(itemId =>
             uniques.putInt(itemId, 0)
         )
         levelOW.persistentData.put('uniqueItems', uniques)

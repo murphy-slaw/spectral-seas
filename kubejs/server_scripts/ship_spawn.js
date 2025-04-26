@@ -4,6 +4,9 @@ const shipTypes = [
     'smallships:drakkar',
     'smallships:galley',
 ]
+function setSpawn(player, x, y, z) {
+    Utils.server.runCommand(`spawnpoint ${player.username} ${x} ${y} ${z}`)
+}
 
 PlayerEvents.tick(event => {
     const player = event.player
@@ -85,7 +88,3 @@ EntityEvents.death('minecraft:player', event => {
         }
     }
 })
-
-function setSpawn (player, x, y, z) {
-    Utils.server.runCommand(`spawnpoint ${player.username} ${x} ${y} ${z}`)
-}

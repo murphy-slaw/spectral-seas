@@ -5,6 +5,36 @@ const $AABB = Java.loadClass('net.minecraft.world.phys.AABB')
 // gross - Have to load class by intermediate name.
 const Monster = Java.class.forName('net.minecraft.class_1588')
 
+function getSleepProblem(event, bedPos) {
+
+    if (!event.level.dimensionType().natural()) {
+        return $BedSleepingProblem.NOT_POSSIBLE_HERE
+    } else if (event.level.isDay()) {
+        return $BedSleepingProblem.NOT_POSSIBLE_NOW
+    } else {
+        let vec3 = Vec3d.atBottomCenterOf(bedPos)
+        if (
+            !event.level
+                .getEntitiesOfClass(
+                    Monster,
+                    new $AABB(
+                        vec3.x() - 8.0,
+                        vec3.y() - 5.0,
+                        vec3.z() - 8.0,
+                        vec3.x() + 8.0,
+                        vec3.y() + 5.0,
+                        vec3.z() + 8.0
+                    ),
+                    monster => monster.isPreventingPlayerRest(event.player)
+                )
+                .isEmpty()
+        ) {
+            return $BedSleepingProblem.NOT_SAFE
+        }
+    }
+    return null
+}
+
 ItemEvents.entityInteracted(event => {
     if (
         !(
@@ -49,34 +79,6 @@ ItemEvents.entityInteracted(event => {
  * @param {BlockPos} bedPos
  * @returns {Internal.Player$BedSleepingProblem}
  */
-function getSleepProblem (event, bedPos) {
-    if (!event.level.dimensionType().natural()) {
-        return $BedSleepingProblem.NOT_POSSIBLE_HERE
-    } else if (event.level.isDay()) {
-        return $BedSleepingProblem.NOT_POSSIBLE_NOW
-    } else {
-        let vec3 = Vec3d.atBottomCenterOf(bedPos)
-        if (
-            !event.level
-                .getEntitiesOfClass(
-                    Monster,
-                    new $AABB(
-                        vec3.x() - 8.0,
-                        vec3.y() - 5.0,
-                        vec3.z() - 8.0,
-                        vec3.x() + 8.0,
-                        vec3.y() + 5.0,
-                        vec3.z() + 8.0
-                    ),
-                    monster => monster.isPreventingPlayerRest(event.player)
-                )
-                .isEmpty()
-        ) {
-            return $BedSleepingProblem.NOT_SAFE
-        }
-    }
-    return null
-}
 
 FabricAddedEvents.stopSleeping(event => {
     // Now we remove the fake bed!

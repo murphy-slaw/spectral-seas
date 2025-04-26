@@ -4320,6 +4320,10 @@ file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/s
 hash = "e9b456c2dc835fc811d328355d9b8a3cd699f453ce9f254eef6fd5e1b2594360"
 
 [[files]]
+file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure/spider_cellar.json"
+hash = "89ad23c5f03ed63ca863e3340a181ed474c31160ab4d848b86f5d790b413c131"
+
+[[files]]
 file = "config/paxi/datapacks/spectral_seas/data/wabi_sabi_structures/worldgen/structure_set/beetroot_patch.json"
 hash = "5b46fa642eeb925aa36ab77a5c33bfdbeff18f9a83493cb079e27eb6fdaf51f1"
 
@@ -4755,7 +4759,7 @@ hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
 
 [[files]]
 file = "kubejs/server_scripts/clear_grave.js"
-hash = "c019fe89d10908a2f8d911871c9b4b7991f70d67806ad9f084a967e9c35a1ac2"
+hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
 
 [[files]]
 file = "kubejs/server_scripts/food/suspicious_chowder.js"
@@ -4791,15 +4795,15 @@ hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
 
 [[files]]
 file = "kubejs/server_scripts/ship_sleep.js"
-hash = "d1f7778efe64e3d639cb429d7da21f962a0a2fe763ad9b6c032e8769de1b0438"
+hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
 
 [[files]]
 file = "kubejs/server_scripts/ship_spawn.js"
-hash = "97677b593543b33c50d2dc47fa4f809336e9dd0eb93b41bd8c6c16d2dad5ba3b"
+hash = "41bbbcd1caa4113f4846fd1cef75bb01351a4faaddb64640945529d6122c0ae9"
 
 [[files]]
 file = "kubejs/server_scripts/ship_upgrades.js"
-hash = "90fdb6b418f0e9c04625014e5b78f77523cb5674ee58037b31967150cb59975f"
+hash = "9ac452822c580f51c0f5f5be90fb26cb987ce83c567861fe8253fc90c5c73a62"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_distance.js"
@@ -4815,11 +4819,11 @@ hash = "1856a2a75ea8be87a61789a94a0da34adee058cd4a3823bbf0365df07f6de78a"
 
 [[files]]
 file = "kubejs/server_scripts/turtle_helmet.js"
-hash = "c0a86f709d32359a9e1c75814889a2e8d0d8fb6b84f8422970270cba7e9e0421"
+hash = "6dd736c7524e9dd139045aa6cc7c89e51fea2252f0cf809a65d74ddfaed1495e"
 
 [[files]]
 file = "kubejs/server_scripts/unique_items.js"
-hash = "3e686cfaf429e349c61b4177c193462cf8487e51919116555a77071c483a8067"
+hash = "7773427e03497646cb8958d541da47dd6614e84fff3afd1c50b2b621eddec521"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
