@@ -1,10 +1,5 @@
 {
-  "structures": [
-    {
-      "structure": "mostructures:big_pyramid",
-      "weight": 1
-    }
-  ],
+  "structures": [],
   "placement": {
     "type": "mvs:advanced_random_spread",
     "super_exclusion_zone": {

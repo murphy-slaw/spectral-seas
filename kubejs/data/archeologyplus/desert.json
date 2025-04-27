@@ -1,0 +1,30 @@
+{
+  "structures": [
+    {
+      "structure": "archeologyplus:bone_desert",
+      "weight": 20
+    },
+    {
+      "structure": "archeologyplus:small_ruins_desert",
+      "weight": 30
+    },
+    {
+      "structure": "archeologyplus:medium_ruins_desert",
+      "weight": 30
+    },
+    {
+      "structure": "archeologyplus:monolith_desert",
+      "weight": 35
+    },
+    {
+      "structure": "archeologyplus:fallen_monolith_desert",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "salt": 22090612,
+    "spacing": 20,
+    "separation": 14,
+    "type": "minecraft:random_spread"
+  }
+}

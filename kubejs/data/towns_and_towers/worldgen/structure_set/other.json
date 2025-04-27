@@ -1,10 +1,5 @@
 {
-  "structures": [
-    {
-      "structure": "towns_and_towers:mimic_desert",
-      "weight": 1
-    }
-  ],
+  "structures": [],
   "placement": {
     "salt": 30084234,
     "spacing": 32,

@@ -1,0 +1,38 @@
+{
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "#mvs:common_avoid"
+    },
+    "salt": 14357617,
+    "separation": 10,
+    "spacing": 32
+  },
+  "structures": [
+    {
+      "structure": "minecraft:desert_pyramid",
+      "weight": 10
+    },
+    {
+      "structure": "archeologyplus:desert_temple",
+      "weight": 2
+    },
+    {
+      "structure": "nova_structures:desert_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "philipsruins:desert_structures",
+      "weight": 2
+    },
+    {
+      "structure": "mostructures:big_pyramid",
+      "weight": 1
+    },
+    {
+      "structure": "towns_and_towers:mimic_desert",
+      "weight": 1
+    }
+  ]
+}

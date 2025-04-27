@@ -3,10 +3,6 @@
     {
       "structure": "philipsruins:badlands_structures",
       "weight": 1
-    },
-    {
-      "structure": "philipsruins:desert_structures",
-      "weight": 1
     }
   ],
   "placement": {

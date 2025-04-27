@@ -1,4 +1,3 @@
-List of all entries for registry minecraft:worldgen/structure:
 archeologyplus:bone_desert
 archeologyplus:desert_temple
 archeologyplus:digsite_forest
@@ -7,7 +6,7 @@ archeologyplus:medium_ruins_desert
 archeologyplus:monolith_desert
 archeologyplus:small_ruins_desert
 archeologyplus:statue_jungle
-betteroceanmonuments:ocean_monument
+Betteroceanmonuments:ocean_monument
 betterstrongholds:stronghold
 formationsoverworld:bamboo_hut
 formationsoverworld:campsite
@@ -55,6 +54,7 @@ forsaken:wells/rustic/dark_oak
 forsaken:wells/rustic/oak
 forsaken:wells/rustic/spruce
 forsaken:wells/washhouse
+galosphere:pink_salt_shrine
 hopo:piglin_ruin
 hopo:portal
 hopo:portal_deepslate
@@ -64,15 +64,23 @@ hopo:underwater_city
 hopo:underwater_fossils
 hopo:underwater_small_ruins
 hopo:underwater_warm_small_ruins
+hopo:underwater/underwater_city
+hopo:underwater/underwater_fossils
+hopo:underwater/underwater_small_ruins
+hopo:underwater/underwater_warm_small_ruins
 joshie:monolith
 lord:hallway_dungeon
+minecraft:ancient_city
 minecraft:bastion_remnant
 minecraft:buried_treasure
+minecraft:deepslate_portal
 minecraft:desert_pyramid
+minecraft:dripstone_portal
 minecraft:end_city
 minecraft:fortress
 minecraft:igloo
 minecraft:jungle_pyramid
+minecraft:lush_portal
 minecraft:mansion
 minecraft:mineshaft
 minecraft:mineshaft_mesa
@@ -98,6 +106,7 @@ minecraft:village_plains
 minecraft:village_savanna
 minecraft:village_snowy
 minecraft:village_taiga
+mostructures:air_balloon
 mostructures:barn_house
 mostructures:big_pyramid
 mostructures:desert_abandoned_church
@@ -303,8 +312,15 @@ nova_structures:well_savana
 nova_structures:well_spruce
 nova_structures:wild_ruin
 nova_structures:witch_villa
+philipsruins:ancient_dungeon
+philipsruins:ancient_ruins
+philipsruins:ancient_towers
+philipsruins:antiquus_crypta
+philipsruins:badlands_start_dungeon
 philipsruins:badlands_structures
+philipsruins:bone_dungeon
 philipsruins:desert_structures
+philipsruins:end_gate_fortress
 philipsruins:end_ruins
 philipsruins:field_stone_ruins
 philipsruins:field_stone_ruins_rocks
@@ -312,10 +328,15 @@ philipsruins:level_one_ruins
 philipsruins:level_three_ruins
 philipsruins:level_two_ruins
 philipsruins:level_two_ruins_pool
-philipsruins:lost_soul_city
-philipsruins:lost_soul_dungeon
+philipsruins:nether_lava_ruins
 philipsruins:ocean_fortress
 philipsruins:ocean_ruins
+philipsruins:pumpkin_ruins
+philipsruins:rare_ruin
+philipsruins:sculk_dungeon
+philipsruins:sealedruinedghaststatue1
+philipsruins:start_nether_dungeon
+philipsruins:start_nether_ruin
 philipsruins:underground_structures
 revamped_shipwrecks:shipwreck
 revamped_shipwrecks:shipwreck_beached
@@ -382,7 +403,7 @@ towns_and_towers:village_sunflower_plains
 towns_and_towers:village_swamp
 towns_and_towers:village_wooded_badlands
 towns_and_towers:wreckage_ocean
-wabi_sabi_structures:abandoned_small_castle mostructures:air_balloon minecraft:ancient_city
+wabi_sabi_structures:abandoned_small_castle
 wabi_sabi_structures:badlands_dwelling
 wabi_sabi_structures:bamboo_firework_site
 wabi_sabi_structures:basalt_castle
@@ -458,5 +479,3 @@ wabi_sabi_structures:water_tower_spruce
 wabi_sabi_structures:wheat_patch
 wabi_sabi_structures:woody_camp
 wabi_sabi_structures:zen_chair_museum
-Total: 467 entries
-
