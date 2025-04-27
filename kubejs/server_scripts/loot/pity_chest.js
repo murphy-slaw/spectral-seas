@@ -8,8 +8,11 @@ function addPityDrops (event, lootTable, chance, lootCallback) {
         .addLootTableModifier(lootTable)
         .playerPredicate(player => {
             let counts = player.persistentData.getCompound('ChestLootCounts')
-            counts[lootTable] ? counts[lootTable]++ : (counts[lootTable] = 1)
+            if (counts.lootTable) {
+                counts.lootTable += 1
+            } else counts.lootTable = 1
             player.persistentData.put('ChestLootCounts', counts)
+
             let roll = Utils.getRandom().nextInt(chance)
             console.infof('Roll: %s Score: %s', roll, counts[lootTable])
             return counts[lootTable] > roll
