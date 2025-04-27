@@ -1,0 +1,9 @@
+{
+    "advancement": "spectrum:midgame/build_enchanting_structure",
+    "items": {
+        "spectrum:gilded_book": "spectral_seas:incomprehensible_book"
+    },
+    "item_name_replacements": {
+        "spectrum:gilded_book": "Incomprehensible Book"
+    }
+}
