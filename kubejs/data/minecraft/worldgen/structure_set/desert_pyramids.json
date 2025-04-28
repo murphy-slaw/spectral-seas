@@ -6,17 +6,17 @@
       "other_set": "#mvs:common_avoid"
     },
     "salt": 14357617,
-    "separation": 10,
-    "spacing": 32
+    "separation": 8,
+    "spacing": 20
   },
   "structures": [
     {
       "structure": "minecraft:desert_pyramid",
-      "weight": 10
+      "weight": 4
     },
     {
       "structure": "archeologyplus:desert_temple",
-      "weight": 2
+      "weight": 1
     },
     {
       "structure": "nova_structures:desert_ruins",

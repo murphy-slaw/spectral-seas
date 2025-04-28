@@ -1394,6 +1394,10 @@ file = "kubejs/client_scripts/antique_atlas.js"
 hash = "a303130dcca4e4a49a2b30421cc634125095c75ae7ee43690ca9e2d704e19c07"
 
 [[files]]
+file = "kubejs/client_scripts/incomprehensible_book.js"
+hash = "7a33c9acad35186dfcf5ab7630ebe2d92d558827fee601bcbb8f5ef7a5326d7a"
+
+[[files]]
 file = "kubejs/client_scripts/open_map.js"
 hash = "e198a13a39d34f7bcbfdf9c1764e05f111ac531490bbad107a58026862068319"
 
@@ -1436,6 +1440,10 @@ hash = "1857c0b4bb35ec3f0c13d31e14f710731923b8bafeafbe5eb5f664e0d8589498"
 [[files]]
 file = "kubejs/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
 hash = "020fd74e17d35f81bef2857f68f23bd464e75d95b5885464cf361a325528d08a"
+
+[[files]]
+file = "kubejs/data/archeologyplus/desert.json"
+hash = "b34fe4137bedcbe258674b1cccfed9495ec6e29c6e7a36aa0d0103cf23b831bd"
 
 [[files]]
 file = "kubejs/data/armorful/loot_tables/entities/illager_chestplate.json"
@@ -1496,6 +1504,10 @@ hash = "3cd2964085b6c5f78e3bcde1f0e80acadc58f732386351bee2448295980451fd"
 [[files]]
 file = "kubejs/data/enchant_faker/tags/mob_effect/gives_aqua_affinity.json"
 hash = "37b69ef1b6a44ca0ea38208a1da1b57875063e374240f82721b73e3f083b4923"
+
+[[files]]
+file = "kubejs/data/enchantmentdisabletag/tags/enchantment/disabled.json"
+hash = "7443e98a6b62efc315ab73e2ec8ad95b1390779f42ac2099580d3546758bb502"
 
 [[files]]
 file = "kubejs/data/exposure/advancements/adventure/composite_confounded_compound.json"
@@ -2562,6 +2574,10 @@ file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
 hash = "3684efbe9627d9e419bfe123b5eee4824cfd7837ca1d883eb9ee59062d17b6b4"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/desert_pyramids.json"
+hash = "feb7c9dc496d0286e652cbe8eb2998ca654a4be9361a105e8146e0830e588894"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/pillager_outposts.json"
 hash = "1e683a7b02f44ebf3b26b1810c3e3ea60c0594b4d89016bf881a71f474cdc027"
 
@@ -2955,7 +2971,7 @@ hash = "435fee7cef56163b221d145acbe11c250313b659de5c7af14f5d8fee9a0a5ce4"
 
 [[files]]
 file = "kubejs/data/mostructures/worldgen/structure_set/big_pyramid.json"
-hash = "1845d16c20f00156644d480769d63857a46438b63cbf037727da72ab596ba58c"
+hash = "7ba4bf3052977ceb90aab0d48fccbe7aa02f7e43b78757a15c83918738b45384"
 
 [[files]]
 file = "kubejs/data/mostructures/worldgen/structure_set/ice_tower.json"
@@ -3895,7 +3911,7 @@ hash = "df176e6b1460999f0aa359f6ffe4b74ea96a4bf774632e0e81cbe03cad295109"
 
 [[files]]
 file = "kubejs/data/nova_structures/worldgen/structure_set/desert_ruins.json"
-hash = "4e4fc85334b8ac2faaa14c741789dbedbbc0ed4688c54a36382f41af74f7f801"
+hash = "192b62000e44fc5455e1a93b786df0aff15b7b1fd3ceac6d08de77955ba5a28c"
 
 [[files]]
 file = "kubejs/data/nova_structures/worldgen/structure_set/illager_hideout.json"
@@ -4119,7 +4135,7 @@ hash = "ee21b78164d55566732e5b8d3617b056e1e406a439e4a7d3142f9cf6c7a7d20a"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/desert_structures.json"
-hash = "6e2eba8a067f1737e636474f5a9d701d0f66b65cf41e3af3ffe7a2e6ec9874aa"
+hash = "1d2ba6db1a464071293c1a3129906ed756078d7ccea5f6cdc92860de0ccb9461"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/end_ruins.json"
@@ -4311,7 +4327,7 @@ hash = "d2f7e733a874a3352b0449a0c86adcca64860d516e95001ac475a9551751fdcf"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_ruin_placement.json"
-hash = "42fb70e3078a2cd56c4813815cf7879f6aa1d6da711349e4ed114eba99467ee2"
+hash = "f0ae0ef18b52bc7c182fc5d26cafb0a31fbe732f476cb47c512ca4bed014e5ef"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_tavern_placement.json"
@@ -4384,6 +4400,10 @@ hash = "bccb2c4b2b7da22d04fc002b33afab49f53e0abf99c414ce2dd9ae0cce140e45"
 [[files]]
 file = "kubejs/data/spectral_seas/loot_tables/chests/preservation_map.json"
 hash = "7da9be72e5975fddd88f4e9bdf9b645eb63a02ea7b0bfbeac9feb6e8044968b0"
+
+[[files]]
+file = "kubejs/data/spectral_seas/revelations/gilded_book.json"
+hash = "dfba5a5518ffe1350fbb6a8c624148e2eda0bf3e41a022f5744c3f059796b8ef"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/items/diamond_weapon.json"
@@ -4619,7 +4639,7 @@ hash = "543923dc768723b830c2023cc87620585a78b4310c96d9577f29c4f92823f452"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure_set/other.json"
-hash = "6222bb08956cc6175e94ad643a347f2a24e54884f8a13b458140d61c6e9e0018"
+hash = "0a12d0098074377f868842bdd25d0a0ae54c283a957843ad53d8d929ee25dc03"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure_set/towers.json"
@@ -4758,28 +4778,64 @@ file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
-file = "kubejs/server_scripts/broken.js"
-hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
-
-[[files]]
-file = "kubejs/server_scripts/clear_grave.js"
-hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
-
-[[files]]
 file = "kubejs/server_scripts/food/suspicious_chowder.js"
 hash = "208c90f237651f4d3d9717f727120e1bf3eecdabd292faaaea48926db25d9c14"
 
 [[files]]
-file = "kubejs/server_scripts/grave_dirt_loot.js"
+file = "kubejs/server_scripts/item/broken.js"
+hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
+
+[[files]]
+file = "kubejs/server_scripts/item/incomprehensible_book.js"
+hash = "358f8c83ba8d0542c3a15c3dc67489858d51cf88ccdf49612509a55699ffe3ab"
+
+[[files]]
+file = "kubejs/server_scripts/item/turtle_helmet.js"
+hash = "6dd736c7524e9dd139045aa6cc7c89e51fea2252f0cf809a65d74ddfaed1495e"
+
+[[files]]
+file = "kubejs/server_scripts/level_load_test.js"
+hash = "aa7b33c5dfa891964299179770f902e2ac683cc906d75ee344820338765cbbf5"
+
+[[files]]
+file = "kubejs/server_scripts/loot/grave_dirt_loot.js"
 hash = "58ae109fdee11cdf61500891e9c320e8b184ef023696316e919981a21167b55f"
 
 [[files]]
-file = "kubejs/server_scripts/map_to_atlas.js"
+file = "kubejs/server_scripts/loot/pity_chest.js"
+hash = "e6128bee577da6fa89de47034fec87f6c5d22887214343c9fb186003ca54f7f5"
+
+[[files]]
+file = "kubejs/server_scripts/loot/replace_enchanted_books.js"
+hash = "02238246be245b92ad21af48e4148ebf67e89447a2ce9fa39929dd39b480843d"
+
+[[files]]
+file = "kubejs/server_scripts/loot/unique_items.js"
+hash = "7773427e03497646cb8958d541da47dd6614e84fff3afd1c50b2b621eddec521"
+
+[[files]]
+file = "kubejs/server_scripts/map/clear_grave.js"
+hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
+
+[[files]]
+file = "kubejs/server_scripts/map/map_to_atlas.js"
 hash = "73ee93c2a454f35beced34689fc0eb02802732f663945db477c202cf0fe9ccd2"
 
 [[files]]
-file = "kubejs/server_scripts/pity_chest.js"
-hash = "59db6e4c3a1ff6109608e2770cad8b3482c8ab467f6c9098fbb378d90bcad13a"
+file = "kubejs/server_scripts/mobs/sea_monster.js"
+hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
+
+[[files]]
+file = "kubejs/server_scripts/mobs/spawn_replacements.js"
+hash = "3714f1e9656579be9059741a6a2ac96b6a04a58d390e07d59d816d41e41f99b4"
+
+[[files]]
+file = "kubejs/server_scripts/player/spawn_distance.js"
+hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
+
+[[files]]
+file = "kubejs/server_scripts/player/starter_kit.js"
+hash = "1856a2a75ea8be87a61789a94a0da34adee058cd4a3823bbf0365df07f6de78a"
 
 [[files]]
 file = "kubejs/server_scripts/pull_globals.js"
@@ -4794,40 +4850,24 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
-file = "kubejs/server_scripts/sea_monster.js"
-hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
-
-[[files]]
-file = "kubejs/server_scripts/ship_sleep.js"
+file = "kubejs/server_scripts/ship/ship_sleep.js"
 hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
 
 [[files]]
-file = "kubejs/server_scripts/ship_spawn.js"
+file = "kubejs/server_scripts/ship/ship_spawn.js"
 hash = "41bbbcd1caa4113f4846fd1cef75bb01351a4faaddb64640945529d6122c0ae9"
 
 [[files]]
-file = "kubejs/server_scripts/ship_upgrades.js"
+file = "kubejs/server_scripts/ship/ship_upgrades.js"
 hash = "9ac452822c580f51c0f5f5be90fb26cb987ce83c567861fe8253fc90c5c73a62"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_distance.js"
-hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
+file = "kubejs/server_scripts/structure_load.js"
+hash = "e16fb0de3f9e9da188f32326b392ab55d41d36ac5b3f8235fbc98b00112901d7"
 
 [[files]]
-file = "kubejs/server_scripts/spawn_replacements.js"
-hash = "3714f1e9656579be9059741a6a2ac96b6a04a58d390e07d59d816d41e41f99b4"
-
-[[files]]
-file = "kubejs/server_scripts/starter_kit.js"
-hash = "1856a2a75ea8be87a61789a94a0da34adee058cd4a3823bbf0365df07f6de78a"
-
-[[files]]
-file = "kubejs/server_scripts/turtle_helmet.js"
-hash = "6dd736c7524e9dd139045aa6cc7c89e51fea2252f0cf809a65d74ddfaed1495e"
-
-[[files]]
-file = "kubejs/server_scripts/unique_items.js"
-hash = "7773427e03497646cb8958d541da47dd6614e84fff3afd1c50b2b621eddec521"
+file = "kubejs/server_scripts/structure_map.js"
+hash = "e7e1af0113dc59142ee6653558769dd35b762e1505fa38e49728de6141d64fe2"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
@@ -4846,6 +4886,14 @@ file = "kubejs/startup_scripts/effects/size.js"
 hash = "0c295aeccbf6bfea46183bc9a5f9eb66e673a76d681e69226ec82a1ba76ea183"
 
 [[files]]
+file = "kubejs/startup_scripts/effects/water_speed.js"
+hash = "441036d73db28f8bcda7dc0cd280100b3835aa2dc13db727b6ebbc719b327345"
+
+[[files]]
+file = "kubejs/startup_scripts/entities/sea_monster.js"
+hash = "b08fc8743439bc2225f4ac52dc9b8bc96b579344a586e70f1659db29bf12ceb4"
+
+[[files]]
 file = "kubejs/startup_scripts/entities/turtle.js"
 hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
 
@@ -4860,6 +4908,10 @@ hash = "defebdffaa1cfbf568c28703292f3e9acfd7852711ee38c017add4820820d584"
 [[files]]
 file = "kubejs/startup_scripts/items/fishermans_resin.js"
 hash = "85847f15602577f50c0ff6a72f793e5d5a082885a875f31ca5e3fc0c07e6be32"
+
+[[files]]
+file = "kubejs/startup_scripts/items/incomprehensible_book.js"
+hash = "ae40a2e6317c24995728fb6ea17836fb0b7964d45c9aa502de672499c7b88ff5"
 
 [[files]]
 file = "kubejs/startup_scripts/items/item_counts.js"
@@ -5185,6 +5237,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "562023ea804612d2c219b899d99d6006c32249476a34ceb45e5c75a45a13d06b"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disable-tag.pw.toml"
+hash = "5df6bae261292213ce1a0525fa95465ba97e778ab5a68841766e91741a49775a"
 metafile = true
 
 [[files]]
@@ -5590,6 +5647,11 @@ metafile = true
 [[files]]
 file = "mods/morejeiinfo.pw.toml"
 hash = "911d820fa87bedf329376afe66e86334531e1852b596bfef7cb18b110f791a0c"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
 metafile = true
 
 [[files]]
@@ -8408,6 +8470,10 @@ hash = "2e15843432d7f0db97d3e8c3ab4ae3bae83d8f7ece8417aa67580b36062e26ca"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/item/fishermans_resin.png"
 hash = "5fa8adba83db89f05b3974a86621fc36fb31e8345f0fda7233ef4da714840c12"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/item/incomprehensible_book.png"
+hash = "9b859ee2fb6956f92b0b479d13309578d2c7d3092c9eb2f5463ece8b99832ce8"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/item/mushroom_stew.png"

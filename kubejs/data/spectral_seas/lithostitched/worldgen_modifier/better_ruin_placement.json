@@ -1,27 +1,50 @@
 {
   "type": "lithostitched:set_structure_spawn_condition",
   "structures": [
+    "archeologyplus:desert_temple",
+    "minecraft:desert_pyramid",
+    "towns_and_towers:mimic_desert",
+    "mostructures:big_pyramid",
+    "nova_structures:desert_ruins",
+    "nova_structures:wild_ruin",
+    "philipsruins:desert_structures",
     "philipsruins:level_one_ruins",
-    "philipsruins:level_two_ruins",
-    "philipsruins:level_two_ruins_pool",
     "philipsruins:level_three_ruins",
-    "nova_structures:wild_ruin"
+    "philipsruins:level_two_ruins_pool",
+    "philipsruins:level_two_ruins"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",
-    "radius": 16,
-    "distance_between_points": 8,
+    "radius": 20,
+    "distance_between_points": 16,
     "condition": {
-      "type": "lithostitched:not",
-      "condition": {
-        "type": "lithostitched:height_filter",
-        "range_type": "absolute",
-        "heightmap": "WORLD_SURFACE_WG",
-        "permitted_range": [
-          65,
-          240
-        ]
-      }
+      "type": "lithostitched:any_of",
+      "conditions": [
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "heightmap_relative",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              -8,
+              8
+            ]
+          }
+        },
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "absolute",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              64,
+              160
+            ]
+          }
+        }
+      ]
     },
     "allowed_count": 0
   }
