@@ -18,7 +18,7 @@ hash = "fcb77087dd0a5eafa32bb606514a9900f47b68f9f652db6b52fc5abc68916628"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "78a354488d17bf30830d03cebb74676e6f60fd9597df444abd422ceba59002a1"
+hash = "eebe35959c5b30d1da368e8733715d48ceccf9adf72f02ef9a63b9f3b7dd80cc"
 
 [[files]]
 file = "config/ModernUI/common.toml"
@@ -786,7 +786,7 @@ hash = "489711deb6d620e83d3dd373268130b27115d3d1be943672f2eab8f656bfae80"
 
 [[files]]
 file = "config/paxi/datapacks/Filters/pack.mcmeta"
-hash = "ac3a6f57899ffb2dc97b09b68407105f8f8e1c0f060ea2cc0228294abacfae8c"
+hash = "da47a4175882934fd549a1bc90f90af9bb669490f404c19448171226289492c3"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/41/data/minecraft/worldgen/configured_feature/beach_cypress.json"
@@ -951,11 +951,6 @@ hash = "6d749ce7c019a60c51c334e455b3286d90bd58e954ee2bb3070c5fa76066f980"
 [[files]]
 file = "config/paxi/datapacks/dungeons-and-taverns.pw.toml"
 hash = "6d7601f2b5bfd710459c5c273c514bede346bc84c8f42b8852b1372dfacad32b"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/forgotten-hallways.pw.toml"
-hash = "0ca75bc4767b557cf66acf40826173c3a0a59d31f720c461789db7bc04ce791c"
 metafile = true
 
 [[files]]
@@ -1507,7 +1502,7 @@ hash = "37b69ef1b6a44ca0ea38208a1da1b57875063e374240f82721b73e3f083b4923"
 
 [[files]]
 file = "kubejs/data/enchantmentdisabletag/tags/enchantment/disabled.json"
-hash = "7443e98a6b62efc315ab73e2ec8ad95b1390779f42ac2099580d3546758bb502"
+hash = "6e2029c9f2b6157c22ed84096aa721df7ec6e45d11aa3f522d396862667b979b"
 
 [[files]]
 file = "kubejs/data/exposure/advancements/adventure/composite_confounded_compound.json"
@@ -1664,74 +1659,6 @@ hash = "0e284429a589b5756699069f4f69eb7c229bbf37fb1ec68fddea8f5a0aca1814"
 [[files]]
 file = "kubejs/data/guardvillagers/loot_tables/entities/guard_off_hand.json"
 hash = "d77070550877ff7341cd8a9b08a8824c0e5e0221d5da5724bcd66b6e96310a8a"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/piglin_ruin.json"
-hash = "a071d77faff73a18efd8ff2ded356104e74a0aa693b089ac4fe08c9b3d5777d6"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/portal_deepslate.json"
-hash = "0035db8fc9f2b77b6d897700f6f8d1968cfb190ebcd3c7da762801b5365ecce9"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/portal_dripstone.json"
-hash = "460d7ecd2e5bd421dd3bef6175ff3ddebc6fd713350191a8935f28608e7e433f"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/portal_lush.json"
-hash = "08c1c860e5a45773916ecec362a61ae0f15b82126529c42b34e1ca2cd91fc5a8"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/underwater_city.json"
-hash = "8f9e2db34275ba86f6cdd35033a588d5726565654932c76f58be0d04ae62e523"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/underwater_fossils.json"
-hash = "366fa71b54a3841fd49d0526eb7f22bf2281c0ab2d5c92df108568b222da7d37"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/underwater_small_ruins.json"
-hash = "253c3d3946edbc8a894df1f0e6089e67a810bda690dd7384457b0f84f9f12708"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure/underwater_warm_small_ruins.json"
-hash = "24bea22cf7fcb40282e86edc65c3334b7c105ae689681467a647acf303c3cd1f"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/portal.json"
-hash = "1c1a9be446ee9c7143f3b559508ad52d23a3ad2665d138ffc1f9d81e907ff702"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/portal_deepslate.json"
-hash = "c50c14abbe33342025cefe6f7031debf23eb7bcd67d8d9c279b5c0ad75a1b44a"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/portal_dripstone.json"
-hash = "17a3dad09b6eab24a3a0f512df3a35b65c290b31e57123b57f89b597c96754bf"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/portal_lush.json"
-hash = "bbd36e4207cd6fd9f71b91ad0cf8bb5bf3a018fe6e18d2a667edfec4726685b9"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/underwater_city.json"
-hash = "10463043aeb17b54f50b266fde1012d6df8ebc44c0c8182b3911be73f9a74b8f"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/underwater_fossils.json"
-hash = "e1a251d444ea2fe642a4e19faa64f5a628458dbb812b74cc4db4c09216422ea2"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/underwater_small_ruins.json"
-hash = "169ec5e19f35cee5c8f82f78a0408c0c0bc82a7bbd24f7de94d40c8452682c26"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/structure_set/underwater_warm_small_ruins.json"
-hash = "28c944e2e29212c4148f52def4b65d74510cd14244e1a20c6aeee93220a9e893"
-
-[[files]]
-file = "kubejs/data/hopo/worldgen/template_pool/underwater_city.json"
-hash = "ceaf1f2e225f11eb8c1608c921500782cafd715f294008631bc91973140c6257"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/hybrid-aquatic/sea_message/amethyst.json"
@@ -4315,7 +4242,7 @@ hash = "f9881c7ebd01e757483a5a83afb6b67a23f75c87e34611d7a0e930096c611c07"
 
 [[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/what_lies_beneath.json"
-hash = "02d3eb6958b35f84c7c751a6b983157b678509b202bd2e5297140c69b9087f40"
+hash = "46a701cf2a5aacf8b0c05c1c496fa4ddf03e9602b8f88f4051eb3703e4f994dc"
 
 [[files]]
 file = "kubejs/data/spectral_seas/equipment_sets/diving_set.json"
@@ -4335,7 +4262,7 @@ hash = "130e0ad10e3afefd9450f75b13b1b5c17763e4d53afd3e55267ad0ec1b8e2ed9"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_underwater_city_placement.json"
-hash = "34ba2d47b984b318c022297259c440069079b4dc1623f7e3f492984bc35e13f5"
+hash = "4e143c9d380a43d5e08461aedaf1fdb89ce8b44c82ab316d8df02f01a72dc7b3"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_village_placement.json"
@@ -4435,11 +4362,11 @@ hash = "84fec4f3f95932334e74aef77e8fcfaac29ca7cbe5e9963d3ad217ea2aee1d0f"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
-hash = "a631eab5afce09c01c1c4885770a55eb3f84cd1f2914c91b003bb3f3dfbe9c10"
+hash = "e9eb384cc65a24a04c0dfbe4eadab0a7fe9b7d6d397e389a34cad428d7baf119"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_structures.json"
-hash = "90606402e174b253f769947dcdc3336dbe63c69e30f4ac04dd9ffd0890a7ff6b"
+hash = "1819249483af08365709016560180fb9b5a7abd6272b0eaab2e16e605dc477c4"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/desert.json"
@@ -4459,7 +4386,7 @@ hash = "7be11d6651574d26759bcf0ab068f2131734ca4dc3b1c112ed6e1cd9659b5bd1"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/ocean.json"
-hash = "86d91ff9a132fcadd77da88bb0594ff7def2fad2db5992f17f47df47f9bd5752"
+hash = "909b72b2866eac41968fbf542e97c39ab7e1e579e70c0995e24aeaa8230a285a"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/portals.json"
@@ -4487,7 +4414,7 @@ hash = "fe4e7a0758561d7c6535da9d7c3a400bf8cdbe8b3eb63ffa9dc9de87d08e8be7"
 
 [[files]]
 file = "kubejs/data/spectral_seas/worldgen/structure_set/large_ocean_structures.json"
-hash = "5b779c0affa68b1fa28b7cd71537d55f99209013bfdeefdda9cb9920ee5c65c3"
+hash = "01d1966dd92125bddf59f114dc99a6b40dab4972ed6d3b82bfa6b0dbc97fe2b8"
 
 [[files]]
 file = "kubejs/data/spectrum/advancements/spectrum.json"
@@ -4718,38 +4645,6 @@ file = "kubejs/data/wabi_sabi_structures/worldgen/structure/spider_cellar.json"
 hash = "c5ff0da5c0bddabeee8cf2e5f337901f39d05abe5ed72dc0328dbfb492531408"
 
 [[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/beetroot_patch.json"
-hash = "a57d502098be8b1bf0c407020b9c12450051b36acdfc0476f60eed62a7896c64"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/carrot_patch.json"
-hash = "5c9387ab2ae2179456f5d8ae4d38c8792567ab7c0962f0d1f59137acfc09f2ce"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/gallows.json"
-hash = "418a3018676b27927d92bb833ee1ad0bdf04c11eb7ea71c1b0e9d999d568b52f"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/potato_patch.json"
-hash = "25e81b5447829326e9e0a327d4a8dc8d0d4aec3f5ead07a61184b1cd44588541"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/pumpkin_field.json"
-hash = "ba68ef6ec84827c262ecda131de1cdd6eed7940f337db4563e15504f76c5a334"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/pumpkin_patch.json"
-hash = "61d8a0d1095a813bab7b408e687a04e8d7749e36d2bd6bcf2a9077778a9901b4"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/spruce_berry_farm.json"
-hash = "07f6865a0cc4ced74ccee353456c44e836e43e0f2226cd147a34c7759be1730c"
-
-[[files]]
-file = "kubejs/data/wabi_sabi_structures/worldgen/structure_set/wheat_patch.json"
-hash = "e08c29a7345a2a4ece935dcfc7ff524b3a7557725aa9a266ef4307babc7d29fb"
-
-[[files]]
 file = "kubejs/data/zhopo/tags/worldgen/biome/has_structure/piglin_ruin.json"
 hash = "3fe29e7495bcfd66361bb14994bb77f0c9e87634e8da9f23f3717c5b27375b92"
 
@@ -4850,6 +4745,10 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
 
 [[files]]
+file = "kubejs/server_scripts/remove_enchanting_blocks.js"
+hash = "4c8192615ef23523cc28f9a96be11725569f2ed3bdbe59ebc92d7007d0fe4484"
+
+[[files]]
 file = "kubejs/server_scripts/ship/ship_sleep.js"
 hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
 
@@ -4860,10 +4759,6 @@ hash = "41bbbcd1caa4113f4846fd1cef75bb01351a4faaddb64640945529d6122c0ae9"
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
 hash = "9ac452822c580f51c0f5f5be90fb26cb987ce83c567861fe8253fc90c5c73a62"
-
-[[files]]
-file = "kubejs/server_scripts/structure_load.js"
-hash = "e16fb0de3f9e9da188f32326b392ab55d41d36ac5b3f8235fbc98b00112901d7"
 
 [[files]]
 file = "kubejs/server_scripts/structure_map.js"

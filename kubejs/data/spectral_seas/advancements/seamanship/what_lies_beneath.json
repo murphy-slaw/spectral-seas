@@ -40,19 +40,19 @@
                             {
                                 "condition": "minecraft:location_check",
                                 "predicate": {
-                                    "structure": "hopo:underwater_city"
+                                    "structure": "hopo:underwater/underwater_city"
                                 }
                             },
                             {
                                 "condition": "minecraft:location_check",
                                 "predicate": {
-                                    "structure": "hopo:underwater_small_ruins"
+                                    "structure": "hopo:underwater/underwater_small_ruins"
                                 }
                             },
                             {
                                 "condition": "minecraft:location_check",
                                 "predicate": {
-                                    "structure": "hopo:underwater_warm_small_ruins"
+                                    "structure": "hopo:underwater/underwater_warm_small_ruins"
                                 }
                             },
                             {

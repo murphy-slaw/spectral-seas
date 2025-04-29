@@ -6,7 +6,7 @@
         "hopo:portal_deepslate",
         "hopo:portal_dripstone",
         "hopo:portal_lush",
-        "hopo:underwater_city",
+        "hopo:underwater/underwater_city",
         "minecraft:ancient_city",
         "minecraft:desert_pyramid",
         "minecraft:igloo",

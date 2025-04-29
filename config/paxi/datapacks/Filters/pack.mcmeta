@@ -4,275 +4,367 @@
 		"pack_format": 15
 	},
 	"filter": {
-	  "block": [
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/carts/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/dead_tree/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/nature/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/log_pile/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/other_decoration/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/stall/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/lantern/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/well/"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/beach_bar.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/cartographer_tower.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/cathedral.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/crystal.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/horse_pen.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/houses/large_floating_island.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/houses/large_warped_tower.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/jungle_tower.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/out_house.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/railway.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/shed.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/gallows.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/small_ship.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/stone_fountain.json"
-		},
-		{
-			"namespace": "mvs",
-			"path": "worldgen/structure_set/sunzi_gate.json"
-		},
-		{
-		  "namespace": "simplyswords",
-		  "path": "advancements/grant_book_on_first_join.json"
-		},
-		{
-			"namespace": "hybrid-aquatic",
-			"path":"hybrid-aquatic/sea_message"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/abandoned_church.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/air_balloon.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/barn_house.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/big_pyramid.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/ice_tower.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/jungle_pyramid.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/killer_bunny_castle.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/lighthouse.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/moai.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/pillager_factory.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/pillager_mines.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/pirate_ship.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/tavern.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/the_castle_in_the_sky.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/villager_market.json"
-		},
-		{
-			"namespace": "mostructures",
-			"path": "worldgen/structure_set/villager_tower.json"
-		},
-		{
-			"namespace": "totw_reworked",
-			"path": "worldgen/structure_set/derelict.*json"
-		},
-		{
-			"namespace": "totw_reworked",
-			"path": "worldgen/structure_set/ice.json"
-		},
-		{
-			"namespace": "totw_reworked",
-			"path": "worldgen/structure_set/jungle.json"
-		},
-		{
-			"namespace": "totw_reworked",
-			"path": "worldgen/structure_set/ocean.*json"
-		},
-		{
-			"namespace": "totw_reworked",
-			"path": "worldgen/structure_set/regular.json"
-		},
-		{
-			"namespace": "towns_and_towers",
-			"path": "worldgen/structure/exclusives"
-		},
-		{
-			"namespace": "towns_and_towers",
-			"path": "worldgen/structure_set/towns.json"
-		},
-		{
-			"namespace": "kaisyn",
-			"path": "structures/village/exclusives"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/desert_ruins.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/firewatch_towers.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/illager_camp.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/jungle_ruins.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/stray_fort.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/villages_jungle.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/villages_swamp.json"
-		},
-		{
-			"namespace": "nova_structures",
-			"path": "worldgen/structure_set/witch_villa.json"
-		},
-		{
-			"namespace": "supplementaries",
-			"path": "worldgen/structure_set/way_signs.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure/ancient_crypt.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure_set/ancient_crypt.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure/antiquus_crypta.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure_set/antiquus_crypta.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure/underground_structures.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure_set/underground_structures.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure/lost_soul_dungeon.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure/lost_soul_city.json"
-		},
-		{
-			"namespace": "philipsruins",
-			"path": "worldgen/structure_set/lost_soul_city.json"
-		}
-	  ]
+		"block": [
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/campsite.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/copper_spire.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/farmland_field.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/log.*.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/mesoamerican_temple.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/offering.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/raft.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/stone_ore_spikes.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/stone_tower.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/stone_tower.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/tower_remnant.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/tower_remnant.json"
+			},
+			{
+				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/wagon.json"
+			},
+			{
+				"namespace": "hopo",
+				"path": "worldgen/structure.*/portal.*.json"
+			},
+			{
+				"namespace": "hybrid-aquatic",
+				"path": "hybrid-aquatic/sea_message"
+			},
+			{
+				"namespace": "kaisyn",
+				"path": "structures/village/exclusives"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/.*abandoned_church.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/air_balloon.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/barn_house.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/lighthouse.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/pirate_ship.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/tavern.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/the_castle_in_the_sky.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/villager_market.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure.*/villager_tower.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/big_pyramid.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/ice_tower.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/jungle_pyramid.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/killer_bunny_castle.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/moai.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/pillager_factory.json"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "worldgen/structure_set/pillager_mines.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/beach_bar.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/carts/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/dead_tree/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/gallows.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/horse_pen.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/houses/large_floating_island.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/lantern/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/log_pile/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/nature/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/other_decoration/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/out_house.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/railway.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/shed.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/small_ship.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/stall/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/stone_fountain.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/sunzi_gate.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure.*/well/"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure_set/cartographer_tower.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure_set/cathedral.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure_set/crystal.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure_set/houses/large_warped_tower.json"
+			},
+			{
+				"namespace": "mvs",
+				"path": "worldgen/structure_set/jungle_tower.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure.*/firewatch_towers.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure.*/illager_camp.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure.*/stray_fort.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure.*/villages_swamp.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure_set/desert_ruins.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure_set/jungle_ruins.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure_set/villages_jungle.json"
+			},
+			{
+				"namespace": "nova_structures",
+				"path": "worldgen/structure_set/witch_villa.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/ancient_crypt.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/antiquus_crypta.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/lost_soul_city.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/underground_structures.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure/lost_soul_city.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure/lost_soul_dungeon.json"
+			},
+			{
+				"namespace": "simplyswords",
+				"path": "advancements/grant_book_on_first_join.json"
+			},
+			{
+				"namespace": "supplementaries",
+				"path": "worldgen/structure_set/way_signs.json"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "worldgen/structure_set/derelict.*json"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "worldgen/structure_set/ice.json"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "worldgen/structure_set/jungle.json"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "worldgen/structure_set/ocean.*json"
+			},
+			{
+				"namespace": "totw_reworked",
+				"path": "worldgen/structure_set/regular.json"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure/exclusives"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure/ocean_wreckage.json"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure/pillager_outpost_ocean.json"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure/village.json"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure_set/towns.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/beetroot_patch.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/carrot_patch.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/gallows.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/potato_patch.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/pumpkin_field.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/pumpkin_patch.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/spruce_berry_farm.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/wheat_patch.json"
+			},
+			{
+				"namespace": "wabi_sabi_structures",
+				"path": "worldgen/structure.*/wheat_patch.json"
+			}
+		]
 	}
 }

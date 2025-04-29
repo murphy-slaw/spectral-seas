@@ -1,7 +1,7 @@
 {
   "type": "lithostitched:set_structure_spawn_condition",
   "structures": [
-    "hopo:underwater_city"
+    "hopo:underwater/underwater_city"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",

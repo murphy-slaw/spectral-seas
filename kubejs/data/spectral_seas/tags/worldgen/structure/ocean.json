@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         "betteroceanmonuments:ocean_monument",
-        "hopo:underwater_city",
+        "hopo:underwater/underwater_city",
         "nova_structures:conduit_ruin"
     ]
 }

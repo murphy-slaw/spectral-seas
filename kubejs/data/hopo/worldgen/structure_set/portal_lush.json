@@ -1,9 +1,0 @@
-{
-  "structures": [],
-  "placement": {
-    "type": "minecraft:random_spread",
-    "spacing": 40,
-    "separation": 35,
-    "salt": 3202004
-  }
-}
