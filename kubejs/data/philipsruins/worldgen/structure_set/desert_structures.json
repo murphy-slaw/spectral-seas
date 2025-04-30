@@ -1,18 +1,18 @@
 {
   "structures": [
     {
+      "structure": "philipsruins:badlands_start_dungeon",
+      "weight": 1
+    },
+    {
       "structure": "philipsruins:badlands_structures",
       "weight": 1
     }
   ],
   "placement": {
-    "type": "mvs:advanced_random_spread",
-    "super_exclusion_zone": {
-      "chunk_count": 5,
-      "other_set": "#mvs:common_avoid"
-    },
+    "type": "minecraft:random_spread",
     "salt": 294718935,
-    "spacing": 30,
-    "separation": 4
+    "spacing": 39,
+    "separation": 15
   }
 }

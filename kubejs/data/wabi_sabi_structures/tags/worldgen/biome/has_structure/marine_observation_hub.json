@@ -1,0 +1,14 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:cold_ocean",
+		{
+			"id": "terralith:gravel_desert",
+			"required": false
+		},
+		{
+			"id": "nyctophobia:ancient_dead_coral_reef",
+			"required": false
+		}
+	]
+}

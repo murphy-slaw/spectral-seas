@@ -35,6 +35,10 @@
 			},
 			{
 				"namespace": "formationsoverworld",
+				"path": "worldgen/structure/small_house.json"
+			},
+			{
+				"namespace": "formationsoverworld",
 				"path": "worldgen/structure/stone_ore_spikes.json"
 			},
 			{
@@ -43,7 +47,7 @@
 			},
 			{
 				"namespace": "formationsoverworld",
-				"path": "worldgen/structure/stone_tower.json"
+				"path": "worldgen/structure/tiny_house.json"
 			},
 			{
 				"namespace": "formationsoverworld",
@@ -227,7 +231,7 @@
 			},
 			{
 				"namespace": "nova_structures",
-				"path": "worldgen/structure.*/firewatch_towers.json"
+				"path": "worldgen/structure.*/firewatch_tower.*.json"
 			},
 			{
 				"namespace": "nova_structures",
@@ -267,7 +271,15 @@
 			},
 			{
 				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/bone_dungeon.json"
+			},
+			{
+				"namespace": "philipsruins",
 				"path": "worldgen/structure.*/lost_soul_city.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/rare_ruin.json"
 			},
 			{
 				"namespace": "philipsruins",
@@ -275,11 +287,11 @@
 			},
 			{
 				"namespace": "philipsruins",
-				"path": "worldgen/structure/lost_soul_city.json"
+				"path": "worldgen/structure/lost_soul_dungeon.json"
 			},
 			{
 				"namespace": "philipsruins",
-				"path": "worldgen/structure/lost_soul_dungeon.json"
+				"path": "worldgen/structure/sculk_dungeon.json"
 			},
 			{
 				"namespace": "simplyswords",
@@ -315,11 +327,15 @@
 			},
 			{
 				"namespace": "towns_and_towers",
-				"path": "worldgen/structure/ocean_wreckage.json"
+				"path": "worldgen/structure/wreckage_ocean.json"
 			},
 			{
 				"namespace": "towns_and_towers",
 				"path": "worldgen/structure/pillager_outpost_ocean.json"
+			},
+			{
+				"namespace": "towns_and_towers",
+				"path": "worldgen/structure/village_ocean.json"
 			},
 			{
 				"namespace": "towns_and_towers",
