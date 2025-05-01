@@ -5578,6 +5578,11 @@ hash = "cfe81faf28521ccac17652ac7dcc37d79165320b2f986def5298914bb7876988"
 metafile = true
 
 [[files]]
+file = "mods/nbt-glint.pw.toml"
+hash = "c448d5899486032cea6e4acba19628b29bfe8b4fd3d049260ef15cf4d2342cda"
+metafile = true
+
+[[files]]
 file = "mods/nbt-recipes.pw.toml"
 hash = "dfdb36fce03ed85ccaaafabfbec0b8bb5f03368e4c4e6f13766f0a0aa6abcc07"
 metafile = true

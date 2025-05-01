@@ -477,7 +477,7 @@
     "STRENGTH": 0.03
   },
   "resurfacing": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": true,
     "IS_FOR_SALE": true,
     "RARITY": 3,
