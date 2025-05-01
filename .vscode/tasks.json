@@ -1,0 +1,128 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Refresh Packwiz",
+            "type": "shell",
+            "command": "packwiz refresh",
+            "presentation": {
+                "revealProblems": "onProblem",
+                "close": true
+            }
+        },
+        {
+            "label": "Build .mrpack",
+            "type": "shell",
+            "command": "packwiz modrinth export --pack-file ../pack.toml -o '${input:filename}'",
+            "presentation": {
+                "revealProblems": "onProblem",
+                "close": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/builds"
+            },
+            "group": "build"
+        },
+        {
+            "label": "Symlink current pack",
+            "type": "shell",
+            "command": "ln -sf '${input:filename}' latest.mrpack",
+            "presentation": {
+                "revealProblems": "onProblem",
+                "close": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/builds"
+            }
+        },
+        {
+            "label": "Install into server dir",
+            "type": "shell",
+            "command": "mrpack-install builds/latest.mrpack --server-dir server",
+            "presentation": {
+                "revealProblems": "onProblem",
+                "close": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Dump chest loot tables",
+            "type": "shell",
+            "command": "find server/mods server/config/paxi/datapacks/ -type f -iname '*.zip' -or -iname '*.jar' -exec unzip -oqq '{}' 'data/*/loot_tables/*chest/*' 'data/*/loot_tables/*chests/*' -d local \\; 2>/dev/null",
+            "presentation": {
+                "revealProblems": "onProblem",
+                "close": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Dump loot tables from server",
+            "dependsOn": [
+                "Build",
+                "Install into server dir",
+                "Dump chest loot tables"
+            ],
+            "group": "build"
+        },
+        {
+            "label": "Build",
+            "dependsOn": [
+                "Refresh Packwiz",
+                "Build .mrpack",
+                "Symlink current pack"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "filename",
+            "type": "command",
+            "command": "shellCommand.execute",
+            "args": {
+                "command": "echo '${input:pack_name}-${input:version}-${input:short_hash}.mrpack'",
+                "cwd": "${workspaceFolder}",
+                "useFirstResult": true
+            }
+        },
+        {
+            "id": "short_hash",
+            "type": "command",
+            "command": "shellCommand.execute",
+            "args": {
+                "command": "git show --oneline --abbrev | head -1 | cut -f1 -d\\ ",
+                "cwd": "${workspaceFolder}",
+                "useFirstResult": true
+            }
+        },
+        {
+            "id": "version",
+            "type": "command",
+            "command": "shellCommand.execute",
+            "args": {
+                "command": "dasel -s version --pretty=false -f pack.toml -w yaml",
+                "cwd": "${workspaceFolder}",
+                "useFirstResult": true
+            }
+        },
+        {
+            "id": "pack_name",
+            "type": "command",
+            "command": "shellCommand.execute",
+            "args": {
+                "command": "dasel -s name --pretty=false -f pack.toml -w yaml",
+                "cwd": "${workspaceFolder}",
+                "useFirstResult": true
+            }
+        }
+    ]
+}
