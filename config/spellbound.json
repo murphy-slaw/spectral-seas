@@ -256,7 +256,7 @@
     "POWER_RANGE": 50
   },
   "legacy": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": true,
     "IS_FOR_SALE": true,
     "RARITY": 3,
