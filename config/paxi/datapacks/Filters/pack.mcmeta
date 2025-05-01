@@ -151,6 +151,10 @@
 			},
 			{
 				"namespace": "mvs",
+				"path": "worldgen/structure.*/houses/deepslate_house.json"
+			},
+			{
+				"namespace": "mvs",
 				"path": "worldgen/structure.*/gallows.json"
 			},
 			{
@@ -284,6 +288,10 @@
 			{
 				"namespace": "philipsruins",
 				"path": "worldgen/structure.*/underground_structures.json"
+			},
+			{
+				"namespace": "philipsruins",
+				"path": "worldgen/structure/end_gate_fortress.json"
 			},
 			{
 				"namespace": "philipsruins",
