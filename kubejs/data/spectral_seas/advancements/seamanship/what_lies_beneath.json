@@ -46,37 +46,7 @@
                             {
                                 "condition": "minecraft:location_check",
                                 "predicate": {
-                                    "structure": "hopo:underwater/underwater_small_ruins"
-                                }
-                            },
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
-                                    "structure": "hopo:underwater/underwater_warm_small_ruins"
-                                }
-                            },
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
                                     "structure": "philipsruins:ocean_fortress"
-                                }
-                            },
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
-                                    "structure": "philipsruins:ocean_ruins"
-                                }
-                            },
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
-                                    "structure": "minecraft:ocean_ruin_cold"
-                                }
-                            },
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
-                                    "structure": "minecraft:ocean_ruin_cold"
                                 }
                             }
                         ]
