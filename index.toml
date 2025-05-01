@@ -786,7 +786,7 @@ hash = "489711deb6d620e83d3dd373268130b27115d3d1be943672f2eab8f656bfae80"
 
 [[files]]
 file = "config/paxi/datapacks/Filters/pack.mcmeta"
-hash = "da47a4175882934fd549a1bc90f90af9bb669490f404c19448171226289492c3"
+hash = "7c4f76654ff6cd0d2241e97bcb065e36f31405bee435a45226af1158f7737ce7"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/41/data/minecraft/worldgen/configured_feature/beach_cypress.json"
@@ -1226,7 +1226,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "7d8efdbe3ac61592048cf4d66f6137bab11caac035e1ada890fd8b66486ec7a9"
+hash = "12c2c588efdd1e1a029eb09d93019f3c17468df97ad511a1f208ff2b79c9c904"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -3930,7 +3930,7 @@ hash = "a78a240f2607886b0cbce761b8a0a3d62857aebdd2fdfe6fd6892ea9559c0c8e"
 
 [[files]]
 file = "kubejs/data/overworldify/worldgen/configured_feature/lava_maker.json"
-hash = "2e594621b16be94f3d49dab9cf2764310daa3e7ed0b9673c4058907ff9eba1a5"
+hash = "9562b0dd7a2d840541518f266bc1f05038250e66a88f434ff4d0ab5e398286ab"
 
 [[files]]
 file = "kubejs/data/overworldify/worldgen/placed_feature/-16.json"
@@ -4062,7 +4062,7 @@ hash = "ee21b78164d55566732e5b8d3617b056e1e406a439e4a7d3142f9cf6c7a7d20a"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/desert_structures.json"
-hash = "1d2ba6db1a464071293c1a3129906ed756078d7ccea5f6cdc92860de0ccb9461"
+hash = "19b7b8dd4e90aed17c24aaec9947210a7a188d9c27aaf240f6e3d526ff12b3f5"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/end_ruins.json"
@@ -4242,7 +4242,7 @@ hash = "f9881c7ebd01e757483a5a83afb6b67a23f75c87e34611d7a0e930096c611c07"
 
 [[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/what_lies_beneath.json"
-hash = "46a701cf2a5aacf8b0c05c1c496fa4ddf03e9602b8f88f4051eb3703e4f994dc"
+hash = "b51d32d8dd81a2389b85d8cb282a69d07e13ddf991231d693ec63168fd6490d4"
 
 [[files]]
 file = "kubejs/data/spectral_seas/equipment_sets/diving_set.json"
@@ -4635,6 +4635,14 @@ hash = "2429c4dee0432197242321dd70e39cf3eb46ba067567cf0f6007e277a7e83bdc"
 [[files]]
 file = "kubejs/data/unseaworthy/tags/entity_types/sinkable.json"
 hash = "002c3d181fabc09d886e9d219d47689252d341f98d4ace0a0817261d2c1c6012"
+
+[[files]]
+file = "kubejs/data/wabi_sabi_structures/tags/worldgen/biome/has_structure/marine_observation_hub.json"
+hash = "6616f8f11551c15bf8ad0d5efe59fd4be907affb11117dcb9997165e3c2023c9"
+
+[[files]]
+file = "kubejs/data/wabi_sabi_structures/worldgen/structure/monster_egg.json"
+hash = "e5650a315ef807edcc9446f8dc5fb11c2144f019638f529a8fc33e455737e50e"
 
 [[files]]
 file = "kubejs/data/wabi_sabi_structures/worldgen/structure/monster_egg_banquet.json"
@@ -5127,6 +5135,11 @@ metafile = true
 [[files]]
 file = "mods/enchant-faker.pw.toml"
 hash = "907616c65eb6538fcc72ffb662078c1d0131a35b06f5c989394fb01c39b321c2"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-tweaks.pw.toml"
+hash = "6bb45938290b96845857b9f077f0a314976265d2f46ebbca4a082a512f717372"
 metafile = true
 
 [[files]]

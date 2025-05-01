@@ -1,0 +1,13 @@
+name = "Enchanting Tweaks"
+filename = "enchantingtweaks-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpaVRj3r/versions/2zXjYNAv/enchantingtweaks-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "a115bc55b604bc2e5858d1b8eb5176443dc1786eb500eb6a6f8b749eeec3560bd70a0ee52646aba6d8f7f4e59b77d61034a4d62bccc5357aea791482f2f576bf"
+
+[update]
+[update.modrinth]
+mod-id = "MpaVRj3r"
+version = "2zXjYNAv"
