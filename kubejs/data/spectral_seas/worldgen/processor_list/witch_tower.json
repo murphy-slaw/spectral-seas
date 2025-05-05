@@ -1,0 +1,22 @@
+[
+    {
+        "processor_type": "formations:biome_replacements"
+    },
+    {
+        "mossy_chance": 0.1,
+        "degradation_chance": 0.0,
+        "disintegration_chance": 0.0,
+        "processor_type": "formations:block_age"
+    },
+    {
+        "minGrowth": 0.1,
+        "processor_type": "formations:random_plant_growth"
+    },
+    {
+        "processor_type": "formations:random_bed_color"
+    },
+    {
+        "maxBlazePowder": 5,
+        "processor_type": "formations:fill_brewing_stands"
+    }
+]

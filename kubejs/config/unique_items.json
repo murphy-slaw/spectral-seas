@@ -1,5 +1,8 @@
 {
     "uniqueItems": [
-        "artifacts:bunny_hoppers"
+        "artifacts:bunny_hoppers",
+        "artifacts:obsidian_skull",
+        "artifacts:antidote_vessel",
+        "artifacts:crystal_heart"
     ]
 }

@@ -45,12 +45,15 @@
                 "revealProblems": "onProblem",
                 "close": true
             },
+            "dependsOn": [
+                "Build"
+            ],
             "options": {
                 "cwd": "${workspaceFolder}"
             }
         },
         {
-            "label": "Dump chest loot tables",
+            "label": "Dump datpacks",
             "type": "shell",
             "command": "find server/mods server/config/paxi/datapacks/ -type f -iname '*.zip' -or -iname '*.jar' -exec unzip -oqq '{}' 'data/*/loot_tables/*chest/*' 'data/*/loot_tables/*chests/*' -d local \\; 2>/dev/null",
             "presentation": {
@@ -62,11 +65,24 @@
             }
         },
         {
-            "label": "Dump loot tables from server",
+            "label": "Dump resources",
+            "type": "shell",
+            "command": "find server/mods server/config/paxi/datapacks -type f -iname '*.zip' -or -iname '*.jar' | sed 's/.*/\"&\"/' | xargs -n1  -I% unar -f -o local/resources % 'data/*' 'assets/*'",
+            "presentation": {
+                "revealProblems": "never",
+                "close": true
+            },
             "dependsOn": [
-                "Build",
                 "Install into server dir",
-                "Dump chest loot tables"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Dump resources from server",
+            "dependsOn": [
+                "Dump resources"
             ],
             "group": "build"
         },

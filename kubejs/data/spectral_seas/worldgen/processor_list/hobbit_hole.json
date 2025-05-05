@@ -1,0 +1,16 @@
+[
+    {
+        "processor_type": "formations:biome_replacements"
+    },
+    {
+        "processor_type": "formations:random_bed_color"
+    },
+    {
+        "processor_type": "formations:random_plant_growth"
+    },
+    {
+        "slotFillChance": 0.2,
+        "maxBlazePowder": 3,
+        "processor_type": "formations:fill_brewing_stands"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "formationsoverworld:hobbit_holes"
+    ],
+    "processor_list": "spectral_seas:hobbit_hole",
+    "append": false
+}

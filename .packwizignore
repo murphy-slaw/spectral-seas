@@ -33,3 +33,4 @@ config/sodium-mixins.properties
 screenshots/
 exposures/
 mods/dev/
+kubejs/server_scripts/dev_tools

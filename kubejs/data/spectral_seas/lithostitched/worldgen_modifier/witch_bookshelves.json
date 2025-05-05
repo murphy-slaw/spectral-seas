@@ -1,0 +1,8 @@
+{
+    "type": "lithostitched:set_pool_element_processors",
+    "template_pool": [
+        "formationsoverworld:witch_towers"
+    ],
+    "processor_list": "spectral_seas:witch_tower",
+    "append": false
+}
