@@ -1,8 +1,9 @@
 {
     "uniqueItems": [
-        "artifacts:bunny_hoppers",
-        "artifacts:obsidian_skull",
         "artifacts:antidote_vessel",
-        "artifacts:crystal_heart"
+        "artifacts:bunny_hoppers",
+        "artifacts:crystal_heart",
+        "artifacts:feral_claws",
+        "artifacts:obsidian_skull"
     ]
 }

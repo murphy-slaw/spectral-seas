@@ -83,6 +83,15 @@ const Loot = (function () {
     }
 
     /**
+     * Returns a loot entry of a random potion from types
+     * @param {Internal.Potion[]} types
+     * @returns {Internal.LootEntry}
+     */
+    function randomPotionOf (types) {
+        return potionOf(randomOf(types))
+    }
+
+    /**
      * Returns a LootEntry of a random item from ids, enchanted with a random enchant from pool
      * @param {ResourceLocation[]} ids
      * @param {string[]} pool
@@ -125,6 +134,7 @@ const Loot = (function () {
         randomOf: randomOf,
         randomEntryOf: randomEntryOf,
         potionOf: potionOf,
+        randomPotionOf: randomPotionOf,
         enchantedFrom: enchantedFrom,
         randomEnchantedFrom: randomEnchantedFrom,
         exclusiveLootPool: exclusiveLootPool,
