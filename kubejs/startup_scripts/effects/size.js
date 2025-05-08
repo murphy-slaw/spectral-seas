@@ -1,4 +1,6 @@
 // Make MobEffects for Pehkui resizing. Requires Pehkui, obviously.
+const $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
+var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
 
 StartupEvents.registry('mob_effect', event => {
     event
@@ -45,7 +47,7 @@ global.modifySize = function (entity, effectId, sizeFunc) {
     let effectInstance = entity.activeEffectsMap.get(
         Utils.getRegistry('mob_effect').getValue(effectId)
     )
-    let scaleData = scaleTypes.BASE.getScaleData(entity)
+    let scaleData = $ScaleTypes.BASE.getScaleData(entity)
     // We use targetScale here so that the size change is spread out across scaleTickDelay
     if (effectInstance.endsWithin(1)) {
         // If the effect instance is about to expire, reset the entity's scale.
@@ -57,3 +59,18 @@ global.modifySize = function (entity, effectId, sizeFunc) {
         scaleData.targetScale = sizeFunc(effectInstance.amplifier)
     }
 }
+
+const $PotionBuilder = Java.loadClass('dev.latvian.mods.kubejs.misc.PotionBuilder')
+
+StartupEvents.registry('potion', e => {
+    e.createCustom('spectral_seas:shrinking_potion', () =>
+        new $PotionBuilder('spectral_seas:shrinking_potion')
+            .effect('spectral_seas:shrinking', 300)
+            .createObject()
+    )
+    e.createCustom('spectral_seas:growth_potion', () =>
+        new $PotionBuilder('spectral_seas:growth_potion')
+            .effect('spectral_seas:growth', 300)
+            .createObject()
+    )
+})

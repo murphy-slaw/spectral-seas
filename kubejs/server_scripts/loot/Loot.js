@@ -1,6 +1,24 @@
 const $WeightedRandomList = Java.loadClass('net.minecraft.util.random.WeightedRandomList')
+const $Potions = Java.loadClass('net.minecraft.world.item.alchemy.Potions')
 const $RandomSource = Java.loadClass('net.minecraft.util.RandomSource')
 const RANDOM_SOURCE = $RandomSource.create()
+
+const CHOWDER_EFFECTS = [
+    /*
+    'minecraft:swiftness',
+    'minecraft:leaping',
+    'minecraft:regeneration',
+    */
+    'spectral_seas:shrinking_potion',
+    'spectral_seas:growth_potion',
+    /*
+    'minecraft:night_vision',
+    'minecraft:strength',
+    'minecraft:slow_falling',
+    'minecraft:poison',
+    'minecraft:blindness',
+    */
+]
 
 const Loot = (function () {
     /**
@@ -130,11 +148,48 @@ const Loot = (function () {
                 .apply(ctx => exclusiveLootPool(ctx, pool))
         }
     }
+
+    function chowderOf (effect) {
+        /** @type {Internal.RegistryInfo<Internal.Potion>} */
+        const reg = Utils.getRegistry('potion')
+        const potion = reg.getValue(effect)
+
+        let tag = NBT.compoundTag()
+        let effectId
+
+        if (!potion.effects.empty) {
+            /** @param {Internal.MobEffectInstance}  effect */
+            potion.effects.forEach(effect => {
+                tag = effect.save(tag)
+            })
+        }
+
+        return LootEntry.of('spectral_seas:suspicious_chowder').addNBT({
+            CustomPotionEffects: [
+                tag,
+                {
+                    Ambient: 0,
+                    Amplifier: 0,
+                    Duration: 50,
+                    Id: $MobEffect.getId('poison'),
+                    ShowIcon: 1,
+                    ShowParticles: 1,
+                },
+            ],
+            Potion: 'potioncraft:crafted_potion',
+            potency: 3,
+        })
+    }
+
+    function randomChowder () {}
+
     return {
         randomOf: randomOf,
         randomEntryOf: randomEntryOf,
         potionOf: potionOf,
         randomPotionOf: randomPotionOf,
+        chowderOf: chowderOf,
+        randomChowder: randomChowder,
         enchantedFrom: enchantedFrom,
         randomEnchantedFrom: randomEnchantedFrom,
         exclusiveLootPool: exclusiveLootPool,

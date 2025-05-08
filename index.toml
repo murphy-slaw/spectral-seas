@@ -5584,6 +5584,11 @@ hash = "8bdb1b25b7e13c29aca2091c379e1d466239e02c698894095db500a9648b0421"
 metafile = true
 
 [[files]]
+file = "mods/milk_plus.pw.toml"
+hash = "8af943683fb3264b085749a68fb6514ac076d2fa3edbde4ebc14dd37dbb4d7ed"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "7afe38daf7df4eeeaedc485bde1c13f3ce75d667d8a5eb953ff8b604ec00c0ed"
 metafile = true

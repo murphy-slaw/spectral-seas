@@ -164,13 +164,7 @@ const tomb_treasury = ctx => {
 }
 
 LootJS.modifiers(event => {
-    const pool = [
-        pharaoh_regalia,
-        tomb_guardian_remains,
-        court_librarian_cache,
-        caravan_driver_kit,
-        tomb_treasury,
-    ]
+    const pool = [pharaoh_regalia, court_librarian_cache, caravan_driver_kit, tomb_treasury]
     Loot.smartReplacePools(event, 'minecraft:chests/desert_pyramid', pool)
     Loot.smartReplacePools(event, 'mostructures:pyramid_custom', pool)
 
@@ -195,4 +189,9 @@ LootJS.modifiers(event => {
             '/nova_structures:archeology/desert_ruin.*/'
         )
         .replaceLoot('minecraft:emerald', 'minecraft:gold_nugget', true)
+    event
+        .addLootTableModifier('archeologyplus:chests/desert_temple_food')
+        .matchLoot('minecraft:suspicious_stew')
+        .removeLoot('minecraft:suspicious_stew')
+        .addWeightedLoot(CHOWDER_EFFECTS.map(effect => Loot.chowderOf(effect)))
 })
