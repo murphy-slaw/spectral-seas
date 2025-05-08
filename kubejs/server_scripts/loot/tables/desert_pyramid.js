@@ -164,12 +164,35 @@ const tomb_treasury = ctx => {
 }
 
 LootJS.modifiers(event => {
-    const pools = [
+    const pool = [
         pharaoh_regalia,
         tomb_guardian_remains,
         court_librarian_cache,
         caravan_driver_kit,
         tomb_treasury,
     ]
-    Loot.smartReplacePools(event, 'minecraft:chests/desert_pyramid', pools)
+    Loot.smartReplacePools(event, 'minecraft:chests/desert_pyramid', pool)
+    Loot.smartReplacePools(event, 'mostructures:pyramid_custom', pool)
+
+    const grave_pool = [tomb_guardian_remains, court_librarian_cache, caravan_driver_kit]
+    Loot.smartReplacePools(
+        event,
+        'nova_structures:chests/desert_ruins/desert_ruin_grave',
+        grave_pool
+    )
+    Loot.smartReplacePools(event, 'nova_structures:chests/desert_ruins/desert_ruin_main_temple', [
+        pharaoh_regalia,
+    ])
+    Loot.smartReplacePools(
+        event,
+        'nova_structures:chests/desert_ruins/desert_ruin_lesser_treasure',
+        [tomb_treasury]
+    )
+
+    event
+        .addLootTableModifier(
+            'nova_structures:chests/desert_ruins/desert_ruin_house',
+            '/nova_structures:archeology/desert_ruin.*/'
+        )
+        .replaceLoot('minecraft:emerald', 'minecraft:gold_nugget', true)
 })
