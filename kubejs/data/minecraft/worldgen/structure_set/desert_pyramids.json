@@ -2,12 +2,12 @@
   "placement": {
     "type": "mvs:advanced_random_spread",
     "super_exclusion_zone": {
-      "chunk_count": 4,
+      "chunk_count": 6,
       "other_set": "#mvs:common_avoid"
     },
     "salt": 14357617,
-    "separation": 8,
-    "spacing": 16
+    "separation": 10,
+    "spacing": 20
   },
   "structures": [
     {

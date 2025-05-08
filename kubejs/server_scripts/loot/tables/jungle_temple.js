@@ -145,4 +145,9 @@ const tribal_wealth = ctx => {
 
 LootJS.modifiers(event => {
     Loot.smartReplacePools(event, 'minecraft:chests/jungle_temple', [hunter, shaman, tribal_wealth])
+    Loot.smartReplacePools(event, 'mostructures:jungle_temple_treasure', [
+        hunter,
+        shaman,
+        tribal_wealth,
+    ])
 })
