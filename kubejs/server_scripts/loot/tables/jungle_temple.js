@@ -2,14 +2,16 @@
 const hunter = ctx => {
     console.log('hunter')
     return [
-        Loot.enchantedFrom('bow', AMETHYST_ENCHANTS).damage([0.5, 0.75]),
+        Loot.enchantedFrom('bow', EnchantSets.JUNGLE).damage([0.5, 0.75]),
         LootEntry.of('arrow').limitCount([4, 16]),
         LootEntry.of('tipped_arrow')
             .when(c => c.randomChance(0.7))
             .limitCount([2, 8])
             .addPotion('strong_poison'),
-        Loot.randomEnchantedFrom(LEATHER_ARMOR, AMETHYST_ENCHANTS).when(c => c.randomChance(0.5)),
-        Loot.enchantedFrom('leather_boots', AMETHYST_ENCHANTS).when(c => c.randomChance(0.5)),
+        Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.JUNGLE).when(c =>
+            c.randomChance(0.5)
+        ),
+        Loot.enchantedFrom('leather_boots', EnchantSets.JUNGLE).when(c => c.randomChance(0.5)),
         LootEntry.of('artifacts:feral_claws').when(c => c.randomChance(0.1)),
         LootEntry.of('wild_armor_trim_smithing_template')
             .when(c => c.randomChance(0.7))
@@ -33,7 +35,7 @@ const hunter = ctx => {
 const shaman = ctx => {
     console.log('shaman')
     return [
-        Loot.enchantedFrom('tridents_n_stuff:stone_spear', AMETHYST_ENCHANTS).damage([0.5, 0.75]),
+        Loot.enchantedFrom('tridents_n_stuff:stone_spear', EnchantSets.JUNGLE).damage([0.5, 0.75]),
         Loot.randomPotionOf(['strong_poison', 'staminafortweakers:fatigue_potion', 'slowness'])
             .when(c => c.randomChance(0.7))
             .limitCount([1, 3]),

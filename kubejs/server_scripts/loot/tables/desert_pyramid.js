@@ -2,9 +2,9 @@
 const pharaoh_regalia = ctx => {
     console.log('pharaoh')
     return [
-        Loot.randomEnchantedFrom(CHAINMAIL_ARMOR, CITRINE_ENCHANTS).damage([0, 1]),
+        Loot.randomEnchantedFrom(ArmorSets.CHAINMAIL, EnchantSets.DESERT).damage([0, 1]),
 
-        Loot.randomEnchantedFrom(DIAMOND_ARMOR, CITRINE_ENCHANTS).damage(0),
+        Loot.randomEnchantedFrom(ArmorSets.DIAMOND, EnchantSets.DESERT).damage(0),
 
         LootEntry.of('minecraft:blue_dye')
             .when(c => c.randomChance(0.7))
@@ -52,23 +52,26 @@ const tomb_guardian_remains = ctx => {
     return [
         Loot.randomEnchantedFrom(
             ['simplyswords:iron_cutlass', 'tridents_n_stuff:iron_spear'],
-            CITRINE_ENCHANTS
+            EnchantSets.DESERT
         )
             .damage([0.25, 0.5])
             .when(c => c.randomChance(0.7)),
 
-        Loot.enchantedFrom('minecraft:shield', CITRINE_ENCHANTS)
+        Loot.enchantedFrom('minecraft:shield', EnchantSets.DESERT)
             .damage([0.5, 0.75])
             .when(c => c.randomChance(0.5)),
 
-        Loot.enchantedFrom('minecraft:golden_helmet', CITRINE_ENCHANTS)
+        Loot.enchantedFrom('minecraft:golden_helmet', EnchantSets.DESERT)
             .addNbt({
-                Trim: { material: Loot.randomOf(TRIM_MATERIAL), pattern: 'minecraft:dune' },
+                Trim: {
+                    material: Loot.randomOf(ArmorSets.TRIM_MATERIAL),
+                    pattern: 'minecraft:dune',
+                },
             })
             .when(c => c.randomChance(0.5))
             .damage([0, 0.5]),
 
-        Loot.randomEnchantedFrom(LEATHER_ARMOR, CITRINE_ENCHANTS)
+        Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.DESERT)
             .damage([0, 0.5])
             .when(c => c.randomChance(0.7)),
 
@@ -157,7 +160,7 @@ const caravan_driver_kit = ctx => {
             .damage([0.5, 0.75])
             .when(c => c.randomChance(0.7)),
 
-        Loot.randomEntryOf(['minecraft:iron_pickaxe', 'minecraft:iron_shovel']).limitCount([1, 2]),
+        Loot.randomEntryOf(['minecraft:iron_pickaxe', 'minecraft:iron_shovel']),
     ]
 }
 
@@ -237,6 +240,6 @@ LootJS.modifiers(event => {
         .addLootTableModifier('archeologyplus:chests/desert_temple_food')
         .matchLoot('minecraft:suspicious_stew')
         .removeLoot('minecraft:suspicious_stew')
-        .addWeightedLoot(CHOWDER_EFFECTS.map(effect => Loot.chowderOf(effect)))
+        .addWeightedLoot(Loot.allChowders())
         .limitCount([1, 3])
 })

@@ -3,23 +3,6 @@ const $Potions = Java.loadClass('net.minecraft.world.item.alchemy.Potions')
 const $RandomSource = Java.loadClass('net.minecraft.util.RandomSource')
 const RANDOM_SOURCE = $RandomSource.create()
 
-const CHOWDER_EFFECTS = [
-    /*
-    'minecraft:swiftness',
-    'minecraft:leaping',
-    'minecraft:regeneration',
-    */
-    'spectral_seas:shrinking_potion',
-    'spectral_seas:growth_potion',
-    /*
-    'minecraft:night_vision',
-    'minecraft:strength',
-    'minecraft:slow_falling',
-    'minecraft:poison',
-    'minecraft:blindness',
-    */
-]
-
 const Loot = (function () {
     /**
      * Return a random Enchantment from the provided list, using rarity weights
@@ -155,7 +138,6 @@ const Loot = (function () {
         const potion = reg.getValue(effect)
 
         let tag = NBT.compoundTag()
-        let effectId
 
         if (!potion.effects.empty) {
             /** @param {Internal.MobEffectInstance}  effect */
@@ -181,7 +163,21 @@ const Loot = (function () {
         })
     }
 
-    function randomChowder () {}
+    const CHOWDER_EFFECTS = [
+        'minecraft:swiftness',
+        'minecraft:leaping',
+        'minecraft:regeneration',
+        'spectral_seas:shrinking_potion',
+        'spectral_seas:growth_potion',
+        'minecraft:night_vision',
+        'minecraft:strength',
+        'minecraft:slow_falling',
+        'minecraft:poison',
+        'minecraft:blindness',
+    ]
+    function allChowders (event) {
+        return CHOWDER_EFFECTS.map(effect => Loot.chowderOf(effect))
+    }
 
     return {
         randomOf: randomOf,
@@ -189,152 +185,10 @@ const Loot = (function () {
         potionOf: potionOf,
         randomPotionOf: randomPotionOf,
         chowderOf: chowderOf,
-        randomChowder: randomChowder,
+        allChowders: allChowders,
         enchantedFrom: enchantedFrom,
         randomEnchantedFrom: randomEnchantedFrom,
         exclusiveLootPool: exclusiveLootPool,
         smartReplacePools: smartReplacePools,
     }
 })()
-
-const TOPAZ_ENCHANTS = [
-    'hybrid-aquatic:live_catch',
-    'minecraft:aqua_affinity',
-    'minecraft:fortune',
-    'minecraft:silk_touch',
-    'minecraft:luck_of_the_sea',
-    'minecraft:lure',
-    'minecraft:looting',
-    'minecraft:efficiency',
-    'minecraft:blast_protection',
-    'minecraft:projectile_protection',
-    'minecraft:mending',
-    'minecraft:unbreaking',
-    'spellbound:dullness',
-    'spellbound:sunken_treasure',
-    'spellbound:despoiling',
-    'spellbound:pinata',
-    'spellbound:scalping',
-    'spellbound:acceleration',
-    'spellbound:chilled',
-    'spellbound:prospector',
-    'spellbound:rock_collecting',
-    'spellbound:universal',
-    'spellbound:widened',
-    'spellbound:flesh_wound',
-    'spellbound:goldskin',
-    'spellbound:grace',
-    'spellbound:hearty',
-    'spellbound:buffered',
-    'spellbound:metabolising',
-    'spellbound:photosynthetic',
-    'spellbound:saturated',
-    'spellbound:selfish',
-    'spellbound:skotosynthetic',
-    'staminafortweakers:untiring',
-]
-
-const AMETHYST_ENCHANTS = [
-    'airhop:air_hop',
-    'minecraft:respiration',
-    'minecraft:depth_strider',
-    'minecraft:feather_falling',
-    'minecraft:frost_walker',
-    'minecraft:soul_speed',
-    'minecraft:swift_sneak',
-    'minecraft:riptide',
-    'minecraft:multishot',
-    'minecraft:quick_charge',
-    'minecraft:infinity',
-    'spellbound:hover',
-    'spellbound:phase_leap',
-    'spellbound:phase_strafe',
-    'spellbound:impersonal',
-    'spellbound:airline',
-    'spellbound:death_wish',
-    'spellbound:last_gasp',
-    'spellbound:attractive',
-    'spellbound:repulsive',
-    'spellbound:warlike',
-    'spellbound:storied',
-    'spellbound:cave_in',
-    'spellbound:tethering',
-    'staminafortweakers:traveling',
-    'supplementaries:stasis',
-    'spellbound:pestilence',
-]
-
-const CITRINE_ENCHANTS = [
-    'minecraft:thorns',
-    'minecraft:flame',
-    'minecraft:power',
-    'minecraft:channeling',
-    'minecraft:impaling',
-    'minecraft:bane_of_arthropods',
-    'minecraft:fire_aspect',
-    'minecraft:smite',
-    'minecraft:sweeping',
-    'minecraft:knockback',
-    'minecraft:punch',
-    'minecraft:piercing',
-    'minecraft:loyalty',
-    'spellbound:outburst',
-    'spellbound:spikes',
-    'spellbound:vengeful',
-    'spellbound:fisher_of_men',
-    'spellbound:priming',
-    'spellbound:rampage',
-    'spellbound:trophy_collecting',
-    'spellbound:jousting',
-    'spellbound:launching',
-    'spellbound:demolition',
-    'spellbound:red_alert',
-    'minecraft:fire_protection',
-]
-
-const DIAMOND_ARMOR = [
-    'minecraft:diamond_helmet',
-    'minecraft:diamond_chestplate',
-    'minecraft:diamond_leggings',
-    'minecraft:diamond_boots',
-]
-
-const IRON_ARMOR = [
-    'minecraft:iron_helmet',
-    'minecraft:iron_chestplate',
-    'minecraft:iron_leggings',
-    'minecraft:iron_boots',
-]
-
-const GOLDEN_ARMOR = [
-    'minecraft:golden_helmet',
-    'minecraft:golden_chestplate',
-    'minecraft:golden_leggings',
-    'minecraft:golden_boots',
-]
-
-const CHAINMAIL_ARMOR = [
-    'minecraft:chainmail_helmet',
-    'minecraft:chainmail_chestplate',
-    'minecraft:chainmail_leggings',
-    'minecraft:chainmail_boots',
-]
-
-const LEATHER_ARMOR = [
-    'minecraft:leather_helmet',
-    'minecraft:leather_chestplate',
-    'minecraft:leather_leggings',
-    'minecraft:leather_boots',
-]
-
-const TRIM_MATERIAL = [
-    'minecraft:amethyst',
-    'minecraft:copper',
-    'minecraft:diamond',
-    'minecraft:emerald',
-    'minecraft:gold',
-    'minecraft:iron',
-    'minecraft:lapis',
-    'minecraft:netherite',
-    'minecraft:redstone',
-]
