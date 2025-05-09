@@ -1,5 +1,7 @@
 *
-!config/
+!config
+!config/**
+**/.DS_Store
 !defaultconfig/
 !kubejs
 !kubejs/**

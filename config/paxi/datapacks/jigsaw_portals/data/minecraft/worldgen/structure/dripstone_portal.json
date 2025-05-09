@@ -1,7 +1,7 @@
 {
   "type": "mvs:mvs_generic_jigsaw_structure",
   "cannot_spawn_in_liquid": true,
-  "biomes": "minecraft:dripstone_caves",
+  "biomes": "#minecraft:has_structure/dripstone_portal",
   "step": "underground_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",

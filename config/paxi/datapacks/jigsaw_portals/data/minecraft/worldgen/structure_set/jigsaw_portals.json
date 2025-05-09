@@ -15,8 +15,8 @@
   ],
   "placement": {
     "type": "mvs:advanced_random_spread",
-    "spacing": 20,
-    "separation": 10,
+    "spacing": 16,
+    "separation": 8,
     "salt": 749274,
     "super_exclusion_zone": {
       "other_set": "minecraft:mineshafts"
