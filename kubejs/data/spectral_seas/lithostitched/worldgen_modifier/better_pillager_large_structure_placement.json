@@ -2,7 +2,8 @@
   "type": "lithostitched:set_structure_spawn_condition",
   "structures": [
     "mostructures:pillager_factory",
-    "mostructures:pillager_mines"
+    "mostructures:pillager_mines",
+    "nova_structures:badlands_miner_outpost"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",
