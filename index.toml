@@ -858,7 +858,7 @@ hash = "b5e43b2ab9460b27ae9ee740c57f1052f8c2fc68f2af2cb823cd151ae246459f"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/factor.json"
-hash = "384e072dba9ec74785961d7ddd753a5bad2e4e4580fc9842c3dd7d1ca1a41c8e"
+hash = "a91ffcc02732dc59f19e6132586ff9f45ebf53d791003a07af1086ef7ccd5a88"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
@@ -910,7 +910,7 @@ hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "8ddb392081a102668a8d304bd1afe88971a37374eb19fd30c6dc4ea304fb2923"
+hash = "1fd39d325d2062017da710f4e003ea2ab9f978de22359dcd030f762efab16e8c"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/beach_boulders.json"
@@ -4521,6 +4521,110 @@ file = "kubejs/data/supplementaries/worldgen/placed_feature/wild_flax.json"
 hash = "bd984a4a44a43a969ac2c6c8fab28bce5b9297cc413d04d6731f58a452404005"
 
 [[files]]
+file = "kubejs/data/swampier_swamps/tags/blocks/decaying_kelp_can_replace.json"
+hash = "98823f7f3310f890c607d78acfa60c0989364a7d6c9019bb9f4d327a7c9f1f63"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/blocks/dragonflies_spawnable_on.json"
+hash = "414cf8590bffe49e68abc2417695be83fd0f163f10a63b9af22c0039e7a91d87"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/blocks/froglights.json"
+hash = "ddecf9c340f33b83531dde6dec09e5ce4a38d5183bc2d76acc3655c7e612fbbc"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/blocks/mud_puddle_can_replace.json"
+hash = "7dbff35cc8ecb9bbf8a7afd98dd29aaed2679e26ce85590d04c55a1df2e7dcac"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/damage_type/blows_up_swamp_gas.json"
+hash = "3d203547898b54de9bf021e9b53fdf17d1e96c8e8fb2aa0722844686e86c9a1c"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/can_bald_cypress_grow_in.json"
+hash = "5741cb50f0e951545e633e78e6654f95047d354859ade55dc62797b225ab5ae0"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/can_lily_pad_grow_in.json"
+hash = "5741cb50f0e951545e633e78e6654f95047d354859ade55dc62797b225ab5ae0"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/black_frog_biomes.json"
+hash = "cfa0bfa3ea2daf73b61978bb1cbd40f5393be966e6c5fb63aa4d603b9477b483"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/blue_frog_biomes.json"
+hash = "919e89672a665a806d008b16f567d18c431339a2541598b34c91a9757ffe5e21"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/brown_frog_biomes.json"
+hash = "0404af62dce6d0f1a408d376889e62a0e9f4c6470c41d9536d5d52cf569a785a"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/cyan_frog_biomes.json"
+hash = "dacf48bd978749c53e0eedea12d9df802c7d43aef6497d8847c28c8c4f96732e"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/gray_frog_biomes.json"
+hash = "fdc95baac8cf29f98e63628976c94b2dbbe34606f7a2509e7aa15aa653367dbd"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/green_frog_biomes.json"
+hash = "6c569d3ec5bcea1ecc34fb61d849f3bfeb5920d5d0e7f169ee9936b5b9669184"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/light_blue_frog_biomes.json"
+hash = "a17a7252b709dcf46ff9dd80c986c76fbed7fbe7d070a0f7645966a7829cf350"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/light_gray_frog_biomes.json"
+hash = "bb4b32080cef41905a3b9e704d0d660d90410f35dcecbeba37ccc00810817ff4"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/lime_frog_biomes.json"
+hash = "5e42dbc4297289ab13d57db37d2aa164f1be28a392102cf45c26ba40f94b76f4"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/magenta_frog_biomes.json"
+hash = "1974200ef466016316359ae6be0b5713e38c76500fe2e2ca08ac00cbbbc1224b"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/orange_frog_biomes.json"
+hash = "32185098b65d98e642a0948ce53d4ba45c1f6f59be460319f69aa7977d6610a1"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/pink_frog_biomes.json"
+hash = "3fed256ab1cf212137e8164474f64398f7783010b1e3939950a77148bc75a891"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/purple_frog_biomes.json"
+hash = "63a4bc0d35c2a643cdaf7a009f7ed67734192c3a94d59fed7dd7db53789e908e"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/red_frog_biomes.json"
+hash = "56016e5f8ef0588a37ab93c314f4fbc7d6a039c881d4ef54ea242b653752ce85"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/white_frog_biomes.json"
+hash = "74231153fcd846ce8a224dedb50c823919bb6f5d8469797e42368e5552819b1c"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/frog_variants/yellow_frog_biomes.json"
+hash = "56d2cba0f14f10cbf30c03d03994fac6b31c9d8cf9f7a9b2179385b1591fc5be"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/has_dragonfly.json"
+hash = "6121af6da61648d162aa5af8dd41ff37a54553a266f1c60926b433ffa1f1c633"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/tags/worldgen/biome/has_structure/village_swamp.json"
+hash = "e789b20154ada44a758203bc78fafab4893fb91fbefe8926b39c9b264635cc0f"
+
+[[files]]
+file = "kubejs/data/swampier_swamps/worldgen/placed_feature/patch_cattail.json"
+hash = "28910bd2a46f926cb8c70e37d7e66007d9bd4b7a674926ce772fd2e2964312a8"
+
+[[files]]
 file = "kubejs/data/terrablender/tags/dimension_type/overworld_regions.json"
 hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
@@ -4866,7 +4970,7 @@ hash = "fea92e2a1d2d5b0c37f01a68732aabefd30c21e817ab735373c67f4c0381724b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "47995fa41d434a4b0b98cf2c0eb6cd4d3cfc79596474625d211de25827ec4722"
+hash = "611749f771a77f30e8fd48c0f7841648f04e1e3237ae1ad504d10a98226376bb"
 
 [[files]]
 file = "kubejs/server_scripts/remove_enchanting_blocks.js"
@@ -5379,10 +5483,6 @@ hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
 
 [[files]]
-file = "mods/fortress-tweak-1.1.0+1.20.1.jar"
-hash = "7586072ce81eb527ed44bdfdfef2816e61fcc58bbbcbb6c7d1e99efb0be94a2c"
-
-[[files]]
 file = "mods/fryc-mob-variants.pw.toml"
 hash = "3af694106a16d278f9ef1487ea605afe14ae8a20a99efeda3e93b9d1b022a7a6"
 metafile = true
@@ -5613,10 +5713,6 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
-file = "mods/mc-249136-0.1.0.jar"
-hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
@@ -5780,10 +5876,6 @@ metafile = true
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
-
-[[files]]
-file = "mods/pesky_seagulls-1.2.1.jar"
-hash = "18675d6e8ee8ced60ded097ac15f37dc856887802ccea96083d7fc9696bc5e74"
 
 [[files]]
 file = "mods/pettable.pw.toml"
@@ -17961,6 +18053,14 @@ hash = "37341eee562a1f12d37115ba962e5b146eeb1ec36eb643cdd6345ee6bc50c6ce"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/mob_effect/amphibious.png"
 hash = "c16dc2532431ff0f16aeaeb01d6c2bb48f8c61c92160542e0e39b2a2b052eb00"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/mob_effect/growth.png"
+hash = "4c91d86b83874ee33a04214003199877a07ff13d3442d3db7d0dc9fb0aaa95f5"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/mob_effect/shrinking.png"
+hash = "825d947bc893a1cfa50f6a855e511200da1fa5d2402e7235dc1e5c4020fedffc"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/vc_gliders/lang/en_us.json"
