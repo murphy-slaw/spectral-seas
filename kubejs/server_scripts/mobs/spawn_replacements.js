@@ -16,6 +16,10 @@ const vindicatorWeapons = [
     'minecraft:iron_axe',
 ]
 
+const PIRATE_BANNER = Item.of('minecraft:black_banner', {
+    BlockEntityTag: { Patterns: [{ Pattern: 'sku', Color: 0 }] },
+})
+
 const pillagerWeapons = ['musketmod:pistol']
 
 EntityEvents.spawned(event => {
@@ -34,18 +38,14 @@ EntityEvents.spawned(event => {
         //Don't replace raid captain banner
         if (entity.getHeadArmorItem().empty) {
             entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
+        } else if (entity.getHeadArmorItem().item == 'white_banner') {
+            entity.setHeadArmorItem(PIRATE_BANNER)
         }
         if (entity.type == 'minecraft:pillager') {
-            entity.setItemSlot(
-                'mainhand',
-                Item.of(Utils.randomOf(Utils.random, pillagerWeapons))
-            )
+            entity.setItemSlot('mainhand', Item.of(Utils.randomOf(Utils.random, pillagerWeapons)))
         }
         if (entity.type == 'minecraft:vindicator') {
-            entity.setItemSlot(
-                'mainhand',
-                Item.of(Utils.randomOf(Utils.random, vindicatorWeapons))
-            )
+            entity.setItemSlot('mainhand', Item.of(Utils.randomOf(Utils.random, vindicatorWeapons)))
         }
     }
 
@@ -60,10 +60,7 @@ EntityEvents.spawned(event => {
     }
     if (entity.type === 'minecraft:drowned') {
         var data = entity.nbt
-        data.put(
-            'HandDropChances',
-            NBT.listTag([NBT.floatTag(0.085), NBT.floatTag(0.3)])
-        )
+        data.put('HandDropChances', NBT.listTag([NBT.floatTag(0.085), NBT.floatTag(0.3)]))
         entity.setNbt(data)
     }
 
