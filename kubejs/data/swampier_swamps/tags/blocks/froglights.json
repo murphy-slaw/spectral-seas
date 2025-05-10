@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "swampier_swamps:white_froglight",
+    "minecraft:ochre_froglight",
+    "swampier_swamps:magenta_froglight",
+    "swampier_swamps:light_blue_froglight",
+    "swampier_swamps:yellow_froglight",
+    "swampier_swamps:lime_froglight",
+    "swampier_swamps:pink_froglight",
+    "swampier_swamps:gray_froglight",
+    "swampier_swamps:light_gray_froglight",
+    "swampier_swamps:cyan_froglight",
+    "minecraft:pearlescent_froglight",
+    "swampier_swamps:blue_froglight",
+    "swampier_swamps:brown_froglight",
+    "minecraft:verdant_froglight",
+    "swampier_swamps:red_froglight",
+    "swampier_swamps:black_froglight"
+  ]
+}

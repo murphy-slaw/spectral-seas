@@ -5,6 +5,7 @@
 !defaultconfig/
 !kubejs
 !kubejs/**
+!/mods
 !mods/*.toml
 !patchouli_books
 !index.toml

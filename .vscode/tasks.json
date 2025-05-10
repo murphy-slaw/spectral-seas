@@ -53,31 +53,20 @@
             }
         },
         {
-            "label": "Dump datpacks",
+            "label": "Dump packs",
             "type": "shell",
-            "command": "find server/mods server/config/paxi/datapacks/ -type f -iname '*.zip' -or -iname '*.jar' -exec unzip -oqq '{}' 'data/*/loot_tables/*chest/*' 'data/*/loot_tables/*chests/*' -d local \\; 2>/dev/null",
-            "presentation": {
-                "revealProblems": "onProblem",
-                "close": true
-            },
-            "options": {
-                "cwd": "${workspaceFolder}"
-            }
-        },
-        {
-            "label": "Dump resources",
-            "type": "shell",
-            "command": "find server/mods server/config/paxi/datapacks -type f -iname '*.zip' -or -iname '*.jar' | sed 's/.*/\"&\"/' | xargs -n1  -I% unar -f -o local/resources % 'data/*' 'assets/*'",
+            "command": "find server/mods server/config/paxi/datapacks -type f -iname '*.zip' -or -iname '*.jar' | sed 's/.*/\"&\"/' | xargs -n1  -I% unar -f -o local/packs % 'data/*' 'assets/*'",
             "presentation": {
                 "revealProblems": "never",
                 "close": true
             },
             "dependsOn": [
-                "Install into server dir",
+                "Install into server dir"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
-            }
+            },
+            "problemMatcher": []
         },
         {
             "label": "Dump resources from server",

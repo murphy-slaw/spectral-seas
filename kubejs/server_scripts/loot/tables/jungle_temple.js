@@ -35,7 +35,9 @@ const hunter = ctx => {
 const shaman = ctx => {
     console.log('shaman')
     return [
-        Loot.enchantedFrom('tridents_n_stuff:stone_spear', EnchantSets.JUNGLE).damage([0.5, 0.75]),
+        Loot.enchantedFrom('tridents_n_stuff:stone_spear', EnchantSets.BRUTAL)
+            .damage([0.5, 0.75])
+            .when(c => c.randomChance(0.5)),
         Loot.randomPotionOf(['strong_poison', 'staminafortweakers:fatigue_potion', 'slowness'])
             .when(c => c.randomChance(0.7))
             .limitCount([1, 3]),
@@ -152,4 +154,5 @@ LootJS.modifiers(event => {
         shaman,
         tribal_wealth,
     ])
+    Loot.smartReplacePools(event, 'mvs:jungle_tower', [shaman, tribal_wealth])
 })

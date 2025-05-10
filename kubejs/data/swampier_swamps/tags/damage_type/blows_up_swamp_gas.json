@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:arrow",
+    "minecraft:mob_projectile",
+    "minecraft:fireball",
+    "minecraft:unattributed_fireball",
+    "minecraft:explosion",
+    "minecraft:player_explosion"
+  ]
+}

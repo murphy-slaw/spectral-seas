@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".prettierrc"
-hash = "f856f40e523ef6bc649c4405ac5538c01d9a72b093c03bef6f90cdfe75bcb1a0"
+hash = "03111f2a85d32180e1d5c3eba3fa68470c66bfbb91481a44aabef977c6ed9ccd"
 
 [[files]]
 file = "LICENSE"
@@ -858,7 +858,7 @@ hash = "b5e43b2ab9460b27ae9ee740c57f1052f8c2fc68f2af2cb823cd151ae246459f"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/factor.json"
-hash = "e93f465cb002c0c565c6189b5f9a1350c97d2b3857d4b389a05cffdd9409b116"
+hash = "384e072dba9ec74785961d7ddd753a5bad2e4e4580fc9842c3dd7d1ca1a41c8e"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
@@ -910,7 +910,7 @@ hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "984a82d5baac2f4a4ddcec07a44edb182ce4695578c38c5a2ef045e68b12c9da"
+hash = "8ddb392081a102668a8d304bd1afe88971a37374eb19fd30c6dc4ea304fb2923"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/placed_feature/beach_boulders.json"
@@ -954,6 +954,14 @@ hash = "6d7601f2b5bfd710459c5c273c514bede346bc84c8f42b8852b1372dfacad32b"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/tags/worldgen/biome/has_structure/dripstone_portal.json"
+hash = "230cd0473e9a2a0ffe157e8635236dc7d1cd3bd4f10827577fcce8a8d572db0c"
+
+[[files]]
+file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/tags/worldgen/biome/has_structure/lush_portal.json"
+hash = "9a787bec13847e07bd26a5298d06fc5feec953a5c824bbe877249d3e4e221c9b"
+
+[[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/processor_list/blackstonier.json"
 hash = "0c200fa87a604d36f1bf758566a146837a3d9915e6dea39ea7852cc5df2c6872"
 
@@ -987,15 +995,15 @@ hash = "5767ccc4079cd0ae1cd77ffbb96abd1c0076d8e072e47521b6c245daef81d5af"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/dripstone_portal.json"
-hash = "a676bcafe624dec9ab8ce8bd591a33787e3f4c31baf6fd9eb7244b82cf9cb4ec"
+hash = "33747481be33ece2dcfe3f8931ab95a12c2f191860dcd7c846e9d4acad1c2856"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure/lush_portal.json"
-hash = "4fedfaf38615758409305c0c94d3430caac5ca041fe7367e016ef07261491ced"
+hash = "081a10dd9a1ad0b1dee66dc63ec57a333b1e4ba6cca6def0a559f704e3b3752f"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/structure_set/jigsaw_portals.json"
-hash = "1cd2c63c0734e51f08d109be09c0012d3036c9e077e2c69b7a6428bdae9cf580"
+hash = "3f1e9e2a8439424e6e99c805057ed47df4d16806b9702a52abedf4ea82309671"
 
 [[files]]
 file = "config/paxi/datapacks/jigsaw_portals/data/minecraft/worldgen/template_pool/deepslate_portals.json"
@@ -1226,7 +1234,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "3d4ad333e00e05f251af42d824dec81dce737c761c6d46983f06bb95a82dd31c"
+hash = "9da96565c6f6713ec2fb81fe4c0b19bce94cfdff10f55eb7bf54a88ddbf5a85b"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1434,14 +1442,18 @@ hash = "f72c28371db90d162c971481c7ab37a478ccab3a592a81069a555b97e03d1551"
 
 [[files]]
 file = "kubejs/config/unique_items.json"
-hash = "e0548dfc93614371b40a45112b584ca8bd2cc9b06c0e3c696cefd2b59f822550"
+hash = "54ee04433f4c45550a0ca4dd206ed43d59beb1c1c81c8fc45d81da4db09f6c4b"
 
 [[files]]
 file = "kubejs/data/additionalentityattributes/attributes/overrides/generic.water_speed.json"
 hash = "020fd74e17d35f81bef2857f68f23bd464e75d95b5885464cf361a325528d08a"
 
 [[files]]
-file = "kubejs/data/archeologyplus/desert.json"
+file = "kubejs/data/archeologyplus/worldgen/structure/desert_temple.json"
+hash = "d4f14a24ee6303a43dedc60f2d9ed927b5e8faa87351890e9307dc7700e83208"
+
+[[files]]
+file = "kubejs/data/archeologyplus/worldgen/structure_set/desert.json"
 hash = "b34fe4137bedcbe258674b1cccfed9495ec6e29c6e7a36aa0d0103cf23b831bd"
 
 [[files]]
@@ -1635,6 +1647,18 @@ hash = "3a38e907a00ca93e71d4249847210ea9057ffdbea29906b4a45b1bf99fe95c1e"
 [[files]]
 file = "kubejs/data/geophilic/worldgen/configured_feature/bush/jungle.json"
 hash = "762d84efd50ef778cfe27a82239723cb7e81745e8d325aceab9ade48f5186c06"
+
+[[files]]
+file = "kubejs/data/geophilic/worldgen/configured_feature/tree/oak/swamp/classic.json"
+hash = "cd51f998e4002f673499cd1cb217889eb647acfc803919c663d802f0886fbd08"
+
+[[files]]
+file = "kubejs/data/geophilic/worldgen/configured_feature/tree/oak/swamp/modern.json"
+hash = "b56b781cf05a68bab68165b22313a9bd0b56fd978a973389fb11507be22d246c"
+
+[[files]]
+file = "kubejs/data/geophilic/worldgen/configured_feature/tree/oak/swamp/young.json"
+hash = "1b043af443e0ce102e0c92fe490c368e526630b7ee9cec2cea0f139e70cf209b"
 
 [[files]]
 file = "kubejs/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
@@ -1853,6 +1877,10 @@ file = "kubejs/data/kaisyn/loot_tables/village/village_swamp_house.json"
 hash = "7a059538461b973f51aaa3d6a2e4fcabc71d8bb402bb7c9d264da4fe186225e2"
 
 [[files]]
+file = "kubejs/data/kaisyn/worldgen/template_pool/outpost/pillagers/outpost_captain.json"
+hash = "b7a1f7d1f2a5d681ec3625e0125d49da1e11f4eb370067872120d371c5532520"
+
+[[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"
 hash = "d30969d2e4b36d1daaabd73aa17241f8f279a43d82e36fd8c021afaf60852aba"
 
@@ -1891,10 +1919,6 @@ hash = "72d0b3e21d2bea992468385ad05fea82973d3557605b7a2d9050acd7459e086f"
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/buried_treasure.json"
 hash = "6c554910b31b07ebfcb9b47f92be433decd78182d7d87e97d4321975058c1fd1"
-
-[[files]]
-file = "kubejs/data/minecraft/loot_tables/chests/desert_pyramid.json"
-hash = "27879bd476495ffe6ce4d76443e914be3c252fc2b9c618982d3b5be2dc2d6301"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/pillager_outpost.json"
@@ -2438,7 +2462,7 @@ hash = "a475804c69f210b182e9eb60442a92b7e0c826bf6b239ec6f167ed6152abcdbb"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/rooted_azalea_tree.json"
-hash = "de39965744d3d88ed08b8c836af194c4c805db3f7d96f7d20936c1a4f87a7a96"
+hash = "e7f17771aa38601284471c4131fe2c378f507794b2d0901d7e7bb420895d27df"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/small_basalt_columns.json"
@@ -2481,6 +2505,10 @@ file = "kubejs/data/minecraft/worldgen/structure/bastion_remnant.json"
 hash = "e64ab3932fe8f563452055b35580b12ef94537b72e51cb77848498fa358a99d9"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/structure/desert_pyramid.json"
+hash = "2b685bebf8a829b0f454f84d74553d888a629475e663c1936781bef349cfcd4a"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure/pillager_outpost.json"
 hash = "9c4e15e6b962f4e83b4c552212836bad26a9362dd22081caad0409603989d14f"
 
@@ -2510,7 +2538,7 @@ hash = "3684efbe9627d9e419bfe123b5eee4824cfd7837ca1d883eb9ee59062d17b6b4"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/desert_pyramids.json"
-hash = "feb7c9dc496d0286e652cbe8eb2998ca654a4be9361a105e8146e0830e588894"
+hash = "779a7d759be8a5b849cf79c5e08633c17a0ad4071481f178c405072ff9733529"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/pillager_outposts.json"
@@ -2878,7 +2906,7 @@ hash = "65eab06d98d318271c833701cc3ff8262b6e0e8758ab14b9dd3459dbc5226ce1"
 
 [[files]]
 file = "kubejs/data/mostructures/worldgen/structure/big_pyramid.json"
-hash = "5b9cbb4c4a86f8ebacf5e26966dd7191973ae5bd730f33817cb5d31b34e72fa3"
+hash = "16e3ba1b7e79e6ad81104f675053c45014d77c21ae6b6f9c1023cb470d243b53"
 
 [[files]]
 file = "kubejs/data/mostructures/worldgen/structure/ice_tower.json"
@@ -2934,39 +2962,39 @@ hash = "648869a3f1f3422dfbce353a342f58e44aeeb3977d0a462feb5efaf7d6a0f111"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/buried_treasure.json"
-hash = "3816dfe5bc92fff9f0856ea1af7955ede91982ae03fd20aa150911a8415c169a"
+hash = "f3e12126d3987f4c3a0628d4a769a988146f0ac9278fe8f70f5337572b975e3b"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/desert_pyramid.json"
-hash = "8fb9eeeaf090afc3a0438b9fd6e6be5b23b0f17014b51dbcc0a288261f999b1c"
+hash = "c1b1b2094e2b9e85329eefcef894adaf1e65db277b678ecdea390132ce1c31c2"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/jungle_temple.json"
-hash = "18ecbb2df52ca28da891a0ef2abad65ed2940db3285c31b6b06c99d1891c98a6"
+hash = "9e07a3718b6c6c5b69bdab602f9edc50f3447da25e45834092bc68e21aa727c9"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/pillager_outpost.json"
-hash = "0792c6c1b96ea8e3d46749c85b0dcf2a4e26511347af4007f106c0c670d25db2"
+hash = "5b94ef13973912b7417a974c9dfab0c53164a51992b0fc1c1ccc657c60faf101"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/simple_dungeon.json"
-hash = "6c6780f6df88835ea521d0d5e3dd6d20b57836fa05ad356819d6a66eadf01f28"
+hash = "e2eee9687f7b41809156ca7e14a753f35bbee7d3444334ea10285a0ab0241914"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/stronghold_corridor.json"
-hash = "254062b4ce586406fdc82d3d0dfad312dface2fff4aeae4a8bb9712847970ddd"
+hash = "53cebb94e25c096670afead2fb189cf00a7d569bbe5f06ecbaedb987c925fb2f"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/stronghold_crossing.json"
-hash = "90ed6a56c338f0db1b9fb1b173d8d148ee9465d2d613641ac167e9cd12edf0c5"
+hash = "9fddd38b53fe37a90e963c4b4a0ca037fe77294b2ee888f435363382245acd5c"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/stronghold_library.json"
-hash = "7cd73e6fe6dd564ccf0404dbab50d8d25f1592469e0106814591c52c17eb50ac"
+hash = "f30e88bfe4131db6a90c1e55a31f0646c200f75d406777fa3d4ed81910569369"
 
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/woodland_mansion.json"
-hash = "8ae03527f6660534421ae2c0cd0ea1548e4665331a248f544b4208503b24d592"
+hash = "3692e813acc551108ff8f7a7a8cabb9cb407363791135061058b21377246bfcc"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/bane_of_arthropods.json"
@@ -3207,10 +3235,6 @@ hash = "e00b1e102d76d496b314592df911852df72a85ab56ddf88245bd063bba109c74"
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure/small_pillager_tower.json"
 hash = "d586a1a09854746a994e53b8749622e1e029fb00ec857030722d28504f111e62"
-
-[[files]]
-file = "kubejs/data/mvs/worldgen/structure/stone_fountain.json"
-hash = "f8a26b1aef1edbdd4520a43edf9857a2b8ef08fda2a0f47f120205b0738ef5df"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/cartographer_tower.json"
@@ -3790,7 +3814,7 @@ hash = "f1715b662252783a32bf178f6fd2b9d833d6e75813867420f7f2ca05d69bd9cd"
 
 [[files]]
 file = "kubejs/data/nova_structures/worldgen/structure/desert_ruins.json"
-hash = "349553c3ac5dd2ddb2957a2f2bb685748510de000583a4f0614c23869ba27f7d"
+hash = "8f144eace5f47ea1c1461610f994d4f5b52072e5182a5bbecaacee1f582c8744"
 
 [[files]]
 file = "kubejs/data/nova_structures/worldgen/structure/donjon.json"
@@ -4150,11 +4174,11 @@ hash = "62f0b0ced9ca020965a3b7b4e1148c5396fce0d688a50d1d8d3aaaecb4f240b6"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
-hash = "c13062c8600222a84d42a6733b9610a0525b3572ee52c7462bbcb3d28d801ef7"
+hash = "094ef5d748f58e3cabf41f2922f60771ba054f742a358793cc23e7b4b71be4bc"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck_beached.json"
-hash = "ea16f15665ddf222d2e94e10edf1057fc2d9c64d8d4f13062b3107e56e92c51c"
+hash = "1dc10c9228e73646e383153ff9c0bf75a644b3212d2016d7131c51f09930e711"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
@@ -4297,12 +4321,16 @@ file = "kubejs/data/spectral_seas/equipment_sets/diving_set.json"
 hash = "08ed5483b3bc996028d4a6aa9e9b13e4334dc18e74d2f392dd20d2fecae20e02"
 
 [[files]]
+file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_desert_mimic_placement.json"
+hash = "3247c892e3df8ff745ad602fb2b0586b7e331cf2914d5e2991fa41e9ea49fb3b"
+
+[[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_pillager_large_structure_placement.json"
-hash = "d2f7e733a874a3352b0449a0c86adcca64860d516e95001ac475a9551751fdcf"
+hash = "983f8816a70a93f598b6d081eac26ef0dc2d6a0a6df7774f16021011a1155517"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_ruin_placement.json"
-hash = "f0ae0ef18b52bc7c182fc5d26cafb0a31fbe732f476cb47c512ca4bed014e5ef"
+hash = "3a78006399bbfe947302952e3dd675fbff54738c24aaa1c3d2f142c752349b94"
 
 [[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/better_tavern_placement.json"
@@ -4562,7 +4590,7 @@ hash = "272f4e272e3eb25f2ad220a5c044b8f2968831ffa79cc895e1df0d71ab06a8c6"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure/mimic_desert.json"
-hash = "792b59f1f7d068393dda4b60d31d9a85bec83ad6b372bed24028b1d72269c177"
+hash = "e7c51557f507a7839c8858b42c300e294eea0cd0a2200d958e490bdc8b0f614f"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure/village_badlands.json"
@@ -4745,8 +4773,12 @@ file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
+file = "kubejs/server_scripts/big_pyramid_spawner.js"
+hash = "c92ed767a48693fe9e8c0c953cc702c1d4b1c88c1efe5c03cdbe247960e5403e"
+
+[[files]]
 file = "kubejs/server_scripts/food/suspicious_chowder.js"
-hash = "208c90f237651f4d3d9717f727120e1bf3eecdabd292faaaea48926db25d9c14"
+hash = "baca45be830a9b9b2087f9db818b9b651c715e48e45d6c111fa35ba4562bedb7"
 
 [[files]]
 file = "kubejs/server_scripts/item/broken.js"
@@ -4765,16 +4797,20 @@ file = "kubejs/server_scripts/item/urn.js"
 hash = "4a3e4e4a98dbf20836eeee7547f86491766f20d35570d5a00ee3790ea44729c7"
 
 [[files]]
-file = "kubejs/server_scripts/level_load_test.js"
-hash = "aa7b33c5dfa891964299179770f902e2ac683cc906d75ee344820338765cbbf5"
+file = "kubejs/server_scripts/loot/Armor.js"
+hash = "eca6949303bc9aca2e9b8c81e76690613facd6d0346c52658a4a1d0b2a5b5296"
+
+[[files]]
+file = "kubejs/server_scripts/loot/EnchantSets.js"
+hash = "bbfac320a5a6c3e8afd584f346aa5c4c91cc1e081f08f6e8bf632761c1fdf85a"
+
+[[files]]
+file = "kubejs/server_scripts/loot/Loot.js"
+hash = "bb2f775b44f30263d90023f6a0ce3de929e3d3f1ab1dc26f7074ed85b517f108"
 
 [[files]]
 file = "kubejs/server_scripts/loot/grave_dirt_loot.js"
 hash = "58ae109fdee11cdf61500891e9c320e8b184ef023696316e919981a21167b55f"
-
-[[files]]
-file = "kubejs/server_scripts/loot/loot_utils.js"
-hash = "60cffbb576d5bbe00edf9995da4e4b36f0a9953b0db1f55c289bbad569483352"
 
 [[files]]
 file = "kubejs/server_scripts/loot/pity_chest.js"
@@ -4786,11 +4822,15 @@ hash = "02238246be245b92ad21af48e4148ebf67e89447a2ce9fa39929dd39b480843d"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/desert_pyramid.js"
-hash = "973c55d67196dde236e06ab2d146eb197069718d4c22a26818116d9f18006990"
+hash = "699dfe313d4b032b6d4fb3cb841868e70ddd1983a47a841a42fc949b36a8bdb5"
+
+[[files]]
+file = "kubejs/server_scripts/loot/tables/jungle_temple.js"
+hash = "1a80160fd3a8d33e1a368e2075c0b7b3174c81757c758358bbb2bf3f84ba97c6"
 
 [[files]]
 file = "kubejs/server_scripts/loot/unique_items.js"
-hash = "7773427e03497646cb8958d541da47dd6614e84fff3afd1c50b2b621eddec521"
+hash = "ac9b9e4c77427e53ebc0d84b97a24fba192f3429006a971859cfc0a6f831d794"
 
 [[files]]
 file = "kubejs/server_scripts/map/clear_grave.js"
@@ -4806,7 +4846,7 @@ hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
 
 [[files]]
 file = "kubejs/server_scripts/mobs/spawn_replacements.js"
-hash = "3714f1e9656579be9059741a6a2ac96b6a04a58d390e07d59d816d41e41f99b4"
+hash = "f064366aceb333763a0bfdde6805c6b1f2bdf8633f50fa2203f1481c4e3f2cc7"
 
 [[files]]
 file = "kubejs/server_scripts/player/spawn_distance.js"
@@ -4833,6 +4873,10 @@ file = "kubejs/server_scripts/remove_enchanting_blocks.js"
 hash = "4c8192615ef23523cc28f9a96be11725569f2ed3bdbe59ebc92d7007d0fe4484"
 
 [[files]]
+file = "kubejs/server_scripts/replace_ominous_banner.js"
+hash = "afc3f641c0f478bfb0ca13afcc2ac2d2ff5568f287455332ed692927b6340438"
+
+[[files]]
 file = "kubejs/server_scripts/ship/ship_sleep.js"
 hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
 
@@ -4843,10 +4887,6 @@ hash = "41bbbcd1caa4113f4846fd1cef75bb01351a4faaddb64640945529d6122c0ae9"
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
 hash = "9ac452822c580f51c0f5f5be90fb26cb987ce83c567861fe8253fc90c5c73a62"
-
-[[files]]
-file = "kubejs/server_scripts/structure_map.js"
-hash = "e7e1af0113dc59142ee6653558769dd35b762e1505fa38e49728de6141d64fe2"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
@@ -4862,7 +4902,7 @@ hash = "6e3814918b50de7acf0fd3ed44968b6b98abc48b7eb336e76c3fcf7e41640c6c"
 
 [[files]]
 file = "kubejs/startup_scripts/effects/size.js"
-hash = "0c295aeccbf6bfea46183bc9a5f9eb66e673a76d681e69226ec82a1ba76ea183"
+hash = "1f6e0b2a54e0f0687c1eef5b558ad87ec8717cb38f030b58bb616798dec5ed33"
 
 [[files]]
 file = "kubejs/startup_scripts/effects/water_speed.js"
@@ -5339,6 +5379,10 @@ hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
 
 [[files]]
+file = "mods/fortress-tweak-1.1.0+1.20.1.jar"
+hash = "7586072ce81eb527ed44bdfdfef2816e61fcc58bbbcbb6c7d1e99efb0be94a2c"
+
+[[files]]
 file = "mods/fryc-mob-variants.pw.toml"
 hash = "3af694106a16d278f9ef1487ea605afe14ae8a20a99efeda3e93b9d1b022a7a6"
 metafile = true
@@ -5569,6 +5613,10 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-0.1.0.jar"
+hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
@@ -5655,7 +5703,12 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "cfe81faf28521ccac17652ac7dcc37d79165320b2f986def5298914bb7876988"
+hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
+metafile = true
+
+[[files]]
+file = "mods/nbt-glint.pw.toml"
+hash = "c448d5899486032cea6e4acba19628b29bfe8b4fd3d049260ef15cf4d2342cda"
 metafile = true
 
 [[files]]
@@ -5727,6 +5780,10 @@ metafile = true
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
+
+[[files]]
+file = "mods/pesky_seagulls-1.2.1.jar"
+hash = "18675d6e8ee8ced60ded097ac15f37dc856887802ccea96083d7fc9696bc5e74"
 
 [[files]]
 file = "mods/pettable.pw.toml"
@@ -5991,6 +6048,11 @@ metafile = true
 [[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
+metafile = true
+
+[[files]]
+file = "mods/swampier-swamps.pw.toml"
+hash = "c2816c475398ea215d1f6f3b4f03ccd62e29e040bb04575222dea68d20af92fd"
 metafile = true
 
 [[files]]
