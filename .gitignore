@@ -1,7 +1,6 @@
 *
 !config
 !config/**
-**/.DS_Store
 !defaultconfig/
 !kubejs
 !kubejs/**
@@ -11,8 +10,9 @@
 !index.toml
 !pack.toml
 !LICENSE
-!resourcepacks/*.toml
+!resourcepacks**/*
 !shaderpacks/*.toml
+**/.DS_Store
 
 config/chunky/tasks/
 config/fabric
