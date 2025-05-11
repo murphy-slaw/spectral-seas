@@ -1,0 +1,13 @@
+name = "Extra Damage Enchantments"
+filename = "extra-damage-enchantments-1.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d2UQqqct/versions/ulmKED3b/extra-damage-enchantments-1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "f3141e2a26d28728b24e18e7a68e9faa50fb516171ca3b08518b47e4399e433c685a13c29028a1573e474c4a8e40d721cdde65a95358e8fd8d2c4d7043bb1b2b"
+
+[update]
+[update.modrinth]
+mod-id = "d2UQqqct"
+version = "ulmKED3b"

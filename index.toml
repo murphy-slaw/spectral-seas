@@ -5247,6 +5247,11 @@ hash = "9094f025f6d32339b7653e936481f0203153c8c6df730d792881266a24f6fe7f"
 metafile = true
 
 [[files]]
+file = "mods/combatplus-core.pw.toml"
+hash = "cf164cd1286cfe97c6fdd49791b7042aea361d302552edd25f182d0e8d7782ae"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
 metafile = true
@@ -5432,6 +5437,11 @@ hash = "0c47d03d8d357331a7d48f1fb498708c5aae3ade57727280aa39c9744dab7c32"
 metafile = true
 
 [[files]]
+file = "mods/extra-damage-enchantments.pw.toml"
+hash = "74ed8ad1709edbf4315cb8bc0c0fc5f4585d5bd571e89846fcec1c95c1095015"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
@@ -5485,6 +5495,10 @@ metafile = true
 file = "mods/formations.pw.toml"
 hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
+
+[[files]]
+file = "mods/fortress-tweak-1.1.0+1.20.1.jar"
+hash = "7586072ce81eb527ed44bdfdfef2816e61fcc58bbbcbb6c7d1e99efb0be94a2c"
 
 [[files]]
 file = "mods/fryc-mob-variants.pw.toml"
@@ -5717,6 +5731,10 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-0.1.0.jar"
+hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
@@ -5880,6 +5898,10 @@ metafile = true
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
+
+[[files]]
+file = "mods/pesky_seagulls-1.2.1.jar"
+hash = "18675d6e8ee8ced60ded097ac15f37dc856887802ccea96083d7fc9696bc5e74"
 
 [[files]]
 file = "mods/pettable.pw.toml"
@@ -6287,16 +6309,7 @@ file = "patchouli_books/mariners_handbook/en_us/categories/start.json"
 hash = "68c234ebc2523abe74d4ed21d6450a4236dc3cebef7413ee53a6e7c5d954b5b2"
 
 [[files]]
-file = "patchouli_books/mariners_handbook/en_us/categories/the_drowned_world.json"
-hash = "bb13e4e550f7bc07234d0f6f8eda8c230e3691803ee83731914bfe5d31f49642"
-
-[[files]]
-file = "patchouli_books/mariners_handbook/en_us/entries/life_at_sea/cargo.json"
-hash = "a853a95d0dfa0b77467c6e12a7252ebca2446358c9e959aab6716703ee8b2da4"
-
-[[files]]
-file = "patchouli_books/mariners_handbook/en_us/entries/life_at_sea/home.json"
-hash = "51f85b1be3c531b3441ef1e31d95f6009dcc787c43ff8b0057aa65a57352e08b"
+file = "patchouli_books/mariners_handbook/en_us/categories/the_drowned_worf6009dcc787c43ff8b0057aa65a57352e08b"
 
 [[files]]
 file = "patchouli_books/mariners_handbook/en_us/entries/life_at_sea/livery.json"
@@ -9659,6 +9672,14 @@ file = "python/lib/python3.12/site-packages/numpy/lib/tests/__pycache__/test_io.
 hash = "417637b6d59add94084e4da173bcffab161ca178ffa61409439ab6bc72e3e499"
 
 [[files]]
+file = "python/lib/python3.12/site-packages/numpy/lib/tests/__pycache__/test_index_tricks.cpython-312.pyc"
+hash = "decbb969afa926bbfb39edeea47af37b384107d636377eca8da510b25e3d8914"
+
+[[files]]
+file = "python/lib/python3.12/site-packages/numpy/lib/tests/__pycache__/test_io.cpython-312.pyc"
+hash = "417637b6d59add94084e4da173bcffab161ca178ffa61409439ab6bc72e3e499"
+
+[[files]]
 file = "python/lib/python3.12/site-packages/numpy/lib/tests/__pycache__/test_loadtxt.cpython-312.pyc"
 hash = "2f86d63194c5946959b09f1b3eb792bf073c6299dfb8b361dabbad5c480efacc"
 
@@ -11431,16 +11452,7 @@ file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/array
 hash = "f08fbfbc8b45014e5ee01e93cbdc2c6bf635373c37961fc4be64a891b0a5516f"
 
 [[files]]
-file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/arraysetops.pyi"
-hash = "4a5065b1d2138f63de691fdbcb4de7cac44760f8771bd824bef723e5c2a01560"
-
-[[files]]
-file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/arrayterator.pyi"
-hash = "2ca9e91d3fcbdffab3cde00e4705655822ed268a3fe36197376647cae5b1f53d"
-
-[[files]]
-file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/bitwise_ops.pyi"
-hash = "b0454ca5ff9006c4c30046a233da1b2270122930d140b564d848fc0d63799cb6"
+file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/array"b0454ca5ff9006c4c30046a233da1b2270122930d140b564d848fc0d63799cb6"
 
 [[files]]
 file = "python/lib/python3.12/site-packages/numpy/typing/tests/data/reveal/char.pyi"
@@ -15716,6 +15728,14 @@ hash = "a8e04922e3f2ff8072607e96fdb360245faa610d83a14f9d2ac0eee724560978"
 
 [[files]]
 file = "python/lib/python3.12/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-312.pyc"
+hash = "bc8f900ffce9b367ed2a4edf42156c670d14fb4ce69bd4362e01b268f5da7056e7240692d10e846"
+
+[[files]]
+file = "python/lib/python3.12/site-packages/pip/_vendor/webencodings/__init__.py"
+hash = "a8e04922e3f2ff8072607e96fdb360245faa610d83a14f9d2ac0eee724560978"
+
+[[files]]
+file = "python/lib/python3.12/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-312.pyc"
 hash = "bc8f900ffce9b367e4b74bffe7e5ba9e276cfa3f211b4a22c7c2a218989b2f8e"
 
 [[files]]
@@ -16717,15 +16737,7 @@ file = "resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece
 hash = "5fdebb7a729927325a45cff978f78dc8868152eee44cd656b651314d5ead0c23"
 
 [[files]]
-file = "resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_01.json"
-hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
-
-[[files]]
-file = "resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_02.json"
-hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
-
-[[files]]
-file = "resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_03.json"
+file = "resourcepacks/antique_atlas_respacks/assets/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/cos/kaisyn/atlas/structure/piece/jigsaw/single/village/meadow_swiss/streets/corner_03.json"
 hash = "c9bbb0e4b7f5e6297e69106007a3cbc36cf8471a523ffa185e4aa2d746c7623c"
 
 [[files]]
@@ -18093,6 +18105,14 @@ hash = "b2dc34fe538a1293e40cc3d74eba3c0540cb8dc989db188cad74e0aa3acb7561"
 [[files]]
 file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/crystal_gardens.json"
 hash = "4a53a52ddc4a45574ef2111c221075edf30bb84c2bf99f350038439c2ff780cf"
+
+[[files]]
+file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/deep_barrens.json"
+hash = "2cba0b254003450f4e23c1d3ab3ed38f0a42084b9bca12e461e8d357f5b2ab5d"
+
+[[files]]
+file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/deep_dripstone_caves.json"
+hash = "da38a18defe2995e081189f0a80f430305fef271255cf7eb964a88439c2ff780cf"
 
 [[files]]
 file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/deep_barrens.json"
