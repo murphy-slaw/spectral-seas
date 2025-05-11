@@ -4905,6 +4905,10 @@ file = "kubejs/server_scripts/loot/Armor.js"
 hash = "eca6949303bc9aca2e9b8c81e76690613facd6d0346c52658a4a1d0b2a5b5296"
 
 [[files]]
+file = "kubejs/server_scripts/loot/Banners.js"
+hash = "248f4c5628d01c3a2c06f1d958f876d6ab0d4cd67fd67912b9c2d77c19ad9fb3"
+
+[[files]]
 file = "kubejs/server_scripts/loot/EnchantSets.js"
 hash = "bbfac320a5a6c3e8afd584f346aa5c4c91cc1e081f08f6e8bf632761c1fdf85a"
 
@@ -4926,7 +4930,7 @@ hash = "02238246be245b92ad21af48e4148ebf67e89447a2ce9fa39929dd39b480843d"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/desert_pyramid.js"
-hash = "699dfe313d4b032b6d4fb3cb841868e70ddd1983a47a841a42fc949b36a8bdb5"
+hash = "b0353bfcb2998f4eea042015452cff9f4484763207888717ca2f09fa14c4e889"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/jungle_temple.js"
@@ -4950,7 +4954,7 @@ hash = "ba7c85791a4ab4359d556e2ed29f9b0945f7ba132f3bbe78fcc80ff621a88d0f"
 
 [[files]]
 file = "kubejs/server_scripts/mobs/spawn_replacements.js"
-hash = "f064366aceb333763a0bfdde6805c6b1f2bdf8633f50fa2203f1481c4e3f2cc7"
+hash = "54693b3ca75c7b45c6ebc1bc1e39ede134887690f887026d0e8df03efb51106f"
 
 [[files]]
 file = "kubejs/server_scripts/player/spawn_distance.js"

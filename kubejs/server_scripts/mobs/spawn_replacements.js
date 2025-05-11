@@ -16,10 +16,6 @@ const vindicatorWeapons = [
     'minecraft:iron_axe',
 ]
 
-const PIRATE_BANNER = Item.of('minecraft:black_banner', {
-    BlockEntityTag: { Patterns: [{ Pattern: 'sku', Color: 0 }] },
-})
-
 const pillagerWeapons = ['musketmod:pistol']
 
 EntityEvents.spawned(event => {
@@ -39,7 +35,7 @@ EntityEvents.spawned(event => {
         if (entity.getHeadArmorItem().empty) {
             entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
         } else if (entity.getHeadArmorItem().item == 'white_banner') {
-            entity.setHeadArmorItem(PIRATE_BANNER)
+            entity.setHeadArmorItem(BANNERS.JOLLY_ROGER)
         }
         if (entity.type == 'minecraft:pillager') {
             entity.setItemSlot('mainhand', Item.of(Utils.randomOf(Utils.random, pillagerWeapons)))

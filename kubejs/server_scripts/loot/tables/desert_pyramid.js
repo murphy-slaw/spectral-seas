@@ -16,11 +16,9 @@ const pharaoh_regalia = ctx => {
             .when(c => c.randomChance(0.7))
             .limitCount([2, 5]),
 
-        LootEntry.of('minecraft:yellow_banner').when(c => c.randomChance(0.7)),
-
-        LootEntry.of('minecraft:purple_banner').when(c => c.randomChance(0.7)),
-
-        LootEntry.of('minecraft:blue_banner').when(c => c.randomChance(0.7)),
+        LootEntry.of(BANNERS.PURPLE_ANKH).when(c => c.randomChance(0.7)),
+        LootEntry.of(BANNERS.DESERT_SUN).when(c => c.randomChance(0.7)),
+        LootEntry.of(randomBanner()).when(c => c.randomChance(0.7)),
 
         LootEntry.of('supplementaries:urn', {
             Items: [{ Slot: 0, Count: 5, id: 'minecraft:bone' }],
