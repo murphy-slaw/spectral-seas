@@ -1,3 +1,4 @@
+const $RemovalReason = Java.loadClass('net.minecraft.world.entity.Entity$RemovalReason')
 const $HybridAquaticEntityTypes = Java.loadClass(
     'dev.hybridlabs.aquatic.entity.HybridAquaticEntityTypes'
 )
@@ -6,15 +7,18 @@ const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK
 
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 const $TurtleEntityType = $EntityType.TURTLE
+const $SquidEntityType = $HybridAquaticEntityTypes.INSTANCE.VAMPIRE_SQUID
 const MONSTER_TYPES = ['hybrid-aquatic:great_white_shark', 'minecraft:turtle']
-const MONSTER_ENTITY_TYPES = [$TurtleEntityType, $SharkEntityType]
+const MONSTER_ENTITY_TYPES = [$SharkEntityType]
 
 const $BoatClass = Java.loadClass('net.minecraft.world.entity.vehicle.Boat')
 const $InteractionHand = Java.loadClass('net.minecraft.world.InteractionHand')
 const $TagKey = Java.loadClass('net.minecraft.tags.TagKey')
 
 const MONSTER_CHECK_TICKS = 300
+const MONSTER_DOOM_TIME = 300
 const MONSTER_ATTACK_COOLDOWN = 80
+const MONSTER_DIFFlCULTY_THRESHOLD = 2.0
 
 /** @type {Internal.TagKey<Internal.Biome>} */
 const IS_DEEP_OCEAN = $TagKey.create(
@@ -47,6 +51,18 @@ const isBlockPosInBiomeTag = (level, blockPos, biomeTag) => {
 
 /**
  * @param {Internal.Mob} mob
+ * @param {Internal.entity} entity
+ * @returns {boolean}
+ */
+function isValidTarget (mob, entity) {
+    let valid =
+        isBlockPosInBiomeTag(mob.level, entity.blockPosition(), IS_DEEP_OCEAN) &&
+        entity.distanceToEntity(mob) <= mob.attributes.getValue('generic.follow_range') // && entity.hasPassenger(entity => entity.player)
+    return valid
+}
+
+/**
+ * @param {Internal.Mob} mob
  * @returns {Internal.Entity}
  */
 function getTargetBoat (mob) {
@@ -54,21 +70,25 @@ function getTargetBoat (mob) {
     let target = null
     let range = mob.attributes.getValue('minecraft:generic.follow_range')
     let mobAABB = mob.boundingBox.inflate(range, 32, range)
+    // @ts-ignore
     mob.level.getEntitiesOfClass($BoatClass, mobAABB).forEach(entity => {
-        if (entity != null) {
+        if (entity) {
             let entityDistance = entity.distanceToEntity(mob)
             if (
                 entityDistance <= range &&
-                (target
-                    ? entityDistance < target.distanceToEntity(mob)
-                    : true) &&
+                (target ? entityDistance < target.distanceToEntity(mob) : true) &&
                 entity.hasPassenger(entity => entity.player)
             ) {
                 target = entity
+                mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
             }
         }
     })
-    mob.customData.target = target != null ? target.id : 0
+    if (target) {
+        mob.customData.putUUID('target', target.uuid)
+    } else {
+        mob.customData.remove('target')
+    }
     return target
 }
 
@@ -79,20 +99,29 @@ function getTargetBoat (mob) {
 const hasValidTarget = mob => {
     if (!mob.tags.contains('sea_monster')) return false
     let target = null
-    let targetId = mob.customData.getInt('target')
-    if (targetId != 0) target = mob.level.getEntity(targetId)
+    let targetId = 0
+    try {
+        targetId = mob.customData.getUUID('target')
+    } catch (error) {
+        mob.customData.remove('target')
+    }
+    if (targetId) target = mob.level.getEntity(targetId)
     if (!target) target = getTargetBoat(mob)
-    if (target == null) return false
-    return isBlockPosInBiomeTag(
-        mob.level,
-        target.blockPosition(),
-        IS_DEEP_OCEAN
-    )
+    if (!target || !isValidTarget(mob, target)) {
+        let doomTimer = mob.customData.doomTimer || 0
+        if (doomTimer > MONSTER_DOOM_TIME) {
+            mob.remove($RemovalReason.DISCARDED)
+            return false
+        }
+        mob.customData.doomTimer = doomTimer + 1
+        return false
+    }
+    return true
 }
 
 /** @param {Internal.Mob} mob */
 const addMonsterEffects = mob => {
-    mob.potionEffects.add('spectral_seas:hydrodynamic', -1, 3, false, true)
+    mob.potionEffects.add('spectral_seas:hydrodynamic', -1, 4, false, true)
     mob.potionEffects.add('minecraft:glowing', -1, 0, false, false)
 }
 
@@ -102,10 +131,12 @@ const removeMonsterEffects = mob => {
     mob.removeEffect('minecraft:glowing')
 }
 
+/** @param {Internal.Mob} mob */
 const restoreTarget = mob => {
-    let targetId = mob.customData.getInt('target')
+    let targetId = mob.customData.getUUID('target')
     let target = targetId != 0 ? mob.level.getEntity(targetId) : null
-    if (target == null || target.removed) {
+    if (!target || target.removed) {
+        mob.customData.remove('target')
         return null
     }
     return target
@@ -143,24 +174,18 @@ const attackTarget = (mob, target) => {
 const attackBoatsTick = mob => {
     let attackCooldown = mob.customData.attackCooldown || 0
     let target = restoreTarget(mob)
-
-    if (target == null) {
-        target = getTargetBoat(mob)
-        if (target == null) return
-        mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
-    }
-    attackCooldown--
-    mob.customData.target = target.id
-    if (target && !target.removed) {
+    if (target) {
         let distance = mob.distanceToEntity(target)
         if (getAttackReach(mob, target) >= distance && attackCooldown <= 0) {
             attackTarget(mob, target)
             attackCooldown = MONSTER_ATTACK_COOLDOWN
         } else {
+            if (mob.age % 10 == 0) mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
             mob.navigation.recomputePath()
         }
-        mob.customData.attackCooldown = attackCooldown
     }
+    attackCooldown--
+    mob.customData.attackCooldown = attackCooldown
 }
 
 MONSTER_TYPES.forEach(type => {
@@ -178,7 +203,7 @@ MONSTER_TYPES.forEach(type => {
          */
         event.customGoal(
             'attack_boats',
-            0,
+            -1,
             hasValidTarget,
             hasValidTarget,
             true,
@@ -189,24 +214,41 @@ MONSTER_TYPES.forEach(type => {
         )
     })
 })
+/**
+ *
+ * @param {Internal.ServerPlayer} player
+ * @returns {boolean}
+ */
+function hasNemesis (player) {
+    if (player.persistentData.Nemesis) {
+        let nemesis = player.persistentData.getUUID('Nemesis')
+        console.log(String(nemesis))
+        if (nemesis && player.level.getEntity(nemesis)) return true
+        player.persistentData.remove('Nemesis')
+    }
+    return false
+}
 
 /**
  * @param {Internal.ScheduledEvents$ScheduledEvent} task
  * @param {Internal.ServerLevel} level
  */
 const monsterSummoner = (task, level) => {
-    console.log('Summoning annoying sea monsters…')
-
     level.getPlayers().forEach(player => {
-        let monsterMap = level.persistentData.getCompound('monsterMap')
-        if (monsterMap.contains(player.stringUuid)) return
+        if (
+            hasNemesis(player) ||
+            !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
+            level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty <=
+                MONSTER_DIFFlCULTY_THRESHOLD
+        )
+            return
 
         /** @type {Internal.LivingEntity} */
-        let monster = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES).create(
-            level
-        )
+        let monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
+        let monster = monsterType.create(level)
         monster.tags.add('sea_monster')
         monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
+        monster.size = 0
         $ScaleTypes.BASE.getScaleData(monster).setScale(2)
 
         let veh = player.getVehicle()
@@ -221,8 +263,11 @@ const monsterSummoner = (task, level) => {
         )
 
         if (level.tryAddFreshEntityWithPassengers(monster)) {
-            monsterMap.putUUID(player.stringUuid, monster.uuid)
-            level.persistentData.monsterMap = monsterMap
+            console.log(`${player.displayName.string} gets their very own sea monster!`)
+            player.displayClientMessage(
+                'A beast rises from the depths to devour your vessel!',
+                true
+            )
         }
     })
 }
