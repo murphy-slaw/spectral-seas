@@ -3,6 +3,7 @@
     "values": [
         "minecraft:mansion",
         "mostructures:pillager_factory",
+        "mostructures:pillager_mines",
         "nova_structures:illager_manor",
         "nova_structures:witch_villa"
     ]

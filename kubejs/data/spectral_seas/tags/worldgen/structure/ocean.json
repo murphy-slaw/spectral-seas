@@ -3,6 +3,7 @@
     "values": [
         "betteroceanmonuments:ocean_monument",
         "hopo:underwater/underwater_city",
-        "nova_structures:conduit_ruin"
+        "nova_structures:conduit_ruin",
+        "philipsruins:ocean_fortress"
     ]
 }

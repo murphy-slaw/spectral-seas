@@ -10,6 +10,7 @@
         "mvs:ruins/stone_pillars",
         "mvs:ruins/tree_monument",
         "nova_structures:bunker",
-        "nova_structures:ruin_town"
+        "nova_structures:ruin_town",
+        "wabi_sabi_structures:infested_castle"
     ]
 }

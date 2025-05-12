@@ -151,6 +151,10 @@
 			},
 			{
 				"namespace": "mvs",
+				"path": "worldgen/structure.*/houses/barn.json"
+			},
+			{
+				"namespace": "mvs",
 				"path": "worldgen/structure.*/houses/deepslate_house.json"
 			},
 			{
@@ -240,10 +244,6 @@
 			{
 				"namespace": "nova_structures",
 				"path": "worldgen/structure.*/illager_camp.json"
-			},
-			{
-				"namespace": "nova_structures",
-				"path": "worldgen/structure.*/stray_fort.json"
 			},
 			{
 				"namespace": "nova_structures",

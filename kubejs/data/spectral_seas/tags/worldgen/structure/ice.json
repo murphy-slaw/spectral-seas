@@ -2,6 +2,6 @@
     "replace": false,
     "values": [
         "minecraft:igloo",
-        "mostructures:ice_tower"
+        "wabi_sabi_structures:frost_reactor_plant"
     ]
 }
