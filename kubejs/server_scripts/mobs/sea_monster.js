@@ -243,8 +243,8 @@ const monsterSummoner = (task, level) => {
         )
             return
 
-        /** @type {Internal.LivingEntity} */
         let monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
+        /** @type {Internal.LivingEntity} */
         let monster = monsterType.create(level)
         monster.tags.add('sea_monster')
         monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
@@ -268,6 +268,7 @@ const monsterSummoner = (task, level) => {
                 'A beast rises from the depths to devour your vessel!',
                 true
             )
+            player.persistentData.putUUID('Nemesis', monster.getUuid())
         }
     })
 }
