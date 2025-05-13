@@ -158,6 +158,7 @@ function getAttackReach (mob, target) {
 const attackTarget = (mob, target) => {
     mob.swing($InteractionHand.MAIN_HAND)
     mob.doHurtTarget(target)
+    console.log(target.getSoundSource())
     mob.level.playSound(
         null,
         target.x,
@@ -268,11 +269,17 @@ const monsterSummoner = (task, level) => {
                 'A beast rises from the depths to devour your vessel!',
                 true
             )
+            console.log(player.getCamera().blockPosition())
+            let camera = player.getCamera()
             level.playSound(
                 null,
-                player.blockPosition(),
+                camera.x,
+                camera.y,
+                camera.z,
                 'spectral_seas:monster_sting',
-                player.getSoundSource()
+                'NEUTRAL',
+                15,
+                1
             )
 
             player.persistentData.putUUID('Nemesis', monster.getUuid())
