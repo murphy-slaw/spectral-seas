@@ -21,24 +21,24 @@ const Loot = (function () {
 
     /**
      * Return a list of valid enchantments for the given item from the provided list
-     * @param {Internal.LootEntry} entry
+     * @param {Internal.ItemStack} item
      * @param {string[]} pool
      * @returns {Internal.Enchantment[]}
      */
-    function enchantsFor (entry, pool) {
+    function enchantsFor (item, pool) {
         /** @type {Internal.RegistryInfo<Internal.Enchantment>} */
         const reg = Utils.getRegistry('minecraft:enchantment')
-        return pool.filter(v => reg.getValue(v).canEnchant(entry))
+        return pool.filter(v => reg.getValue(v).canEnchant(item))
     }
 
     /**
      * Returns a single valid enchantment for the given item from the pool
-     * @param {Internal.LootEntry} entry
+     * @param {Internal.ItemStack} item
      * @param {string[]} pool
      * @returns {Internal.Enchantment[]}
      */
-    function randomEnchantFor (entry, pool) {
-        const ids = enchantsFor(entry, pool)
+    function randomEnchantFor (item, pool) {
+        const ids = enchantsFor(item, pool)
         return weightedEnchant(ids)
     }
 
@@ -182,6 +182,7 @@ const Loot = (function () {
     return {
         randomOf: randomOf,
         randomEntryOf: randomEntryOf,
+        randomEnchantFor: randomEnchantFor,
         potionOf: potionOf,
         randomPotionOf: randomPotionOf,
         chowderOf: chowderOf,

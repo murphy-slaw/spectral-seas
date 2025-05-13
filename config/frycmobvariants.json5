@@ -1,6 +1,6 @@
 {
 	// Zombies have a chance to convert into stronger variant when they spawn below this Y level
-	"zombieToForgottenConvertLevelY": 26,
+	"zombieToForgottenConvertLevelY": -64,
 	// When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option
 	"fixedChanceToConvertZombieUnderSelectedYLevel": -1,
 	// Skeletons have a chance to convert into stronger variant when they spawn below this Y level
@@ -12,7 +12,7 @@
 	// When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option
 	"fixedChanceToConvertSpiderUnderSelectedYLevel": -1,
 	// Creepers have a chance to convert into stronger variant when they spawn below this Y level
-	"creeperToCaveCreeperConvertLevelY": 26,
+	"creeperToCaveCreeperConvertLevelY": -64,
 	// When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option
 	"fixedChanceToConvertCreeperUnderSelectedYLevel": -1,
 	// For example, when set to 10, Wither Skeleton will have 10% chance to convert to Executioner after spawning

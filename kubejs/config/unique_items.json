@@ -4,6 +4,13 @@
         "artifacts:bunny_hoppers",
         "artifacts:crystal_heart",
         "artifacts:feral_claws",
-        "artifacts:obsidian_skull"
+        "artifacts:obsidian_skull",
+        "artifacts:panic_necklace",
+        "artifacts:universal_attractor",
+        "tridents_n_stuff:icon_of_storms",
+        "tridents_n_stuff:icon_of_evil",
+        "tridents_n_stuff:icon_of_blood",
+        "tridents_n_stuff:icon_of_stars",
+        "tridents_n_stuff:icon_of_depth"
     ]
 }
