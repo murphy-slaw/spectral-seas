@@ -1,0 +1,11 @@
+{
+    "monster_sting": {
+        "sounds": [
+            {
+                "name": "spectral_seas:stinger",
+                "stream": true
+            }
+        ],
+        "subtitle": "Ominous music cue"
+    }
+}

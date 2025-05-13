@@ -268,6 +268,13 @@ const monsterSummoner = (task, level) => {
                 'A beast rises from the depths to devour your vessel!',
                 true
             )
+            level.playSound(
+                null,
+                player.blockPosition(),
+                'spectral_seas:monster_sting',
+                player.getSoundSource()
+            )
+
             player.persistentData.putUUID('Nemesis', monster.getUuid())
         }
     })

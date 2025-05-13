@@ -1,5 +1,8 @@
 const EnchantSets = (function () {
     const TOPAZ = [
+        'extra-damage-enchantments:butcher',
+        'extra-damage-enchantments:herbicide',
+        'extra-damage-enchantments:rebel',
         'hybrid-aquatic:live_catch',
         'minecraft:aqua_affinity',
         'minecraft:fortune',
@@ -38,6 +41,8 @@ const EnchantSets = (function () {
 
     const AMETHYST = [
         'airhop:air_hop',
+        'extra-damage-enchantments:unravel',
+        'extra-damage-enchantments:voidrender',
         'minecraft:respiration',
         'minecraft:depth_strider',
         'minecraft:feather_falling',
@@ -104,6 +109,7 @@ const EnchantSets = (function () {
         'minecraft:smite',
         'staminafortweakers:traveling',
         'spellbound:warlike',
+        'extra-damage-enchantments:unravel',
     ]
 
     const BRUTAL = [
@@ -128,6 +134,7 @@ const EnchantSets = (function () {
         'minecraft:swift_sneak',
         'spellbound:attractive',
         'spellbound:repulsive',
+        'extra-damage-enchantments:voidrender',
     ]
 
     const DEPTHS = [
@@ -147,6 +154,7 @@ const EnchantSets = (function () {
         'spellbound:spikes',
         'minecraft:looting',
         'spellbound:photosynthetic',
+        'extra-damage-enchantments:herbicide',
     ]
 
     const JUNGLE = [
@@ -157,6 +165,7 @@ const EnchantSets = (function () {
         'spellbound:impersonal',
         'spellbound:launching',
         'minecraft:punch',
+        'extra-damage-enchantments:butcher',
     ]
 
     const LUCKY = [
@@ -199,6 +208,7 @@ const EnchantSets = (function () {
         'minecraft:soul_speed',
         'minecraft:thorns',
         'spellbound:vengeful',
+        'extra-damage-enchantments:rebel',
     ]
 
     const GENERIC = [
