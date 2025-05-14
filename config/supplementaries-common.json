@@ -132,11 +132,11 @@
       }
     },
     "cannon": {
-      "enabled": true,
+      "enabled": false,
       "fire_power": 0.6,
       "fuse_time": 40,
       "cooldown": 60,
-      "cannonball": true,
+      "cannonball": false,
       "music_disc_heave_ho": true
     },
     "present": {

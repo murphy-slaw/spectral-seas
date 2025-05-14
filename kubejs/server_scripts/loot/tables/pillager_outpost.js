@@ -18,7 +18,7 @@ const lookout_post = ctx => {
                 .limitCount([1, 3]),
             LootEntry.of('spyglass').when(c => c.randomChance(0.7)),
             LootEntry.of('compass').when(c => c.randomChance(0.5)),
-            LootEntry.of('galosphere:barometer').when(c => c.randomChance(0.5)),
+            LootEntry.of('galosphere:barometer').when(c => c.randomChance(0.2)),
             LootEntry.of('spectral_seas:ship_speed_upgrade').when(c => c.randomChance(0.2)),
             LootEntry.of('spectral_seas:ship_cargo_upgrade').when(c => c.randomChance(0.15)),
             LootEntry.of('sentry_armor_trim_template').when(c => c.randomChance(0.2)),

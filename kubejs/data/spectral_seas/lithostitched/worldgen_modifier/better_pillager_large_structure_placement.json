@@ -4,6 +4,7 @@
     "mostructures:pillager_factory",
     "mostructures:pillager_mines",
     "nova_structures:badlands_miner_outpost",
+    "nova_structures:illager_manor",
     "nova_structures:stray_fort"
   ],
   "spawn_condition": {
