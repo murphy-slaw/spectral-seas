@@ -50,8 +50,7 @@ const Loot = (function () {
      */
     function enchantedFrom (id, pool) {
         const enchantment = randomEnchantFor(Item.of(id), pool)
-        if (enchantment)
-            return LootEntry.of(id).enchantRandomly(randomEnchantFor(Item.of(id), pool))
+        if (enchantment) return LootEntry.of(id).enchantRandomly(enchantment)
         console.log(`No valid enchant found for ${id} in ${pool}`)
         return LootEntry.of(id)
     }
@@ -74,6 +73,17 @@ const Loot = (function () {
         return LootEntry.of(randomOf(ids))
     }
 
+    function randomSetOf (ids, chance, damage) {
+        let entries = []
+        ids.forEach(element => {
+            entries.push(
+                LootEntry.of(element)
+                    .when(c => c.randomChance(chance))
+                    .damage(damage)
+            )
+        })
+        return entries
+    }
     /**
      * Returns a LootEntry of the requested potion type
      * @param {Internal.Potion} type
@@ -182,6 +192,7 @@ const Loot = (function () {
     return {
         randomOf: randomOf,
         randomEntryOf: randomEntryOf,
+        randomSetOf: randomSetOf,
         randomEnchantFor: randomEnchantFor,
         potionOf: potionOf,
         randomPotionOf: randomPotionOf,
@@ -193,3 +204,19 @@ const Loot = (function () {
         smartReplacePools: smartReplacePools,
     }
 })()
+
+const Entry = {
+    of: itemStack => {
+        /** @type{Internal.LootEntry} inst */
+        const inst = Object.create(LootEntry.of(itemStack))
+        console.log(inst)
+        inst.enchantedFrom = function (pool) {
+            console.log(`${this}, ${pool}`)
+            const enchantment = Loot.randomEnchantFor(this, pool)
+            if (enchantment) return Loot.enchantRandomly(this, enchantment)
+            console.log(`No valid enchant found for ${this} in ${pool}`)
+            return this
+        }
+        return inst
+    },
+}
