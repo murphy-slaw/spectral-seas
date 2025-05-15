@@ -5570,6 +5570,10 @@ hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
 
 [[files]]
+file = "mods/fortress-tweak-1.1.0+1.20.1.jar"
+hash = "7586072ce81eb527ed44bdfdfef2816e61fcc58bbbcbb6c7d1e99efb0be94a2c"
+
+[[files]]
 file = "mods/fryc-mob-variants.pw.toml"
 hash = "3af694106a16d278f9ef1487ea605afe14ae8a20a99efeda3e93b9d1b022a7a6"
 metafile = true
@@ -5800,6 +5804,10 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-0.1.0.jar"
+hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
@@ -5963,6 +5971,10 @@ metafile = true
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
+
+[[files]]
+file = "mods/pesky_seagulls-1.2.1.jar"
+hash = "18675d6e8ee8ced60ded097ac15f37dc856887802ccea96083d7fc9696bc5e74"
 
 [[files]]
 file = "mods/pettable.pw.toml"

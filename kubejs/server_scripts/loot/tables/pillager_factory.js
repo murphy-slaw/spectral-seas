@@ -123,10 +123,12 @@ const overseer_chest = ctx => {
             Loot.randomEntryOf(pillagerHats)
                 .when(c => c.randomChance(0.7))
                 .limitCount([1, 2]),
-            Loot.randomEntryOf(Weapons.BLACKPOWDER_ALL)
-                .enchantWithLevels([20, 30])
-                .limitCount([1, 2])
-                .damage([0, 0.25]),
+            Loot.randomEnchantedFrom(Weapons.BLACKPOWDER_LONGARMS, EnchantSets.MUSKET)
+                .when(c => c.randomChance(0.8))
+                .damage([0, 0.5]),
+            Loot.randomEnchantedFrom(Weapons.BLACKPOWDER_LONGARMS, EnchantSets.MUSKET)
+                .when(c => c.randomChance(0.8))
+                .damage([0, 0.5]),
             LootEntry.of('minecraft:potion').addPotion('spectral_seas:grog').limitCount([1, 3]),
             LootEntry.of('minecraft:potion')
                 .when(c => c.randomChance(0.7))

@@ -50,6 +50,12 @@ const Weapons = (function () {
         'musketmod:musket_with_scope',
         'musketmod:musket_with_bayonet',
     ])
+    const BLACKPOWDER_LONGARMS = [
+        'musketmod:musket',
+        'musketmod:musket_with_scope',
+        'musketmod:musket_with_bayonet',
+        'musketmod:blunderbuss',
+    ]
 
     return {
         DIAMOND: DIAMOND,
@@ -59,5 +65,6 @@ const Weapons = (function () {
         WOODEN: WOODEN,
         BLACKPOWDER_BASIC: BLACKPOWDER_BASIC,
         BLACKPOWDER_ALL: BLACKPOWDER_ALL,
+        BLACKPOWDER_LONGARMS: BLACKPOWDER_LONGARMS,
     }
 })()

@@ -221,6 +221,16 @@ const EnchantSets = (function () {
         'spellbound:universal',
     ]
 
+    const MUSKET = [
+        'minecraft:flame',
+        'minecraft:infinity',
+        'minecraft:power',
+        'minecraft:punch',
+        'minecraft:unbreaking',
+        'spellbound:buffered',
+        'spellbound:launching',
+    ]
+
     return {
         TOPAZ: TOPAZ,
         AMETHYST: AMETHYST,
@@ -236,5 +246,6 @@ const EnchantSets = (function () {
         SHALLOWS: SHALLOWS,
         UNDEAD: UNDEAD,
         GENERIC: GENERIC,
+        MUSKET: MUSKET,
     }
 })()

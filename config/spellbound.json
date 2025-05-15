@@ -569,7 +569,7 @@
     "RARITY": 4,
     "SOFT_CAP": 1,
     "HARD_CAP": 1,
-    "BASE_POWER": 0,
+    "BASE_POWER": 50,
     "POWER_PER_RANK": 0,
     "POWER_RANGE": 50,
     "WORDS_PER_LEVEL_BASE": 20,

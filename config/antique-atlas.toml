@@ -17,13 +17,13 @@ graveStyle = "EUPHEMISMS"
 # 0: 1x1 chunk = 1 tile | 6: 64x64 chunks = 1 tile
 # range: 0 - 6
 # default: 5
-maxTileChunks = 5
+maxTileChunks = 6
 # The maximum size to render a tile at, as a power of 2 multiplier
 # Effectively the 'maximum zoom'
 # 0: 1 tile = 16x16 | 3: 1 tile = 128x128
 # range: 0 - 3
 # default: 1
-maxTilePixels = 0
+maxTilePixels = 1
 # The effective GUI scale for tiles and markers - independent of the overall GUI scale.
 # 0 will match your GUI scale - pixels will be the same size as the background & buttons
 # -1 will use half your GUI scale, rounding up.
