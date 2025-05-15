@@ -1,0 +1,13 @@
+name = "EnchantControl"
+filename = "EnchantControl-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tba2qYjO/versions/TWT0gzeV/EnchantControl-1.0.1.jar"
+hash-format = "sha512"
+hash = "f88b3099e0b6dc4b3c13c09d8001a643ebd277b6b02823c7c77d7ad8afa177ce17f99e9eefc3dac9cfafc044dfd3bfdf1963a088f106a9f99c73c1c19a74da91"
+
+[update]
+[update.modrinth]
+mod-id = "Tba2qYjO"
+version = "TWT0gzeV"

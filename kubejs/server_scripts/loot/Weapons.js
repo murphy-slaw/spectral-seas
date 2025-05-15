@@ -44,11 +44,20 @@ const Weapons = (function () {
         'tridents_n_stuff:wooden_spear',
     ]
 
+    const BLACKPOWDER_BASIC = ['musketmod:pistol', 'musketmod:musket', 'musketmod:blunderbuss']
+
+    const BLACKPOWDER_ALL = BLACKPOWDER_BASIC.concat([
+        'musketmod:musket_with_scope',
+        'musketmod:musket_with_bayonet',
+    ])
+
     return {
         DIAMOND: DIAMOND,
         IRON: IRON,
         GOLDEN: GOLDEN,
         STONE: STONE,
         WOODEN: WOODEN,
+        BLACKPOWDER_BASIC: BLACKPOWDER_BASIC,
+        BLACKPOWDER_ALL: BLACKPOWDER_ALL,
     }
 })()

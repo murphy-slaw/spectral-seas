@@ -566,7 +566,7 @@
     "ENABLED": true,
     "IS_TREASURE": true,
     "IS_FOR_SALE": false,
-    "RARITY": 1,
+    "RARITY": 4,
     "SOFT_CAP": 1,
     "HARD_CAP": 1,
     "BASE_POWER": 0,
