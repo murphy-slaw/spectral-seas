@@ -1,5 +1,9 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
+const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
+const $StructureStart = Java.loadClass(
+    'net.minecraft.world.level.levelgen.structure.StructureStart'
+)
 var $ScaleTypes$BASE = $ScaleTypes.BASE
 
 const pillagerHats = [
@@ -18,19 +22,64 @@ const vindicatorWeapons = [
 
 const pillagerWeapons = ['musketmod:pistol']
 
+/**
+ * @param {BlockPos} blockPos
+ * @param {ResourceLocation} structureId
+ * @param {Internal.ServerLevel} serverLevel
+ * @returns {boolean}
+ */
+function posInStructure (blockPos, structureId, serverLevel) {
+    /** @type {Internal.Registry<Internal.Structure> */
+    let reg = serverLevel
+        .registryAccess()
+        .registryOrThrow($ResourceKey.createRegistryKey('worldgen/structure'))
+
+    return (
+        serverLevel
+            .structureManager()
+            .getAllStructuresAt(blockPos)
+            .keySet()
+            .filter(struct => {
+                if (struct.delegate) struct = struct.delegate()
+                return reg.getKey(struct) === structureId
+            }).length > 0
+    )
+}
+/**
+ * @param {Internal.Entity} entity
+ * @param {ResourceLocation} structureId
+ * @param {Internal.ServerLevel} serverLevel
+ * @returns {boolean}
+ */
+function entityInStructure (entity, structureId, serverLevel) {
+    return posInStructure(entity.blockPosition(), structureId, serverLevel)
+}
+
 EntityEvents.spawned(event => {
-    // Define constants
-    /**
-     * @type {Internal.LivingEntity}
-     */
+    /** @type {Internal.LivingEntity} */
     const entity = event.entity
 
-    // Skip the logic if the entity is a player or is not living
     if (entity.isPlayer() || !entity.isLiving()) {
         return
     }
 
     if (entity.mobType === $MobType.ILLAGER) {
+        if (entityInStructure(entity, 'mostructures:pillager_factory', event.level)) {
+            entity.setChestArmorItem(
+                Item.of(
+                    'minecraft:leather_chestplate',
+                    '{Damage:0,Trim:{material:"minecraft:redstone",pattern:"minecraft:sentry"},display:{color:3949738}}'
+                )
+            )
+
+            entity.setLegsArmorItem(
+                Item.of(
+                    'leather_leggings',
+                    '{Damage:0,Trim:{material:"minecraft:redstone",pattern:"minecraft:sentry"},display:{color:3949738}}'
+                )
+            )
+        }
+
         //Don't replace raid captain banner
         if (entity.getHeadArmorItem().empty) {
             entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
