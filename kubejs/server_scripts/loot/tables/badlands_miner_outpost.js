@@ -3,8 +3,8 @@ const mining_supply = ctx => {
     return [].concat.apply(
         [],
         [
-            LootEntry.of('iron_pickaxe').when(c => c.randomChance(0.35)),
-            LootEntry.of('iron_shovel').when(c => c.randomChance(0.35)),
+            LootEntry.of('iron_pickaxe').when(c => c.randomChance(0.25)),
+            LootEntry.of('iron_shovel').when(c => c.randomChance(0.2)),
             LootEntry.of('tnt')
                 .when(c => c.randomChance(0.7))
                 .limitCount([3, 6]),

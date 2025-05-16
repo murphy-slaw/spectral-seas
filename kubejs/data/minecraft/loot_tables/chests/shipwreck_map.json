@@ -34,11 +34,24 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:map"
+          "name": "galosphere:barometer"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:clock"
+          "functions": [
+            {
+              "destination": "minecraft:village",
+              "decoration": "target_x",
+              "function": "minecraft:exploration_map",
+              "skip_existing_chunks": false,
+              "zoom": 1
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Settlement Map"
+            }
+          ],
+          "name": "minecraft:map"
         },
         {
           "type": "minecraft:item",
@@ -80,6 +93,22 @@
               "count": {
                 "type": "minecraft:uniform",
                 "max": 5.0,
+                "min": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:ink_sac",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 5.0,
                 "min": 1.0
               },
               "function": "minecraft:set_count"
@@ -89,7 +118,7 @@
           "weight": 5
         }
       ],
-      "rolls": 3.0
+      "rolls": 4.0
     },
     {
       "bonus_rolls": 0.0,

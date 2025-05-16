@@ -1,0 +1,21 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.03,
+    "frequency_reduction_method": "default",
+    "locate_offset": [
+      9,
+      0,
+      9
+    ],
+    "salt": 7045291,
+    "separation": 0,
+    "spacing": 1
+  },
+  "structures": [
+    {
+      "structure": "minecraft:buried_treasure",
+      "weight": 1
+    }
+  ]
+}
