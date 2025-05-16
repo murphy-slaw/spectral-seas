@@ -62,7 +62,7 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "ed682befab4d6fd7449750b44de6dcafe3a498779b1cc0ec3ccfd4be74db5724"
+hash = "a8059723aeb58ab04f401a20d7f599fa105baaab7387bf41e2215f7ef53073a4"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -1234,7 +1234,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "1a706f1e8f015af3334d54bea00c80f7fd4077d896ab28c775a2cb066181db7b"
+hash = "1bf599ff9da5f720e9d5985c48f613c69ee56a6a77c294c02c2695540303725f"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1398,7 +1398,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/antique_atlas.js"
-hash = "a303130dcca4e4a49a2b30421cc634125095c75ae7ee43690ca9e2d704e19c07"
+hash = "b24f4dd4c27ee06e90f8d815cd55a8fc94daa6e6333b69a3d77f458a97668eee"
 
 [[files]]
 file = "kubejs/client_scripts/incomprehensible_book.js"
@@ -1415,10 +1415,6 @@ hash = "7421e2d279677d4fa528efe565e9d8b4935256105fd21f823dc2b2e4daf3c5fc"
 [[files]]
 file = "kubejs/client_scripts/removed_tooltips.js"
 hash = "45a8dafc4be497d063d6483004edad2eb26f947dfb72cc26a37bde5f89ea2c2a"
-
-[[files]]
-file = "kubejs/client_scripts/starter_kit.js"
-hash = "18303c504476abf8271cbe765160bd03245f7391ca245511849f1d2764b85018"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1926,7 +1922,7 @@ hash = "3e6f075cad7914ffcb7de4a7f587cf079afcb99c98b21c7b45313f936a7c819f"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/shipwreck_map.json"
-hash = "69546cb00de9385bd89b517152130478b0be4d16ee7a52777288d050863cd8b6"
+hash = "0ad73d0ce3c5e5c305ee38469d08fcb4c633fc0141932a6b838a428d9e8c0f29"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/shipwreck_supply.json"
@@ -2261,6 +2257,10 @@ file = "kubejs/data/minecraft/tags/worldgen/biome/is_overworld.json"
 hash = "4a17a4164997f63ce64be24c1e018da5777c1788382acd34a7c4c6e7e90a6683"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json"
+hash = "5c51e409bfb0a60aa6b5443e8bf7867a6ba6b49f8c7c683b40100a1eacecdc7a"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
 
@@ -2539,6 +2539,10 @@ hash = "c1d0bee0f8be154393a1281b353e7943f799528e3551d273b366c095d9984031"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
 hash = "3684efbe9627d9e419bfe123b5eee4824cfd7837ca1d883eb9ee59062d17b6b4"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/buried_treasures.json"
+hash = "7fbbb72b24ee4b75e778e29f05367a1f1b2d3ad194a35674c1b8c084f3d1a03b"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/desert_pyramids.json"
@@ -3026,7 +3030,7 @@ hash = "972ea72199d93f85002f89c50cf44931839d0df92925b6c5022341d1b17b9e7d"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/fire_aspect.json"
-hash = "bb66caafa85dd18589db9dab594b90b85128b207c9d7ed7042f5b9fe8f171bc6"
+hash = "9b14b2666f54a5bbb8418ec34e79062af03775d4e73f4fba67915fc151ffe062"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/flame.json"
@@ -3038,7 +3042,11 @@ hash = "c2601e76fc9efb1137ac73567fd08250e3b128e8df8b757b13018e588ae492a2"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/knockback.json"
-hash = "690a854839c55d899592aba2afe6ceebbb32a96ee48a73f21ab51bc5378d2985"
+hash = "9b14b2666f54a5bbb8418ec34e79062af03775d4e73f4fba67915fc151ffe062"
+
+[[files]]
+file = "kubejs/data/musketmod/tags/items/enchantable/launching.json"
+hash = "c55f8ee09a35edaea839c23d27dce2fbcb28de93cfc696fb7ac5e33fb96785ad"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/looting.json"
@@ -3049,12 +3057,16 @@ file = "kubejs/data/musketmod/tags/items/enchantable/power.json"
 hash = "c2601e76fc9efb1137ac73567fd08250e3b128e8df8b757b13018e588ae492a2"
 
 [[files]]
+file = "kubejs/data/musketmod/tags/items/enchantable/punch.json"
+hash = "c2601e76fc9efb1137ac73567fd08250e3b128e8df8b757b13018e588ae492a2"
+
+[[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/quick_charge.json"
 hash = "2bf2a1ee7465a16c5dce6d5606c57198231df5ebd6ed4ef42649d80d924957b3"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/sharpness.json"
-hash = "972ea72199d93f85002f89c50cf44931839d0df92925b6c5022341d1b17b9e7d"
+hash = "b83114c23eeec820ce7eca52011f13013fb6c64002254be7aebe1e4b36244d48"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/smite.json"
@@ -4946,11 +4958,11 @@ hash = "248f4c5628d01c3a2c06f1d958f876d6ab0d4cd67fd67912b9c2d77c19ad9fb3"
 
 [[files]]
 file = "kubejs/server_scripts/loot/EnchantSets.js"
-hash = "bbded5d71678a74e1a8908860fd48460cfddd888255909f999c60212b1f61485"
+hash = "5b8451c72f0aa2f9504e9631657514c1a85cd397778fa313efb79bf83603b53e"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Loot.js"
-hash = "cdd8297455be2666e72f4ee3ac2da353909d8e38f42cd724b1d307781729f355"
+hash = "ffe70e18a0c8e7226ac412a618b706660cb738378c53e3668d6a9f109eb85046"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Tools.js"
@@ -4958,7 +4970,7 @@ hash = "a2124359714040ec10e233c18aa8b4fd6e8b9226733d48d482f6de729bbc0f0c"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Weapons.js"
-hash = "2e3bc21a5975beb9b43cddc417e3922225dae1d274c7d552579dbf58a36b12a1"
+hash = "8f0cefa8c7f2e125d74a6a692875e7bfc781eed048e316952c3422219c303ddd"
 
 [[files]]
 file = "kubejs/server_scripts/loot/WrappedEntry.js"
@@ -4981,8 +4993,16 @@ file = "kubejs/server_scripts/loot/tables/ancient_city.js"
 hash = "9569dd0779ca4877904d99d40bdf0892f48066eda887af98d5ea27351325b7d7"
 
 [[files]]
+file = "kubejs/server_scripts/loot/tables/badlands_miner_outpost.js"
+hash = "3211dbe45a376cb6253e00dbb8f8faf62df128488876dd03c994d289b2e30c90"
+
+[[files]]
 file = "kubejs/server_scripts/loot/tables/desert_pyramid.js"
 hash = "b0353bfcb2998f4eea042015452cff9f4484763207888717ca2f09fa14c4e889"
+
+[[files]]
+file = "kubejs/server_scripts/loot/tables/illager_hideout.js"
+hash = "e6e98c2ac4ed54a1a4dffa68dac135c3ea4e23a96d994e21beaf81139aaa2200"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/illager_manor.js"
@@ -4994,11 +5014,15 @@ hash = "1a80160fd3a8d33e1a368e2075c0b7b3174c81757c758358bbb2bf3f84ba97c6"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/pillager_factory.js"
-hash = "79639eee0e73055d6f9d78ef3580e91381decf36f636d7824980ae1154897b63"
+hash = "ef3fcb02c6d1a12e4b5823e4237fc24b092ccb5b03c4b0285696307c829dbce3"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/pillager_outpost.js"
 hash = "85989f20929862d67a93461735c9ced557da21c6796bc4033150be18d0f05c07"
+
+[[files]]
+file = "kubejs/server_scripts/loot/tables/shipwreck.js"
+hash = "c100b316ed4e3861b461874663299719f8e02bb909cc18e2b4d83d0e938a74f5"
 
 [[files]]
 file = "kubejs/server_scripts/loot/unique_items.js"
@@ -5010,7 +5034,7 @@ hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
 
 [[files]]
 file = "kubejs/server_scripts/map/map_to_atlas.js"
-hash = "73ee93c2a454f35beced34689fc0eb02802732f663945db477c202cf0fe9ccd2"
+hash = "820404a6213be81201eea9c2474d32ded84f8649969f593110d7be5b5eeeace4"
 
 [[files]]
 file = "kubejs/server_scripts/mobs/sea_monster.js"
@@ -5435,11 +5459,6 @@ hash = "907616c65eb6538fcc72ffb662078c1d0131a35b06f5c989394fb01c39b321c2"
 metafile = true
 
 [[files]]
-file = "mods/enchantcontrol.pw.toml"
-hash = "552631345c659121ae8fa9b1f96cabab80cc269d4e52238b20cf03476c6870d6"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-tweaks.pw.toml"
 hash = "6bb45938290b96845857b9f077f0a314976265d2f46ebbca4a082a512f717372"
 metafile = true
@@ -5568,10 +5587,6 @@ metafile = true
 file = "mods/formations.pw.toml"
 hash = "87572c389da092b00feaecd689d178d8026a71ca080988cdfaaabbf2fa863b15"
 metafile = true
-
-[[files]]
-file = "mods/fortress-tweak-1.1.0+1.20.1.jar"
-hash = "7586072ce81eb527ed44bdfdfef2816e61fcc58bbbcbb6c7d1e99efb0be94a2c"
 
 [[files]]
 file = "mods/fryc-mob-variants.pw.toml"
@@ -5804,10 +5819,6 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
-file = "mods/mc-249136-0.1.0.jar"
-hash = "f953720ca8c0d0de6e132e966b7ea149dff0bf68312a1d8bdb952783f32890a5"
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
@@ -5971,10 +5982,6 @@ metafile = true
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
-
-[[files]]
-file = "mods/pesky_seagulls-1.2.1.jar"
-hash = "18675d6e8ee8ced60ded097ac15f37dc856887802ccea96083d7fc9696bc5e74"
 
 [[files]]
 file = "mods/pettable.pw.toml"
