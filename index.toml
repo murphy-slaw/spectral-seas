@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
+file = "builds.old/Spectral Seas-0.1.17-alpha-67a8e0e.zip"
+hash = "115d8559475cfabeb3f62aec60d2f3a93b9b42f1fbac3d86fe339df5fa09094d"
+
+[[files]]
 file = "config/ISeeYouOverThere.properties"
 hash = "3d112d5cfe7f110ef6491dfa0b14e5aef07385b45ed3abdba536e4bbede1522c"
 
@@ -5147,6 +5151,10 @@ hash = "cd77208184426ee73403fafa82e4df3fbca5c5edf71cc9fbc97899a1d7791920"
 [[files]]
 file = "kubejs/startup_scripts/push_globals.js"
 hash = "840ff8ca94fe30e39c9fefdbbfb96c0ab6d89b85d7d95904417b38dc99d256ab"
+
+[[files]]
+file = "kubejs/startup_scripts/sound.js"
+hash = "136fe6662e99a58a87b3bdd663914b55ec0f81233780d8da6ec46fa4996f0b1d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
