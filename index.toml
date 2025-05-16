@@ -362,7 +362,7 @@ hash = "4f5d8e0cc6db6c532b236e1af10ab4200fec8b167360c26321d83ac46a9efbca"
 
 [[files]]
 file = "config/fancymenu/assets/welcome.md"
-hash = "75bbf0b1465575f36e1c10bf758e11fbfa0323b123fd0fce8a7b40afb247e8ca"
+hash = "abe430b5ff7cadb39b0a5b6a9c98a3a0dee6d81533725e5bb1899b88effc8320"
 
 [[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
@@ -426,7 +426,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "c64e979c89f6647588e33db8e1b3ad6a8e0e7ff7368698b067c839f8426b9df2"
+hash = "fc1a3b06727c177070a619bf55de3d7e8d76032fc2d9bd5da25ebcd1799c191e"
 
 [[files]]
 file = "config/fancymenu/panoramas/lighthouse/panorama/panorama_0.png"
@@ -742,7 +742,7 @@ hash = "212a6b1f34b70a020448cc200a3a6fbde3bbf6b2c5b8c8addc8d94cf3043acf7"
 
 [[files]]
 file = "config/naturalist.json"
-hash = "eea8c6577d68d82c0b7c3d189c8bd1bf5bde9d1aff1f3b9cdfbe5ebc8a844182"
+hash = "d14702084da0f79d12d6dae432e92a4f210900242c472dac4f4b6b7409a97dd8"
 
 [[files]]
 file = "config/nerb.yaml"
