@@ -30,21 +30,19 @@ const colorCodeToDyeColor = {
 }
 
 function getColor (colorName) {
-    return $DyeColor.byName(colorName, null) !== (colorCodeToDyeColor[colorName] || $DyeColor.WHITE)
-        ? colorCodeToDyeColor[colorName] || $DyeColor.WHITE
-        : $DyeColor.byName(colorName, null)
+    return $DyeColor.byName(colorName, null) || colorCodeToDyeColor[colorName] || $DyeColor.BLACK
 }
 
 /**
  * @param {Internal.Level} level
  * @param {Internal.MarkerTexture} texture
  * @param {BlockPos} pos
- * @param {string} color
  * @param {Internal.MutableComponent} label
+ * @param {string} color
  */
-function addAntiqueAtlasMarker (level, texture, pos, label) {
+function addAntiqueAtlasMarker (level, texture, pos, label, color) {
     label = JSON.parse(label)
-
+    color = getColor(color)
     let worldAtlasData = getAtlasData(level)
 
     if (label.translate) {
@@ -52,11 +50,11 @@ function addAntiqueAtlasMarker (level, texture, pos, label) {
     } else {
         label = Text.of(label.text)
     }
-    label.append(' Destination')
+
     worldAtlasData.placeCustomMarker(
         level,
         getAtlasTexture(texture),
-        getColor(label.color),
+        color,
         label,
         BlockPos(pos.x, pos.y, pos.z)
     )
@@ -78,7 +76,8 @@ function deleteAntiqueAtlasMarker (level, pos) {
 
 NetworkEvents.dataReceived('AddMarker', event => {
     let marker = event.data
-    addAntiqueAtlasMarker(Client.level, marker.texture, marker.pos, marker.label)
+    console.log(marker.label)
+    addAntiqueAtlasMarker(Client.level, marker.texture, marker.pos, marker.label, marker.color)
 })
 
 NetworkEvents.dataReceived('DeleteMarker', event => {

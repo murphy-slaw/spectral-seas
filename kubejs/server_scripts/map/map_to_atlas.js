@@ -3,6 +3,7 @@ PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
     let seenMaps = event.player.persistentData.getCompound('seenMaps')
     /** @type {Internal.Component} */
     let name = mapNbt.display.Name
+    let color = JSON.parse(name).color
 
     if (!(seenMaps && seenMaps.get(mapNbt.map))) {
         mapNbt.Decorations.forEach(decoration => {
@@ -10,6 +11,7 @@ PlayerEvents.inventoryChanged('minecraft:filled_map', event => {
                 texture: 'antique_atlas:custom/red_x_small',
                 pos: { x: decoration.x, y: 64, z: decoration.z },
                 label: name,
+                color: color,
             })
             event.player.sendData('OpenMap', {
                 x: decoration.x,

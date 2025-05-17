@@ -1,10 +1,5 @@
-const shipTypes = [
-    'smallships:cog',
-    'smallships:brigg',
-    'smallships:drakkar',
-    'smallships:galley',
-]
-function setSpawn(player, x, y, z) {
+const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
+function setSpawn (player, x, y, z) {
     Utils.server.runCommand(`spawnpoint ${player.username} ${x} ${y} ${z}`)
 }
 
@@ -63,7 +58,7 @@ PlayerEvents.tick(event => {
                 texture: `antique_atlas:ship/${shipType}`,
                 pos: { x: pos.x, y: pos.y, z: pos.z },
                 color: color,
-                label: shipName,
+                label: JSON.stringify({ text: shipName }),
             })
         }
     }
@@ -76,12 +71,7 @@ EntityEvents.death('minecraft:player', event => {
         let ship = event.level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
-            setSpawn(
-                event.player,
-                Math.floor(ship.x),
-                Math.floor(ship.y) + 1,
-                Math.floor(ship.z)
-            )
+            setSpawn(event.player, Math.floor(ship.x), Math.floor(ship.y) + 1, Math.floor(ship.z))
         } else {
             console.info(`Ship not found!`)
             event.player.persistentData.remove('shipID')
