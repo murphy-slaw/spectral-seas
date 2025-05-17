@@ -1402,7 +1402,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/antique_atlas.js"
-hash = "b24f4dd4c27ee06e90f8d815cd55a8fc94daa6e6333b69a3d77f458a97668eee"
+hash = "ae22db20deedc0f32ebc5002f9989d56ff936bf23f8d5f5938f8a99846c08654"
 
 [[files]]
 file = "kubejs/client_scripts/incomprehensible_book.js"
@@ -5038,7 +5038,7 @@ hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
 
 [[files]]
 file = "kubejs/server_scripts/map/map_to_atlas.js"
-hash = "820404a6213be81201eea9c2474d32ded84f8649969f593110d7be5b5eeeace4"
+hash = "007267bdd66c6e4fdc831dbf06f89251786a5c8318d5ed54d39586a9358c73d3"
 
 [[files]]
 file = "kubejs/server_scripts/mobs/sea_monster.js"
@@ -5082,7 +5082,7 @@ hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_spawn.js"
-hash = "41bbbcd1caa4113f4846fd1cef75bb01351a4faaddb64640945529d6122c0ae9"
+hash = "91b60a8cd0fdc0c575eb2c012c4a17b1186cab3ebf4316573c07d3bd44f24e07"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
@@ -5464,11 +5464,6 @@ metafile = true
 [[files]]
 file = "mods/enchant-faker.pw.toml"
 hash = "907616c65eb6538fcc72ffb662078c1d0131a35b06f5c989394fb01c39b321c2"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-tweaks.pw.toml"
-hash = "6bb45938290b96845857b9f077f0a314976265d2f46ebbca4a082a512f717372"
 metafile = true
 
 [[files]]
