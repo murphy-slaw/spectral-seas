@@ -1,6 +1,7 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
 const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
+const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $StructureStart = Java.loadClass(
     'net.minecraft.world.level.levelgen.structure.StructureStart'
 )
