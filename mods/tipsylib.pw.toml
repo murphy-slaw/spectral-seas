@@ -1,13 +1,13 @@
 name = "TipsyLib"
-filename = "RunicLib-fabric-1.20.1-4.1.5.jar"
+filename = "RunicLib-fabric-1.20.1-4.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mk0Htq87/versions/T59YDbWf/RunicLib-fabric-1.20.1-4.1.5.jar"
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/MQnsogeN/RunicLib-fabric-1.20.1-4.1.7.jar"
 hash-format = "sha512"
-hash = "97c54d79e3b75e757ee2dc7a696cc9fa53e4803f335946f79e71c1a6e0ef163e8cf5577affccd23f4fea9c67750832128ce6828b96e0893f722f0a22ea65fe9b"
+hash = "00b94c9b20afd9789977447e59d46333a5d2c91547cb92a24049b92d3cf21d9f5b352e1d8f1488c14b889a6cdb8afa66fec3687101c087ac9dd2a3f7ec3a7da9"
 
 [update]
 [update.modrinth]
 mod-id = "mk0Htq87"
-version = "T59YDbWf"
+version = "MQnsogeN"

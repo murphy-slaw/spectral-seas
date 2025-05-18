@@ -1,13 +1,13 @@
 name = "Fine Armory"
-filename = "Fine Armoury v1.3 f8-34.zip"
+filename = "Fine Armoury v1.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H0Q0y5Fn/versions/ePn7b7QZ/Fine%20Armoury%20v1.3%20f8-34.zip"
+url = "https://cdn.modrinth.com/data/H0Q0y5Fn/versions/Sds1OW3U/Fine%20Armoury%20v1.5.zip"
 hash-format = "sha512"
-hash = "0eb526945a435c706eda40110552d83c81fabaf4f2de3dc9c7186c0b6f3c3e28818208bf66317ecbdddf54ac51f5ee3c01c389e2094fdc662ab34e5171a07db9"
+hash = "d114d9b5e1f4e87a7f90e540eca7b46338120a45d55c306129167c0b1f32a974590fc30d77a3cfebfac22b62a32e64eead1b95a6502cbd689fe42ea459ab838f"
 
 [update]
 [update.modrinth]
 mod-id = "H0Q0y5Fn"
-version = "ePn7b7QZ"
+version = "Sds1OW3U"
