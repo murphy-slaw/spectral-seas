@@ -2337,8 +2337,44 @@ file = "kubejs/data/minecraft/trades/weaponsmith.json"
 hash = "2ea72274b5edfb8710b71eaed3e97452d48d82940755808c95da450f95b53136"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/biome/cold_ocean.json"
+hash = "f4b19f607064cdb807d84d6b6011066ed22fbf2fd049435ba84d5505ab5f15eb"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_cold_ocean.json"
+hash = "b16abb2dd6b2691c1a01428ae1d11b022826d899b8bf187901c04f79abf80fa4"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_frozen_ocean.json"
+hash = "e1db10bf3f6f27b88685e9118746e5561f2339753ae0f2531b058dab3b8aa8f9"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_lukewarm_ocean.json"
+hash = "e8510cb077f93b219ff23549473057aadadba10cb6ab6335971aa388d37e3acb"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_ocean.json"
+hash = "e00077cbceed619a79106fa6d94c84bad5fcddb70092ad2581a3d4253d4f28af"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/frozen_ocean.json"
+hash = "7fc96c3e3f27960e443d8c46933aa8a81800d4493f4d3b71f3190abd866bff0f"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/biome/lava_sea.json"
 hash = "6b84d319238c2841e4ec43e7ef9eac0c07b206dd43f89350a7043092aa0c98ee"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/lukewarm_ocean.json"
+hash = "b5f06673e0d412c5867f704784c3e76040f5364b0f0f7c102a9d18adbcad9355"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/ocean.json"
+hash = "57a3d71a6bf50ccb15b4604abd44542bdd08abf817b478be7210c96407036a2d"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/warm_ocean.json"
+hash = "7ea9f66ca6aec6b3957f90b8843f915153ac71a947fce95751078a1379aaf320"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_carver/nether_cave.json"
@@ -5046,7 +5082,7 @@ hash = "0067106b2fee177dad65c331b27d0fb7f52880030e14e38f2259087a6546959a"
 
 [[files]]
 file = "kubejs/server_scripts/mobs/spawn_replacements.js"
-hash = "602ed9995bddac20e8f8ec06fcba3dfd4fa4d3a88b4a86504385d0afea0bb10b"
+hash = "25b6b995276637055a3d3bdbdfea6dc6b1f94d36b84a0f789824575ce661c1f0"
 
 [[files]]
 file = "kubejs/server_scripts/player/spawn_distance.js"
@@ -5086,7 +5122,7 @@ hash = "91b60a8cd0fdc0c575eb2c012c4a17b1186cab3ebf4316573c07d3bd44f24e07"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
-hash = "9ac452822c580f51c0f5f5be90fb26cb987ce83c567861fe8253fc90c5c73a62"
+hash = "cf89e84c1df324e75f4dca38bda57abf2d70ac1bd184143a1e8e8e1abb3fd5ed"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
