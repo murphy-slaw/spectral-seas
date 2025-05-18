@@ -27,14 +27,10 @@ ItemEvents.entityInteracted('spectral_seas:ship_speed_upgrade', event => {
     let ship = event.target
     let speedData = ship.persistentData.get('upgradeData').get('speed')
     if (!speedData) return
-    if (
-        speedData.upgradeCount <
-        ShipUpgradeConfig.speed.upgradeCaps.ship.type
-    ) {
+    if (speedData.upgradeCount < ShipUpgradeConfig.speed.upgradeCaps[ship.type]) {
         let shipNbt = ship.nbt
         let curSpeed = shipNbt.Attributes.maxSpeed
-        shipNbt.Attributes.maxSpeed =
-            curSpeed + ShipUpgradeConfig.speed.increment
+        shipNbt.Attributes.maxSpeed = curSpeed + ShipUpgradeConfig.speed.increment
         console.info(shipNbt)
         event.target.setNbt(shipNbt)
         speedData.putInt('upgradeCount', speedData.upgradeCount + 1)
@@ -51,8 +47,7 @@ ItemEvents.entityInteracted('spectral_seas:ship_speed_upgrade', event => {
             1
         )
         event.server.runCommandSilent(
-            `particle glow ${ship.x} ${ship.y + 2} ${ship.z
-            } 0.001 0.01 0.001 0.01 10`
+            `particle glow ${ship.x} ${ship.y + 2} ${ship.z} 0.001 0.01 0.001 0.01 10`
         )
     } else {
         event.level.playSound(
@@ -75,24 +70,17 @@ ItemEvents.entityInteracted('spectral_seas:ship_cargo_upgrade', event => {
         let ship = event.target
         let cargoData = ship.persistentData.get('upgradeData').get('cargo')
         if (!cargoData) return
-        if (
-            cargoData.upgradeCount <
-            ShipUpgradeConfig.cargo.upgradeCaps.ship.type
-        ) {
+        if (cargoData.upgradeCount < ShipUpgradeConfig.cargo.upgradeCaps[ship.type]) {
             let shipNbt = ship.nbt
             let curCargo = shipNbt.ContainerSize
-            shipNbt.putInt(
-                'ContainerSize',
-                curCargo + ShipUpgradeConfig.cargo.increment
-            )
+            shipNbt.putInt('ContainerSize', curCargo + ShipUpgradeConfig.cargo.increment)
             ship.setNbt(shipNbt)
             cargoData.putInt('upgradeCount', cargoData.upgradeCount + 1)
             ship.persistentData.upgradeData.put('cargo', cargoData)
             event.item.shrink(1)
 
             event.server.runCommandSilent(
-                `particle glow ${ship.x} ${ship.y + 2} ${ship.z
-                } 0.001 0.01 0.001 0.01 10`
+                `particle glow ${ship.x} ${ship.y + 2} ${ship.z} 0.001 0.01 0.001 0.01 10`
             )
             event.level.playSound(
                 null,
