@@ -1,3 +1,46 @@
 {
-  "tiers": []
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 1.0,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "set_potion",
+                    "id": "spectral_seas:grog"
+                  },
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:potion"
+              },
+              "max_uses": 16.0,
+              "price_multiplier": 0.05,
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:gold_block",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "reward_experience": false,
+              "trader_experience": 0.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    }
+  ]
 }

@@ -2,14 +2,10 @@ const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $StructureTemplate = Java.loadClass(
     'net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate'
 )
-const $BuiltInRegistries = Java.loadClass(
-    'net.minecraft.core.registries.BuiltInRegistries'
-)
-const $TemplateAccessor = Java.loadClass(
-    'com.finndog.mvs.mixins.structures.TemplateAccessor'
-)
+const $BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
+const $TemplateAccessor = Java.loadClass('com.finndog.mvs.mixins.structures.TemplateAccessor')
 
-const evaluate_structures = context => {
+const villager_dump = context => {
     /** @type {Internal.ServerLevel} */
     const level = context.source.level
     /** @type {Internal.MinecraftServer} */
@@ -28,9 +24,7 @@ const evaluate_structures = context => {
                 /** @param {Internal.StructureTemplate$Palette} palette */ palette => {
                     const matches = palette.blocks(Blocks.ANVIL)
                     if (!matches.empty) {
-                        console.log(
-                            `${entry.key.location()}: ${matches.size()})`
-                        )
+                        console.log(`${entry.key.location()}: ${matches.size()})`)
                     }
                 }
             )
@@ -41,7 +35,5 @@ const evaluate_structures = context => {
 }
 ServerEvents.commandRegistry(e => {
     const { commands: Commands } = e
-    e.register(
-        Commands.literal('evaluate_structures').executes(evaluate_structures)
-    )
+    e.register(Commands.literal('evaluate_structures').executes(villager_dump))
 })

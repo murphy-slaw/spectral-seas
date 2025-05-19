@@ -21,7 +21,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -36,7 +36,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -87,7 +87,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -154,7 +154,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 10.0
@@ -169,7 +169,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -220,7 +220,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -287,7 +287,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 20.0
@@ -302,7 +302,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -369,7 +369,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 30.0
@@ -384,7 +384,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",
@@ -445,7 +445,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "max_uses": 12.0,
               "price_multiplier": 0.2,
@@ -473,7 +473,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "cost_b": {
                 "type": "minecraft:item",

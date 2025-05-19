@@ -21,7 +21,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -36,7 +36,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "max_uses": 12.0,
               "price_multiplier": 0.2,
@@ -62,40 +62,106 @@
                     "add": false,
                     "count": 2.0,
                     "function": "minecraft:set_count"
-                  },
-                  {
-                    "add": true,
-                    "count": {
-                      "type": "villagerconfig:reference",
-                      "id": "enchantLevel"
-                    },
-                    "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
-              "max_uses": 3.0,
-              "price_multiplier": 0.05,
-              "reference_providers": {
-                "enchantLevel": {
-                  "type": "minecraft:uniform",
-                  "max": 19.0,
-                  "min": 5.0
-                }
-              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
               "result": {
                 "type": "minecraft:item",
                 "functions": [
                   {
-                    "function": "minecraft:enchant_with_levels",
-                    "levels": {
-                      "type": "villagerconfig:reference",
-                      "id": "enchantLevel"
-                    },
-                    "treasure": false
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
                   }
                 ],
                 "name": "minecraft:iron_sword"
+              },
+              "reward_experience": true,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 2.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "simplyswords:iron_rapier"
+              },
+              "reward_experience": true,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 2.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "simplyswords:iron_longsword"
+              },
+              "reward_experience": true,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 3.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tridents_n_stuff:iron_spear"
               },
               "reward_experience": true,
               "trader_experience": 1.0
@@ -126,7 +192,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 10.0
@@ -141,7 +207,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "max_uses": 12.0,
               "price_multiplier": 0.2,
@@ -185,7 +251,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 20.0
@@ -216,7 +282,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "reward_experience": true,
               "trader_experience": 30.0
@@ -227,7 +293,7 @@
                 "functions": [
                   {
                     "add": false,
-                    "count": 12.0,
+                    "count": 2.0,
                     "function": "minecraft:set_count"
                   },
                   {
@@ -239,14 +305,14 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "max_uses": 3.0,
-              "price_multiplier": 0.2,
+              "price_multiplier": 0.05,
               "reference_providers": {
                 "enchantLevel": {
                   "type": "minecraft:uniform",
-                  "max": 19.0,
+                  "max": 15.0,
                   "min": 5.0
                 }
               },
@@ -262,7 +328,145 @@
                     "treasure": false
                   }
                 ],
-                "name": "minecraft:diamond_axe"
+                "name": "minecraft:iron_sword"
+              },
+              "reward_experience": true,
+              "trader_experience": 15.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 2.0,
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "add": true,
+                    "count": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 3.0,
+              "price_multiplier": 0.05,
+              "reference_providers": {
+                "enchantLevel": {
+                  "type": "minecraft:uniform",
+                  "max": 15.0,
+                  "min": 5.0
+                }
+              },
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:enchant_with_levels",
+                    "levels": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "treasure": false
+                  }
+                ],
+                "name": "minecraft:iron_axe"
+              },
+              "reward_experience": true,
+              "trader_experience": 15.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 2.0,
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "add": true,
+                    "count": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 3.0,
+              "price_multiplier": 0.05,
+              "reference_providers": {
+                "enchantLevel": {
+                  "type": "minecraft:uniform",
+                  "max": 15.0,
+                  "min": 5.0
+                }
+              },
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:enchant_with_levels",
+                    "levels": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "treasure": false
+                  }
+                ],
+                "name": "simplyswords:iron_rapier"
+              },
+              "reward_experience": true,
+              "trader_experience": 15.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 2.0,
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "add": true,
+                    "count": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 3.0,
+              "price_multiplier": 0.05,
+              "reference_providers": {
+                "enchantLevel": {
+                  "type": "minecraft:uniform",
+                  "max": 15.0,
+                  "min": 5.0
+                }
+              },
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:enchant_with_levels",
+                    "levels": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "treasure": false
+                  }
+                ],
+                "name": "simplyswords:iron_cutlass"
               },
               "reward_experience": true,
               "trader_experience": 15.0
@@ -283,7 +487,7 @@
                 "functions": [
                   {
                     "add": false,
-                    "count": 8.0,
+                    "count": 3.0,
                     "function": "minecraft:set_count"
                   },
                   {
@@ -295,7 +499,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "minecraft:emerald"
+                "name": "minecraft:gold_ingot"
               },
               "max_uses": 3.0,
               "price_multiplier": 0.2,
@@ -318,7 +522,53 @@
                     "treasure": false
                   }
                 ],
-                "name": "minecraft:diamond_sword"
+                "name": "simplyswords:iron_longsword"
+              },
+              "reward_experience": true,
+              "trader_experience": 30.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 3.0,
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "add": true,
+                    "count": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 3.0,
+              "price_multiplier": 0.2,
+              "reference_providers": {
+                "enchantLevel": {
+                  "type": "minecraft:uniform",
+                  "max": 19.0,
+                  "min": 5.0
+                }
+              },
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:enchant_with_levels",
+                    "levels": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "treasure": false
+                  }
+                ],
+                "name": "tridents_n_stuff:iron_spear"
               },
               "reward_experience": true,
               "trader_experience": 30.0
