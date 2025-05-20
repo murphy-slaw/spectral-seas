@@ -1,9 +1,6 @@
 BlockEvents.rightClicked(undefined, event => {
     if (event.level.isClientSide()) return
-    if (
-        event.facing === Direction.UP &&
-        event.item.item === Item.of('supplementaries:urn').item
-    ) {
+    if (event.facing === Direction.UP && event.item.id === 'supplementaries:urn') {
         let urn = Block.getBlock('supplementaries:urn').defaultBlockState()
         let pos = event.block.up.pos
         event.level.setBlockAndUpdate(pos, urn)
