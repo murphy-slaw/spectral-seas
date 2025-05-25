@@ -3,7 +3,7 @@ const ShipUpgradeConfig = JsonIO.read(SHIP_UPGRADE_CONFIG_PATH)
 
 EntityEvents.spawned(event => {
     let ship = event.entity
-    if (!shipTypes.includes(ship.type)) return
+    if (!shipTypes.includes(ship.type.toString())) return
 
     let upgradeData = ship.persistentData.getCompound('upgradeData')
 
