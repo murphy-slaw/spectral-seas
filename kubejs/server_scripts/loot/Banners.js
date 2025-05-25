@@ -28,7 +28,7 @@ const BANNERS = {
     ),
     JOLLY_ROGER: Item.of(
         'minecraft:black_banner',
-        '{ BlockEntityTag: { Patterns: [{ Pattern: sku, Color: 0 }] }'
+        '{BlockEntityTag:{Patterns:[{Color:0.0d,Pattern:"sku"}]}}'
     ),
     TURTLE: Item.of(
         'minecraft:blue_banner',
