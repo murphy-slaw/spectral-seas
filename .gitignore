@@ -12,6 +12,7 @@
 !LICENSE
 !resourcepacks**/*
 !shaderpacks/*.toml
+!design_docs/
 **/.DS_Store
 
 config/chunky/tasks/
