@@ -1405,6 +1405,10 @@ file = "kubejs/client_scripts/antique_atlas.js"
 hash = "ae22db20deedc0f32ebc5002f9989d56ff936bf23f8d5f5938f8a99846c08654"
 
 [[files]]
+file = "kubejs/client_scripts/broken.js"
+hash = "973d302153063d34d205d3ffad81823b480463d02671e955c230b9388c915753"
+
+[[files]]
 file = "kubejs/client_scripts/incomprehensible_book.js"
 hash = "7a33c9acad35186dfcf5ab7630ebe2d92d558827fee601bcbb8f5ef7a5326d7a"
 
@@ -2197,6 +2201,10 @@ file = "kubejs/data/minecraft/tags/blocks/needs_diamond_tool.json"
 hash = "7dbbb32302f0073bf7ca7420eb3404af7cb75ad94d93c766add29807534bee05"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/items/coral_fans.json"
+hash = "eff6cc5cacea5e85c4046f89b902d22426eb71f30c73e74534181dd739483849"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/items/dyes.json"
 hash = "3a8cc4b5bfd1a278e9d457efdba4443d24c20ff9770930ad3ac15721357da63c"
 
@@ -2274,47 +2282,47 @@ hash = "f6735e05163b4c0624be95074d9174b57746cba08defe48903794e98b502f128"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/armorer.json"
-hash = "213fcc2306aee5e4e92bfccafb521d6963885d220c3691e2263b58e0feba1e88"
+hash = "35f2d2a657c59b460be81eb681fc5c2bb68adc3d7626d97b7e9b0184db80a6fd"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/butcher.json"
-hash = "60c2c6aa858162cef59c6e3001bb7df92cdb1474dd6e519b03558c5886d680f5"
+hash = "af4f1122ddefe5e879cc1da71414e711b04199c763dfed5920ebf0890a625c24"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/cartographer.json"
-hash = "dc7bc054f879c814dd6293f3688359b6a49ab82e49571e231a2bc97db52e5417"
+hash = "536a865f92e05bd810e090a8a9bd44d4890cea298f317886a360f479db829acf"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/cleric.json"
-hash = "234e9f313a2844ce1b66a83c329df7dd20b9ac722ce0c22701af5b3563023230"
+hash = "2fb236d471b89c280278ca24ba86fabeaff6215bb6b542824a89f878cecc48d5"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/farmer.json"
-hash = "d67775964722f275c7430aad1c7dd050659ed60f15fa055e32d22387b3d5b6e5"
+hash = "40f1fb3f53cf368eca055832534f16788ef9fabbc0bfa5ce83f0d6da18c03190"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/fisherman.json"
-hash = "da43cc5f1bd1a95108060e7d84b0ae2eb3195201991e9e648fb3d8cb655616f4"
+hash = "aed5bd25ef53d615730a0036defb496d14608596a78a4f1d46d8fe02dbbf0286"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/fletcher.json"
-hash = "dc31a0b2b205df8d993441cfe9a8c16274d79b10e883eb78c38797e8d7a88df2"
+hash = "9d275575baa813c4eb055418f5e7d7f7943d28b7b776c2205f073b8e7e487f81"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/leatherworker.json"
-hash = "dc8a886b14364cd4b12506dbf5846d545bd872e71ef15a8fb7d970f54fd7c4c3"
+hash = "937e0ac40b0bde8c17996ffea27f7fcf74a398c820a751859a425909a3defae2"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/librarian.json"
-hash = "b2b920ef909f2658fec71706e61e59d85a838cc0463296e72a11c105c466eb6e"
+hash = "033bc93c59fd9f8f02ee193c680a3036fab469fbece33704c727ba02069ed970"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/mason.json"
-hash = "0630fb65fd781645916ded8485a4499932149063d4d69bd5c6ff9ce1136a57b2"
+hash = "5ebec577d3f09998840cb1631eb4711cefa636f233d332620a197389dbb84b2b"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/nitwit.json"
-hash = "4663ba1d65bcbd8be4811196c7e0dfddfd10f4546484560b1f9c1a82d03e46b4"
+hash = "2c2c5b569e2a6fd0495e34c2f735f134fcaf9be69f08e90fee17e105c3d7b986"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/none.json"
@@ -2322,19 +2330,19 @@ hash = "4663ba1d65bcbd8be4811196c7e0dfddfd10f4546484560b1f9c1a82d03e46b4"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/shepherd.json"
-hash = "ff6a114cfd7f45bd81727e02a272b29227cff7036e9f8da2845582429d797341"
+hash = "875b9ca107e1f207a838457ef202bc52a3951cefe5818f466552b12311d51536"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/toolsmith.json"
-hash = "eccdf92e827eceacd6ec788dbdcf5a20c7bb70156ad049c7a42a9ba6c6120092"
+hash = "713a5cfc7996a185256aa0f688c4e459540b10d3fdef580aac4e96d76f82a981"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/wanderingtrader.json"
-hash = "a1b1592917420c9e3243b214aa22fb50e731f96c3ba92e68305f5d552ab753df"
+hash = "5a352e8ffeca255142f3d49fe29569d6b75533ad4badb0e8822ad3260dc10d45"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/weaponsmith.json"
-hash = "2ea72274b5edfb8710b71eaed3e97452d48d82940755808c95da450f95b53136"
+hash = "a6168fc22167a2c31a70a84bb1369f363dcfbb1b2d897d815383c290dcaefd00"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/biome/cold_ocean.json"
@@ -4974,11 +4982,15 @@ hash = "baca45be830a9b9b2087f9db818b9b651c715e48e45d6c111fa35ba4562bedb7"
 
 [[files]]
 file = "kubejs/server_scripts/item/broken.js"
-hash = "ac846eb44a793ed3c71adc0d92a997896f6b77dff9b93e1e9083f2a038eb5168"
+hash = "c2df6e002709a0917357623b77a45de2d93ea779d9adf7a649462f85540cc9ba"
 
 [[files]]
 file = "kubejs/server_scripts/item/incomprehensible_book.js"
 hash = "358f8c83ba8d0542c3a15c3dc67489858d51cf88ccdf49612509a55699ffe3ab"
+
+[[files]]
+file = "kubejs/server_scripts/item/trinkets.js"
+hash = "7e090146373fc09116bc5b8dc33cda2dfa91d0e3620372ed32855638a78a0c9a"
 
 [[files]]
 file = "kubejs/server_scripts/item/turtle_helmet.js"
@@ -4986,7 +4998,7 @@ hash = "6dd736c7524e9dd139045aa6cc7c89e51fea2252f0cf809a65d74ddfaed1495e"
 
 [[files]]
 file = "kubejs/server_scripts/item/urn.js"
-hash = "4a3e4e4a98dbf20836eeee7547f86491766f20d35570d5a00ee3790ea44729c7"
+hash = "02cbed778193dc2b780c537f0f1b1ab3327b39b9394144339adff3ec10213390"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Armor.js"
@@ -4994,7 +5006,7 @@ hash = "eca6949303bc9aca2e9b8c81e76690613facd6d0346c52658a4a1d0b2a5b5296"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Banners.js"
-hash = "248f4c5628d01c3a2c06f1d958f876d6ab0d4cd67fd67912b9c2d77c19ad9fb3"
+hash = "6c0eb6ff518653775d9d1cfd85471caa63789346db5796963d76ad93653c9fe6"
 
 [[files]]
 file = "kubejs/server_scripts/loot/EnchantSets.js"
@@ -5077,11 +5089,11 @@ file = "kubejs/server_scripts/map/map_to_atlas.js"
 hash = "007267bdd66c6e4fdc831dbf06f89251786a5c8318d5ed54d39586a9358c73d3"
 
 [[files]]
-file = "kubejs/server_scripts/mobs/sea_monster.js"
+file = "kubejs/server_scripts/mob/sea_monster.js"
 hash = "0067106b2fee177dad65c331b27d0fb7f52880030e14e38f2259087a6546959a"
 
 [[files]]
-file = "kubejs/server_scripts/mobs/spawn_replacements.js"
+file = "kubejs/server_scripts/mob/spawn_replacements.js"
 hash = "25b6b995276637055a3d3bdbdfea6dc6b1f94d36b84a0f789824575ce661c1f0"
 
 [[files]]
@@ -5097,12 +5109,36 @@ file = "kubejs/server_scripts/pull_globals.js"
 hash = "7421e2d279677d4fa528efe565e9d8b4935256105fd21f823dc2b2e4daf3c5fc"
 
 [[files]]
-file = "kubejs/server_scripts/recipe_removals.js"
+file = "kubejs/server_scripts/recipe/bowl_foods.js"
+hash = "7cc3c48ecb5a4c4c9b7a41b8c5e40474344e5b42926713b4e258d944bda0908f"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/bread.js"
+hash = "2a3bf9ccf1cbc0c7dac1819b09a3cac061cefc88085934d763ce82025dd8b676"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/fisherman's resin.js"
+hash = "2a053ef9d60b476b12eb83ee25da0ef36e254430afa53d419b6cc7140f2cf217"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/mermod.js"
+hash = "a9d425fad3193965f9a0e9c7ba9d7103c4d4adf9de0cd77b4147a5241c09b3d5"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/recipe_removals.js"
 hash = "fea92e2a1d2d5b0c37f01a68732aabefd30c21e817ab735373c67f4c0381724b"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "611749f771a77f30e8fd48c0f7841648f04e1e3237ae1ad504d10a98226376bb"
+file = "kubejs/server_scripts/recipe/rope.js"
+hash = "00865cb627554368bdc16f5fe787a926c3f635c3348ce40bcea286fc1adb50f8"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/ships.js"
+hash = "13f0e8b4db49242b9e847d0f481a84498e721f17982994e73fd399884da2ba93"
+
+[[files]]
+file = "kubejs/server_scripts/recipe/spyglass.js"
+hash = "65fded0b31b1f00b9f06499fe10e54dd07efaa6dc7fd12df733dd070941179b4"
 
 [[files]]
 file = "kubejs/server_scripts/remove_enchanting_blocks.js"
@@ -5122,7 +5158,7 @@ hash = "91b60a8cd0fdc0c575eb2c012c4a17b1186cab3ebf4316573c07d3bd44f24e07"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
-hash = "cf89e84c1df324e75f4dca38bda57abf2d70ac1bd184143a1e8e8e1abb3fd5ed"
+hash = "868234364f8784009894de6b03ef8788e84e38989ece705e04cd3bda19bbb61f"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
@@ -5151,6 +5187,18 @@ hash = "965792fd8d0e6e6d46680fec11262f6a467ab96bf46ea571db78a66271c4be49"
 [[files]]
 file = "kubejs/startup_scripts/entities/turtle.js"
 hash = "160773059789eec24d0522cccade7b10b387e6ef71ac6f6b771b629131dcba06"
+
+[[files]]
+file = "kubejs/startup_scripts/events/AttackEntityEvent.js"
+hash = "bef125bd8e066333bec04d4f5462181830ea2f1446abe8be23310d46a55f56c4"
+
+[[files]]
+file = "kubejs/startup_scripts/events/EquipmentChangedEvent.js"
+hash = "deef8b7a83dc1f81c531a6d74ae5e22f0f447fac288a3d5f5e7ba70d3642f3f9"
+
+[[files]]
+file = "kubejs/startup_scripts/events/PreAttack.js"
+hash = "dc94c276846507c1a4fca4dfd673b94c0536cfb63475f1be1170140a12533fab"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids/chowder.js"
@@ -5183,6 +5231,10 @@ hash = "3507d9bb04bcb4ec30c23aa49eb52877d003414c22bc4b9feff38348aba804ff"
 [[files]]
 file = "kubejs/startup_scripts/items/ship_upgrades.js"
 hash = "cd77208184426ee73403fafa82e4df3fbca5c5edf71cc9fbc97899a1d7791920"
+
+[[files]]
+file = "kubejs/startup_scripts/items/trinkets.js"
+hash = "602388e82051e1daae90c4abde713cafa919ae794e2063270398084105e3031a"
 
 [[files]]
 file = "kubejs/startup_scripts/push_globals.js"
@@ -6229,7 +6281,7 @@ metafile = true
 
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
-hash = "ae196fcf084ec3c9ac548828b9b0470bb238f2a9d7943589a37c4923a3a886dd"
+hash = "95c0276e4a9f2f199c21a42ca8f4524a94042739aaaed689e8d703c3b8c508ea"
 metafile = true
 
 [[files]]

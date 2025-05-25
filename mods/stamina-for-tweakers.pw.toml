@@ -1,13 +1,13 @@
 name = "Stamina For Tweakers"
-filename = "stamina-for-tweakers-1.5.0+1.20.1.jar"
+filename = "stamina-for-tweakers-1.5.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AejtfAlC/versions/Uibexm43/stamina-for-tweakers-1.5.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AejtfAlC/versions/REI5Git6/stamina-for-tweakers-1.5.2%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "d247b0b65b0c5a97fd05150d26149e439c8166ad97250ac4e41c22451b509c22c1ddb13097eeefde7bc57f2b3fab2e4794183bbc26f3b94df41086837e3f1942"
+hash = "4921ae1cbf021a208a017ea4a9e2758ea91bea3b0693b04a2e9020bd01b336ebf1a934e9c725f0eb347d427b8bea5a355d051266fc227143b7c51fa9a3ac6b9c"
 
 [update]
 [update.modrinth]
 mod-id = "AejtfAlC"
-version = "Uibexm43"
+version = "REI5Git6"
