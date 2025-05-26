@@ -8,7 +8,6 @@ design_docs
 *.code-workspace
 kubejs/probe
 local
-mods/*.jar
 spyglass.json
 .fabric
 .mixin.out

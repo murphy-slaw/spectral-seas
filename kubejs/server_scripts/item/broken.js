@@ -10,23 +10,6 @@ function isBroken (itemStack) {
     return itemStack.isDamageableItem() && itemStack.damageValue >= itemStack.maxDamage
 }
 
-ArchEvents.handleServer('AttackEntity', event => {
-    let params = event.getParameters()
-    /** @type {Internal.ServerPlayer} */
-    let player = params.arg0
-    /** @type {string} */
-    let hand = params.arg3
-    let ordinal = hand == 'MAIN_HAND' ? 0 : 1
-    let itemStack = player.getHandSlots()[ordinal]
-    console.log(event.getReturnType())
-    console.log(event.requiresResult())
-    if (isBroken(itemStack)) {
-        event.setResult($EventResult.interruptTrue())
-    } else {
-        event.setResult($EventResult.interruptDefault())
-    }
-})
-
 EntityEvents.hurt(event => {
     if (event.source.getType() == 'player') {
         /** @type {Internal.Player} */
