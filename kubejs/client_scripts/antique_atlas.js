@@ -2,8 +2,12 @@ var $WorldAtlasData = Java.loadClass('folk.sisby.antique_atlas.WorldAtlasData')
 var $MarkerTextures = Java.loadClass('folk.sisby.antique_atlas.reloader.MarkerTextures')
 var $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
 
+/**
+ * @param {Internal.Level} level
+ * @returns {Internal.WorldAtlasData}
+ */
 function getAtlasData (level) {
-    return $WorldAtlasData.getOrCreate(Utils.server.getLevel(level.getDimension()))
+    return $WorldAtlasData.getOrCreate(level)
 }
 
 function getAtlasTexture (texture) {

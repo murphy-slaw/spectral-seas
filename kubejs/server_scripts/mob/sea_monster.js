@@ -85,9 +85,9 @@ function getTargetBoat (mob) {
         }
     })
     if (target) {
-        mob.customData.putUUID('target', target.uuid)
+        mob.persistentData.putUUID('target', target.uuid)
     } else {
-        mob.customData.remove('target')
+        mob.persistentData.remove('target')
     }
     return target
 }
@@ -100,20 +100,21 @@ const hasValidTarget = mob => {
     if (!mob.tags.contains('sea_monster')) return false
     let target = null
     let targetId = 0
+    if (mob.persistentData === undefined) return false
     try {
-        targetId = mob.customData.getUUID('target')
+        targetId = mob.persistentData.getUUID('target')
     } catch (error) {
-        mob.customData.remove('target')
+        mob.persistentData.remove('target')
     }
     if (targetId) target = mob.level.getEntity(targetId)
     if (!target) target = getTargetBoat(mob)
     if (!target || !isValidTarget(mob, target)) {
-        let doomTimer = mob.customData.doomTimer || 0
+        let doomTimer = mob.persistentData.doomTimer || 0
         if (doomTimer > MONSTER_DOOM_TIME) {
             mob.remove($RemovalReason.DISCARDED)
             return false
         }
-        mob.customData.doomTimer = doomTimer + 1
+        mob.persistentData.doomTimer = doomTimer + 1
         return false
     }
     return true
@@ -133,10 +134,10 @@ const removeMonsterEffects = mob => {
 
 /** @param {Internal.Mob} mob */
 const restoreTarget = mob => {
-    let targetId = mob.customData.getUUID('target')
+    let targetId = mob.persistentData.getUUID('target')
     let target = targetId != 0 ? mob.level.getEntity(targetId) : null
     if (!target || target.removed) {
-        mob.customData.remove('target')
+        mob.persistentData.remove('target')
         return null
     }
     return target
@@ -173,7 +174,7 @@ const attackTarget = (mob, target) => {
 
 /** @param {Internal.Mob} mob */
 const attackBoatsTick = mob => {
-    let attackCooldown = mob.customData.attackCooldown || 0
+    let attackCooldown = mob.persistentData.attackCooldown || 0
     let target = restoreTarget(mob)
     if (target) {
         let distance = mob.distanceToEntity(target)
@@ -186,7 +187,7 @@ const attackBoatsTick = mob => {
         }
     }
     attackCooldown--
-    mob.customData.attackCooldown = attackCooldown
+    mob.persistentData.attackCooldown = attackCooldown
 }
 
 MONSTER_TYPES.forEach(type => {

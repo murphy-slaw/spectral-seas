@@ -1402,7 +1402,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/antique_atlas.js"
-hash = "ae22db20deedc0f32ebc5002f9989d56ff936bf23f8d5f5938f8a99846c08654"
+hash = "69c9df547eac2b88b959fc89f9e7bf0ecc95e70724d6d66eb46f922c47c653e4"
 
 [[files]]
 file = "kubejs/client_scripts/broken.js"
@@ -5090,7 +5090,7 @@ hash = "007267bdd66c6e4fdc831dbf06f89251786a5c8318d5ed54d39586a9358c73d3"
 
 [[files]]
 file = "kubejs/server_scripts/mob/sea_monster.js"
-hash = "0067106b2fee177dad65c331b27d0fb7f52880030e14e38f2259087a6546959a"
+hash = "42d492c1e87e49da0c65def17fa808ccfc6bbf582b9611f4397bf74c9da4a0b7"
 
 [[files]]
 file = "kubejs/server_scripts/mob/spawn_replacements.js"
@@ -5102,7 +5102,7 @@ hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
 
 [[files]]
 file = "kubejs/server_scripts/player/starter_kit.js"
-hash = "1856a2a75ea8be87a61789a94a0da34adee058cd4a3823bbf0365df07f6de78a"
+hash = "849fe1864358957407d2e21f1dc5e3869d81b8a1e7cba354c8c799a72624a3ff"
 
 [[files]]
 file = "kubejs/server_scripts/pull_globals.js"
@@ -6371,6 +6371,11 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "5e654c6b2b2530ee3c74a2e6638ebb4cf1a170ca9ae9b9e391c34de3915e3f2f"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
 metafile = true
 
 [[files]]
@@ -8931,6 +8936,10 @@ hash = "cee249a279dd99c5206ff79345af0a6b0deff0e9af3dfec0fb766e623d986916"
 file = "resourcepacks/stefansarmorsnitems.pw.toml"
 hash = "6cff735706dffeddde0e0336aab5207e07ed8e7fc5648494163dc9f5665aa268"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "609e0069060b0d743c14d98fcfee8aae68d442112327514a05c2715d346b3db3"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
