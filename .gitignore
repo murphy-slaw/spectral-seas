@@ -11,7 +11,8 @@
 !pack.toml
 !LICENSE
 !resourcepacks**/*
-!shaderpacks/*.toml
+!shaderpacks/
+!shaderpacks/**
 !design_docs/
 **/.DS_Store
 
