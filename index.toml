@@ -1297,6 +1297,14 @@ file = "config/surveyor.toml"
 hash = "7d6ff653412b5adc5aa85ba2eca4428139fc2e89f39f6592407db3d7fa5e70da"
 
 [[files]]
+file = "config/thief-client.toml"
+hash = "620847321b2c19ced5412641cb3740caa173c0486d274e8119db152ae1d0b53d"
+
+[[files]]
+file = "config/thief-common.toml"
+hash = "ccdc5a317033aa24d6348152c15d1fe1a5197333d4f56660f9f95fbb86afcbb7"
+
+[[files]]
 file = "config/third_person_maps.json5"
 hash = "9710ff28b8043f8a36becc49942b0be2b71f452a9ca1233488d7545eb9a2c0dd"
 
@@ -6454,11 +6462,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "9509a3f9d500e733aa8a0271f97a437799437f140383de4ca8ae44c1846df99c"
-metafile = true
-
-[[files]]
-file = "mods/your-reputation.pw.toml"
-hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
 
 [[files]]
