@@ -845,6 +845,10 @@ file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/o
 hash = "1f596e00db4e8a60f0aeb3c685134f84264562d6d756c75908c0258a4e94d479"
 
 [[files]]
+file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/caves/cool_caves.json"
+hash = "a35720e846f056691db5f75c1829d6b0bdae5f241a8bc2126d29152626260132"
+
+[[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/caves/cool_entrances.json"
 hash = "47d8f4eb8c9c2a39480bfd0e68db8947e2c94779e24687c6969b2b4b9d907270"
 
@@ -866,7 +870,7 @@ hash = "a91ffcc02732dc59f19e6132586ff9f45ebf53d791003a07af1086ef7ccd5a88"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves.json"
-hash = "7f61946c697a640be2695cbed3d808be56caccbfc9a8b710709168fc345ef65b"
+hash = "3b932b1f7b1f6465e87b99ad1f42a39c34ee0bd63dec40ebefbf037f1c42ef5b"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/final_density_caves_inverse.json"
@@ -1155,10 +1159,6 @@ hash = "762891d837387a70f8a17b71d2bb010a86627ac75864838c4d52b4ea1aad2d37"
 [[files]]
 file = "config/rrp.properties"
 hash = "a2e6c09a08020b72f3d36942bdd8a6982cbdccd1b2610b62eb0fa191dc4be700"
-
-[[files]]
-file = "config/selfish_villager/general.json"
-hash = "18a6b90fc4ce692b6fd8e84e68c7842bb9bab0ac7671a4aebd74945d50ef7d54"
 
 [[files]]
 file = "config/simplehats.json"
@@ -2389,6 +2389,10 @@ file = "kubejs/data/minecraft/worldgen/configured_carver/nether_cave.json"
 hash = "f8ed7fd7c1b38bf6218a7aafb89b0dd8598df5808ac47487ec765902694ac3a5"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/glow_lichen.json"
+hash = "920eeba4dedef3abfbbd2b33c50636f5d86592b3b0c309fb1a7ac755c66a3eac"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/jungle_bush.json"
 hash = "2d9abe13227fb0c86538a0b5ed8905850aac1b07ee2b9f02afa1bd250ae06535"
 
@@ -2435,6 +2439,10 @@ hash = "bef8a360078694b05e9eaaf1c9f547fbdadb37efbdeaa46841acd1b4845d7ed7"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/crimson_fungi.json"
 hash = "509b5e7bb55ab3021ed48c2e7f14e2e84b368a511f6af7c1dd0eebe26f47e28e"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/glow_lichen.json"
+hash = "fa526f593cdf5cec66a5ef6527ef9beb216a382045afea45a7bf5bac51f6d517"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/glowstone.json"
@@ -6189,11 +6197,6 @@ hash = "86dd30664de6dd1d53e9ecec18ea7c3feb0b8b1e4862616af6fa5207a528c694"
 metafile = true
 
 [[files]]
-file = "mods/selfish-villager.pw.toml"
-hash = "076fcc364ccef5014221ec5ad5ea7e4d99275a05413718535a0abae5388cb147"
-metafile = true
-
-[[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "e448efc0f62a8b3eb28ce5ba31773f1360d33e32ab0e64ee7d143bc865ac50ae"
 metafile = true
@@ -6356,6 +6359,11 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "83bbea093f4a6d0b6d60067181fa23ce9701a9d8cd4ca159a32375dbd0a2d429"
+metafile = true
+
+[[files]]
+file = "mods/thief.pw.toml"
+hash = "307fd292f14f454c15ecddab433da43e9cf77160dbb3a6b28f8f1d5f486e0448"
 metafile = true
 
 [[files]]
