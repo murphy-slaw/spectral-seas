@@ -1,13 +1,13 @@
 name = "KeybindHider"
-filename = "keybindhiderfabric-1.20.1-1.0.jar"
+filename = "KeybindHider-fabric-1.20.x-1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MVgNXRxk/versions/oKm2big0/keybindhiderfabric-1.20.1-1.0.jar"
+url = "https://cdn.modrinth.com/data/MVgNXRxk/versions/AEmBUT4k/KeybindHider-fabric-1.20.x-1.1.jar"
 hash-format = "sha512"
-hash = "735dc197ed5211a9f975a25f5b2a011cd72baf0b72d1637c5eccf0079808d8705b2be26026bc1f38ee65b83957c58499eec5f2b1e12a98e85a9bc21b202a03db"
+hash = "93358a350e0ad27756ee2244a50de7c30ef587893b211d0e745565f625425386ae2e21f825d45ac3fe15621986c82b80ee87e09cfb1dad26cb4dae38f3a30684"
 
 [update]
 [update.modrinth]
 mod-id = "MVgNXRxk"
-version = "oKm2big0"
+version = "AEmBUT4k"

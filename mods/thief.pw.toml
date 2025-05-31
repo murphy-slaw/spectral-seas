@@ -1,13 +1,13 @@
 name = "Thief"
-filename = "thief-1.20.1-1.1.0-fabric.jar"
+filename = "thief-1.20.1-1.1.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dGtSkt4t/versions/6kX43oA4/thief-1.20.1-1.1.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/dGtSkt4t/versions/1G3Op33b/thief-1.20.1-1.1.1-fabric.jar"
 hash-format = "sha512"
-hash = "305a34476b22986a3d7df4e077da99bf00eee30cdbdd450b589dbf76a5f308d63a84728ce2081aafc5e85f65cc52390659971af826c5b79637484dce75ea03bc"
+hash = "bb6a35c8d4bfd85fcf974288b151699be5d2033dbccf23b9c948fdee3c5e54b2903557d6de0aadec29d498fd287db2913b4ffdeda18f886fa4c0dfb7ec931297"
 
 [update]
 [update.modrinth]
 mod-id = "dGtSkt4t"
-version = "6kX43oA4"
+version = "1G3Op33b"

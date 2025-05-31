@@ -5353,7 +5353,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "00d2687db44c8f22d17472eb96c97f952a6b3ae9c023ef148ac6bce492e3d39c"
+hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
 metafile = true
 
 [[files]]
@@ -5398,7 +5398,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundle-backportish.pw.toml"
-hash = "300d47da7b3597b02f50de0de7574e1eaf63cdf2273ced05db697fad94b493a5"
+hash = "a8db6b1091b8b44e47c9b97af01ddb4e80e38844eea84124d5c81864c1bfd4a6"
 metafile = true
 
 [[files]]
@@ -5463,7 +5463,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "796c5d6ce308df5bf6f3fe9e945f0b59968c9bd37a3f8ee590a8371bcdc31638"
+hash = "8a2f2bc8b8b2daeced8ea95a8752e5dc1cd781146b481da8ce107f1b9f9dbd37"
 metafile = true
 
 [[files]]
@@ -5593,7 +5593,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
-hash = "13a77a7c293d41b700deecda468c5e2c619064e16bb98a10799aec31cac1f28b"
+hash = "9204056c0e0c53649c686e20bd4b829ce126d0cbdc04daf54c17e141ac53f77e"
 metafile = true
 
 [[files]]
@@ -5628,7 +5628,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0c47d03d8d357331a7d48f1fb498708c5aae3ade57727280aa39c9744dab7c32"
+hash = "2ad2c2531e6248d3cbb45211d7758b450db0c331ee1ad67a32095cd2b85c6423"
 metafile = true
 
 [[files]]
@@ -5638,7 +5638,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -5649,11 +5649,6 @@ metafile = true
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
 hash = "9f4b3ab255d63cd35fd021a474113d121cf87f1e888ce648e9f66c8450aa9c5e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
 metafile = true
 
 [[files]]
@@ -5702,7 +5697,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
+hash = "73eaf730f838085585517587a39a8d8d865c58646346a5bfbf703e5f3ac30314"
 metafile = true
 
 [[files]]
@@ -5822,12 +5817,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
+hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
 metafile = true
 
 [[files]]
 file = "mods/keybindhider.pw.toml"
-hash = "26bc8c3f4af72a086f9113d3d6c38c049ec0c6944366c37c6b8f9c4dd523d402"
+hash = "c28aaebe246a6e3a48692fc6bd5de5ce9b8d76b370239c0bc4fc0a5af874e63b"
 metafile = true
 
 [[files]]
@@ -5863,11 +5858,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
-metafile = true
-
-[[files]]
-file = "mods/lapis-reserve.pw.toml"
-hash = "0beee848e78e4922ec5f2486e08a2d440eb10d94bd7269a8ff0bfa69ecc70121"
 metafile = true
 
 [[files]]
@@ -5962,7 +5952,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1687f3c586612a2a5ddd5670ecc469cecaf87b7f62e0bfd4727e087d46ca4d8"
+hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
 metafile = true
 
 [[files]]
@@ -6013,11 +6003,6 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
-metafile = true
-
-[[files]]
-file = "mods/nbt-glint.pw.toml"
-hash = "c448d5899486032cea6e4acba19628b29bfe8b4fd3d049260ef15cf4d2342cda"
 metafile = true
 
 [[files]]
@@ -6331,7 +6316,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "0354673aae26e7a07b8d9cd71d7fb5e923ae2865dbafc1f6c222fe314ac397d6"
+hash = "80e7a2ae4c5a5a09ef9d87606f50577057caa390c5c031eef60c546581727989"
 metafile = true
 
 [[files]]
@@ -6371,7 +6356,7 @@ metafile = true
 
 [[files]]
 file = "mods/thief.pw.toml"
-hash = "307fd292f14f454c15ecddab433da43e9cf77160dbb3a6b28f8f1d5f486e0448"
+hash = "536245be244c67545cfd60a7b2a6f467d191c1582a7bbc61814723ebe4e81e53"
 metafile = true
 
 [[files]]

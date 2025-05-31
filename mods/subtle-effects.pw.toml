@@ -1,13 +1,13 @@
 name = "Subtle Effects"
-filename = "SubtleEffects-fabric-1.20.1-1.9.4-hotfix.1.jar"
+filename = "SubtleEffects-fabric-1.20.1-1.10.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/TdzGdTcL/SubtleEffects-fabric-1.20.1-1.9.4-hotfix.1.jar"
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/Mgx7dpV7/SubtleEffects-fabric-1.20.1-1.10.0.jar"
 hash-format = "sha512"
-hash = "1ccc6f03832af43715a2c80595c3291ddecfa7a2c22f73c321d1a0ca75050f30dd6b086088a20ec7fc2a93afc43bd7728d7d36a2a73122b39747781f083b7032"
+hash = "0c89a221ecb2ea7abc6fa707ed52e78527f1ea2f1e48c1963207904b58e420746144310595cba0e89f48c0859534ec3f71ad5120c56edbd06224b7f272246de0"
 
 [update]
 [update.modrinth]
 mod-id = "4q8UOK1d"
-version = "TdzGdTcL"
+version = "Mgx7dpV7"
