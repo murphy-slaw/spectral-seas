@@ -6365,6 +6365,11 @@ hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
 metafile = true
 
 [[files]]
+file = "mods/tiefix.pw.toml"
+hash = "8f79bb6243811d1a1a56c180c7cb668b9912e30c909d0adede3f738d4bee7939"
+metafile = true
+
+[[files]]
 file = "mods/tinkerers-smithing-kubejs-compat.pw.toml"
 hash = "4524b00d8b1a5ed44d9308b777f5d6607f0b9b6ca2d38c236bfa713cf2e5287c"
 metafile = true
