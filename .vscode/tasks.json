@@ -15,7 +15,7 @@
         {
             "label": "Build .mrpack",
             "type": "shell",
-            "command": "packwiz modrinth export --pack-file ../pack.toml -o '${input:filename}'",
+            "command": "packwiz modrinth export --pack-file ../pack.toml -o '${input:pack_name}-${input:version}-${input:short_hash}.mrpack'",
             "presentation": {
                 "revealProblems": "onProblem",
                 "close": true
@@ -28,7 +28,7 @@
         {
             "label": "Symlink current pack",
             "type": "shell",
-            "command": "ln -sf '${input:filename}' latest.mrpack",
+            "command": "ln -sf '${input:pack_name}-${input:version}-${input:short_hash}.mrpack' latest.mrpack",
             "presentation": {
                 "revealProblems": "onProblem",
                 "close": true
@@ -71,7 +71,7 @@
         {
             "label": "Dump resources from server",
             "dependsOn": [
-                "Dump resources"
+                "Dump packs"
             ],
             "group": "build"
         },
@@ -95,9 +95,8 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "echo '${input:pack_name}-${input:version}-${input:short_hash}.mrpack'",
-                "cwd": "${workspaceFolder}",
                 "useFirstResult": true
-            }
+            },
         },
         {
             "id": "short_hash",
@@ -105,7 +104,6 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "git show --oneline --abbrev | head -1 | cut -f1 -d\\ ",
-                "cwd": "${workspaceFolder}",
                 "useFirstResult": true
             }
         },
@@ -115,7 +113,6 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "dasel -s version --pretty=false -f pack.toml -w yaml",
-                "cwd": "${workspaceFolder}",
                 "useFirstResult": true
             }
         },
@@ -125,7 +122,6 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "dasel -s name --pretty=false -f pack.toml -w yaml",
-                "cwd": "${workspaceFolder}",
                 "useFirstResult": true
             }
         }
