@@ -252,64 +252,64 @@
               },
               "reward_experience": true,
               "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 5.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_ingot"
+              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:iron_helmet"
+              },
+              "reward_experience": true,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:gold_block"
+              },
+              "max_uses": 12.0,
+              "price_multiplier": 0.2,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:iron_chestplate"
+              },
+              "reward_experience": true,
+              "trader_experience": 1.0
             }
           ]
-        },
-        {
-          "cost_a": {
-            "type": "minecraft:item",
-            "functions": [
-              {
-                "add": false,
-                "count": 5.0,
-                "function": "minecraft:set_count"
-              }
-            ],
-            "name": "minecraft:gold_ingot"
-          },
-          "max_uses": 12.0,
-          "price_multiplier": 0.2,
-          "result": {
-            "type": "minecraft:item",
-            "functions": [
-              {
-                "add": false,
-                "count": 1.0,
-                "function": "minecraft:set_count"
-              }
-            ],
-            "name": "minecraft:iron_helmet"
-          },
-          "reward_experience": true,
-          "trader_experience": 1.0
-        },
-        {
-          "cost_a": {
-            "type": "minecraft:item",
-            "functions": [
-              {
-                "add": false,
-                "count": 1.0,
-                "function": "minecraft:set_count"
-              }
-            ],
-            "name": "minecraft:gold_block"
-          },
-          "max_uses": 12.0,
-          "price_multiplier": 0.2,
-          "result": {
-            "type": "minecraft:item",
-            "functions": [
-              {
-                "add": false,
-                "count": 1.0,
-                "function": "minecraft:set_count"
-              }
-            ],
-            "name": "minecraft:iron_chestplate"
-          },
-          "reward_experience": true,
-          "trader_experience": 1.0
         }
       ],
       "total_exp_required": 10

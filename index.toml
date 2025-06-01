@@ -2290,7 +2290,7 @@ hash = "f6735e05163b4c0624be95074d9174b57746cba08defe48903794e98b502f128"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/armorer.json"
-hash = "35f2d2a657c59b460be81eb681fc5c2bb68adc3d7626d97b7e9b0184db80a6fd"
+hash = "9f4679670de7bf6e571397f0e8dbb3328adcf06366daa523db381ccfdbda4531"
 
 [[files]]
 file = "kubejs/data/minecraft/trades/butcher.json"
