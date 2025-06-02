@@ -1,3 +1,15 @@
+const SHIP_WOOD_TYPES = [
+    'acacia',
+    'bamboo',
+    'birch',
+    'cherry',
+    'dark_oak',
+    'jungle',
+    'mangrove',
+    'oak',
+    'spruce',
+]
+
 ServerEvents.recipes(event => {
     event.remove({ output: 'smallships:bamboo_cog' })
     event.remove({ output: 'smallships:bamboo_galley' })
@@ -13,4 +25,14 @@ ServerEvents.recipes(event => {
         l: 'minecraft:lead',
         b: 'minecraft:bamboo_raft',
     })
+
+    for (const wood of SHIP_WOOD_TYPES) {
+        event.remove({ output: `smallships:${wood}_brigg` })
+        event.shaped(Item.of(`smallships:${wood}_brigg`), ['sS ', 'CcC'], {
+            s: 'spectral_seas:ship_speed_upgrade',
+            S: 'smallships:sail',
+            C: 'spectral_seas:ship_cargo_upgrade',
+            c: `smallships:${wood}_cog`,
+        })
+    }
 })
