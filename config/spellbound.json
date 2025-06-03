@@ -26,7 +26,7 @@
     "DURATION_PER_RANK": 40
   },
   "attractive": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -152,7 +152,7 @@
     "DURATION": 600
   },
   "goldskin": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 2,
@@ -180,7 +180,7 @@
     "IFRAME_MAGNITUDE_PER_LEVEL": 0.15
   },
   "hearty": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 2,
@@ -267,7 +267,7 @@
     "POWER_RANGE": 50
   },
   "metabolising": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": true,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -323,7 +323,7 @@
     "SHOCKWAVE_RANGE": 2.0
   },
   "pestilence": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -364,7 +364,7 @@
     "POWER_RANGE": 50
   },
   "photosynthetic": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": true,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -464,7 +464,7 @@
     "MINIMUM_RECOVERY_TIME": 20
   },
   "repulsive": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -501,7 +501,7 @@
     "POWER_RANGE": 50
   },
   "saturated": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 2,
@@ -538,7 +538,7 @@
     "POWER_RANGE": 50
   },
   "skotosynthetic": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": true,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -582,7 +582,7 @@
     "CAN_CREATE_NON_LOOT": false
   },
   "sunkenTreasure": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
