@@ -1238,7 +1238,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "1bf599ff9da5f720e9d5985c48f613c69ee56a6a77c294c02c2695540303725f"
+hash = "88314ee24138cde16724860b00c1dd3840173f09621a95893c5739ddf745e8a0"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1530,7 +1530,7 @@ hash = "37b69ef1b6a44ca0ea38208a1da1b57875063e374240f82721b73e3f083b4923"
 
 [[files]]
 file = "kubejs/data/enchantmentdisabletag/tags/enchantment/disabled.json"
-hash = "832e5dfce944a680d0ac528f75cd08055339b92c00eab7c6b50102b4914c8b99"
+hash = "cbfb36c6c383ed12855c1ddf9e705a004b7f469064b5ac3266caa212c6836357"
 
 [[files]]
 file = "kubejs/data/exposure/advancements/adventure/composite_confounded_compound.json"
@@ -3102,7 +3102,7 @@ hash = "c55f8ee09a35edaea839c23d27dce2fbcb28de93cfc696fb7ac5e33fb96785ad"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/infinity.json"
-hash = "c2601e76fc9efb1137ac73567fd08250e3b128e8df8b757b13018e588ae492a2"
+hash = "b83114c23eeec820ce7eca52011f13013fb6c64002254be7aebe1e4b36244d48"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/knockback.json"
@@ -5150,7 +5150,7 @@ hash = "00865cb627554368bdc16f5fe787a926c3f635c3348ce40bcea286fc1adb50f8"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/ships.js"
-hash = "13f0e8b4db49242b9e847d0f481a84498e721f17982994e73fd399884da2ba93"
+hash = "b29442727109b2ab68e69c0c8e399301146cf45cf2fa7440a63b0bb369f6faad"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/spyglass.js"
