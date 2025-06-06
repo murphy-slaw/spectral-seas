@@ -9,10 +9,6 @@ file = "LICENSE"
 hash = "d056976502439ee041fd6c1a86606333471d6e379318e32cf75fca0e5d0286cf"
 
 [[files]]
-file = "builds.old/Spectral Seas-0.1.17-alpha-67a8e0e.zip"
-hash = "115d8559475cfabeb3f62aec60d2f3a93b9b42f1fbac3d86fe339df5fa09094d"
-
-[[files]]
 file = "config/ISeeYouOverThere.properties"
 hash = "3d112d5cfe7f110ef6491dfa0b14e5aef07385b45ed3abdba536e4bbede1522c"
 
@@ -66,7 +62,7 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "a8059723aeb58ab04f401a20d7f599fa105baaab7387bf41e2215f7ef53073a4"
+hash = "82b985e4777df9e06b19b1fb3b9ca3f47010d56fe03a550f139f5da964008c0c"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -2282,7 +2278,7 @@ hash = "5c51e409bfb0a60aa6b5443e8bf7867a6ba6b49f8c7c683b40100a1eacecdc7a"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
-hash = "0b7964328d7e7972f038e41c5df60fa51932e81757bbcb14c2666d3ed40e0c30"
+hash = "21ac1630c39c1c8b5cc4586563fb211f9a2ba2b721053423856b10ed7280c373"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/village.json"
@@ -4562,7 +4558,7 @@ hash = "e9eb384cc65a24a04c0dfbe4eadab0a7fe9b7d6d397e389a34cad428d7baf119"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_structures.json"
-hash = "1819249483af08365709016560180fb9b5a7abd6272b0eaab2e16e605dc477c4"
+hash = "9b3173c4fdec871df227a19d625cf5ee0e543f63d8333f48cc83c82280987f8a"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/desert.json"
@@ -8594,6 +8590,14 @@ file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/s
 hash = "c4de48444f4da0d56557e8ec35380a082620cec73ae1ffaade32b30a50399b4b"
 
 [[files]]
+file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/structure/pirate_flag.png"
+hash = "e2cbe9dee84023b0b9a295df5c66e41f01f04c6adcaec097d9db19cd4a549d33"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/structure/pirate_flag.png.mcmeta"
+hash = "0b248c054bed8227d22270ff8a9dc3c567c47e10388ef65404fda31fa5521987"
+
+[[files]]
 file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/gui/icons/add_marker.png"
 hash = "76a1944c3ab7fd3e2444d26588a138e10cf6216ca18502ec9c6ae201132c026f"
 
@@ -8708,6 +8712,14 @@ hash = "5fa8adba83db89f05b3974a86621fc36fb31e8345f0fda7233ef4da714840c12"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/minecraft/atlas/biome/lava_sea.json"
 hash = "fd83cfd26ca5b0620cfe5de8ac52a782b8195d1ca98c917311f185cca987071d"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/atlas/structure/start/pillager_outpost.json"
+hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/minecraft/atlas/structure/tag/pillager_outpost.json"
+hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/minecraft/textures/entity/illager/pillager.png"
