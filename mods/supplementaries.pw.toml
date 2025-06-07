@@ -1,6 +1,7 @@
 name = "Supplementaries"
 filename = "supplementaries-1.20-3.1.29-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/b5Sql3tc/supplementaries-1.20-3.1.29-fabric.jar"

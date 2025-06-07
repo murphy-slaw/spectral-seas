@@ -62,7 +62,7 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "82b985e4777df9e06b19b1fb3b9ca3f47010d56fe03a550f139f5da964008c0c"
+hash = "b9f1909423bf34f53c306b1e9802e6c3bb0324f5c67df07690efa2166ed2a09f"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -2279,6 +2279,10 @@ hash = "5c51e409bfb0a60aa6b5443e8bf7867a6ba6b49f8c7c683b40100a1eacecdc7a"
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/pillager_outpost.json"
 hash = "21ac1630c39c1c8b5cc4586563fb211f9a2ba2b721053423856b10ed7280c373"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/structure/shipwreck.json"
+hash = "d96c67cb253b4920b15a86a8f3812e67434e62a0e5e8d98ef1c5588c5fac0363"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/village.json"
@@ -4557,6 +4561,10 @@ file = "kubejs/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
 hash = "e9eb384cc65a24a04c0dfbe4eadab0a7fe9b7d6d397e389a34cad428d7baf119"
 
 [[files]]
+file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_pirate.json"
+hash = "7a7e7642d9ced9fcd788ab78150f5e8dba6954105cd8a672b73e0d8537a30b8d"
+
+[[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_structures.json"
 hash = "9b3173c4fdec871df227a19d625cf5ee0e543f63d8333f48cc83c82280987f8a"
 
@@ -5713,7 +5721,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
+hash = "4d29811fbd9d1660887edd7e872518e67b7fd4ea231bc22b680be37b5c000072"
 metafile = true
 
 [[files]]
@@ -5753,7 +5761,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "a81a46242707c679e57c794b7e8690e931ad0a8132d99734db09ef642887f9a8"
+hash = "9d958323a3e1a6abfc2e8db4c4a74304a63ee75e4a72e2434dfa52275d382312"
 metafile = true
 
 [[files]]
@@ -5948,7 +5956,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
+hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
 metafile = true
 
 [[files]]
@@ -5968,7 +5976,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
+hash = "947d345c1004f4cae070b87004772c83e6cabc07e8374d8b33fe5abe476b3e83"
 metafile = true
 
 [[files]]
@@ -6312,7 +6320,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "80e7a2ae4c5a5a09ef9d87606f50577057caa390c5c031eef60c546581727989"
+hash = "b53dd8919659d21668a88733d8ef558b5d781320fddfebfaf91c9dc76afeda97"
 metafile = true
 
 [[files]]
@@ -6322,7 +6330,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
+hash = "9dcc02fc692a85f7890451bdb4723f2e31151e9773bc71ea4f919c4eef16a4e7"
 metafile = true
 
 [[files]]
@@ -6437,7 +6445,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e7415726ae64abe9a0fc344118f5f3e08694fd2cda62d33490a75558678007e1"
+hash = "6fabe6538a62f066cd50a15b9549b43567288bcc0cb4fce5745df81ec3acaaed"
 metafile = true
 
 [[files]]
@@ -6597,7 +6605,7 @@ hash = "337fc7c0e7bae9fdf650c48fc9861f2966a070889fcf2480ebcbb31cf11f3770"
 
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/marker/structure/shipwreck_beached.png"
-hash = "279b87e30aa3e59562ff1cd76c08cc012bd2276be2a84f318856a87c3a56b33e"
+hash = "af2e842114228a30cd9322e6cee3b291ae7287c375fb6b2fb4fd363b1c30243c"
 
 [[files]]
 file = "resourcepacks/antique_atlas_respacks/assets/antique_atlas/textures/atlas/marker/structure/shipwreck_beached.png.mcmeta"
@@ -8591,7 +8599,7 @@ hash = "c4de48444f4da0d56557e8ec35380a082620cec73ae1ffaade32b30a50399b4b"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/structure/pirate_flag.png"
-hash = "e2cbe9dee84023b0b9a295df5c66e41f01f04c6adcaec097d9db19cd4a549d33"
+hash = "fb7558ee5c8bed91dbd46eb82de0909aa9c67761572ba3abe09a61237ed2fecb"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/structure/pirate_flag.png.mcmeta"
@@ -8714,10 +8722,6 @@ file = "resourcepacks/spectral_seas/assets/minecraft/atlas/biome/lava_sea.json"
 hash = "fd83cfd26ca5b0620cfe5de8ac52a782b8195d1ca98c917311f185cca987071d"
 
 [[files]]
-file = "resourcepacks/spectral_seas/assets/minecraft/atlas/structure/start/pillager_outpost.json"
-hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
-
-[[files]]
 file = "resourcepacks/spectral_seas/assets/minecraft/atlas/structure/tag/pillager_outpost.json"
 hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
 
@@ -8808,6 +8812,10 @@ hash = "219e64726df08bc9eb121824fa50875922cf8338cfa45b63a565361a71588dca"
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/advancement_frames/frames.json"
 hash = "4bf868de028f653725953e71b891db988e64fb75ea51d2a4c77f1b3052cc989e"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectral_seas/atlas/structure/tag/all_pirate.json"
+hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/lang/en_us.json"
