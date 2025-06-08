@@ -1,16 +1,5 @@
 {
   "attributes": {
-    "runiclib:generic.retaliation_amount": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -53,17 +42,6 @@
       "max": {
         "default": 64,
         "value": 64
-      }
-    },
-    "runiclib:generic.vulnerability_multiplier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "additionalentityattributes:generic.water_speed": {
@@ -143,51 +121,7 @@
         "value": 100
       }
     },
-    "runiclib:generic.lifesteal_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "creeperoverhaul:reach_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "runiclib:generic.burning_retaliation_length": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "tipsylib:lifesteal_heal_amount": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "runiclib:generic.lifesteal_heal_amount": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -218,17 +152,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "tipsylib:dodge_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "porting_lib:entity_gravity": {
@@ -308,28 +231,6 @@
         "value": 1024
       }
     },
-    "tipsylib:vulnerability_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "tipsylib:vulnerability_multiplier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "minecraft:zombie.spawn_reinforcements": {
       "enabled": true,
       "min": {
@@ -339,17 +240,6 @@
       "max": {
         "default": 1,
         "value": 1
-      }
-    },
-    "runiclib:generic.burning_retaliation_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -385,17 +275,6 @@
         "value": 1000000
       }
     },
-    "tipsylib:critical_strike_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
@@ -407,17 +286,6 @@
         "value": 1024
       }
     },
-    "runiclib:generic.dodge_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "additionalentityattributes:player.bonus_loot_count_rolls": {
       "enabled": false,
       "min": {
@@ -427,17 +295,6 @@
       "max": {
         "default": 128,
         "value": 128
-      }
-    },
-    "runiclib:generic.retaliation_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "reach-entity-attributes:reach": {
@@ -506,17 +363,6 @@
         "value": 1000000
       }
     },
-    "runiclib:generic.critical_strike_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "porting_lib:swim_speed": {
       "enabled": false,
       "min": {
@@ -572,33 +418,11 @@
         "value": 1024
       }
     },
-    "runiclib:generic.critical_strike_multiplier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "additionalentityattributes:generic.jump_height": {
       "enabled": false,
       "min": {
         "default": -1024,
         "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "tipsylib:burning_retaliation_length": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
       },
       "max": {
         "default": 1024,
@@ -627,28 +451,6 @@
         "value": 1024
       }
     },
-    "tipsylib:critical_strike_multiplier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "runiclib:generic.vulnerability_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "minecraft:generic.max_health": {
       "enabled": true,
       "min": {
@@ -669,17 +471,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "tipsylib:burning_retaliation_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "minecraft:horse.jump_strength": {
@@ -724,17 +515,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "tipsylib:lifesteal_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     }
   }

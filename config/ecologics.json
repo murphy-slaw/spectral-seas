@@ -19,7 +19,7 @@
     "generateWalnutTrees": true
   },
   "lushCaves": {
-    "replaceAzaleaTree": true,
+    "replaceAzaleaTree": false,
     "generateSurfaceMoss": true
   }
 }

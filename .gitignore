@@ -13,10 +13,12 @@
 !resourcepacks**/*
 !shaderpacks/
 !shaderpacks/**
-!design_docs/
 !server-icon.png
 **/.DS_Store
 
+resourcepacks/*.zip
+config/paxi/datapacks/*.zip
+shaderpacks/*.zip
 config/chunky/tasks/
 config/fabric
 config/sound_physics_remastered/

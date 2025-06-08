@@ -12,6 +12,8 @@ horse_model_head_offset = 20
 horse_model_y_offset = 2
 #Makes horse-type mobs that named 'jeb_' render with rainbow effect, like sheep. Default: true.
 jeb_horse = true
+#Fixes small delay when moving camera horizontally while mounted - MC-259512. Default: true
+fix_mounted_camera_lag = true
 
 [switch_inventory]
 	#X position of the button in player's inventory. Default: -14.
@@ -29,9 +31,6 @@ jeb_horse = true
 	#Adds button and hotkey to switch between player and horse inventory. Default: true
 	enabled = true
 [transparent_horse]
-	#Maximum transparency (at the end angle). Default: 0.08.
-	#Range: 0.0 ~ 1.0
-	max_transparency = 0.08
 	#Angle at which the horse will start to become transparent. Default: 30.
 	#Range: -90 ~ 90
 	start_angle = 30
@@ -40,3 +39,6 @@ jeb_horse = true
 	end_angle = 65
 	#Makes horse translucent depending on player's look angle. Default: true
 	enabled = true
+	#Maximum opacity (at the end angle). 0 - fully transparent. 1 - fully opaque. Default: 0.08.
+	#Range: 0.0 ~ 1.0
+	max_opacity = 0.08

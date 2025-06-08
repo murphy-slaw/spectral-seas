@@ -70,8 +70,6 @@ key_modifiers_key.deathlog.death_screen:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_key.mount_jump:0,0,0
 key_modifiers_key.exposure.camera_controls:0,0,0
-key_modifiers_key.fabricskyboxes.toggle:0,0,0
-key_modifiers_key.fabricskyboxes.toggle.debug_hud:0,0,0
 key_modifiers_key.fbp.toggle_mod:0,0,0
 key_modifiers_key.fbp.toggle_animations:0,0,0
 key_modifiers_key.fbp.open_settings:0,0,0
@@ -133,6 +131,7 @@ key_modifiers_key.trashslot.toggle:0,0,0
 key_modifiers_key.trashslot.toggleLock:0,0,0
 key_modifiers_key.trashslot.delete:0,0,0
 key_modifiers_key.trashslot.deleteAll:0,0,1
+key_modifiers_key.trashslot.deleteAll_modifier:0,0,0
 key_modifiers_treechop.key.toggle_chopping:0,0,0
 key_modifiers_treechop.key.toggle_felling:0,0,0
 key_modifiers_treechop.key.cycle_sneak_behavior:0,0,0

@@ -35,7 +35,7 @@
 	"hunger": {
 		"policy": "Low"
 	},
-	"revealHungerWhenHoldingFoodItem": true,
+	"revealBarsWhenHoldingConsumableItem": true,
 	"air": {
 		"policy": "NotFull"
 	},
@@ -113,61 +113,71 @@
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"health": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"armor": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"hunger": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"air": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"experience": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"mountJumpBar": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"mountHealth": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"statusEffects": {
 			"direction": "Up",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"scoreboard": {
 			"direction": "Right",
 			"speedMultiplier": -1.0,
 			"distance": 100,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"crosshair": {
 			"speedMultiplier": 2.5,
@@ -177,19 +187,22 @@
 			"direction": "Left",
 			"speedMultiplier": -1.0,
 			"distance": 100,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"actionBar": {
 			"direction": "Down",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		},
 		"bossBar": {
 			"direction": "Up",
 			"speedMultiplier": -1.0,
 			"distance": -1,
-			"maximumFade": -1.0
+			"maximumFade": -1.0,
+			"renderWhenHidden": false
 		}
 	}
 }
