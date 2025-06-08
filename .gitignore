@@ -46,3 +46,4 @@ config/sodium-fingerprint.json
 config/sodium-mixins.properties
 config/tellme
 config/terrablender.toml
+config/balm-*
