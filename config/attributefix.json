@@ -1,5 +1,16 @@
 {
   "attributes": {
+    "additionalentityattributes:player.bonus_loot_count_rolls": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 128,
+        "value": 128
+      }
+    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -33,6 +44,17 @@
         "value": 128
       }
     },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additionalentityattributes:player.collection_range": {
       "enabled": false,
       "min": {
@@ -55,6 +77,17 @@
         "value": 1
       }
     },
+    "additionalentityattributes:generic.lava_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "additionalentityattributes:player.dig_speed": {
       "enabled": false,
       "min": {
@@ -64,6 +97,28 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 1000000
       }
     },
     "lodestone:magic_proficiency": {
@@ -88,17 +143,6 @@
         "value": 512
       }
     },
-    "tipsylib:rejuvenate_amount": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -110,18 +154,40 @@
         "value": 1024
       }
     },
-    "tipsylib:retaliation_chance": {
+    "minecraft:generic.armor": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 1000000
+      }
+    },
+    "creeperoverhaul:reach_distance": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 1024,
+        "value": 1024
       }
     },
-    "creeperoverhaul:reach_distance": {
+    "porting_lib:swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "creeperoverhaul:swim_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -143,8 +209,30 @@
         "value": 10
       }
     },
+    "staminafortweakers:generic.climb_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "staminafortweakers:generic.stamina": {
       "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
@@ -163,6 +251,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "additionalentityattributes:generic.jump_height": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additionalentityattributes:player.water_visibility": {
@@ -189,6 +288,17 @@
     },
     "additionalentityattributes:player.dropped_experience": {
       "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
@@ -231,215 +341,6 @@
         "value": 1024
       }
     },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "minecraft:generic.attack_knockback": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 5,
-        "value": 1000000
-      }
-    },
-    "lodestone:magic_resistance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "minecraft:generic.armor_toughness": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 1000000
-      }
-    },
-    "reach-entity-attributes:attack_range": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "additionalentityattributes:player.bonus_loot_count_rolls": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 128,
-        "value": 128
-      }
-    },
-    "reach-entity-attributes:reach": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "additionalentityattributes:generic.lava_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "tipsylib:rejuvenate_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "minecraft:generic.attack_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "minecraft:generic.attack_damage": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 1000000
-      }
-    },
-    "minecraft:generic.armor": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 30,
-        "value": 1000000
-      }
-    },
-    "porting_lib:swim_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "tipsylib:retaliation_amount": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "creeperoverhaul:swim_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "staminafortweakers:generic.climb_speed": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "additionalentityattributes:generic.jump_height": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "minecraft:generic.movement_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "additionalentityattributes:generic.mob_detection_range": {
       "enabled": false,
       "min": {
@@ -473,6 +374,17 @@
         "value": 1024
       }
     },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "minecraft:horse.jump_strength": {
       "enabled": true,
       "min": {
@@ -484,6 +396,28 @@
         "value": 2
       }
     },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 1000000
+      }
+    },
+    "lodestone:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "minecraft:generic.knockback_resistance": {
       "enabled": true,
       "min": {
@@ -493,6 +427,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 1000000
       }
     },
     "lodestone:magic_damage": {
@@ -511,6 +456,17 @@
       "min": {
         "default": -1,
         "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,

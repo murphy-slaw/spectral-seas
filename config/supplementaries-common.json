@@ -136,7 +136,11 @@
       "fire_power": 0.6,
       "fuse_time": 40,
       "cooldown": 60,
-      "cannonball": false,
+      "cannonball": {
+        "enabled": false,
+        "power_scaling": 3.5,
+        "break_radius": 1.1
+      },
       "music_disc_heave_ho": true
     },
     "present": {
