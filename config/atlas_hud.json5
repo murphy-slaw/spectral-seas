@@ -1,5 +1,5 @@
 {
-	"DisplayRule": "COMPASS_HELD",
+	"DisplayRule": "COMPASS_HOTBAR",
 	"ShowDirections": true,
 	"ShowMarkers": true,
 	"DrawBackground": true,
