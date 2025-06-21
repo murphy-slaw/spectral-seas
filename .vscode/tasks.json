@@ -95,6 +95,7 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "echo '${input:pack_name}-${input:version}-${input:short_hash}.mrpack'",
+                "taskId": "filename",
                 "useFirstResult": true
             },
         },
@@ -104,6 +105,7 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "git show --oneline --abbrev | head -1 | cut -f1 -d\\ ",
+                "taskId": "short_hash",
                 "useFirstResult": true
             }
         },
@@ -113,6 +115,7 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "dasel -s version --pretty=false -f pack.toml -w yaml",
+                "taskId": "version",
                 "useFirstResult": true
             }
         },
@@ -122,6 +125,7 @@
             "command": "shellCommand.execute",
             "args": {
                 "command": "dasel -s name --pretty=false -f pack.toml -w yaml",
+                "taskId": "pack_name",
                 "useFirstResult": true
             }
         }
