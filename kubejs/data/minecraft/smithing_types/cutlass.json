@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"sticknstone:wooden_cutlass",
+		"sticknstone:stone_cutlass",
 		"simplyswords:iron_cutlass",
 		"simplyswords:diamond_cutlass",
 		"simplyswords:netherite_cutlass",

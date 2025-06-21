@@ -1,0 +1,17 @@
+{
+	"replace": true,
+	"values": [
+		{
+			"cost": 2,
+			"item": "galosphere:silver_ingot"
+		},
+		{
+			"cost": 18,
+			"item": "galosphere:silver_nugget"
+		},
+		{
+			"cost": 3,
+			"item": "minecraft:leather"
+		}
+	]
+}

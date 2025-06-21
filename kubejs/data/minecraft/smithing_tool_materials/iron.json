@@ -4,7 +4,16 @@
 	],
 	"addItem": [
 		"minecraft:shears",
-		"minecraft:flint_and_steel"
+		"minecraft:flint_and_steel",
+		"minecraft:iron_sword",
+		"minecraft:iron_axe",
+		"simplyswords:iron_longsword",
+		"simplyswords:iron_rapier",
+		"simplyswords:iron_cutlass",
+		"musketmod:musket",
+		"musketmod:musket_with_bayonet",
+		"musketmod:musket_with_scope",
+		"musketmod:pistol"
 	],
 	"upgradesTo": [
 		"minecraft:diamond"

@@ -3,7 +3,12 @@
 		"minecraft:wooden_pickaxe"
 	],
 	"addItem": [
-		"minecraft:shield"
+		"minecraft:shield",
+		"minecraft:wooden_sword",
+		"minecraft:wooden_axe",
+		"sticknstone:wooden_longsword",
+		"sticknstone:wooden_rapier",
+		"sticknstone:wooden_cutlass"
 	],
 	"upgradesTo": [
 		"minecraft:stone",

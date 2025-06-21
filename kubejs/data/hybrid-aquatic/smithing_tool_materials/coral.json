@@ -1,0 +1,11 @@
+{
+    "inheritFromItem": [
+        "hybrid-aquatic:coral_pickaxe"
+    ],
+    "addItem": [
+        "hybrid-aquatic:coral_axe",
+        "hybrid-aquatic:coral_blade",
+        "hybrid-aquatic:coral_hoe",
+        "hybrid-aquatic:coral_shovel"
+    ]
+}

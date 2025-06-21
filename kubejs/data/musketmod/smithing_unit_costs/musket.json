@@ -1,0 +1,13 @@
+{
+	"replace": true,
+	"values": [
+		{
+			"cost": 2,
+			"item": "minecraft:iron_ingot"
+		},
+		{
+			"cost": 18,
+			"item": "minecraft:iron_nugget"
+		}
+	]
+}

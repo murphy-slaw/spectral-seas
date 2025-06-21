@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#tridents_n_stuff:unique_tridents",
+        "#tridents_n_stuff:upgraded_tridents"
+    ]
+}

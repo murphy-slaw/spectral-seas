@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"sticknstone:wooden_longsword",
+		"sticknstone:stone_longsword",
 		"simplyswords:iron_longsword",
 		"simplyswords:diamond_longsword",
 		"simplyswords:netherite_longsword",

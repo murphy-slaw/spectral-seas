@@ -1,4 +1,10 @@
 const SLAIN_ITEMS = [
+    'archeologyplus:sun_idol',
+    'archeologyplus:moon_idol',
+    'archeologyplus:seashell_idol',
+    'archeologyplus:rain_idol',
+    'archeologyplus:fire_idol',
+    'archeologyplus:tree_idol',
     'simplyswords:brimstone_claymore',
     'simplyswords:watcher_claymore',
     'simplyswords:storms_edge',
@@ -136,8 +142,25 @@ const SLAIN_ITEMS = [
     'sticknstone:stone_halberd',
     'yigd:death_scroll',
     'yigd:grave_key',
+    'hybrid-aquatic:nautilus_helmet',
+    'hybrid-aquatic:nautilus_pauldrons',
+    'hybrid-aquatic:seashell_pickaxe',
+    'hybrid-aquatic:seashell_axe',
+    'hybrid-aquatic:seashell_shovel',
+    'hybrid-aquatic:seashell_hoe',
+    'hybrid-aquatic:seashell_spear',
 ]
 
+StartupEvents.modifyCreativeTab('archeologyplus:archeology_plus', event => {
+    SLAIN_ITEMS.forEach(item => {
+        event.removeDisplay(item)
+    })
+})
+StartupEvents.modifyCreativeTab('hybrid-aquatic:items', event => {
+    SLAIN_ITEMS.forEach(item => {
+        event.removeDisplay(item)
+    })
+})
 StartupEvents.modifyCreativeTab('simplyswords:simplyswords', event => {
     SLAIN_ITEMS.forEach(item => {
         event.removeDisplay(item)

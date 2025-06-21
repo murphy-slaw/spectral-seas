@@ -1,0 +1,8 @@
+{
+	"inheritFromItem": [
+		"galosphere:sterling_helmet"
+	],
+	"addItem": [
+		"galosphere:sterling_horse_armor"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"inheritFromItem": [
+		"simplyswords:runic_cutlass"
+	],
+	"addItem": [
+		"simplyswords:runic_rapier",
+		"simplyswords:runic_longsword"
+	]
+}

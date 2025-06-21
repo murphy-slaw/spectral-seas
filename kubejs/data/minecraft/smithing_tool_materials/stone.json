@@ -2,6 +2,13 @@
 	"inheritFromItem": [
 		"minecraft:stone_pickaxe"
 	],
+	"addItem": [
+		"minecraft:stone_sword",
+		"minecraft:stone_axe",
+		"sticknstone:stone_longsword",
+		"sticknstone:stone_rapier",
+		"sticknstone:stone_cutlass"
+	],
 	"upgradesTo": [
 		"minecraft:iron"
 	]
