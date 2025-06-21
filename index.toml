@@ -82,11 +82,11 @@ hash = "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3"
 
 [[files]]
 file = "config/atlas_hud.json5"
-hash = "5d44b8fe9bc6ed6b16544711ad16c7a999f2de5baa8e71cd5e8d2213013d8609"
+hash = "84c105d91a44d94804bb9f0e5ace8c3683b868b613959b480a69561f2052648e"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "5c2ca62f0825b8d043f6e3812519011be2c9f267941ee7d439bf9c9597ec7768"
+hash = "176eb1cf05b5a4b47e3679d1782b9c82e290e0398e0686735038229b65b364a5"
 
 [[files]]
 file = "config/autohud.json5"
@@ -622,7 +622,7 @@ hash = "43ead57f976250818ebfa0031588e9e8588c0d0dc4b7975bfa4351c6bb337c2b"
 
 [[files]]
 file = "config/inmis.json"
-hash = "b79272bec2404e0e2779ca0686fd8fbf67c7511a44339fea60b41916b7f7df88"
+hash = "1063b3e57998a9dd169690b86d3f28a1b53a59d38040953803e02690e89bd46f"
 
 [[files]]
 file = "config/interactic.json5"
@@ -1249,6 +1249,10 @@ file = "config/spyglass-improvements/settings.json"
 hash = "af24d96e20c18a9cfa184142947e76c0d17c7a97f539890ac0f8553213f14240"
 
 [[files]]
+file = "config/stackdeobf.json"
+hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
+
+[[files]]
 file = "config/staminafortweakers.json5"
 hash = "05bf855fe274fa42ea4e897883c4fb978fdba7f116719e35eff964a148b1faf4"
 
@@ -1302,7 +1306,7 @@ hash = "ff28b6b281d8093f00f27b2b288b6961ab0ea5105ffa4e4dadb9eace45227ae6"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "15c276d87583d4fa7ec1b257a1ac2d661e0df6ee236e37148140dfc78a6a4789"
+hash = "2e44e6163475143f931e54abca4cfeb2c476da6703fdf3e7880b6ef3143e18b2"
 
 [[files]]
 file = "config/surveyor.toml"
@@ -1537,6 +1541,10 @@ file = "kubejs/data/c/tags/blocks/mushroom_caps.json"
 hash = "03142c72a4bf59e5ba2b683b5c6d40f5641fb8485ca4277d41ecbba18b38ac06"
 
 [[files]]
+file = "kubejs/data/c/tags/items/tridents.json"
+hash = "a912b8fc00d665dffb4633abad899d4f4265b7bd6dcd105a1ba47c1a654c6288"
+
+[[files]]
 file = "kubejs/data/deeper_oceans/worldgen/density_function/overworld/warped_factor.json"
 hash = "590a8f962ec360b209de296d2ca17ee61e50b1e67495efda16ee0eba2217c9a1"
 
@@ -1667,6 +1675,30 @@ hash = "6d86d534fdcd3109906d5187d5d58c1f58531dc0d255475877b876e7c3dbf8d6"
 [[files]]
 file = "kubejs/data/galosphere/loot_tables/chests/pink_salt_shrine_library.json"
 hash = "1d38d48cf1035c79b0d2ba587d5b11a681cd3e616607e81d8d7e6076b51dcc86"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_armor_materials/sterling.json"
+hash = "3838c8bd2a877b1e12cfe92a2b994319482aeecbc3a8b305d3a09f46361da1b1"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_unit_costs/sterling_boots.json"
+hash = "b8c9eb2cb3ccfd506a0ee883709d9c92259aeb7e916438511522a80d1d0932ba"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_unit_costs/sterling_chestplate.json"
+hash = "f6d5ef50b95a5169fe68870c31a0daf99eb0130c03bdf708b88da113bb8c7943"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_unit_costs/sterling_helmet.json"
+hash = "150413cbd08f71c1e2fb869a4df6a38ee746a90ee28694f061918e6fdb91c8ed"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_unit_costs/sterling_horse_armor.json"
+hash = "92120add203d1739241ecdfc8b50942bbc1ca8ca6a82ef2541a35498bf7fdc1c"
+
+[[files]]
+file = "kubejs/data/galosphere/smithing_unit_costs/sterling_leggings.json"
+hash = "fb111b52167fa83709b72142137e27af64fee50c732a6098a8427ece6addf35f"
 
 [[files]]
 file = "kubejs/data/galosphere/worldgen/biome/crystal_canyons.json"
@@ -1843,6 +1875,10 @@ hash = "af2f3e0e31b692fe7282435bd451f3dace8b2f08f40e0befa3c86a6288cfcd07"
 [[files]]
 file = "kubejs/data/hybrid-aquatic/smithing_armor_materials/copper.json"
 hash = "87b6699ff2f0d375ba50dd9a63b848283a660c376effba560afeb8386da1b59f"
+
+[[files]]
+file = "kubejs/data/hybrid-aquatic/smithing_tool_materials/coral.json"
+hash = "796a24dcb029c73ee78c2155758ae6cec168f2ccd80c3314b923024969ae5a01"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
@@ -2026,15 +2062,19 @@ hash = "921d3fd53aee9ce335ec3e1582993cad25af0db8025fb09ec2f5e0f8ed529600"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_tool_materials/iron.json"
-hash = "e48c09ef739e72941663d8727ac540fa335eea9ce4a28472525b116572032cc2"
+hash = "15596013306573a4fa850f3d8046ceb66f0cd4ebcfeb9e5c8a410f8b579899d5"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_tool_materials/netherite.json"
 hash = "d74a0ec229c116e2534972f012b3bb6d42970dc12f7d1f02cfaf199391ed0b8a"
 
 [[files]]
+file = "kubejs/data/minecraft/smithing_tool_materials/runic.json"
+hash = "9f4aca12c8cb200033d72e72462400b10ea3c52492a5a6c2f56f01706d07206c"
+
+[[files]]
 file = "kubejs/data/minecraft/smithing_tool_materials/stone.json"
-hash = "7941a896b3cd453c5f10ba226dce1ac7f44cac9c6debbe77efadd0f1fa91fa59"
+hash = "daebbaf2e444d8b56ee8f5e8d32f352e35b906e7c2ca13dba1d6725aad1e1169"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_tool_materials/string.json"
@@ -2042,7 +2082,7 @@ hash = "c5794c3ef25f70f07e14358d9992f6d080310fb5eb30363fa9e7923998769248"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_tool_materials/wood.json"
-hash = "d3c5c426741bad44ba90669e2554575a0c63362b47fa063017dcfdbf41805ba9"
+hash = "beca1c62552dfb24d49f6a554e2fa0b309559a26bbe17775b4908e397e95c4d0"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/axe.json"
@@ -2066,7 +2106,7 @@ hash = "c881a5070088372ead3ce720618c95ef959a30ee45c1131ff4cc0d162d6cfada"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/cutlass.json"
-hash = "881dd8ff66f86492e9c1e187e90ac98cd3be1b9757052c42057ac2949245b290"
+hash = "82633a60d60b6890f8f5833e609c7b24f111a597e818c21ee5aec07948e8f79a"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/fishing_rod.json"
@@ -2090,7 +2130,7 @@ hash = "bafc60c1565950ad5e555b48fe097372123728224340eed8df303824e89db892"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/longsword.json"
-hash = "4dc3c827142a4cacc2bd679e913d1a0a2e2db6446a2b10ea1454a2445c88f614"
+hash = "a2f0c8f6a4c0fdb8e2f49b6b22d657aab4d13b43425fd5b5c01f3bbe93c2dfe4"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/pickaxe.json"
@@ -2098,7 +2138,7 @@ hash = "0785019c6077ab828ff36b093a32061baf1a7fdad41255dcc0d5aeed3bb2ac9b"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/rapier.json"
-hash = "55a93a012cf0c3013b20eb0334896a61bbc6b0781bb724c5beeefeab6436e2f0"
+hash = "ae24f1fb366512e6d9cc01602e127250b5ef8fe9f60b95b596a0ad53470eb6b0"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/shears.json"
@@ -2115,6 +2155,10 @@ hash = "47dda45b82fd7bb31600e3b78f5459a8b49cbf1e13fff33d1aad362afe02153b"
 [[files]]
 file = "kubejs/data/minecraft/smithing_types/sword.json"
 hash = "b133697f364da18165a654512be87d95f071a40c138c161d5af3aaed0a536069"
+
+[[files]]
+file = "kubejs/data/minecraft/smithing_types/trident.json"
+hash = "8df77a056c838500d7228641f1f1ce59e9f886cd314397e01624c3372f2688d1"
 
 [[files]]
 file = "kubejs/data/minecraft/smithing_unit_costs/brush.json"
@@ -3115,6 +3159,26 @@ hash = "f30e88bfe4131db6a90c1e55a31f0646c200f75d406777fa3d4ed81910569369"
 [[files]]
 file = "kubejs/data/musketmod/loot_tables/chests/woodland_mansion.json"
 hash = "3692e813acc551108ff8f7a7a8cabb9cb407363791135061058b21377246bfcc"
+
+[[files]]
+file = "kubejs/data/musketmod/smithing_unit_costs/blunderbuss.json"
+hash = "62c48b82e16c9fff2c9c00b70a1c736a822c90a97d1586ad844527fd9d7f0ead"
+
+[[files]]
+file = "kubejs/data/musketmod/smithing_unit_costs/musket.json"
+hash = "0781175ee4594da3f0d2441d3be56bbee2809a314eb238beee193e0f7e00f68d"
+
+[[files]]
+file = "kubejs/data/musketmod/smithing_unit_costs/musket_with_bayonet.json"
+hash = "0781175ee4594da3f0d2441d3be56bbee2809a314eb238beee193e0f7e00f68d"
+
+[[files]]
+file = "kubejs/data/musketmod/smithing_unit_costs/musket_with_scope.json"
+hash = "0781175ee4594da3f0d2441d3be56bbee2809a314eb238beee193e0f7e00f68d"
+
+[[files]]
+file = "kubejs/data/musketmod/smithing_unit_costs/pistol.json"
+hash = "355e023fd0ef51e04376f2ec8033adccddc5c3f4d33161e39f0fbe2322bad65d"
 
 [[files]]
 file = "kubejs/data/musketmod/tags/items/enchantable/bane_of_arthropods.json"
@@ -4657,6 +4721,34 @@ file = "kubejs/data/spectrum/advancements/spectrum.json"
 hash = "b631da8a1292b70d9db9b6baa6c21afdff3815146571d1d951f5706229875623"
 
 [[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/stone_cutlass.json"
+hash = "c1872d91dd9c424898e5cf8455a34096411b2fe154f46d1787cc83e1ec0166d1"
+
+[[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/stone_longsword.json"
+hash = "c1872d91dd9c424898e5cf8455a34096411b2fe154f46d1787cc83e1ec0166d1"
+
+[[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/stone_rapier.json"
+hash = "c1872d91dd9c424898e5cf8455a34096411b2fe154f46d1787cc83e1ec0166d1"
+
+[[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/wooden_cutlass.json"
+hash = "1b84a3681f95f9bcb1339b3f36174a6403dc1c9d67e790d6844ba74a136b09d2"
+
+[[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/wooden_longsword.json"
+hash = "1b84a3681f95f9bcb1339b3f36174a6403dc1c9d67e790d6844ba74a136b09d2"
+
+[[files]]
+file = "kubejs/data/sticknstone/smithing_unit_costs/wooden_rapier.json"
+hash = "1b84a3681f95f9bcb1339b3f36174a6403dc1c9d67e790d6844ba74a136b09d2"
+
+[[files]]
+file = "kubejs/data/supplementaries/smithing_unit_costs/wrench.json"
+hash = "356dedbd865c5e07fa7765fa0481d6762d5bccd0a97b38df3c18e99f6830445a"
+
+[[files]]
 file = "kubejs/data/supplementaries/worldgen/configured_feature/wild_flax.json"
 hash = "353bd4cb678e6494286af858c364d4fcc620123d88308d8a86c96d7be1985269"
 
@@ -4945,8 +5037,32 @@ file = "kubejs/data/tridents_n_stuff/smithing_types/spear.json"
 hash = "0227c576348928f31d67c9dbd5b9402f11a51c275c6eca148c1d157c60a597d1"
 
 [[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/ancient_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/echo_of_the_deep.json"
+hash = "e73c1466869837b448b3fff3155367367f3d69186df0474469410f9f6e77632c"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/farshot_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/frenzied_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
+
+[[files]]
 file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/golden_spear.json"
 hash = "e8c911ff00d9f1d73f34ff35c03581621b5cb2eddb0e195ce7a8e2e5d9f922cb"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/harpoon_launcher.json"
+hash = "355e023fd0ef51e04376f2ec8033adccddc5c3f4d33161e39f0fbe2322bad65d"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/holy_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
 
 [[files]]
 file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/iron_spear.json"
@@ -4957,8 +5073,32 @@ file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/netherite_spear.json"
 hash = "9b875d943d22d8fb3a75a27ba190cbb7df5879137414f9d6ef31058bdae2f928"
 
 [[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/oceanic_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/sanguine_bond.json"
+hash = "e73c1466869837b448b3fff3155367367f3d69186df0474469410f9f6e77632c"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/slumbering_trident.json"
+hash = "3e51071f75971c5db32103bf7f432c83b46b6d365d5c13e796f657d349a70b8a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/stellaris.json"
+hash = "e73c1466869837b448b3fff3155367367f3d69186df0474469410f9f6e77632c"
+
+[[files]]
 file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/stone_spear.json"
 hash = "c87803dc2d9a6d093ee59fe7bf093cf8a0e38e838991aed492b0ea4dcaabafd1"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/stormseeker.json"
+hash = "e73c1466869837b448b3fff3155367367f3d69186df0474469410f9f6e77632c"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/smithing_unit_costs/the_desecrator.json"
+hash = "e73c1466869837b448b3fff3155367367f3d69186df0474469410f9f6e77632c"
 
 [[files]]
 file = "kubejs/data/tridents_n_stuff/tags/entity_types/harpoons.json"
@@ -5062,7 +5202,7 @@ hash = "5b8451c72f0aa2f9504e9631657514c1a85cd397778fa313efb79bf83603b53e"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Loot.js"
-hash = "ffe70e18a0c8e7226ac412a618b706660cb738378c53e3668d6a9f109eb85046"
+hash = "f17ad403e7b64403d8173cb5f2980d8053e89ed78ea5bad395390947ea639c90"
 
 [[files]]
 file = "kubejs/server_scripts/loot/Tools.js"
@@ -5122,7 +5262,7 @@ hash = "85989f20929862d67a93461735c9ced557da21c6796bc4033150be18d0f05c07"
 
 [[files]]
 file = "kubejs/server_scripts/loot/tables/shipwreck.js"
-hash = "c100b316ed4e3861b461874663299719f8e02bb909cc18e2b4d83d0e938a74f5"
+hash = "32b33e6b4b43714ebc5106d89d3041a9fbd4a6f20f3da4e3b75041c4811e2cc8"
 
 [[files]]
 file = "kubejs/server_scripts/loot/unique_items.js"
@@ -5270,7 +5410,7 @@ hash = "d77ab857cead95bce3f1b3199539bc32f3e4aeb532a4f7ecf32dafb3e672d855"
 
 [[files]]
 file = "kubejs/startup_scripts/items/item_removals.js"
-hash = "3507d9bb04bcb4ec30c23aa49eb52877d003414c22bc4b9feff38348aba804ff"
+hash = "a4b10cdebb62cceeb71f40c9af52d3e43aa58f2b85232d7f0740e69369f1a229"
 
 [[files]]
 file = "kubejs/startup_scripts/items/ship_upgrades.js"

@@ -26,6 +26,8 @@
 √ TODO: replace the Ominous Banner's pattern with the Jolly Roger
 √ TODO: split beaches into tropical/rocky/temperate
 √ TODO: use processor lists to replace double chests in the Undead Crypt with Grave Dirt blocks that drop loot
+√ Fix repair recipe for stone swords
+√ Fix uncraftable potion in treasure chest loot
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
 INVALID TODO: figure out waystone costs for towers
@@ -42,3 +44,6 @@ TODO: Pirate ships
 TODO: randomly replace single chests on shelves in the Undead Crypt with Artifacts Mimics
 TODO: Rework the skins and armor CIT for guard villagers so they look like Keystone Kops
 TODO: Viking funeral advancement
+Fix repair recipe for stone swords
+Add a way to heal pets
+Partial recovery of ship upgrades on break.
