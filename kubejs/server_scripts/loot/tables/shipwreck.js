@@ -91,7 +91,7 @@ LootJS.modifiers(event => {
             .when(c => c.randomChance(0.1))
             .enchantRandomly()
             .damage(0),
-        Loot.potionOf('tirelessness')
+        Loot.potionOf('staminafortweakers:tirelessness_potion')
             .when(c => c.randomChance(0.5))
             .limitCount([1, 2]),
         Loot.potionOf('night_vision')
