@@ -26,7 +26,6 @@ const Loot = (function () {
      * @returns {Internal.Enchantment[]}
      */
     function enchantsFor (item, pool) {
-        console.log(`${item} ${pool}`)
         /** @type {Internal.RegistryInfo<Internal.Enchantment>} */
         const reg = Utils.getRegistry('minecraft:enchantment')
         return pool.filter(v => reg.getValue(v).canEnchant(item))
@@ -205,19 +204,3 @@ const Loot = (function () {
         smartReplacePools: smartReplacePools,
     }
 })()
-
-const Entry = {
-    of: itemStack => {
-        /** @type{Internal.LootEntry} inst */
-        const inst = Object.create(LootEntry.of(itemStack))
-        console.log(inst)
-        inst.enchantedFrom = function (pool) {
-            console.log(`${this}, ${pool}`)
-            const enchantment = Loot.randomEnchantFor(this, pool)
-            if (enchantment) return Loot.enchantRandomly(this, enchantment)
-            console.log(`No valid enchant found for ${this} in ${pool}`)
-            return this
-        }
-        return inst
-    },
-}

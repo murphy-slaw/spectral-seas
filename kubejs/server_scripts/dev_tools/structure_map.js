@@ -1,4 +1,3 @@
-const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $StructureTemplate = Java.loadClass(
     'net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate'
 )
