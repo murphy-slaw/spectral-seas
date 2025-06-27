@@ -1,14 +1,13 @@
 name = "Revamped Shipwrecks"
-filename = "Revamped Shipwrecks 1.0-1.19 Datapack.zip"
+filename = "Revamped Shipwrecks 1.1.0 Datapack.zip"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/ZnZ8uqXN/versions/tHfJbAi9/Revamped%20Shipwrecks%201.0-1.19%20Datapack.zip"
-hash-format = "sha1"
-hash = "8b6ca7e9eef390353cf8baf6d9de555d60284a25"
+url = "https://cdn.modrinth.com/data/ZnZ8uqXN/versions/GEYa9yaw/Revamped%20Shipwrecks%201.1.0%20Datapack.zip"
+hash-format = "sha512"
+hash = "b70d73b6ed47d2291e33fdbd3962d8c23a069dc7e7d7391c766e360e56989e2d1efb411dfc765507e85d5d7a3592bd0bc91a444c54ad629aa130b380674efbc5"
 
 [update]
 [update.modrinth]
 mod-id = "ZnZ8uqXN"
-version = "tHfJbAi9"
+version = "GEYa9yaw"

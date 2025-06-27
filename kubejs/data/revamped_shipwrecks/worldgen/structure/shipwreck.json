@@ -15,19 +15,13 @@
       ]
     }
   },
-  "start_pool": "revamped_shipwrecks:shipwreck_all",
+  "start_pool": "revamped_shipwrecks:shipwreck_beached",
   "size": 7,
   "step": "surface_structures",
   "start_height": {
-    "type": "minecraft:uniform",
-    "min_inclusive": {
-      "absolute": -5
-    },
-    "max_inclusive": {
-      "absolute": 20
-    }
+      "absolute": 3 
   },
   "project_start_to_heightmap": "OCEAN_FLOOR_WG",
-  "max_distance_from_center": 50,
+  "max_distance_from_center": 100,
   "use_expansion_hack": false
 }

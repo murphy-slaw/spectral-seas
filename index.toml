@@ -1079,7 +1079,7 @@ hash = "0e888fc465561f32679a9d321c242ddcd5ba0a04e1303f85aa3f46368e52b183"
 
 [[files]]
 file = "config/paxi/datapacks/revamped-shipwrecks.pw.toml"
-hash = "a84ecee2c7deb1a236d1040835794b1c936628f1f67a20964120ed3aa5a08695"
+hash = "d83392fefaf44a502619cff9ac53e36290103264b9dc26dbe2ce6121e884f23d"
 metafile = true
 
 [[files]]
@@ -4378,11 +4378,11 @@ hash = "62f0b0ced9ca020965a3b7b4e1148c5396fce0d688a50d1d8d3aaaecb4f240b6"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
-hash = "094ef5d748f58e3cabf41f2922f60771ba054f742a358793cc23e7b4b71be4bc"
+hash = "df0936331f0fe3d79126b8a8820617204689f9658a9e1a5f7385922af82237e2"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck_beached.json"
-hash = "1dc10c9228e73646e383153ff9c0bf75a644b3212d2016d7131c51f09930e711"
+hash = "acd34ffc29304b6af5c828095b9d6e5399e0e25b7330a7e68d017c1b5c8cf4e8"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
@@ -5175,6 +5175,10 @@ hash = "1cdb523adad64f9b891c6476cd2ab979e64323592ab19b984b6497de7987f1d9"
 [[files]]
 file = "kubejs/server_scripts/item/incomprehensible_book.js"
 hash = "358f8c83ba8d0542c3a15c3dc67489858d51cf88ccdf49612509a55699ffe3ab"
+
+[[files]]
+file = "kubejs/server_scripts/item/lead.js"
+hash = "bb79d76b19dde9ee2a007a272e64ec643aafde623702ca963120b29038604d09"
 
 [[files]]
 file = "kubejs/server_scripts/item/trinkets.js"
@@ -6230,6 +6234,11 @@ metafile = true
 [[files]]
 file = "mods/pale.pw.toml"
 hash = "e391487d73f354be3766be21ba6fd7abe27902902e77d0eaf6f92b99c52d9e3f"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "f7cc92b62ddea918624ece8bab499bdb3829d13b16551f0df0377b7a0c51841b"
 metafile = true
 
 [[files]]
@@ -8732,6 +8741,18 @@ metafile = true
 [[files]]
 file = "resourcepacks/round-shield.zip"
 hash = "1bc8649b5cc1be76b4536d238a841966daefe205029ed85c62cb0074fc36509b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/horse/saddle.png"
+hash = "fe3e7545f2241d57c611a2d74c1337d451515837f344865e907a28d6da094b60"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/horse/saddle.png.mcmeta"
+hash = "ee4dee04e40b577863b5d773b999417672c4e79b87b0877b30deaff14fa77256"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/horse/saddle_accent.png"
+hash = "2aafbc1d39ed64932e1d904db7647f47e3ea98b0361c4b8f6726f3ac0adb5ec4"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/antique_atlas/textures/atlas/marker/ship/brigg.png"
