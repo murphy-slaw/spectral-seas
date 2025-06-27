@@ -1,8 +1,8 @@
 {
-    "use_classic_hookshot_logic": true,
+    "use_classic_hookshot_logic": false,
     "hookshot_cancels_fall_damage": false,
     // Type: Integer
-    "hookshot_cooldown": 5,
+    "hookshot_cooldown": 20,
     "hookshot_affects_vehicle": false,
     // Type: Integer
     "default_durability": 512,
