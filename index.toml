@@ -5712,8 +5712,8 @@ hash = "1f65d34b14bc15fbf8f59c4dde68a4636c50680e97feed4f48c03b9890ff4a8a"
 metafile = true
 
 [[files]]
-file = "mods/deeper-oceans-refabricated.pw.toml"
-hash = "bbb4d73b73cabaac034020a55031a3c9fa36a0e040f3f5fae09e95a8fbbecd7c"
+file = "mods/deeper-oceans.pw.toml"
+hash = "3c49bb544be9bd3f1b11bb98fb096e786665961102075f9baed86b4e641b52de"
 metafile = true
 
 [[files]]
