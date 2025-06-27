@@ -15,7 +15,7 @@
       ]
     }
   },
-  "start_pool": "revamped_shipwrecks:shipwreck_beached",
+  "start_pool": "revamped_shipwrecks:shipwreck/shipwreck_beached",
   "size": 2,
   "step": "surface_structures",
   "start_height": {

@@ -4378,11 +4378,11 @@ hash = "62f0b0ced9ca020965a3b7b4e1148c5396fce0d688a50d1d8d3aaaecb4f240b6"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck.json"
-hash = "df0936331f0fe3d79126b8a8820617204689f9658a9e1a5f7385922af82237e2"
+hash = "c41c6b9544d089b090fc7b4cfc3106724c8d8c2cc598f08038fb028c2382e467"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure/shipwreck_beached.json"
-hash = "acd34ffc29304b6af5c828095b9d6e5399e0e25b7330a7e68d017c1b5c8cf4e8"
+hash = "8472379836522d40e043cc9e0e2ec9a8fe3b550455be4ef615b3125d24d9c1d2"
 
 [[files]]
 file = "kubejs/data/revamped_shipwrecks/worldgen/structure_set/shipwrecks.json"
@@ -5111,6 +5111,30 @@ hash = "d97365523bc6f3a0873ed81de97161656e089ae06a5dfc47a67d20dd67910fda"
 [[files]]
 file = "kubejs/data/tridents_n_stuff/tags/items/upgraded_tridents.json"
 hash = "2429c4dee0432197242321dd70e39cf3eb46ba067567cf0f6007e277a7e83bdc"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/diamond_spear.json"
+hash = "3380115a2a0b0a6dd59ba3fa560bbd1b970977e43f0845741af7fc83c84faa1a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/golden_spear.json"
+hash = "1cfdb6848ae4435f497ab5ad36a0f18343a73af8d355f75d2d6e34b978120a6e"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/iron_spear.json"
+hash = "3380115a2a0b0a6dd59ba3fa560bbd1b970977e43f0845741af7fc83c84faa1a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/netherite_spear.json"
+hash = "3380115a2a0b0a6dd59ba3fa560bbd1b970977e43f0845741af7fc83c84faa1a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/stone_spear.json"
+hash = "3380115a2a0b0a6dd59ba3fa560bbd1b970977e43f0845741af7fc83c84faa1a"
+
+[[files]]
+file = "kubejs/data/tridents_n_stuff/weapon_attributes/wooden_spear.json"
+hash = "3380115a2a0b0a6dd59ba3fa560bbd1b970977e43f0845741af7fc83c84faa1a"
 
 [[files]]
 file = "kubejs/data/unseaworthy/tags/entity_types/sinkable.json"
