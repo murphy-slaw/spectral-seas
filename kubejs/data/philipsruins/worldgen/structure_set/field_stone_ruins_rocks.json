@@ -1,10 +1,5 @@
 {
-  "structures": [
-    {
-      "structure": "philipsruins:field_stone_ruins_rocks",
-      "weight": 1
-    }
-  ],
+  "structures": [],
   "placement": {
     "type": "mvs:advanced_random_spread",
     "super_exclusion_zone": {

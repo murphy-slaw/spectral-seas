@@ -4,6 +4,7 @@
         "archeologyplus:desert_temple",
         "minecraft:desert_pyramid",
         "mostructures:big_pyramid",
-        "nova_structures:desert_ruins"
+        "nova_structures:desert_ruins",
+        "towns_and_towers:mimic_desert"
     ]
 }

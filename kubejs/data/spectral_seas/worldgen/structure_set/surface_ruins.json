@@ -1,0 +1,34 @@
+{
+    "structures": [
+        {
+            "structure": "philipsruins:field_stone_ruins",
+            "weight": 3
+        },
+        {
+            "structure": "philipsruins:field_stone_ruins_rocks",
+            "weight": 3
+        },
+        {
+            "structure": "philipsruins:level_two_ruins",
+            "weight": 2
+        },
+        {
+            "structure": "philipsruins:level_two_ruins_pool",
+            "weight": 2
+        },
+        {
+            "structure": "philipsruins:level_three_ruins",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "mvs:advanced_random_spread",
+        "super_exclusion_zone": {
+            "chunk_count": 2,
+            "other_set": "#mvs:common_avoid"
+        },
+        "salt": 697518742,
+        "spacing": 30,
+        "separation": 8
+    }
+}

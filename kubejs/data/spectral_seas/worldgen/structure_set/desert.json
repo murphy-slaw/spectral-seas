@@ -19,6 +19,10 @@
     {
       "structure": "archeologyplus:fallen_monolith_desert",
       "weight": 10
+    },
+    {
+      "structure": "formationsoverworld:desert_houses",
+      "weight": 2
     }
   ],
   "placement": {

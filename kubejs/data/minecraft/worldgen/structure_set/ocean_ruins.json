@@ -1,0 +1,34 @@
+{
+  "placement": {
+    "type": "mvs:advanced_random_spread",
+    "salt": 14357621,
+    "separation": 6,
+    "spacing": 20,
+    "exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "spectral_seas:large_ocean_structures"
+    }
+  },
+  "structures": [
+    {
+      "structure": "minecraft:ocean_ruin_cold",
+      "weight": 2
+    },
+    {
+      "structure": "minecraft:ocean_ruin_warm",
+      "weight": 2
+    },
+    {
+      "structure": "hopo:underwater/underwater_warm_small_ruins",
+      "weight": 3
+    },
+    {
+      "structure": "hopo:underwater/underwater_small_ruins",
+      "weight": 3
+    },
+    {
+      "structure": "philipsruins:ocean_ruins",
+      "weight": 1
+    }
+  ]
+}
