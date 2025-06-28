@@ -1,5 +1,4 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
-var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
 const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
 const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $StructureStart = Java.loadClass(
@@ -46,6 +45,7 @@ function posInStructure (blockPos, structureId, serverLevel) {
             }).length > 0
     )
 }
+
 /**
  * @param {Internal.Entity} entity
  * @param {ResourceLocation} structureId
@@ -58,14 +58,14 @@ function entityInStructure (entity, structureId, serverLevel) {
 
 EntityEvents.spawned(event => {
     /** @type {Internal.LivingEntity} */
-    const entity = event.entity
+    const {entity, level} = event
 
     if (entity.isPlayer() || !entity.isLiving()) {
         return
     }
 
     if (entity.mobType === $MobType.ILLAGER) {
-        if (entityInStructure(entity, 'mostructures:pillager_factory', event.level)) {
+        if (entityInStructure(entity, 'mostructures:pillager_factory', level)) {
             entity.setChestArmorItem(
                 Item.of(
                     'minecraft:leather_chestplate',
@@ -104,6 +104,7 @@ EntityEvents.spawned(event => {
         console.infof('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
+
     if (entity.type === 'minecraft:drowned') {
         var data = entity.nbt
         data.put('HandDropChances', NBT.listTag([NBT.floatTag(0.085), NBT.floatTag(0.3)]))

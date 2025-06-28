@@ -1,12 +1,36 @@
 const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
-function setSpawn (player, x, y, z) {
-    Utils.server.runCommand(`spawnpoint ${player.username} ${x} ${y} ${z}`)
+
+function getShipName(ship, shipType, player) {
+    let shipName = `The Good Ship §6§o${ship.name.string}`
+    if (ship.name.string.toLowerCase() === shipType) {
+        shipName = [
+            `${player.name.string}'s`,
+            Utils.toTitleCase(ship.nbt.getString('Type')),
+            Utils.toTitleCase(ship.name.string),
+        ].join(' ')
+    }
+    return shipName
+}
+
+function addShipMarker(ship, player, pos) {
+    let shipType = ship.type.split(':')[1].toLowerCase()
+    player.sendData('AddMarker', {
+        texture: `antique_atlas:ship/${shipType}`,
+        pos: pos,
+        color: ship.nbt.get('Sail').getString('Color'),
+        label: JSON.stringify({ text: getShipName(ship, shipType, player) }),
+    })
 }
 
 PlayerEvents.tick(event => {
-    const player = event.player
-    const vehicle = player.getVehicle()
+    const {
+        player,
+        player: { vehicle },
+        level,
+    } = event
+
     const shipID = player.persistentData.getString('shipID')
+
     if (vehicle) {
         if (shipTypes.includes(vehicle.type)) {
             if (!player.tags.contains('on_ship')) {
@@ -25,7 +49,7 @@ PlayerEvents.tick(event => {
                     player.persistentData.remove('MarkerPosition')
                 }
 
-                event.level.entities
+                level.entities
                     .filter(entity => entity.type === 'minecraft:parrot')
                     .forEach(entity => {
                         if (entity.owner === player) {
@@ -37,44 +61,37 @@ PlayerEvents.tick(event => {
     } else {
         if (player.tags.contains('on_ship')) {
             player.removeTag('on_ship')
-            let ship = event.level.getEntity(UUID.fromString(shipID))
             let pos = {
                 x: Math.floor(player.x),
                 y: Math.floor(player.y),
                 z: Math.floor(player.z),
             }
             player.persistentData.put('MarkerPosition', pos)
-            let color = ship.nbt.get('Sail').getString('Color')
-            let shipName = `The Good Ship §6§o${ship.name.string}`
-            let shipType = ship.type.split(':')[1].toLowerCase()
-            if (ship.name.string.toLowerCase() === shipType) {
-                shipName = [
-                    `${player.name.string}'s`,
-                    Utils.toTitleCase(ship.nbt.getString('Type')),
-                    Utils.toTitleCase(ship.name.string),
-                ].join(' ')
-            }
-            event.player.sendData('AddMarker', {
-                texture: `antique_atlas:ship/${shipType}`,
-                pos: { x: pos.x, y: pos.y, z: pos.z },
-                color: color,
-                label: JSON.stringify({ text: shipName }),
-            })
+            let ship = level.getEntity(UUID.fromString(shipID))
+            addShipMarker(ship,player,pos)
         }
     }
 })
 
 EntityEvents.death('minecraft:player', event => {
-    let shipID = event.player.persistentData.getString('shipID')
+    const { player, level, server } = event
+    let shipID = player.persistentData.getString('shipID')
     if (shipID) {
         console.info(`Ship ID: ${shipID}`)
-        let ship = event.level.getEntity(UUID.fromString(shipID))
+        let ship = level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
-            setSpawn(event.player, Math.floor(ship.x), Math.floor(ship.y) + 1, Math.floor(ship.z))
+            server
+                .getPlayer(player)
+                .setRespawnPosition(
+                    level.dimensionKey,
+                    Math.floor(ship.x),
+                    Math.floor(ship.y) + 1,
+                    Math.floor(ship.z)
+                )
         } else {
             console.info(`Ship not found!`)
-            event.player.persistentData.remove('shipID')
+            player.persistentData.remove('shipID')
         }
     }
 })
