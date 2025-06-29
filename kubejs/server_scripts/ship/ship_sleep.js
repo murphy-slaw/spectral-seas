@@ -5,8 +5,7 @@ const $AABB = Java.loadClass('net.minecraft.world.phys.AABB')
 // gross - Have to load class by intermediate name.
 const Monster = Java.class.forName('net.minecraft.class_1588')
 
-function getSleepProblem(event, bedPos) {
-
+function getSleepProblem (event, bedPos) {
     if (!event.level.dimensionType().natural()) {
         return $BedSleepingProblem.NOT_POSSIBLE_HERE
     } else if (event.level.isDay()) {
@@ -36,39 +35,39 @@ function getSleepProblem(event, bedPos) {
 }
 
 ItemEvents.entityInteracted(event => {
+    const { player, item, target, level, server } = event
     if (
         !(
-            (event.item.hasTag('minecraft:beds') ||
-                event.item.hasTag('comforts:sleeping_bags')) &&
-            shipTypes.includes(event.target.type)
+            (item.hasTag('minecraft:beds') || item.hasTag('comforts:sleeping_bags')) &&
+            shipTypes.includes(target.type)
         )
     )
         return
 
-    let ship = event.target
+    let ship = target
     let bedPos = new BlockPos(ship.x, ship.y + 1, ship.z)
 
     let problem = getSleepProblem(event, bedPos)
     if (problem != null) {
         if (problem.getMessage() != null) {
-            event.player.displayClientMessage(problem.getMessage(), true)
+            player.displayClientMessage(problem.getMessage(), true)
         }
         event.cancel()
     }
 
-    event.player.persistentData.put('fakeBedPos', {
+    player.persistentData.put('fakeBedPos', {
         x: bedPos.x,
         y: bedPos.y,
         z: bedPos.z,
     })
 
     //The game will wake you up immediately if there isn't a bed in the position you started sleeping in. So we place a 'fake' bed.
-    event.level.getBlock(bedPos).set('minecraft:red_bed')
-    event.player.yRot = ship.yRot
-    event.player.startSleeping(bedPos)
+    level.getBlock(bedPos).set('minecraft:red_bed')
+    player.yRot = ship.yRot
+    player.startSleeping(bedPos)
 
     // We are sleeping in a cheaty way, so we have to tell the ServerLevel to do a sleep status update.
-    let serverLevel = event.server.getLevel(event.level.dimension)
+    let serverLevel = server.getLevel(level.dimension)
     serverLevel.updateSleepingPlayerList()
     event.success()
 })
@@ -81,9 +80,9 @@ ItemEvents.entityInteracted(event => {
  */
 
 FabricAddedEvents.stopSleeping(event => {
+    const { player, level } = event
     // Now we remove the fake bed!
-    if (event.level.isClientSide()) return
-    let pos = event.player.persistentData.getCompound('fakeBedPos')
-    if (pos != undefined)
-        event.level.getBlock(BlockPos(pos.x, pos.y, pos.z)).set('minecraft:air')
+    if (level.isClientSide()) return
+    let pos = player.persistentData.getCompound('fakeBedPos')
+    if (pos != undefined) level.getBlock(BlockPos(pos.x, pos.y, pos.z)).set('minecraft:air')
 })

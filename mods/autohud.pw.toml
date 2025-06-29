@@ -1,13 +1,13 @@
 name = "Auto HUD"
-filename = "autohud-8.4+1.20.1-fabric.jar"
+filename = "autohud-8.5+1.20.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/temczoTQ/versions/uC1CV5Ry/autohud-8.4%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/A4K3nz63/autohud-8.5%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "616d365c02d1acc130fb4958a508c9151d9425daeefc5cb621571b9ff96b1aeae487860f0dfc63927c0e02c22227bc4f423feea61323681a5fbae55fdacfc438"
+hash = "b1c9b94dcdba643f7c7200763a110db644ff588a7c53b662bf36b324ba30936245e4c056b69e381d2873df6d00fe777b7db21027d0da07192c88016256e25d98"
 
 [update]
 [update.modrinth]
 mod-id = "temczoTQ"
-version = "uC1CV5Ry"
+version = "A4K3nz63"

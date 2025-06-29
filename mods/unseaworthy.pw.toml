@@ -1,13 +1,13 @@
 name = "Unseaworthy"
-filename = "unseaworthy-1.3.0+1.20.1.jar"
+filename = "unseaworthy-fabric-1.20.1-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/MCkEUJW1/unseaworthy-1.3.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/izolFGky/unseaworthy-fabric-1.20.1-1.4.0.jar"
 hash-format = "sha512"
-hash = "1298acfe746b5eb20a68b16d4647d86dd09fe1760bdff6a8fcf1757af71560d749c58ca658b9dd535585c815742aa6ff172b67784acef098589277dba5fc0cfb"
+hash = "e052d4024317070989e84d1b2cd28814294ffc2e913123a48d78e33066b1409bd50c534bf257e70490ffb0063ad4e17a3274da9812e4245da27f3f089767cd3a"
 
 [update]
 [update.modrinth]
 mod-id = "9OuwP2Qv"
-version = "MCkEUJW1"
+version = "izolFGky"
