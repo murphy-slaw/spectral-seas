@@ -233,6 +233,10 @@ file = "config/deathlog.json5"
 hash = "4237c79a83d0d5ffc8f4eae6bc580e12cff8deb4cc3c8d8c5d5fddecd05cc186"
 
 [[files]]
+file = "config/deeper_oceans.json"
+hash = "b01ec8c07d1d916001d9e3677df585179c75549dec7eb536fffff53db2e6581f"
+
+[[files]]
 file = "config/detailarmorbar.json"
 hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
 
@@ -606,7 +610,7 @@ hash = "4d392e47db3c286bfc6c1c9798ddcd597ec510602aeac893d40c88ba9eea456f"
 
 [[files]]
 file = "config/hookshot.jsonc"
-hash = "8ecd63a1991bf3e7123f761d2f199640c0acada77c3f309f9c66f12936864931"
+hash = "ff7553d1f24d5c77038338745accaa2ecedaeffeb09cb488734e34ba950e59ac"
 
 [[files]]
 file = "config/horseman-client.toml"
@@ -786,7 +790,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "a139cb4fb4e606d14e3ee40a5b14b2f7271be3793825062dde41b60444f2f5cc"
+hash = "56773ea2b49f0dfb1f72764101133cb06c85b05628c291c1c898b4e75da2a946"
 
 [[files]]
 file = "config/paxi/datapacks/Filters/data/minecraft/tags/items/nothing.json"
@@ -1163,6 +1167,14 @@ hash = "762891d837387a70f8a17b71d2bb010a86627ac75864838c4d52b4ea1aad2d37"
 [[files]]
 file = "config/rrp.properties"
 hash = "a2e6c09a08020b72f3d36942bdd8a6982cbdccd1b2610b62eb0fa191dc4be700"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "8d2fa67c425e31c1289a003003dcd393185cf9f8bb1dae281407f7b9cf7a948c"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
 
 [[files]]
 file = "config/simplehats.json"
@@ -1666,7 +1678,7 @@ hash = "ba4fcce04167eb0d6d9acb5fd37716053d3b4982f167985f9bd649ce27de31f6"
 
 [[files]]
 file = "kubejs/data/formationsoverworld/worldgen/structure_set/uncommon.json"
-hash = "75e92a3624d3bf88e3f3a238d8bac7b0fa59dd5d25211b4bcf3d2ad9ff99dd6f"
+hash = "e5d73bd36aa1a423a0e2ff8fbad4afb336718bd64e412ed3a3a9c2514e40fb04"
 
 [[files]]
 file = "kubejs/data/galosphere/loot_tables/chests/pink_salt_shrine.json"
@@ -5306,7 +5318,7 @@ hash = "007267bdd66c6e4fdc831dbf06f89251786a5c8318d5ed54d39586a9358c73d3"
 
 [[files]]
 file = "kubejs/server_scripts/mob/sea_monster.js"
-hash = "42d492c1e87e49da0c65def17fa808ccfc6bbf582b9611f4397bf74c9da4a0b7"
+hash = "7e45c879f7c1d1b8ff8c8cce1a6d975806be87b7ea7cfe19f1bb91d9f547def2"
 
 [[files]]
 file = "kubejs/server_scripts/mob/spawn_replacements.js"
@@ -5366,7 +5378,7 @@ hash = "afc3f641c0f478bfb0ca13afcc2ac2d2ff5568f287455332ed692927b6340438"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_sleep.js"
-hash = "48bd428382fa2e63f6745933de0c4b358db78fc0afb04f3b38c47a59e276fa6f"
+hash = "1add82869e900a41f6dc75dad7e5f84c81c4a167867de76b4216b945f12dabaf"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_spawn.js"
