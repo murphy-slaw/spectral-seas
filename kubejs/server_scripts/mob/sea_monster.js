@@ -111,7 +111,7 @@ const hasValidTarget = mob => {
     if (!target || !isValidTarget(mob, target)) {
         let doomTimer = mob.persistentData.doomTimer || 0
         if (doomTimer > MONSTER_DOOM_TIME) {
-            mob.remove($RemovalReason.DISCARDED)
+            mob.discard()
             return false
         }
         mob.persistentData.doomTimer = doomTimer + 1
@@ -236,7 +236,7 @@ function hasNemesis (player) {
  * @param {Internal.ServerLevel} level
  */
 const monsterSummoner = (task, level) => {
-    level.getPlayers().forEach(player => {
+    level.getPlayers().forEach(/** @type {Internal.ServerPlayer}*/ player => {
         if (
             hasNemesis(player) ||
             !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
