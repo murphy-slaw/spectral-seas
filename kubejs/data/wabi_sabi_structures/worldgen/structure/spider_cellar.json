@@ -1,7 +1,6 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": "#wabi_sabi_structures:has_structure/spider_cellar",
-  "adapt_noise": true,
   "spawn_overrides": {},
   "terrain_adaptation": "bury",
   "start_pool": "wabi_sabi_structures:spider_cellar",

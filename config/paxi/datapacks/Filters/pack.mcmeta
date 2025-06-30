@@ -66,12 +66,20 @@
 				"path": "worldgen/structure.*/portal.*.json"
 			},
 			{
+				"namespace": "hopo",
+				"path": "worldgen/structure.*/underwater_fossils.json"
+			},
+			{
 				"namespace": "hybrid-aquatic",
 				"path": "hybrid-aquatic/sea_message"
 			},
 			{
 				"namespace": "kaisyn",
 				"path": "structures/village/exclusives"
+			},
+			{
+				"namespace": "mostructures",
+				"path": "tags/worldgen/structure/no_lakes.json"
 			},
 			{
 				"namespace": "mostructures",

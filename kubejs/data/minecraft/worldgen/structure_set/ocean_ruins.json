@@ -2,10 +2,10 @@
   "placement": {
     "type": "mvs:advanced_random_spread",
     "salt": 14357621,
-    "separation": 6,
-    "spacing": 20,
+    "separation": 4,
+    "spacing": 12,
     "exclusion_zone": {
-      "chunk_count": 5,
+      "chunk_count": 4,
       "other_set": "spectral_seas:large_ocean_structures"
     }
   },

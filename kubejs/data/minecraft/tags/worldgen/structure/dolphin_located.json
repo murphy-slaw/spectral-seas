@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "values": [
+        "hopo:underwater/underwater_city",
+        "hopo:underwater/underwater_small_ruins",
+        "hopo:underwater/underwater_warm_small_ruins",
+        "minecraft:ocean_ruin_cold",
+        "minecraft:ocean_ruin_warm",
+        "minecraft:shipwreck_beached",
+        "minecraft:shipwreck",
+        "nova_structures:conduit_ruin",
+        "revamped_shipwrecks:shipwreck_beached",
+        "revamped_shipwrecks:shipwreck"
+    ]
+}

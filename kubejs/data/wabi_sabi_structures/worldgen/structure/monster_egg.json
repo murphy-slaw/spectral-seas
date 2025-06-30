@@ -1,7 +1,6 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": "#wabi_sabi_structures:has_structure/monster_egg",
-  "adapt_noise": true,
   "spawn_overrides": {},
   "start_pool": "wabi_sabi_structures:monster_egg",
   "size": 7,
