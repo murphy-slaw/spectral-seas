@@ -1,0 +1,33 @@
+{
+    "parent": "spectral_seas:seamanship/root",
+    "display": {
+        "title": {
+            "translate": "inmis.advancement.frayed_backpack.title"
+        },
+        "description": {
+            "translate": "inmis.advancement.frayed_backpack.description"
+        },
+        "icon": {
+            "item": "inmis:frayed_backpack"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "backpack": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "inmis:frayed_backpack"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

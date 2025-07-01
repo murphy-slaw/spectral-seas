@@ -17,7 +17,7 @@
                         "entity": "this",
                         "scores": {
                             "spawnDistance": {
-                                "min": 1000,
+                                "min": 2500,
                                 "max": 100000
                             }
                         }

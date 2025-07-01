@@ -1,0 +1,36 @@
+{
+  "parent": "artifacts:amateur_archaeologist",
+  "criteria": {
+    "eat_artifact": {
+      "conditions": {
+        "item": {
+          "items": [
+            "artifacts:onion_ring"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "artifacts.advancements.adventurous_eater.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "artifacts:onion_ring"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "artifacts.advancements.adventurous_eater.title"
+    }
+  },
+  "requirements": [
+    [
+      "eat_artifact"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

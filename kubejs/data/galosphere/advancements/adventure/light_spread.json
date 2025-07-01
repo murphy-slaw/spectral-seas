@@ -1,0 +1,29 @@
+{
+  "parent": "galosphere:adventure/spelunking",
+  "display": {
+    "icon": {
+      "item": "galosphere:glow_flare"
+    },
+    "title": {
+      "translate": "advancements.galosphere.light_spread.title"
+    },
+    "description": {
+      "translate": "advancements.galosphere.light_spread.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "light_spread": {
+      "trigger": "galosphere:light_spread",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "light_spread"
+    ]
+  ]
+}

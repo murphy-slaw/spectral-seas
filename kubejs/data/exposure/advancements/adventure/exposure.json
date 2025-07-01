@@ -1,4 +1,5 @@
 {
+  "parent": "spectral_seas:seamanship/root",
   "criteria": {
     "expose_frame": {
       "conditions": {},

@@ -1,0 +1,45 @@
+{
+  "parent": "galosphere:adventure/spelunking",
+  "criteria": {
+    "galosphere:pink_salt_caves": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "galosphere:pink_salt_caves"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.adventuring_time.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "galosphere:pink_salt_shard"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.adventuring_time.title"
+    }
+  },
+  "requirements": [
+    [
+      "galosphere:pink_salt_caves"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  },
+  "sends_telemetry_event": false
+}
