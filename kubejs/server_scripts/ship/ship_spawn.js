@@ -1,6 +1,6 @@
 const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
 
-function getShipName(ship, shipType, player) {
+function getShipName (ship, shipType, player) {
     let shipName = `The Good Ship §6§o${ship.name.string}`
     if (ship.name.string.toLowerCase() === shipType) {
         shipName = [
@@ -12,7 +12,7 @@ function getShipName(ship, shipType, player) {
     return shipName
 }
 
-function addShipMarker(ship, player, pos) {
+function addShipMarker (ship, player, pos) {
     let shipType = ship.type.split(':')[1].toLowerCase()
     player.sendData('AddMarker', {
         texture: `antique_atlas:ship/${shipType}`,
@@ -68,7 +68,7 @@ PlayerEvents.tick(event => {
             }
             player.persistentData.put('MarkerPosition', pos)
             let ship = level.getEntity(UUID.fromString(shipID))
-            addShipMarker(ship,player,pos)
+            addShipMarker(ship, player, pos)
         }
     }
 })
@@ -85,9 +85,10 @@ EntityEvents.death('minecraft:player', event => {
                 .getPlayer(player)
                 .setRespawnPosition(
                     level.dimensionKey,
-                    Math.floor(ship.x),
-                    Math.floor(ship.y) + 1,
-                    Math.floor(ship.z)
+                    ship.blockPosition().above(),
+                    player.yRot,
+                    true,
+                    false
                 )
         } else {
             console.info(`Ship not found!`)

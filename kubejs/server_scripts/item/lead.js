@@ -9,7 +9,7 @@ const $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
 const LEAD_LENGTH = 7
 
 /**
- * @param {Internal.Event} event 
+ * @param {Internal.Event} event
  * @returns {Internal.AbstractHorse}
  */
 function attachHorses (event) {
@@ -23,16 +23,19 @@ function attachHorses (event) {
 }
 
 /**
- * @param {Internal.Event} event 
- * @param {Internal.LeashFenceKnotEntity} knot 
+ * @param {Internal.Event} event
+ * @param {Internal.LeashFenceKnotEntity} knot
  * @returns {boolean}
  */
-function detachHorses(event, knot) {
-    return event.level
-        .getentitiesofclass($abstracthorse, knot.boundingbox.inflate(lead_length))
-        .filter(
-    /** @param {internal$abstracthorse} mob */ mob => mob.leashholder === knot && mob.owner === event.player
-        ).length > 0
+function detachHorses (event, knot) {
+    return (
+        event.level
+            .getentitiesofclass($abstracthorse, knot.boundingbox.inflate(lead_length))
+            .filter(
+                /** @param {Internal.Abstracthorse} mob */ mob =>
+                    mob.leashholder === knot && mob.owner === event.player
+            ).length > 0
+    )
 }
 
 /**
@@ -79,12 +82,8 @@ ItemEvents.entityInteracted('minecraft:air', event => {
     /** @type {Internal.LeashFenceKnotEntity} */
     const knot = event.target
     const horse = attachHorses(event)
-    if (
-        horse === undefined &&
-        detachHorses(event, knot)
-    )
+    if (horse === undefined && detachHorses(event, knot))
         event.player.sendData('DeleteMarker', {
             pos: { x: knot.blockX, y: knot.blockY, z: knot.blockZ },
         })
 })
-
