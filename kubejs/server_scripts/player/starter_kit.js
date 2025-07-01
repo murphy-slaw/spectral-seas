@@ -104,10 +104,14 @@ function givePlayerBundle (player, contents) {
     player.give(bundle)
 }
 PlayerEvents.loggedIn(event => {
-    let player = event.player
+    /** @type {Internal.ServerPlayer} */
+    const player = event.player
     if (!player.stages.has('starter_kit')) {
         if (player.isLocalPlayer()) return
         player.stages.add('starter_kit')
+
+        let { x, y, z } = player.blockPosition()
+        player.persistentData.putIntArray('initial_spawn_pos', [x, y, z])
 
         Utils.server.scheduleInTicks(0, () => {})
         Utils.server.scheduleInTicks(20, () => {

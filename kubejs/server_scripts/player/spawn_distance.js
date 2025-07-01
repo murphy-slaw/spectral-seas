@@ -1,9 +1,9 @@
-var $ObjectiveCriteria = Java.loadClass(
-    'net.minecraft.world.scores.criteria.ObjectiveCriteria'
-);
+var $ObjectiveCriteria = Java.loadClass('net.minecraft.world.scores.criteria.ObjectiveCriteria')
 PlayerEvents.tick(event => {
+    /** @type {Internal.ServerPlayer} */
+    const player = event.player
     // Once per second
-    if (event.player.age % 20 === 0) {
+    if (player.age % 20 === 0) {
         let scoreboard = event.server.scoreboard
         let distanceObjective = scoreboard.getObjective('spawnDistance')
         if (!distanceObjective) {
@@ -16,14 +16,13 @@ PlayerEvents.tick(event => {
             // Display in the tab list
             scoreboard.setDisplayObjective(0, distanceObjective)
         }
+        let [x, y, z] = player.persistentData.getIntArray('initial_spawn_pos')
+        if (x === undefined) {
+            ;[x, y, z] = [0, 0, 0]
+        }
 
-        scoreboard.getOrCreatePlayerScore(
-            event.player.username,
-            distanceObjective
-        ).score = Math.sqrt(
-            event.level.sharedSpawnPos.distSqr(
-                Vec3i(event.player.x, event.player.y, event.player.z)
-            )
+        scoreboard.getOrCreatePlayerScore(player.username, distanceObjective).score = Math.sqrt(
+            player.blockPosition().distSqr(Vec3i(x, y, z))
         )
     }
 })
