@@ -4,6 +4,7 @@ const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $StructureStart = Java.loadClass(
     'net.minecraft.world.level.levelgen.structure.StructureStart'
 )
+const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
 var $ScaleTypes$BASE = $ScaleTypes.BASE
 
 const pillagerHats = [
@@ -57,8 +58,7 @@ function entityInStructure (entity, structureId, serverLevel) {
 }
 
 EntityEvents.spawned(event => {
-    /** @type {Internal.LivingEntity} */
-    const {entity, level} = event
+    const { entity, level } = event
 
     if (entity.isPlayer() || !entity.isLiving()) {
         return
@@ -127,5 +127,11 @@ EntityEvents.spawned(event => {
                 slot.addTagElement('style', 'samurai')
             }
         })
+    }
+
+    if (entity.type === 'galosphere:spectre') {
+        if (level.getEntities($GEntityTypes.SPECTRE, pred => true).length > 8) {
+            event.cancel()
+        }
     }
 })
