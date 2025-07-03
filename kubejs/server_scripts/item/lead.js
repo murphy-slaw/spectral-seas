@@ -30,7 +30,7 @@ function attachHorses (event) {
 function detachHorses (event, knot) {
     return (
         event.level
-            .getentitiesofclass($abstracthorse, knot.boundingbox.inflate(lead_length))
+            .getEntitiesOfClass($abstracthorse, knot.boundingBox.inflate(lead_length))
             .filter(
                 /** @param {Internal.Abstracthorse} mob */ mob =>
                     mob.leashholder === knot && mob.owner === event.player
