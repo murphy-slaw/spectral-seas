@@ -102,7 +102,7 @@ hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
 
 [[files]]
 file = "config/balm-common.toml"
-hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+hash = "ecb0343c1c64d40c77213093dbfc47fec7d9f1086a09a83f1607d0d808703d29"
 
 [[files]]
 file = "config/betteranimationscollection-client.toml"
@@ -642,7 +642,7 @@ hash = "355158210e130ea86334467e2776d97f1ce0b8abe7c1b199bba03ea995ca8749"
 
 [[files]]
 file = "config/keybindhider.json"
-hash = "bd485d01e7b2760f5e357f658a01f89c429b2e0b8e019d80f6f7055380fe1cfc"
+hash = "fd901b8b640903182cd7076ce87a470aa8a8ca490129c904f54a29efcaf80eee"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -766,7 +766,7 @@ hash = "507309e0ffd6ae56739c71701e7f4d6376c4c4728b88e3de886d08436c749325"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "f6885d8ce8d267fd545f5cf45b94a896ce5fbe5c88a0e0b9fc4df7b0d40796ab"
+hash = "8ff24294912cbcfc5796225c680a329afbccbb9fc9783f36c17a5b0e872ea4c2"
 
 [[files]]
 file = "config/pal.properties"
@@ -798,7 +798,7 @@ hash = "489711deb6d620e83d3dd373268130b27115d3d1be943672f2eab8f656bfae80"
 
 [[files]]
 file = "config/paxi/datapacks/Filters/pack.mcmeta"
-hash = "a717f03c7141268f963b0c85440dbef49020b6400be9bb4c229ac35228f3c828"
+hash = "6afab2fd6be693cceee8b637e2df6d58c69a368cff8518842c9680b2e7b613c3"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/41/data/minecraft/worldgen/configured_feature/beach_cypress.json"
@@ -1130,7 +1130,7 @@ hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
 
 [[files]]
 file = "config/raised.json"
-hash = "4c523e4e904770547f6163adac77e72c6ce3f282b9c81e274ad83df2bbb3755d"
+hash = "03111214a3fc57d9b19d1b8ccfcc7e5cf1da576dfbfaf8c21142c382a52dd327"
 
 [[files]]
 file = "config/realistic_cobwebs.jsonc"
@@ -1430,7 +1430,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yigd.json"
-hash = "425898aaa7f4a10dfa91ae2a6c1245b88ce68ab8ed185e8d06f39aac167894d5"
+hash = "436b0f29c20769fed6b84de0803fc6a8b77a601f7846b0827a2c7220c8149c02"
 
 [[files]]
 file = "gitignore.old"
@@ -1506,7 +1506,7 @@ hash = "d4f14a24ee6303a43dedc60f2d9ed927b5e8faa87351890e9307dc7700e83208"
 
 [[files]]
 file = "kubejs/data/archeologyplus/worldgen/structure_set/desert.json"
-hash = "b34fe4137bedcbe258674b1cccfed9495ec6e29c6e7a36aa0d0103cf23b831bd"
+hash = "d7552c63c3ea30c9b9bec1a539679faf6d932eb652780c185fce0febbbfee173"
 
 [[files]]
 file = "kubejs/data/armorful/loot_tables/entities/illager_chestplate.json"
@@ -1539,6 +1539,18 @@ hash = "2d5bd6c3bb27450c3cd73e4cc3b8a3b807fcd1b3adf04d010501c9b8664dcc1f"
 [[files]]
 file = "kubejs/data/armorful/loot_tables/entities/natural_spawn/legs.json"
 hash = "072140441241e0cda8fbb31d696c0ddc7298074135dc5c49de032cdd52504ac4"
+
+[[files]]
+file = "kubejs/data/artifacts/advancements/adventurous_eater.json"
+hash = "7ed517ff8dbded1fe130b2cb50833904723b138660f3ad5faa22075d2d7c907f"
+
+[[files]]
+file = "kubejs/data/artifacts/advancements/amateur_archaeologist.json"
+hash = "aac80f82e7eba7ee99a45394b4f0c9e74dca8f79b94c56290b92df5ae7cd482d"
+
+[[files]]
+file = "kubejs/data/artifacts/advancements/chest_slayer.json"
+hash = "e4e86625c0136dce2a8af80026d6d240830697bde62d9ad45685d3cf0d730917"
 
 [[files]]
 file = "kubejs/data/betteroceanmonuments/worldgen/structure/ocean_monument.json"
@@ -1586,7 +1598,7 @@ hash = "dca7fd629a465a9dd82451ac989c44f39c061c75b2c034b6579659022b2e57ba"
 
 [[files]]
 file = "kubejs/data/exposure/advancements/adventure/exposure.json"
-hash = "797708b4e5cf511417680a675d19a030b7e2190114868a026844813bb3a229e3"
+hash = "e186746e1b3be35cf0e500f333164a171762cfbe9fc26e04966cabce8d72a0bb"
 
 [[files]]
 file = "kubejs/data/exposure/advancements/adventure/lights_up.json"
@@ -1625,50 +1637,6 @@ file = "kubejs/data/exposure/advancements/adventure/wildlife_archivist.json"
 hash = "52927b99e7444e6cfd3d49a89de6c786c797f4b83c4d6dd8fca7fca5c3a482c6"
 
 [[files]]
-file = "kubejs/data/exposure/advancements/recipes/copying_black_and_white_photograph.json"
-hash = "aa61cd6ed9f2b015afc419268f3f194439d98c216902d8aab5317b71cdc40512"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/copying_color_photograph.json"
-hash = "d8320f9385507d0077af017a0753034bc134b04c9341d43696a1ca8cf253ba58"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/decorations/lightroom.json"
-hash = "2500c66efa6d4343c111b200af3c9f5d02ddd370cd05ac293458048c1a86619c"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/developing_black_and_white_film.json"
-hash = "b4876ac7c74e8804bf0d6f8e660d602a40b014864dfb41e67081af64c3e62fe5"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/developing_color_film.json"
-hash = "b5aa5eabad02e54cff6b1015040d327f86dc3f5bfa6144b3d6b7e1de279ec170"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/album.json"
-hash = "e3c17629bfc8ca716ba25b93a9734c18075c5c57f8fcb6f950058530c680a3d0"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/black_and_white_film.json"
-hash = "d9f975c5333e268d649dbe83a13f8bd8be6a1dd9cb2a178cae12c99fa77fb666"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/camera.json"
-hash = "21e0961386af08e22ac086c5287acc9ebcfd4dfea3e38fda3a3962ce87159908"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/color_film.json"
-hash = "052f3ebc25c111082279f7466333e345f37605963aff4ac95afa75af9341b633"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/interplanar_projector.json"
-hash = "acac751837a20d1c7a3b31bf7acd0ca66278067bddac7c81184c0e502783a5ce"
-
-[[files]]
-file = "kubejs/data/exposure/advancements/recipes/tools/photograph_frame.json"
-hash = "67e58b1764721868f5ee556923df0a48933cb3979e7f1cf52fe34bb422166779"
-
-[[files]]
 file = "kubejs/data/formationsoverworld/worldgen/structure_set/rafts.json"
 hash = "63d7b53f6a42134b0c815e9000d8f4ab078ca686c79c0de00e858b4f33830b29"
 
@@ -1678,7 +1646,71 @@ hash = "ba4fcce04167eb0d6d9acb5fd37716053d3b4982f167985f9bd649ce27de31f6"
 
 [[files]]
 file = "kubejs/data/formationsoverworld/worldgen/structure_set/uncommon.json"
-hash = "e5d73bd36aa1a423a0e2ff8fbad4afb336718bd64e412ed3a3a9c2514e40fb04"
+hash = "07ac8e575fb27b4df01fc1eaa414b04444280303336dc6368c9a36a905272b02"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/activate_pink_salt_chamber.json"
+hash = "c59087bf21efe4280b1fe457b352bda7f84e82a11847c98e9728f967b342ff1f"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/crystal_canyons.json"
+hash = "af54b49cdcd2aa75cca7a528aa2cbd9891196ab97c2084c50c031bf05387d276"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/crystal_lamps.json"
+hash = "ea7370045de14ad2e671d115ed31c4f27135f06b83ad9eed0d11b2e2eb8677ed"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/find_pink_salt_shrine.json"
+hash = "180877f7c0f94c90614fda3380da5443af71d622e112b090dc738739ec2025aa"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/lichen_caves.json"
+hash = "3e32ce0cb495f4bed5ea826b5aca9e9fdbddfcf5a8c3e711cb6b9afe6293413c"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/light_spread.json"
+hash = "97cdc5f74509e008894162fc38534965a1930a58487736a1a3d8ebeed8434e5b"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/pink_salt_caves.json"
+hash = "f694b6d027473997ac9239814d14f947b13282f0bed03847a1d96f67bb8f5b45"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/silver_bomb.json"
+hash = "d9452bb3506bcc4d6626bd8391c7d017e4064b9e9cb6410e6320d1ef2189eca6"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/silver_ingot.json"
+hash = "98d9d7b8f3952da9ccc4edf3b722c02b8ca7c63ecd2bca1659042c4419c4366c"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/spelunking.json"
+hash = "9f9d1733224ac35db92e9f54c930f0e998c98ae9c57c3a14f43c6adfb6d67da2"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/sterling_armor.json"
+hash = "d207cbfc050be509ca3e22aa2ea3b170f9e2a58f2e35d481c40992a00651cc24"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/summon_berserker.json"
+hash = "4b310b48be97cacfdc94d50726fb08525dd0840bcc67cde42c54210e30b5a334"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/use_spectre_flare.json"
+hash = "71771cbd737537711cb443fd4c3a61328d289a0fd89de60cc41c3b0f98aa63cf"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/use_spectre_spyglass.json"
+hash = "24174d6b88c878180f4ddead8269eb7e9c3cd94669fccdac7eb119e0c55f3a6c"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/adventure/warped_teleport.json"
+hash = "a8388f66ea0c29827a5ba4c2ef6d7533ffab509768a47f5c96843256c3703a76"
+
+[[files]]
+file = "kubejs/data/galosphere/advancements/husbandry/lumiere_compost.json"
+hash = "64feccd335b3b50d34d904bd2927ec7766d52c72a5f6e1e8f1d90f08489be6fb"
 
 [[files]]
 file = "kubejs/data/galosphere/loot_tables/chests/pink_salt_shrine.json"
@@ -1718,7 +1750,7 @@ hash = "c1f51a8f56d5952756bf704e9f59c2ed7d86607a3dc295af5170a35f94ba2561"
 
 [[files]]
 file = "kubejs/data/galosphere/worldgen/biome/lichen_caves.json"
-hash = "4b21dc5da7f0262472a82fe0a0312ae24ec40685006b2dbf89708454499b6327"
+hash = "9bcbf561ddc22a66503421ec1565b51cdd2074872c9af562fb209a3b3b064308"
 
 [[files]]
 file = "kubejs/data/galosphere/worldgen/biome/pink_salt_caves.json"
@@ -1767,6 +1799,22 @@ hash = "0e284429a589b5756699069f4f69eb7c229bbf37fb1ec68fddea8f5a0aca1814"
 [[files]]
 file = "kubejs/data/guardvillagers/loot_tables/entities/guard_off_hand.json"
 hash = "d77070550877ff7341cd8a9b08a8824c0e5e0221d5da5724bcd66b6e96310a8a"
+
+[[files]]
+file = "kubejs/data/hopo/tags/worldgen/structure/underwaterstructure.json"
+hash = "4cf6eafbaa3d2db32ca4261a231cbb14f0067dd997bda1f8783cddb59f0d77c0"
+
+[[files]]
+file = "kubejs/data/hopo/worldgen/structure_set/underwater_city.json"
+hash = "a848aeccc55e399c8a20859ff5d4bbebc1ae49c382d4d4d48e3e7d6653ad7fbd"
+
+[[files]]
+file = "kubejs/data/hopo/worldgen/structure_set/underwater_small_ruins.json"
+hash = "d27a517465a7a7ef76b53005a5bee21e30c4b62380f9b0962f20eabd1c003275"
+
+[[files]]
+file = "kubejs/data/hopo/worldgen/structure_set/underwater_warm_small_ruins.json"
+hash = "077908c3f5184e3968f2a8faa94f4e0e15ba553cca24c9db43233d4c4c652a33"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/hybrid-aquatic/sea_message/amethyst.json"
@@ -1897,6 +1945,10 @@ file = "kubejs/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
 hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 
 [[files]]
+file = "kubejs/data/inmis/advancements/frayed_backpack.json"
+hash = "6f6fc979902f76460d3336fcc1dc5aee72b2fa2317cbed2ed163d56d1b351c45"
+
+[[files]]
 file = "kubejs/data/kaisyn/loot_tables/archeology/forest_ruins_common.json"
 hash = "83fdc30c59b7280954f0eb5eea84d2b635b2eeb7dff83a7298724f6ca6ee5fc8"
 
@@ -1999,6 +2051,10 @@ hash = "c0d45237b48f09e230244e419380d2e63225618de329437c502e0f14a9a8c6a9"
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/archaeology/trail_ruins_rare.json"
 hash = "72d0b3e21d2bea992468385ad05fea82973d3557605b7a2d9050acd7459e086f"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/copper_ore.json"
+hash = "a19b71d7124402f1dd07e6199146dec323347476d8eeada5e72ce41cf6999f77"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/buried_treasure.json"
@@ -2357,6 +2413,10 @@ file = "kubejs/data/minecraft/tags/worldgen/biome/is_overworld.json"
 hash = "4a17a4164997f63ce64be24c1e018da5777c1788382acd34a7c4c6e7e90a6683"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/structure/dolphin_located.json"
+hash = "510652928b52acf29ffcd839cd83c5313d786c0c4793626b9f591e7d9c383402"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json"
 hash = "5c51e409bfb0a60aa6b5443e8bf7867a6ba6b49f8c7c683b40100a1eacecdc7a"
 
@@ -2695,6 +2755,10 @@ hash = "7fbbb72b24ee4b75e778e29f05367a1f1b2d3ad194a35674c1b8c084f3d1a03b"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/desert_pyramids.json"
 hash = "779a7d759be8a5b849cf79c5e08633c17a0ad4071481f178c405072ff9733529"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/ocean_ruins.json"
+hash = "f0c9d3e4cd6f85236a68c47dc3ba2a50259bc8d669208941781b975c73e105a2"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/pillager_outposts.json"
@@ -3078,7 +3142,7 @@ hash = "2d82b8e8a6471d623f4d18dc82e3ed30177a54c404d5665d2792fd33d157344e"
 
 [[files]]
 file = "kubejs/data/mostructures/tags/worldgen/structure/no_lakes.json"
-hash = "65eab06d98d318271c833701cc3ff8262b6e0e8758ab14b9dd3459dbc5226ce1"
+hash = "87fa839f70ba2a35a5b11e2dea320020dfbdac4ded8d30e42009af0714288a35"
 
 [[files]]
 file = "kubejs/data/mostructures/worldgen/structure/big_pyramid.json"
@@ -4350,7 +4414,7 @@ hash = "ee21b78164d55566732e5b8d3617b056e1e406a439e4a7d3142f9cf6c7a7d20a"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/desert_structures.json"
-hash = "19b7b8dd4e90aed17c24aaec9947210a7a188d9c27aaf240f6e3d526ff12b3f5"
+hash = "c6abe5d3fddfccb755b2d4602b3e81f3edb1137af80c8dd31477185324cbd728"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/end_ruins.json"
@@ -4358,23 +4422,23 @@ hash = "f5be0eaee7c1fe933854603f6210cf95c8d4a99acc3c971377d7d6f019010301"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/field_stone_ruins.json"
-hash = "70f232551f7e59b252f35156def088d55ff56f42b7b0de0fe998ffd0dd48c29e"
+hash = "c2147927c98a138f97de68fd0848910b5a543ffd4ebc4a444f7020a8b8e3ce5d"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/field_stone_ruins_rocks.json"
-hash = "a7f173d5f09ad03c61fb104591f2e7bb7438f6261c846c72d4f2aea9686191e6"
+hash = "73eae251da3298243b1458c4473bf54cd0e9e9fc8ddaedf993293b3819abd59d"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/level_one_ruins.json"
-hash = "4e34bde1547a93027119a14cfaa600a514759f89780813e4103cb0b8f29453a1"
+hash = "ae4c5ac6edd7d775223d723023e2f96005f2a7a177786e9fe68ed259be5769ac"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/level_three_ruins.json"
-hash = "b36ab40f49394be21985cda4bdb408517f6cfb0c1560fe528df4a9d563247457"
+hash = "70c19a6005b28cf93a20c0e3af897ce0c1345556e82b4329e27ba7d9c4430162"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/level_two_ruins.json"
-hash = "263570ab9d72fc678526c54d71156597a0154769b08a42a6d5bb407a2355f977"
+hash = "cb5c8ddd90b5835c8571552e08e67d6104d0fe8b0562e39ac76ff81b42428fde"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/ocean_fortress_main.json"
@@ -4382,7 +4446,7 @@ hash = "bd38bf796d783af7b21b6a0ceb14c68e0d87502bec9b307bdb40ca48c0aa169f"
 
 [[files]]
 file = "kubejs/data/philipsruins/worldgen/structure_set/ocean_ruins.json"
-hash = "2b72a528b2a9a4d2f462158b9c62cc625ce3a5591586ae74b1efcd09bf305d76"
+hash = "46cd6800caf53af232d06e2fec85a879b102d95d72fa7613c852d9d30f2e7278"
 
 [[files]]
 file = "kubejs/data/potioncraft/metamixing/data.json"
@@ -4437,10 +4501,6 @@ file = "kubejs/data/smallships/tags/entity_types/ships.json"
 hash = "1c372e75b1ac458fd209de9390584e21f8fa9d3fe46616b1fc62f7b2a8edca9c"
 
 [[files]]
-file = "kubejs/data/spawnanimations/tags/entity_types/exclude.json"
-hash = "99ad3f5c070e1a4b1472e3735e0fcf6feb3b787804e13c35dd577aa8d5fa216a"
-
-[[files]]
 file = "kubejs/data/spectral_seas/accessories/entity/pillagers.json"
 hash = "a3f8686c94d90a48a464efeb0ce23d500b04030434b1612937306982614f75e0"
 
@@ -4449,8 +4509,12 @@ file = "kubejs/data/spectral_seas/advancements/seamanship/beacon_sighted.json"
 hash = "0ea013ed54b4afdeda6179a894df9d6920fb645016835cd64ec88d819466ddae"
 
 [[files]]
+file = "kubejs/data/spectral_seas/advancements/seamanship/diving_helmet.json"
+hash = "8be524346e59d975a0d3d96ead35a682ae0d1c9dbab1c039831367d20606fb55"
+
+[[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/diving_suit.json"
-hash = "cd8ac1738253c5133c1af345e054c419fbeb06652fe34d500021b7e6dfc8cfc9"
+hash = "99a03b3a10552874b0358462aa80deafdf270318811495607f9697d4acc1e706"
 
 [[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/fleet_commander.json"
@@ -4478,7 +4542,7 @@ hash = "b08f0a6f19cb4f1a2570e6473fd28b0d30892bd932577da59094fb08e18f0445"
 
 [[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/on_foreign_shores.json"
-hash = "d514e7c510eff4aa02365482a3a8c6e3b48808a262474b69badeba3f98295490"
+hash = "fe7ff88ac2d96ceaa3e19e91d975a51c4ec474f619e3f81be2376fb0f0349db5"
 
 [[files]]
 file = "kubejs/data/spectral_seas/advancements/seamanship/one_sheet_to_the_wind.json"
@@ -4661,20 +4725,16 @@ file = "kubejs/data/spectral_seas/tags/worldgen/biome/no_amethyst.json"
 hash = "84fec4f3f95932334e74aef77e8fcfaac29ca7cbe5e9963d3ad217ea2aee1d0f"
 
 [[files]]
-file = "kubejs/data/spectral_seas/tags/worldgen/structure/adventure_map.json"
-hash = "e9eb384cc65a24a04c0dfbe4eadab0a7fe9b7d6d397e389a34cad428d7baf119"
-
-[[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_pirate.json"
 hash = "7a7e7642d9ced9fcd788ab78150f5e8dba6954105cd8a672b73e0d8537a30b8d"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/all_structures.json"
-hash = "9b3173c4fdec871df227a19d625cf5ee0e543f63d8333f48cc83c82280987f8a"
+hash = "eaf9ca59bf6627b83c097a5687b529e5c99f8eb411023c7b3615647f380f5f19"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/desert.json"
-hash = "76939aa700286c249b028dcee1ee98f609849ed33a87bb6c4adbbbc268fce25e"
+hash = "11a5a41b01933221faa94d701c6d71fecab8925fe114e8332170d661e7864272"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/ice.json"
@@ -4702,7 +4762,7 @@ hash = "7d75feb938d0cc7efbcd8adc4b1d4bbc369b8ba2cc20b8ee637ed120feb5a6f3"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/small_above_sea_level.json"
-hash = "d2b888a36a8d993cda192d40a81fe074f3208c41efa1ba4e3553ffd93528f27a"
+hash = "5cd2a032763577dbf16db595a50e9680a5857767aaa939606deebb27a19600ba"
 
 [[files]]
 file = "kubejs/data/spectral_seas/tags/worldgen/structure/undead.json"
@@ -4725,8 +4785,16 @@ file = "kubejs/data/spectral_seas/worldgen/processor_list/witch_tower.json"
 hash = "8924acb5bdfa23af695c00cf3af38d67653de550f67af91028bad4fea8f2d4fd"
 
 [[files]]
+file = "kubejs/data/spectral_seas/worldgen/structure_set/desert.json"
+hash = "993000b27f8f6fbfcf89509aa3ec8c203f77404fa258e568d3ce0782867713a6"
+
+[[files]]
 file = "kubejs/data/spectral_seas/worldgen/structure_set/large_ocean_structures.json"
 hash = "01d1966dd92125bddf59f114dc99a6b40dab4972ed6d3b82bfa6b0dbc97fe2b8"
+
+[[files]]
+file = "kubejs/data/spectral_seas/worldgen/structure_set/surface_ruins.json"
+hash = "6ccf9a135cb00258adb3020d713674acdf3f5274369cb64e9bdd29850a252c4e"
 
 [[files]]
 file = "kubejs/data/spectrum/advancements/spectrum.json"
@@ -4938,7 +5006,7 @@ hash = "c962b9068958ced3346798361a08e77bc85236baf9f9b5992f55faab5a809a78"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/tags/worldgen/structure/town.json"
-hash = "272f4e272e3eb25f2ad220a5c044b8f2968831ffa79cc895e1df0d71ab06a8c6"
+hash = "ac1560fd201a32130614182b30776614c85bb3abf5fb47aa9f748f62592bc5f4"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure/mimic_desert.json"
@@ -5158,7 +5226,7 @@ hash = "6616f8f11551c15bf8ad0d5efe59fd4be907affb11117dcb9997165e3c2023c9"
 
 [[files]]
 file = "kubejs/data/wabi_sabi_structures/worldgen/structure/monster_egg.json"
-hash = "e5650a315ef807edcc9446f8dc5fb11c2144f019638f529a8fc33e455737e50e"
+hash = "5e6bfc2580a2fedb3e2cc6cf8d57dc4a3827f9ee000081575bc0490f75c6b0dc"
 
 [[files]]
 file = "kubejs/data/wabi_sabi_structures/worldgen/structure/monster_egg_banquet.json"
@@ -5166,7 +5234,7 @@ hash = "c09ea537a639f1442c1e3dfe099732b010c2bcff7c05b7e2da4fdef550f1e1a1"
 
 [[files]]
 file = "kubejs/data/wabi_sabi_structures/worldgen/structure/spider_cellar.json"
-hash = "c5ff0da5c0bddabeee8cf2e5f337901f39d05abe5ed72dc0328dbfb492531408"
+hash = "cdee237a4405412328f3267d9dd88c8fd921140b43126c23e0c1510b9759a574"
 
 [[files]]
 file = "kubejs/data/zhopo/tags/worldgen/biome/has_structure/piglin_ruin.json"
@@ -5178,7 +5246,7 @@ hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
 file = "kubejs/data/zhopo/tags/worldgen/biome/has_structure/underwater_city.json"
-hash = "e03d28f0efe8dac8c5a4cb834782df721c679147639973746e7c8c63a97fafd6"
+hash = "82ab949beb9869bb0424c51ae95d793a130d1243aac3ddbfdf67adcf4b89daff"
 
 [[files]]
 file = "kubejs/data/zhopo/tags/worldgen/biome/has_structure/underwater_fossils.json"
@@ -5197,10 +5265,6 @@ file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
-file = "kubejs/server_scripts/big_pyramid_spawner.js"
-hash = "c92ed767a48693fe9e8c0c953cc702c1d4b1c88c1efe5c03cdbe247960e5403e"
-
-[[files]]
 file = "kubejs/server_scripts/food/suspicious_chowder.js"
 hash = "baca45be830a9b9b2087f9db818b9b651c715e48e45d6c111fa35ba4562bedb7"
 
@@ -5214,10 +5278,10 @@ hash = "358f8c83ba8d0542c3a15c3dc67489858d51cf88ccdf49612509a55699ffe3ab"
 
 [[files]]
 file = "kubejs/server_scripts/item/lead.js"
-hash = "bb79d76b19dde9ee2a007a272e64ec643aafde623702ca963120b29038604d09"
+hash = "941038d7d2843853ad9ae0b4f008cc60948685de6e462319df18230846076674"
 
 [[files]]
-file = "kubejs/server_scripts/item/trinkets.js"
+file = "kubejs/server_scripts/item/trinkets.js.disabled"
 hash = "7e090146373fc09116bc5b8dc33cda2dfa91d0e3620372ed32855638a78a0c9a"
 
 [[files]]
@@ -5310,27 +5374,27 @@ hash = "ac9b9e4c77427e53ebc0d84b97a24fba192f3429006a971859cfc0a6f831d794"
 
 [[files]]
 file = "kubejs/server_scripts/map/clear_grave.js"
-hash = "8474bc8783736012369bd12f92b7ac21b13648da493b20a9c35a2e18c39dde4b"
+hash = "6f3d8e8d05cf2cf65f513656cd60fa614230c9f7b8ef76d5404ba8060a7163bb"
 
 [[files]]
 file = "kubejs/server_scripts/map/map_to_atlas.js"
-hash = "007267bdd66c6e4fdc831dbf06f89251786a5c8318d5ed54d39586a9358c73d3"
+hash = "85607d889734fad8e47a7fd28a34c88a5d8f345993ca6cd0d1ae7ec4cb46b202"
 
 [[files]]
 file = "kubejs/server_scripts/mob/sea_monster.js"
-hash = "7e45c879f7c1d1b8ff8c8cce1a6d975806be87b7ea7cfe19f1bb91d9f547def2"
+hash = "0eb2d14496ec95647a6d7db7659091cdf63eeebd090e687eee389d4b57b75f54"
 
 [[files]]
 file = "kubejs/server_scripts/mob/spawn_replacements.js"
-hash = "25b6b995276637055a3d3bdbdfea6dc6b1f94d36b84a0f789824575ce661c1f0"
+hash = "4ab7724a0f09f9cbf03ee9c7a4e039e9c972969509c72e7e8931a84e99fae722"
 
 [[files]]
 file = "kubejs/server_scripts/player/spawn_distance.js"
-hash = "474cf2462f9ecf60e7271e9c3b58d38a91144ade4cf8e562ed8895099e4e3c80"
+hash = "af513664f212720790dcece8d62b1ab3c77dde017fc83b31f0c5d386d0467b59"
 
 [[files]]
 file = "kubejs/server_scripts/player/starter_kit.js"
-hash = "849fe1864358957407d2e21f1dc5e3869d81b8a1e7cba354c8c799a72624a3ff"
+hash = "1ad8a1522d2fd9c7593eee0e80580c5d2c9357302b83a9b2197f650116abc0df"
 
 [[files]]
 file = "kubejs/server_scripts/pull_globals.js"
@@ -5369,24 +5433,28 @@ file = "kubejs/server_scripts/recipe/spyglass.js"
 hash = "65fded0b31b1f00b9f06499fe10e54dd07efaa6dc7fd12df733dd070941179b4"
 
 [[files]]
-file = "kubejs/server_scripts/remove_enchanting_blocks.js"
-hash = "4c8192615ef23523cc28f9a96be11725569f2ed3bdbe59ebc92d7007d0fe4484"
-
-[[files]]
-file = "kubejs/server_scripts/replace_ominous_banner.js"
-hash = "afc3f641c0f478bfb0ca13afcc2ac2d2ff5568f287455332ed692927b6340438"
-
-[[files]]
 file = "kubejs/server_scripts/ship/ship_sleep.js"
 hash = "1add82869e900a41f6dc75dad7e5f84c81c4a167867de76b4216b945f12dabaf"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_spawn.js"
-hash = "91b60a8cd0fdc0c575eb2c012c4a17b1186cab3ebf4316573c07d3bd44f24e07"
+hash = "46e6772d8d89ab038090e979ac0c264ee5ea0bf5d78ed98790ac91abc4d010b2"
 
 [[files]]
 file = "kubejs/server_scripts/ship/ship_upgrades.js"
 hash = "868234364f8784009894de6b03ef8788e84e38989ece705e04cd3bda19bbb61f"
+
+[[files]]
+file = "kubejs/server_scripts/structure/big_pyramid_spawner.js"
+hash = "c92ed767a48693fe9e8c0c953cc702c1d4b1c88c1efe5c03cdbe247960e5403e"
+
+[[files]]
+file = "kubejs/server_scripts/structure/remove_enchanting_blocks.js"
+hash = "4c8192615ef23523cc28f9a96be11725569f2ed3bdbe59ebc92d7007d0fe4484"
+
+[[files]]
+file = "kubejs/server_scripts/structure/replace_ominous_banner.js"
+hash = "afc3f641c0f478bfb0ca13afcc2ac2d2ff5568f287455332ed692927b6340438"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks/grave_dirt.js"
@@ -5476,6 +5544,11 @@ metafile = true
 [[files]]
 file = "mods/actionhunger.pw.toml"
 hash = "3cb244337e9d982571421839e2a0a8494c04fc229f27725790312d4237ab026e"
+metafile = true
+
+[[files]]
+file = "mods/advancement-cascade.pw.toml"
+hash = "d3a13f5a90a5d695b230740f3270e630785b33121cab2caa7b9d36fd6dc1a524"
 metafile = true
 
 [[files]]
@@ -8879,6 +8952,18 @@ file = "resourcepacks/spectral_seas/assets/emi/recipe/filters/filters.json"
 hash = "ff0b53714b354cbbc995b1b8f73a3519873e40d9432762028d28208b6153658a"
 
 [[files]]
+file = "resourcepacks/spectral_seas/assets/galosphere/atlas/biome/crystal_canyons.json"
+hash = "da38a18defe2995e081189f0a80f430305fef271255cf7eb964a8c055ef6f505"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/galosphere/atlas/biome/lichen_caves.json"
+hash = "4a53a52ddc4a45574ef2111c221075edf30bb84c2bf99f350038439c2ff780cf"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/galosphere/atlas/biome/pink_salt_caves.json"
+hash = "da38a18defe2995e081189f0a80f430305fef271255cf7eb964a8c055ef6f505"
+
+[[files]]
 file = "resourcepacks/spectral_seas/assets/galosphere/models/block/pink_salt_straw_down_bottom.json"
 hash = "1043e58b888750784f2f9584b3dce2569bac9cf60b1ae77826865e67817f9d0a"
 
@@ -9111,72 +9196,44 @@ file = "resourcepacks/spectral_seas/assets/spectral_seas/textures/mob_effect/shr
 hash = "825d947bc893a1cfa50f6a855e511200da1fa5d2402e7235dc1e5c4020fedffc"
 
 [[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/black_langast.json"
+hash = "b2dc34fe538a1293e40cc3d74eba3c0540cb8dc989db188cad74e0aa3acb7561"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/crystal_gardens.json"
+hash = "4a53a52ddc4a45574ef2111c221075edf30bb84c2bf99f350038439c2ff780cf"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/deep_barrens.json"
+hash = "2cba0b254003450f4e23c1d3ab3ed38f0a42084b9bca12e461e8d357f5b2ab5d"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/deep_dripstone_caves.json"
+hash = "da38a18defe2995e081189f0a80f430305fef271255cf7eb964a8c055ef6f505"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/dragonrot_swamp.json"
+hash = "096fe5e314210c30ee317ce0050bcc3314e025b95af4efc31e70c8ebf9d00188"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/howling_spires.json"
+hash = "7ae741f26002383f59d23271cffab33a2cb6e575f69124297fdc32d76fa47f3b"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/noxshroom_forest.json"
+hash = "facfa692830d20017b42e66d3135504f64c15ca4e4578a16f0a5183d9359c58d"
+
+[[files]]
+file = "resourcepacks/spectral_seas/assets/spectrum/atlas/biome/razor_edge.json"
+hash = "b5abae52f8d9e3d3212edf160112333e21e6da7cd74280d5d09916fe225b771e"
+
+[[files]]
 file = "resourcepacks/spectral_seas/assets/vc_gliders/lang/en_us.json"
 hash = "cca073434ccdb93e97a34f68aca5ba97520697f193fa0be8e617648fb2c79ea0"
 
 [[files]]
 file = "resourcepacks/spectral_seas/pack.mcmeta"
 hash = "54f47c2929040e9fc2bda52c3ebf9082b4eaa5c92ab1070ac0fb7a7f2d88f7ae"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/minecraft/models/item/carved_pumpkin.json"
-hash = "30aa8bac80f5c45d65584c0b2b69b24fbabbb94d9097a72160edb5e6720218b4"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/minecraft/textures/misc/pumpkinblur.png"
-hash = "326f81852c70276a481364b9dc2397d9ef6ffac40009bc0e2e46894f5cd203e2"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/minecraft/textures/misc/pumpkinblur.png.mcmeta"
-hash = "d80c064e6064b4ef9b54d194ae963ed320f332ed00134e2a4a08f37784ee7c3a"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/black_langast.json"
-hash = "b2dc34fe538a1293e40cc3d74eba3c0540cb8dc989db188cad74e0aa3acb7561"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/crystal_gardens.json"
-hash = "4a53a52ddc4a45574ef2111c221075edf30bb84c2bf99f350038439c2ff780cf"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/deep_barrens.json"
-hash = "2cba0b254003450f4e23c1d3ab3ed38f0a42084b9bca12e461e8d357f5b2ab5d"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/deep_dripstone_caves.json"
-hash = "da38a18defe2995e081189f0a80f430305fef271255cf7eb964a8c055ef6f505"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/dragonrot_swamp.json"
-hash = "096fe5e314210c30ee317ce0050bcc3314e025b95af4efc31e70c8ebf9d00188"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/noxshroom_forest.json"
-hash = "facfa692830d20017b42e66d3135504f64c15ca4e4578a16f0a5183d9359c58d"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spectrum/atlas/biome/razor_edge.json"
-hash = "b5abae52f8d9e3d3212edf160112333e21e6da7cd74280d5d09916fe225b771e"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/spsp/lang/en_us.json"
-hash = "a2879bcb73d752a4d7450227f4af20d29110f51ce78356917cf7fd7922c6dab8"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/starry_skies/atlas/biome/end.json"
-hash = "df0ae96fb409062d7c7ad396a9cb6889dcff8e2549442f740db142aae5a4aa9e"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/starry_skies/atlas/biome/nether.json"
-hash = "df0ae96fb409062d7c7ad396a9cb6889dcff8e2549442f740db142aae5a4aa9e"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/assets/starry_skies/atlas/biome/overworld.json"
-hash = "df0ae96fb409062d7c7ad396a9cb6889dcff8e2549442f740db142aae5a4aa9e"
-
-[[files]]
-file = "resourcepacks/spectrum_public_server_pack/pack.mcmeta"
-hash = "cee249a279dd99c5206ff79345af0a6b0deff0e9af3dfec0fb766e623d986916"
 
 [[files]]
 file = "resourcepacks/stefansarmorsnitems.pw.toml"
