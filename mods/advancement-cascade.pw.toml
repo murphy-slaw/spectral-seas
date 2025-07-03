@@ -1,0 +1,13 @@
+name = "Advancement Cascade"
+filename = "advancement_cascade-fabric-1.20.1-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UIecPobH/versions/eiOcnv2x/advancement_cascade-fabric-1.20.1-0.2.jar"
+hash-format = "sha512"
+hash = "ab073275177118485afa4cc1081b1913a7e5b1eeeba9bc1f73f98eed6de71fbf2a16ef456950f2a6fbe1ed2e01e91203d63f19555ee06612a8dac0dfd8bdeefa"
+
+[update]
+[update.modrinth]
+mod-id = "UIecPobH"
+version = "eiOcnv2x"

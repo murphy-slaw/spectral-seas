@@ -236,56 +236,58 @@ function hasNemesis (player) {
  * @param {Internal.ServerLevel} level
  */
 const monsterSummoner = (task, level) => {
-    level.getPlayers().forEach(/** @type {Internal.ServerPlayer}*/ player => {
-        if (
-            hasNemesis(player) ||
-            !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
-            level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty <=
-                MONSTER_DIFFlCULTY_THRESHOLD
-        )
-            return
-
-        let monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
-        /** @type {Internal.LivingEntity} */
-        let monster = monsterType.create(level)
-        monster.tags.add('sea_monster')
-        monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
-        monster.size = 0
-        $ScaleTypes.BASE.getScaleData(monster).setScale(2)
-
-        let veh = player.getVehicle()
-        if (!veh) return
-        let direction = veh.getForward()
-        let position = veh.getPosition(1).subtract(direction.scale(32))
-        monster.moveTo(position)
-
-        level.scoreboard.addPlayerToTeam(
-            monster.stringUuid,
-            level.scoreboard.getPlayerTeam('sea_monsters')
-        )
-
-        if (level.tryAddFreshEntityWithPassengers(monster)) {
-            console.log(`${player.displayName.string} gets their very own sea monster!`)
-            player.displayClientMessage(
-                'A beast rises from the depths to devour your vessel!',
-                true
+    level.getPlayers().forEach(
+        /** @param {Internal.ServerPlayer} player */ player => {
+            if (
+                hasNemesis(player) ||
+                !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
+                level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty <=
+                    MONSTER_DIFFlCULTY_THRESHOLD
             )
-            console.log(player.getCamera().blockPosition())
-            let camera = player.getCamera()
-            level.playSound(
-                null,
-                camera.x,
-                camera.y,
-                camera.z,
-                'spectral_seas:monster_sting',
-                'NEUTRAL',
-                15,
-                1
+                return
+
+            let monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
+            /** @type {Internal.LivingEntity} */
+            let monster = monsterType.create(level)
+            monster.tags.add('sea_monster')
+            monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
+            monster.size = 0
+            $ScaleTypes.BASE.getScaleData(monster).setScale(2)
+
+            let veh = player.getVehicle()
+            if (!veh) return
+            let direction = veh.getForward()
+            let position = veh.getPosition(1).subtract(direction.scale(32))
+            monster.moveTo(position)
+
+            level.scoreboard.addPlayerToTeam(
+                monster.stringUuid,
+                level.scoreboard.getPlayerTeam('sea_monsters')
             )
 
-            player.persistentData.putUUID('Nemesis', monster.getUuid())
+            if (level.tryAddFreshEntityWithPassengers(monster)) {
+                console.log(`${player.displayName.string} gets their very own sea monster!`)
+                player.displayClientMessage(
+                    'A beast rises from the depths to devour your vessel!',
+                    true
+                )
+                console.log(player.getCamera().blockPosition())
+                let camera = player.getCamera()
+                level.playSound(
+                    null,
+                    camera.x,
+                    camera.y,
+                    camera.z,
+                    'spectral_seas:monster_sting',
+                    'NEUTRAL',
+                    15,
+                    1
+                )
+
+                player.persistentData.putUUID('Nemesis', monster.getUuid())
+            }
         }
-    })
+    )
 }
 
 // WHY DOES minecraft:overworld FIRE loaded() TWICE?
