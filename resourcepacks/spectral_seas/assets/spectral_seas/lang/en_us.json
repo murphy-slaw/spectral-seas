@@ -1,4 +1,13 @@
 {
     "spectral_seas.diving_set.name": "Diving Suit Set",
-    "item.minecraft.potion.effect.grog": "Grog"
+    "item.minecraft.potion.effect.grog": "Grog",
+    "structure.tag.spectral_seas.all_pirate": "Pirates!",
+    "advancements.adventure.lichen_caves.title": "I'm Lichen It",
+    "advancements.adventure.lichen_caves.description": "Explore a lichen cave.",
+    "advancements.adventure.pink_salt_caves.title": "A Salty Bet",
+    "advancements.adventure.pink_salt_caves.description": "Explore a pink salt cave.",
+    "advancements.adventure.crystal_canyons.title": "Ooh, Sparkly!",
+    "advancements.adventure.crystal_canyons.description": "Explore a crystal canyon.",
+    "advancements.adventure.spelunking.title": "The Spelunker's Way",
+    "advancements.adventure.spelunking.description": "Explore every cave biome."
 }

@@ -21,7 +21,7 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.adventure.adventuring_time.description"
+      "translate": "advancements.adventure.lichen_caves.description"
     },
     "frame": "task",
     "hidden": false,
@@ -30,7 +30,7 @@
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.adventure.adventuring_time.title"
+      "translate": "advancements.adventure.lichen_caves.title"
     }
   },
   "requirements": [
