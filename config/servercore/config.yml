@@ -114,7 +114,7 @@ mob-spawning:
       spawn-interval: 400
 
     - category: 'AMBIENT'
-      mobcap: 4
+      mobcap: 5
       spawn-interval: 20 
 
     - category: 'AXOLOTLS'
