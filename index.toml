@@ -1654,7 +1654,7 @@ hash = "c59087bf21efe4280b1fe457b352bda7f84e82a11847c98e9728f967b342ff1f"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/crystal_canyons.json"
-hash = "af54b49cdcd2aa75cca7a528aa2cbd9891196ab97c2084c50c031bf05387d276"
+hash = "d6db139c3e32d4ede200bf5231cd84240ddb73ce3760b0b0cf51d3a7a4f9506c"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/crystal_lamps.json"
@@ -1666,7 +1666,7 @@ hash = "180877f7c0f94c90614fda3380da5443af71d622e112b090dc738739ec2025aa"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/lichen_caves.json"
-hash = "3e32ce0cb495f4bed5ea826b5aca9e9fdbddfcf5a8c3e711cb6b9afe6293413c"
+hash = "2fef015251bfd461ce507958b67c2e0759c128371dbb120a3b7c43d0b6ba2e08"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/light_spread.json"
@@ -1674,7 +1674,7 @@ hash = "97cdc5f74509e008894162fc38534965a1930a58487736a1a3d8ebeed8434e5b"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/pink_salt_caves.json"
-hash = "f694b6d027473997ac9239814d14f947b13282f0bed03847a1d96f67bb8f5b45"
+hash = "3a4b5e8e9ba7494f5348aba1d859340e693bbac7a3de1ce1d35a77e9f79a2e8f"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/silver_bomb.json"
@@ -1686,7 +1686,7 @@ hash = "98d9d7b8f3952da9ccc4edf3b722c02b8ca7c63ecd2bca1659042c4419c4366c"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/spelunking.json"
-hash = "9f9d1733224ac35db92e9f54c930f0e998c98ae9c57c3a14f43c6adfb6d67da2"
+hash = "8047d1c0cc6a5c151ec10ea3bbd28639b013cb1bf6267b3be9a55de284a41e9b"
 
 [[files]]
 file = "kubejs/data/galosphere/advancements/adventure/sterling_armor.json"
@@ -9129,7 +9129,7 @@ hash = "b1cbf37fd857ff1e6d7e237135ea2be78f5f08d83819cd02dfeccb58f8eef93e"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/lang/en_us.json"
-hash = "19b9700eb07568fe8384d6004810c3fb97d631985fdb11b929290fdec55f1c9c"
+hash = "eb34b984e753024fb03ce00954f01c22ed71907e7a15e84bd45f3d6c401e57d1"
 
 [[files]]
 file = "resourcepacks/spectral_seas/assets/spectral_seas/sounds.json"
