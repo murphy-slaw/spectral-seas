@@ -1,61 +1,29 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
-const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
 const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
-const $StructureStart = Java.loadClass(
-    'net.minecraft.world.level.levelgen.structure.StructureStart'
-)
 const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
 var $ScaleTypes$BASE = $ScaleTypes.BASE
 
-const pillagerHats = [
-    Item.of('simplehats:bicorne'),
-    Item.of('simplehats:tricorne'),
-    Item.of('simplehats:eyepatch'),
-    Item.of('minecraft:air'),
-    //'simplehats:dorkglassesandteeth',
-]
+const MONSTER_MOBCAP = 70
+const PILLAGER_MOBCAP = 8
 
-const vindicatorWeapons = [
-    'simplyswords:iron_cutlass',
-    'simplyswords:iron_rapier',
-    'minecraft:iron_axe',
-]
+const pillagerHats = new Map([
+    ['simplehats:bicorne', 2],
+    ['simplehats:tricorne', 1],
+    ['simplehats:eyepatch', 1],
+    ['minecraft:air', 2],
+])
 
-const pillagerWeapons = ['musketmod:pistol']
+const vindicatorWeapons = new Map([
+    ['simplyswords:iron_cutlass', 2],
+    ['simplyswords:iron_rapier', 2],
+    ['minecraft:iron_axe', 1],
+])
 
-/**
- * @param {BlockPos} blockPos
- * @param {ResourceLocation} structureId
- * @param {Internal.ServerLevel} serverLevel
- * @returns {boolean}
- */
-function posInStructure (blockPos, structureId, serverLevel) {
-    /** @type {Internal.Registry<Internal.Structure> */
-    let reg = serverLevel
-        .registryAccess()
-        .registryOrThrow($ResourceKey.createRegistryKey('worldgen/structure'))
-
-    return (
-        serverLevel
-            .structureManager()
-            .getAllStructuresAt(blockPos)
-            .keySet()
-            .filter(struct => {
-                if (struct.delegate) struct = struct.delegate()
-                return reg.getKey(struct) === structureId
-            }).length > 0
-    )
-}
-
-/**
- * @param {Internal.Entity} entity
- * @param {ResourceLocation} structureId
- * @param {Internal.ServerLevel} serverLevel
- * @returns {boolean}
- */
-function entityInStructure (entity, structureId, serverLevel) {
-    return posInStructure(entity.blockPosition(), structureId, serverLevel)
-}
+const pillagerWeapons = new Map([
+    ['musketmod:pistol', 8],
+    ['musketmod:blunderbuss', 1],
+    ['musketmod:musket', 1],
+])
 
 EntityEvents.spawned(event => {
     const { entity, level } = event
@@ -64,8 +32,19 @@ EntityEvents.spawned(event => {
         return
     }
 
+    // Fake mobcap: leave headroom for Pirate summons
+    if (
+        entity.type != 'minecraft:pillager' &&
+        entity.monster &&
+        level.getEntities().filter(entity => entity.monster && entity.type != 'minecraft:pillager')
+            .length >=
+            MONSTER_MOBCAP - PILLAGER_MOBCAP
+    ) {
+        event.cancel()
+    }
+
     if (entity.mobType === $MobType.ILLAGER) {
-        if (entityInStructure(entity, 'mostructures:pillager_factory', level)) {
+        if (StructureUtils.entityInStructure(entity, 'mostructures:pillager_factory', level)) {
             entity.setChestArmorItem(
                 Item.of(
                     'minecraft:leather_chestplate',
@@ -83,15 +62,16 @@ EntityEvents.spawned(event => {
 
         //Don't replace raid captain banner
         if (entity.getHeadArmorItem().empty) {
-            entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
+            //entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
+            entity.setHeadArmorItem(Item.of(RandomUtils.weighted(pillagerHats)))
         } else if (entity.getHeadArmorItem().item == 'white_banner') {
             entity.setHeadArmorItem(BANNERS.JOLLY_ROGER)
         }
         if (entity.type == 'minecraft:pillager') {
-            entity.setItemSlot('mainhand', Item.of(Utils.randomOf(Utils.random, pillagerWeapons)))
+            entity.setItemSlot('mainhand', Item.of(RandomUtils.weighted(pillagerWeapons)))
         }
         if (entity.type == 'minecraft:vindicator') {
-            entity.setItemSlot('mainhand', Item.of(Utils.randomOf(Utils.random, vindicatorWeapons)))
+            entity.setItemSlot('mainhand', Item.of(RandomUtils.weighted(vindicatorWeapons)))
         }
     }
 
@@ -102,7 +82,7 @@ EntityEvents.spawned(event => {
 
     if (entity.type == 'hybrid-aquatic:karkinos') {
         console.infof('Summoned Karkinos: %s', entity.uuid)
-        $ScaleTypes$BASE.getScaleData(entity).setScale(3)
+        $ScaleTypes.BASE.getScaleData(entity).setScale(3)
     }
 
     if (entity.type === 'minecraft:drowned') {
