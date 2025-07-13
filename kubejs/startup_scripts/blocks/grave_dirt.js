@@ -1,4 +1,4 @@
-StartupEvents.registry('block', event => {
+StartupEvents.registry('block', (event) => {
     event
         .create('spectral_seas:grave_dirt')
         .displayName('Grave Dirt')
@@ -8,23 +8,16 @@ StartupEvents.registry('block', event => {
         .tagBlock('minecraft:mineable/shovel')
         .textureAll('minecraft:block/dirt')
         .gravelSoundType()
-        .blockEntity(entityInfo => {
-            entityInfo.serverTick(60, 0, entityEvent =>
-                global.reloadableParticle(entityEvent)
-            )
+        .blockEntity((entityInfo) => {
+            entityInfo.serverTick(60, 0, (entityEvent) => global.reloadableParticle(entityEvent))
         })
 })
 
-global.reloadableParticle = entityEvent => {
+global.reloadableParticle = (entityEvent) => {
     let pos = entityEvent.blockPos.above()
-    if (
-        entityEvent.tick % 4 === 0 &&
-        entityEvent.level.getBlock(pos) === 'minecraft:air'
-    ) {
+    if (entityEvent.tick % 4 === 0 && entityEvent.level.getBlock(pos) === 'minecraft:air') {
         entityEvent.level.runCommandSilent(
-            `particle soul ${pos.x} ${pos.y + 0.2} ${
-                pos.z
-            } 0.001 0.01 0.001 0.01 1`
+            `particle soul ${pos.x} ${pos.y + 0.2} ${pos.z} 0.001 0.01 0.001 0.01 1`
         )
     }
 }

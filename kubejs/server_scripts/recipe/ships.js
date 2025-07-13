@@ -10,7 +10,7 @@ const SHIP_WOOD_TYPES = [
     'spruce',
 ]
 
-ServerEvents.recipes(event => {
+ServerEvents.recipes((event) => {
     event.remove({ output: 'smallships:bamboo_cog' })
     event.remove({ output: 'smallships:bamboo_galley' })
     event.shaped(Item.of('smallships:bamboo_galley'), ['lll', 'cSc', 'bbb'], {

@@ -1,4 +1,4 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes((event) => {
     event.remove({ output: 'minecraft:lead' })
     event.shapeless('minecraft:lead', ['supplementaries:rope', 'minecraft:slime_ball'])
 

@@ -10,7 +10,7 @@ const StructureUtils = (function () {
      * @param {Internal.ServerLevel} serverLevel
      * @returns {boolean}
      */
-    function posInStructure (blockPos, structureId, serverLevel) {
+    function posInStructure(blockPos, structureId, serverLevel) {
         /** @type {Internal.Registry<Internal.Structure> */
         let reg = serverLevel
             .registryAccess()
@@ -21,7 +21,7 @@ const StructureUtils = (function () {
                 .structureManager()
                 .getAllStructuresAt(blockPos)
                 .keySet()
-                .filter(struct => {
+                .filter((struct) => {
                     if (struct.delegate) struct = struct.delegate()
                     return reg.getKey(struct) === structureId
                 }).length > 0
@@ -34,7 +34,7 @@ const StructureUtils = (function () {
      * @param {Internal.ServerLevel} serverLevel
      * @returns {boolean}
      */
-    function entityInStructure (entity, structureId, serverLevel) {
+    function entityInStructure(entity, structureId, serverLevel) {
         return posInStructure(entity.blockPosition(), structureId, serverLevel)
     }
 

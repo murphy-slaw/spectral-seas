@@ -1,4 +1,4 @@
-StartupEvents.registry('potion', e => {
+StartupEvents.registry('potion', (e) => {
     e.createCustom('spectral_seas:grog', () =>
         new $PotionBuilder('spectral_seas:grog')
             .effect('strength', 300)

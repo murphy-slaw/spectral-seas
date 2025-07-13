@@ -1,4 +1,4 @@
-StartupEvents.registry('item', event => {
+StartupEvents.registry('item', (event) => {
     event
         .create('spectral_seas:hulk_trinket')
         .displayName('HULK SMASH')

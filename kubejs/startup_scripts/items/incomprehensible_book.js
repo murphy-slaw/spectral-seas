@@ -1,4 +1,4 @@
-StartupEvents.registry('minecraft:item', event => {
+StartupEvents.registry('minecraft:item', (event) => {
     event
         .create('spectral_seas:incomprehensible_book')
         .displayName('Incomprehensible Book')

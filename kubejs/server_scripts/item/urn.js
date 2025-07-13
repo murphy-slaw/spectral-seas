@@ -1,4 +1,4 @@
-BlockEvents.rightClicked(undefined, event => {
+BlockEvents.rightClicked(undefined, (event) => {
     if (event.level.isClientSide()) return
     if (event.facing === Direction.UP && event.item.id === 'supplementaries:urn') {
         let urn = Block.getBlock('supplementaries:urn').defaultBlockState()

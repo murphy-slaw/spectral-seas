@@ -1,4 +1,4 @@
-StartupEvents.registry('mob_effect', event => {
+StartupEvents.registry('mob_effect', (event) => {
     event
         .create('spectral_seas:hydrodynamic')
         .color(0x495e27)

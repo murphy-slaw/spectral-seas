@@ -6,11 +6,11 @@ var $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
  * @param {Internal.Level} level
  * @returns {Internal.WorldAtlasData}
  */
-function getAtlasData (level) {
+function getAtlasData(level) {
     return $WorldAtlasData.getOrCreate(level)
 }
 
-function getAtlasTexture (texture) {
+function getAtlasTexture(texture) {
     return $MarkerTextures.getInstance().get(ResourceLocation(texture))
 }
 
@@ -33,7 +33,7 @@ const colorCodeToDyeColor = {
     yellow: $DyeColor.YELLOW,
 }
 
-function getColor (colorName) {
+function getColor(colorName) {
     return $DyeColor.byName(colorName, null) || colorCodeToDyeColor[colorName] || $DyeColor.BLACK
 }
 
@@ -44,7 +44,7 @@ function getColor (colorName) {
  * @param {Internal.MutableComponent} label
  * @param {string} color
  */
-function addAntiqueAtlasMarker (level, texture, pos, label, color) {
+function addAntiqueAtlasMarker(level, texture, pos, label, color) {
     label = JSON.parse(label)
     color = getColor(color)
     let worldAtlasData = getAtlasData(level)
@@ -64,27 +64,27 @@ function addAntiqueAtlasMarker (level, texture, pos, label, color) {
     )
 }
 
-function deleteAntiqueAtlasMarker (level, pos) {
+function deleteAntiqueAtlasMarker(level, pos) {
     let worldAtlasData = getAtlasData(level)
     let markerPos = BlockPos(pos.x, pos.y, pos.z)
     console.log(markerPos)
     worldAtlasData
         .getEditableLandmarks()
         .keySet()
-        .filter(landmark => landmark.pos().equals(markerPos))
-        .forEach(landmark => {
+        .filter((landmark) => landmark.pos().equals(markerPos))
+        .forEach((landmark) => {
             console.log(landmark.pos())
             worldAtlasData.deleteLandmark(level, landmark)
         })
 }
 
-NetworkEvents.dataReceived('AddMarker', event => {
+NetworkEvents.dataReceived('AddMarker', (event) => {
     let marker = event.data
     console.log(marker.label)
     addAntiqueAtlasMarker(Client.level, marker.texture, marker.pos, marker.label, marker.color)
 })
 
-NetworkEvents.dataReceived('DeleteMarker', event => {
+NetworkEvents.dataReceived('DeleteMarker', (event) => {
     console.log('recieved DeleteMarker')
     deleteAntiqueAtlasMarker(Client.level, event.data.pos)
 })

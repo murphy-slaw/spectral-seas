@@ -3,7 +3,7 @@ const RandomUtils = (function () {
      * @param {Map<string, number>} weightMap
      * @returns {string}
      */
-    function weighted (weightMap) {
+    function weighted(weightMap) {
         const selections = Array.from(weightMap.keys())
         const weights = Array.from(weightMap.values())
         const total = weights.reduce((a, b) => a + b)

@@ -1,4 +1,4 @@
-ItemEvents.tooltip(event => {
+ItemEvents.tooltip((event) => {
     if (Client.player.stages.has('gilded_book')) return
     event.addAdvanced('spectrum:gilded_book', (item, advanced, text) => {
         text.clear()

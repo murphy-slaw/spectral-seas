@@ -84,11 +84,11 @@ const names = [
     'Zizzi',
     'Zola',
 ]
-function getRandomParrotVariant () {
+function getRandomParrotVariant() {
     return Utils.randomOf(Utils.random, variants)
 }
 
-function givePlayerParrot (player) {
+function givePlayerParrot(player) {
     let parrot = player.block.createEntity('minecraft:parrot')
     parrot.copyPosition(player)
     parrot.setVariant(getRandomParrotVariant())
@@ -98,12 +98,12 @@ function givePlayerParrot (player) {
     parrot.setEntityOnShoulder(player)
 }
 
-function givePlayerBundle (player, contents) {
+function givePlayerBundle(player, contents) {
     const bundle = Item.of('minecraft:bundle')
     bundle.setNbt({ Items: contents })
     player.give(bundle)
 }
-PlayerEvents.loggedIn(event => {
+PlayerEvents.loggedIn((event) => {
     /** @type {Internal.ServerPlayer} */
     const player = event.player
     if (!player.stages.has('starter_kit')) {

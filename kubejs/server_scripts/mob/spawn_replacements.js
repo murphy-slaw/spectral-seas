@@ -1,7 +1,6 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
-var $ScaleTypes$BASE = $ScaleTypes.BASE
 
 const MONSTER_MOBCAP = 70
 const PILLAGER_MOBCAP = 8
@@ -25,7 +24,7 @@ const pillagerWeapons = new Map([
     ['musketmod:musket', 1],
 ])
 
-EntityEvents.spawned(event => {
+EntityEvents.spawned((event) => {
     const { entity, level } = event
 
     if (entity.isPlayer() || !entity.isLiving()) {
@@ -34,10 +33,11 @@ EntityEvents.spawned(event => {
 
     // Fake mobcap: leave headroom for Pirate summons
     if (
-        entity.type != 'minecraft:pillager' &&
+        entity.type !== 'minecraft:pillager' &&
         entity.monster &&
-        level.getEntities().filter(entity => entity.monster && entity.type != 'minecraft:pillager')
-            .length >=
+        level
+            .getEntities()
+            .filter((entity) => entity.monster && entity.type !== 'minecraft:pillager').length >=
             MONSTER_MOBCAP - PILLAGER_MOBCAP
     ) {
         event.cancel()
@@ -64,35 +64,35 @@ EntityEvents.spawned(event => {
         if (entity.getHeadArmorItem().empty) {
             //entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
             entity.setHeadArmorItem(Item.of(RandomUtils.weighted(pillagerHats)))
-        } else if (entity.getHeadArmorItem().item == 'white_banner') {
+        } else if (entity.getHeadArmorItem().item === 'white_banner') {
             entity.setHeadArmorItem(BANNERS.JOLLY_ROGER)
         }
-        if (entity.type == 'minecraft:pillager') {
+        if (entity.type === 'minecraft:pillager') {
             entity.setItemSlot('mainhand', Item.of(RandomUtils.weighted(pillagerWeapons)))
         }
-        if (entity.type == 'minecraft:vindicator') {
+        if (entity.type === 'minecraft:vindicator') {
             entity.setItemSlot('mainhand', Item.of(RandomUtils.weighted(vindicatorWeapons)))
         }
     }
 
-    if (entity.type == 'hybrid-aquatic:coconut_crab') {
+    if (entity.type === 'hybrid-aquatic:coconut_crab') {
         // event.server.runCommandSilent(`execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon ecologics:coconut_crab`)
         event.cancel()
     }
 
-    if (entity.type == 'hybrid-aquatic:karkinos') {
+    if (entity.type === 'hybrid-aquatic:karkinos') {
         console.infof('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes.BASE.getScaleData(entity).setScale(3)
     }
 
     if (entity.type === 'minecraft:drowned') {
-        var data = entity.nbt
+        let data = entity.nbt
         data.put('HandDropChances', NBT.listTag([NBT.floatTag(0.085), NBT.floatTag(0.3)]))
         entity.setNbt(data)
     }
 
     if (entity.type === 'guardvillagers:guard') {
-        entity.armorSlots.forEach(slot => {
+        entity.armorSlots.forEach((slot) => {
             if (!slot.empty) {
                 console.log(slot)
                 slot.addTagElement('style', 'heavy')
@@ -101,7 +101,7 @@ EntityEvents.spawned(event => {
     }
 
     if (entity.type === 'minecraft:drowned') {
-        entity.armorSlots.forEach(slot => {
+        entity.armorSlots.forEach((slot) => {
             if (!slot.empty) {
                 console.log(slot)
                 slot.addTagElement('style', 'samurai')
@@ -110,7 +110,7 @@ EntityEvents.spawned(event => {
     }
 
     if (entity.type === 'galosphere:spectre') {
-        if (level.getEntities($GEntityTypes.SPECTRE, pred => true).length > 8) {
+        if (level.getEntities($GEntityTypes.SPECTRE, (pred) => true).length > 8) {
             event.cancel()
         }
     }

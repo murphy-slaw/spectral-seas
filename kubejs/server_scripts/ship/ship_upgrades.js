@@ -1,7 +1,7 @@
 const SHIP_UPGRADE_CONFIG_PATH = 'kubejs/config/ship_upgrades.json'
 const ShipUpgradeConfig = JsonIO.read(SHIP_UPGRADE_CONFIG_PATH)
 
-EntityEvents.spawned(event => {
+EntityEvents.spawned((event) => {
     let ship = event.entity
     if (!shipTypes.includes(ship.type.toString())) return
 
@@ -18,7 +18,7 @@ EntityEvents.spawned(event => {
     }
 })
 
-ItemEvents.entityInteracted('spectral_seas:ship_speed_upgrade', event => {
+ItemEvents.entityInteracted('spectral_seas:ship_speed_upgrade', (event) => {
     if (!shipTypes.includes(event.target.type)) return
 
     let ship = event.target
@@ -60,7 +60,7 @@ ItemEvents.entityInteracted('spectral_seas:ship_speed_upgrade', event => {
     event.cancel()
 })
 
-ItemEvents.entityInteracted('spectral_seas:ship_cargo_upgrade', event => {
+ItemEvents.entityInteracted('spectral_seas:ship_cargo_upgrade', (event) => {
     if (shipTypes.includes(event.target.type)) {
         let ship = event.target
         let cargoData = ship.persistentData.get('upgradeData').get('cargo')
@@ -107,7 +107,7 @@ ItemEvents.entityInteracted('spectral_seas:ship_cargo_upgrade', event => {
     }
 })
 
-ItemEvents.entityInteracted('minecraft:potion', event => {
+ItemEvents.entityInteracted('minecraft:potion', (event) => {
     if (event.item.nbt.display === undefined) return
     if (shipTypes.includes(event.target.type)) {
         let ship = event.target
@@ -131,6 +131,6 @@ ItemEvents.entityInteracted('minecraft:potion', event => {
     }
 })
 
-ItemEvents.entityInteracted('minecraft:name_tag', event => {
+ItemEvents.entityInteracted('minecraft:name_tag', (event) => {
     if (shipTypes.includes(event.target.type)) event.cancel()
 })

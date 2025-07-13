@@ -1,4 +1,4 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes((event) => {
     event.replaceOutput(
         { output: 'minecraft:mushroom_stew' },
         'minecraft:mushroom_stew',
@@ -20,19 +20,19 @@ ServerEvents.recipes(event => {
     event.remove('minecraft:suspicious_stew')
 })
 
-ItemEvents.foodEaten('spectral_seas:mushroom_stew', event => {
+ItemEvents.foodEaten('spectral_seas:mushroom_stew', (event) => {
     if (event.player != null) {
         event.player.give('minecraft:bowl')
     }
 })
 
-ItemEvents.foodEaten('spectral_seas:rabbit_stew', event => {
+ItemEvents.foodEaten('spectral_seas:rabbit_stew', (event) => {
     if (event.player != null) {
         event.player.give('minecraft:bowl')
     }
 })
 
-ItemEvents.foodEaten('spectral_seas:beetroot_soup', event => {
+ItemEvents.foodEaten('spectral_seas:beetroot_soup', (event) => {
     if (event.player != null) {
         event.player.give('minecraft:bowl')
     }

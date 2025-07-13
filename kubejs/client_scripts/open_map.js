@@ -6,7 +6,7 @@ const Klass = Java.class.forName('folk.sisby.antique_atlas.gui.AtlasScreen')
 var setTargetPosition
 var zoomOut
 // Promise not to tell Lat
-Klass.getDeclaredMethods().forEach(meth => {
+Klass.getDeclaredMethods().forEach((meth) => {
     if (meth.getName() === 'setTargetPosition') {
         meth.setAccessible(true)
         setTargetPosition = meth
@@ -23,7 +23,7 @@ Klass.getDeclaredMethods().forEach(meth => {
 The server sends an OpenMap packet when an explorer map enters the player's inventory 
 for the first time
  */
-NetworkEvents.dataReceived('OpenMap', event => {
+NetworkEvents.dataReceived('OpenMap', (event) => {
     const pos = event.data
     const screen = new AtlasScreen()
     screen.prepareToOpen()

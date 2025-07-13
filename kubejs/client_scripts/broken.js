@@ -2,11 +2,11 @@
  * @param {Internal.ItemStack} itemStack
  * @returns {boolean}
  */
-function isBroken (itemStack) {
+function isBroken(itemStack) {
     return itemStack.isDamageableItem() && itemStack.damageValue >= itemStack.maxDamage
 }
 
-FabricEvents.handleClient('PreAttack', event => {
+FabricEvents.handleClient('PreAttack', (event) => {
     let params = event.getParameters()
     /** @type {Internal.Minecraft} */
     let client = params.arg0
@@ -22,22 +22,22 @@ FabricEvents.handleClient('PreAttack', event => {
     }
 })
 
-ItemEvents.entityInteracted(event => {
+ItemEvents.entityInteracted((event) => {
     if (isBroken(event.item)) event.cancel()
 })
 
-ItemEvents.rightClicked(event => {
+ItemEvents.rightClicked((event) => {
     if (isBroken(event.item)) event.cancel()
 })
 
-ItemEvents.firstLeftClicked(event => {
+ItemEvents.firstLeftClicked((event) => {
     if (isBroken(event.item)) event.cancel()
 })
 
-BlockEvents.rightClicked(event => {
+BlockEvents.rightClicked((event) => {
     if (isBroken(event.item)) event.cancel()
 })
 
-BlockEvents.leftClicked(event => {
+BlockEvents.leftClicked((event) => {
     if (isBroken(event.item)) event.cancel()
 })

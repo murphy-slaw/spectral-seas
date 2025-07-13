@@ -12,10 +12,12 @@ const LEAD_LENGTH = 7
  * @param {Internal.Event} event
  * @returns {Internal.AbstractHorse}
  */
-function attachHorses (event) {
-    let horses = event.level
+function attachHorses(event) {
+    const horses = event.level
         .getEntitiesOfClass($AbstractHorse, event.player.boundingBox.inflate(LEAD_LENGTH))
-        .filter(/** @param {Internal.AbstractHorse} mob */ mob => mob.leashHolder === event.player)
+        .filter(
+            /** @param {Internal.AbstractHorse} mob */ (mob) => mob.leashHolder === event.player
+        )
 
     if (horses.length > 0) {
         return horses.pop()
@@ -27,12 +29,12 @@ function attachHorses (event) {
  * @param {Internal.LeashFenceKnotEntity} knot
  * @returns {boolean}
  */
-function detachHorses (event, knot) {
+function detachHorses(event, knot) {
     return (
         event.level
             .getEntitiesOfClass($AbstractHorse, knot.boundingBox.inflate(LEAD_LENGTH))
             .filter(
-                /** @param {Internal.Abstracthorse} mob */ mob =>
+                /** @param {Internal.Abstracthorse} mob */ (mob) =>
                     mob.leashholder === knot && mob.owner === event.player
             ).length > 0
     )
@@ -41,7 +43,7 @@ function detachHorses (event, knot) {
 /**
  * @param {Internal.AbstractHorse} horse
  */
-function getHorseColor (horse) {
+function getHorseColor(horse) {
     if (!horse.persistentData.contains('markerColor')) {
         horse.persistentData.markerColor = String(Loot.randomOf($DyeColor.values()))
     }
@@ -52,7 +54,7 @@ function getHorseColor (horse) {
  * @param {Internal.AbstractHorse} horse
  * @param {Internal.Event} event
  */
-function addHorseMarker (horse, event) {
+function addHorseMarker(horse, event) {
     event.player.sendData('AddMarker', {
         texture: 'antique_atlas:horse/saddle',
         pos: { x: event.block.x, y: event.block.y, z: event.block.z },
@@ -61,7 +63,7 @@ function addHorseMarker (horse, event) {
     })
 }
 
-BlockEvents.rightClicked(event => {
+BlockEvents.rightClicked((event) => {
     if (!event.block.hasTag('minecraft:fences')) return
 
     let horse
@@ -74,16 +76,17 @@ BlockEvents.rightClicked(event => {
     } else {
         horse = attachHorses(event)
     }
-    if (horse != undefined) addHorseMarker(horse, event)
+    if (horse !== undefined) addHorseMarker(horse, event)
 })
 
-ItemEvents.entityInteracted('minecraft:air', event => {
+ItemEvents.entityInteracted('minecraft:air', (event) => {
     if (!(event.target instanceof $LeashFenceKnotEntity)) return
     /** @type {Internal.LeashFenceKnotEntity} */
     const knot = event.target
     const horse = attachHorses(event)
-    if (horse === undefined && detachHorses(event, knot))
+    if (horse === undefined && detachHorses(event, knot)) {
         event.player.sendData('DeleteMarker', {
             pos: { x: knot.blockX, y: knot.blockY, z: knot.blockZ },
         })
+    }
 })

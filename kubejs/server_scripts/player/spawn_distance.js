@@ -1,5 +1,5 @@
 var $ObjectiveCriteria = Java.loadClass('net.minecraft.world.scores.criteria.ObjectiveCriteria')
-PlayerEvents.tick(event => {
+PlayerEvents.tick((event) => {
     /** @type {Internal.ServerPlayer} */
     const player = event.player
     // Once per second
