@@ -1,13 +1,12 @@
-const $RemovalReason = Java.loadClass('net.minecraft.world.entity.Entity$RemovalReason')
 const $HybridAquaticEntityTypes = Java.loadClass(
     'dev.hybridlabs.aquatic.entity.HybridAquaticEntityTypes'
 )
 /** @type {Internal.EntityType} */
 const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK
 
-const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
-const $TurtleEntityType = $EntityType.TURTLE
-const $SquidEntityType = $HybridAquaticEntityTypes.INSTANCE.VAMPIRE_SQUID
+//const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
+//const $TurtleEntityType = $EntityType.TURTLE
+//const $SquidEntityType = $HybridAquaticEntityTypes.INSTANCE.VAMPIRE_SQUID
 const MONSTER_TYPES = ['hybrid-aquatic:great_white_shark', 'minecraft:turtle']
 const MONSTER_ENTITY_TYPES = [$SharkEntityType]
 
@@ -18,7 +17,7 @@ const $TagKey = Java.loadClass('net.minecraft.tags.TagKey')
 const MONSTER_CHECK_TICKS = 300
 const MONSTER_DOOM_TIME = 300
 const MONSTER_ATTACK_COOLDOWN = 80
-const MONSTER_DIFFlCULTY_THRESHOLD = 2.0
+const MONSTER_DIFFICULTY_THRESHOLD = 2.0
 
 /** @type {Internal.TagKey<Internal.Biome>} */
 const IS_DEEP_OCEAN = $TagKey.create(
@@ -27,7 +26,7 @@ const IS_DEEP_OCEAN = $TagKey.create(
 )
 
 // Create the sea_monsters team if it doesn't exist
-ServerEvents.loaded(event => {
+ServerEvents.loaded((event) => {
     let team = event.server.scoreboard.getPlayerTeam('sea_monsters')
     if (!team) {
         team = event.server.scoreboard.addPlayerTeam('sea_monsters')
@@ -42,10 +41,10 @@ ServerEvents.loaded(event => {
  * @returns {boolean}
  */
 const isBlockPosInBiomeTag = (level, blockPos, biomeTag) => {
-    let inBiome = level
+    const inBiome = level
         .getBiome(blockPos)
         .tags()
-        .anyMatch(tag => tag == biomeTag)
+        .anyMatch((tag) => tag === biomeTag)
     return inBiome
 }
 
@@ -54,8 +53,8 @@ const isBlockPosInBiomeTag = (level, blockPos, biomeTag) => {
  * @param {Internal.entity} entity
  * @returns {boolean}
  */
-function isValidTarget (mob, entity) {
-    let valid =
+function isValidTarget(mob, entity) {
+    const valid =
         isBlockPosInBiomeTag(mob.level, entity.blockPosition(), IS_DEEP_OCEAN) &&
         entity.distanceToEntity(mob) <= mob.attributes.getValue('generic.follow_range') // && entity.hasPassenger(entity => entity.player)
     return valid
@@ -65,19 +64,19 @@ function isValidTarget (mob, entity) {
  * @param {Internal.Mob} mob
  * @returns {Internal.Entity}
  */
-function getTargetBoat (mob) {
+function getTargetBoat(mob) {
     /** @type {Internal.Entity} */
     let target = null
-    let range = mob.attributes.getValue('minecraft:generic.follow_range')
-    let mobAABB = mob.boundingBox.inflate(range, 32, range)
+    const range = mob.attributes.getValue('minecraft:generic.follow_range')
+    const mobAABB = mob.boundingBox.inflate(range, 32, range)
     // @ts-ignore
-    mob.level.getEntitiesOfClass($BoatClass, mobAABB).forEach(entity => {
+    mob.level.getEntitiesOfClass($BoatClass, mobAABB).forEach((entity) => {
         if (entity) {
-            let entityDistance = entity.distanceToEntity(mob)
+            const entityDistance = entity.distanceToEntity(mob)
             if (
                 entityDistance <= range &&
                 (target ? entityDistance < target.distanceToEntity(mob) : true) &&
-                entity.hasPassenger(entity => entity.player)
+                entity.hasPassenger((entity) => entity.player)
             ) {
                 target = entity
                 mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
@@ -96,7 +95,7 @@ function getTargetBoat (mob) {
  * @param {Internal.Mob} mob
  * @returns {boolean}
  */
-const hasValidTarget = mob => {
+const hasValidTarget = (mob) => {
     if (!mob.tags.contains('sea_monster')) return false
     let target = null
     let targetId = 0
@@ -109,7 +108,7 @@ const hasValidTarget = mob => {
     if (targetId) target = mob.level.getEntity(targetId)
     if (!target) target = getTargetBoat(mob)
     if (!target || !isValidTarget(mob, target)) {
-        let doomTimer = mob.persistentData.doomTimer || 0
+        const doomTimer = mob.persistentData.doomTimer || 0
         if (doomTimer > MONSTER_DOOM_TIME) {
             mob.discard()
             return false
@@ -121,21 +120,21 @@ const hasValidTarget = mob => {
 }
 
 /** @param {Internal.Mob} mob */
-const addMonsterEffects = mob => {
+const addMonsterEffects = (mob) => {
     mob.potionEffects.add('spectral_seas:hydrodynamic', -1, 4, false, true)
     mob.potionEffects.add('minecraft:glowing', -1, 0, false, false)
 }
 
 /** @param {Internal.Mob} mob */
-const removeMonsterEffects = mob => {
+const removeMonsterEffects = (mob) => {
     mob.removeEffect('spectral_seas:hydrodynamic')
     mob.removeEffect('minecraft:glowing')
 }
 
 /** @param {Internal.Mob} mob */
-const restoreTarget = mob => {
-    let targetId = mob.persistentData.getUUID('target')
-    let target = targetId != 0 ? mob.level.getEntity(targetId) : null
+const restoreTarget = (mob) => {
+    const targetId = mob.persistentData.getUUID('target')
+    const target = targetId !== 0 ? mob.level.getEntity(targetId) : null
     if (!target || target.removed) {
         mob.persistentData.remove('target')
         return null
@@ -148,7 +147,7 @@ const restoreTarget = mob => {
  * @param {Internal.Entity} target
  * @returns {number}
  */
-function getAttackReach (mob, target) {
+function getAttackReach(mob, target) {
     return mob.getBbWidth() + target.getBbWidth()
 }
 
@@ -159,7 +158,6 @@ function getAttackReach (mob, target) {
 const attackTarget = (mob, target) => {
     mob.swing($InteractionHand.MAIN_HAND)
     mob.doHurtTarget(target)
-    console.log(target.getSoundSource())
     mob.level.playSound(
         null,
         target.x,
@@ -173,16 +171,16 @@ const attackTarget = (mob, target) => {
 }
 
 /** @param {Internal.Mob} mob */
-const attackBoatsTick = mob => {
+const attackBoatsTick = (mob) => {
     let attackCooldown = mob.persistentData.attackCooldown || 0
-    let target = restoreTarget(mob)
+    const target = restoreTarget(mob)
     if (target) {
-        let distance = mob.distanceToEntity(target)
+        const distance = mob.distanceToEntity(target)
         if (getAttackReach(mob, target) >= distance && attackCooldown <= 0) {
             attackTarget(mob, target)
             attackCooldown = MONSTER_ATTACK_COOLDOWN
         } else {
-            if (mob.age % 10 == 0) mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
+            if (mob.age % 10 === 0) mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
             mob.navigation.recomputePath()
         }
     }
@@ -190,8 +188,8 @@ const attackBoatsTick = mob => {
     mob.persistentData.attackCooldown = attackCooldown
 }
 
-MONSTER_TYPES.forEach(type => {
-    EntityJSEvents.addGoalSelectors(type, event => {
+MONSTER_TYPES.forEach((type) => {
+    EntityJSEvents.addGoalSelectors(type, (event) => {
         /**
          * @param {string}   name
          * @param {number}   priority
@@ -221,10 +219,9 @@ MONSTER_TYPES.forEach(type => {
  * @param {Internal.ServerPlayer} player
  * @returns {boolean}
  */
-function hasNemesis (player) {
+function hasNemesis(player) {
     if (player.persistentData.Nemesis) {
-        let nemesis = player.persistentData.getUUID('Nemesis')
-        console.log(String(nemesis))
+        const nemesis = player.persistentData.getUUID('Nemesis')
         if (nemesis && player.level.getEntity(nemesis)) return true
         player.persistentData.remove('Nemesis')
     }
@@ -232,32 +229,33 @@ function hasNemesis (player) {
 }
 
 /**
- * @param {Internal.ScheduledEvents$ScheduledEvent} task
+ * @param {Internal.ScheduledEvents$ScheduledEvent} _task
  * @param {Internal.ServerLevel} level
  */
-const monsterSummoner = (task, level) => {
+const monsterSummoner = (_task, level) => {
     level.getPlayers().forEach(
-        /** @param {Internal.ServerPlayer} player */ player => {
+        /** @param {Internal.ServerPlayer} player */ (player) => {
             if (
                 hasNemesis(player) ||
                 !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
                 level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty <=
-                    MONSTER_DIFFlCULTY_THRESHOLD
-            )
+                    MONSTER_DIFFICULTY_THRESHOLD
+            ) {
                 return
+            }
 
-            let monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
+            const monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
             /** @type {Internal.LivingEntity} */
-            let monster = monsterType.create(level)
+            const monster = monsterType.create(level)
             monster.tags.add('sea_monster')
             monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
             monster.size = 0
             $ScaleTypes.BASE.getScaleData(monster).setScale(2)
 
-            let veh = player.getVehicle()
+            const veh = player.getVehicle()
             if (!veh) return
-            let direction = veh.getForward()
-            let position = veh.getPosition(1).subtract(direction.scale(32))
+            const direction = veh.getForward()
+            const position = veh.getPosition(1).subtract(direction.scale(32))
             monster.moveTo(position)
 
             level.scoreboard.addPlayerToTeam(
@@ -271,8 +269,7 @@ const monsterSummoner = (task, level) => {
                     'A beast rises from the depths to devour your vessel!',
                     true
                 )
-                console.log(player.getCamera().blockPosition())
-                let camera = player.getCamera()
+                const camera = player.getCamera()
                 level.playSound(
                     null,
                     camera.x,
@@ -291,13 +288,13 @@ const monsterSummoner = (task, level) => {
 }
 
 // WHY DOES minecraft:overworld FIRE loaded() TWICE?
-let loaded = 0
-LevelEvents.loaded('minecraft:overworld', event => {
+let seaMonsterLoaded = 0
+LevelEvents.loaded('minecraft:overworld', (event) => {
     if (event.level.isClientSide()) return
-    if (loaded > 0) return
+    if (seaMonsterLoaded > 0) return
     console.log('Scheduling annoying sea monsters…')
-    event.server.scheduleRepeatingInTicks(MONSTER_CHECK_TICKS, task => {
+    event.server.scheduleRepeatingInTicks(MONSTER_CHECK_TICKS, (task) => {
         monsterSummoner(task, event.level)
     })
-    loaded++
+    seaMonsterLoaded++
 })
