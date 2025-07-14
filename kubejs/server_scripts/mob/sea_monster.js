@@ -234,7 +234,7 @@ function hasNemesis(player) {
  * @returns {number}
  */
 function calcSeaMonsterChance(player) {
-    return SEA_MONSTER_BASE_CHANCE * modifiedDifficulty(player.level, player.blockPosition())
+    return SEA_MONSTER_BASE_CHANCE * modifiedDifficulty(player)
 }
 
 function shouldSpawnSeaMonster(player) {

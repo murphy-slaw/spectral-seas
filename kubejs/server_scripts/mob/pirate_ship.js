@@ -507,14 +507,11 @@ Pirate ship spawning control
  * @param {Internal.ServerPlayer} player
  * @returns {number}
  */
-const modifiedDifficulty = (player) =>
-    $Mth.clamp(
-        Math.sqrt(
-            player.level.getCurrentDifficultyAt(player.blockPosition()).getEffectiveDifficulty() - 1
-        ),
-        1,
-        2
-    )
+
+const localDifficultyFor = (player) =>
+    player.level.getCurrentDifficultyAt(player.blockPosition()).getEffectiveDifficulty()
+
+const modifiedDifficulty = (player) => $Mth.clamp(Math.sqrt(localDifficultyFor(player)), 1, 2)
 
 /**
  * Is the level currently at sunrise or sunset?
@@ -558,8 +555,7 @@ const shouldSummonPirates = (player) => {
         roll < chance &&
         !hasNemesis(player) &&
         isBlockPosInBiomeTag(player.level, player.blockPosition().below(2), IS_DEEP_OCEAN) &&
-        player.level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty >=
-            PIRATE_DIFFICULTY_THRESHOLD
+        localDifficultyFor(player) >= PIRATE_DIFFICULTY_THRESHOLD
     )
 }
 
@@ -581,9 +577,7 @@ const buildPirateShip = (shipType, level, player) => {
     nbt.Attributes.maxSpeed = 60 * modifiedDifficulty(player)
     console.log(`Speed: ${nbt.Attributes.maxSpeed}`)
     pirateShip.setNbt(nbt)
-    const cannonballCount =
-        BASE_CANNONBALL_COUNT *
-        level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty
+    const cannonballCount = BASE_CANNONBALL_COUNT * localDifficultyFor(player)
     console.log(`Cannonball count: ${cannonballCount}`)
     pirateShip.setItem(0, Item.of('smallships:cannon_ball', cannonballCount))
     const pirateCount = Math.floor(pirateShip.maxPassengers / 2)
@@ -615,7 +609,7 @@ const positionPirateShip = (target, pirateShip) => {
 const pirateSummoner = (_task, level) => {
     level.getPlayers().forEach(
         /** @param {Internal.ServerPlayer} player */ (player) => {
-            if (!shouldSummonPirates(player, level)) return
+            if (!shouldSummonPirates(player)) return
 
             /** @type {Internal.EntityType} */
             const shipType = $ModEntityTypes.BRIGG
