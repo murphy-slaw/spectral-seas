@@ -3,7 +3,7 @@ EntityJSEvents.modifyEntity((event) => {
     event.modify('minecraft:turtle', (builder) => {
         builder.tick((entity) => {
             let scuteTime = entity.persistentData.getInt('ScuteTime')
-            if (scuteTime == 0) {
+            if (scuteTime === 0) {
                 scuteTime = scuteDelay + Utils.random.nextInt(scuteDelay)
             } else {
                 scuteTime--

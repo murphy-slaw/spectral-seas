@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const Tools = (function () {
     const DIAMOND = [
         'minecraft:diamond_pickaxe',

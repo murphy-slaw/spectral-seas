@@ -42,7 +42,6 @@ PlayerEvents.tick((event) => {
                     player.persistentData.putString('shipID', vehicleUuid)
                 }
                 player.addTag('on_ship')
-                // eslint-disable-next-line prefer-const
                 let pos = player.persistentData.getCompound('MarkerPosition')
                 console.log(pos)
                 if (!pos.empty) {
@@ -63,13 +62,13 @@ PlayerEvents.tick((event) => {
     } else {
         if (player.tags.contains('on_ship')) {
             player.removeTag('on_ship')
-            const pos = {
+            let pos = {
                 x: Math.floor(player.x),
                 y: Math.floor(player.y),
                 z: Math.floor(player.z),
             }
             player.persistentData.put('MarkerPosition', pos)
-            const ship = level.getEntity(UUID.fromString(shipID))
+            let ship = level.getEntity(UUID.fromString(shipID))
             addShipMarker(ship, player, pos)
         }
     }
@@ -80,7 +79,7 @@ EntityEvents.death('minecraft:player', (event) => {
     const shipID = player.persistentData.getString('shipID')
     if (shipID) {
         console.info(`Ship ID: ${shipID}`)
-        const ship = level.getEntity(UUID.fromString(shipID))
+        let ship = level.getEntity(UUID.fromString(shipID))
         if (ship) {
             console.info(`Ship: ${ship}`)
             server

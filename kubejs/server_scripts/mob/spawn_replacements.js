@@ -1,5 +1,4 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
-const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
 const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
 
 const MONSTER_MOBCAP = 70
@@ -82,7 +81,7 @@ EntityEvents.spawned((event) => {
 
     if (entity.type === 'hybrid-aquatic:karkinos') {
         console.infof('Summoned Karkinos: %s', entity.uuid)
-        $ScaleTypes.BASE.getScaleData(entity).setScale(3)
+        $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
 
     if (entity.type === 'minecraft:drowned') {

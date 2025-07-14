@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const ArmorSets = (function () {
     const DIAMOND = [
         'minecraft:diamond_helmet',

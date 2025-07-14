@@ -1,6 +1,7 @@
 // Make MobEffects for Pehkui resizing. Requires Pehkui, obviously.
-const $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
-var $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
+//const $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
+const $ScaleTypes = Java.loadClass('virtuoel.pehkui.api.ScaleTypes')
+const $ScaleTypes$BASE = $ScaleTypes.BASE
 
 StartupEvents.registry('mob_effect', (event) => {
     event
@@ -47,7 +48,7 @@ global.modifySize = function (entity, effectId, sizeFunc) {
     let effectInstance = entity.activeEffectsMap.get(
         Utils.getRegistry('mob_effect').getValue(effectId)
     )
-    let scaleData = $ScaleTypes.BASE.getScaleData(entity)
+    let scaleData = $ScaleTypes$BASE.getScaleData(entity)
     // We use targetScale here so that the size change is spread out across scaleTickDelay
     if (effectInstance.endsWithin(1)) {
         // If the effect instance is about to expire, reset the entity's scale.

@@ -1,6 +1,6 @@
-var $WorldAtlasData = Java.loadClass('folk.sisby.antique_atlas.WorldAtlasData')
-var $MarkerTextures = Java.loadClass('folk.sisby.antique_atlas.reloader.MarkerTextures')
-var $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
+const $WorldAtlasData = Java.loadClass('folk.sisby.antique_atlas.WorldAtlasData')
+const $MarkerTextures = Java.loadClass('folk.sisby.antique_atlas.reloader.MarkerTextures')
+const $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
 
 /**
  * @param {Internal.Level} level

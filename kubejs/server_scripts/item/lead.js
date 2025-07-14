@@ -3,7 +3,7 @@ const $HitchableHorse = Java.loadClass('io.github.mortuusars.horseman.horse.Hitc
 const $LeashFenceKnotEntity = Java.loadClass(
     'net.minecraft.world.entity.decoration.LeashFenceKnotEntity'
 )
-const $Mob = Java.loadClass('net.minecraft.world.entity.Mob')
+//const $Mob = Java.loadClass('net.minecraft.world.entity.Mob')
 const $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
 
 const LEAD_LENGTH = 7

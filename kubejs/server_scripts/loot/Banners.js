@@ -112,6 +112,7 @@ const BANNERS = {
     ),
 }
 
+// eslint-disable-next-line no-unused-vars
 const randomBanner = () => {
     return Loot.randomOf(Object.values(BANNERS))
 }

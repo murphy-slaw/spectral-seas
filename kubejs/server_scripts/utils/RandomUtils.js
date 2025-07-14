@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const RandomUtils = (function () {
     /**
      * @param {Map<string, number>} weightMap

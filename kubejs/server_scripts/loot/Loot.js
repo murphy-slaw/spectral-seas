@@ -1,5 +1,5 @@
 const $WeightedRandomList = Java.loadClass('net.minecraft.util.random.WeightedRandomList')
-const $Potions = Java.loadClass('net.minecraft.world.item.alchemy.Potions')
+//const $Potions = Java.loadClass('net.minecraft.world.item.alchemy.Potions')
 const $RandomSource = Java.loadClass('net.minecraft.util.RandomSource')
 const RANDOM_SOURCE = $RandomSource.create()
 
@@ -9,10 +9,10 @@ const Loot = (function () {
      * @param {string[]} ids
      * @returns {Optional<EnchantmentInstance>}
      */
-    function weightedEnchant (ids) {
+    function weightedEnchant(ids) {
         /** @type {Internal.RegistryInfo<Internal.Enchantment} */
         const reg = Utils.getRegistry('minecraft:enchantment')
-        const instances = ids.map(id => new EnchantmentInstance(reg.getValue(id), 1))
+        const instances = ids.map((id) => new EnchantmentInstance(reg.getValue(id), 1))
         /** @type {Internal.WeightedRandomList<EnchantmentInstance>} */
         const weightedList = $WeightedRandomList.create(instances)
         const instance = weightedList.getRandom(RANDOM_SOURCE)
@@ -25,10 +25,10 @@ const Loot = (function () {
      * @param {string[]} pool
      * @returns {Internal.Enchantment[]}
      */
-    function enchantsFor (item, pool) {
+    function enchantsFor(item, pool) {
         /** @type {Internal.RegistryInfo<Internal.Enchantment>} */
         const reg = Utils.getRegistry('minecraft:enchantment')
-        return pool.filter(v => reg.getValue(v).canEnchant(item))
+        return pool.filter((v) => reg.getValue(v).canEnchant(item))
     }
 
     /**
@@ -37,7 +37,7 @@ const Loot = (function () {
      * @param {string[]} pool
      * @returns {Internal.Enchantment[]}
      */
-    function randomEnchantFor (item, pool) {
+    function randomEnchantFor(item, pool) {
         const ids = enchantsFor(item, pool)
         return weightedEnchant(ids)
     }
@@ -48,7 +48,7 @@ const Loot = (function () {
      * @param {string[]} pool
      * @returns {Internal.LootEntry}
      */
-    function enchantedFrom (id, pool) {
+    function enchantedFrom(id, pool) {
         const enchantment = randomEnchantFor(Item.of(id), pool)
         if (enchantment) return LootEntry.of(id).enchantRandomly(enchantment)
         console.log(`No valid enchant found for ${id} in ${pool}`)
@@ -60,7 +60,7 @@ const Loot = (function () {
      * @param {any[]} list
      * @returns {any}
      */
-    function randomOf (list) {
+    function randomOf(list) {
         return Utils.randomOf(Utils.random, list)
     }
 
@@ -69,16 +69,16 @@ const Loot = (function () {
      * @param {ResourceLocation[]} ids
      * @returns {Internal.LootEntry}
      */
-    function randomEntryOf (ids) {
+    function randomEntryOf(ids) {
         return LootEntry.of(randomOf(ids))
     }
 
-    function randomSetOf (ids, chance, damage) {
+    function randomSetOf(ids, chance, damage) {
         let entries = []
-        ids.forEach(element => {
+        ids.forEach((element) => {
             entries.push(
                 LootEntry.of(element)
-                    .when(c => c.randomChance(chance))
+                    .when((c) => c.randomChance(chance))
                     .damage(damage)
             )
         })
@@ -89,7 +89,7 @@ const Loot = (function () {
      * @param {Internal.Potion} type
      * @returns {Internal.LootEntry}
      */
-    function potionOf (type) {
+    function potionOf(type) {
         return LootEntry.of('minecraft:potion').addPotion(type)
     }
 
@@ -98,7 +98,7 @@ const Loot = (function () {
      * @param {Internal.Potion[]} types
      * @returns {Internal.LootEntry}
      */
-    function randomPotionOf (types) {
+    function randomPotionOf(types) {
         return potionOf(randomOf(types))
     }
 
@@ -108,7 +108,7 @@ const Loot = (function () {
      * @param {string[]} pool
      * @returns {Internal.LootEntry}
      */
-    function randomEnchantedFrom (ids, pool) {
+    function randomEnchantedFrom(ids, pool) {
         return enchantedFrom(randomOf(ids), pool)
     }
 
@@ -117,9 +117,9 @@ const Loot = (function () {
      *  @param {Internal.LootContextJS} ctx
      *  @param {Function} poolFunction
      */
-    function exclusiveLootPool (ctx, poolFunction) {
+    function exclusiveLootPool(ctx, poolFunction) {
         if (!ctx.hasLoot(ItemFilter.ALWAYS_TRUE)) {
-            poolFunction(ctx).forEach(loot => ctx.addLoot(loot))
+            poolFunction(ctx).forEach((loot) => ctx.addLoot(loot))
         }
     }
 
@@ -129,7 +129,7 @@ const Loot = (function () {
      * @param {ResourceLocation} tableId
      * @param {Function[]} poolFunctions
      */
-    function smartReplacePools (event, tableId, poolFunctions) {
+    function smartReplacePools(event, tableId, poolFunctions) {
         event.addLootTableModifier(tableId).removeLoot(ItemFilter.ALWAYS_TRUE)
 
         while (poolFunctions.length > 0) {
@@ -138,11 +138,11 @@ const Loot = (function () {
             event
                 .addLootTableModifier(tableId)
                 .randomChance(chance)
-                .apply(ctx => exclusiveLootPool(ctx, pool))
+                .apply((ctx) => exclusiveLootPool(ctx, pool))
         }
     }
 
-    function chowderOf (effect) {
+    function chowderOf(effect) {
         /** @type {Internal.RegistryInfo<Internal.Potion>} */
         const reg = Utils.getRegistry('potion')
         const potion = reg.getValue(effect)
@@ -151,7 +151,7 @@ const Loot = (function () {
 
         if (!potion.effects.empty) {
             /** @param {Internal.MobEffectInstance}  effect */
-            potion.effects.forEach(effect => {
+            potion.effects.forEach((effect) => {
                 tag = effect.save(tag)
             })
         }
@@ -185,8 +185,8 @@ const Loot = (function () {
         'minecraft:poison',
         'minecraft:blindness',
     ]
-    function allChowders (event) {
-        return CHOWDER_EFFECTS.map(effect => Loot.chowderOf(effect))
+    function allChowders(event) {
+        return CHOWDER_EFFECTS.map((effect) => Loot.chowderOf(effect))
     }
 
     return {

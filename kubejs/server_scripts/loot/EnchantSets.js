@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const EnchantSets = (function () {
     const TOPAZ = [
         'extra-damage-enchantments:butcher',

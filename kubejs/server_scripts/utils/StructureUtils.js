@@ -1,8 +1,7 @@
-const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
-const $StructureStart = Java.loadClass(
-    'net.minecraft.world.level.levelgen.structure.StructureStart'
-)
+const $ResourceKey = Java.loadClass('net.minecraft.resources.ResourceKey')
+//const $StructureStart = Java.loadClass( 'net.minecraft.world.level.levelgen.structure.StructureStart')
 
+// eslint-disable-next-line no-unused-vars
 const StructureUtils = (function () {
     /**
      * @param {BlockPos} blockPos
