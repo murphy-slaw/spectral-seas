@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"description": [
+			{
+				"text": "Make Spectrum's Deeper Down use its own copies of overworld noise and DFs"
+			}
+		]
+	}
+}
