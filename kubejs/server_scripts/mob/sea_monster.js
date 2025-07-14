@@ -14,10 +14,11 @@ const $BoatClass = Java.loadClass('net.minecraft.world.entity.vehicle.Boat')
 const $InteractionHand = Java.loadClass('net.minecraft.world.InteractionHand')
 const $TagKey = Java.loadClass('net.minecraft.tags.TagKey')
 
-const MONSTER_CHECK_TICKS = 300
+const MONSTER_CHECK_TICKS = 600
 const MONSTER_DOOM_TIME = 300
 const MONSTER_ATTACK_COOLDOWN = 80
 const MONSTER_DIFFICULTY_THRESHOLD = 2.0
+const SEA_MONSTER_BASE_CHANCE = 0.1
 
 /** @type {Internal.TagKey<Internal.Biome>} */
 const IS_DEEP_OCEAN = $TagKey.create(
@@ -72,7 +73,7 @@ function getTargetBoat(mob) {
     // @ts-ignore
     mob.level.getEntitiesOfClass($BoatClass, mobAABB).forEach((entity) => {
         if (entity) {
-            const entityDistance = entity.distanceToEntity(mob)
+            let entityDistance = entity.distanceToEntity(mob)
             if (
                 entityDistance <= range &&
                 (target ? entityDistance < target.distanceToEntity(mob) : true) &&
@@ -108,7 +109,7 @@ const hasValidTarget = (mob) => {
     if (targetId) target = mob.level.getEntity(targetId)
     if (!target) target = getTargetBoat(mob)
     if (!target || !isValidTarget(mob, target)) {
-        const doomTimer = mob.persistentData.doomTimer || 0
+        let doomTimer = mob.persistentData.doomTimer || 0
         if (doomTimer > MONSTER_DOOM_TIME) {
             mob.discard()
             return false
@@ -229,20 +230,34 @@ function hasNemesis(player) {
 }
 
 /**
+ * @param {Internal.ServerPlayer} player
+ * @returns {number}
+ */
+function calcSeaMonsterChance(player) {
+    return SEA_MONSTER_BASE_CHANCE * modifiedDifficulty(player.level, player.blockPosition())
+}
+
+function shouldSpawnSeaMonster(player) {
+    const chance = calcSeaMonsterChance(player)
+    const roll = Utils.random.nextFloat(1.0)
+    console.log(`Current sea monster summoning chance: ${chance}: ${roll}`)
+    return (
+        roll < chance &&
+        !hasNemesis(player) &&
+        isBlockPosInBiomeTag(player.level, player.blockPosition().below(2), IS_DEEP_OCEAN) &&
+        player.level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty >=
+            MONSTER_DIFFICULTY_THRESHOLD
+    )
+}
+
+/**
  * @param {Internal.ScheduledEvents$ScheduledEvent} _task
  * @param {Internal.ServerLevel} level
  */
 const monsterSummoner = (_task, level) => {
     level.getPlayers().forEach(
         /** @param {Internal.ServerPlayer} player */ (player) => {
-            if (
-                hasNemesis(player) ||
-                !isBlockPosInBiomeTag(level, player.blockPosition().below(2), IS_DEEP_OCEAN) ||
-                level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty <=
-                    MONSTER_DIFFICULTY_THRESHOLD
-            ) {
-                return
-            }
+            if (!shouldSpawnSeaMonster(player)) return
 
             const monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
             /** @type {Internal.LivingEntity} */
@@ -250,7 +265,7 @@ const monsterSummoner = (_task, level) => {
             monster.tags.add('sea_monster')
             monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
             monster.size = 0
-            $ScaleTypes.BASE.getScaleData(monster).setScale(2)
+            $ScaleTypes$BASE.getScaleData(monster).setScale(2)
 
             const veh = player.getVehicle()
             if (!veh) return

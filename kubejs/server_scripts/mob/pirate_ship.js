@@ -12,10 +12,11 @@ const DEBUG_STATE_MACHINE = false
 const SHIP_FRICTION = 0.007
 const ATTACK_RANGE = 4500 // ~67 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
-const PIRATE_CHECK_TICKS = 1200
-const BASE_PIRATE_CHANCE = 0.05
+const PIRATE_CHECK_TICKS = 600
+const BASE_PIRATE_CHANCE = 0.075
 const ATTACK_COOLDOWN = 100 // 5 seconds
 const MAX_VOLLEYS = 4
+const BASE_CANNONBALL_COUNT = 16
 
 const STATE = {
     PATHING: 0,
@@ -452,7 +453,6 @@ const makeShipTick = () => {
 
                 // If we used any cannonballs, count it as a volley
                 if (cannonballCount > remainingCannonballs) {
-                    console.log('Firing deck guns, sir')
                     volleyCount++
                     if (volleyCount >= MAX_VOLLEYS) {
                         attackCooldown = ATTACK_COOLDOWN
@@ -504,12 +504,17 @@ Pirate ship spawning control
 
 /**
  * Modifier for pirate ship summoning based on local difficulty
- * @param {Internal.ServerLevel} level
- * @param {BlockPos} blockPos
+ * @param {Internal.ServerPlayer} player
  * @returns {number}
  */
-const modifiedDifficulty = (level, blockPos) =>
-    $Mth.clamp(Math.sqrt(level.getCurrentDifficultyAt(blockPos).getEffectiveDifficulty() - 1), 1, 2)
+const modifiedDifficulty = (player) =>
+    $Mth.clamp(
+        Math.sqrt(
+            player.level.getCurrentDifficultyAt(player.blockPosition()).getEffectiveDifficulty() - 1
+        ),
+        1,
+        2
+    )
 
 /**
  * Is the level currently at sunrise or sunset?
@@ -529,7 +534,7 @@ const isSunRiseSet = (level) => {
 const calcPirateChance = (player) => {
     const moonPhaseModifier = player.level.getMoonPhase() === 4 && player.level.isNight() ? 2 : 1
     const gloamingModifier = isSunRiseSet(player.level) ? 2 : 1
-    const difficultyModifier = modifiedDifficulty(player.level, player.blockPosition())
+    const difficultyModifier = modifiedDifficulty(player)
     const weatherModifier = player.level.isRaining() ? 2 : 1
     return (
         BASE_PIRATE_CHANCE *
@@ -547,13 +552,14 @@ const calcPirateChance = (player) => {
  */
 const shouldSummonPirates = (player) => {
     const chance = calcPirateChance(player)
-    console.log(`Current pirate summoning chance: ${chance}`)
+    const roll = Utils.random.nextFloat(1.0)
+    console.log(`Current pirate summoning chance: ${chance}: ${roll}`)
     return (
+        roll < chance &&
         !hasNemesis(player) &&
         isBlockPosInBiomeTag(player.level, player.blockPosition().below(2), IS_DEEP_OCEAN) &&
         player.level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty >=
-            PIRATE_DIFFICULTY_THRESHOLD &&
-        Utils.random.nextFloat() > chance
+            PIRATE_DIFFICULTY_THRESHOLD
     )
 }
 
@@ -572,9 +578,14 @@ const buildPirateShip = (shipType, level, player) => {
     pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
     pirateShip.setCannonCount(pirateShip.getMaxCannonPerSide() * 2)
     const nbt = pirateShip.nbt
-    nbt.Attributes.maxSpeed = 60
+    nbt.Attributes.maxSpeed = 60 * modifiedDifficulty(player)
+    console.log(`Speed: ${nbt.Attributes.maxSpeed}`)
     pirateShip.setNbt(nbt)
-    pirateShip.setItem(0, Item.of('smallships:cannon_ball', 8))
+    const cannonballCount =
+        BASE_CANNONBALL_COUNT *
+        level.getCurrentDifficultyAt(player.blockPosition()).effectiveDifficulty
+    console.log(`Cannonball count: ${cannonballCount}`)
+    pirateShip.setItem(0, Item.of('smallships:cannon_ball', cannonballCount))
     const pirateCount = Math.floor(pirateShip.maxPassengers / 2)
     for (let i = 0; i < pirateCount; i++) {
         let pirate = $EntityType.PILLAGER.create(level)
