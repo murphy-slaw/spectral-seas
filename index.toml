@@ -1087,6 +1087,46 @@ hash = "73d91cca51e6e997b0dd33dcb9a8c2541326034c156ab8a7a2b2c87f8038b67b"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/density_function/deeper_down/continents.json"
+hash = "423300dde757cb1e289e543e5e8d98ee39b64aa478ef2f8b154d83830ce62821"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/density_function/deeper_down/erosion.json"
+hash = "bef3ae4f9f032a57c9e2adc64f65954b602423f16a96834c763dcda275011e1e"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/density_function/deeper_down/ridges.json"
+hash = "754abc2d3e9ce412b7cdef86e8025a7a15794753a94ef92d7752cb04d83468d0"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise/continentalness.json"
+hash = "7a6cf57a552a237c3f02364db96c0f5ca858ce067e126fc2e23d607ea212c031"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise/erosion.json"
+hash = "0e39e18f0a18fbc796a4db4fa66313f07851e5362983c3a46b1749aaa1c7d537"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise/ridge.json"
+hash = "7e0bef11d327e3b60a16aca59661af23ab6442974a2a06cf8d19086d11085176"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise/temperature.json"
+hash = "9d98e13680ce8a1bc9acf6ca30bda83b761b5109d37a0b6ed61b82f93dc5a61b"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise/vegetation.json"
+hash = "6d7823ec5b23eb988ce3a95fbb64e033a3cf886f671883d93e164fcc8184784c"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/data/spectrum/worldgen/noise_settings/deeper_down_noise.json"
+hash = "04be466b96444ce72f8d8a5860647819f2543fb89c202c9e96883a489fa33edb"
+
+[[files]]
+file = "config/paxi/datapacks/spectrum_noise_fix/pack.mcmeta"
+hash = "568788c6e8852310aa1e2f858485abb64322f95ec8c7d8479eea3375f63938e5"
+
+[[files]]
 file = "config/paxi/datapacks/strayed-fates-forsaken.pw.toml"
 hash = "26e2eafa800b2bf140446695a5e80097b7fd7e09714d39666a731fcae15311a0"
 metafile = true
@@ -5382,11 +5422,11 @@ hash = "66c2c79b4d51823e1b4a64fcc1514638db73fcf157122d42328d9356714e64d8"
 
 [[files]]
 file = "kubejs/server_scripts/mob/pirate_ship.js"
-hash = "df1f1bb2f7c55f7b3edfe87f70b339373455d47d9583f72579ac5e52838b0c87"
+hash = "5333e186c9a88cacdb183ffd9641077745d6fb5de187f7d240bbaa78d57a6aa8"
 
 [[files]]
 file = "kubejs/server_scripts/mob/sea_monster.js"
-hash = "c3fdad2466fff2f0cb12a22e074ebfff1691af9db108c6df5902388348bd65fa"
+hash = "51619233392710f85d730985eae973edee314f27e6dbd0f8331e1a7f339c8bc3"
 
 [[files]]
 file = "kubejs/server_scripts/mob/spawn_replacements.js"
