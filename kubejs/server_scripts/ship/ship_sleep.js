@@ -11,7 +11,7 @@ function getSleepProblem(event, bedPos) {
     } else if (event.level.isDay()) {
         return $BedSleepingProblem.NOT_POSSIBLE_NOW
     } else {
-        const vec3 = Vec3d.atBottomCenterOf(bedPos)
+        let vec3 = Vec3d.atBottomCenterOf(bedPos)
         if (
             !event.level
                 .getEntitiesOfClass(
