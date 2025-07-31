@@ -1,6 +1,7 @@
 name = "Particle Rain"
 filename = "particle-rain-3.0.6-1.20.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/nrikgvxm/versions/lwOTe5KX/particle-rain-3.0.6-1.20.jar"

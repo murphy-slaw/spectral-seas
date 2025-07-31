@@ -1,13 +1,13 @@
 name = "Formations (Structure Library)"
-filename = "formations-1.0.3-fabric-mc1.20.2.jar"
+filename = "formations-1.0.4-fabric-mc1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/F4xBttNI/formations-1.0.3-fabric-mc1.20.2.jar"
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/FbtyN8OC/formations-1.0.4-fabric-mc1.20.2.jar"
 hash-format = "sha512"
-hash = "9cb0939431006be4e24272f878ed73eff131d756321cfbe059ac8064621baf2e5a8eb292dcfdaddaba91726dbe96b4face97c8daca25c83da0756de7c827cf1b"
+hash = "1afc89fff07164aaa9702d78e32113c72dbe0a034887ce9f75834303594b9a75a94b19dafd96d95cb6f0726788b35a270f6a3166c75f41a20d7d78dc4e40249b"
 
 [update]
 [update.modrinth]
 mod-id = "tPe4xnPd"
-version = "F4xBttNI"
+version = "FbtyN8OC"

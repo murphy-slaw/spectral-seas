@@ -1,6 +1,7 @@
 name = "Mob Variants"
 filename = "frycmobvariants-4.5.0+1.20.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/jnEFf2VO/versions/Er8jTXDF/frycmobvariants-4.5.0%2B1.20.jar"

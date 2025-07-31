@@ -1,13 +1,13 @@
 name = "Formations Overworld"
-filename = "formationsoverworld-1.0.4.jar"
+filename = "formationsoverworld-1.0.5-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KX1XC0Oo/versions/APtZazrk/formationsoverworld-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/KX1XC0Oo/versions/oojsZqpL/formationsoverworld-1.0.5-mc1.20.jar"
 hash-format = "sha512"
-hash = "4ef9a05e37f1277c801541d0750168bce5dcf8f56a306ffd31aee05bcb1eb11d6f2e4538937c0150128aadbf9bff3538062d572e40df7dbb8b3ded9e3a20aabf"
+hash = "4fabff31bd82835d9950b75d7678d1feeb169859ddb57fe1ed70512bf4b120c13fd4ebdfe0f718dbca54622e2e9fc3a8dce2c4c3ccf657c6df11f1255ea4bf41"
 
 [update]
 [update.modrinth]
 mod-id = "KX1XC0Oo"
-version = "APtZazrk"
+version = "oojsZqpL"

@@ -1,13 +1,13 @@
 name = "Ecologics"
-filename = "ecologics-fabric-1.20.1-2.2.0.jar"
+filename = "ecologics-fabric-1.20.1-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ed026aae01b306089f0a76ec462bb8558838d0db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NCKpPR0Z/versions/1CHAex8J/ecologics-fabric-1.20.1-2.2.2.jar"
+hash-format = "sha512"
+hash = "c964935d01e3e8692a09160dc763e0a9532581f5f7fce6e6fa675d46c99026ada5948e5196b406762475638fcb64b9c97ecdd6617668edb3b58feca4a0560907"
 
 [update]
-[update.curseforge]
-file-id = 4857271
-project-id = 570463
+[update.modrinth]
+mod-id = "NCKpPR0Z"
+version = "1CHAex8J"

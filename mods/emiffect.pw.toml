@@ -1,13 +1,13 @@
 name = "EMIffect"
-filename = "emiffect-fabric-2.1.2+mc1.20.1.jar"
+filename = "emiffect-fabric-2.1.5+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/705gWllI/versions/pdiWF9H8/emiffect-fabric-2.1.2%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/705gWllI/versions/veoEeVpk/emiffect-fabric-2.1.5%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "6d46c691a43fdf204048e1ada933bc052b10ccbca090377efe2b2ec38a48e6ca0a0a4b79a9a9ec8b254a0a52496430f25f84c9e2998bae4d08dc956d368c0abc"
+hash = "73fa39bd81d4bad0f3663e420b6235139fb3c7910a46ecb7ab6009341cafa0016af692ffbf7e900aa76179c519745cbcb6722c967abc317d750825a0bcb8ff08"
 
 [update]
 [update.modrinth]
 mod-id = "705gWllI"
-version = "pdiWF9H8"
+version = "veoEeVpk"
