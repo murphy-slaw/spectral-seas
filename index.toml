@@ -8870,6 +8870,11 @@ file = "resourcepacks/antique_atlas_respacks/pack.mcmeta"
 hash = "f727bf58c1fb1b10405083c5a636775e01646cf5986a46625cec532c06242db2"
 
 [[files]]
+file = "resourcepacks/better-spectrum-gemstone-armor.pw.toml"
+hash = "feeb639b52bb880b2e5a7f0611a81634640b906fd748f2e844951015b8c2b0c2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-squid.pw.toml"
 hash = "2a3ca49c4e811f3a3a391833d2ac3ebe2316d48ba41fb1b1e9a9a00be439e4fa"
 metafile = true
