@@ -2,7 +2,7 @@ const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
 
 const MONSTER_MOBCAP = 70
-const PILLAGER_MOBCAP = 8
+const PILLAGER_MOBCAP = 4
 
 const pillagerHats = new Map([
     ['simplehats:bicorne', 2],
@@ -18,9 +18,9 @@ const vindicatorWeapons = new Map([
 ])
 
 const pillagerWeapons = new Map([
-    ['musketmod:pistol', 8],
+    ['musketmod:pistol', 28],
     ['musketmod:blunderbuss', 1],
-    ['musketmod:musket', 1],
+    ['musketmod:musket', 3],
 ])
 
 EntityEvents.spawned((event) => {
@@ -32,6 +32,7 @@ EntityEvents.spawned((event) => {
 
     // Fake mobcap: leave headroom for Pirate summons
     if (
+        entity.type.is($TagKey('skeletons')) &&
         entity.type !== 'minecraft:pillager' &&
         entity.monster &&
         level
