@@ -1,9 +1,0 @@
-{
-    "values": [
-        "#minecraft:has_structure/mineshaft",
-        {
-            "id": "#minecraft:is_ocean",
-            "excluded": true
-        }
-    ]
-}
