@@ -1,0 +1,12 @@
+{
+    "values": [
+        "#minecraft:has_structure/mineshaft",
+        "galosphere:crystal_canyons",
+        "galosphere:lichen_caves",
+        "minecraft:deep_dark",
+        {
+            "id": "#minecraft:is_ocean",
+            "excluded": true
+        }
+    ]
+}

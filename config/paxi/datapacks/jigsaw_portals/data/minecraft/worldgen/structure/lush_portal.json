@@ -4,7 +4,7 @@
   "biomes": "#minecraft:has_structure/lush_portal",
   "step": "underground_structures",
   "spawn_overrides": {},
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "beard_box",
   "start_pool": "minecraft:lush_portals",
   "size": 1,
   "start_height": {
