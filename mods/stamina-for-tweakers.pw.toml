@@ -1,13 +1,13 @@
 name = "Stamina For Tweakers"
-filename = "staminafortweakers-fabric-1.20.1-1.7.0.jar"
+filename = "staminafortweakers-fabric-1.20.1-1.8.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AejtfAlC/versions/TgTQEAF3/staminafortweakers-fabric-1.20.1-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/AejtfAlC/versions/JyZrPrLz/staminafortweakers-fabric-1.20.1-1.8.2.jar"
 hash-format = "sha512"
-hash = "099eac35aae0fd4bea02c3bec19ec7a7d7705066bc445b57dffecdefc0aeeeab1296dd1f907e483c3cb50346ee8223ad48fad579391239990776b8d1c8204586"
+hash = "1bfb66b1d6725245c318f23a3bd67d0e0b91c08e15ddb6f9881e894cbbfac650866274522c90774199c03f7546a8c588b7009e00403cd2f9c178c86fa211aca6"
 
 [update]
 [update.modrinth]
 mod-id = "AejtfAlC"
-version = "TgTQEAF3"
+version = "JyZrPrLz"
