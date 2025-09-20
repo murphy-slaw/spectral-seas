@@ -16,7 +16,8 @@
   },
   "plains": {
     "spawnSquirrels": true,
-    "generateWalnutTrees": true
+    "generateWalnutTrees": true,
+    "foxesAttackSquirrels": true
   },
   "lushCaves": {
     "replaceAzaleaTree": false,

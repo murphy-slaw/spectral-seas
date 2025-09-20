@@ -1,0 +1,17 @@
+[general]
+debug=false
+use-generation-check = false
+
+[[mob]]
+name="naturalist:boar"
+[[mob.rule]]
+name="vicious-hogs"
+type="all"
+set.name-always-shown="yes"
+set.on-hurt="all"
+set.size=[90,120]
+
+[[mob]]
+name="*"
+[[mob.rule]]
+type="all"

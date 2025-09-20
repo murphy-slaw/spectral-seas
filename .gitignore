@@ -32,7 +32,6 @@ config/data_attributes/
 config/heracles
 config/indium-renderer.properties
 config/inventoryprofilesnext/**/*
-config/iris.properties
 config/jei/
 config/konkrete/locals
 config/malilib.json

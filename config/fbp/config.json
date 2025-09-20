@@ -4,13 +4,11 @@
     "locked": false,
     "disableOculusWarning": false,
     "freezeEffect": false,
-    "cartoonMode": true,
+    "cartoonMode": false,
     "cullParticles": true,
     "infiniteDuration": false,
     "disabledParticles": [],
-    "disabledAnimations": [
-      "minecraft:cobblestone"
-    ]
+    "disabledAnimations": []
   },
   "terrain": {
     "fancyBreakingParticles": true,
@@ -27,9 +25,9 @@
     "randomSize": true,
     "randomRotation": true,
     "randomFadingSpeed": true,
-    "particlesPerAxis": 2,
-    "minLifetime": 5,
-    "maxLifetime": 20,
+    "particlesPerAxis": 4,
+    "minLifetime": 10,
+    "maxLifetime": 55,
     "sizeMultiplier": 0.75,
     "rotationMultiplier": 1.0,
     "gravityMultiplier": 1.0
@@ -68,7 +66,7 @@
     "randomSize": true,
     "randomFadingSpeed": true,
     "renderDistance": 4,
-    "simulationDistance": 12,
+    "simulationDistance": 8,
     "transparency": 0.6,
     "particleDensity": 1.0,
     "sizeMultiplier": 1.0,
@@ -79,7 +77,7 @@
     "lowTraction": false,
     "restOnFloor": true,
     "bounceOffWalls": true,
-    "waterPhysics": false,
+    "waterPhysics": true,
     "infiniteDuration": false,
     "randomSize": true,
     "randomRotation": true,
@@ -87,7 +85,7 @@
     "minLifetime": 250,
     "maxLifetime": 300,
     "renderDistance": 4,
-    "simulationDistance": 12,
+    "simulationDistance": 8,
     "particleDensity": 1.0,
     "sizeMultiplier": 1.0,
     "rotationMultiplier": 1.0,
@@ -113,7 +111,7 @@
     "breakingSplashPotionParticleSizeMultiplier": 1.0
   },
   "animations": {
-    "enabled": false,
+    "enabled": true,
     "renderOutline": false,
     "minLifetime": 3,
     "maxLifetime": 3,

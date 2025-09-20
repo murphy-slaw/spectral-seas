@@ -133,6 +133,7 @@
     },
     "cannon": {
       "enabled": false,
+      "explode_tnt": false,
       "fire_power": 0.6,
       "fuse_time": 40,
       "cooldown": 60,

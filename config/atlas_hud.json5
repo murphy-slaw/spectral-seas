@@ -4,7 +4,7 @@
 	"ShowMarkers": true,
 	"DrawBackground": true,
 	"CompassArc": 180,
-	"CompassWidth": 90,
+	"CompassWidth": 80,
 	"CompassOpacity": 80,
 	"CompassOffset": 4,
 	"MarkerScale": 50,

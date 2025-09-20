@@ -15,12 +15,16 @@
 	"depletionPerJump": 4.0,
 	// Stamina points depleted per attack
 	"depletionPerAttack": 1.0,
+	// Stamina points depleted per weapon swing
+	"depletionPerWeaponSwing": 0.0,
 	// Stamina points depleted per tick while mining
 	"depletionPerMiningTick": 0.5,
 	// Stamina points depleted per block broken
 	"depletionPerBlockBroken": 0.0,
 	// Stamina points depleted per tick while using a shield
 	"depletionPerShieldTick": 1.0,
+	// Stamina points depleted per tick while using a glider
+	"depletionPerGliderTick": 0.10000000149011612,
 	// Can jump while exhausted
 	"canJumpWhileExhausted": true,
 	// Exhaustion sounds

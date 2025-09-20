@@ -30,5 +30,7 @@
   "config.waila.general": false,
   "config.waila.overlay": false,
   "config.waila.formatting": false,
-  "config.waila.keybinds": false
+  "config.waila.keybinds": false,
+  "config.waila.plugin_treechop": false,
+  "config.waila.plugin_waila_smallships": false
 }
