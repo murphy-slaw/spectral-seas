@@ -32,7 +32,6 @@ EntityEvents.spawned((event) => {
 
     // Fake mobcap: leave headroom for Pirate summons
     if (
-        entity.type.is($TagKey('skeletons')) &&
         entity.type !== 'minecraft:pillager' &&
         entity.monster &&
         level
