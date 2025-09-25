@@ -53,7 +53,7 @@ PlayerEvents.tick((event) => {
                 level.entities
                     .filter((entity) => entity.type === 'minecraft:parrot')
                     .forEach((entity) => {
-                        if (entity.owner === player) {
+                        if (!entity.isInSittingPose() && entity.owner === player) {
                             entity.startRiding(vehicle)
                         }
                     })
