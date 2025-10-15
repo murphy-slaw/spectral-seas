@@ -1,13 +1,13 @@
 name = "ActionHunger"
-filename = "action_hunger-0.2.0+1.20.jar"
+filename = "action_hunger-0.2.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VG7CYY0D/versions/yJf4XPtr/action_hunger-0.2.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/VG7CYY0D/versions/yObsdmky/action_hunger-0.2.1%2B1.20.jar"
 hash-format = "sha512"
-hash = "dccce4286ce6b259cde5719e49db081d7cece042d9b752d103ce6eaca8039d8eae37a63808615ea584d9900e762cf5da7965c2aee194b7f7a2ca5f0c52b0010a"
+hash = "73c5e4334ba8607bcaf6c5bdb8200d3b0c7153eddd230d673d25a1268cbfcfc6d717d7bd37ead24f9960e3f9154057bdad78d818bfcfa6a14856c049efb6aa0e"
 
 [update]
 [update.modrinth]
 mod-id = "VG7CYY0D"
-version = "yJf4XPtr"
+version = "yObsdmky"

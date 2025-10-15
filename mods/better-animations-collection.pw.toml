@@ -1,13 +1,13 @@
-filename = 'BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar'
-name = 'Better Animations Collection'
-side = 'client'
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v8.0.1-1.20.1-Fabric.jar"
+side = "client"
 
 [download]
-hash = 'd142c525262f96c73230e3db1078c16d7d509401dcaa7cfe81470279ce7ea3c0f4e9aa21cce5dcef12e4a71019b3d26b82b744456433e04cb74769d767f7b8be'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/OoOVj3J3/versions/MHbM03Bv/BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar'
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/wXIbbZf0/BetterAnimationsCollection-v8.0.1-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "277ef4058871a1c07fd740fa6f0d544eb780a26d981e98d43b60ca228c62b423fae94dbd7ff751b9ee9d7855a709506b78d1499690610d89057554800b3ba04d"
 
+[update]
 [update.modrinth]
-mod-id = 'OoOVj3J3'
-version = 'MHbM03Bv'
+mod-id = "OoOVj3J3"
+version = "wXIbbZf0"

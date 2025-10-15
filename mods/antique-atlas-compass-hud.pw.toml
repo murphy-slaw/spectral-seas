@@ -1,13 +1,13 @@
 name = "Antique Atlas Compass HUD"
-filename = "atlas_hud-1.0.0+1.20.1.jar"
+filename = "atlas_hud-1.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/F8LcMVkD/versions/qwEXrGnw/atlas_hud-1.0.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/F8LcMVkD/versions/8beT1wzX/atlas_hud-1.1%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "1eeeaaccaf9e20ae7cd082751b68e3296927d25a3d8f67eb3eae60a96cb38f506e7903ff443f2915977289d0f701100aea064e691d6aff216b4b39c394b35591"
+hash = "04c0f78ab9e612a299c3e82254dc463d382f1c3ae5e3c67d297b505a26ec9ff38e159bc1d7bbeb784175a88df934e943c6ec308bcfcceaced99a104ebe53df0b"
 
 [update]
 [update.modrinth]
 mod-id = "F8LcMVkD"
-version = "qwEXrGnw"
+version = "8beT1wzX"
