@@ -5996,7 +5996,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -6115,7 +6115,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "413257f007bcee447d7d2de0dd5190fab1f738b715574355666f5344be618528"
+hash = "954ab1926825c2a23cd22ca8997f72a7f6779b730415253e38010fa6dbfcbc38"
 metafile = true
 
 [[files]]
