@@ -1,0 +1,37 @@
+{
+  "type": "lithostitched:wrap_density_function",
+  "target_function": "minecraft:overworld/offset",
+  "wrapper_function": {
+    "type": "minecraft:clamp",
+    "input": {
+      "type": "minecraft:mul",
+      "argument1": {
+        "type": "lithostitched:wrapped_marker"
+      },
+      "argument2": {
+        "spline": {
+          "coordinate": "minecraft:overworld/continents",
+          "points": [
+            {
+              "location": -0.6701,
+              "derivative": 0,
+              "value": 0
+            },
+            {
+              "location": -0.67,
+              "derivative": 0,
+              "value": 3
+            },
+            {
+              "location": -0.6699,
+              "derivative": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "min": -1.25,
+      "max": -1.1
+    }
+  }
+}

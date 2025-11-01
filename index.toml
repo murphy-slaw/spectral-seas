@@ -878,7 +878,7 @@ hash = "1c70177398c41fc810d02fb4b1cc161dce5226de865cdc90bf7bb092daa68e53"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "370d8f78915a45c4805bb49f7918987bbbbc6782b785df184c1b8d1feb13c8ea"
+hash = "d5525152b1180cceeef7a9019d024049decba07083effffcea4fef3c002d46ae"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/erosion.json"
@@ -898,7 +898,7 @@ hash = "e169882d74a8309c6b9857d88b7f85e44ed175eb730068786cccfb2ba59c1af1"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/ridges.json"
-hash = "11aec6898421212504d5b9dfceab1c8d5644249b6d6e90424af884b30e169545"
+hash = "951e588d447ac1e5d0b8dcf18b9fdb2185fefbd02626bbd314547c39d3f909e4"
 
 [[files]]
 file = "config/paxi/datapacks/Oceania/data/minecraft/worldgen/density_function/overworld/temperature.json"
@@ -1935,6 +1935,14 @@ hash = "8fde3b14e50878c4552441a6c3e4ecfccf349590879b1b7ca9beabaec266adf0"
 [[files]]
 file = "kubejs/data/hybrid-aquatic/hybrid-aquatic/sea_message/villagers.json"
 hash = "c939248d333409729d4f2e265d79efb11dcf8f9287621179077a1c7c294ea237"
+
+[[files]]
+file = "kubejs/data/hybrid-aquatic/lithostitched/worldgen_modifier/deeper_deep_oceans.json"
+hash = "918661e3422972745f67b3a349a2d85235daa5e2081c1a5ef510159d09bc938c"
+
+[[files]]
+file = "kubejs/data/hybrid-aquatic/lithostitched/worldgen_modifier/trenches.json"
+hash = "f83f10c198bd87d26e89f72d49b0d285ce469327347a0a205821076eb4e15a2c"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/loot_tables/blocks/message_in_a_bottle.json"
@@ -5623,7 +5631,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "1e5b00de09f3382cb89564dca455b0d547855c09d8d28d2e98e47d95fabcaeff"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
