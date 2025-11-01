@@ -6488,6 +6488,11 @@ hash = "8a9a56131a0b6fbe7fed0f7e3c1e3e42ef3b932d5ea852d1497960c8a869d841"
 metafile = true
 
 [[files]]
+file = "mods/rabbit-pathfinding-fix.pw.toml"
+hash = "121936f35735d9fd0e9a4de111054920bbaf6935bffca5999278d1270054055c"
+metafile = true
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "7eae70ce9d8985f5253b576c74c6f1c341cf2e3292df26a47e47801df5d6e687"
 metafile = true
