@@ -9,6 +9,7 @@
         "type": "lithostitched:wrapped_marker"
       },
       "argument2": {
+        "type": "spline",
         "spline": {
           "coordinate": "minecraft:overworld/continents",
           "points": [
@@ -29,9 +30,9 @@
             }
           ]
         }
-      },
-      "min": -1.25,
-      "max": -1.1
-    }
+      }
+    },
+    "min": -1.25,
+    "max": -1.1
   }
 }

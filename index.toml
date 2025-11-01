@@ -1942,7 +1942,7 @@ hash = "918661e3422972745f67b3a349a2d85235daa5e2081c1a5ef510159d09bc938c"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/lithostitched/worldgen_modifier/trenches.json"
-hash = "f83f10c198bd87d26e89f72d49b0d285ce469327347a0a205821076eb4e15a2c"
+hash = "49ac43ac3d2c9c66fda0b36c1a82ef4a5f3e610a5844727e7231e72a4cdc984b"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/loot_tables/blocks/message_in_a_bottle.json"
@@ -5855,11 +5855,6 @@ hash = "8ab9fdd9bf3c8b1ba3ab727979b5f1783a9f40df25228d5577de56987b510c63"
 metafile = true
 
 [[files]]
-file = "mods/cyanide.pw.toml"
-hash = "0c4ea6eca3216ca828bfcf8b5a47a711566ac2854fa5d992495ad6d57ba62086"
-metafile = true
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "1f65d34b14bc15fbf8f59c4dde68a4636c50680e97feed4f48c03b9890ff4a8a"
 metafile = true
@@ -6480,11 +6475,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
-metafile = true
-
-[[files]]
-file = "mods/rabbit-behavior-fix.pw.toml"
-hash = "8a9a56131a0b6fbe7fed0f7e3c1e3e42ef3b932d5ea852d1497960c8a869d841"
 metafile = true
 
 [[files]]
