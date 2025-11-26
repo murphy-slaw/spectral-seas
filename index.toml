@@ -2006,7 +2006,7 @@ hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
 
 [[files]]
 file = "kubejs/data/hybrid-aquatic/worldgen/placed_feature/thermal_vent_patch.json"
-hash = "873a46ee0aaed2ac77b1823c38ad42407cb118f527e7d9ca683327e6e1f96622"
+hash = "ffadab2f20bb041b7d81011d30f678ef420e965b839265826fa955b3df7898dd"
 
 [[files]]
 file = "kubejs/data/inmis/advancements/frayed_backpack.json"

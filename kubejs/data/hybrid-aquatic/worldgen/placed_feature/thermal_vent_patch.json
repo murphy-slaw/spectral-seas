@@ -3,12 +3,12 @@
   "placement": [
     {
       "type": "minecraft:count_on_every_layer",
-      "count": 5
+      "count": 2
     },
     {
       "type": "minecraft:surface_relative_threshold_filter",
       "heightmap": "WORLD_SURFACE_WG",
-      "max_inclusive": -96
+      "max_inclusive": -74
     },
     {
       "type": "minecraft:biome"
