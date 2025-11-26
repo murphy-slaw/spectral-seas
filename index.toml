@@ -805,6 +805,14 @@ file = "config/paxi/datapack_load_order.json"
 hash = "56773ea2b49f0dfb1f72764101133cb06c85b05628c291c1c898b4e75da2a946"
 
 [[files]]
+file = "config/paxi/datapacks/Filters/data/hybrid-aquatic/lithostitched/worldgen_modifier/deeper_deep_oceans.json"
+hash = "918661e3422972745f67b3a349a2d85235daa5e2081c1a5ef510159d09bc938c"
+
+[[files]]
+file = "config/paxi/datapacks/Filters/data/hybrid-aquatic/lithostitched/worldgen_modifier/trenches.json"
+hash = "492fa443091665363d87c08a11e64c8cfbc30e5044b182d01b8d452cc3cc5ce6"
+
+[[files]]
 file = "config/paxi/datapacks/Filters/data/minecraft/tags/items/nothing.json"
 hash = "489711deb6d620e83d3dd373268130b27115d3d1be943672f2eab8f656bfae80"
 
@@ -1497,10 +1505,6 @@ file = "eslint.config.js"
 hash = "0f424e2e3ee3548383cfddbb5edacc381134e3dca98916e6b095a7275a71f9cf"
 
 [[files]]
-file = "gitignore.old"
-hash = "372385327acfdc2efbdadadd015f26563a5ea2baf9e20a97955f9409cbf81fed"
-
-[[files]]
 file = "icon.png"
 hash = "feb0adc31910921fcc3cebaafcc5423db14ffcab011688ab5e5587a2e2293783"
 
@@ -1937,14 +1941,6 @@ file = "kubejs/data/hybrid-aquatic/hybrid-aquatic/sea_message/villagers.json"
 hash = "c939248d333409729d4f2e265d79efb11dcf8f9287621179077a1c7c294ea237"
 
 [[files]]
-file = "kubejs/data/hybrid-aquatic/lithostitched/worldgen_modifier/deeper_deep_oceans.json"
-hash = "918661e3422972745f67b3a349a2d85235daa5e2081c1a5ef510159d09bc938c"
-
-[[files]]
-file = "kubejs/data/hybrid-aquatic/lithostitched/worldgen_modifier/trenches.json"
-hash = "49ac43ac3d2c9c66fda0b36c1a82ef4a5f3e610a5844727e7231e72a4cdc984b"
-
-[[files]]
 file = "kubejs/data/hybrid-aquatic/loot_tables/blocks/message_in_a_bottle.json"
 hash = "2c629eb59d759ef080203fce6b3aaf708c1b81fca03efb08a919ad1519a0dc39"
 
@@ -2007,6 +2003,10 @@ hash = "796a24dcb029c73ee78c2155758ae6cec168f2ccd80c3314b923024969ae5a01"
 [[files]]
 file = "kubejs/data/hybrid-aquatic/tags/worldgen/biome/bottle_spawn_biomes.json"
 hash = "5e69ce3c600b373e6af337f24a32f8621f914c577dae54c47473d982eaaf77d4"
+
+[[files]]
+file = "kubejs/data/hybrid-aquatic/worldgen/placed_feature/thermal_vent_patch.json"
+hash = "873a46ee0aaed2ac77b1823c38ad42407cb118f527e7d9ca683327e6e1f96622"
 
 [[files]]
 file = "kubejs/data/inmis/advancements/frayed_backpack.json"
@@ -4717,6 +4717,10 @@ file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/no_surface_lav
 hash = "6f6d0072d9a1bb7d7486177412dbf90f2463c79d2e8d4e59bbcadc34fb7e8add"
 
 [[files]]
+file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/no_thermal_vents_under_icebergs.json"
+hash = "e56aec45c8ce49b14c67ec0acccd2fa0df488fd5987107225c92547f771ea0ec"
+
+[[files]]
 file = "kubejs/data/spectral_seas/lithostitched/worldgen_modifier/ocean_warm_tower_swap.json"
 hash = "8bbed84c150d0aa013c7e465f454544e851051ee5f0854e1b8ef00615eab4b71"
 
@@ -6675,6 +6679,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "c28bc347e2c37caaf4ce0da6318f235bac53760dd9f5a2e6a558cbcd9a64f9c6"
+metafile = true
+
+[[files]]
+file = "mods/sunken-spires.pw.toml"
+hash = "5343e14cbb2ae0b30aab7614b19895a366f9790090da10aacd85aea503d8b825"
 metafile = true
 
 [[files]]
