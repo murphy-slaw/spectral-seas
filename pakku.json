@@ -1,0 +1,28 @@
+{
+    "name": "Spectral Seas",
+    "version": "0.9.12-beta",
+    "author": "murphy_slaw",
+    "overrides": [
+        "config",
+        "kubejs",
+        "patchouli_books"
+    ],
+    "paths": {
+        "resource_packs": "resourcepacks",
+        "shader_packs": "shaderpacks",
+        "data_packs": "config/paxi/datapacks"
+    },
+    "projects": {
+        "towers-of-the-wild-reworked": {
+            "update_strategy": "NONE"
+        },
+        "eclectic-trove-legendary-tooltips": {
+            "update_strategy": "NONE"
+        },
+        "terrablender-fabric": {
+            "aliases": [
+                "terrablender"
+            ]
+        }
+    }
+}

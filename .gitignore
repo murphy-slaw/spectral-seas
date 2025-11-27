@@ -4,15 +4,10 @@
 !defaultconfig/
 !kubejs
 !kubejs/**
-!/mods
-!mods/*.toml
 !patchouli_books
 !index.toml
 !pack.toml
 !LICENSE
-!resourcepacks**/*
-!shaderpacks/
-!shaderpacks/**
 !server-icon.png
 **/.DS_Store
 
