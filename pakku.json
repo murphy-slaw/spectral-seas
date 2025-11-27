@@ -14,6 +14,7 @@
     },
     "projects": {
         "towers-of-the-wild-reworked": {
+            "type": "DATA_PACK",
             "update_strategy": "NONE"
         },
         "eclectic-trove-legendary-tooltips": {
@@ -22,6 +23,16 @@
         "terrablender-fabric": {
             "aliases": [
                 "terrablender"
+            ]
+        },
+        "balm-fabric": {
+            "aliases": [
+                "balm"
+            ]
+        },
+        "balm": {
+            "aliases": [
+                "balm-fabric"
             ]
         }
     }
