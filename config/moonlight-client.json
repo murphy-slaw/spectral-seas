@@ -1,12 +1,9 @@
 {
   "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "general": {
-    "merge_dynamic_packs": true,
+    "merge_dynamic_resource_packs": true,
     "lazy_map_upload": true,
     "maps_mipmap": 3,
-    "consistent_entity_renderer_shading": "TRUE",
-    "blocktypes_debug": false,
-    "woodtypes_debug": false,
-    "leavestypes_debug": false
+    "consistent_entity_renderer_shading": "TRUE"
   }
 }

@@ -1,5 +1,9 @@
 {
   general: {
+    // Add to Vanilla's Options
+    // Whether to add a button to vanilla game's options that opens WTHIT config screen
+    // Default value: [false]
+    vanillaOptions: false,
     // Display Tooltip
     // Collect data and render the tooltip
     // Default value: [true]
@@ -55,14 +59,9 @@
         // Available values: [TOP, MIDDLE, BOTTOM]
         y: "TOP"
       },
-      // X Offset
-      // X position relative from screen anchor
-      // Position is affected by scale
+      // Offset
       // Default value: [0]
       x: 0,
-      // Y Offset
-      // Y position relative from screen anchor
-      // Position is affected by scale
       // Default value: [0]
       y: 20,
       // Boss Bars Overlap
@@ -103,7 +102,55 @@
     // Default value: [§f%s]
     entityName: "§f%s",
     // Default value: [§8%s]
-    registryName: "§8%s"
+    registryName: "§8%s",
+    // 
+    styles: {
+      // 
+      "§f%s": {
+        // 
+        field_11855: {
+          // 
+          field_24364: 16777215,
+          // 
+          field_24365: "white"
+        },
+        // 
+        field_11856: false,
+        // 
+        field_11852: false,
+        // 
+        field_11851: false,
+        // 
+        field_11857: false,
+        // 
+        field_11861: false,
+        // 
+        field_11853: null,
+        // 
+        field_11858: null,
+        // 
+        field_11859: null,
+        // 
+        field_24361: null
+      }
+    }
+  },
+  keyBinds: {
+    // Open Config
+    // Default value: [key.keyboard.unknown]
+    openConfig: "key.keyboard.unknown",
+    // Show Overlay
+    // Default value: [key.keyboard.unknown]
+    showOverlay: "key.keyboard.unknown",
+    // Toggle Liquid
+    // Default value: [key.keyboard.unknown]
+    toggleLiquid: "key.keyboard.unknown",
+    // Show Recipe Usage
+    // Default value: [key.keyboard.unknown]
+    showRecipeInput: "key.keyboard.unknown",
+    // Show Recipe
+    // Default value: [key.keyboard.unknown]
+    showRecipeOutput: "key.keyboard.unknown"
   },
   // Internal value, DO NOT TOUCH!
   // Default value: [0]

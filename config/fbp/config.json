@@ -7,8 +7,8 @@
     "cartoonMode": false,
     "cullParticles": true,
     "infiniteDuration": false,
-    "disabledParticles": [],
-    "disabledAnimations": []
+    "particlesBlacklist": {},
+    "animationsBlacklist": []
   },
   "terrain": {
     "fancyBreakingParticles": true,

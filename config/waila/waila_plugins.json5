@@ -198,10 +198,6 @@
     // This value will get merged with the value from the server
     // Default value: [true]
     "redstone.level": true,
-    // Show Player Name
-    // This value will get merged with the value from the server
-    // Default value: [true]
-    "player_head.name": true,
     // Show Composter Level
     // This value will get merged with the value from the server
     // Default value: [true]
@@ -282,18 +278,6 @@
     // Custom config, open the following file
     // extra/fluid_blacklist.json5
     "fluid.blacklist": null,
-    // Show Block Crafting Progress
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
-    "progress.enabled_block": true,
-    // Show Entity Crafting Progress
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
-    "progress.enabled_entity": true,
-    // Crafting Progress Blacklist
-    // Custom config, open the following file
-    // extra/progress_blacklist.json5
-    "progress.blacklist": null,
     // Show Block Item Contents
     // Require server to have WTHIT installed, if not, will be locked to [false]
     // Default value: [true]
@@ -325,6 +309,30 @@
     // Item Contents Blacklist
     // Custom config, open the following file
     // extra/item_blacklist.json5
-    "item.blacklist": null
+    "item.blacklist": null,
+    // Show Block Crafting Progress
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "progress.enabled_block": true,
+    // Show Entity Crafting Progress
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "progress.enabled_entity": true,
+    // Show Estimated Time
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "progress.time": true,
+    // Replace Item Tooltip
+    // If enabled, replace item tooltip when the recipe has item input and/or output. If not enabled or no item input and output, only shows a progress bar.
+    // Default value: [false]
+    "progress.replace_items": false,
+    // Progress Bar Height
+    // Only for when it shown as a bar and not an arrow
+    // Default value: [1]
+    "progress.height": 1,
+    // Crafting Progress Blacklist
+    // Custom config, open the following file
+    // extra/progress_blacklist.json5
+    "progress.blacklist": null
   }
 }

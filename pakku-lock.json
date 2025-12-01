@@ -169,6 +169,9 @@
         },
         {
             "pakku_id": "nNQRqivMG93NNJcx",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -239,7 +242,7 @@
         {
             "pakku_id": "3NQ23H7T1aruVGDS",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr"
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -304,6 +307,9 @@
         },
         {
             "pakku_id": "JcI2RKblIqJlY0w3",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -442,7 +448,8 @@
         {
             "pakku_id": "SAm4ejqe0BQoaate",
             "pakku_links": [
-                "uK1CD3knKG7HKtCu"
+                "uK1CD3knKG7HKtCu",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -485,27 +492,25 @@
             ]
         },
         {
-            "pakku_id": "FToTSCAPdk99q530",
-            "pakku_links": [
-                "SAm4ejqe0BQoaate",
-                "uK1CD3knKG7HKtCu",
-                "69C7dgUpDXcimMUI"
-            ],
+            "pakku_id": "KGOqchUjupc5k21y",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "antique-atlas-compass-hud",
                 "modrinth": "antique-atlas-compass-hud"
             },
             "name": {
+                "curseforge": "Antique Atlas Compass HUD",
                 "modrinth": "Antique Atlas Compass HUD"
             },
             "id": {
+                "curseforge": "1392904",
                 "modrinth": "F8LcMVkD"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "atlas_hud-1.1+1.20.1.jar",
+                    "type": "curseforge",
+                    "file_name": "atlas_hud-1.2.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -513,25 +518,52 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/8beT1wzX/atlas_hud-1.1+1.20.1.jar",
-                    "id": "8beT1wzX",
-                    "parent_id": "F8LcMVkD",
+                    "url": "https://edge.forgecdn.net/files/7267/111/atlas_hud-1.2.0+1.20.1.jar",
+                    "id": "7267111",
+                    "parent_id": "1392904",
                     "hashes": {
-                        "sha512": "04c0f78ab9e612a299c3e82254dc463d382f1c3ae5e3c67d297b505a26ec9ff38e159bc1d7bbeb784175a88df934e943c6ec308bcfcceaced99a104ebe53df0b",
-                        "sha1": "5d7716b60e51fbe749bb400a390534063a84b0c7"
+                        "sha1": "e1c2f1e5da36be7a39b7df23020d654ee38750d6",
+                        "md5": "f94750dff6b8f5f2bf4c96e8eb8e0e00"
                     },
                     "required_dependencies": [
-                        "Y5Ve4Ui4",
-                        "9s6osm5g",
-                        "P7dR8mSH"
+                        "306612",
+                        "348521"
                     ],
-                    "size": 19105,
-                    "date_published": "2025-09-20T00:25:45.847613Z"
+                    "size": 19154,
+                    "date_published": "2025-11-27T06:41:04.957Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "atlas_hud-1.2.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/EIfuv6vH/atlas_hud-1.2.0+1.20.1.jar",
+                    "id": "EIfuv6vH",
+                    "parent_id": "F8LcMVkD",
+                    "hashes": {
+                        "sha512": "aadc19125a5be8c18457324b29bd04e48b72ca25e4e6d2f44eb4c042a66e538a879a4e6843791ac18393468b7a36a1b1ed422400ce6648a5a48eb56bdb3be62f",
+                        "sha1": "e1c2f1e5da36be7a39b7df23020d654ee38750d6"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "9s6osm5g",
+                        "Y5Ve4Ui4"
+                    ],
+                    "size": 19154,
+                    "date_published": "2025-11-27T05:40:12.403301Z"
                 }
             ]
         },
         {
             "pakku_id": "KNGm1jlzMecb2ZGE",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -664,6 +696,9 @@
         },
         {
             "pakku_id": "RTZBmFqX5btZwNKp",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -734,6 +769,9 @@
         },
         {
             "pakku_id": "UD8oqVJ9Os0jvJfV",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -873,6 +911,9 @@
         },
         {
             "pakku_id": "EQefouWx6yVo8bll",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -940,6 +981,9 @@
         },
         {
             "pakku_id": "ByYvpjGJV0PcSXW0",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1080,6 +1124,9 @@
         },
         {
             "pakku_id": "ftyhYZ5KIepHy8Ju",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1223,7 +1270,7 @@
         {
             "pakku_id": "8jOHK18iXEoQAxAt",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr"
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -1365,6 +1412,9 @@
         },
         {
             "pakku_id": "3btQhgHxvIuorerV",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1433,7 +1483,12 @@
             ]
         },
         {
-            "pakku_id": "gRM2YfHnA5DSIwbD",
+            "pakku_id": "axGONEvfTNNiEYLw",
+            "pakku_links": [
+                "E0Hhuv5KSx1UNZJ0",
+                "UGuD7MHWQSQg07LB",
+                "PKVM8C90OPSg0C55"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1448,58 +1503,59 @@
                 "curseforge": "639842",
                 "modrinth": "5sy6g3kz"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "bettercombat-fabric-1.8.7+1.20.4.jar",
+                    "type": "curseforge",
+                    "file_name": "bettercombat-fabric-1.8.6+1.20.1.jar",
                     "mc_versions": [
-                        "1.20",
-                        "1.20.4"
+                        "1.20.1",
+                        "1.20"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/2Jgqi2XW/bettercombat-fabric-1.8.7+1.20.4.jar",
-                    "id": "2Jgqi2XW",
+                    "url": "https://edge.forgecdn.net/files/5625/715/bettercombat-fabric-1.8.6+1.20.1.jar",
+                    "id": "5625715",
+                    "parent_id": "639842",
+                    "hashes": {
+                        "sha1": "92355cccfe5f1ddff1f03e6079bc7a764e63a6f7",
+                        "md5": "8d474709e691da55e5d3bd6169184dbc"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612",
+                        "658587"
+                    ],
+                    "size": 902833,
+                    "date_published": "2024-08-13T20:09:17.207Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bettercombat-fabric-1.8.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/qxfX3jsR/bettercombat-fabric-1.8.6+1.20.1.jar",
+                    "id": "qxfX3jsR",
                     "parent_id": "5sy6g3kz",
                     "hashes": {
-                        "sha512": "54b48ce43e68bd27f78a9a5be321ff7537261076bd6b53757d0f5685e6cddba38fb75c2a90acea931ad86e4384fbab788cac810e58ad5882c5e359f247e7f05e",
-                        "sha1": "e46cba049722cff56b6544f9e23e0440e016e53b"
+                        "sha512": "be6f596a3466263559a32c29cf524084961ae3912401960f65fcd0b701854941c78a053a21b22abb10f858e150cc73a76810e0f7c3b9fbca8860c80ecd25273c",
+                        "sha1": "92355cccfe5f1ddff1f03e6079bc7a764e63a6f7"
                     },
                     "required_dependencies": [
                         "gedNE4y2",
                         "P7dR8mSH",
                         "9s6osm5g"
                     ],
-                    "size": 931314,
-                    "date_published": "2024-08-20T11:22:56.671384Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "bettercombat-fabric-1.8.7+1.20.4.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5646/733/bettercombat-fabric-1.8.7+1.20.4.jar",
-                    "id": "5646733",
-                    "parent_id": "639842",
-                    "hashes": {
-                        "sha1": "e46cba049722cff56b6544f9e23e0440e016e53b",
-                        "md5": "2d1af05d635fe8d4ac1b7ce51f010427"
-                    },
-                    "required_dependencies": [
-                        "348521",
-                        "658587",
-                        "306612"
-                    ],
-                    "size": 931314,
-                    "date_published": "2024-08-20T11:22:59.633Z"
+                    "size": 902833,
+                    "date_published": "2024-08-13T20:09:14.774770Z"
                 }
             ]
         },
@@ -1578,6 +1634,9 @@
         },
         {
             "pakku_id": "esmcf83FxcSTOf7d",
+            "pakku_links": [
+                "axGONEvfTNNiEYLw"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1685,7 +1744,40 @@
             ]
         },
         {
+            "pakku_id": "B9qieu6gjFwRmlgS",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "better-squid"
+            },
+            "name": {
+                "curseforge": "Better Squid"
+            },
+            "id": {
+                "curseforge": "648239"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "§2BetterSquid§7_v1.1.zip",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4497/693/§2BetterSquid§7_v1.1.zip",
+                    "id": "4497693",
+                    "parent_id": "648239",
+                    "hashes": {
+                        "sha1": "aad5aa7afe6207a1fedaf9b1d3b1ae22e97eb4e7",
+                        "md5": "b76b3b2a951e7522bbd4aa47e15aa171"
+                    },
+                    "required_dependencies": [],
+                    "size": 14137,
+                    "date_published": "2023-04-19T10:52:04.883Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FMyTTWORdA7Wdp1Q",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1825,83 +1917,10 @@
             ]
         },
         {
-            "pakku_id": "RwyVTqvN7oXfBkrf",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "biome-replacer",
-                "modrinth": "biome-replacer"
-            },
-            "name": {
-                "curseforge": "Biome Replacer",
-                "modrinth": "Biome Replacer"
-            },
-            "id": {
-                "curseforge": "910274",
-                "modrinth": "DAXbR0Wj"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "biomereplacer-2.2-hippo-fabric.jar",
-                    "mc_versions": [
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/DAXbR0Wj/versions/CWGaBhVV/biomereplacer-2.2-hippo-fabric.jar",
-                    "id": "CWGaBhVV",
-                    "parent_id": "DAXbR0Wj",
-                    "hashes": {
-                        "sha512": "9caba3d7e7b45b522dc4615c497f3352c303282425cd8f2a63aee2d0b5624b93b39fd2a11b4f8f39f2fc57e9652f52669c73298d3c77ee7737f60343053f1927",
-                        "sha1": "b1b6f6fccd81329b53dc52ef606ed2b315d067e9"
-                    },
-                    "required_dependencies": [],
-                    "size": 146416,
-                    "date_published": "2025-11-08T22:05:11.377717Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "biomereplacer-2.2-hippo-fabric.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7200/636/biomereplacer-2.2-hippo-fabric.jar",
-                    "id": "7200636",
-                    "parent_id": "910274",
-                    "hashes": {
-                        "sha1": "b1b6f6fccd81329b53dc52ef606ed2b315d067e9",
-                        "md5": "804dac89367d41a51d2af46e3bb3a778"
-                    },
-                    "required_dependencies": [],
-                    "size": 146416,
-                    "date_published": "2025-11-08T22:18:02.927Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "VK5s3ua9dbqxmoKg",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1966,6 +1985,9 @@
         },
         {
             "pakku_id": "I4tn4H2iLpObKgxC",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2072,7 +2094,8 @@
         {
             "pakku_id": "uQZfQ4xHMQqXJeEA",
             "pakku_links": [
-                "uK1CD3knKG7HKtCu"
+                "uK1CD3knKG7HKtCu",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2320,6 +2343,9 @@
         },
         {
             "pakku_id": "q7QmmEaCsTiAer11",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2458,6 +2484,9 @@
         },
         {
             "pakku_id": "gy71ymm6CrkZHQa9",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2661,7 +2690,7 @@
         {
             "pakku_id": "QWD9vjysktyB9ac9",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr"
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2728,6 +2757,9 @@
         },
         {
             "pakku_id": "iEkiFw3B6txF7rsW",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2799,6 +2831,9 @@
         },
         {
             "pakku_id": "pdyQvKIRE7TV3eQQ",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -3186,69 +3221,10 @@
             ]
         },
         {
-            "pakku_id": "PBlaNnvDtCY6Xt82",
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "connected-textures-mod-ctm-overhaul",
-                "modrinth": "ctm-overhaul"
-            },
-            "name": {
-                "curseforge": "Connected Textures (CTM) Overhaul",
-                "modrinth": "Connected Textures (CTM) Overhaul"
-            },
-            "id": {
-                "curseforge": "442365",
-                "modrinth": "S1rcrDD7"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "CTM-Overhaul-V_5.0.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/S1rcrDD7/versions/Nur7Brdi/CTM-Overhaul-V_5.0.zip",
-                    "id": "Nur7Brdi",
-                    "parent_id": "S1rcrDD7",
-                    "hashes": {
-                        "sha512": "d5ed5bae7cc29d0768638111ca648a5d18cf49ba46b822432d05d81febf45a12f207e8b730b56ea99680c13b782e94a8cb7a42808cc31fff673ce7c57849ef12",
-                        "sha1": "945a38988a427e8cb7ff417a274041b0eb63a9e5"
-                    },
-                    "required_dependencies": [
-                        "1IjD5062"
-                    ],
-                    "size": 477167,
-                    "date_published": "2023-07-18T04:49:43.772444Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "CTM-Overhaul-V_5.0.zip",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4650/745/CTM-Overhaul-V_5.0.zip",
-                    "id": "4650745",
-                    "parent_id": "442365",
-                    "hashes": {
-                        "sha1": "945a38988a427e8cb7ff417a274041b0eb63a9e5",
-                        "md5": "8907b5a6e89828da86d2fd18277ce513"
-                    },
-                    "required_dependencies": [],
-                    "size": 477167,
-                    "date_published": "2023-07-18T04:46:23.383Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "dwF0qEBV8wWVZzYj",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -3388,6 +3364,9 @@
         },
         {
             "pakku_id": "1TFkPaceMM9lLMMR",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -3561,6 +3540,9 @@
         },
         {
             "pakku_id": "nXLlKy5VHFmIDqI8",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -3784,6 +3766,9 @@
         },
         {
             "pakku_id": "Nqgn09WsoQzN0Uzz",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -3891,6 +3876,9 @@
         },
         {
             "pakku_id": "JekciuIxnldmeX29",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -3958,6 +3946,9 @@
         },
         {
             "pakku_id": "vK2ucpvnH27Ec6R0",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -4166,8 +4157,8 @@
         {
             "pakku_id": "nVUBA0LFSKmuj7TG",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr",
-                "A8rH06RMTQ4Ls9Q4"
+                "A8rH06RMTQ4Ls9Q4",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -4234,6 +4225,9 @@
         },
         {
             "pakku_id": "0zwBmuMh2eE7PuIM",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -4427,6 +4421,9 @@
         },
         {
             "pakku_id": "8dASEduJxz9eWuaD",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -4468,7 +4465,8 @@
         {
             "pakku_id": "ARZv11bbgpd8KJMO",
             "pakku_links": [
-                "69C7dgUpDXcimMUI"
+                "69C7dgUpDXcimMUI",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -4510,6 +4508,9 @@
         },
         {
             "pakku_id": "LOXUD5lez36nY67L",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -4642,6 +4643,9 @@
         },
         {
             "pakku_id": "RuiRRgQ7DyCkrNyK",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -4713,6 +4717,9 @@
         },
         {
             "pakku_id": "IvYbGMp9w0LvlJKf",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -4846,6 +4853,9 @@
         },
         {
             "pakku_id": "uswnlBnl2stx4hY5",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -4915,6 +4925,9 @@
         },
         {
             "pakku_id": "xvq4U5cFcsQuatHz",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -5018,6 +5031,9 @@
         },
         {
             "pakku_id": "6I56Ecz2qzoCDG5n",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -5095,6 +5111,9 @@
         },
         {
             "pakku_id": "0zNHgjgqVA45IsfQ",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5164,6 +5183,9 @@
         },
         {
             "pakku_id": "i0kQVOrASfBfXuE1",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5239,7 +5261,7 @@
             ]
         },
         {
-            "pakku_id": "HV8bMOZ1zXuSddMr",
+            "pakku_id": "UGuD7MHWQSQg07LB",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5409,6 +5431,9 @@
         },
         {
             "pakku_id": "lyUPoFHd6nVyl5VD",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -5474,6 +5499,9 @@
         },
         {
             "pakku_id": "oIYJhaWkc2StwPlQ",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -5610,6 +5638,9 @@
         },
         {
             "pakku_id": "BiV7mt1SXNKNVrQh",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -5680,6 +5711,9 @@
         },
         {
             "pakku_id": "vyy9iP4ExK3s9K4M",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5895,6 +5929,9 @@
         },
         {
             "pakku_id": "6npG6yOuSsRYweq9",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5964,6 +6001,9 @@
         },
         {
             "pakku_id": "Yfhy7SCXyrpbao56",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6094,6 +6134,9 @@
         },
         {
             "pakku_id": "vwaN2Yebwvr2oInI",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6165,6 +6208,9 @@
         },
         {
             "pakku_id": "xI3PiBymbbc07Bnb",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -6267,6 +6313,9 @@
         },
         {
             "pakku_id": "QYpCt2mBmsMSICLO",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6332,6 +6381,9 @@
         },
         {
             "pakku_id": "2Dgh1f60HiH4UvXF",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6461,6 +6513,9 @@
         },
         {
             "pakku_id": "Lmcr3PMuJxTBSvis",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6528,6 +6583,9 @@
         },
         {
             "pakku_id": "1F8HImgKwm4nGLZC",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6740,6 +6798,9 @@
         },
         {
             "pakku_id": "962gukbiFEFtO9ru",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6809,6 +6870,9 @@
         },
         {
             "pakku_id": "8lnlkV731uyBcjXh",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6880,6 +6944,9 @@
         },
         {
             "pakku_id": "lCYKfoR6DjEnHKdV",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7056,6 +7123,9 @@
         },
         {
             "pakku_id": "69YloF6q1OHKDLWV",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7119,6 +7189,9 @@
         },
         {
             "pakku_id": "EPOqOQRWNwFGRlDy",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7256,6 +7329,9 @@
         },
         {
             "pakku_id": "SmO72FcJ2Xn9UWng",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7394,6 +7470,9 @@
         },
         {
             "pakku_id": "CMrrblxgVpMqqMuI",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7524,6 +7603,9 @@
         },
         {
             "pakku_id": "HUDTCcQ3wJiwBOXv",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7641,6 +7723,9 @@
         },
         {
             "pakku_id": "epdCAfhyLC8WqFET",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7710,6 +7795,9 @@
         },
         {
             "pakku_id": "2UrtqSdLHICw6prW",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7838,6 +7926,9 @@
         },
         {
             "pakku_id": "8MtEIE9JTJEYEs3u",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7976,6 +8067,9 @@
         },
         {
             "pakku_id": "cvEzIHiK7YWriVI9",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -8017,6 +8111,9 @@
         },
         {
             "pakku_id": "Km1xkVXMRd8wBE3g",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -8086,6 +8183,9 @@
         },
         {
             "pakku_id": "GF5v4XiGn8E2oE77",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -8155,6 +8255,9 @@
         },
         {
             "pakku_id": "hC5APkGbHTpx43cT",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -8450,6 +8553,9 @@
         },
         {
             "pakku_id": "JEPXIpG2mY8VBRze",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8578,6 +8684,9 @@
         },
         {
             "pakku_id": "zCrBFJbVdBcieDuP",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8649,6 +8758,9 @@
         },
         {
             "pakku_id": "ObJSPq61au2rDi8q",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8715,7 +8827,7 @@
             ]
         },
         {
-            "pakku_id": "4KHMoMV3xsShI8xA",
+            "pakku_id": "7bqU2LL8B33DvKF3",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -8730,68 +8842,57 @@
                 "curseforge": "656977",
                 "modrinth": "OQAgZMH1"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "MoogsVoyagerStructures-1.20-5.0.21.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/3jEMNi1E/MoogsVoyagerStructures-1.20-5.0.21.jar",
-                    "id": "3jEMNi1E",
-                    "parent_id": "OQAgZMH1",
-                    "hashes": {
-                        "sha512": "e5124101ca9eec0dd45c9092aee8a939b02bb76be2b02df07fecb0e6a3577ddce58f38f61dd361db904ad69009678f0772fdf400e1b6df708d5177ca04e391fc",
-                        "sha1": "0fd4ccc793730f65cd00cf9a5df38bbcf6130511"
-                    },
-                    "required_dependencies": [
-                        "1oUDhxuy"
-                    ],
-                    "size": 2661366,
-                    "date_published": "2025-10-18T13:27:31.365137Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "MoogsVoyagerStructures-1.20-5.0.21.jar",
+                    "file_name": "mvs-4.1.5-1.20.jar",
                     "mc_versions": [
                         "1.20.2",
-                        "1.20.5",
                         "1.20.3",
                         "1.20.1",
                         "1.20",
-                        "1.20.6",
                         "1.20.4"
                     ],
                     "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7120/789/MoogsVoyagerStructures-1.20-5.0.21.jar",
-                    "id": "7120789",
+                    "url": "https://edge.forgecdn.net/files/6647/400/mvs-4.1.5-1.20.jar",
+                    "id": "6647400",
                     "parent_id": "656977",
                     "hashes": {
-                        "sha1": "0fd4ccc793730f65cd00cf9a5df38bbcf6130511",
-                        "md5": "47e9c85c8814c32f35731f8e231efc45"
+                        "sha1": "33501c6786761494d27e863193f395aeb9c4c2d5",
+                        "md5": "fe013b9a56b90c3e1a54be6f72390356"
                     },
-                    "required_dependencies": [
-                        "1337167"
+                    "required_dependencies": [],
+                    "size": 1318438,
+                    "date_published": "2025-06-13T16:10:35.330Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mvs-4.1.5-1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
                     ],
-                    "size": 2661366,
-                    "date_published": "2025-10-18T13:27:32.653Z"
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/OQH5doaL/mvs-4.1.5-1.20.jar",
+                    "id": "OQH5doaL",
+                    "parent_id": "OQAgZMH1",
+                    "hashes": {
+                        "sha512": "4228ce79cd3caa59407112847fb8f8f804848a179108bd0818eec73afb81a9a38688d34ec0b09f8b5cdd8dea5cbfaf9e64697f13018dc4acae85b22b7a25c918",
+                        "sha1": "33501c6786761494d27e863193f395aeb9c4c2d5"
+                    },
+                    "required_dependencies": [],
+                    "size": 1318438,
+                    "date_published": "2025-06-13T16:11:34.881253Z"
                 }
             ]
         },
@@ -9260,6 +9361,9 @@
         },
         {
             "pakku_id": "7evP9CZfYpQ8aoCr",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -9395,9 +9499,9 @@
             ]
         },
         {
-            "pakku_id": "lZlWybA7dxvhsL1P",
+            "pakku_id": "KdS26hAEO1PpVso2",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr"
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9413,61 +9517,63 @@
                 "curseforge": "488090",
                 "modrinth": "codAaoxh"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "midnightlib-fabric-1.9.1+1.20.1.jar",
+                    "file_name": "midnightlib-fabric-1.4.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7254/900/midnightlib-fabric-1.9.1+1.20.1.jar",
-                    "id": "7254900",
+                    "url": "https://edge.forgecdn.net/files/4576/371/midnightlib-fabric-1.4.1.jar",
+                    "id": "4576371",
                     "parent_id": "488090",
                     "hashes": {
-                        "sha1": "dc9d711571fd22b7a5b318c83150664048c8f7f1",
-                        "md5": "1e76d5e87e54c3d2f54481ac096c73c2"
+                        "sha1": "7301b84a6b0a99988ce898148a9bbd632cfe220b",
+                        "md5": "5fb8e62ec2f6bedc91aa5547d0c9c96e"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 58520,
-                    "date_published": "2025-11-23T20:10:54.210Z"
+                    "size": 59752,
+                    "date_published": "2023-06-09T16:55:40.503Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "midnightlib-fabric-1.9.1+1.20.1.jar",
+                    "file_name": "midnightlib-fabric-1.4.1.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/H83eN0R5/midnightlib-fabric-1.9.1+1.20.1.jar",
-                    "id": "H83eN0R5",
+                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/YXz8kIQl/midnightlib-fabric-1.4.1.1.jar",
+                    "id": "YXz8kIQl",
                     "parent_id": "codAaoxh",
                     "hashes": {
-                        "sha512": "48791ea37d61151b7ad8b35eacb53743d71709300e600c030b98c879d7612f8a0ae09649b3edbbdbc4be68da02229a83a083c0e1ce198e21551cf90c750b3ad9",
-                        "sha1": "dc9d711571fd22b7a5b318c83150664048c8f7f1"
+                        "sha512": "2780de49e687343cee6577ec5d029571e214e427f999f5bd651d33b9aae190a19d832feb82ba67aa8779a614579379b982c021bad5e9a87a841e5e0276486078",
+                        "sha1": "23ab09b69c30e296d35fc957c2e9168b10a94001"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 58520,
-                    "date_published": "2025-11-23T20:10:53.265115Z"
+                    "size": 57229,
+                    "date_published": "2023-06-09T17:02:35.174808Z"
                 }
             ]
         },
         {
             "pakku_id": "CIPOiQbQoEMASQiS",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -9966,6 +10072,9 @@
         },
         {
             "pakku_id": "xA9SiK840tbiix9E",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -10237,6 +10346,9 @@
         },
         {
             "pakku_id": "UgKK57Koj5C2c0SF",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -10474,19 +10586,48 @@
             ]
         },
         {
-            "pakku_id": "epequFjzAwJu8tqw",
+            "pakku_id": "mRlmZ1RCW7skxtkQ",
+            "pakku_links": [
+                "E0Hhuv5KSx1UNZJ0"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "nether-structure-tweaks",
                 "modrinth": "nether-structure-tweaks"
             },
             "name": {
+                "curseforge": "Nether Structure Tweaks",
                 "modrinth": "Nether Tweaks"
             },
             "id": {
+                "curseforge": "1393160",
                 "modrinth": "tE1u6dj1"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "nether_tweaks-fabric-1.20.1-1.2.0-1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7268/538/nether_tweaks-fabric-1.20.1-1.2.0-1.jar",
+                    "id": "7268538",
+                    "parent_id": "1393160",
+                    "hashes": {
+                        "sha1": "387b358bc89b235213f84a79ea964e872ceeb382",
+                        "md5": "53e4e1666828f582aaa82ffc95e07510"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 91641,
+                    "date_published": "2025-11-27T17:36:16.283Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "nether_tweaks-fabric-1.20.1-1.2.0.jar",
@@ -10582,6 +10723,9 @@
         },
         {
             "pakku_id": "qz1U4TVZgeechw3m",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -10921,6 +11065,9 @@
         },
         {
             "pakku_id": "wInfCOm2lKYpGueP",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -10993,6 +11140,9 @@
         },
         {
             "pakku_id": "XsF0ogtrYwD6iLHW",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -11062,6 +11212,9 @@
         },
         {
             "pakku_id": "zuFjk4WsdRMUZHmt",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11128,6 +11281,9 @@
         },
         {
             "pakku_id": "x05ahKsD4XFzwVp6",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11197,6 +11353,9 @@
         },
         {
             "pakku_id": "X9oPGNW2BUh891zj",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11280,6 +11439,9 @@
         },
         {
             "pakku_id": "zv0Lu5EeSRU6Fepm",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -11412,6 +11574,9 @@
         },
         {
             "pakku_id": "uHvLIfyI4S7zuFz2",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11475,6 +11640,9 @@
         },
         {
             "pakku_id": "qh87K1ZXZcRM5wi3",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11586,6 +11754,9 @@
         },
         {
             "pakku_id": "vOKQxoUW2EGYo83o",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -11717,6 +11888,9 @@
         },
         {
             "pakku_id": "BtnLJzsl1wqM0j3S",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11827,6 +12001,9 @@
         },
         {
             "pakku_id": "lzXenE5pzUYb5pwB",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -11898,6 +12075,9 @@
         },
         {
             "pakku_id": "9FOUm3cexsK0hlGY",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -11982,6 +12162,9 @@
         },
         {
             "pakku_id": "h5s50HTIf6Am9eE9",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -12183,6 +12366,9 @@
         },
         {
             "pakku_id": "86GtnkXg2MCfzXAi",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -12311,6 +12497,9 @@
         },
         {
             "pakku_id": "i600rUWEQdJ85OO7",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12767,6 +12956,9 @@
         },
         {
             "pakku_id": "yj4Ey8Gb6ffJFlJr",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -12979,6 +13171,9 @@
         },
         {
             "pakku_id": "Sv8pu2JBQcvgTzOJ",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -13045,6 +13240,9 @@
         },
         {
             "pakku_id": "I3R56KffM8BLOYK5",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13232,6 +13430,9 @@
         },
         {
             "pakku_id": "2Gh329G1JfbX53jK",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -13443,6 +13644,9 @@
         },
         {
             "pakku_id": "ZTaJOD85GY5bZxFX",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13575,6 +13779,9 @@
         },
         {
             "pakku_id": "7cMLRAcpexmqapBR",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13649,7 +13856,8 @@
         {
             "pakku_id": "MW9Ib1f5z4wBdZZO",
             "pakku_links": [
-                "69C7dgUpDXcimMUI"
+                "69C7dgUpDXcimMUI",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14640,6 +14848,9 @@
         },
         {
             "pakku_id": "ofCbGJZjYufBdQDX",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -14847,6 +15058,9 @@
         },
         {
             "pakku_id": "8FgQAErzIpmNwQN7",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -14915,7 +15129,8 @@
         {
             "pakku_id": "K2y2ifxaCEHtXjuk",
             "pakku_links": [
-                "uK1CD3knKG7HKtCu"
+                "uK1CD3knKG7HKtCu",
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14958,6 +15173,9 @@
         },
         {
             "pakku_id": "dvTIj55XYnby5TyD",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -15025,6 +15243,9 @@
         },
         {
             "pakku_id": "WxpMOlosOfJauHng",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -15099,7 +15320,7 @@
         {
             "pakku_id": "YTQS28sPsodD8LSC",
             "pakku_links": [
-                "HV8bMOZ1zXuSddMr"
+                "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15240,6 +15461,9 @@
         },
         {
             "pakku_id": "MQSA3QMrX4mWU9Vz",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -15309,6 +15533,9 @@
         },
         {
             "pakku_id": "EyUWZdsfyydswvaR",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -15442,6 +15669,9 @@
         },
         {
             "pakku_id": "XGUJ7I1uZ8bsT6v4",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -15589,7 +15819,7 @@
         },
         {
             "pakku_id": "B9Fq01d2HuV1J4bQ",
-            "type": "MOD",
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
                 "modrinth": "towers-of-the-wild-reworked"
@@ -15703,6 +15933,9 @@
         },
         {
             "pakku_id": "5apTdOstZL0G6zi0",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -16005,6 +16238,9 @@
         },
         {
             "pakku_id": "JeR0QfEJejNRm49x",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -16078,6 +16314,9 @@
         },
         {
             "pakku_id": "vfAh20ZU3ll57TY5",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -16143,6 +16382,9 @@
         },
         {
             "pakku_id": "4dGQDjEi0Ci31GDY",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -16211,22 +16453,52 @@
             ]
         },
         {
-            "pakku_id": "BTGNuR7sTUNCkbxA",
+            "pakku_id": "FqdCgbbQTS5lD9XP",
             "pakku_links": [
-                "Hq1xYq5LP5n4JPfg"
+                "I3R56KffM8BLOYK5",
+                "XQoRdRppIlHi7oXr",
+                "4dGQDjEi0Ci31GDY"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "wthit-small-ships-plugin",
                 "modrinth": "wthit-small-ships-plugin"
             },
             "name": {
+                "curseforge": "WTHIT: Small Ships Plugin",
                 "modrinth": "WTHIT: Small Ships Plugin"
             },
             "id": {
+                "curseforge": "1394118",
                 "modrinth": "zPDxO1Zp"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "waila_smallships-1.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7273/271/waila_smallships-1.1.1+1.20.1.jar",
+                    "id": "7273271",
+                    "parent_id": "1394118",
+                    "hashes": {
+                        "sha1": "fa0e1b596b2b7f691ed19df8b17d8315e0b1d904",
+                        "md5": "eeb07de5609acc96094e6160b88bc87e"
+                    },
+                    "required_dependencies": [
+                        "450659",
+                        "615134",
+                        "440979"
+                    ],
+                    "size": 131931,
+                    "date_published": "2025-11-29T03:34:41.753Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "waila_smallships-1.1.1+1.20.1.jar",
@@ -16392,6 +16664,9 @@
         },
         {
             "pakku_id": "mGq0eKPfkVYYrcBk",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -16459,6 +16734,9 @@
         },
         {
             "pakku_id": "pJV57ISefoVeKSl7",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -16530,6 +16808,9 @@
         },
         {
             "pakku_id": "YhZo5Vv3EE2xFiTI",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -16601,6 +16882,9 @@
         },
         {
             "pakku_id": "0zaEzuHr1fDxrmCD",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -16666,6 +16950,9 @@
         },
         {
             "pakku_id": "LzLzNb8Bbfn6hs9m",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -17009,6 +17296,9 @@
         },
         {
             "pakku_id": "EqbYARHlmZeZNUr6",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -17073,6 +17363,9 @@
         },
         {
             "pakku_id": "ZRR99zmuv5CalMXW",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -17144,6 +17437,9 @@
         },
         {
             "pakku_id": "fr8scbgIJpn7MxpX",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {

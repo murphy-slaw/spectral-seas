@@ -86,11 +86,13 @@
     "tooltip_hints": true,
     "placeable_tooltips": true,
     "custom_configured_screen": true,
+    "unfunny": false,
     "test1": 0.0,
     "test2": 0.0,
     "test3": 0.0
   },
   "tweaks": {
+    "overlay": true,
     "clock_right_click": true,
     "projectile_weapon_overlay": true,
     "compass_right_click": false,
@@ -112,6 +114,7 @@
     "tooltip_image_size": 80,
     "mob_head_shaders": true,
     "send_chat_on_death": true,
+    "enderman_head_texture_pack_support": true,
     "colored_maps": {
       "tinted_blocks_on_maps": true,
       "tall_grass_color": true,
