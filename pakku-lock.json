@@ -1,7 +1,6 @@
 {
     "target": "multiplatform",
     "mc_versions": [
-        "1.20",
         "1.20.1"
     ],
     "loaders": {
@@ -842,6 +841,9 @@
         },
         {
             "pakku_id": "yf31e8TrWPyf1bfg",
+            "pakku_links": [
+                "ZEolot0hEgaEEiDi"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1341,76 +1343,6 @@
             ]
         },
         {
-            "pakku_id": "rFzHAj07wqbPK39u",
-            "pakku_links": [
-                "E0Hhuv5KSx1UNZJ0"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "beltborne-lanterns",
-                "modrinth": "beltborne-lanterns"
-            },
-            "name": {
-                "curseforge": "Beltborne Lanterns",
-                "modrinth": "Beltborne Lanterns"
-            },
-            "id": {
-                "curseforge": "1337474",
-                "modrinth": "NUFDZAKS"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "beltborne_lanterns-1.2.1-fabric+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7039/263/beltborne_lanterns-1.2.1-fabric+1.20.1.jar",
-                    "id": "7039263",
-                    "parent_id": "1337474",
-                    "hashes": {
-                        "sha1": "cbff83426d7a3ee94971472af3904c3649d50a67",
-                        "md5": "e70968cdc177b011af56742216f9c062"
-                    },
-                    "required_dependencies": [
-                        "348521"
-                    ],
-                    "size": 132524,
-                    "date_published": "2025-09-27T16:18:20.407Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "beltborne_lanterns-1.2.1-fabric+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/NUFDZAKS/versions/M3cGhJrB/beltborne_lanterns-1.2.1-fabric+1.20.1.jar",
-                    "id": "M3cGhJrB",
-                    "parent_id": "NUFDZAKS",
-                    "hashes": {
-                        "sha512": "e9119f77773ca084c673fbcd4b944f9ded7482a8c1b229814a36d2a6ca89a84153b8a37f44448a117fa11fffb995cfea1b681d19b29a96f228e2314c0a23d62a",
-                        "sha1": "cbff83426d7a3ee94971472af3904c3649d50a67"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 132524,
-                    "date_published": "2025-09-27T16:16:52.975664Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "3btQhgHxvIuorerV",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
@@ -1770,84 +1702,6 @@
                     "required_dependencies": [],
                     "size": 14137,
                     "date_published": "2023-04-19T10:52:04.883Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "FMyTTWORdA7Wdp1Q",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "bettergrassify",
-                "modrinth": "bettergrassify"
-            },
-            "name": {
-                "curseforge": "BetterGrassify",
-                "modrinth": "BetterGrassify"
-            },
-            "id": {
-                "curseforge": "1026394",
-                "modrinth": "m5T5xmUy"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "BetterGrassify-1.4.4+fabric.1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/GVS6ujFJ/BetterGrassify-1.4.4+fabric.1.20.1.jar",
-                    "id": "GVS6ujFJ",
-                    "parent_id": "m5T5xmUy",
-                    "hashes": {
-                        "sha512": "282323691606ec631de08abe55aede0d61597a0e068553f5b92a6d2de7a32473d054729deddec77e51a262addde9306cfae5c6c438fa59609984c277c013dab8",
-                        "sha1": "76e1e92f1ed91ef31e4c70ca62186494b2683604"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 152476,
-                    "date_published": "2025-01-10T07:33:24.552090Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "BetterGrassify-1.4.4+fabric.1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6071/599/BetterGrassify-1.4.4+fabric.1.20.1.jar",
-                    "id": "6071599",
-                    "parent_id": "1026394",
-                    "hashes": {
-                        "sha1": "76e1e92f1ed91ef31e4c70ca62186494b2683604",
-                        "md5": "065cd15636bf032ac9a0fb8e3c26a70e"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 152476,
-                    "date_published": "2025-01-10T07:33:23.160Z"
                 }
             ]
         },
@@ -4915,7 +4769,8 @@
         {
             "pakku_id": "uswnlBnl2stx4hY5",
             "pakku_links": [
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "ZEolot0hEgaEEiDi"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -8209,6 +8064,78 @@
                     ],
                     "size": 1114373,
                     "date_published": "2025-09-18T22:52:42.515280Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "b2J1nMXPR0coJ66Q",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "lambdabettergrass",
+                "modrinth": "lambdabettergrass"
+            },
+            "name": {
+                "curseforge": "LambdaBetterGrass",
+                "modrinth": "LambdaBetterGrass"
+            },
+            "id": {
+                "curseforge": "400322",
+                "modrinth": "2Uev7LdA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lambdabettergrass-2.0.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6927/677/lambdabettergrass-2.0.3+1.20.1.jar",
+                    "id": "6927677",
+                    "parent_id": "400322",
+                    "hashes": {
+                        "sha1": "fd80bf5db05bfa6b3488d1825e6bd93b791a9d15",
+                        "md5": "d48dc08c7f360c8f7147f428f46e5995"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1473398,
+                    "date_published": "2025-08-25T18:35:43.837Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lambdabettergrass-2.0.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/eTxu3nyw/lambdabettergrass-2.0.3+1.20.1.jar",
+                    "id": "eTxu3nyw",
+                    "parent_id": "2Uev7LdA",
+                    "hashes": {
+                        "sha512": "4a00e4a8f8ce95a16f1366a79d58a6514bb0611e7dc55d69b637c4729a8e77e2121f28d0349f05374b17f5ffcfa7d289d306f4181838490e9550cc686ce2ee28",
+                        "sha1": "fd80bf5db05bfa6b3488d1825e6bd93b791a9d15"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1473398,
+                    "date_published": "2025-08-25T18:33:15.543903Z"
                 }
             ]
         },
@@ -12105,7 +12032,8 @@
         {
             "pakku_id": "lzXenE5pzUYb5pwB",
             "pakku_links": [
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "ZEolot0hEgaEEiDi"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -13138,7 +13066,52 @@
             ]
         },
         {
+            "pakku_id": "sFTzJvZADgXqe5ZI",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "simple-belt-lanterns"
+            },
+            "name": {
+                "modrinth": "Simple Belt Lanterns"
+            },
+            "id": {
+                "modrinth": "QgFr5VFQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bug_beltlanterns-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QgFr5VFQ/versions/ClGHETPJ/bug_beltlanterns-1.0.2.jar",
+                    "id": "ClGHETPJ",
+                    "parent_id": "QgFr5VFQ",
+                    "hashes": {
+                        "sha512": "9d2b695e7bc3b229ab59d72403a646cc48a00159883880f5f7197373f1dd39c8a4802d333dc2bc7a1932d72e1eff7aa1c8c91e9fddf3bd57e616eb8c1c6a952b",
+                        "sha1": "f72fb0ab277e5645a47731cfe4619f50a3cb3af1"
+                    },
+                    "required_dependencies": [],
+                    "size": 30012,
+                    "date_published": "2025-01-01T07:15:04.569638Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4asC1tCyqPyZLs6J",
+            "pakku_links": [
+                "ZEolot0hEgaEEiDi"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13883,7 +13856,8 @@
         {
             "pakku_id": "7cMLRAcpexmqapBR",
             "pakku_links": [
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "ZEolot0hEgaEEiDi"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -16134,7 +16108,7 @@
             ]
         },
         {
-            "pakku_id": "3QKS4jpKBCNFU0tL",
+            "pakku_id": "ZEolot0hEgaEEiDi",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -16150,6 +16124,27 @@
                 "modrinth": "5aaWibi9"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trinkets-3.7.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5173/501/trinkets-3.7.2.jar",
+                    "id": "5173501",
+                    "parent_id": "341284",
+                    "hashes": {
+                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008",
+                        "md5": "c010ccc2015e5b1f3cb1994694ecc512"
+                    },
+                    "required_dependencies": [],
+                    "size": 238532,
+                    "date_published": "2024-03-11T04:22:11.220Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "trinkets-3.7.2.jar",
@@ -16171,27 +16166,6 @@
                     "required_dependencies": [],
                     "size": 238532,
                     "date_published": "2024-03-11T04:25:11.224830Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "trinkets-3.7.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5173/501/trinkets-3.7.2.jar",
-                    "id": "5173501",
-                    "parent_id": "341284",
-                    "hashes": {
-                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008",
-                        "md5": "c010ccc2015e5b1f3cb1994694ecc512"
-                    },
-                    "required_dependencies": [],
-                    "size": 238532,
-                    "date_published": "2024-03-11T04:22:11.220Z"
                 }
             ]
         },
