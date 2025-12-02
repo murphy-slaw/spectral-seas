@@ -4,7 +4,7 @@
         "1.20.1"
     ],
     "loaders": {
-        "fabric": "0.16.14"
+        "fabric": "0.17.3"
     },
     "projects": [
         {
@@ -7607,7 +7607,7 @@
             ]
         },
         {
-            "pakku_id": "ZjlHgOaunImILTKg",
+            "pakku_id": "0VGs7FQXHCxTjlcP",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -15245,76 +15245,6 @@
                     ],
                     "size": 560422,
                     "date_published": "2025-01-13T08:22:50.222087Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "dvTIj55XYnby5TyD",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "sushi-bar",
-                "modrinth": "sushi-bar"
-            },
-            "name": {
-                "curseforge": "Sushi Bar [Unofficial]",
-                "modrinth": "Sushi Bar"
-            },
-            "id": {
-                "curseforge": "1264406",
-                "modrinth": "tr2Mv6ke"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "sushi_bar-0.2.2+1.20.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/tr2Mv6ke/versions/jr9lc3k8/sushi_bar-0.2.2+1.20.jar",
-                    "id": "jr9lc3k8",
-                    "parent_id": "tr2Mv6ke",
-                    "hashes": {
-                        "sha512": "d8619fe5e575e62eca86e898569df122eb5002914167cf75d7d61f17633ead9e3c6b4b7a3b00d2336964b21f299f653459fc1964440f6ad2d36011be5dc72889",
-                        "sha1": "03238309995c476ca7f61f6d55d41d1408692c67"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 94225,
-                    "date_published": "2024-08-26T00:57:17.440784Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "sushi_bar-0.2.2+1.20.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6523/276/sushi_bar-0.2.2+1.20.jar",
-                    "id": "6523276",
-                    "parent_id": "1264406",
-                    "hashes": {
-                        "sha1": "03238309995c476ca7f61f6d55d41d1408692c67",
-                        "md5": "970522dbe0af60ee7532bcf9eca83b3e"
-                    },
-                    "required_dependencies": [],
-                    "size": 94225,
-                    "date_published": "2025-05-12T18:45:05.580Z"
                 }
             ]
         },
