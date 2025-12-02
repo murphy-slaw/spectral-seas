@@ -1,6 +1,6 @@
 {
     "name": "Spectral Seas",
-    "version": "0.9.12.2-beta",
+    "version": "0.9.13-beta",
     "author": "murphy_slaw",
     "overrides": [
         "config",
