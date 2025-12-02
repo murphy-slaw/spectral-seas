@@ -127,6 +127,74 @@
             ]
         },
         {
+            "pakku_id": "Td9yab7IlEP2vCne",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "actually-harvest",
+                "modrinth": "actually-harvest"
+            },
+            "name": {
+                "curseforge": "Actually Harvest (right click and XP)",
+                "modrinth": "Actually Harvest"
+            },
+            "id": {
+                "curseforge": "1076278",
+                "modrinth": "sUbuUC7R"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "actuallyharvest-1.20.1-1.1.3.6-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7046/731/actuallyharvest-1.20.1-1.1.3.6-FABRIC.jar",
+                    "id": "7046731",
+                    "parent_id": "1076278",
+                    "hashes": {
+                        "sha1": "db975f31e546ee5d0a361e24a1713177f121abf9",
+                        "md5": "9b7111f7f110c82b2dcf43afa7f80089"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 605647,
+                    "date_published": "2025-09-29T20:52:19.490Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "actuallyharvest-1.20.1-1.1.3.6-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sUbuUC7R/versions/OkqorgLZ/actuallyharvest-1.20.1-1.1.3.6-FABRIC.jar",
+                    "id": "OkqorgLZ",
+                    "parent_id": "sUbuUC7R",
+                    "hashes": {
+                        "sha512": "240679a172f18141de05e03101e337351881aa4e87f7edffff67318d4a621709628fba7f5d8d2e37975dee641a17b1cbb7d8a3cac54226b5965b2eaf746c257b",
+                        "sha1": "db975f31e546ee5d0a361e24a1713177f121abf9"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 605647,
+                    "date_published": "2025-09-29T20:52:20.980738Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "H0Rj60UDQbN40Y3F",
             "type": "MOD",
             "side": "SERVER",
