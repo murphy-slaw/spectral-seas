@@ -28,7 +28,7 @@ const Loot = (function () {
     function enchantsFor(item, pool) {
         /** @type {Internal.RegistryInfo<Internal.Enchantment>} */
         const reg = Utils.getRegistry('minecraft:enchantment')
-        return pool.filter((v) => reg.getValue(v).canEnchant(item))
+        return pool.filter((v) => reg.getValue(v) && reg.getValue(v).canEnchant(item))
     }
 
     /**
