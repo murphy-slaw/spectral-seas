@@ -27,9 +27,6 @@ net.minecraft.class_4749 {
 net.minecraft.class_500 {
 }
 
-com.terraformersmc.modmenu.gui.ModsScreen {
-}
-
 net.minecraft.class_429 {
 }
 
@@ -93,12 +90,6 @@ hantonik.fbp.screen.category.FBPFlameScreen {
 hantonik.fbp.screen.category.FBPSmokeScreen {
 }
 
-hantonik.fbp.screen.category.FBPAnimationsScreen {
-}
-
-hantonik.fbp.screen.category.FBPOverlayScreen {
-}
-
 net.minecraft.class_422 {
 }
 
@@ -115,5 +106,8 @@ me.shedaniel.clothconfig2.gui.ClothConfigScreen {
 }
 
 net.minecraft.class_412 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
