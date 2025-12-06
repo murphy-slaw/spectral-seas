@@ -14458,7 +14458,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.8.2.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.9.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14466,22 +14466,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/JyZrPrLz/staminafortweakers-fabric-1.20.1-1.8.2.jar",
-                    "id": "JyZrPrLz",
+                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/r9Y236h1/staminafortweakers-fabric-1.20.1-1.9.0.jar",
+                    "id": "r9Y236h1",
                     "parent_id": "AejtfAlC",
                     "hashes": {
-                        "sha512": "1bfb66b1d6725245c318f23a3bd67d0e0b91c08e15ddb6f9881e894cbbfac650866274522c90774199c03f7546a8c588b7009e00403cd2f9c178c86fa211aca6",
-                        "sha1": "24c94ceaa40b4465ec8cd417761f212fd3d60de1"
+                        "sha512": "26a4ddc9845ea802479a6b49da188ab5849b71533d1e5cfc048f2ac411bb789568679329c9dc2e9f23bb17aab524ea82989cef88e5cb40d55686b6b971d9ecc5",
+                        "sha1": "ee58ff5b0bfa36f8e0326f33821449ac2114da9e"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 682974,
-                    "date_published": "2025-08-05T03:01:35.199888Z"
+                    "size": 684758,
+                    "date_published": "2025-12-06T08:01:39.041073Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.8.2.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.9.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14489,18 +14489,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6849/399/staminafortweakers-fabric-1.20.1-1.8.2.jar",
-                    "id": "6849399",
+                    "url": "https://edge.forgecdn.net/files/7299/671/staminafortweakers-fabric-1.20.1-1.9.0.jar",
+                    "id": "7299671",
                     "parent_id": "1040808",
                     "hashes": {
-                        "sha1": "24c94ceaa40b4465ec8cd417761f212fd3d60de1",
-                        "md5": "1b1d6732ccd6a74d3413d0474554d39a"
+                        "sha1": "ee58ff5b0bfa36f8e0326f33821449ac2114da9e",
+                        "md5": "ad083abaf025282e02c3ce0d8bd57676"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 682974,
-                    "date_published": "2025-08-05T03:01:36.517Z"
+                    "size": 684758,
+                    "date_published": "2025-12-06T08:07:18.067Z"
                 }
             ]
         },
@@ -15059,6 +15059,67 @@
                     ],
                     "size": 3197148,
                     "date_published": "2025-10-22T23:14:32.567Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "G1vqZNOZaARCji0R",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "subtle-skybox",
+                "modrinth": "subtle-skybox"
+            },
+            "name": {
+                "curseforge": "Subtle Skybox",
+                "modrinth": "Subtle Skybox"
+            },
+            "id": {
+                "curseforge": "1344151",
+                "modrinth": "18yT8qGk"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "subtleskybox-fabric-0.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6980/615/subtleskybox-fabric-0.1.1.jar",
+                    "id": "6980615",
+                    "parent_id": "1344151",
+                    "hashes": {
+                        "sha1": "a056c70f1342b9683c9616653ae746d6d7c421b8",
+                        "md5": "ad903db9e037ee1805c8b83a20d50a8d"
+                    },
+                    "required_dependencies": [],
+                    "size": 17111,
+                    "date_published": "2025-09-09T18:24:39.593Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "subtleskybox-fabric-0.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/18yT8qGk/versions/6Gs8Uc6V/subtleskybox-fabric-0.1.1.jar",
+                    "id": "6Gs8Uc6V",
+                    "parent_id": "18yT8qGk",
+                    "hashes": {
+                        "sha512": "314bee905629a88bd4d5c96f38996b82ff3182f5edd58646af4e2a70edd6680333f48a1ff3c4a66f13f32c49bca20c1826b04cf3888d60599c5d04c781ad5f67",
+                        "sha1": "a056c70f1342b9683c9616653ae746d6d7c421b8"
+                    },
+                    "required_dependencies": [],
+                    "size": 17111,
+                    "date_published": "2025-09-09T14:56:42.335796Z"
                 }
             ]
         },
