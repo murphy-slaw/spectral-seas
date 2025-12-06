@@ -1,9 +1,6 @@
 const $MobType = Java.loadClass('net.minecraft.world.entity.MobType')
 const $GEntityTypes = Java.loadClass('net.orcinus.galosphere.init.GEntityTypes')
 
-const MONSTER_MOBCAP = 70
-const PILLAGER_MOBCAP = 4
-
 const pillagerHats = new Map([
     ['simplehats:bicorne', 2],
     ['simplehats:tricorne', 1],
@@ -30,18 +27,6 @@ EntityEvents.spawned((event) => {
         return
     }
 
-    // Fake mobcap: leave headroom for Pirate summons
-    if (
-        entity.type !== 'minecraft:pillager' &&
-        entity.monster &&
-        level
-            .getEntities()
-            .filter((entity) => entity.monster && entity.type !== 'minecraft:pillager').length >=
-            MONSTER_MOBCAP - PILLAGER_MOBCAP
-    ) {
-        event.cancel()
-    }
-
     if (entity.mobType === $MobType.ILLAGER) {
         if (StructureUtils.entityInStructure(entity, 'mostructures:pillager_factory', level)) {
             entity.setChestArmorItem(
@@ -61,7 +46,6 @@ EntityEvents.spawned((event) => {
 
         //Don't replace raid captain banner
         if (entity.getHeadArmorItem().empty) {
-            //entity.setHeadArmorItem(Utils.randomOf(Utils.random, pillagerHats))
             entity.setHeadArmorItem(Item.of(RandomUtils.weighted(pillagerHats)))
         } else if (entity.getHeadArmorItem().item === 'white_banner') {
             entity.setHeadArmorItem(BANNERS.JOLLY_ROGER)
