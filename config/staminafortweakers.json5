@@ -53,6 +53,8 @@
 	"recoveryDelayTicks": 0,
 	// Delay in ticks before regaining shield use
 	"shieldRecoveryDelayTicks": 40,
+	// Do players fully recover stamina on respawn?
+	"fullRecoveryOnRespawn": true,
 	// Which formula to use for recovery
 	"formula": "LOGARITHMIC",
 	// HUD vertical alignment
@@ -141,6 +143,6 @@
 			"visible": true
 		}
 	],
-	// Effects equivalent to Untiring
+	// Effects that prevent stamina depletion
 	"untiringEquivalentEffects": []
 }
