@@ -29,6 +29,8 @@
 √ Fix repair recipe for stone swords
 √ Fix uncraftable potion in treasure chest loot
 √ Map markers for tethered horses
+√ Pirate ships
+√ Add a way to heal pets
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
 INVALID TODO: figure out waystone costs for towers
@@ -41,10 +43,12 @@ TODO: assign Simple Hats as rewards for every advancement 😛
 TODO: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
 TODO: maybe always respawn on the nearest beach to where you died if you don't have a spawn point set? and put the player in crawl mode as if your body has washed ashore
 TODO: More armor set bonuses.
-TODO: Pirate ships
 TODO: randomly replace single chests on shelves in the Undead Crypt with Artifacts Mimics
 TODO: Rework the skins and armor CIT for guard villagers so they look like Keystone Kops
 TODO: Viking funeral advancement
-Add a way to heal pets
-Partial recovery of ship upgrades on break.
-Loot tables for elder guardians: trident icons?
+TODO: Partial recovery of ship upgrades on break.
+TODO: Loot tables for elder guardians: trident icons?
+Reduce drop rates for turtle scutes and nautilus shells
+Make Nautilus armor worth making.
+More things to do with seashells, nautilus shells, scutes.
+Reduce flax spawns?
