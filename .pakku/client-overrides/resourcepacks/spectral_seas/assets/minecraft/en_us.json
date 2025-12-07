@@ -1,5 +1,5 @@
-{  
-"advancements.adventure.whos_the_pillager_now.description": "Give a Pirate a taste of their own medicine",
+{
+  "advancements.adventure.whos_the_pillager_now.description": "Give a Pirate a taste of their own medicine",
   "advancements.adventure.whos_the_pillager_now.title": "Who's the Pirate Now?",
   "entity.minecraft.pillager": "Pirate",
   "gamerule.doPatrolSpawning": "Spawn pirate patrols",

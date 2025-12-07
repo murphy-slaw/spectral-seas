@@ -9,6 +9,8 @@
 !pack.toml
 !LICENSE
 !server-icon.png
+!.pakku
+!.pakku/**
 **/.DS_Store
 
 resourcepacks/*.zip
