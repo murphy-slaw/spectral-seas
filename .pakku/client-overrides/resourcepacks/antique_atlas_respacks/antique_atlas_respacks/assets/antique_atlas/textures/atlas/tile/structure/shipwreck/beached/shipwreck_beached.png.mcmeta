@@ -1,0 +1,8 @@
+{
+  "antique_atlas:tiling": {
+    "parent": "antique_atlas:feature/water/water_1",
+    "tilesTo":[
+      "#antique_atlas:water"
+    ]
+  }
+}
