@@ -6085,27 +6085,27 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Geophilic v3.4.4 f15-88.dp.zip",
+                    "file_name": "Geophilic 3.4.5.dp.zip",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
-                        "1.20.3",
                         "1.20.1",
                         "1.20",
                         "1.20.6",
-                        "1.20.4"
+                        "1.20.4",
+                        "1.20.3"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7071/560/Geophilic v3.4.4 f15-88.dp.zip",
-                    "id": "7071560",
+                    "url": "https://edge.forgecdn.net/files/7317/843/Geophilic 3.4.5.dp.zip",
+                    "id": "7317843",
                     "parent_id": "1178482",
                     "hashes": {
-                        "sha1": "5a8437bd0873599ca63ccbb63069715635b79416",
-                        "md5": "e5d3aea6a05aa38c3763063c30e67427"
+                        "sha1": "07506c58ba4f1015fc80665e9a260aac24eae691",
+                        "md5": "53b7178e03a3c08d5dede395168fee61"
                     },
                     "required_dependencies": [],
-                    "size": 712633,
-                    "date_published": "2025-10-05T21:17:03.330Z"
+                    "size": 748787,
+                    "date_published": "2025-12-10T21:44:10.523Z"
                 },
                 {
                     "type": "modrinth",
@@ -10644,7 +10644,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "notenoughanimations-fabric-1.10.6-mc1.20.1.jar",
+                    "file_name": "notenoughanimations-fabric-1.11.0-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -10652,22 +10652,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/pm5lGOZk/notenoughanimations-fabric-1.10.6-mc1.20.1.jar",
-                    "id": "pm5lGOZk",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/UPuxvqNt/notenoughanimations-fabric-1.11.0-mc1.20.1.jar",
+                    "id": "UPuxvqNt",
                     "parent_id": "MPCX6s5C",
                     "hashes": {
-                        "sha512": "cfae8a64a9c69da5ea55af5849adf2d37c1474809fe282e214f2fcc9351d484ea8657cc5f5c88428ce5d3096cf81b7daaa7283d65798377fb2fd46e9fc856a69",
-                        "sha1": "361acfdc0b5be07279fa61f07f85eda5483aeefa"
+                        "sha512": "b7d8b83bb6da0e2a5e8d1396aa3779521a9d7f65c15a997631e05b6579e9a0b31c0ae926fb8b3ff47d7de8043f25b4b01464b4bca346fe9d4dafcac23525d79b",
+                        "sha1": "95aaf22cf7456de37edfee03f797904188243072"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 833885,
-                    "date_published": "2025-10-20T12:41:37.045571Z"
+                    "size": 1924426,
+                    "date_published": "2025-12-11T20:38:50.103698Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "notenoughanimations-fabric-1.10.6-mc1.20.1.jar",
+                    "file_name": "notenoughanimations-fabric-1.11.0-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -10675,18 +10675,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7129/301/notenoughanimations-fabric-1.10.6-mc1.20.1.jar",
-                    "id": "7129301",
+                    "url": "https://edge.forgecdn.net/files/7321/960/notenoughanimations-fabric-1.11.0-mc1.20.1.jar",
+                    "id": "7321960",
                     "parent_id": "433760",
                     "hashes": {
-                        "sha1": "361acfdc0b5be07279fa61f07f85eda5483aeefa",
-                        "md5": "b3891b8b98ecacc758ead9e8ce657c37"
+                        "sha1": "95aaf22cf7456de37edfee03f797904188243072",
+                        "md5": "ad8f83f2ff21ddb5db1c428d3137ef22"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 833885,
-                    "date_published": "2025-10-20T12:41:35.653Z"
+                    "size": 1924426,
+                    "date_published": "2025-12-11T20:38:47.773Z"
                 }
             ]
         },
@@ -12488,11 +12488,11 @@
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
-                        "1.20.3",
                         "1.20.1",
                         "1.20",
                         "1.20.6",
-                        "1.20.4"
+                        "1.20.4",
+                        "1.20.3"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/6025/494/Revamped Shipwrecks 1.1.0 Datapack.zip",
@@ -13138,7 +13138,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skinlayers3d-fabric-1.9.2-mc1.20.1.jar",
+                    "file_name": "skinlayers3d-fabric-1.10.0-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13146,22 +13146,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/T8XyNmYy/skinlayers3d-fabric-1.9.2-mc1.20.1.jar",
-                    "id": "T8XyNmYy",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/IcuT4XtN/skinlayers3d-fabric-1.10.0-mc1.20.1.jar",
+                    "id": "IcuT4XtN",
                     "parent_id": "zV5r3pPn",
                     "hashes": {
-                        "sha512": "550f6f6b56495f5a556061fda5bd82980ef3fdbd8e4171700fead4664ff269ff3db8c7e41b9ee9429ca6c349744423c89c40442c3cb3e37f2e372e148ada7d4b",
-                        "sha1": "394a4bc0497127819464ca8da03f860a7d135319"
+                        "sha512": "d839bff90d1bca21729298f17930703fe4254158ba7d59506b31a57418e27efadd4083d15fcb5fce90e0f97befe99216b246a120f938314eb51824fecb448d60",
+                        "sha1": "3d4664148c06fa41c249448c5e1219587afac9f6"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 870017,
-                    "date_published": "2025-10-10T15:50:50.513931Z"
+                    "size": 1966189,
+                    "date_published": "2025-12-11T20:27:27.992116Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "skinlayers3d-fabric-1.9.2-mc1.20.1.jar",
+                    "file_name": "skinlayers3d-fabric-1.10.0-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13169,18 +13169,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7091/93/skinlayers3d-fabric-1.9.2-mc1.20.1.jar",
-                    "id": "7091093",
+                    "url": "https://edge.forgecdn.net/files/7321/901/skinlayers3d-fabric-1.10.0-mc1.20.1.jar",
+                    "id": "7321901",
                     "parent_id": "521480",
                     "hashes": {
-                        "sha1": "394a4bc0497127819464ca8da03f860a7d135319",
-                        "md5": "e2919ea4d59b6058c72646863f1bc916"
+                        "sha1": "3d4664148c06fa41c249448c5e1219587afac9f6",
+                        "md5": "25186ecde705a091b5ad1c29d6c917c2"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 870017,
-                    "date_published": "2025-10-10T15:50:48.207Z"
+                    "size": 1966189,
+                    "date_published": "2025-12-11T20:27:25.473Z"
                 }
             ]
         },
