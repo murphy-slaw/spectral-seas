@@ -36,7 +36,7 @@
     show_item_mod_name: false,
     // Show Registry Names
     // Default value: [false]
-    show_registry: true
+    show_registry: false
   },
   minecraft: {
     // Show Block Position

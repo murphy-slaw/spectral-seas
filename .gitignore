@@ -47,4 +47,5 @@ config/fzzy_config/search.toml
 config/cupboard.json
 config/transition.json
 config/trender.json
+config/packetfixer.properties
 config/balm-*
