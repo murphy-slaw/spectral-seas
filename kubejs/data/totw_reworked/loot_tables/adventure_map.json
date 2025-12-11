@@ -171,6 +171,27 @@
                             }
                         }
                     ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "minecraft:village",
+                            "decoration": "target_x",
+                            "zoom": 4,
+                            "search_radius": 100,
+                            "skip_existing_chunks": true
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Mysterious Settlement Map",
+                                "color": "green"
+                            }
+                        }
+                    ]
                 }
             ]
         }

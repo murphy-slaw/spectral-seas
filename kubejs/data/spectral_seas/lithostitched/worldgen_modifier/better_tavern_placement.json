@@ -1,6 +1,6 @@
 {
   "type": "lithostitched:set_structure_spawn_condition",
-  "structures": "#minecraft:village",
+  "structures": "#nova_structures:taverns",
   "spawn_condition": {
     "type": "lithostitched:grid",
     "radius": 20,

@@ -19,6 +19,11 @@
         "wabi_sabi_structures:water_tower_savanna",
         "wabi_sabi_structures:water_tower_spruce",
         "wabi_sabi_structures:zen_chair_museum",
+        "wabi_sabi_structures:effigy_patch_forest",
+        "wabi_sabi_structures:effigy_patch_savanna",
+        "wabi_sabi_structures:effigy_patch_swamp",
+        "wabi_sabi_structures:effigy_patch_mushroom",
+        "wabi_sabi_structures:effigy_patch_jungle",
         "nova_structures:wild_ruin",
         "towns_and_towers:village_beach"
     ]

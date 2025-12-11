@@ -15,8 +15,8 @@
             "range_type": "heightmap_relative",
             "heightmap": "WORLD_SURFACE_WG",
             "permitted_range": [
-              -16,
-              16
+              -20,
+              20
             ]
           }
         },
