@@ -42,4 +42,9 @@ config/sodium-fingerprint.json
 config/sodium-mixins.properties
 config/tellme
 config/terrablender.toml
+config/whitenoise-client.toml
+config/fzzy_config/search.toml
+config/cupboard.json
+config/transition.json
+config/trender.json
 config/balm-*
