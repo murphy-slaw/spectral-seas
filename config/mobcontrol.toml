@@ -41,8 +41,8 @@ type="natural"
 name="pesky_seagulls:seagull"
 [[mob.rule]]
 name="reduce-seagulls"
-spawn.count=[1,2]
-run=75
+spawn.count=1
+run=50
 type="natural"
 
 [[mob]]
