@@ -2,21 +2,21 @@
   "placement": {
     "type": "mvs:advanced_random_spread",
     "salt": 14357621,
-    "separation": 4,
+    "separation": 8,
     "spacing": 12,
     "exclusion_zone": {
-      "chunk_count": 4,
+      "chunk_count": 6,
       "other_set": "spectral_seas:large_ocean_structures"
     }
   },
   "structures": [
     {
       "structure": "minecraft:ocean_ruin_cold",
-      "weight": 2
+      "weight": 3
     },
     {
       "structure": "minecraft:ocean_ruin_warm",
-      "weight": 2
+      "weight": 3
     },
     {
       "structure": "hopo:underwater/underwater_warm_small_ruins",
@@ -28,6 +28,30 @@
     },
     {
       "structure": "philipsruins:ocean_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/small_fossil",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/large_fossil",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/floating_spikes",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/ocean_temple",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/spires",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/conduit_ruins",
       "weight": 1
     }
   ]

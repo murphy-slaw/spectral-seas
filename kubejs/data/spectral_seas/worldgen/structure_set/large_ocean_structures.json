@@ -11,6 +11,22 @@
     {
       "structure": "hopo:underwater/underwater_city",
       "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/prismarine_forge",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/sunken_city",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/trident_shrine",
+      "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/colossuem",
+      "weight": 1
     }
   ],
   "placement": {
