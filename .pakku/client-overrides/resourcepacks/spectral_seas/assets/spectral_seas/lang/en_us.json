@@ -25,5 +25,7 @@
     "item.spectral_seas.beetroot_soup": "Beetroot Soup",
     "item.spectral_seas.suspicious_chowder": "Suspicious Chowder",
     "fluid.spectral_seas.suspicious_chowder": "Suspicious Chowder",
-    "fluid.spectral_seas.potato_soup": "Blighted Tater Soup"
+    "item.spectral_seas.suspicious_chowder_bucket": "Suspicious Chowder Bucket",
+    "fluid.spectral_seas.potato_soup": "Blighted Tater Soup",
+    "item.spectral_seas.potato_soup_bucket": "Blighted Tater Soup Bucket"
 }
