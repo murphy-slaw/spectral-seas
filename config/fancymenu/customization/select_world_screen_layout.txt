@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = select_world_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765037274046
+  last_edited_time = 1765655069920
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b78b1403-a590-4edc-be91-33a18c53fdba-1765037177810] = [groups:][instances:]
+  [loading_requirement_container_meta:65fe5d3d-23fa-48f6-b8c3-544bf57a0bb1-1765655052084] = [groups:][instances:]
 }
 
 customization {
@@ -38,8 +38,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectWorld.recreate"}}
-  label = &0{"placeholder":"local","values":{"key":"selectWorld.recreate"}}
+  label = {"translate":"selectWorld.recreate", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectWorld.recreate", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = f0091099-c321-4461-ace6-aa9cb58dd3d8-1765031906889
   [loading_requirement_container_meta:f0091099-c321-4461-ace6-aa9cb58dd3d8-1765031906889] = [groups:][instances:]
@@ -103,8 +103,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectWorld.select"}}
-  label = &0{"placeholder":"local","values":{"key":"selectWorld.select"}}
+  label = {"translate":"selectWorld.select", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectWorld.select", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 5263f2b1-8e34-4637-9834-297e7b4de3f5-1765031906889
   [loading_requirement_container_meta:5263f2b1-8e34-4637-9834-297e7b4de3f5-1765031906889] = [groups:][instances:]
@@ -168,8 +168,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectWorld.create"}}
-  label = &0{"placeholder":"local","values":{"key":"selectWorld.create"}}
+  label = {"translate":"selectWorld.create", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectWorld.create", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = e7e91096-5627-4aab-a68f-dde0025df3d5-1765031906889
   [loading_requirement_container_meta:e7e91096-5627-4aab-a68f-dde0025df3d5-1765031906889] = [groups:][instances:]
@@ -233,8 +233,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectWorld.edit"}}
-  label = &0{"placeholder":"local","values":{"key":"selectWorld.edit"}}
+  label = {"translate":"selectWorld.edit", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectWorld.edit", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 1c273982-ccf4-427b-a03a-8fd94d81b7d4-1765031906889
   [loading_requirement_container_meta:1c273982-ccf4-427b-a03a-8fd94d81b7d4-1765031906889] = [groups:][instances:]
@@ -298,8 +298,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectWorld.delete"}}
-  label = &0{"placeholder":"local","values":{"key":"selectWorld.delete"}}
+  label = {"translate":"selectWorld.delete", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectWorld.delete", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 1b0e3836-5194-4ab4-b936-0076d9a97bd3-1765031906889
   [loading_requirement_container_meta:1b0e3836-5194-4ab4-b936-0076d9a97bd3-1765031906889] = [groups:][instances:]
@@ -363,8 +363,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = &f{"placeholder":"local","values":{"key":"gui.cancel"}}
-  label = &0{"placeholder":"local","values":{"key":"gui.cancel"}}
+  label = {"translate":"gui.cancel", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"gui.cancel", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 1913cf68-e534-425e-89a2-73548275723a-1765031906889
   [loading_requirement_container_meta:1913cf68-e534-425e-89a2-73548275723a-1765031906889] = [groups:][instances:]

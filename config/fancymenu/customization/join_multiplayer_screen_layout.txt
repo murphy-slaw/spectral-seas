@@ -33,8 +33,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.direct"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.direct"}}
+  label = {"translate":"selectServer.direct", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.direct", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 40c709d5-30cc-4dc7-a35e-cff427572b38-1765034546253
   [loading_requirement_container_meta:40c709d5-30cc-4dc7-a35e-cff427572b38-1765034546253] = [groups:][instances:]
@@ -98,8 +98,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.edit"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.edit"}}
+  label = {"translate":"selectServer.edit", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.edit", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 598cb194-9e0a-4b74-9bff-20ab0847d883-1765034546253
   [loading_requirement_container_meta:598cb194-9e0a-4b74-9bff-20ab0847d883-1765034546253] = [groups:][instances:]
@@ -163,8 +163,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.add"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.add"}}
+  label = {"translate":"selectServer.add", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.add", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 63a3a8d1-2819-46f3-9ae4-712db1982cb8-1765034546253
   [loading_requirement_container_meta:63a3a8d1-2819-46f3-9ae4-712db1982cb8-1765034546253] = [groups:][instances:]
@@ -228,8 +228,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.delete"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.delete"}}
+  label = {"translate":"selectServer.delete", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.delete", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = b95c61f1-0fef-4884-b87b-806317d17ee4-1765034546253
   [loading_requirement_container_meta:b95c61f1-0fef-4884-b87b-806317d17ee4-1765034546253] = [groups:][instances:]
@@ -293,8 +293,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"gui.cancel"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"gui.cancel"}}
+  label = {"translate":"gui.cancel", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"gui.cancel", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = ce5ef7ec-a296-407e-a58e-471d596ff9e3-1765034546253
   [loading_requirement_container_meta:ce5ef7ec-a296-407e-a58e-471d596ff9e3-1765034546253] = [groups:][instances:]
@@ -358,8 +358,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.refresh"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.refresh"}}
+  label = {"translate":"selectServer.refresh", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.refresh", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 1602912f-f779-4f52-b032-df4b2ee6d971-1765034546253
   [loading_requirement_container_meta:1602912f-f779-4f52-b032-df4b2ee6d971-1765034546253] = [groups:][instances:]
@@ -423,8 +423,8 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = &0{"placeholder":"local","values":{"key":"selectServer.select"}}
-  hoverlabel = &f{"placeholder":"local","values":{"key":"selectServer.select"}}
+  label = {"translate":"selectServer.select", "font":"uniform", "color":"black" }
+  hoverlabel = {"translate":"selectServer.select", "font":"uniform", "color":"white" }
   navigatable = true
   widget_active_state_requirement_container_identifier = b217de81-3494-41e9-b8c8-1f08c9a5f738-1765034546253
   [loading_requirement_container_meta:b217de81-3494-41e9-b8c8-1f08c9a5f738-1765034546253] = [groups:][instances:]

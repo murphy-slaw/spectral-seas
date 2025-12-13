@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.terraformersmc.modmenu.gui.ModsScreen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1765058249005
-  is_enabled = true
+  last_edited_time = 1765661947220
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:391889f9-551b-410a-bdaa-f668c4797509-1765057894460] = [groups:][instances:]
+  [loading_requirement_container_meta:3e4cb42d-4a5d-4c42-8ee0-a83d2c158045-1765661909560] = [groups:][instances:]
 }
 
 menu_background {
