@@ -612,7 +612,8 @@ const pirateSummoner = (_task, level) => {
             if (!shouldSummonPirates(player)) return
 
             /** @type {Internal.EntityType} */
-            const shipType = $ModEntityTypes.BRIGG
+            const shipType =
+                localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
             /** @type {Internal.Ship} */
             const pirateShip = buildPirateShip(shipType, level, player)
             const veh = player.getVehicle()
