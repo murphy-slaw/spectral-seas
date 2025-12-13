@@ -31,6 +31,7 @@
 √ Map markers for tethered horses
 √ Pirate ships
 √ Add a way to heal pets
+√ Add swampier swamps villages to atlas.
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
 INVALID TODO: figure out waystone costs for towers
