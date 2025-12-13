@@ -43,6 +43,21 @@
         },
         "better-combat": {
             "update_strategy": "NONE"
+        },
+        "3dskinlayers": {
+            "update_strategy": "NONE"
+        },
+        "sunkenspires": {
+            "type": "DATA_PACK"
+        },
+        "geophilic": {
+            "type": "DATA_PACK"
+        },
+        "wabi-sabi-structures": {
+            "type": "DATA_PACK"
+        },
+        "revamped-shipwrecks": {
+            "type": "DATA_PACK"
         }
     }
 }
