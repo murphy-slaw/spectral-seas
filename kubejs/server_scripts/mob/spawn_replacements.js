@@ -83,15 +83,6 @@ EntityEvents.spawned((event) => {
         })
     }
 
-    if (entity.type === 'minecraft:drowned') {
-        entity.armorSlots.forEach((slot) => {
-            if (!slot.empty) {
-                console.log(slot)
-                slot.addTagElement('style', 'samurai')
-            }
-        })
-    }
-
     if (entity.type === 'galosphere:spectre') {
         if (level.getEntities($GEntityTypes.SPECTRE, (pred) => true).length > 8) {
             event.cancel()
