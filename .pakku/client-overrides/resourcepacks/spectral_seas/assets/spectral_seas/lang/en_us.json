@@ -19,5 +19,11 @@
     "item.spectral_seas.fishermans_resin": "Fisherman's Resin",
     "item.spectral_seas.incomprehensible_book": "Incomprehensible Book",
     "item.spectral_seas.ship_speed_upgrade": "Ship Speed Upgrade",
-    "item.spectral_seas.ship_cargo_upgrade": "Ship Cargo Upgrade"
+    "item.spectral_seas.ship_cargo_upgrade": "Ship Cargo Upgrade",
+    "item.spectral_seas.mushroom_stew": "Mushroom Stew",
+    "item.spectral_seas.rabbit_stew": "Rabbit Stew",
+    "item.spectral_seas.beetroot_soup": "Beetroot Soup",
+    "item.spectral_seas.suspicious_chowder": "Suspicious Chowder",
+    "fluid.spectral_seas.suspicious_chowder": "Suspicious Chowder",
+    "fluid.spectral_seas.potato_soup": "Blighted Tater Soup"
 }
