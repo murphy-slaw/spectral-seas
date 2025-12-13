@@ -1,7 +1,7 @@
 const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
 
 function getShipName(ship, shipType, player) {
-    let shipName = `The Good Ship §6§o${ship.name.string}`
+    let shipName = Text.translatable('spectral_seas.ship.label', ship.name.string)
     if (ship.name.string.toLowerCase() === shipType) {
         shipName = [
             `${player.name.string}'s`,

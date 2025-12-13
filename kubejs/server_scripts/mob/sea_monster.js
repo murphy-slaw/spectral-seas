@@ -281,7 +281,7 @@ const monsterSummoner = (_task, level) => {
             if (level.tryAddFreshEntityWithPassengers(monster)) {
                 console.log(`${player.displayName.string} gets their very own sea monster!`)
                 player.displayClientMessage(
-                    'A beast rises from the depths to devour your vessel!',
+                    Text.translatable('spectral_seas.message.sea_monster_attack'),
                     true
                 )
                 const camera = player.getCamera()

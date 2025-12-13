@@ -623,7 +623,10 @@ const pirateSummoner = (_task, level) => {
 
             if (level.tryAddFreshEntityWithPassengers(pirateShip)) {
                 console.log(`${player.displayName.string} gets their very own pirate ship!`)
-                player.displayClientMessage('Yikes! Pirates!', true)
+                player.displayClientMessage(
+                    Text.translatable('spectral_seas.message.pirate_attack'),
+                    true
+                )
                 const camera = player.getCamera()
                 level.playSound(
                     null,

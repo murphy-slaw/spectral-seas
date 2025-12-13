@@ -1,7 +1,6 @@
 StartupEvents.registry('block', (event) => {
     event
         .create('spectral_seas:grave_dirt')
-        .displayName('Grave Dirt')
         .hardness(0.5)
         .resistance(0.5)
         .requiresTool(true)

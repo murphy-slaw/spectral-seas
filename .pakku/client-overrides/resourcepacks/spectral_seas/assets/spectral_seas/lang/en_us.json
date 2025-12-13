@@ -9,5 +9,15 @@
     "advancements.adventure.crystal_canyons.title": "Ooh, Sparkly!",
     "advancements.adventure.crystal_canyons.description": "Explore a crystal canyon.",
     "advancements.adventure.spelunking.title": "The Spelunker's Way",
-    "advancements.adventure.spelunking.description": "Explore every cave biome."
+    "advancements.adventure.spelunking.description": "Explore every cave biome.",
+    "spectral_seas.message.pirate_attack": "Yikes! Pirates!",
+    "spectral_seas.message.sea_monster_attack": "A beast rises from the depths to devour your vessel!",
+    "spectral_seas.item.name.nasty_cutlass": "Grandad's Nasty Old Cutlass",
+    "spectral_seas.item.lore.nasty_cutlass": "You're sure there's a blade somewhere under all that rust.",
+    "spectral_seas.ship.label": "The Good Ship §6§o%s",
+    "block.spectral_seas.grave_dirt": "Grave Dirt",
+    "item.spectral_seas.fishermans_resin": "Fisherman's Resin",
+    "item.spectral_seas.incomprehensible_book": "Incomprehensible Book",
+    "item.spectral_seas.ship_speed_upgrade": "Ship Speed Upgrade",
+    "item.spectral_seas.ship_cargo_upgrade": "Ship Cargo Upgrade"
 }

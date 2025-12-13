@@ -132,8 +132,8 @@ PlayerEvents.loggedIn((event) => {
 
             let weapon = Item.of('simplyswords:iron_cutlass', 1)
                 .enchant('spellbound:storied', 1)
-                .withName("Grandad's Nasty Old Cutlass")
-                .withLore("You're sure there's a blade somewhere under all that rust.")
+                .withName(Text.translatable('spectral_seas.item.name.nasty_cutlass'))
+                .withLore(Text.translatable('spectral_seas.item.lore.nasty_cutlass'))
             weapon.setDamageValue(weapon.maxDamage)
             player.give(weapon)
         })
