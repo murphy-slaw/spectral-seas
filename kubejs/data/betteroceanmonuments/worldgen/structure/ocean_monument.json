@@ -5,13 +5,14 @@
   "start_pool": "betteroceanmonuments:starts",
   "start_jigsaw_name": "betteroceanmonuments:anchor",
   "size": 20,
+  "project_start_to_heightmap": "OCEAN_FLOOR_WG",
   "start_height": {
     "type": "minecraft:uniform",
     "min_inclusive": {
-      "absolute": 24
+      "absolute": 12
     },
     "max_inclusive": {
-      "absolute": 44
+      "absolute": 20
     }
   },
   "use_expansion_hack": false,

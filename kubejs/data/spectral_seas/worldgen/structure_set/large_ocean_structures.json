@@ -27,6 +27,10 @@
     {
       "structure": "joshie:sunken_spires/colossuem",
       "weight": 1
+    },
+    {
+      "structure": "joshie:sunken_spires/large_fossil",
+      "weight": 1
     }
   ],
   "placement": {
