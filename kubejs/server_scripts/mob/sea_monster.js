@@ -2,7 +2,7 @@ const $HybridAquaticEntityTypes = Java.loadClass(
     'dev.hybridlabs.aquatic.entity.HybridAquaticEntityTypes'
 )
 /** @type {Internal.EntityType} */
-const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK
+const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK.get()
 
 //const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 //const $TurtleEntityType = $EntityType.TURTLE
