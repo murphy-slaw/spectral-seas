@@ -18,7 +18,7 @@ const MONSTER_CHECK_TICKS = 600
 const MONSTER_DOOM_TIME = 300
 const MONSTER_ATTACK_COOLDOWN = 80
 const MONSTER_DIFFICULTY_THRESHOLD = 2.0
-const SEA_MONSTER_BASE_CHANCE = 0.1
+const SEA_MONSTER_BASE_CHANCE = 0.0
 
 /** @type {Internal.TagKey<Internal.Biome>} */
 const IS_DEEP_OCEAN = $TagKey.create(
@@ -215,19 +215,6 @@ MONSTER_TYPES.forEach((type) => {
         )
     })
 })
-/**
- *
- * @param {Internal.ServerPlayer} player
- * @returns {boolean}
- */
-function hasNemesis(player) {
-    if (player.persistentData.Nemesis) {
-        const nemesis = player.persistentData.getUUID('Nemesis')
-        if (nemesis && player.level.getEntity(nemesis)) return true
-        player.persistentData.remove('Nemesis')
-    }
-    return false
-}
 
 /**
  * @param {Internal.ServerPlayer} player
