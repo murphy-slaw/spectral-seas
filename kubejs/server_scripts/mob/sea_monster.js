@@ -26,15 +26,6 @@ const IS_DEEP_OCEAN = $TagKey.create(
     'is_deep_ocean'
 )
 
-// Create the sea_monsters team if it doesn't exist
-ServerEvents.loaded((event) => {
-    let team = event.server.scoreboard.getPlayerTeam('sea_monsters')
-    if (!team) {
-        team = event.server.scoreboard.addPlayerTeam('sea_monsters')
-        team.color = 'dark_aqua'
-    }
-})
-
 /**
  * @param {Internal.ServerLevel} level
  * @param {BlockPos} blockPos
@@ -238,6 +229,52 @@ function shouldSpawnSeaMonster(player) {
 }
 
 /**
+ * Summons a sea monster to attack the given player
+ * @param {Internal.ServerPlayer} player
+ * @param {Internal.ServerLevel} level
+ * @returns
+ */
+
+const summonMonster = (player) => {
+    const monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
+    /** @type {Internal.LivingEntity} */
+    const monster = monsterType.create(player.level)
+    monster.tags.add('sea_monster')
+    monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
+    monster.size = 0
+    $ScaleTypes$BASE.getScaleData(monster).setScale(2)
+
+    const veh = player.getVehicle()
+    if (!veh) return
+
+    const direction = veh.getForward()
+    const position = veh.getPosition(1).subtract(direction.scale(32))
+    monster.moveTo(position)
+
+    player.level.scoreboard.addPlayerToTeam(
+        monster.stringUuid,
+        player.level.scoreboard.getPlayerTeam('sea_monsters')
+    )
+
+    if (!player.level.tryAddFreshEntityWithPassengers(monster)) return
+
+    console.log(`${player.displayName.string} gets their very own sea monster!`)
+    player.displayClientMessage(Text.translatable('spectral_seas.message.sea_monster_attack'), true)
+    const camera = player.getCamera()
+    player.level.playSound(
+        null,
+        camera.x,
+        camera.y,
+        camera.z,
+        'spectral_seas:monster_sting',
+        'NEUTRAL',
+        15,
+        1
+    )
+    setNemesis(player, monster.getUuid())
+}
+
+/**
  * @param {Internal.ScheduledEvents$ScheduledEvent} _task
  * @param {Internal.ServerLevel} level
  */
@@ -245,55 +282,30 @@ const monsterSummoner = (_task, level) => {
     level.getPlayers().forEach(
         /** @param {Internal.ServerPlayer} player */ (player) => {
             if (!shouldSpawnSeaMonster(player)) return
-
-            const monsterType = Utils.randomOf(Utils.random, MONSTER_ENTITY_TYPES)
-            /** @type {Internal.LivingEntity} */
-            const monster = monsterType.create(level)
-            monster.tags.add('sea_monster')
-            monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
-            monster.size = 0
-            $ScaleTypes$BASE.getScaleData(monster).setScale(2)
-
-            const veh = player.getVehicle()
-            if (!veh) return
-            const direction = veh.getForward()
-            const position = veh.getPosition(1).subtract(direction.scale(32))
-            monster.moveTo(position)
-
-            level.scoreboard.addPlayerToTeam(
-                monster.stringUuid,
-                level.scoreboard.getPlayerTeam('sea_monsters')
-            )
-
-            if (level.tryAddFreshEntityWithPassengers(monster)) {
-                console.log(`${player.displayName.string} gets their very own sea monster!`)
-                player.displayClientMessage(
-                    Text.translatable('spectral_seas.message.sea_monster_attack'),
-                    true
-                )
-                const camera = player.getCamera()
-                level.playSound(
-                    null,
-                    camera.x,
-                    camera.y,
-                    camera.z,
-                    'spectral_seas:monster_sting',
-                    'NEUTRAL',
-                    15,
-                    1
-                )
-
-                player.persistentData.putUUID('Nemesis', monster.getUuid())
-            }
+            summonMonster(player)
         }
     )
 }
+
+ServerEvents.customCommand('monster', (event) => {
+    summonMonster(event.player)
+})
+
+// Create the sea_monsters team if it doesn't exist
+ServerEvents.loaded((event) => {
+    let team = event.server.scoreboard.getPlayerTeam('sea_monsters')
+    if (!team) {
+        team = event.server.scoreboard.addPlayerTeam('sea_monsters')
+        team.color = 'dark_aqua'
+    }
+})
 
 // WHY DOES minecraft:overworld FIRE loaded() TWICE?
 let seaMonsterLoaded = 0
 LevelEvents.loaded('minecraft:overworld', (event) => {
     if (event.level.isClientSide()) return
     if (seaMonsterLoaded > 0) return
+    if (SEA_MONSTER_BASE_CHANCE <= 0) return
     console.log('Scheduling annoying sea monsters…')
     event.server.scheduleRepeatingInTicks(MONSTER_CHECK_TICKS, (task) => {
         monsterSummoner(task, event.level)

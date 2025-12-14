@@ -1,7 +1,6 @@
 const $BlockPathTypes = Java.loadClass('net.minecraft.world.level.pathfinder.BlockPathTypes')
 const $Ship = Java.loadClass('com.talhanation.smallships.world.entity.ship.Ship')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
-const $Mth = Java.loadClass('net.minecraft.util.Mth')
 const $ModEntityTypes = Java.loadClass('com.talhanation.smallships.world.entity.ModEntityTypes')
 const $RangedCrossbowAttackGoal = Java.loadClass(
     'net.minecraft.world.entity.ai.goal.RangedCrossbowAttackGoal'
@@ -14,7 +13,7 @@ const ATTACK_RANGE = 4500 // ~67 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
 const BASE_PIRATE_CHANCE = 0.075
-const ATTACK_COOLDOWN = 100 // 5 seconds
+const ATTACK_COOLDOWN = 40 // 2 seconds
 const MAX_VOLLEYS = 4
 const BASE_CANNONBALL_COUNT = 16
 
@@ -500,18 +499,7 @@ EntityJSEvents.addGoals('minecraft:pillager', (event) => {
 
 /*******************************************************************************
 Pirate ship spawning control
-*******************************************************************************/
-
-/**
- * Modifier for pirate ship summoning based on local difficulty
- * @param {Internal.ServerPlayer} player
- * @returns {number}
- */
-
-const localDifficultyFor = (player) =>
-    player.level.getCurrentDifficultyAt(player.blockPosition()).getEffectiveDifficulty()
-
-const modifiedDifficulty = (player) => $Mth.clamp(Math.sqrt(localDifficultyFor(player)), 1, 2)
+******************************************************************************/
 
 /**
  * Is the level currently at sunrise or sunset?
@@ -603,6 +591,47 @@ const positionPirateShip = (target, pirateShip) => {
 }
 
 /**
+ *
+ * @param {Internal.ServerPlayer} player
+ * @param {Internal.ServerLevel} level
+ */
+const summonPirates = (player, level) => {
+    /** @type {Internal.EntityType} */
+    const shipType = localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
+
+    /** @type {Internal.Ship} */
+    const pirateShip = buildPirateShip(shipType, level, player)
+
+    const veh = player.getVehicle()
+    if (!veh) return
+
+    positionPirateShip(veh, pirateShip)
+
+    if (level.tryAddFreshEntityWithPassengers(pirateShip)) {
+        console.log(`${player.displayName.string} gets their very own pirate ship!`)
+        setNemesis(player, pirateShip.getUuid())
+
+        player.displayClientMessage(Text.translatable('spectral_seas.message.pirate_attack'), true)
+
+        const camera = player.getCamera()
+        level.playSound(
+            null,
+            camera.x,
+            camera.y,
+            camera.z,
+            'spectral_seas:pirate_theme',
+            'MUSIC',
+            15,
+            1
+        )
+    }
+}
+
+ServerEvents.customCommand('pirates', (event) => {
+    summonPirates(event.player, event.level)
+})
+
+/**
  * @param {Internal.ScheduledEvents$ScheduledEvent} _task
  * @param {Internal.ServerLevel} level
  */
@@ -610,37 +639,7 @@ const pirateSummoner = (_task, level) => {
     level.getPlayers().forEach(
         /** @param {Internal.ServerPlayer} player */ (player) => {
             if (!shouldSummonPirates(player)) return
-
-            /** @type {Internal.EntityType} */
-            const shipType =
-                localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
-            /** @type {Internal.Ship} */
-            const pirateShip = buildPirateShip(shipType, level, player)
-            const veh = player.getVehicle()
-            if (!veh) return
-
-            positionPirateShip(veh, pirateShip)
-
-            if (level.tryAddFreshEntityWithPassengers(pirateShip)) {
-                console.log(`${player.displayName.string} gets their very own pirate ship!`)
-                player.displayClientMessage(
-                    Text.translatable('spectral_seas.message.pirate_attack'),
-                    true
-                )
-                const camera = player.getCamera()
-                level.playSound(
-                    null,
-                    camera.x,
-                    camera.y,
-                    camera.z,
-                    'spectral_seas:pirate_theme',
-                    'MUSIC',
-                    15,
-                    1
-                )
-
-                player.persistentData.putUUID('Nemesis', pirateShip.getUuid())
-            }
+            summonPirates(player, level)
         }
     )
 }
