@@ -1,27 +1,5 @@
 const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
 
-function getShipName(ship, shipType, player) {
-    let shipName = Text.translatable('spectral_seas.ship.label', ship.name.string)
-    if (ship.name.string.toLowerCase() === shipType) {
-        shipName = [
-            `${player.name.string}'s`,
-            Utils.toTitleCase(ship.nbt.getString('Type')),
-            Utils.toTitleCase(ship.name.string),
-        ].join(' ')
-    }
-    return shipName
-}
-
-function addShipMarker(ship, player, pos) {
-    const shipType = ship.type.split(':')[1].toLowerCase()
-    player.sendData('AddMarker', {
-        texture: `antique_atlas:ship/${shipType}`,
-        pos: pos,
-        color: ship.nbt.get('Sail').getString('Color'),
-        label: JSON.stringify({ text: getShipName(ship, shipType, player) }),
-    })
-}
-
 PlayerEvents.tick((event) => {
     const {
         player,
@@ -29,25 +7,26 @@ PlayerEvents.tick((event) => {
         level,
     } = event
 
-    const shipID = player.persistentData.getString('shipID')
+    const wPlayer = PlayerHelper(player)
+    const shipID = wPlayer.shipID.get()
 
     if (vehicle) {
         if (shipTypes.includes(vehicle.type)) {
             if (!player.tags.contains('on_ship')) {
-                // eslint-disable-next-line prefer-const
                 let vehicleUuid = vehicle.getUuid().toString()
-                console.info(`Vehicle UUID: ${vehicleUuid}\n shipId: ${shipID}`)
+                console.debug(`Vehicle UUID: ${vehicleUuid}\n shipId: ${shipID}`)
+
                 if (!shipID || shipID !== vehicleUuid) {
                     console.info(`Setting shipID: ${vehicleUuid}`)
-                    player.persistentData.putString('shipID', vehicleUuid)
+                    wPlayer.shipID.set(vehicleUuid)
                 }
                 player.addTag('on_ship')
-                let pos = player.persistentData.getCompound('MarkerPosition')
-                console.log(pos)
+
+                let pos = wPlayer.markerPosition.get()
                 if (!pos.empty) {
-                    console.log('Sending DeleteMarker')
+                    console.info(`Sending DeleteMarker: ${pos}`)
                     player.sendData('DeleteMarker', { pos: pos })
-                    player.persistentData.remove('MarkerPosition')
+                    wPlayer.markerPosition.clear()
                 }
 
                 level.entities
@@ -62,38 +41,35 @@ PlayerEvents.tick((event) => {
     } else {
         if (player.tags.contains('on_ship')) {
             player.removeTag('on_ship')
-            let pos = {
-                x: Math.floor(player.x),
-                y: Math.floor(player.y),
-                z: Math.floor(player.z),
-            }
-            player.persistentData.put('MarkerPosition', pos)
-            let ship = level.getEntity(UUID.fromString(shipID))
-            addShipMarker(ship, player, pos)
+            wPlayer.addShipMarker()
         }
     }
 })
 
 EntityEvents.death('minecraft:player', (event) => {
     const { player, level, server } = event
-    const shipID = player.persistentData.getString('shipID')
-    if (shipID) {
-        console.info(`Ship ID: ${shipID}`)
-        let ship = level.getEntity(UUID.fromString(shipID))
-        if (ship) {
-            console.info(`Ship: ${ship}`)
-            server
-                .getPlayer(player)
-                .setRespawnPosition(
-                    level.dimensionKey,
-                    ship.blockPosition().above(),
-                    player.yRot,
-                    true,
-                    false
-                )
-        } else {
-            console.info(`Ship not found!`)
-            player.persistentData.remove('shipID')
-        }
+    const wPlayer = PlayerHelper(player)
+    const ship = wPlayer.getShip()
+    if (ship) {
+        console.info(`Ship: ${ship}`)
+        server
+            .getPlayer(player)
+            .setRespawnPosition(
+                level.dimensionKey,
+                ship.blockPosition().above(),
+                player.yRot,
+                true,
+                false
+            )
+    }
+})
+
+PlayerEvents.respawned((event) => {
+    const { player } = event
+    const wPlayer = PlayerHelper(player)
+    const ship = wPlayer.getShip()
+    if (ship) {
+        player.startRiding(ship)
+        player.setPos(ship.blockPosition().above())
     }
 })
