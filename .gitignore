@@ -14,6 +14,7 @@
 !.pakku/**
 **/.DS_Store
 
+.pakku/shelf
 resourcepacks/*.zip
 config/paxi/datapacks/*.zip
 shaderpacks/*.zip
