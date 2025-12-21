@@ -484,8 +484,8 @@ vanilla_button {
   nine_slice_custom_background = true
   nine_slice_border_x = 3
   nine_slice_border_y = 3
-  label = {"translate":"modmenu.title", "font":"uniform", "color":"black" }
-  hoverlabel = {"translate":"modmenu.title", "font":"uniform", "color":"white" }
+  label = {"translate":"modmenu.title", "font":"uniform", "color":"#623F25" }
+  hoverlabel = {"translate":"modmenu.title", "font":"uniform", "color":"dark_red" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 33faf164-d287-4e54-8392-428c01884640-1732453367365
   [loading_requirement_container_meta:33faf164-d287-4e54-8392-428c01884640-1732453367365] = [groups:][instances:]
@@ -870,8 +870,8 @@ vanilla_button {
   nine_slice_custom_background = true
   nine_slice_border_x = 3
   nine_slice_border_y = 3
-  label = {"translate":"menu.options", "font":"uniform", "color":"black" }
-  hoverlabel = {"translate":"menu.options", "font":"uniform", "color":"white" }
+  label = {"translate":"menu.options", "font":"uniform", "color":"#623F25" }
+  hoverlabel = {"translate":"menu.options", "font":"uniform", "color":"dark_red" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 6d987ce7-2000-43b9-aa4c-545359591254-1732453367365
   [loading_requirement_container_meta:6d987ce7-2000-43b9-aa4c-545359591254-1732453367365] = [groups:][instances:]
@@ -1065,8 +1065,8 @@ vanilla_button {
   nine_slice_custom_background = true
   nine_slice_border_x = 3
   nine_slice_border_y = 3
-  label = {"translate":"menu.quit", "font":"uniform", "color":"black" }
-  hoverlabel = {"translate":"menu.quit", "font":"uniform", "color":"white" }
+  label = {"translate":"menu.quit", "font":"uniform", "color":"#623F25" }
+  hoverlabel = {"translate":"menu.quit", "font":"uniform", "color":"dark_red" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 69adcd94-d7fb-42ef-a905-9810b3d81251-1732453367365
   [loading_requirement_container_meta:69adcd94-d7fb-42ef-a905-9810b3d81251-1732453367365] = [groups:][instances:]
@@ -1195,8 +1195,8 @@ vanilla_button {
   nine_slice_custom_background = true
   nine_slice_border_x = 0
   nine_slice_border_y = 0
-  label = {"translate":"menu.singleplayer", "font":"uniform", "color":"black" }
-  hoverlabel = {"translate":"menu.singleplayer", "font":"uniform", "color":"white" }
+  label = {"translate":"menu.singleplayer", "font":"uniform", "color":"#623F25" }
+  hoverlabel = {"translate":"menu.singleplayer", "font":"uniform", "color":"dark_red" }
   navigatable = true
   widget_active_state_requirement_container_identifier = b84653be-1d3c-4922-afdf-27815e97d304-1732453367365
   [loading_requirement_container_meta:b84653be-1d3c-4922-afdf-27815e97d304-1732453367365] = [groups:][instances:]
@@ -1260,8 +1260,8 @@ vanilla_button {
   nine_slice_custom_background = true
   nine_slice_border_x = 3
   nine_slice_border_y = 3
-  label = {"translate":"menu.multiplayer", "font":"uniform", "color":"black" }
-  hoverlabel = {"translate":"menu.multiplayer", "font":"uniform", "color":"white" }
+  label = {"translate":"menu.multiplayer", "font":"uniform", "color":"#623F25" }
+  hoverlabel = {"translate":"menu.multiplayer", "font":"uniform", "color":"dark_red" }
   navigatable = true
   widget_active_state_requirement_container_identifier = 5483e0b0-5c5b-4921-ba4f-5754890ae37c-1732453367365
   [loading_requirement_container_meta:5483e0b0-5c5b-4921-ba4f-5754890ae37c-1732453367365] = [groups:][instances:]

@@ -17,7 +17,7 @@
 	baselineShift = 7.0
 	#Control the text shadow offset for vanilla text rendering, in GUI scaled pixels.
 	#Range: 0.20000000298023224 ~ 2.0
-	shadowOffset = 0.5000000029802323
+	shadowOffset = 0.5
 	#Control the text outline offset for vanilla text rendering, in GUI scaled pixels.
 	#Range: 0.20000000298023224 ~ 2.0
 	outlineOffset = 0.5
