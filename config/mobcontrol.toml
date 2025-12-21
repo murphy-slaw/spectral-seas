@@ -8,7 +8,7 @@ name="naturalist:boar"
 name="vicious-hogs"
 type="all"
 set.on-hurt="all"
-set.size=[100,150]
+set.size=[100,200]
 
 [[mob]]
 name="minecraft:glow_squid"
