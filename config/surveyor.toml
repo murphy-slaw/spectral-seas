@@ -13,16 +13,22 @@ structures = "DYNAMIC"
 # options: DISABLED, FROZEN, DYNAMIC, ENABLED
 # default: DYNAMIC
 landmarks = "DYNAMIC"
-# Whether to automatically add/remove nether portal landmarks
-# default: true
-netherPortalLandmarks = true
-# Whether to automatically add player death waypoints
-# default: true
-playerDeathLandmarks = true
-# Displays the following logs and messages:
-# [Action Bar] Structure Discovery
+# Logs structure discovery to the action bar.
+# E.g. 'Discovered Village Plains at [91, 63, -54]'
 # default: false
-debugMode = false
+discoveryMessages = false
+# Force-enables the following commands.
+# waypoints/landmarks raw | prints the raw SNBT of a landmark
+# default: false
+debugCommands = false
+# Ignores chunk changes that don't affect the amount of air in the chunk
+# Saves on performance, a little inaccurate sometimes.
+# default: true
+lazyClientUpdating = true
+# Ignores known landmarks when syncing landmarks to the client
+# A temporary fix until landmarks have some kind of revision counter
+# default: true
+forceUpdateLandmarks = true
 
 [networking]
 	# [Server] Whether to place every player in a single share group
@@ -51,14 +57,32 @@ debugMode = false
 	# When SOLO, player-created waypoints will be stored on the server as a backup
 	# When NONE, waypoint data will never be synced (e.g. for privacy)
 	# options: NONE, SOLO, GROUP, SERVER
-	# default: SOLO
+	# default: GROUP
 	waypoints = "SOLO"
 	# [Server] How much player position data to send to clients
 	# SERVER sends all players positions, GROUP sends just group players, SOLO sends nothing, NONE sends nothing
+	# Players will only see the offline positions of their group members, or players who disconnected while they were online.
 	# options: NONE, SOLO, GROUP, SERVER
-	# default: GROUP
+	# default: SERVER
 	positions = "GROUP"
+	# [Server] Ticks per terrain region load for batch update - lower is more frequent
+	# range: 1 - 200
+	# default: 20
+	terrainTicks = 20
 	# [Server] Ticks per position update - lower is more frequent
 	# range: 1 - 200
 	# default: 1
 	positionTicks = 1
+
+[builtins]
+	# Which block entities to preserve data for when creating block landmarks.
+	allowedBlockEntities = ["minecraft:banner"]
+	# Which points of interest to automatically add block landmarks for.
+	poiLandmarks = ["minecraft:lodestone"]
+	# Whether to automatically add specialised nether portal POI landmarks.
+	# Creates one landmark for each nether portal, instead of one per portal block.
+	# default: true
+	netherPortalLandmarks = true
+	# Whether to automatically add player death waypoints
+	# default: true
+	playerDeathWaypoints = true

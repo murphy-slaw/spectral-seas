@@ -417,7 +417,8 @@
             "pakku_id": "SAm4ejqe0BQoaate",
             "pakku_links": [
                 "uK1CD3knKG7HKtCu",
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "oKSllrChMqHMYdmn"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -433,7 +434,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "antique-atlas-2.12.0+1.20.jar",
+                    "file_name": "antique-atlas-3.0.0+1.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -443,87 +444,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/ddJjxF5n/antique-atlas-2.12.0+1.20.jar",
-                    "id": "ddJjxF5n",
+                    "url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/XucqxdO3/antique-atlas-3.0.0+1.20.jar",
+                    "id": "XucqxdO3",
                     "parent_id": "Y5Ve4Ui4",
                     "hashes": {
-                        "sha512": "935c7c242130e92ec7eceb738493a9ff5e7953519a51ea49e3b322f4d0d6e5ae7ba27cdbad62e858afe7543dc9920349d4f020fa7398471526b7f569f5592c26",
-                        "sha1": "8e88dd7df60576da4058a39a74c47542cd87a7d1"
-                    },
-                    "required_dependencies": [
-                        "4KjqhPc9",
-                        "P7dR8mSH"
-                    ],
-                    "size": 1424666,
-                    "date_published": "2025-10-13T09:11:06.011481Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "KGOqchUjupc5k21y",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "antique-atlas-compass-hud",
-                "modrinth": "antique-atlas-compass-hud"
-            },
-            "name": {
-                "curseforge": "Antique Atlas Compass HUD",
-                "modrinth": "Antique Atlas Compass HUD"
-            },
-            "id": {
-                "curseforge": "1392904",
-                "modrinth": "F8LcMVkD"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "atlas_hud-1.2.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7267/111/atlas_hud-1.2.0+1.20.1.jar",
-                    "id": "7267111",
-                    "parent_id": "1392904",
-                    "hashes": {
-                        "sha1": "e1c2f1e5da36be7a39b7df23020d654ee38750d6",
-                        "md5": "f94750dff6b8f5f2bf4c96e8eb8e0e00"
-                    },
-                    "required_dependencies": [
-                        "306612",
-                        "348521"
-                    ],
-                    "size": 19154,
-                    "date_published": "2025-11-27T06:41:04.957Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "atlas_hud-1.2.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/EIfuv6vH/atlas_hud-1.2.0+1.20.1.jar",
-                    "id": "EIfuv6vH",
-                    "parent_id": "F8LcMVkD",
-                    "hashes": {
-                        "sha512": "aadc19125a5be8c18457324b29bd04e48b72ca25e4e6d2f44eb4c042a66e538a879a4e6843791ac18393468b7a36a1b1ed422400ce6648a5a48eb56bdb3be62f",
-                        "sha1": "e1c2f1e5da36be7a39b7df23020d654ee38750d6"
+                        "sha512": "d43ffae0dbc48c7647e752f6af8d7e4d7007f6800cc2fdd84942eb26e4e54b72aeed72484b8585d02c2267d6951e2ca0229a9eb0816245f94a74d2072b6ff272",
+                        "sha1": "83d3e923d7d47d94336c1838f870f5ca3cd7fa91"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "9s6osm5g",
-                        "Y5Ve4Ui4"
+                        "tNmWwdI2",
+                        "4KjqhPc9"
                     ],
-                    "size": 19154,
-                    "date_published": "2025-11-27T05:40:12.403301Z"
+                    "size": 868830,
+                    "date_published": "2025-12-14T00:34:11.311089Z"
                 }
             ]
         },
@@ -3284,6 +3218,77 @@
                     "required_dependencies": [],
                     "size": 25668,
                     "date_published": "2024-06-24T20:50:33.437Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GTeSCGYp7YLwn7uf",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB",
+                "E0Hhuv5KSx1UNZJ0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "dead-reckoning",
+                "curseforge": "dead-reckoning-compass"
+            },
+            "name": {
+                "modrinth": "Dead Reckoning",
+                "curseforge": "Dead Reckoning: A Compass Mod"
+            },
+            "id": {
+                "modrinth": "F8LcMVkD",
+                "curseforge": "1392904"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "atlas_hud-1.5.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/Eww5DFAw/atlas_hud-1.5.0+1.20.1.jar",
+                    "id": "Eww5DFAw",
+                    "parent_id": "F8LcMVkD",
+                    "hashes": {
+                        "sha512": "e2fe1bf1cb4b14fb226bd43bb52e74e4c9d5581adaefdee99971ca49999a07dff784a420c08c54082ed67646750d6f146e36a521882a1d56492d0cbe007c42fa",
+                        "sha1": "45a1eb481ae8b4ea0b495e08378dce6e3954bf9e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "9s6osm5g"
+                    ],
+                    "size": 25499,
+                    "date_published": "2025-12-21T03:36:18.952256Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "atlas_hud-1.5.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7360/86/atlas_hud-1.5.0+1.20.1.jar",
+                    "id": "7360086",
+                    "parent_id": "1392904",
+                    "hashes": {
+                        "sha1": "45a1eb481ae8b4ea0b495e08378dce6e3954bf9e",
+                        "md5": "f8675451ace0715bc693b0a043543511"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 25499,
+                    "date_published": "2025-12-21T03:36:19.210Z"
                 }
             ]
         },
@@ -9003,6 +9008,103 @@
             ]
         },
         {
+            "pakku_id": "oKSllrChMqHMYdmn",
+            "pakku_links": [
+                "C7dh9QBYRnv6mkeL",
+                "E0Hhuv5KSx1UNZJ0",
+                "UGuD7MHWQSQg07LB",
+                "0zaEzuHr1fDxrmCD"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mcqoy",
+                "modrinth": "mcqoy"
+            },
+            "name": {
+                "curseforge": "McQoy",
+                "modrinth": "McQoy"
+            },
+            "id": {
+                "curseforge": "1402884",
+                "modrinth": "tNmWwdI2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mcqoy-0.3.3-cloth+fabric-1.16.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7323/263/mcqoy-0.3.3-cloth+fabric-1.16.jar",
+                    "id": "7323263",
+                    "parent_id": "1402884",
+                    "hashes": {
+                        "sha1": "77b7cfed9d4e230d2d5efbec1ef27f15abf890da",
+                        "md5": "8e5bb041cd2eacc7f9d7a19844e27e99"
+                    },
+                    "required_dependencies": [
+                        "308702",
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 295162,
+                    "date_published": "2025-12-12T04:16:29.780Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mcqoy-0.3.3+fabric-1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tNmWwdI2/versions/17CKhwqV/mcqoy-0.3.3+fabric-1.20.jar",
+                    "id": "17CKhwqV",
+                    "parent_id": "tNmWwdI2",
+                    "hashes": {
+                        "sha512": "ca0d63962c2f4d9d32858b256d0f863e96186bc23d710a57d84ebbfba439982e70d1910b56a8653aefabbea3d4c598bb4ffb14bbf850863aae22e211241c5c54",
+                        "sha1": "8623bce20ee350f30daa82cf67297cd3ef9da02d"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR",
+                        "mOgUt4GM"
+                    ],
+                    "size": 306188,
+                    "date_published": "2025-06-27T13:42:01.859336Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7evP9CZfYpQ8aoCr",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
@@ -14682,7 +14784,8 @@
             "pakku_id": "K2y2ifxaCEHtXjuk",
             "pakku_links": [
                 "uK1CD3knKG7HKtCu",
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "oKSllrChMqHMYdmn"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14698,7 +14801,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "surveyor-0.6.26+1.20.jar",
+                    "file_name": "surveyor-1.0.2+1.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14708,18 +14811,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/He3qmLL0/surveyor-0.6.26+1.20.jar",
-                    "id": "He3qmLL0",
+                    "url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/gEiR6xrB/surveyor-1.0.2+1.20.jar",
+                    "id": "gEiR6xrB",
                     "parent_id": "4KjqhPc9",
                     "hashes": {
-                        "sha512": "7df85a1cea4552b37ddd07032136b4a1d6bafb8e0240b0ab5175712a07a02843f537aefda33dfb49f4b7b5e064361dca86bbeb01a410b6edc0c44b4e5d6c42a0",
-                        "sha1": "3caa0fa2bb867aec69853f775d99d18db7c9162c"
+                        "sha512": "c92096d105f3ba5f61abceceb32a76986cbb152be24424f0ad8d1eea2b613ef2def9349670af66cdb964799e744cda9eb837ee1d985502adf1baf517b8cb36f9",
+                        "sha1": "92550133731ab1d2ea5185e366ae2892c18edafb"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "tNmWwdI2"
                     ],
-                    "size": 560422,
-                    "date_published": "2025-01-13T08:22:50.222087Z"
+                    "size": 589541,
+                    "date_published": "2025-12-14T08:10:37.102567Z"
                 }
             ]
         },

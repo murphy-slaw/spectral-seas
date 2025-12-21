@@ -41,13 +41,10 @@ chunkTickLimit = 100
 # options: TEST, MISSING, CRASH
 # default: MISSING
 fallbackFailHandling = "MISSING"
-# Disables fading when Marker Icons approach the edge of the Atlas.
-# Needed for shader support, pair with Shader Patch resource pack.
-# default: false
-shaderCompat = true
-# Whether to show debug information about hovered tiles and markers
-# default: false
-debugRender = false
+# How to display areas that aren't explored yet
+# options: CLOUDS, EMPTY
+# default: EMPTY
+emptyHandling = "CLOUDS"
 
 [structureMarkers]
 	"nova_structures:start/tavern_desert" = true
