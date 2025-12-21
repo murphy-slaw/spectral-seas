@@ -6,7 +6,8 @@ const NEMESIS_KEY = 'Nemesis'
  * @returns {Internal.UUID}
  */
 const getNemesis = (player) => {
-    return player.persistentData.getUUID(NEMESIS_KEY)
+    if (player.persistentData.contains(NEMESIS_KEY))
+        return player.persistentData.getUUID(NEMESIS_KEY)
 }
 /**
  *
