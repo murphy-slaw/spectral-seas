@@ -48,22 +48,48 @@ const PlayerHelper = (function () {
             return null
         }
 
+        const getShipTexture = () => {
+            const shipType = getShip().type.split(':')[1].toLowerCase()
+            return `antique_atlas:ship/${shipType}`
+        }
+
+        const getMarkerLocation = (texture, color, pos) => {
+            return texture + `/${color}/${pos.x}/${pos.y}/${pos.z}`
+        }
+
+        const getShipLocation = (pos) => {
+            const color = getShip().nbt.get('Sail').getString('Color')
+            return getMarkerLocation(getShipTexture(), color, pos)
+        }
+
         return {
             shipID: shipID,
             markerPosition: markerPosition,
             getShip: getShip,
+            getShipTexture: getShipTexture,
+            getMarkerLocation: getMarkerLocation,
+            getShipLocation: getShipLocation,
 
             addShipMarker: () => {
                 const ship = getShip()
                 const pos = _getMapPos()
                 markerPosition.set(pos)
                 const shipType = ship.type.split(':')[1].toLowerCase()
+                const color = ship.nbt.get('Sail').getString('Color')
+                const id = getShipLocation(pos)
                 player.sendData('AddMarker', {
-                    texture: `antique_atlas:ship/${shipType}`,
+                    location: id,
                     pos: pos,
-                    color: ship.nbt.get('Sail').getString('Color'),
+                    color: color,
                     label: JSON.stringify({ text: _getShipName(ship, shipType).string }),
                 })
+            },
+
+            removeShipMarker: () => {
+                const pos = markerPosition.get()
+                const id = getShipLocation(pos)
+                player.sendData('DeleteMarker', { pos: pos, location: id })
+                markerPosition.clear()
             },
         }
     }

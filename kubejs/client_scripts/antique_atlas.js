@@ -1,18 +1,14 @@
-const $WorldAtlasData = Java.loadClass('folk.sisby.antique_atlas.WorldAtlasData')
-const $MarkerTextures = Java.loadClass('folk.sisby.antique_atlas.reloader.MarkerTextures')
 const $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
-
-/**
- * @param {Internal.Level} level
- * @returns {Internal.WorldAtlasData}
- */
-function getAtlasData(level) {
-    return $WorldAtlasData.getOrCreate(level)
-}
-
-function getAtlasTexture(texture) {
-    return $MarkerTextures.getInstance().get(ResourceLocation(texture))
-}
+const $Integer = Java.loadClass('java.lang.Integer')
+const $Landmark = Java.loadClass('folk.sisby.surveyor.landmark.Landmark')
+const $LandmarkComponentMap = Java.loadClass(
+    'folk.sisby.surveyor.landmark.component.LandmarkComponentMap'
+)
+const $LandmarkComponentTypes = Java.loadClass(
+    'folk.sisby.surveyor.landmark.component.LandmarkComponentTypes'
+)
+const $SurveyorClient = Java.loadClass('folk.sisby.surveyor.client.SurveyorClient')
+const $WorldSummary = Java.loadClass('folk.sisby.surveyor.WorldSummary')
 
 const colorCodeToDyeColor = {
     aqua: $DyeColor.LIGHT_BLUE,
@@ -33,58 +29,87 @@ const colorCodeToDyeColor = {
     yellow: $DyeColor.YELLOW,
 }
 
+/**
+ * @param {string} colorName
+ * @returns {Internal.DyeColor}
+ */
 function getColor(colorName) {
     return $DyeColor.byName(colorName, null) || colorCodeToDyeColor[colorName] || $DyeColor.BLACK
 }
 
 /**
  * @param {Internal.Level} level
- * @param {Internal.MarkerTexture} texture
+ * @param {Internal.ResourceLocation} id
  * @param {BlockPos} pos
  * @param {Internal.MutableComponent} label
  * @param {string} color
  */
-function addAntiqueAtlasMarker(level, texture, pos, label, color) {
-    label = JSON.parse(label)
-    color = getColor(color)
-    let worldAtlasData = getAtlasData(level)
+function addMarker(level, id, pos, label, color) {
+    console.log(id)
 
-    if (label.translate) {
-        label = Text.translate(label.translate)
+    const dyeColor = getColor(color)
+
+    let name = JSON.parse(label)
+    if (name.translate) {
+        name = Text.translate(name.translate)
     } else {
-        label = Text.of(label.text)
+        name = Text.of(name.text)
     }
 
-    worldAtlasData.placeCustomMarker(
-        level,
-        getAtlasTexture(texture),
-        color,
-        label,
-        BlockPos(pos.x, pos.y, pos.z)
-    )
+    const builder = $LandmarkComponentMap.builder()
+    builder.add($LandmarkComponentTypes.POS, BlockPos(pos.x, pos.y, pos.z))
+    builder.add($LandmarkComponentTypes.NAME, name)
+    builder.add($LandmarkComponentTypes.COLOR, $Integer.valueOf(dyeColor.getFireworkColor()))
+
+    $WorldSummary
+        .of(level)
+        .landmarks()
+        .put(
+            level,
+            $Landmark.create($SurveyorClient.getClientUuid(), id, () => builder)
+        )
 }
 
-function deleteAntiqueAtlasMarker(level, pos) {
-    let worldAtlasData = getAtlasData(level)
-    let markerPos = BlockPos(pos.x, pos.y, pos.z)
-    console.log(markerPos)
-    worldAtlasData
-        .getEditableLandmarks()
-        .keySet()
-        .filter((landmark) => landmark.pos().equals(markerPos))
-        .forEach((landmark) => {
-            console.log(landmark.pos())
-            worldAtlasData.deleteLandmark(level, landmark)
-        })
+/**
+ *
+ * @param {Internal.Level} level
+ * @param {ResourceLocation} id
+ */
+function deleteMarker(level, id) {
+    console.log(`trying to delete ${id}`)
+    $WorldSummary.of(level).landmarks().remove(level, $SurveyorClient.getClientUuid(), id)
 }
 
 NetworkEvents.dataReceived('AddMarker', (event) => {
     let marker = event.data
-    console.log(marker.label)
-    addAntiqueAtlasMarker(Client.level, marker.texture, marker.pos, marker.label, marker.color)
+    addMarker(Client.level, marker.location, marker.pos, marker.label, marker.color)
 })
 
 NetworkEvents.dataReceived('DeleteMarker', (event) => {
     console.log('recieved DeleteMarker')
-    deleteAntiqueAtlasMarker(Client.level, event.data.pos)
+    deleteMarker(Client.level, event.data.location)
+})
+
+NetworkEvents.dataReceived('DeleteGrave', (event) => {
+    console.log('recieved DeleteGrave')
+    const targetPos = BlockPos(event.data.pos.x, event.data.pos.y, event.data.pos.z)
+    const map = $WorldSummary
+        .of(event.level)
+        .landmarks()
+        .asMap($SurveyorClient.getClientUuid(), null)
+    let targetLandmark
+    map.forEach((k, v) => {
+        console.log(k.getPath())
+        if (k.getPath().startsWith('grave')) {
+            const pos = v.get($LandmarkComponentTypes.POS)
+            if (pos.equals(targetPos)) {
+                targetLandmark = k
+                return
+            }
+        }
+    })
+
+    if (targetLandmark) {
+        deleteMarker(Client.level, targetLandmark)
+    }
 })

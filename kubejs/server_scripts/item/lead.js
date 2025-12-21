@@ -6,6 +6,7 @@ const $LeashFenceKnotEntity = Java.loadClass(
 //const $Mob = Java.loadClass('net.minecraft.world.entity.Mob')
 const $DyeColor = Java.loadClass('net.minecraft.world.item.DyeColor')
 
+const HORSE_TEXTURE = 'antique_atlas:horse/saddle'
 const LEAD_LENGTH = 7
 
 /**
@@ -19,6 +20,7 @@ function attachHorses(event) {
             /** @param {Internal.AbstractHorse} mob */ (mob) => mob.leashHolder === event.player
         )
 
+    console.log(horses)
     if (horses.length > 0) {
         return horses.pop()
     }
@@ -27,17 +29,22 @@ function attachHorses(event) {
 /**
  * @param {Internal.Event} event
  * @param {Internal.LeashFenceKnotEntity} knot
- * @returns {boolean}
+ * @returns {Internal.Entity}
  */
 function detachHorses(event, knot) {
-    return (
-        event.level
-            .getEntitiesOfClass($AbstractHorse, knot.boundingBox.inflate(LEAD_LENGTH))
-            .filter(
-                /** @param {Internal.Abstracthorse} mob */ (mob) =>
-                    mob.leashholder === knot && mob.owner === event.player
-            ).length > 0
+    const horses = event.level.getEntitiesOfClass(
+        $AbstractHorse,
+        knot.boundingBox.inflate(LEAD_LENGTH)
     )
+
+    const ourHorses = horses.filter(
+        /** @param {Internal.Abstracthorse} mob */ (mob) =>
+            mob.getLeashHolder() === knot && mob.getOwner() === event.entity
+    )
+    if (ourHorses.length > 0) {
+        return ourHorses.pop()
+    }
+    return null
 }
 
 /**
@@ -50,16 +57,39 @@ function getHorseColor(horse) {
     return horse.persistentData.markerColor
 }
 
+function getHorseLocation(horse, player, block) {
+    return PlayerHelper(player).getMarkerLocation(
+        HORSE_TEXTURE,
+        getHorseColor(horse),
+        BlockPos(block.x, block.y, block.z)
+    )
+}
+
+/**
+ *
+ * @param {Internal.AbstractHorse} horse
+ * @param {Internal.ServerPlayer} player
+ */
+
+function getHorseName(horse, player) {
+    if (horse.hasCustomName()) {
+        return horse.getName()
+    }
+    return Text.translatable(`${player.name.string}'s `).append(horse.getName())
+}
+
 /**
  * @param {Internal.AbstractHorse} horse
  * @param {Internal.Event} event
  */
 function addHorseMarker(horse, event) {
     event.player.sendData('AddMarker', {
-        texture: 'antique_atlas:horse/saddle',
+        location: getHorseLocation(horse, event.player, event.block),
         pos: { x: event.block.x, y: event.block.y, z: event.block.z },
         color: getHorseColor(horse),
-        label: JSON.stringify({ text: horse.getName().getString() }),
+        label: JSON.stringify({
+            text: getHorseName(horse, event.entity).string,
+        }),
     })
 }
 
@@ -83,10 +113,14 @@ ItemEvents.entityInteracted('minecraft:air', (event) => {
     if (!(event.target instanceof $LeashFenceKnotEntity)) return
     /** @type {Internal.LeashFenceKnotEntity} */
     const knot = event.target
-    const horse = attachHorses(event)
-    if (horse === undefined && detachHorses(event, knot)) {
-        event.player.sendData('DeleteMarker', {
-            pos: { x: knot.blockX, y: knot.blockY, z: knot.blockZ },
-        })
+    let horse = attachHorses(event)
+    if (!horse) {
+        horse = detachHorses(event, knot)
+        if (horse) {
+            event.entity.sendData('DeleteMarker', {
+                pos: knot.pos,
+                location: getHorseLocation(horse, event.entity, knot),
+            })
+        }
     }
 })

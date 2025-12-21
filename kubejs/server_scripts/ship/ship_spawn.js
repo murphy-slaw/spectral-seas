@@ -24,8 +24,7 @@ PlayerEvents.tick((event) => {
 
                 let pos = wPlayer.markerPosition.get()
                 if (!pos.empty) {
-                    console.info(`Sending DeleteMarker: ${pos}`)
-                    player.sendData('DeleteMarker', { pos: pos })
+                    wPlayer.removeShipMarker()
                     wPlayer.markerPosition.clear()
                 }
 

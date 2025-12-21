@@ -1,8 +1,7 @@
 BlockEvents.rightClicked('yigd:grave', (event) => {
     const { player, block } = event
     if (player.name.plainCopy().getString() === block.entityData.skull.Name) {
-        console.log('Player matched grave, removing marker')
-        player.sendData('DeleteMarker', {
+        player.sendData('DeleteGrave', {
             pos: { x: block.pos.x, y: block.pos.y, z: block.pos.z },
         })
     }
