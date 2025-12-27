@@ -2,6 +2,7 @@ const $BlockPathTypes = Java.loadClass('net.minecraft.world.level.pathfinder.Blo
 const $Ship = Java.loadClass('com.talhanation.smallships.world.entity.ship.Ship')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 const $ModEntityTypes = Java.loadClass('com.talhanation.smallships.world.entity.ModEntityTypes')
+const $MobSpawnType = Java.loadClass('net.minecraft.world.entity.MobSpawnType')
 const $RangedCrossbowAttackGoal = Java.loadClass(
     'net.minecraft.world.entity.ai.goal.RangedCrossbowAttackGoal'
 )
@@ -568,15 +569,28 @@ const buildPirateShip = (shipType, level, player) => {
     const cannonballCount = BASE_CANNONBALL_COUNT * localDifficultyFor(player)
     console.log(`Cannonball count: ${cannonballCount}`)
     pirateShip.setItem(0, Item.of('smallships:cannon_ball', cannonballCount))
+    return pirateShip
+}
+/**
+ *
+ * @param {Internal.Entity} pirateShip
+ * @param {Internal.ServerPlayer} player
+ */
+const crewShip = (pirateShip, player) => {
     const pirateCount = Math.floor(pirateShip.maxPassengers / 2)
+
     for (let i = 0; i < pirateCount; i++) {
-        let pirate = $EntityType.PILLAGER.create(level)
+        let pirate = $EntityType.PILLAGER.spawn(
+            player.level,
+            pirateShip.blockPosition(),
+            $MobSpawnType.PATROL
+        )
         pirate.setAttributeBaseValue('minecraft:generic.follow_range', 128)
         pirate.startRiding(pirateShip)
         pirate.target = player
         pirate.persistentData.putUUID('victim', player.stringUuid)
+        console.log(pirate)
     }
-    return pirateShip
 }
 
 /**
@@ -609,6 +623,7 @@ const summonPirates = (player, level) => {
 
     if (level.tryAddFreshEntityWithPassengers(pirateShip)) {
         console.log(`${player.displayName.string} gets their very own pirate ship!`)
+        crewShip(pirateShip, player)
         setNemesis(player, pirateShip.getUuid())
 
         player.displayClientMessage(Text.translatable('spectral_seas.message.pirate_attack'), true)
@@ -648,7 +663,7 @@ let pirateShipLoaded = 0
 LevelEvents.loaded('minecraft:overworld', (event) => {
     if (event.level.isClientSide()) return
     if (pirateShipLoaded > 0) return
-    console.log('Scheduling annoying sea monsters…')
+    console.log('Scheduling annoying pirates…')
     event.server.scheduleRepeatingInTicks(PIRATE_CHECK_TICKS, (task) => {
         pirateSummoner(task, event.level)
     })
