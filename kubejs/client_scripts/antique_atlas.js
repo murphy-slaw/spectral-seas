@@ -82,6 +82,7 @@ function deleteMarker(level, id) {
 
 NetworkEvents.dataReceived('AddMarker', (event) => {
     let marker = event.data
+    console.log(marker)
     addMarker(Client.level, marker.location, marker.pos, marker.label, marker.color)
 })
 
