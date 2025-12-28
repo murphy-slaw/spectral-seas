@@ -363,7 +363,7 @@ const makeShipTick = () => {
         const ship = pirate.getVehicle()
         if (!ship) return
 
-        const safeArea = targetEntity.boundingBox.inflate(160, 2, 160)
+        const safeArea = targetEntity.boundingBox.inflate(160, 128, 160)
 
         if (!safeArea.contains(ship.blockPosition())) {
             for (const passenger of ship.getPassengers()) {
