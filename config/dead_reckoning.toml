@@ -1,0 +1,68 @@
+# When to display the compass HUD.
+# Overridden if disabled via hotkey.
+# options: ALWAYS, COMPASS_HELD, COMPASS_HOTBAR, COMPASS_INVENTORY
+# default: COMPASS_HELD
+displayMode = "COMPASS_HOTBAR"
+# What items to consider compasses for non-always display modes.
+# Overridden by #dead_reckoning:compasses (or #c:compasses) if present.
+# all(matches r'([a-z0-9_.-]+:)?[a-z0-9/._-]+')
+compassItems = ["minecraft:compass", "minecraft:recovery_compass"]
+
+[style]
+	# What level of compass directions to display as as abbreviated text.
+	# options: INTERCARDINAL, CARDINAL, NONE
+	# default: INTERCARDINAL
+	directions = "CARDINAL"
+	# Whether to render the line underneath the compass area.
+	# default: true
+	background = true
+	# How opaque to render all compass elements.
+	# range: 0.1 - 1.0
+	# default: 1.0
+	opacity = 1.0
+	# What color to render the compass background decoration in.
+	# 6-digit hex code, starting with #
+	# matches r'#[0-9A-Fa-f]{6}'
+	# default: #000000
+	backgroundColor = "#C1A380"
+	# What color to render text (e.g. directions) in.
+	# 6-digit hex code, starting with #
+	# matches r'#[0-9A-Fa-f]{6}'
+	# default: #FFFFFF
+	textColor = "#ffffff"
+	# Whether to render text (e.g. directions) with a shadow.
+	# default: true
+	textShadow = false
+
+[markers]
+	# Whether to show Surveyor markers on the compass at all.
+	# default: true
+	enabled = true
+	# The maximum size to render markers on the compass.
+	# range: 0.1 - 1.0
+	# default: 1.0
+	scale = 1.0
+	# The minimum size to render markers on the compass.
+	# Used to represent the waypoint being further away.
+	# range: 0.1 - 1.0
+	# default: 0.1
+	minScale = 0.33
+
+[alignment]
+	# The arc (in degrees) the compass should display at once.
+	# range: 30 - 360
+	# default: 240
+	visibleArc = 180
+	# The portion of the screen the compass should occupy.
+	# range: 0.1 - 1.0
+	# default: 0.9
+	screenWidth = 0.75
+	# The number of pixels below the top of the screen to render the compass.
+	# default: 4
+	yOffset = 0
+	# The number of pixels to lower the compass background decoration by.
+	# default: 0
+	backgroundYOffset = 4
+	# The number of pixels to lower markers by.
+	# default: 0
+	markerYOffset = 3

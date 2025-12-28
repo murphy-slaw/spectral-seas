@@ -31,6 +31,8 @@ config/data_attributes/
 config/heracles
 config/indium-renderer.properties
 config/inventoryprofilesnext/**/*
+config/iris.properties
+config/leawind_third_person.json
 config/jei/
 config/konkrete/locals
 config/malilib.json

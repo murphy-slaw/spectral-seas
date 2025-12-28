@@ -14,5 +14,6 @@
   "skullVoxelSize": 1.1,
   "fastRender": true,
   "compatibilityMode": false,
+  "irisCompatibilityMode": false,
   "firstPersonPixelScaling": 1.1
 }

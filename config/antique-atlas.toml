@@ -14,13 +14,13 @@ keepOffset = false
 # How to depict player death locations.
 # options: CAUSE, GRAVE, ITEMS, DIED, EUPHEMISMS
 # default: EUPHEMISMS
-graveStyle = "EUPHEMISMS"
+graveStyle = "ITEMS"
 # The maximum number of chunks to represent as a tile, as a power of 2
 # Effectively the 'minimum zoom'
 # 0: 1x1 chunk = 1 tile | 6: 64x64 chunks = 1 tile
 # range: 0 - 6
 # default: 5
-maxTileChunks = 5
+maxTileChunks = 4
 # The maximum size to render a tile at, as a power of 2 multiplier
 # Effectively the 'maximum zoom'
 # 0: 1 tile = 16x16 | 3: 1 tile = 128x128
