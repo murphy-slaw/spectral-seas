@@ -34,6 +34,7 @@ config/inventoryprofilesnext/**/*
 config/jei/
 config/konkrete/locals
 config/malilib.json
+config/mcqoy.toml
 config/minihud
 config/minihud.json
 config/modmenu.json
