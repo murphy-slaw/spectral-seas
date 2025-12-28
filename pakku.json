@@ -51,13 +51,17 @@
             "type": "DATA_PACK"
         },
         "geophilic": {
-            "type": "DATA_PACK"
+            "type": "DATA_PACK",
+            "update_strategy": "NONE"
         },
         "wabi-sabi-structures": {
             "type": "DATA_PACK"
         },
         "revamped-shipwrecks": {
             "type": "DATA_PACK"
+        },
+        "explosive-enhancement": {
+            "update_strategy": "NONE"
         }
     }
 }
