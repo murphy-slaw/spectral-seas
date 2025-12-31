@@ -32,10 +32,14 @@
 √ Pirate ships
 √ Add a way to heal pets
 √ Add swampier swamps villages to atlas.
+√ Reduce flax spawns?
+√ Make hermit crabs drop seashells, nautilus fragments, low chance of nautilus shell.
+√ Beachcombing: sus sand on beaches with small treasures - scutes, nautilus shells, etc. Pearls?
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
 INVALID TODO: figure out waystone costs for towers
 INVALID TODO: reskin Simply Swords spears as harpoons and figure out some way to make them throwable
+INVALID TODO: Make turtle scute drop timer global, not per-turtle.
 TODO: add a shitpost advancement for drowning
 TODO: add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
 TODO: add silver bullets for black powder weapons
@@ -49,7 +53,10 @@ TODO: Rework the skins and armor CIT for guard villagers so they look like Keyst
 TODO: Viking funeral advancement
 TODO: Partial recovery of ship upgrades on break.
 TODO: Loot tables for elder guardians: trident icons?
-Reduce drop rates for turtle scutes and nautilus shells
 Make Nautilus armor worth making.
 More things to do with seashells, nautilus shells, scutes.
-Reduce flax spawns?
+Make sea necklace require topaz.
+Make it less trivially easy to lose pirate pursuers by ducking underwater.
+Randomize sack contents in shipwreck loot.
+Make diving suit + diving leggings give slowness 1
+Wind?
