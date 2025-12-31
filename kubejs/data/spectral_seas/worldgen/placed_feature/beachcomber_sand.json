@@ -2,8 +2,8 @@
     "feature": "spectral_seas:beachcomber_sand",
     "placement": [
         {
-            "type": "minecraft:rarity_filter",
-            "chance": 3
+            "type": "count",
+            "count": 1
         },
         {
             "type": "minecraft:heightmap",

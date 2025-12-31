@@ -102,12 +102,30 @@ net.minecraft.class_420 {
 net.minecraft.class_524 {
 }
 
-me.shedaniel.clothconfig2.gui.ClothConfigScreen {
-}
-
 net.minecraft.class_412 {
 }
 
 com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_5375 {
+}
+
+technology.roughness.whitenoise.config.client.screen.ModConfigSelectScreen {
+}
+
+technology.roughness.whitenoise.config.client.screen.EditConfigScreen {
+}
+
+dev.tr7zw.trender.gui.client.AbstractConfigScreen$1 {
+}
+
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+com.teamresourceful.resourcefulconfig.client.ConfigScreen {
 }
 
