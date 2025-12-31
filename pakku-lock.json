@@ -418,7 +418,8 @@
             "pakku_links": [
                 "uK1CD3knKG7HKtCu",
                 "UGuD7MHWQSQg07LB",
-                "oKSllrChMqHMYdmn"
+                "oKSllrChMqHMYdmn",
+                "ANiDVJ8bL3wbqkFh"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -434,7 +435,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "antique-atlas-3.0.0+1.20.jar",
+                    "file_name": "antique-atlas-3.1.0+1.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -444,20 +445,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/XucqxdO3/antique-atlas-3.0.0+1.20.jar",
-                    "id": "XucqxdO3",
+                    "url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/8F1hrMpk/antique-atlas-3.1.0+1.20.jar",
+                    "id": "8F1hrMpk",
                     "parent_id": "Y5Ve4Ui4",
                     "hashes": {
-                        "sha512": "d43ffae0dbc48c7647e752f6af8d7e4d7007f6800cc2fdd84942eb26e4e54b72aeed72484b8585d02c2267d6951e2ca0229a9eb0816245f94a74d2072b6ff272",
-                        "sha1": "83d3e923d7d47d94336c1838f870f5ca3cd7fa91"
+                        "sha512": "2d04096ef289437499b3287ab50a201ae8a500ceae59b82558bde0b5b5ddcc8de369f32a99736b32fc7d24205c4e2209186c1477dc66673e28ab3b33965ebb31",
+                        "sha1": "975478a7ffcfd22ecc98c69da2a7e666e517d02b"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
+                        "4KjqhPc9",
                         "tNmWwdI2",
-                        "4KjqhPc9"
+                        "P7dR8mSH"
                     ],
-                    "size": 868830,
-                    "date_published": "2025-12-14T00:34:11.311089Z"
+                    "size": 886659,
+                    "date_published": "2025-12-31T03:34:17.075182Z"
                 }
             ]
         },
@@ -3313,7 +3314,8 @@
             "pakku_id": "GTeSCGYp7YLwn7uf",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB",
-                "E0Hhuv5KSx1UNZJ0"
+                "E0Hhuv5KSx1UNZJ0",
+                "ANiDVJ8bL3wbqkFh"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3332,7 +3334,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "dead_reckoning-1.6.0+1.20.1.jar",
+                    "file_name": "dead_reckoning-1.6.2+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3340,24 +3342,24 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/pAiUmrn0/dead_reckoning-1.6.0+1.20.1.jar",
-                    "id": "pAiUmrn0",
+                    "url": "https://cdn.modrinth.com/data/F8LcMVkD/versions/ps5us3nj/dead_reckoning-1.6.2+1.20.1.jar",
+                    "id": "ps5us3nj",
                     "parent_id": "F8LcMVkD",
                     "hashes": {
-                        "sha512": "21125d215c4ef52810cd762c8c378efac37c5d3d9305af0c5de3a85267a2887ee0f0012f584089b2ceb0115a55ee005197867fa6084df1c3f55e563323f21597",
-                        "sha1": "876eee7edcc9e305c7c11b4cc49a061ca221228b"
+                        "sha512": "c88fb30d149c10edc735d27e29d9e8cb904a3dcf17d1b0e34182ccfdfcff38d7785184bf53ae9dea5a78db364c705c5f3a46e6803f71be17707e4b079407c83a",
+                        "sha1": "e08da24a1fd8261d9bc7712c1136ac6aca96bc36"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
                         "4KjqhPc9",
-                        "tNmWwdI2"
+                        "tNmWwdI2",
+                        "P7dR8mSH"
                     ],
-                    "size": 36372,
-                    "date_published": "2025-12-27T04:14:00.823129Z"
+                    "size": 36333,
+                    "date_published": "2025-12-31T00:10:47.808102Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "dead_reckoning-1.6.0+1.20.1.jar",
+                    "file_name": "dead_reckoning-1.6.2+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3365,20 +3367,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7383/404/dead_reckoning-1.6.0+1.20.1.jar",
-                    "id": "7383404",
+                    "url": "https://edge.forgecdn.net/files/7398/421/dead_reckoning-1.6.2+1.20.1.jar",
+                    "id": "7398421",
                     "parent_id": "1392904",
                     "hashes": {
-                        "sha1": "876eee7edcc9e305c7c11b4cc49a061ca221228b",
-                        "md5": "b82c7e4a4b716118a385004fe7099c7d"
+                        "sha1": "e08da24a1fd8261d9bc7712c1136ac6aca96bc36",
+                        "md5": "08e410e0578cdad509698343fbf27d34"
                     },
                     "required_dependencies": [
                         "306612",
                         "1402884",
                         "1391592"
                     ],
-                    "size": 36372,
-                    "date_published": "2025-12-27T04:14:01.017Z"
+                    "size": 36333,
+                    "date_published": "2025-12-31T00:10:47.710Z"
                 }
             ]
         },
@@ -14980,27 +14982,29 @@
             ]
         },
         {
-            "pakku_id": "K2y2ifxaCEHtXjuk",
+            "pakku_id": "ANiDVJ8bL3wbqkFh",
             "pakku_links": [
-                "uK1CD3knKG7HKtCu",
                 "UGuD7MHWQSQg07LB",
                 "oKSllrChMqHMYdmn"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "surveyor-map-framework",
                 "modrinth": "surveyor"
             },
             "name": {
+                "curseforge": "Surveyor Map Framework",
                 "modrinth": "Surveyor Map Framework"
             },
             "id": {
+                "curseforge": "1391592",
                 "modrinth": "4KjqhPc9"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "surveyor-1.0.3+1.20.jar",
+                    "type": "curseforge",
+                    "file_name": "surveyor-1.1.1+1.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -15010,19 +15014,45 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/Vh4Xi6Dc/surveyor-1.0.3+1.20.jar",
-                    "id": "Vh4Xi6Dc",
+                    "url": "https://edge.forgecdn.net/files/7398/994/surveyor-1.1.1+1.20.jar",
+                    "id": "7398994",
+                    "parent_id": "1391592",
+                    "hashes": {
+                        "sha1": "ad0a7c2f671fe48c774733b61e910b87b847b340",
+                        "md5": "f34eea14de8ad4fc6ae00c2d3480a857"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1402884"
+                    ],
+                    "size": 587534,
+                    "date_published": "2025-12-31T03:24:14.650Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "surveyor-1.1.1+1.20.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/fNN8jfbe/surveyor-1.1.1+1.20.jar",
+                    "id": "fNN8jfbe",
                     "parent_id": "4KjqhPc9",
                     "hashes": {
-                        "sha512": "b6f2eb410cbecb9c54a0ad3453923d0e0d78eb8e6dd68087945cc10ebf24c1ac30d7e284f58954c6600d25f304b1391b1aed1b8ba91184be3595fa46dc1d316d",
-                        "sha1": "dd6dedef1f9366a4158efaac19a00460b1ef7490"
+                        "sha512": "8be1ea7cf5f8872923a9b1472f3952779c6f038f97f5d8f7157128c9b70ba4b0cca6914af03d316bd45b003c0e6b1faf3acadd0d3fa622e6300b31103ac85d0e",
+                        "sha1": "ad0a7c2f671fe48c774733b61e910b87b847b340"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "tNmWwdI2"
                     ],
-                    "size": 589593,
-                    "date_published": "2025-12-18T23:17:10.363567Z"
+                    "size": 587534,
+                    "date_published": "2025-12-31T03:24:25.065185Z"
                 }
             ]
         },
