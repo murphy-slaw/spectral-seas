@@ -25,6 +25,7 @@
         "wabi_sabi_structures:effigy_patch_mushroom",
         "wabi_sabi_structures:effigy_patch_jungle",
         "nova_structures:wild_ruin",
-        "towns_and_towers:village_beach"
+        "towns_and_towers:village_beach",
+        "mostructures:moai"
     ]
 }

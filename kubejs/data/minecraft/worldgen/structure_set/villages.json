@@ -3,8 +3,8 @@
     "type": "mvs:advanced_random_spread",
     "min_distance_from_world_origin": 500,
     "salt": 10387312,
-    "separation": 10,
-    "spacing": 12,
+    "separation": 8,
+    "spacing": 16,
     "super_exclusion_zone": {
       "chunk_count": 4,
       "other_set": "nova_structures:taverns"

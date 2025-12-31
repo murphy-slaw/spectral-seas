@@ -1,0 +1,30 @@
+{
+    "placement": {
+        "salt": 700613544,
+        "type": "minecraft:random_spread",
+        "separation": 20,
+        "spacing": 8,
+        "exclusion_zone": {
+            "chunk_count": 5,
+            "other_set": "minecraft:villages"
+        }
+    },
+    "structures": [
+        {
+            "structure": "minecraft:jungle_pyramid",
+            "weight": 4
+        },
+        {
+            "structure": "mostructures:jungle_pyramid",
+            "weight": 1
+        },
+        {
+            "structure": "mvs:jungle_tower",
+            "weight": 4
+        },
+        {
+            "structure": "nova_structures:jungle_ruins",
+            "weight": 4
+        }
+    ]
+}
