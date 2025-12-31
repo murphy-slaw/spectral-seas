@@ -1,0 +1,6 @@
+{
+    "type": "lithostitched:add_features",
+    "biomes": "#minecraft:is_beach",
+    "features": "spectral_seas:beachcomber_sand",
+    "step": "underground_ores"
+}
