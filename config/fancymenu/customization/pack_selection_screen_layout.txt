@@ -4,18 +4,23 @@ layout-meta {
   identifier = pack_selection_screen
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1732483400524
-  is_enabled = true
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3dcc5536-c184-4092-9809-431d670bd572-1732483347081] = [groups:][instances:]
+  [loading_requirement_container_meta:0991c926-be47-4c96-810c-2c7eef48f75d-1767039563307] = [groups:][instances:]
 }
 
 menu_background {
   image_path = [source:location]minecraft:textures/block/black_terracotta.png
   slide = false
   repeat_texture = true
+  parallax = false
+  parallax_intensity = 0.02
+  invert_parallax = false
+  restart_animated_on_menu_load = false
+  instance_identifier = 1578edad-3c26-458b-8e30-cc4565618d40-1767039563307
   background_type = image
 }
 
@@ -33,6 +38,11 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = true
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
 }
 
 vanilla_button {

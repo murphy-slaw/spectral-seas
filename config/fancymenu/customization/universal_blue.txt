@@ -3,17 +3,17 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765057573057
-  is_enabled = false
+  last_edited_time = 1767040071674
+  is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f90ac474-2fef-4ec0-8f44-25c3269851c4-1765057894457] = [groups:][instances:]
+  [loading_requirement_container_meta:8fe6c602-a018-4f6f-bf83-badf2b961690-1767039563308] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:location]minecraft:textures/block/blue_terracotta.png
+  image_path = [source:location]minecraft:textures/gui/parchment.png
   slide = false
   repeat_texture = true
   parallax = false
@@ -31,10 +31,10 @@ customization {
 
 scroll_list_customization {
   preserve_scroll_list_header_footer_aspect_ratio = false
-  scroll_list_header_texture = [source:location]minecraft:textures/block/light_blue_terracotta.png
-  scroll_list_footer_texture = [source:location]minecraft:textures/block/light_blue_terracotta.png
+  scroll_list_header_texture = [source:location]minecraft:textures/gui/parchment.png
+  scroll_list_footer_texture = [source:location]minecraft:textures/gui/parchment.png
   render_scroll_list_header_shadow = true
-  render_scroll_list_footer_shadow = true
+  render_scroll_list_footer_shadow = false
   show_scroll_list_header_footer_preview_in_editor = true
   repeat_scroll_list_header_texture = true
   repeat_scroll_list_footer_texture = true

@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765037895899
-  is_enabled = true
+  last_edited_time = 1766889494624
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = create_world_screen;com.terraformersmc.modmenu.gui.ModsScreen;pack_selection_screen;
-  [loading_requirement_container_meta:eed737d5-dea3-4180-b251-baa29077e99a-1765060206997] = [groups:][instances:]
+  [loading_requirement_container_meta:6d5d8770-f3c4-404b-afaf-061984a121a7-1767039563308] = [groups:][instances:]
 }
 
 menu_background {
@@ -44,70 +44,5 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
-}
-
-element {
-  button_element_executable_block_identifier = 9b6674bd-1b44-4d8b-8e76-57a3d34cf348-1765030723915
-  [executable_block:9b6674bd-1b44-4d8b-8e76-57a3d34cf348-1765030723915][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/old_paper_texture_256.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/old_paper_texture_256_offset.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/old_paper_texture_256_inactive.png
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = New Button
-  navigatable = true
-  widget_active_state_requirement_container_identifier = ed26d7fe-9fd9-4097-8f0f-dc21f1de43dd-1765030723915
-  [loading_requirement_container_meta:ed26d7fe-9fd9-4097-8f0f-dc21f1de43dd-1765030723915] = [groups:][instances:]
-  is_template = true
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-  element_type = custom_button
-  instance_identifier = dcc81e52-bfc2-45b3-a8df-f8e4b4739e8e-1765030723915
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1200
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -93
-  y = 47
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 6f3a17b9-4809-4ee8-8751-2a3d4345714f-1765030723915
-  [loading_requirement_container_meta:6f3a17b9-4809-4ee8-8751-2a3d4345714f-1765030723915] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  rotation_degrees = 0.0
-  advanced_rotation_mode = false
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_mode = false
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_mode = false
 }
 
