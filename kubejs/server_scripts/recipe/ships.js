@@ -17,7 +17,11 @@ ServerEvents.recipes((event) => {
         I: ['minecraft:copper_ingot', 'minecraft:iron_ingot'],
     })
     event.replaceInput({ output: 'smallships:sail' }, 'minecraft:lead', 'supplementaries:rope')
-    event.replaceInput({ output: '#smallships:ships' }, 'minecraft:lead', 'spectral_seas:rigging')
+    event.replaceInput(
+        { output: ['#smallships:cogs', '#smallships:galleys', '#smallships:drakkars'] },
+        'minecraft:lead',
+        'spectral_seas:rigging'
+    )
 
     event.remove({ output: 'smallships:bamboo_cog' })
     event.remove({ output: 'smallships:bamboo_galley' })
