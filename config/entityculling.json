@@ -17,7 +17,7 @@
   "debugMode": false,
   "sleepDelay": 10,
   "hitboxLimit": 50,
-  "skipMarkerArmorStands": true,
+  "captureRate": 5,
   "tickCulling": true,
   "tickCullingWhitelist": [
     "create:contraption",
@@ -52,5 +52,6 @@
   ],
   "disableF3": false,
   "skipEntityCulling": false,
-  "skipBlockEntityCulling": false
+  "skipBlockEntityCulling": false,
+  "blockEntityFrustumCulling": true
 }

@@ -24,6 +24,7 @@ worldAmbienceEnabled = true
 	volumeScaling = 0.55
 	# Dimensions in which biome ambience will be played
 	dimensions = ["minecraft:overworld", "minecraft:the_end"]
+
 [worldAmbience]
 	# Affects the volume of all world ambient sounds
 	# range: 0.0 - 1.0

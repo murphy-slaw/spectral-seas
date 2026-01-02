@@ -110,3 +110,13 @@ emptyHandling = "CLOUDS"
 	"minecraft:start/village_taiga" = true
 	"towns_and_towers:start/village_sparse_jungle" = true
 	"totw_reworked:start/regular" = true
+
+# Options to adjust map behaviour for custom or modified dimensions.
+[dimensions]
+
+	# Cycle order and coordinate scales of each dimension.
+	# If not 0, the relative position of the player will be shown.
+	[dimensions.scales]
+		"minecraft:overworld" = 1
+		"minecraft:the_nether" = 1
+		"minecraft:the_end" = 0

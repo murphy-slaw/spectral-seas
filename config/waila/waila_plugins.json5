@@ -241,6 +241,17 @@
     // Default value: [false]
     creative: false
   },
+  wthit_potioncraft: {
+    // config.waila.plugin_wthit_potioncraft.show_icons
+    // Default value: [true]
+    show_icons: true,
+    // config.waila.plugin_wthit_potioncraft.show_text
+    // Default value: [true]
+    show_text: true,
+    // config.waila.plugin_wthit_potioncraft.icon_length
+    // Default value: [15]
+    icon_length: 15
+  },
   treechop: {
     // Block counts
     // Default value: [true]

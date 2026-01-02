@@ -1099,6 +1099,69 @@
             ]
         },
         {
+            "pakku_id": "bAX0fhpGiOzQOSC9",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "auto-third-person",
+                "modrinth": "auto-third-person"
+            },
+            "name": {
+                "curseforge": "Auto Third Person",
+                "modrinth": "Auto Third Person"
+            },
+            "id": {
+                "curseforge": "297818",
+                "modrinth": "ANu8FMzT"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "auto_third_person-fabric-1.20.1-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4730/65/auto_third_person-fabric-1.20.1-2.1.jar",
+                    "id": "4730065",
+                    "parent_id": "297818",
+                    "hashes": {
+                        "sha1": "251eb23c1259f0efa7ef686df34643f40ed3ce54",
+                        "md5": "9009a6788296033d79e36319fd380122"
+                    },
+                    "required_dependencies": [],
+                    "size": 54250,
+                    "date_published": "2023-08-30T22:14:44.977Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "auto_third_person-fabric-1.20.1-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ANu8FMzT/versions/s2FOydlN/auto_third_person-fabric-1.20.1-2.1.jar",
+                    "id": "s2FOydlN",
+                    "parent_id": "ANu8FMzT",
+                    "hashes": {
+                        "sha512": "022bcadd70b1cc7047bb4b66eca644b48740885f83a4b01b0d8d4864b34a1f829b901542f79f066aa3c2c5d6c7977b46c4ae6b4175c9ea5ada8b545c405438ad",
+                        "sha1": "251eb23c1259f0efa7ef686df34643f40ed3ce54"
+                    },
+                    "required_dependencies": [],
+                    "size": 54250,
+                    "date_published": "2023-08-30T22:04:02.042804Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sQklogg5TgQuloQ6",
             "type": "MOD",
             "side": "SERVER",
@@ -1642,73 +1705,6 @@
                     "required_dependencies": [],
                     "size": 654232,
                     "date_published": "2025-12-13T00:04:34.027Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "VK5s3ua9dbqxmoKg",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "boats-on-lilypads",
-                "modrinth": "boats-on-lilypads"
-            },
-            "name": {
-                "curseforge": "Boats On Lilypads",
-                "modrinth": "Boats On Lilypads"
-            },
-            "id": {
-                "curseforge": "1059488",
-                "modrinth": "G8Y1A0F8"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "boats-on-lilypads-1.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/G8Y1A0F8/versions/QRy1oIx0/boats-on-lilypads-1.0.2.jar",
-                    "id": "QRy1oIx0",
-                    "parent_id": "G8Y1A0F8",
-                    "hashes": {
-                        "sha512": "0755011441e5d0aaf64023d8c602abc45280d4cb6deba4fcbd3d208c122886bf45b7f4f23c20dca7af1326e0a64db501e126d6d355f80e45e0e6a1f6c7651643",
-                        "sha1": "30f32fffe15b93ee79257b1e6347034b30367e90"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 25838,
-                    "date_published": "2024-07-08T20:59:31.530292Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "boats-on-lilypads-1.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5514/965/boats-on-lilypads-1.0.2.jar",
-                    "id": "5514965",
-                    "parent_id": "1059488",
-                    "hashes": {
-                        "sha1": "30f32fffe15b93ee79257b1e6347034b30367e90",
-                        "md5": "23f1e8016d7f886873d9186f158555ba"
-                    },
-                    "required_dependencies": [],
-                    "size": 25838,
-                    "date_published": "2024-07-08T21:04:58.317Z"
                 }
             ]
         },
@@ -4134,7 +4130,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "enchant_faker-1.0.1+1.20.1.jar",
+                    "file_name": "enchant_faker-1.0.2+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4142,19 +4138,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4qm9cRdy/versions/6oAbuD89/enchant_faker-1.0.1+1.20.1.jar",
-                    "id": "6oAbuD89",
+                    "url": "https://cdn.modrinth.com/data/4qm9cRdy/versions/acq8qlsm/enchant_faker-1.0.2+1.20.1.jar",
+                    "id": "acq8qlsm",
                     "parent_id": "4qm9cRdy",
                     "hashes": {
-                        "sha512": "424d3dbf885199b143b8469f1230eeb621e872e7a09715ac72c6f092a5d5b28d3a6283a16757e4888f44467265f0503698aaafd41ae8a937a963ac0f272a06e3",
-                        "sha1": "76172828d0354ee280d8cb99a8c55c5018283162"
+                        "sha512": "eccfe5dd228c4155e1f4e2a9f67172eebce68b51e8628798dd4414d69f4dc5a4b3e36a0d63c88d7e494f5c531660796cf261f594ea90b4fdbdc5672397bb77e3",
+                        "sha1": "5d23de665b6e03bbc99f6364a30785659d0378db"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "9s6osm5g"
                     ],
-                    "size": 33229,
-                    "date_published": "2025-02-26T17:01:31.262822Z"
+                    "size": 33357,
+                    "date_published": "2026-01-01T22:03:16.043741Z"
                 }
             ]
         },
@@ -7222,7 +7218,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "jei-1.20.1-fabric-15.20.0.128.jar",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.129.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7230,20 +7226,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EC7UY7wR/jei-1.20.1-fabric-15.20.0.128.jar",
-                    "id": "EC7UY7wR",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/wbPLxn0B/jei-1.20.1-fabric-15.20.0.129.jar",
+                    "id": "wbPLxn0B",
                     "parent_id": "u6dRKJwZ",
                     "hashes": {
-                        "sha512": "443104da25f54d0ed41ca3dcaa475d141d2f0844a3ad5f959d4a03f884cdc8a79ce044cb486ee94482969cc19b42b40aa6f7aa5d5303fdd1f623c68751ee552e",
-                        "sha1": "bb28dfc34d54cf753cd76f8f536b9a6474aa0ed5"
+                        "sha512": "c236643fec7dab72a68d772c0739bc95e2b8b59dbe082b68cafac5457bfd0e87f611fef9b7e973dbe377d6dd76b538327da2a595183b2a3808cc5fe0006cef0f",
+                        "sha1": "5f3633e768fabe6a9a99d1fb536b730f7c038b04"
                     },
                     "required_dependencies": [],
-                    "size": 1422364,
-                    "date_published": "2025-12-21T15:29:20.494005Z"
+                    "size": 1422496,
+                    "date_published": "2025-12-29T08:42:58.267993Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.20.1-fabric-15.20.0.128.jar",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.129.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7251,16 +7247,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7361/879/jei-1.20.1-fabric-15.20.0.128.jar",
-                    "id": "7361879",
+                    "url": "https://edge.forgecdn.net/files/7391/694/jei-1.20.1-fabric-15.20.0.129.jar",
+                    "id": "7391694",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "bb28dfc34d54cf753cd76f8f536b9a6474aa0ed5",
-                        "md5": "5982dae5934f4ae914512e79cb2305c0"
+                        "sha1": "5f3633e768fabe6a9a99d1fb536b730f7c038b04",
+                        "md5": "671230c2f0a89f79a22a99b4c1d1b0e1"
                     },
                     "required_dependencies": [],
-                    "size": 1422364,
-                    "date_published": "2025-12-21T15:29:07.973Z"
+                    "size": 1422496,
+                    "date_published": "2025-12-29T08:42:45.477Z"
                 }
             ]
         },
@@ -8651,7 +8647,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "macos-input-fixes-1.10.jar",
+                    "file_name": "macos-input-fixes-1.11.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1-pre1",
@@ -9044,53 +9040,68 @@
                         "1.21.9-rc1",
                         "1.21.9",
                         "1.21.10-rc1",
-                        "1.21.10"
+                        "1.21.10",
+                        "25w41a",
+                        "25w42a",
+                        "25w43a",
+                        "25w44a",
+                        "25w45a",
+                        "25w46a",
+                        "1.21.11-pre1",
+                        "1.21.11-pre2",
+                        "1.21.11-pre3",
+                        "1.21.11-pre4",
+                        "1.21.11-pre5",
+                        "1.21.11-rc1",
+                        "1.21.11-rc2",
+                        "1.21.11-rc3",
+                        "1.21.11"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/x9BrsVME/versions/XJx2d4Os/macos-input-fixes-1.10.jar",
-                    "id": "XJx2d4Os",
+                    "url": "https://cdn.modrinth.com/data/x9BrsVME/versions/LJz2SKJJ/macos-input-fixes-1.11.jar",
+                    "id": "LJz2SKJJ",
                     "parent_id": "x9BrsVME",
                     "hashes": {
-                        "sha512": "3c0b92ef243ea34be5e0240afbbc7c2eaa18a8378ad3c9ce71a3699c8ffd8d3c5424c0ab029a123dcf0fc218c769f08805d0e0a40d1196a1593247e05b881989",
-                        "sha1": "3903ec0e5c339fa24201147007cce9805bad7d60"
+                        "sha512": "167d6cc307895841ec8d2c07b7fdcb6d6792edcbcfa71c7a642717ef898149093bc72ad669d5dacc0a06dac29bd597aa4bc41458bb27849fffb4c58d6196ac8b",
+                        "sha1": "54de61180f57535bd83007baef66f6db3f51a3e3"
                     },
                     "required_dependencies": [],
-                    "size": 85773,
-                    "date_published": "2025-10-04T08:57:16.018686Z"
+                    "size": 85856,
+                    "date_published": "2025-12-15T02:05:52.447767Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "macos-input-fixes-1.10.jar",
+                    "file_name": "macos-input-fixes-1.11.jar",
                     "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
                         "1.20.2-Snapshot",
                         "1.20.5-Snapshot",
-                        "1.20.3-Snapshot",
-                        "1.20.3",
+                        "1.20.2",
+                        "1.20.5",
                         "1.20.1",
                         "1.20",
                         "1.20.6",
+                        "1.20-Snapshot",
                         "1.20.4",
-                        "1.20-Snapshot"
+                        "1.20.3-Snapshot",
+                        "1.20.3"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7064/707/macos-input-fixes-1.10.jar",
-                    "id": "7064707",
+                    "url": "https://edge.forgecdn.net/files/7334/976/macos-input-fixes-1.11.jar",
+                    "id": "7334976",
                     "parent_id": "678691",
                     "hashes": {
-                        "sha1": "3903ec0e5c339fa24201147007cce9805bad7d60",
-                        "md5": "1c8e85bc2c44d5c7c8e2d19bc48ac6c4"
+                        "sha1": "54de61180f57535bd83007baef66f6db3f51a3e3",
+                        "md5": "bbca97c490c7cf33b9baa4f009563182"
                     },
                     "required_dependencies": [],
-                    "size": 85773,
-                    "date_published": "2025-10-04T08:53:21.917Z"
+                    "size": 85856,
+                    "date_published": "2025-12-15T02:08:27.697Z"
                 }
             ]
         },
@@ -12708,6 +12719,69 @@
             ]
         },
         {
+            "pakku_id": "6DV2Fzrmnq1a9dTK",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "shallowswimming",
+                "modrinth": "shallowswimming"
+            },
+            "name": {
+                "curseforge": "Shallow Swimming",
+                "modrinth": "Shallow Swimming"
+            },
+            "id": {
+                "curseforge": "921247",
+                "modrinth": "bwIwNELZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "shallowswimming-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4789/237/shallowswimming-1.20.1-1.0.1.jar",
+                    "id": "4789237",
+                    "parent_id": "921247",
+                    "hashes": {
+                        "sha1": "53ed32b48b3e81885613969bac51a20e7a441a09",
+                        "md5": "9d4d7bb3281a058dc8a1540ca31a0435"
+                    },
+                    "required_dependencies": [],
+                    "size": 147774,
+                    "date_published": "2023-10-09T10:23:15.160Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "shallowswimming-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bwIwNELZ/versions/ksoD3NQ0/shallowswimming-1.20.1-1.0.1.jar",
+                    "id": "ksoD3NQ0",
+                    "parent_id": "bwIwNELZ",
+                    "hashes": {
+                        "sha512": "3f1b2e47620c37554db35d5d6c5d587b4555c734fbc900ebe1e26a8a3149a5a1e0e188fa186ab0a1f7697bb4f680f41dfd0783088b63b945190311dd628ae23a",
+                        "sha1": "53ed32b48b3e81885613969bac51a20e7a441a09"
+                    },
+                    "required_dependencies": [],
+                    "size": 147774,
+                    "date_published": "2023-10-09T10:23:11.378749Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sFTzJvZADgXqe5ZI",
             "type": "MOD",
             "side": "BOTH",
@@ -15133,6 +15207,108 @@
             ]
         },
         {
+            "pakku_id": "WiwjBa15u3c7MyKi",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "tnt-barrels",
+                "modrinth": "tnt-barrels"
+            },
+            "name": {
+                "curseforge": "TNT Barrels",
+                "modrinth": "TNT Barrels"
+            },
+            "id": {
+                "curseforge": "1112682",
+                "modrinth": "K9iuJt0Z"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TNT Barrels.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5837/646/TNT Barrels.zip",
+                    "id": "5837646",
+                    "parent_id": "1112682",
+                    "hashes": {
+                        "sha1": "30dbfe3b7c259c4e319a01350b4366e30debcc66",
+                        "md5": "0b67ad83474bae727859ccf37cb9a3cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 59733,
+                    "date_published": "2024-10-23T14:57:28.130Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "TNT Barrels.zip",
+                    "mc_versions": [
+                        "1.13",
+                        "1.13.1",
+                        "1.13.2",
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/K9iuJt0Z/versions/bntWtCpr/TNT Barrels.zip",
+                    "id": "bntWtCpr",
+                    "parent_id": "K9iuJt0Z",
+                    "hashes": {
+                        "sha512": "83d92982861bac8f26abbe1c762fe1a66922ea85e069ea7032949612db03bbbe3a4a623917ee1c230eeb6545874d5193ef607014273a88bd1a06d425979e1321",
+                        "sha1": "30dbfe3b7c259c4e319a01350b4366e30debcc66"
+                    },
+                    "required_dependencies": [],
+                    "size": 59733,
+                    "date_published": "2024-10-23T14:44:45.293178Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "bTWW435ftsPYNiwL",
             "type": "MOD",
             "side": "BOTH",
@@ -15383,6 +15559,67 @@
                     ],
                     "size": 478255,
                     "date_published": "2023-06-18T16:00:07.360Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "NsWsfy1sm9K3mqip",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "through-the-lily-pads-gently",
+                "modrinth": "through-the-lily-pads-gently"
+            },
+            "name": {
+                "curseforge": "Through the lily pads, gently",
+                "modrinth": "Through the lily pads, gently"
+            },
+            "id": {
+                "curseforge": "903017",
+                "modrinth": "i8eTQgbq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "through-the-lilypads-gently--mc1.20.1--fab--1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5882/953/through-the-lilypads-gently--mc1.20.1--fab--1.2.0.jar",
+                    "id": "5882953",
+                    "parent_id": "903017",
+                    "hashes": {
+                        "sha1": "be8715f80eb99354f6271cf94c72d29c880bfa80",
+                        "md5": "8030c66e577e941a90823d2955a31813"
+                    },
+                    "required_dependencies": [],
+                    "size": 53861,
+                    "date_published": "2024-11-07T17:13:58.397Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "through-the-lilypads-gently--mc1.20.1--fab--1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/i8eTQgbq/versions/YK7vK1pB/through-the-lilypads-gently--mc1.20.1--fab--1.2.0.jar",
+                    "id": "YK7vK1pB",
+                    "parent_id": "i8eTQgbq",
+                    "hashes": {
+                        "sha512": "3f4052b6f6a8030739664c547127253614484cf0132e41047fa3ebe435f0f62940b9de9803b6d03b8ee487783350f67d53578f010fa550a581c0b6e7b798166a",
+                        "sha1": "be8715f80eb99354f6271cf94c72d29c880bfa80"
+                    },
+                    "required_dependencies": [],
+                    "size": 53861,
+                    "date_published": "2024-11-07T17:35:24.664436Z"
                 }
             ]
         },
@@ -16153,6 +16390,49 @@
                     ],
                     "size": 831830,
                     "date_published": "2025-12-03T18:44:02.003Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DteBUo2Xvo7iNCDf",
+            "pakku_links": [
+                "qh87K1ZXZcRM5wi3",
+                "4dGQDjEi0Ci31GDY"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "wthit-potioncraft"
+            },
+            "name": {
+                "curseforge": "WTHIT: PotionCraft"
+            },
+            "id": {
+                "curseforge": "1418121"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wthit_potioncraft-1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7404/191/wthit_potioncraft-1.0+1.20.1.jar",
+                    "id": "7404191",
+                    "parent_id": "1418121",
+                    "hashes": {
+                        "sha1": "14da6311336860a6aa19fdd2b6a70df400349144",
+                        "md5": "754e06e8dd086320269ebf7a52e2db19"
+                    },
+                    "required_dependencies": [
+                        "891481",
+                        "440979"
+                    ],
+                    "size": 175340,
+                    "date_published": "2026-01-01T14:47:13.513Z"
                 }
             ]
         },

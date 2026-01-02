@@ -7,5 +7,6 @@
   "waila:fabric": true,
   "smallships:waila": true,
   "balm:wthit": true,
-  "treechop:plugin": true
+  "treechop:plugin": true,
+  "potioncraft:wthit": true
 }
