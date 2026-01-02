@@ -1,6 +1,6 @@
 {
     "name": "On Rigging",
-    "icon": "supplementaries:rope",
+    "icon": "spectral_seas:rigging",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
     "sortnum": 2,
@@ -11,12 +11,11 @@
             "recipe": "minecraft:kjs/supplementaries_rope",
             "recipe2": "supplementaries:rope"
         },
-        "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task.$(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools$(p).",
+        "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task. Take also some sturdy Metal for Stays and Pulleys, and assemble the Lot. $(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools.$(p)",
         {
             "title": "A fine Piece of Rigging",
             "type": "crafting",
-            "recipe": "minecraft:kjs/lead",
-            "text": "$(o)Some would call this a mere Tool to lead Animals, but a Mariner knows better.$()"
+            "recipe": "minecraft:kjs/spectral_seas_rigging"
         }
     ]
 }

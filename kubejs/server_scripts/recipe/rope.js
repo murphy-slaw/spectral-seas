@@ -1,7 +1,4 @@
 ServerEvents.recipes((event) => {
-    event.remove({ output: 'minecraft:lead' })
-    event.shapeless('minecraft:lead', ['supplementaries:rope', 'minecraft:slime_ball'])
-
     // string yeilds less rope than flax since it's easier to obtain
     event.shaped(Item.of('supplementaries:rope'), [' s ', ' s ', ' s '], {
         s: 'minecraft:string',
