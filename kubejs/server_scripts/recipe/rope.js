@@ -1,5 +1,5 @@
 ServerEvents.recipes((event) => {
-    // string yeilds less rope than flax since it's easier to obtain
+    // string yields less rope than flax since it's easier to obtain
     event.shaped(Item.of('supplementaries:rope'), [' s ', ' s ', ' s '], {
         s: 'minecraft:string',
     })
