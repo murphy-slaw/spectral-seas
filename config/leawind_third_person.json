@@ -45,7 +45,7 @@
   "enable_target_entity_predict": true,
   "skip_vanilla_second_person_camera": true,
   "disable_third_person_bob_view": false,
-  "allow_double_tap_sprint": false,
+  "allow_double_tap_sprint": true,
   "lock_camera_pitch_angle": false,
   "use_camera_pick_in_creative": false,
   "camera_ray_trace_length": 512.0,
