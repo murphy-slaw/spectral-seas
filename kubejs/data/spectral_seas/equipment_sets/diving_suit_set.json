@@ -1,0 +1,15 @@
+{
+    "localizationString": "spectral_seas.diving_suit_set.name",
+    "itemTagString": "spectral_seas:diving_suit_set",
+    "setEffects": [
+        {
+            "equippedItemThreshold": 2,
+            "toolTipText": "spectral_seas.diving_suit_set.threshold_2",
+            "statusEffectId": "minecraft:slowness",
+            "statusEffectLevel": 1,
+            "isAmbient": true,
+            "showParticles": false,
+            "showIcon": true
+        }
+    ]
+}
