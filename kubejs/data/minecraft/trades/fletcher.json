@@ -1153,7 +1153,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:spininess"
+                        "id": "hybrid-aquatic:thorns"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
