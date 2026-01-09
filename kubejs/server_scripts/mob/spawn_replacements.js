@@ -58,8 +58,10 @@ EntityEvents.spawned((event) => {
         }
     }
 
-    if (entity.type === 'hybrid-aquatic:coconut_crab') {
-        // event.server.runCommandSilent(`execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon ecologics:coconut_crab`)
+    if (entity.type === 'ecologics:coconut_crab') {
+        event.server.runCommandSilent(
+            `execute in ${entity.level.dimension} positioned ${entity.x} ${entity.y} ${entity.z} run summon hybrid_aquatic:coconut_crab`
+        )
         event.cancel()
     }
 

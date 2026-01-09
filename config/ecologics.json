@@ -1,6 +1,6 @@
 {
   "beach": {
-    "coconutCrabSpawnChance": 0.1,
+    "coconutCrabSpawnChance": 0.0,
     "generateCoconutTrees": true,
     "generateSeashells": true
   },

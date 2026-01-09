@@ -18,6 +18,12 @@ ServerEvents.recipes((event) => {
     )
 
     event.remove('minecraft:suspicious_stew')
+
+    event.replaceInput(
+        { output: 'ecologics:tropical_stew' },
+        'ecologics:crab_meat',
+        'hybrid-aquatic:cooked_crab'
+    )
 })
 
 ItemEvents.foodEaten('spectral_seas:mushroom_stew', (event) => {
