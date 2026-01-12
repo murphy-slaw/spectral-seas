@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "supplementaries:sack",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_contents",
+                            "type": "minecraft:chest",
+                            "entries": [
+                                {
+                                    "type": "minecraft:loot_table",
+                                    "name": "spectral_seas:chests/sacks/repair"
+                                }
+                            ]
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "translate": "spectral_seas.items.lore.sack.repair",
+                                    "fallback": "Repair Kit",
+                                    "font": "minecraft:uniform"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

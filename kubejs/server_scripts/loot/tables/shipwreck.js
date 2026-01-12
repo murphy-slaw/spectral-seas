@@ -1,25 +1,5 @@
-const repairSack = Item.of(
-    'supplementaries:sack',
-    '{BlockEntityTag:{ Items:[ {Count:8b,Slot:0b,id:"minecraft:iron_nugget"}, {Count:16b,Slot:1b,id:"minecraft:oak_planks"}, {Count:5b,Slot:2b,id:"minecraft:string"}, {Count:2b,Slot:3b,id:"minecraft:leather"}, {Count:1b,Slot:4b,id:"supplementaries:wrench"}, ]}}'
-)
-
-const rationSack = Item.of(
-    'supplementaries:sack',
-    '{BlockEntityTag:{ Items:[ {Count:8b,Slot:0b,id:"minecraft:dried_kelp"}, {Count:3b,Slot:1b,id:"minecraft:bread"}, {Count:5b,Slot:2b,id:"hybrid-aquatic:cooked_fish_meat"}, {Count:2b,Slot:3b,id:"hybrid-aquatic:cooked_fish_steak"}, {Count:7b,Slot:4b,id:"sweet_berries"}, ]}}'
-)
-
-/** @param {Internal.LootContextJS} ctx */
-const rollSack = (ctx) => {}
-
-/** @param {Internal.LootContextJS} ctx */
-const shipwreckSupply = (ctx) => {
-    return [].concat([
-        LootEntry.of(repairSack)
-            .when((c) => c.randomChance(0.7))
-            .limitCount([1, 2]),
-        LootEntry.of(rationSack)
-            .when((c) => c.randomChance(0.7))
-            .limitCount([1, 2]),
+LootJS.modifiers((event) => {
+    event.addLootTableModifier('chests/shipwreck_supply').addLoot(
         LootEntry.of('supplementaries:sack')
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 2]),
@@ -32,9 +12,6 @@ const shipwreckSupply = (ctx) => {
         LootEntry.of('smallships:sail')
             .when((c) => c.randomChance(0.25))
             .limitCount([1, 2]),
-        LootEntry.of('smallships:cannon_ball')
-            .when((c) => c.randomChance(0.3))
-            .limitCount([1, 4]),
         LootEntry.of('minecraft:coast_armor_trim_smithing_template')
             .when((c) => c.randomChance(0.2))
             .limitCount([1, 2]),
@@ -44,12 +21,8 @@ const shipwreckSupply = (ctx) => {
             .limitCount([1, 3]),
         Loot.randomEntryOf(Loot.allChowders())
             .when((c) => c.randomChance(0.5))
-            .limitCount([1, 3]),
-    ])
-}
-
-LootJS.modifiers((event) => {
-    Loot.smartReplacePools(event, 'chests/shipwreck_supply', [shipwreckSupply])
+            .limitCount([1, 3])
+    )
 
     event.addLootTableModifier('chests/shipwreck_map').addLoot(
         LootEntry.of('spyglass').when((c) => c.randomChance(0.2)),
