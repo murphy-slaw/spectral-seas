@@ -9,6 +9,9 @@ const rationSack = Item.of(
 )
 
 /** @param {Internal.LootContextJS} ctx */
+const rollSack = (ctx) => {}
+
+/** @param {Internal.LootContextJS} ctx */
 const shipwreckSupply = (ctx) => {
     return [].concat([
         LootEntry.of(repairSack)
