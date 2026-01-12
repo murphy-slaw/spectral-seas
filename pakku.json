@@ -62,6 +62,9 @@
         },
         "explosive-enhancement": {
             "update_strategy": "NONE"
+        },
+        "simple-hats": {
+            "update_strategy": "NONE"
         }
     }
 }
