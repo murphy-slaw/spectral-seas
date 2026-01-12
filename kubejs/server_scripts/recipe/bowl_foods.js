@@ -22,7 +22,12 @@ ServerEvents.recipes((event) => {
     event.replaceInput(
         { output: 'ecologics:tropical_stew' },
         'ecologics:crab_meat',
-        'hybrid-aquatic:cooked_crab'
+        'hybrid-aquatic:coconut_crab_claw'
+    )
+    event.replaceOutput(
+        { output: 'ecologics:tropical_stew' },
+        'ecologics:tropical_stew',
+        'spectral_seas:tropical_stew'
     )
 })
 
@@ -41,5 +46,11 @@ ItemEvents.foodEaten('spectral_seas:rabbit_stew', (event) => {
 ItemEvents.foodEaten('spectral_seas:beetroot_soup', (event) => {
     if (event.player != null) {
         event.player.give('minecraft:bowl')
+    }
+})
+
+ItemEvents.foodEaten('spectral_seas:tropical_stew', (event) => {
+    if (event.player != null) {
+        event.player.give('ecologics:coconut_husk')
     }
 })
