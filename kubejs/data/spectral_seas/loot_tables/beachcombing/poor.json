@@ -16,16 +16,6 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:kelp",
-                    "weight": 1
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "hybrid-aquatic:bull_kelp",
-                    "weight": 1
-                },
-                {
-                    "type": "minecraft:item",
                     "name": "minecraft:seagrass",
                     "weight": 1
                 },
