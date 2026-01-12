@@ -9,7 +9,7 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 
 const DEBUG_SHIP_PATHS = false
 const DEBUG_STATE_MACHINE = false
-const SHIP_FRICTION = 0.007
+const SHIP_FRICTION = 0.011
 const ATTACK_RANGE = 4500 // ~67 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
@@ -363,9 +363,10 @@ const makeShipTick = () => {
         const ship = pirate.getVehicle()
         if (!ship) return
 
-        const safeArea = targetEntity.boundingBox.inflate(160, 128, 160)
+        const safeArea = targetEntity.boundingBox.inflate(160, 64, 160)
 
         if (!safeArea.contains(ship.blockPosition())) {
+            console.info("We lost 'em!")
             for (const passenger of ship.getPassengers()) {
                 passenger.discard()
             }
