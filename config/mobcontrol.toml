@@ -64,6 +64,20 @@ type="natural"
 run=33
 
 [[mob]]
+name="ecologics:coconut_crab"
+[[mob.rule]]
+type="all"
+spawn.convert = "hybrid-aquatic:coconut_crab"
+set.size=[200,300]
+run=100
+
+[[mob]]
+name="hybrid-aquatic:coconut_crab"
+[[mob.rule]]
+type="natural"
+run=0
+
+[[mob]]
 name="minecraft:cod"
 [[mob.rule]]
 type="block"
