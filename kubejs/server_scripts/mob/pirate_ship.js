@@ -9,7 +9,7 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 
 const DEBUG_SHIP_PATHS = false
 const DEBUG_STATE_MACHINE = false
-const SHIP_FRICTION = 0.011
+const SHIP_FRICTION = 0.007
 const ATTACK_RANGE = 4500 // ~67 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
@@ -143,11 +143,14 @@ const ShipHelper = function (ship, captain) {
      * Modifies the ship's rotation speed to the left or right, limited by its maxRotationSpeed
      * @param {boolean} isLeft
      */
-    const setRotation = (isLeft) => {
+    const setRotation = (isLeft, rotDelta) => {
         const sign = Math.sign(ship.getRotSpeed()) >= 0 ? 1 : -1
-        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 2.5, 0)
+        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 4.0, 0)
         const maxRotSpeed = ship.attributes.maxRotationSpeed * 0.1 + 1.8
-        const rotAccel = ship.attributes.rotationAcceleration / 12
+        const rotAccel = Math.min(
+            ship.attributes.rotationAcceleration / 12,
+            Math.sqrt(Math.abs(rotDelta))
+        )
         if (isLeft) {
             rotSpeed = Math.max(rotSpeed - rotAccel, -maxRotSpeed)
         } else {
@@ -206,7 +209,7 @@ const ShipHelper = function (ship, captain) {
         const inAngleForSail = rotDelta <= ref * 0.6
 
         if (inputLeft || inputRight) {
-            setRotation(inputLeft)
+            setRotation(inputLeft, rotDelta)
         }
 
         let targetSpeed = 0
@@ -268,7 +271,7 @@ const ShipHelper = function (ship, captain) {
         const inputLeft = phi < ref
         const inputRight = phi > ref
         if (inputLeft || inputRight) {
-            setRotation(inputLeft)
+            setRotation(inputLeft, phi)
         }
 
         const beta = shootLeftSide
