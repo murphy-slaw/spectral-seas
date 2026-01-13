@@ -217,6 +217,10 @@
     // Require server to have WTHIT installed, if not, will be locked to [false]
     // Default value: [true]
     "book.bookshelf": true,
+    // Show Lectern Books
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "book.lectern": true,
     // Enchantment Display Mode
     // Default value: [CYCLE]
     // Available values: [SEPARATE, COMBINED, CYCLE, DISABLED]
@@ -224,9 +228,9 @@
     // Enchantment Cycle Timing (Milliseconds)
     // Default value: [500]
     "book.enchantment_cycle_timing": 500,
-    // Show Written Book Author and Generation
+    // Show Book Details
     // Default value: [true]
-    "book.written": true
+    "book.details": true
   },
   harvest: {
     // Show Harvestability

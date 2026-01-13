@@ -54,3 +54,5 @@ config/transition.json
 config/trender.json
 config/packetfixer.properties
 config/balm-*
+config/crash_assistant/modlist.json
+config/crash_assistant/crash_assistant_localization_overrides/README.md

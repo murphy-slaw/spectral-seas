@@ -86,3 +86,18 @@ forceUpdateLandmarks = true
 	# Whether to automatically add player death waypoints
 	# default: true
 	playerDeathWaypoints = true
+	# Allows recording terrain and waypoints from map items by sneak+using them at a cartography table.
+	# Viable blocks configured via #surveyor:record_from_map
+	# default: true
+	recordFromMapItems = true
+	# Allows recording terrain to map items by sneak+using them at a cartography table.
+	# Viable blocks configured via #surveyor:record_to_map
+	# options: NONE, EXPLORER, COLOR
+	# default: EXPLORER
+	recordToMapItems = "EXPLORER"
+
+	[builtins.recordIcons]
+		PLAYER = false
+		PLAYER_OFF_LIMITS = false
+		PLAYER_OFF_MAP = false
+		FRAME = false

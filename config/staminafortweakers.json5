@@ -9,6 +9,8 @@
 	"depletionPerTickSprinting": 1.0,
 	// Stamina points depleted per tick while swimming.
 	"depletionPerTickSwimming": 0.5,
+	// Stamina points depleted per tick while moving in water.
+	"depletionPerTickWading": 0.25,
 	// Stamina points depleted per tick while climbing.
 	"depletionPerTickClimbing": 0.5,
 	// Stamina points depleted per jump
