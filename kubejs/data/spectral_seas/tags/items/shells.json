@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "ecologics:seashell",
+        "minecraft:nautilus_shell",
+        "naturalist:snail_shell"
+    ]
+}

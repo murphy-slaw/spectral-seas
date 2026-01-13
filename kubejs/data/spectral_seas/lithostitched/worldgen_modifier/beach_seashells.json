@@ -1,0 +1,10 @@
+{
+    "type": "lithostitched:add_features",
+    "biomes": [
+        "minecraft:rocky_beach",
+        "minecraft:snowy_beach",
+        "minecraft:desert"
+    ],
+    "features": "ecologics:seashell",
+    "step": "vegetal_decoration"
+}

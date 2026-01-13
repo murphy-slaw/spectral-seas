@@ -142,13 +142,15 @@ const SLAIN_ITEMS = [
     'sticknstone:stone_halberd',
     'yigd:death_scroll',
     'yigd:grave_key',
-    'hybrid-aquatic:nautilus_helmet',
-    'hybrid-aquatic:nautilus_pauldrons',
-    'hybrid-aquatic:seashell_pickaxe',
-    'hybrid-aquatic:seashell_axe',
-    'hybrid-aquatic:seashell_shovel',
-    'hybrid-aquatic:seashell_hoe',
-    'hybrid-aquatic:seashell_spear',
+    'minecraft:wooden_pickaxe',
+    'minecraft:wooden_axe',
+    'minecraft:wooden_shovel',
+    'minecraft:wooden_hoe',
+    'minecraft:wooden_sword',
+    'sticknstone:wooden_longsword',
+    'sticknstone:wooden_cutlass',
+    'sticknstone:wooden_rapier',
+    'tridents_n_stuff:wooden_spear',
 ]
 
 StartupEvents.modifyCreativeTab('archeologyplus:archeology_plus', (event) => {

@@ -1,6 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"#c:pickaxes"
+		"#c:pickaxes",
+		"hybrid-aquatic:seashell_pickaxe"
 	]
 }

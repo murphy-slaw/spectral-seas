@@ -1,6 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"#c:axes"
+		"#c:axes",
+		"hybrid-aquatic:seashell_axe"
 	]
 }
