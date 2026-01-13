@@ -11,10 +11,17 @@
     },
     "parent": "spectral_seas:seamanship/diving_helmet",
     "criteria": {
-        "helmet_adv": {
-            "trigger": "advancement_cascade:advancement_gain",
-            "type": "only",
-            "target": "spectral_seas:seamanship/diving_helmet"
+        "helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "hybrid-aquatic:diving_helmet"
+                        ]
+                    }
+                ]
+            }
         },
         "boots": {
             "trigger": "minecraft:inventory_changed",
@@ -58,7 +65,7 @@
             "boots"
         ],
         [
-            "helmet_adv"
+            "helmet"
         ],
         [
             "leggings"

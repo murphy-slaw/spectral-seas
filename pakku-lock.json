@@ -196,46 +196,6 @@
             ]
         },
         {
-            "pakku_id": "H0Rj60UDQbN40Y3F",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "advancement-cascade"
-            },
-            "name": {
-                "modrinth": "Advancement Cascade"
-            },
-            "id": {
-                "modrinth": "UIecPobH"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "advancement_cascade-fabric-1.20.1-0.2.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UIecPobH/versions/eiOcnv2x/advancement_cascade-fabric-1.20.1-0.2.jar",
-                    "id": "eiOcnv2x",
-                    "parent_id": "UIecPobH",
-                    "hashes": {
-                        "sha512": "ab073275177118485afa4cc1081b1913a7e5b1eeeba9bc1f73f98eed6de71fbf2a16ef456950f2a6fbe1ed2e01e91203d63f19555ee06612a8dac0dfd8bdeefa",
-                        "sha1": "5a89f7d6099d05fd6ba9749d0aa3917696bc95ec"
-                    },
-                    "required_dependencies": [],
-                    "size": 17693,
-                    "date_published": "2023-11-07T00:38:18.778281Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "nNQRqivMG93NNJcx",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
@@ -5339,6 +5299,67 @@
             ]
         },
         {
+            "pakku_id": "capp4XgQ82fLo3Ze",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "feature-recycler",
+                "modrinth": "feature-recycler"
+            },
+            "name": {
+                "curseforge": "Feature Recycler",
+                "modrinth": "Feature Recycler"
+            },
+            "id": {
+                "curseforge": "1077985",
+                "modrinth": "IAzu52kG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Feature-Recycler-fabric-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5610/346/Feature-Recycler-fabric-1.0.1.jar",
+                    "id": "5610346",
+                    "parent_id": "1077985",
+                    "hashes": {
+                        "sha1": "4d97112cd87c910a2d04871be7962053b964e9e8",
+                        "md5": "fed54247654bd1a9c55fa2138050283f"
+                    },
+                    "required_dependencies": [],
+                    "size": 10028,
+                    "date_published": "2024-08-09T05:35:49.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Feature-Recycler-fabric-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IAzu52kG/versions/w7xDVLS5/Feature-Recycler-fabric-1.0.0.jar",
+                    "id": "w7xDVLS5",
+                    "parent_id": "IAzu52kG",
+                    "hashes": {
+                        "sha512": "ae7935c9f94f665c2ed5de09992d145d203cbc59a6155e76fa9f7a43869a2d022203d2ed4217e4a8d28126282f99b511e5b70a53c07417b3e1fe04760bdce6fa",
+                        "sha1": "2418dc7d9b27565cea0be8104cedcdbffe0f7c0b"
+                    },
+                    "required_dependencies": [],
+                    "size": 9883,
+                    "date_published": "2024-08-06T22:59:21.241798Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZPktJcSH4RsC7io1",
             "type": "MOD",
             "side": "BOTH",
@@ -10078,6 +10099,7 @@
             "id": {
                 "modrinth": "twkfQtEc"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "modrinth",
@@ -10307,74 +10329,6 @@
                     ],
                     "size": 181700,
                     "date_published": "2025-05-18T09:40:50.773Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "UgKK57Koj5C2c0SF",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "morejeiinfo",
-                "modrinth": "morejeiinfo"
-            },
-            "name": {
-                "curseforge": "MoreJeiInfo",
-                "modrinth": "MoreJeiInfo"
-            },
-            "id": {
-                "curseforge": "902996",
-                "modrinth": "bpVBqwnF"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "morejeiinfo-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/bpVBqwnF/versions/o6dc1FeZ/morejeiinfo-fabric-1.20.1-1.0.1.jar",
-                    "id": "o6dc1FeZ",
-                    "parent_id": "bpVBqwnF",
-                    "hashes": {
-                        "sha512": "84f7d2aa2600916789c9abae4ebed9acb0dd79fd936aa45f76cda5bbc6887234b9d7395a192f5dfa704adfe55c8ca2f7ac088a4dbaa624187f9b2e9fa24489ca",
-                        "sha1": "1cbe8dce26f1b02ba34dac3699ae8bf2a3410ec4"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 39424,
-                    "date_published": "2023-09-04T09:38:35.060640Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "morejeiinfo-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4736/568/morejeiinfo-fabric-1.20.1-1.0.1.jar",
-                    "id": "4736568",
-                    "parent_id": "902996",
-                    "hashes": {
-                        "sha1": "1cbe8dce26f1b02ba34dac3699ae8bf2a3410ec4",
-                        "md5": "6a38428e7e750111a19d48d542a80c85"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 39424,
-                    "date_published": "2023-09-04T09:38:34.203Z"
                 }
             ]
         },
@@ -15264,6 +15218,7 @@
                 "curseforge": "412082",
                 "modrinth": "fFEIiSDQ"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "modrinth",
