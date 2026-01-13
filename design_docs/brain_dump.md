@@ -35,28 +35,34 @@
 √ Reduce flax spawns?
 √ Make hermit crabs drop seashells, nautilus fragments, low chance of nautilus shell.
 √ Beachcombing: sus sand on beaches with small treasures - scutes, nautilus shells, etc. Pearls?
+√ Make diving suit + diving leggings give slowness 1
+√ Make it less trivially easy to lose pirate pursuers by ducking underwater.
+√ TODO: Randomize sack contents in shipwreck loot.
+
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
 INVALID TODO: figure out waystone costs for towers
 INVALID TODO: reskin Simply Swords spears as harpoons and figure out some way to make them throwable
 INVALID TODO: Make turtle scute drop timer global, not per-turtle.
-TODO: add a shitpost advancement for drowning
-TODO: add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
-TODO: add silver bullets for black powder weapons
-TODO: Add structure spawns for ruined portals
-TODO: assign Simple Hats as rewards for every advancement 😛
-TODO: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
-TODO: maybe always respawn on the nearest beach to where you died if you don't have a spawn point set? and put the player in crawl mode as if your body has washed ashore
-TODO: More armor set bonuses.
-TODO: randomly replace single chests on shelves in the Undead Crypt with Artifacts Mimics
-TODO: Rework the skins and armor CIT for guard villagers so they look like Keystone Kops
-TODO: Viking funeral advancement
+INVALID TODO: Make pirate ships ignore floating sargassum?
+
+TODO_LATER: add a shitpost advancement for drowning
+TODO_LATER: add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
+TODO_LATER: add silver bullets for black powder weapons
+TODO_LATER: Wind?
+TODO_LATER: assign Simple Hats as rewards for every advancement 😛
+TODO_LATER: maybe always respawn on the nearest beach to where you died if you don't have a spawn point set? and put the player in crawl mode as if your body has washed ashore
+TODO_LATER: randomly replace single chests on shelves in the Undead Crypt with Artifacts Mimics
+TODO_LATER: Rework the skins and armor CIT for guard villagers so they look like Keystone Kops
+TODO_LATER: Viking funeral advancement
+TODO_LATER: Make Nautilus armor worth making.
+TODO_LATER: Make sea necklace require topaz?
+TODO_LATER: dipping recipes for alternate ender pearls
+TODO_LATER: Enchanter recipes for all enchantments
+TODO_LATER: Add structure spawns for ruined portals
+
 TODO: Partial recovery of ship upgrades on break.
 TODO: Loot tables for elder guardians: trident icons?
-Make Nautilus armor worth making.
-More things to do with seashells, nautilus shells, scutes.
-Make sea necklace require topaz.
-Make it less trivially easy to lose pirate pursuers by ducking underwater.
-Randomize sack contents in shipwreck loot.
-Make diving suit + diving leggings give slowness 1
-Wind?
+TODO: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
+TODO: More things to do with seashells, nautilus shells, scutes.
+TODO: More armor set bonuses.
