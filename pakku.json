@@ -65,6 +65,12 @@
         },
         "simple-hats": {
             "update_strategy": "NONE"
+        },
+        "supplementaries": {
+            "update_strategy": "NONE"
+        },
+        "moonlight": {
+            "update_strategy": "NONE"
         }
     }
 }
