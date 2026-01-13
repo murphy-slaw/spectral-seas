@@ -1739,6 +1739,54 @@
             ]
         },
         {
+            "pakku_id": "WSZzqCNDyxuDXmh1",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "boids"
+            },
+            "name": {
+                "modrinth": "Boids"
+            },
+            "id": {
+                "modrinth": "2OckSy74"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Boids-2.0.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2OckSy74/versions/Ai3cFkVx/Boids-2.0.2+1.20.1.jar",
+                    "id": "Ai3cFkVx",
+                    "parent_id": "2OckSy74",
+                    "hashes": {
+                        "sha512": "3911a969de4525c63dfa3d5b68fbdf57c24f98605b182f5304f0cf10805b8af499401168191f0c994e2d85ca6e004953146147576c6a5e157a3fa01f7c5604aa",
+                        "sha1": "40f7edfc88e5a753b0ad5e8bb4b4fc42da783308"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 106437,
+                    "date_published": "2025-07-14T12:10:01.259116Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "I4tn4H2iLpObKgxC",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
@@ -4481,6 +4529,9 @@
                 {
                     "type": "curseforge",
                     "file_name": "entityculling-fabric-1.9.5-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
                     "loaders": [
                         "fabric"
                     ],
@@ -10012,7 +10063,10 @@
             ]
         },
         {
-            "pakku_id": "N7Jx49AKNzfEyfpx",
+            "pakku_id": "lBAbKh7NTNaKzqSJ",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12918,6 +12972,74 @@
             ]
         },
         {
+            "pakku_id": "VsZUGM6bKg8frB65",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "shulkerboxtooltip",
+                "modrinth": "shulkerboxtooltip"
+            },
+            "name": {
+                "curseforge": "Shulker Box Tooltip [Fabric/Forge/NeoForge]",
+                "modrinth": "Shulker Box Tooltip"
+            },
+            "id": {
+                "curseforge": "315811",
+                "modrinth": "2M01OLQq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4611/154/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+                    "id": "4611154",
+                    "parent_id": "315811",
+                    "hashes": {
+                        "sha1": "c947b9056d7c96434acf51833640af1996af06ce",
+                        "md5": "c344d20e5898c0fe21156c36a755c3cb"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1215695,
+                    "date_published": "2023-06-26T21:36:21.127Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/gVxjsEiQ/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+                    "id": "gVxjsEiQ",
+                    "parent_id": "2M01OLQq",
+                    "hashes": {
+                        "sha512": "65cdc8b565e5a7f9a855dd35c7c4b20daae0c6a5822e9a32dabd0f8fd4df6353c9fbd9d1437b83c6f7824e1c65ce466a82f70a7b7ef007bd54afa63718037043",
+                        "sha1": "40b822aeed9de6aec3c872af9be2ba17b3867482"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1215693,
+                    "date_published": "2023-06-26T21:36:39.585886Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sFTzJvZADgXqe5ZI",
             "type": "MOD",
             "side": "BOTH",
@@ -15125,7 +15247,8 @@
         {
             "pakku_id": "8FgQAErzIpmNwQN7",
             "pakku_links": [
-                "UGuD7MHWQSQg07LB"
+                "UGuD7MHWQSQg07LB",
+                "lBAbKh7NTNaKzqSJ"
             ],
             "type": "MOD",
             "side": "BOTH",
