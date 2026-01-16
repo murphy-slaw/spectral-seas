@@ -3004,22 +3004,52 @@
             ]
         },
         {
-            "pakku_id": "3XJykC7PPdXrIip2",
+            "pakku_id": "4g04LhhOXkdbJVv7",
+            "pakku_links": [
+                "UnLygvvB3f8I0ZXI"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "crafting-tweaks",
                 "modrinth": "crafting-tweaks"
             },
             "name": {
+                "curseforge": "Crafting Tweaks",
                 "modrinth": "Crafting Tweaks"
             },
             "id": {
+                "curseforge": "233071",
                 "modrinth": "DMu0oBKf"
             },
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "craftingtweaks-fabric-1.20.1-18.2.8.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7454/493/craftingtweaks-fabric-1.20.1-18.2.8.jar",
+                    "id": "7454493",
+                    "parent_id": "233071",
+                    "hashes": {
+                        "sha1": "f0d7c1a670dd6131762efb4da7cb914806ddd7c1",
+                        "md5": "c4ce0095058c561c8ada05daf2c6abe3"
+                    },
+                    "required_dependencies": [
+                        "500525"
+                    ],
+                    "size": 228058,
+                    "date_published": "2026-01-13T13:09:56.607Z"
+                },
+                {
                     "type": "modrinth",
-                    "file_name": "craftingtweaks-fabric-1.20.1-18.2.6.jar",
+                    "file_name": "craftingtweaks-fabric-1.20.1-18.2.8.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -3028,18 +3058,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/9y4MPSVS/craftingtweaks-fabric-1.20.1-18.2.6.jar",
-                    "id": "9y4MPSVS",
+                    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/OwtzQrKt/craftingtweaks-fabric-1.20.1-18.2.8.jar",
+                    "id": "OwtzQrKt",
                     "parent_id": "DMu0oBKf",
                     "hashes": {
-                        "sha512": "fffa15589b106b83af4d1f615cce499c16d202eb880ba68543fbad6a80ab0c5cb56c9e4937622ffdfcd4f570068127c5476d38055de53bc6dda87b398ebaad87",
-                        "sha1": "7454cf1cb789ef2eb8c52a2ef65621ad808a24e9"
+                        "sha512": "40f5ee5b4c368a870547f4901e11ebfc2401bc0dd6e779b26ff69cd8064ade1f0bafcc63cf0f54fc21f082e3e32a39c26c5672bf5f78da3e449df3698a8adf18",
+                        "sha1": "582209eb943e46bf674654b91bfbda7c78651aee"
                     },
                     "required_dependencies": [
                         "MBAkmtvl"
                     ],
-                    "size": 227987,
-                    "date_published": "2025-07-18T18:08:21.356064Z"
+                    "size": 228059,
+                    "date_published": "2026-01-13T13:09:20.637029Z"
                 }
             ]
         },
@@ -4090,7 +4120,7 @@
             ]
         },
         {
-            "pakku_id": "AOOJSMxPADA4wufg",
+            "pakku_id": "bEXdIf4bXxKOTBdq",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -4106,27 +4136,6 @@
                 "modrinth": "NCKpPR0Z"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ecologics-fabric-1.20.1-2.2.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/1CHAex8J/ecologics-fabric-1.20.1-2.2.2.jar",
-                    "id": "1CHAex8J",
-                    "parent_id": "NCKpPR0Z",
-                    "hashes": {
-                        "sha512": "c964935d01e3e8692a09160dc763e0a9532581f5f7fce6e6fa675d46c99026ada5948e5196b406762475638fcb64b9c97ecdd6617668edb3b58feca4a0560907",
-                        "sha1": "f2d626377c81bb95155e707da3b085bb53240b11"
-                    },
-                    "required_dependencies": [],
-                    "size": 2812642,
-                    "date_published": "2025-07-05T17:06:23.734709Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "ecologics-fabric-1.20.1-2.2.2.jar",
@@ -4147,6 +4156,27 @@
                     "required_dependencies": [],
                     "size": 2812642,
                     "date_published": "2025-07-05T17:03:01.907Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/1CHAex8J/ecologics-fabric-1.20.1-2.2.2.jar",
+                    "id": "1CHAex8J",
+                    "parent_id": "NCKpPR0Z",
+                    "hashes": {
+                        "sha512": "c964935d01e3e8692a09160dc763e0a9532581f5f7fce6e6fa675d46c99026ada5948e5196b406762475638fcb64b9c97ecdd6617668edb3b58feca4a0560907",
+                        "sha1": "f2d626377c81bb95155e707da3b085bb53240b11"
+                    },
+                    "required_dependencies": [],
+                    "size": 2812642,
+                    "date_published": "2025-07-05T17:06:23.734709Z"
                 }
             ]
         },
@@ -14301,7 +14331,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.9.1.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.10.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14309,22 +14339,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/SZBge24Y/staminafortweakers-fabric-1.20.1-1.9.1.jar",
-                    "id": "SZBge24Y",
+                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/b96pRuzN/staminafortweakers-fabric-1.20.1-1.10.jar",
+                    "id": "b96pRuzN",
                     "parent_id": "AejtfAlC",
                     "hashes": {
-                        "sha512": "3f3a7b40fc6ab42099839b0de1cfdf5137b08634fdeeec6ec57189048b74ce730f4c2be4ef35c48afc144b8ce3a37c945e38d6edd72529cf459175b2c384bc37",
-                        "sha1": "2814600c422a0b500eb28142fd7e5d5e584958d4"
+                        "sha512": "36ded85f7557ccce737ca074a3ddf221e66738a2b25e2cdcb4ec3aa7d74b6d9cab529221beb8d3cd9ea1ebea8d5b13bc04d888b8926c7c2303cfe30fcf2644aa",
+                        "sha1": "dae96f02f8135d4cdea56f541886b99cb39280a8"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 684977,
-                    "date_published": "2025-12-26T23:33:08.218923Z"
+                    "size": 686804,
+                    "date_published": "2026-01-14T22:57:09.487269Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.9.1.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.10.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14332,18 +14362,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7382/664/staminafortweakers-fabric-1.20.1-1.9.1.jar",
-                    "id": "7382664",
+                    "url": "https://edge.forgecdn.net/files/7461/41/staminafortweakers-fabric-1.20.1-1.10.jar",
+                    "id": "7461041",
                     "parent_id": "1040808",
                     "hashes": {
-                        "sha1": "2814600c422a0b500eb28142fd7e5d5e584958d4",
-                        "md5": "15eaf3cb9e1c058507ed79d650316cd4"
+                        "sha1": "dae96f02f8135d4cdea56f541886b99cb39280a8",
+                        "md5": "6acf633c593daed19afc83a932e15dfa"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 684977,
-                    "date_published": "2025-12-26T23:33:08.180Z"
+                    "size": 686804,
+                    "date_published": "2026-01-14T22:59:17.807Z"
                 }
             ]
         },
