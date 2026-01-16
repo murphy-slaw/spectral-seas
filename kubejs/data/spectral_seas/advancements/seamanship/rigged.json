@@ -27,19 +27,7 @@
     "craft_lead": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:kjs/lead",
-        "ingredients": [
-          {
-            "items": [
-              "minecraft:slime_ball"
-            ]
-          },
-          {
-            "items": [
-              "supplementaries:rope"
-            ]
-          }
-        ]
+        "recipe_id": "minecraft:kjs/spectral_seas_rigging"
       }
     }
   },

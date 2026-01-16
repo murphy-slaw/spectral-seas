@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:husbandry/plant_seed",
+  "parent": "galosphere:adventure/crystal_canyons",
   "display": {
     "icon": {
       "item": "galosphere:lumiere_shard"

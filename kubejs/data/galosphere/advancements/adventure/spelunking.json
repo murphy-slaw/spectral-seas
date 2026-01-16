@@ -1,5 +1,4 @@
 {
-  "parent": "spectral_seas:seamanship/sail_away",
   "criteria": {
     "minecraft:lush_caves": {
       "conditions": {
@@ -92,6 +91,7 @@
     "icon": {
       "item": "minecraft:pointed_dripstone"
     },
+    "background": "minecraft:textures/block/deepslate_top.png",
     "show_toast": true,
     "title": {
       "translate": "advancements.adventure.spelunking.title"

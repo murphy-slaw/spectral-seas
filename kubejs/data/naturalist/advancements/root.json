@@ -1,0 +1,18 @@
+{
+    "parent": "spectral_seas:seamanship/sail_away",
+    "display": {
+        "title": "Wild Kingdom",
+        "description": "Animals are friends and food",
+        "icon": {
+            "item": "naturalist:teddy_bear"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "criteria": {
+        "consumed_item": {
+            "conditions": {},
+            "trigger": "minecraft:consume_item"
+        }
+    }
+}

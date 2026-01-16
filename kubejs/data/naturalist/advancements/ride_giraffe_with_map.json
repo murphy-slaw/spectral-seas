@@ -14,7 +14,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "spectral_seas:seamanship/on_foreign_shores",
+  "parent": "naturalist:root",
   "criteria": {
     "holding_map_mainhand": {
       "trigger": "minecraft:tick",

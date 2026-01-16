@@ -1,5 +1,4 @@
 {
-  "parent": "spectral_seas:seamanship/root",
   "criteria": {
     "expose_frame": {
       "conditions": {},
@@ -11,6 +10,7 @@
     "hidden": false,
     "show_toast": true,
     "announce_to_chat": true,
+    "background": "minecraft:textures/block/black_terracotta.png",
     "icon": {
       "item": "exposure:camera",
       "nbt": "{Active:1b}"
