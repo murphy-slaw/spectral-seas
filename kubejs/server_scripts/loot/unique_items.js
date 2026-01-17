@@ -1,22 +1,26 @@
 //priority: 0
 const UNIQUE_CONFIG = 'kubejs/config/unique_items.json'
+const UNIQUE_KEY = 'uniqueItems'
 
-ServerEvents.loaded(event => {
-    let uniques = event.server.persistentData.getCompound('uniqueItems')
+ServerEvents.loaded((event) => {
+    let uniques = event.server.persistentData.getCompound(UNIQUE_KEY)
     if (uniques.isEmpty()) {
-        JsonIO.read(UNIQUE_CONFIG).uniqueItems.forEach(itemId => uniques.putInt(itemId, 0))
-        event.server.persistentData.put('uniqueItems', uniques)
+        JsonIO.read(UNIQUE_CONFIG).uniqueItems.forEach((itemId) => uniques.putInt(itemId, 0))
+        event.server.persistentData.put(UNIQUE_KEY, uniques)
     }
-    console.log(event.server.persistentData.getCompound('uniqueItems'))
+    console.log(event.server.persistentData.getCompound(UNIQUE_KEY))
 })
 
-LootJS.modifiers(event => {
-    event.addLootTypeModifier(LootType.CHEST).apply(ctx => {
-        let uniques = ctx.server.persistentData.getCompound('uniqueItems')
-        let allowed = []
-        let banned = []
-        ctx.forEachLoot(itemStack => {
-            if (uniques.contains(itemStack.id)) {
+LootJS.modifiers((event) => {
+    event.addLootTypeModifier(LootType.CHEST, LootType.ENTITY).apply((ctx) => {
+        const globalUniques = ctx.server.persistentData.getCompound(UNIQUE_KEY)
+        if (ctx.player === null) return
+        let uniques = ctx.player.persistentData.getCompound('uniqueItems')
+
+        const allowed = []
+        const banned = []
+        ctx.forEachLoot((itemStack) => {
+            if (globalUniques.contains(itemStack.id)) {
                 let count = uniques.getInt(itemStack.id)
                 if (count === 0) {
                     uniques.put(itemStack.id, ++count)
@@ -27,8 +31,8 @@ LootJS.modifiers(event => {
                 }
             }
         })
-        banned.forEach(stack => ctx.removeLoot(stack.id))
-        allowed.forEach(stack => stack.setCount(1))
-        ctx.server.persistentData.put('uniqueItems', uniques)
+        banned.forEach((stack) => ctx.removeLoot(stack.id))
+        allowed.forEach((stack) => stack.setCount(1))
+        ctx.player.persistentData.put('uniqueItems', uniques)
     })
 })

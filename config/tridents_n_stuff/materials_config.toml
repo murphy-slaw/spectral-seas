@@ -87,7 +87,7 @@ enchantability = 22
 
 [ancient.repairIngredient]
 type = "stack"
-value = "minecraft:netherite_scrap"
+value = "minecraft:diamond"
 
 [oceanic]
 durability = 350
