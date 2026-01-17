@@ -6,7 +6,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword"
+          "name": "simplyswords:iron_rapier"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplyswords:iron_cutlass"
         },
         {
           "type": "minecraft:item",

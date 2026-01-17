@@ -58,6 +58,19 @@ EntityEvents.spawned((event) => {
         }
     }
 
+    if (entity.type === 'rottencreatures:zombie_lackey') {
+        event.server.scheduleInTicks(1, (task) => {
+            entity.setItemSlot('MAINHAND', 'sticknstone:stone_cutlass')
+        })
+    }
+
+    if (entity.type === 'rottencreatures:skeleton_lackey') {
+        event.server.scheduleInTicks(1, (task) => {
+            entity.setItemSlot('MAINHAND', 'sticknstone:stone_rapier')
+            entity.setItemSlot('OFFHAND', 'sticknstone:stone_cutlass')
+        })
+    }
+
     if (entity.type === 'hybrid-aquatic:karkinos') {
         console.infof('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes$BASE.getScaleData(entity).setScale(3)

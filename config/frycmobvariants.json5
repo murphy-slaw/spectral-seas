@@ -49,7 +49,7 @@
 		/* List of weapons that Undead Warrior can spawn with in the following pattern: 'Item;Chance;Item;Chance' 
 		    Sum of chances cannot be greater than 1.0
 		*/
-		"undeadWarriorWeapons": "minecraft:stone_sword;0.50;minecraft:bow;0.50",
+		"undeadWarriorWeapons": "sticknstone:stone_longsword;0.50;minecraft:bow;0.50",
 		"undeadWarriorsMinTippedArrowsCount": 1,
 		"undeadWarriorsMaxTippedArrowsCount": 4,
 		"undeadWarriorsTippedArrowDropChancePerTippedArrowHeld": 3,
@@ -89,11 +89,11 @@
 	/* List of weapons that Corsair can spawn with in the following pattern: 'Item;Chance;Item;Chance' 
 	    Sum of chances cannot be greater than 1.0
 	*/
-	"corsairWeapons": "minecraft:wooden_sword;0.72",
+	"corsairWeapons": "sticknstone:stone_cutlass;0.5;sticknstone:stone_rapier;0.5",
 	// Minimal difficulty at which Bloated Corpse's cloud deals poison damage. Set to NONE to remove poison damage from the cloud
 	"bloatedCorpsesCloudPoisonDamageDifficulty": "HARD",
 	"convertZombiesToFrozenZombiesInPowderSnow": true,
-	"convertSkeletonsToCorsairsUnderwater": true,
+	"convertSkeletonsToCorsairsUnderwater": false,
 	// When true, Frozen Zombies become normal zombies after spending some time exposed to sunlight, fire or water
 	"enableFrozenZombieConvertingToNormalZombie": true
 }
