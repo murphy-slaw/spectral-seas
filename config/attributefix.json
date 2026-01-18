@@ -330,6 +330,17 @@
         "value": 1024
       }
     },
+    "staminafortweakers:generic.stamina_recovery_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "stepheightentityattribute:stepheight": {
       "enabled": false,
       "min": {
