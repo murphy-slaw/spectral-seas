@@ -38,6 +38,10 @@
 √ Make diving suit + diving leggings give slowness 1
 √ Make it less trivially easy to lose pirate pursuers by ducking underwater.
 √ TODO: Randomize sack contents in shipwreck loot.
+√ TODO: More things to do with seashells, nautilus shells, scutes.
+√ TODO: Make poisonous potatoes easier to get
+√ TODO: Loot tables for elder guardians: trident icons?
+√ TODO: Fix persistent ship damage
 
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
@@ -60,9 +64,14 @@ TODO_LATER: Make sea necklace require topaz?
 TODO_LATER: dipping recipes for alternate ender pearls
 TODO_LATER: Enchanter recipes for all enchantments
 TODO_LATER: Add structure spawns for ruined portals
+TODO_LATER: More armor set bonuses.
+TODO_LATER: Exposure advancements for HA fish and other modded mobs.
 
 TODO: Partial recovery of ship upgrades on break.
-TODO: Loot tables for elder guardians: trident icons?
 TODO: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
-TODO: More things to do with seashells, nautilus shells, scutes.
-TODO: More armor set bonuses.
+
+TODO_1.0: Screenshots
+TODO_1.0: Update pack description/blurb
+TODO_1.0: New Panorama
+TODO_1.0: Release changelog
+TODO_1.0: Splash texts
