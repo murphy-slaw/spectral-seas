@@ -11,7 +11,6 @@ EntityEvents.hurt((event) => {
         /** @type {Internal.Player} */
         const player = event.source.getImmediate()
         const item = player.getMainHandItem()
-        console.log(item.id)
         if (isBroken(item)) event.cancel()
     }
 })

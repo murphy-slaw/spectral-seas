@@ -36,7 +36,6 @@ const PlayerHelper = (function () {
         const getShip = () => {
             const id = shipID.get()
             if (id) {
-                console.info(`Ship ID: ${id}`)
                 const ship = player.level.getEntity(UUID.fromString(id))
                 if (ship) {
                     return ship
