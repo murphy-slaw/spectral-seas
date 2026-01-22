@@ -145,7 +145,7 @@ const ShipHelper = function (ship, captain) {
      */
     const setRotation = (isLeft, rotDelta) => {
         const sign = Math.sign(ship.getRotSpeed()) >= 0 ? 1 : -1
-        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 4.0, 0)
+        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 2.5, 0)
         const maxRotSpeed = ship.attributes.maxRotationSpeed * 0.1 + 1.8
         const rotAccel = Math.min(
             ship.attributes.rotationAcceleration / 12,
@@ -350,8 +350,6 @@ const makeShipTick = () => {
     const funcID = $Mth.createInsecureUUID()
     let state = STATE.PATHING
     let prevState = ''
-    let approachTimer = 0
-    let precision = 50
     let attackCooldown = 0
     let volleyCount = 0
 
@@ -366,9 +364,9 @@ const makeShipTick = () => {
         const ship = pirate.getVehicle()
         if (!ship) return
 
-        const safeArea = targetEntity.boundingBox.inflate(160, 64, 160)
+        const distanceSqr = ship.distanceToEntitySqr(targetEntity)
 
-        if (!safeArea.contains(ship.blockPosition())) {
+        if (distanceSqr > 25600) {
             console.info("We lost 'em!")
             for (const passenger of ship.getPassengers()) {
                 passenger.discard()
@@ -393,40 +391,31 @@ const makeShipTick = () => {
             }
             case STATE.PATHING: {
                 shipHelper.setSailState(0)
-                if (targetEntity && pirate.navigation.moveTo(targetEntity, 1)) state = STATE.MOVING
+                if (targetEntity && pirate.navigation.moveTo(targetEntity, 16)) state = STATE.MOVING
                 break
             }
 
             case STATE.MOVING: {
                 shipHelper.setSailState(4)
                 const path = pirate.navigation.getPath()
-                if (path === null || !path.getNextNode()) {
+                if (pirate.navigation.isDone()) {
                     state = STATE.PATHING
                     break
                 }
                 let node = path.getNextNode()
 
                 const nodeDistance = ship.distanceToSqr(Vec3d(node.x, ship.y, node.z))
-                if (nodeDistance <= precision) {
-                    path.advance()
-                    if (path.isDone()) {
-                        state = STATE.PATHING
-                    } else {
-                        node = path.getNextNode()
-                    }
-                    if (DEBUG_SHIP_PATHS) {
-                        pirate.level.setBlockAndUpdate(
-                            new BlockPos(node.x, pirate.y + 6, node.z),
-                            Blocks.BLACK_STAINED_GLASS_PANE.defaultBlockState()
-                        )
-                    }
-                } else if (++approachTimer > 50) {
-                    if (precision < 300) precision += 25
-                    else {
-                        precision = 50
-                        state = STATE.PATHING
-                    }
-                    approachTimer = 0
+                if (DEBUG_SHIP_PATHS) {
+                    console.log(path.nodeCount)
+                    pirate.level.setBlockAndUpdate(
+                        new BlockPos(node.x, pirate.y + 10, node.z),
+                        Blocks.BLACK_STAINED_GLASS_PANE.defaultBlockState()
+                    )
+                    const end = path.endNode
+                    pirate.level.setBlockAndUpdate(
+                        new BlockPos(end.x, pirate.y + 10, end.z),
+                        Blocks.LIME_STAINED_GLASS.defaultBlockState()
+                    )
                 }
 
                 if (nodeDistance >= 3) {
@@ -439,6 +428,7 @@ const makeShipTick = () => {
                         state = STATE.ATTACKING
                     }
                 }
+                path.advance()
                 break
             }
 
@@ -567,7 +557,7 @@ const buildPirateShip = (shipType, level, player) => {
     pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
     pirateShip.setCannonCount(pirateShip.getMaxCannonPerSide() * 2)
     const nbt = pirateShip.nbt
-    nbt.Attributes.maxSpeed = 60 * modifiedDifficulty(player)
+    nbt.Attributes.maxSpeed = 80 * modifiedDifficulty(player)
     console.log(`Speed: ${nbt.Attributes.maxSpeed}`)
     pirateShip.setNbt(nbt)
     const cannonballCount = BASE_CANNONBALL_COUNT * localDifficultyFor(player)
