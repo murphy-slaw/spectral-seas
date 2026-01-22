@@ -4137,29 +4137,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "ecologics-fabric-1.20.1-2.2.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6733/904/ecologics-fabric-1.20.1-2.2.2.jar",
-                    "id": "6733904",
-                    "parent_id": "570463",
-                    "hashes": {
-                        "sha1": "f2d626377c81bb95155e707da3b085bb53240b11",
-                        "md5": "50fdbc15332dc94361acca3366b6f565"
-                    },
-                    "required_dependencies": [],
-                    "size": 2812642,
-                    "date_published": "2025-07-05T17:03:01.907Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "ecologics-fabric-1.20.1-2.2.2.jar",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4167,16 +4146,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/1CHAex8J/ecologics-fabric-1.20.1-2.2.2.jar",
-                    "id": "1CHAex8J",
+                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/76Zti2GN/ecologics-fabric-1.20.1-2.2.4.jar",
+                    "id": "76Zti2GN",
                     "parent_id": "NCKpPR0Z",
                     "hashes": {
-                        "sha512": "c964935d01e3e8692a09160dc763e0a9532581f5f7fce6e6fa675d46c99026ada5948e5196b406762475638fcb64b9c97ecdd6617668edb3b58feca4a0560907",
-                        "sha1": "f2d626377c81bb95155e707da3b085bb53240b11"
+                        "sha512": "699d13e96a0644d023945919adb1e19e7c00775ad5a7b7ba38388bef4798acdb3fba84a7fe17139e6f27fe14af4e942058d9c87b17601fbae92f0107dc5a2eef",
+                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7"
                     },
                     "required_dependencies": [],
-                    "size": 2812642,
-                    "date_published": "2025-07-05T17:06:23.734709Z"
+                    "size": 2831307,
+                    "date_published": "2026-01-18T08:04:28.190259Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7479/469/ecologics-fabric-1.20.1-2.2.4.jar",
+                    "id": "7479469",
+                    "parent_id": "570463",
+                    "hashes": {
+                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7",
+                        "md5": "d6784d152613458e3159a12b3300fea4"
+                    },
+                    "required_dependencies": [],
+                    "size": 2831307,
+                    "date_published": "2026-01-18T07:58:48.047Z"
                 }
             ]
         },
@@ -16586,7 +16586,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "wthit-1.20.1-fabric-8.20.0.jar",
+                    "file_name": "wthit-1.20.1-fabric-8.21.0.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -16595,23 +16595,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/t5ce0UuC/wthit-1.20.1-fabric-8.20.0.jar",
-                    "id": "t5ce0UuC",
+                    "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/mh9Zp3yN/wthit-1.20.1-fabric-8.21.0.jar",
+                    "id": "mh9Zp3yN",
                     "parent_id": "6AQIaxuO",
                     "hashes": {
-                        "sha512": "36634cb6bca3dbf36dd4661fb87afe6d195fc0d0de8a90121ca26d022c469139ca9080bf0c69db524fe70e3a23e389c8e6f012cdcf027be2173fe1e11d037681",
-                        "sha1": "d544e02c2a45f5b08a1b823a8cd20df6a320c99c"
+                        "sha512": "4406f6de59d923ded5d1e496bff0d62b2e9c8ee53842652fac39e150719faff6795140ab6143398a946fe77e6d8a504ae4d2dbb665b25df355a73f9d77919b19",
+                        "sha1": "2f84985ca642473c1470bad953b43aa08b8bf01e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "ftdbN0KK"
                     ],
-                    "size": 839028,
-                    "date_published": "2026-01-05T15:12:32.980218Z"
+                    "size": 845497,
+                    "date_published": "2026-01-20T19:54:36.757754Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "wthit-1.20.1-fabric-8.20.0.jar",
+                    "file_name": "wthit-1.20.1-fabric-8.21.0.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -16620,19 +16620,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7421/306/wthit-1.20.1-fabric-8.20.0.jar",
-                    "id": "7421306",
+                    "url": "https://edge.forgecdn.net/files/7496/32/wthit-1.20.1-fabric-8.21.0.jar",
+                    "id": "7496032",
                     "parent_id": "440979",
                     "hashes": {
-                        "sha1": "d544e02c2a45f5b08a1b823a8cd20df6a320c99c",
-                        "md5": "83d1541cf1c3bcaddd548cbbf199ecdf"
+                        "sha1": "2f84985ca642473c1470bad953b43aa08b8bf01e",
+                        "md5": "d2c20c08b626cd41da1ebd06a982d091"
                     },
                     "required_dependencies": [
-                        "615134",
-                        "306612"
+                        "306612",
+                        "615134"
                     ],
-                    "size": 839028,
-                    "date_published": "2026-01-05T15:12:29.387Z"
+                    "size": 845497,
+                    "date_published": "2026-01-20T19:54:27.157Z"
                 }
             ]
         },
@@ -16702,33 +16702,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "waila_smallships-1.1.1+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7273/271/waila_smallships-1.1.1+1.20.1.jar",
-                    "id": "7273271",
-                    "parent_id": "1394118",
-                    "hashes": {
-                        "sha1": "fa0e1b596b2b7f691ed19df8b17d8315e0b1d904",
-                        "md5": "eeb07de5609acc96094e6160b88bc87e"
-                    },
-                    "required_dependencies": [
-                        "450659",
-                        "615134",
-                        "440979"
-                    ],
-                    "size": 131931,
-                    "date_published": "2025-11-29T03:34:41.753Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "waila_smallships-1.1.1+1.20.1.jar",
+                    "file_name": "waila_smallships-1.2.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16736,20 +16711,45 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zPDxO1Zp/versions/s3VWlEkS/waila_smallships-1.1.1+1.20.1.jar",
-                    "id": "s3VWlEkS",
+                    "url": "https://cdn.modrinth.com/data/zPDxO1Zp/versions/RCLYR16W/waila_smallships-1.2.0+1.20.1.jar",
+                    "id": "RCLYR16W",
                     "parent_id": "zPDxO1Zp",
                     "hashes": {
-                        "sha512": "e301e880118e00836fad04b528002d2b85443e49f544356d054ee21ba14c6587ddb417975cb42d39cb79897526682ee0855df3f23bb18c1b94aabe8c71a9ea40",
-                        "sha1": "fa0e1b596b2b7f691ed19df8b17d8315e0b1d904"
+                        "sha512": "97707a9550776beb0265166420d7153162d876e19289bcdb5024ef5461976f8a82889e832485fe14d73dd8a205e38d8f7e668ce1b5f4f6055a550562d9c48973",
+                        "sha1": "5e6ed0a41cb8143a4f905cc2875ed3cf99f39725"
                     },
                     "required_dependencies": [
-                        "6AQIaxuO",
                         "rGWEHQrP",
+                        "6AQIaxuO",
                         "ftdbN0KK"
                     ],
-                    "size": 131931,
-                    "date_published": "2025-02-09T02:52:29.175237Z"
+                    "size": 132463,
+                    "date_published": "2026-01-21T03:02:18.304609Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "waila_smallships-1.2.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7498/330/waila_smallships-1.2.0+1.20.1.jar",
+                    "id": "7498330",
+                    "parent_id": "1394118",
+                    "hashes": {
+                        "sha1": "5e6ed0a41cb8143a4f905cc2875ed3cf99f39725",
+                        "md5": "46fad6b6cff6bf18eced5d9797ba314b"
+                    },
+                    "required_dependencies": [
+                        "615134",
+                        "450659",
+                        "440979"
+                    ],
+                    "size": 132463,
+                    "date_published": "2026-01-21T03:02:18.463Z"
                 }
             ]
         },
