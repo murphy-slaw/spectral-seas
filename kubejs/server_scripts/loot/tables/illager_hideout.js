@@ -1,4 +1,4 @@
-LootJS.modifiers(event => {
+LootJS.modifiers((event) => {
     event
         .addLootTableModifier('nova_structures:chests/illager_hideout_heart_loot')
         .replaceLoot(
@@ -8,8 +8,8 @@ LootJS.modifiers(event => {
         )
         .addLoot(Loot.enchantedFrom('simplyswords:diamond_cutlass', EnchantSets.LUCKY))
         .addWeightedLoot([1, 2], true, [
-            LootEntry.of('spectral_seas:ship_speed_upgrade'),
-            LootEntry.of('spectral_seas:ship_cargo_upgrade'),
+            LootEntry.of('smallships_upgrades:ship_speed_upgrade'),
+            LootEntry.of('smallships_upgrades:ship_cargo_upgrade'),
         ])
 
     event
@@ -35,12 +35,12 @@ LootJS.modifiers(event => {
         .replaceLoot('emerald', LootEntry.of('emerald_block').limitCount([1, 4]), false)
         .addLoot(
             LootEntry.of('smallships:sail')
-                .when(c => c.randomChance(0.7))
+                .when((c) => c.randomChance(0.7))
                 .limitCount([1, 2])
         )
         .addLoot(
             LootEntry.of('supplementaries:rope')
-                .when(c => c.randomChance(0.8))
+                .when((c) => c.randomChance(0.8))
                 .limitCount([1, 3])
         )
 })

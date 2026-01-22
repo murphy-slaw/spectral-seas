@@ -14,8 +14,8 @@ const pirateArsenal = (ctx) => {
             .limitCount([1, 3]),
         LootEntry.of('spyglass').when((c) => c.randomChance(0.7)),
         LootEntry.of('compass').when((c) => c.randomChance(0.5)),
-        LootEntry.of('spectral_seas:ship_speed_upgrade').when((c) => c.randomChance(0.05)),
-        LootEntry.of('spectral_seas:ship_cargo_upgrade').when((c) => c.randomChance(0.2)),
+        LootEntry.of('smallships_upgrades:ship_speed_upgrade').when((c) => c.randomChance(0.05)),
+        LootEntry.of('smallships_upgrades:ship_cargo_upgrade').when((c) => c.randomChance(0.2)),
         LootEntry.of('supplementaries:rope')
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 2]),
@@ -45,8 +45,12 @@ LootJS.modifiers((event) => {
     event
         .addLootTableModifier('minecraft:chests/illager_mansion/generic')
         .replaceLoot('emerald', LootEntry.of('gold_nugget'), true)
-        .addLoot(LootEntry.of('spectral_seas:ship_speed_upgrade').when((c) => c.randomChance(0.05)))
-        .addLoot(LootEntry.of('spectral_seas:ship_cargo_upgrade').when((c) => c.randomChance(0.1)))
+        .addLoot(
+            LootEntry.of('smallships_upgrades:ship_speed_upgrade').when((c) => c.randomChance(0.05))
+        )
+        .addLoot(
+            LootEntry.of('smallships_upgrades:ship_cargo_upgrade').when((c) => c.randomChance(0.1))
+        )
     event
         .addLootTableModifier('minecraft:chests/illager_mansion/vindicator_chest')
         .replaceLoot('iron_axe', LootEntry.of('iron_axe'))

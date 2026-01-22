@@ -145,7 +145,7 @@ const ShipHelper = function (ship, captain) {
      */
     const setRotation = (isLeft, rotDelta) => {
         const sign = Math.sign(ship.getRotSpeed()) >= 0 ? 1 : -1
-        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 2.5, 0)
+        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 2.6, 0)
         const maxRotSpeed = ship.attributes.maxRotationSpeed * 0.1 + 1.8
         const rotAccel = Math.min(
             ship.attributes.rotationAcceleration / 12,

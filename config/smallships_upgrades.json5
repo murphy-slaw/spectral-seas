@@ -1,0 +1,32 @@
+{
+	"upgradeRecyclePercentage": 75,
+	"speedIncrement": 5,
+	"healthIncrement": 20,
+	"cargoIncrement": 6,
+	"caps": [
+		{
+			"name": "cog",
+			"speed": 8,
+			"health": 2,
+			"cargo": 6
+		},
+		{
+			"name": "brigg",
+			"speed": 10,
+			"health": 4,
+			"cargo": 9
+		},
+		{
+			"name": "drakkar",
+			"speed": 6,
+			"health": 1,
+			"cargo": 3
+		},
+		{
+			"name": "galley",
+			"speed": 5,
+			"health": 1,
+			"cargo": 3
+		}
+	]
+}
