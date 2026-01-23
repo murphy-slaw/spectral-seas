@@ -13275,6 +13275,42 @@
             ]
         },
         {
+            "pakku_id": "S5v3dYLnCModKyfa",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "small-ships-upgrades"
+            },
+            "name": {
+                "curseforge": "Small Ships Upgrades"
+            },
+            "id": {
+                "curseforge": "1441109"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7508/996/smallships_upgrades-fabric-1.20.1-1.0.0.jar",
+                    "id": "7508996",
+                    "parent_id": "1441109",
+                    "hashes": {
+                        "sha1": "471da538c25e0a6b81561819d9e5b0ba1abc39a3",
+                        "md5": "00cce1b76a0f651014832dc458e23350"
+                    },
+                    "required_dependencies": [],
+                    "size": 53542,
+                    "date_published": "2026-01-22T21:37:24.033Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "I3R56KffM8BLOYK5",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
