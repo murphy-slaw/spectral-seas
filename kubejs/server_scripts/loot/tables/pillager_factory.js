@@ -90,7 +90,7 @@ const finishedGoods = (ctx) => {
         LootEntry.of('smallships:sail')
             .limitCount([1, 2])
             .when((c) => c.randomChance(0.5)),
-        LootEntry.of('smallships_upgrades:ship_cargo_upgrade').when((c) => c.randomChance(0.8)),
+        LootEntry.of('smallships_upgrades:cargo_upgrade').when((c) => c.randomChance(0.8)),
     ])
 }
 

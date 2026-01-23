@@ -8,8 +8,8 @@ LootJS.modifiers((event) => {
         )
         .addLoot(Loot.enchantedFrom('simplyswords:diamond_cutlass', EnchantSets.LUCKY))
         .addWeightedLoot([1, 2], true, [
-            LootEntry.of('smallships_upgrades:ship_speed_upgrade'),
-            LootEntry.of('smallships_upgrades:ship_cargo_upgrade'),
+            LootEntry.of('smallships_upgrades:speed_upgrade'),
+            LootEntry.of('smallships_upgrades:cargo_upgrade'),
         ])
 
     event

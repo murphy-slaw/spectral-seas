@@ -46,11 +46,9 @@ LootJS.modifiers((event) => {
         .addLootTableModifier('minecraft:chests/illager_mansion/generic')
         .replaceLoot('emerald', LootEntry.of('gold_nugget'), true)
         .addLoot(
-            LootEntry.of('smallships_upgrades:ship_speed_upgrade').when((c) => c.randomChance(0.05))
+            LootEntry.of('smallships_upgrades:speed_upgrade').when((c) => c.randomChance(0.05))
         )
-        .addLoot(
-            LootEntry.of('smallships_upgrades:ship_cargo_upgrade').when((c) => c.randomChance(0.1))
-        )
+        .addLoot(LootEntry.of('smallships_upgrades:cargo_upgrade').when((c) => c.randomChance(0.1)))
     event
         .addLootTableModifier('minecraft:chests/illager_mansion/vindicator_chest')
         .replaceLoot('iron_axe', LootEntry.of('iron_axe'))
