@@ -27,7 +27,7 @@ schematicVersion = 5
 		#General speed modifiers for ships.
 		[Ship.General.Modifier]
 			#Entities in this list won't be able to mount a ship, for example: ["minecraft:creeper", "minecraft:sheep", ...]
-			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "alexmobs:cachalot_whale", "minecraft:guardian", "pesky_seagulls:seagull", "minecraft:turtle","hybrid-aquatic:otter"]
+			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "alexmobs:cachalot_whale", "minecraft:guardian", "pesky_seagulls:seagull", "minecraft:turtle", "hybrid-aquatic:otter"]
 			#Amount of destruction a cannonball does when hit the ground.
 			#Range: 0.0 ~ 100.0
 			shipGeneralCannonDestruction = 1.0
