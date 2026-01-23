@@ -114,7 +114,7 @@ PlayerEvents.loggedIn((event) => {
         player.persistentData.putIntArray('initial_spawn_pos', [x, y, z])
 
         Utils.server.scheduleInTicks(0, () => {})
-        Utils.server.scheduleInTicks(20, () => {
+        Utils.server.scheduleInTicks(10, () => {
             givePlayerBundle(player, [
                 Item.of('minecraft:apple', 3),
                 Item.of('minecraft:bread', 3),
@@ -126,8 +126,8 @@ PlayerEvents.loggedIn((event) => {
             player.give(
                 Item.of(
                     'patchouli:guide_book',
-                    '{display:{Name:\'{"translate":"eccentrictome.name","with":[{"color":"green","translate":"The Mariner\\\'s Handbook"}]}\'},"eccentrictome:is_tome":1b,"eccentrictome:mods":{simplyswords:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"simplyswords:runic_grimoire"}}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}},"eccentrictome:version":1,"patchouli:book":"patchouli:mariners_handbook"}'
-                )
+                    '{display:{Name:\'{"translate":"eccentrictome.name","with":[{"color":"green","translate":"The Mariner\\\'s Handbook"}]}\'},"eccentrictome:is_tome":1b,"eccentrictome:mods":{},"eccentrictome:version":1,"patchouli:book":"patchouli:mariners_handbook"}'
+                ).withLore(Text.translatable('spectral_seas.item.lore.eccentric_tome'))
             )
 
             let weapon = Item.of('simplyswords:iron_cutlass', 1)
