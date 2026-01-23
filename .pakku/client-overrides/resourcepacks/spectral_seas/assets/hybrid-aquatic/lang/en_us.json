@@ -40,5 +40,7 @@
   "hybrid-aquatic.sea_message.towers": "In ancient days, someone built towers all across these islands. Those brave enough to scale them may find secrets, and rewards.",
   "hybrid-aquatic.sea_message.towers.title": "A Towering Achievment",
   "hybrid-aquatic.sea_message.villagers": "The villagers of these islands are suspicious and value their privacy. Snooping around or taking their property may lead to a chilly reception … or worse.",
-  "hybrid-aquatic.sea_message.villagers.title": "Welcome to our Island, Now Go Home"
+  "hybrid-aquatic.sea_message.villagers.title": "Welcome to our Island, Now Go Home",
+  "hybrid-aquatic.sea_message.shells_bonemeal": "In a pinch, you can roast sea shells for fertilizer.",
+  "hybrid-aquatic.sea_message.shells_bonemeal.title": "Burnt Offering"
 }
