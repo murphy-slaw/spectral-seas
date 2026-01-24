@@ -1,9 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		{
-			"cost": 2,
-			"tag": "minecraft:planks"
-		}
-	]
-}

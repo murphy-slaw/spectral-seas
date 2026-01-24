@@ -118,5 +118,6 @@ emptyHandling = "CLOUDS"
 	# If not 0, the relative position of the player will be shown.
 	[dimensions.scales]
 		"minecraft:overworld" = 1
+		"spectrum:deeper_down" = 1
 		"minecraft:the_nether" = 1
 		"minecraft:the_end" = 0

@@ -39,7 +39,6 @@ config/malilib.json
 config/mcqoy.toml
 config/minihud
 config/minihud.json
-config/modmenu.json
 config/necronomicon.json5
 config/rabbit_behavior_fix.json5
 config/sodium-extra.properties
@@ -56,3 +55,4 @@ config/packetfixer.properties
 config/balm-*
 config/crash_assistant/modlist.json
 config/crash_assistant/crash_assistant_localization_overrides/README.md
+config/mcqoy.toml

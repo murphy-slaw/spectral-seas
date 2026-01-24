@@ -83,7 +83,7 @@ ItemEvents.entityInteracted((event) => {
 FabricAddedEvents.stopSleeping((event) => {
     const { player, level } = event
     // Now we remove the fake bed!
-    if (level.isClientSide()) return
+    if (level.isClientSide() || !player.persistentData.contains('fakeBedPos')) return
     const pos = player.persistentData.getCompound('fakeBedPos')
-    if (pos !== undefined) level.getBlock(BlockPos(pos.x, pos.y, pos.z)).set('minecraft:air')
+    level.getBlock(BlockPos(pos.x, pos.y, pos.z)).set('minecraft:air')
 })

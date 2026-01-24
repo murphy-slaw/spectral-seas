@@ -1,5 +1,5 @@
 {
-  "PreventMiningOfUnrevealedBlocks": false,
+  "PreventMiningOfUnrevealedBlocks": true,
   "UseTargetBlockOrItemNameInsteadOfScatter": false,
   "NameForUnrevealedBlocks": "",
   "NameForUnrevealedItems": ""
