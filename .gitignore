@@ -17,6 +17,7 @@
 .pakku/shelf
 resourcepacks/*.zip
 config/paxi/datapacks/*.zip
+config/paxi/datapacks/Oceania
 shaderpacks/*.zip
 config/chunky/tasks/
 config/fabric
@@ -56,3 +57,5 @@ config/balm-*
 config/crash_assistant/modlist.json
 config/crash_assistant/crash_assistant_localization_overrides/README.md
 config/mcqoy.toml
+config/crash_assistant/problematic_mods_config.json
+kubejs/assets/minecraft/texts/
