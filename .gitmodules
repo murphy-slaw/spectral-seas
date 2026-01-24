@@ -2,5 +2,5 @@
 	path = config/paxi/resourcepacks/antique_atlas_respacks/assets
 	url = https://github.com/murphy-slaw/antique-atlas-respacks.git
 [submodule "config/paxi/datapacks/Oceania"]
-	path = config/paxi/datapacks/Oceania
+	path = .pakku/overrides/config/paxi/datapacks/Oceania
 	url = https://github.com/murphy-slaw/Oceania.git
