@@ -12,7 +12,8 @@
     "philipsruins:level_one_ruins",
     "philipsruins:level_three_ruins",
     "philipsruins:level_two_ruins_pool",
-    "philipsruins:level_two_ruins"
+    "philipsruins:level_two_ruins",
+    "philipsruins:field_stone_ruins"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",
