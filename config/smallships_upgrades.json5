@@ -1,32 +1,32 @@
 {
-    upgradeRecyclePercentage: 75,
-    speedIncrement: 5,
-    healthIncrement: 20,
-    cargoIncrement: 6,
-    caps: [
-        {
-            name: 'cog',
-            speed: 8,
-            health: 5,
-            cargo: 6,
-        },
-        {
-            name: 'brigg',
-            speed: 10,
-            health: 10,
-            cargo: 9,
-        },
-        {
-            name: 'drakkar',
-            speed: 6,
-            health: 5,
-            cargo: 3,
-        },
-        {
-            name: 'galley',
-            speed: 5,
-            health: 5,
-            cargo: 3,
-        },
-    ],
+	"upgradeRecyclePercentage": 75,
+	"speedIncrement": 5,
+	"healthIncrement": 20,
+	"cargoIncrement": 6,
+	"caps": [
+		{
+			"name": "cog",
+			"speed": 8,
+			"health": 5,
+			"cargo": 6
+		},
+		{
+			"name": "brigg",
+			"speed": 10,
+			"health": 10,
+			"cargo": 9
+		},
+		{
+			"name": "drakkar",
+			"speed": 6,
+			"health": 5,
+			"cargo": 3
+		},
+		{
+			"name": "galley",
+			"speed": 5,
+			"health": 5,
+			"cargo": 3
+		}
+	]
 }

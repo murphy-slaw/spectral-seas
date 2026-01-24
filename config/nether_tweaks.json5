@@ -1,5 +1,5 @@
 {
-    fortressOffset: 48,
-    allowOnceLit: true,
-    portalStructures: [],
+	"fortressOffset": 48,
+	"allowOnceLit": true,
+	"portalStructures": []
 }
