@@ -42,5 +42,11 @@
   "hybrid-aquatic.sea_message.villagers": "The villagers of these islands are suspicious and value their privacy. Snooping around or taking their property may lead to a chilly reception … or worse.",
   "hybrid-aquatic.sea_message.villagers.title": "Welcome to our Island, Now Go Home",
   "hybrid-aquatic.sea_message.shells_bonemeal": "In a pinch, you can roast sea shells for fertilizer.",
-  "hybrid-aquatic.sea_message.shells_bonemeal.title": "Burnt Offering"
+  "hybrid-aquatic.sea_message.shells_bonemeal.title": "Burnt Offering",
+  "hybrid-aquatic.sea_message.parrot": "They say petting a parrot is good for your heart, and theirs.",
+  "hybrid-aquatic.sea_message.parrot.title": "Polly Want Affection",
+  "hybrid-aquatic.sea_message.grog": "An Ode To Grog",
+  "hybrid-aquatic.sea_message.grog.title": "They say that grog is like a friend\nWho stands with you until the end\nAn end that comes at a faster jog\nThe more you drink that rotten grog",
+  "hybrid-aquatic.sea_message.mermaid": "See? Necklace!",
+  "hybrid-aquatic.sea_message.grog.mermaid": "I ain't never seen a mermaid, but legends speak of a jeweled bauble that grants a measure of their powers."
 }
