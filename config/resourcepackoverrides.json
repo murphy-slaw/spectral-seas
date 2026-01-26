@@ -9,21 +9,23 @@
       "spectrum:spectrum_generation_1",
       "spectrum:spectrum_programmer_art",
       "continuity:default",
-      "supplementaries:darker_ropes",
-      "file/Dukette's Armor.zip",
-      "file/Fine Armoury v1.3 f8-34.zip",
-      "file/Stefan'sArmors'N'Items1.34.zip"
+      "supplementaries:darker_ropes"
     ],
     "$$1": {
       "hidden": true
+    },
+    "file/antique_atlas_respacks": {
+      "default_position": "TOP",
+      "required": true
+    },
+    "spectrum:spectrum_style_amethyst": {
+      "default_position": "TOP",
+      "required": true
     },
     "file/spectral_seas": {
       "default_position": "TOP",
       "required": true,
       "fixed_position": true
-    },
-    "file/antique_atlas_respacks": {
-      "required": true
     }
   }
 }
