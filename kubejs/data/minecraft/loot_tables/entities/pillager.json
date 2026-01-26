@@ -69,11 +69,17 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "spectral_seas:grog",
+          "name": "minecraft:potion",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
               "chance": 0.25
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"spectral_seas:grog\"}"
             }
           ]
         }
