@@ -8,8 +8,15 @@ This is the first release version of the pack. I hope you enjoy it!
 
 **There is an in-game guidebook.** Use it!
 
+<<<<<<< HEAD
 **The enchanting table has been removed.** Collect enchanted items from structures and ruins and combine them with an anvil. Later in the progression, other options for enchanting open up.
 
+=======
+**Stamina is a a resource.** Watch the bar at the bottom of the screen. When it runs out, you're exhausted. Exhaustion is dangerous.
+
+**The enchanting table has been removed.** Collect enchanted items from structures and ruins and combine them with an anvil. Later in the progression, other options for enchanting open up.
+
+>>>>>>> 531624f (About page, credits, keybinds, etc.)
 **Diamonds are rarer in loot.** Most diamond equipment in loot is "broken" and requires diamonds to repair.
 
 **Named or enchanted items don't vanish at zero durability.** They become broken and unusable until repaired at an anvil.
