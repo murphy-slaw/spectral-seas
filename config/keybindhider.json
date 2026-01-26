@@ -8,8 +8,20 @@
     "jei.key.category.edit.mode",
     "jei.key.category.recipe.gui",
     "jei.key.category.dev.tools",
-    "amecs.key.categories.skin_layers"
+    "amecs.key.categories.skin_layers",
+    "key.fbp.category",
+    "HT's TreeChop"
   ],
-  "hiddenKeybinds": [],
+  "hiddenKeybinds": [
+    "artifacts.key.night_vision_goggles.toggle",
+    "key.entityculling.toggle",
+    "key.modernui.openCenter",
+    "iris.keybind.wireframe",
+    "key.raised.options",
+    "key.amecs.alternative_escape",
+    "key.modmenu.open_menu",
+    "key.interactic.pickup_item",
+    "key.presencefootsteps.settings"
+  ],
   "consoleLogs": false
 }

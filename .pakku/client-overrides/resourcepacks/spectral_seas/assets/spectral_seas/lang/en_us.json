@@ -30,5 +30,19 @@
     "fluid.spectral_seas.suspicious_chowder": "Suspicious Chowder",
     "item.spectral_seas.suspicious_chowder_bucket": "Suspicious Chowder Bucket",
     "fluid.spectral_seas.potato_soup": "Blighted Tater Soup",
-    "item.spectral_seas.potato_soup_bucket": "Blighted Tater Soup Bucket"
+    "item.spectral_seas.potato_soup_bucket": "Blighted Tater Soup Bucket",
+    "spectral_seas.menu.about": "About",
+    "spectral_seas.menu.about.welcome": "Ahoy!",
+    "spectral_seas.menu.about.situation": "The Situation",
+    "spectral_seas.menu.about.keybinds": "Controls",
+    "spectral_seas.menu.about.credits": "Credits",
+    "key.keyboard.b": "B",
+    "key.keyboard.c": "C",
+    "key.keyboard.g": "G",
+    "key.keyboard.h": "H",
+    "key.keyboard.k": "K",
+    "key.keyboard.m": "M",
+    "key.keyboard.r": "R",
+    "key.keyboard.x": "X",
+    "key.keyboard.z": "Z"
 }
