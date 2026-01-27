@@ -268,19 +268,48 @@
             ]
         },
         {
-            "pakku_id": "2TWRHkbXoFlLqX86",
+            "pakku_id": "go8uFkrNBufRntkN",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "ambient-environment",
                 "modrinth": "ambient-environment"
             },
             "name": {
+                "curseforge": "Ambient Environment",
                 "modrinth": "Ambient Environment"
             },
             "id": {
+                "curseforge": "320163",
                 "modrinth": "DyTvM1dv"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4598/389/AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
+                    "id": "4598389",
+                    "parent_id": "320163",
+                    "hashes": {
+                        "sha1": "7f807bd19c842789275531c11e954b72580c31b0",
+                        "md5": "e71c944afad9361137a7502d377b07b0"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 7855,
+                    "date_published": "2023-06-20T08:44:33.547Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
@@ -1155,22 +1184,52 @@
             ]
         },
         {
-            "pakku_id": "UnLygvvB3f8I0ZXI",
+            "pakku_id": "7o68us7GxAShePto",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "balm-fabric",
                 "modrinth": "balm"
             },
             "name": {
+                "curseforge": "Balm (Fabric Edition)",
                 "modrinth": "Balm"
             },
             "id": {
+                "curseforge": "500525",
                 "modrinth": "MBAkmtvl"
             },
             "aliases": [
                 "balm-fabric"
             ],
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-fabric-1.20.1-7.3.38.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7420/614/balm-fabric-1.20.1-7.3.38.jar",
+                    "id": "7420614",
+                    "parent_id": "500525",
+                    "hashes": {
+                        "sha1": "833370d2a28be5673537b177e332918668e829e0",
+                        "md5": "c4541bfc148f27f307afa41dc26cfcbf"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 609150,
+                    "date_published": "2026-01-05T11:42:35.440Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "balm-fabric-1.20.1-7.3.38.jar",
@@ -2033,19 +2092,53 @@
             ]
         },
         {
-            "pakku_id": "ifWHQGzA3diDltCe",
+            "pakku_id": "OjCocuaaK7g5HYXg",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "chalk-fabric",
                 "modrinth": "chalk"
             },
             "name": {
+                "curseforge": "Chalk (Fabric)",
                 "modrinth": "Chalk (Fabric)"
             },
             "id": {
+                "curseforge": "535541",
                 "modrinth": "OrtjXTCH"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chalk-2.2.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.2-Snapshot",
+                        "1.20.1",
+                        "1.20",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4552/34/chalk-2.2.0.jar",
+                    "id": "4552034",
+                    "parent_id": "535541",
+                    "hashes": {
+                        "sha1": "492ea2c22b8833ac0361ac5eb8f750e988f867cb",
+                        "md5": "d412391eecd8cc1430ec0fdd42907573"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 200142,
+                    "date_published": "2023-05-25T13:51:09.307Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "chalk-2.2.4.jar",
@@ -2075,7 +2168,8 @@
         {
             "pakku_id": "kmuZa9KQ7fPWf5R4",
             "pakku_links": [
-                "IRk9OwRct2YraNWb"
+                "IRk9OwRct2YraNWb",
+                "OjCocuaaK7g5HYXg"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2934,7 +3028,8 @@
         {
             "pakku_id": "4g04LhhOXkdbJVv7",
             "pakku_links": [
-                "UnLygvvB3f8I0ZXI"
+                "UnLygvvB3f8I0ZXI",
+                "7o68us7GxAShePto"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -4152,19 +4247,50 @@
             ]
         },
         {
-            "pakku_id": "bCiCdsIXq0haQu9q",
+            "pakku_id": "Y4vopUCs9QpLOoKe",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB",
+                "E0Hhuv5KSx1UNZJ0"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "enchant-faker",
                 "modrinth": "enchant-faker"
             },
             "name": {
+                "curseforge": "Enchant Faker",
                 "modrinth": "Enchant Faker"
             },
             "id": {
+                "curseforge": "1394542",
                 "modrinth": "4qm9cRdy"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "enchant_faker-1.0.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7405/681/enchant_faker-1.0.2+1.20.1.jar",
+                    "id": "7405681",
+                    "parent_id": "1394542",
+                    "hashes": {
+                        "sha1": "5d23de665b6e03bbc99f6364a30785659d0378db",
+                        "md5": "1357fd4793ca003e1d3383d601a832b6"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "348521"
+                    ],
+                    "size": 33357,
+                    "date_published": "2026-01-01T22:03:16.503Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "enchant_faker-1.0.2+1.20.1.jar",
@@ -10438,6 +10564,9 @@
         },
         {
             "pakku_id": "Bj6YQRrpr2ehsX0B",
+            "pakku_links": [
+                "7o68us7GxAShePto"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "netherportalfix"
@@ -16148,6 +16277,9 @@
         },
         {
             "pakku_id": "QRaHnkhZZ6hnEdz7",
+            "pakku_links": [
+                "7o68us7GxAShePto"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "trashslot"
