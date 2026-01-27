@@ -10,7 +10,7 @@ layout-meta {
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = title_screen;spectral_seas_about;
-  [loading_requirement_container_meta:af310baf-0523-402e-b5b1-889ac4dcd8c0-1769452615700] = [groups:][instances:]
+  [loading_requirement_container_meta:77f1c669-7bc4-4bbf-983a-d15209bc8697-1769481121366] = [groups:][instances:]
 }
 
 menu_background {
