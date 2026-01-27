@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = spectral_seas_about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1769469739592
+  last_edited_time = 1769537466790
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:35c8da7d-7db3-4f0f-9b0f-707ec359e047-1769469718071] = [groups:][instances:]
+  [loading_requirement_container_meta:dc03c826-849c-41b8-b7fa-ddc8e548158a-1769537405513] = [groups:][instances:]
 }
 
 menu_background {
@@ -35,6 +35,9 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
+  open_screen_executable_block_identifier = 60c413db-f399-4858-b4c5-087ebdb3a085-1769535984840
+  [executable_action_instance:7b90bf9f-9bf7-4de2-9d60-17f827b14bef-1769535992805][action_type:set_variable] = about_screen_seen:1
+  [executable_block:60c413db-f399-4858-b4c5-087ebdb3a085-1769535984840][type:generic] = [executables:7b90bf9f-9bf7-4de2-9d60-17f827b14bef-1769535992805;]
 }
 
 element {
@@ -126,9 +129,9 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   advanced_width = 254
-  advanced_height = 350
+  advanced_height = 330
   x = -127
-  y = -154
+  y = -176
   width = 50
   height = 50
   stretch_x = false
@@ -143,7 +146,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
+  layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
   vertical_tilt_degrees = 0.0
@@ -192,10 +195,10 @@ element {
   auto_sizing_base_screen_height = 1200
   sticky_anchor = false
   anchor_point = element
-  anchor_point_element = aa5746b8-a8b0-439f-a19f-6f49b4d241c5-1769450320310
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
   advanced_width = 56
-  x = 196
-  y = 41
+  x = 2
+  y = -5
   width = 50
   height = 20
   stretch_x = false
@@ -210,7 +213,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
+  layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
   vertical_tilt_degrees = 0.0
@@ -277,7 +280,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
+  layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
   vertical_tilt_degrees = 0.0
@@ -344,7 +347,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
+  layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
   vertical_tilt_degrees = 0.0
@@ -467,12 +470,15 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1200
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = element
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
+  advanced_posy = 42
   advanced_width = 230
-  x = -119
-  y = -123
+  advanced_height = 290
+  x = 8
+  y = 18
   width = 50
-  height = 300
+  height = 50
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -542,12 +548,15 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1200
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = element
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
+  advanced_posy = 42
   advanced_width = 230
-  x = -119
-  y = -123
+  advanced_height = 290
+  x = 8
+  y = -133
   width = 50
-  height = 300
+  height = 50
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -617,12 +626,15 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1200
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = element
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
+  advanced_posy = 42
   advanced_width = 230
-  x = -119
-  y = -123
+  advanced_height = 290
+  x = 8
+  y = 31
   width = 50
-  height = 300
+  height = 50
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -636,7 +648,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
+  layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
   vertical_tilt_degrees = 0.0
@@ -692,12 +704,15 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1200
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = element
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
+  advanced_posy = 42
   advanced_width = 230
-  x = -119
-  y = -123
+  advanced_height = 290
+  x = 8
+  y = 31
   width = 50
-  height = 300
+  height = 50
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -711,6 +726,119 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = true
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  button_element_executable_block_identifier = 5ab1a1b6-bb85-49a3-bd49-4981d89539bf-1769451387662
+  [executable_action_instance:592cffc4-61ca-45d5-b5b9-f9a024e3325c-1769528927903][action_type:back_to_last_screen] = 
+  [executable_block:5ab1a1b6-bb85-49a3-bd49-4981d89539bf-1769451387662][type:generic] = [executables:592cffc4-61ca-45d5-b5b9-f9a024e3325c-1769528927903;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = {"translate":"gui.done", "font":"uniform", "color":"dark_red" }
+  label = {"translate":"gui.done", "font":"uniform", "color":"#623F25" }
+  navigatable = true
+  widget_active_state_requirement_container_identifier = a004f84f-1e54-41c3-864b-342a0ebec715-1769451387662
+  [loading_requirement_container_meta:a004f84f-1e54-41c3-864b-342a0ebec715-1769451387662] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = fe5f9594-2d52-4282-af07-4a72508d8951-1769528727438
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1200
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 0d28b067-a3cf-4382-8054-a6272b59b597-1769451141152
+  advanced_width = 56
+  x = 194
+  y = 315
+  width = 50
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = df474e92-d605-408f-97ac-78af643898b1-1769451387662
+  [loading_requirement_container_meta:df474e92-d605-408f-97ac-78af643898b1-1769451387662] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = -12.990234
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/486871__writeyournamehere__pirate-ship-ambiance.wav
+  audio_instance_weight_0 = 1.0
+  play_mode = normal
+  looping = true
+  volume = 1.0
+  sound_source = master
+  element_type = audio_v2
+  instance_identifier = 1384c20c-992c-43f6-b973-df3dcb46599f-1769529054482
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1200
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 8f0dbfc1-5066-42de-b347-187425a4e751-1717964745740
+  x = 0
+  y = 21
+  width = 100
+  height = 17
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 094ae655-3e39-4ca8-b425-396824790a3d-1718028939307
+  [loading_requirement_container_meta:094ae655-3e39-4ca8-b425-396824790a3d-1718028939307] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #5CA6EFFF
   layer_hidden_in_editor = true
   rotation_degrees = 0.0
   advanced_rotation_mode = false
