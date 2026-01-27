@@ -1,0 +1,15 @@
+type = listener_instances
+
+listener_instance {
+  listener_instance_identifier = bf0d406f-1ee1-4ade-a8b6-850c9e3a759d-1769480164181
+  listener_provider_identifier = screen_open
+  listener_instance_action_script_identifier = f8eadbc6-e7d3-409c-a57c-7617535eb503-1769480164181
+  [executable_action_instance:872ceeea-1137-4ae3-90b6-b9a0f4e0e545-1769480210951][action_type:set_variable] = about_screen_tab:1
+  [executable_block:4869fc31-6477-4fb7-b97c-ce85bad15ffd-1769480288844][type:if] = [executables:]
+  [if_executable_block_body:4869fc31-6477-4fb7-b97c-ce85bad15ffd-1769480288844] = df777f3e-2561-4b41-8252-3d741717c914-1769480220300
+  [loading_requirement_container_meta:df777f3e-2561-4b41-8252-3d741717c914-1769480220300] = [groups:][instances:52189bb9-5ebc-495f-8e90-1b2925df3c74-1769480223738;]
+  [loading_requirement:is_menu_title][requirement_mode:if][req_id:52189bb9-5ebc-495f-8e90-1b2925df3c74-1769480223738] = spectral_seas.menu.about
+  [if_executable_block_collapsed:4869fc31-6477-4fb7-b97c-ce85bad15ffd-1769480288844] = false
+  [executable_block:f8eadbc6-e7d3-409c-a57c-7617535eb503-1769480164181][type:generic] = [executables:872ceeea-1137-4ae3-90b6-b9a0f4e0e545-1769480210951;4869fc31-6477-4fb7-b97c-ce85bad15ffd-1769480288844;]
+}
+
