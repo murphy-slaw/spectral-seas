@@ -6,7 +6,7 @@ renderDistance:16
 simulationDistance:12
 guiScale:3
 entityDistanceScaling:5.0
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","file/Bibliophilia 1.16.1 (1.20.1).zip","file/CTM-Overhaul-V_5.0.zip","file/EclecticTrove-noconfig-1.20.1-1.3.0.zip","subtle_effects:biome_color_water_particles","file/Fine Armoury v1.7.zip","file/better_gemstone_armor.zip","file/Alternative  Musket Sounds for Ewewukek\u0027s Musket Mod .zip","file/3D-muskets-1.1.zip","file/TNT Barrels.zip","file/round-shield.zip","file/§2BetterSquid§7_v1.1.zip","file/VanillaTweaks_r965091_MC1.20.x.zip","lambdabettergrass:default","spectral-decorations:spectral_decorations","spectrum:spectrum_style_amethyst","file/antique_atlas_respacks"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","file/Bibliophilia 1.16.1 (1.20.1).zip","file/CTM-Overhaul-V_5.0.zip","file/EclecticTrove-noconfig-1.20.1-1.3.0.zip","subtle_effects:biome_color_water_particles","file/Fine Armoury v1.7.zip","file/better_gemstone_armor.zip","file/Alternative  Musket Sounds for Ewewukek\u0027s Musket Mod .zip","file/3D-muskets.zip","file/TNT Barrels.zip","file/round-shield.zip","file/§2BetterSquid§7_v1.1.zip","file/VanillaTweaks_r965091_MC1.20.x.zip","lambdabettergrass:default","spectral-decorations:spectral_decorations","spectrum:spectrum_style_amethyst","file/antique_atlas_respacks"]
 tutorialStep:none
 hideBundleTutorial:true
 skipMultiplayerWarning:true
