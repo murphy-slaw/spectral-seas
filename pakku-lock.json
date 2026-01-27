@@ -13364,6 +13364,47 @@
             ]
         },
         {
+            "pakku_id": "bKUDBAoSvOm2g5ir",
+            "pakku_links": [
+                "I3R56KffM8BLOYK5"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "small-ships-damage-fix"
+            },
+            "name": {
+                "curseforge": "Small Ships Damage Fix"
+            },
+            "id": {
+                "curseforge": "1446346"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smallships_damage_fix-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7535/975/smallships_damage_fix-1.0.0.jar",
+                    "id": "7535975",
+                    "parent_id": "1446346",
+                    "hashes": {
+                        "sha1": "29854641cd24674bf8010baba6c36309a7bcdd47",
+                        "md5": "4289db1e41e360f368ce0cc7379ed256"
+                    },
+                    "required_dependencies": [
+                        "450659"
+                    ],
+                    "size": 12356,
+                    "date_published": "2026-01-27T14:51:40.203Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "S5v3dYLnCModKyfa",
             "type": "MOD",
             "slug": {
