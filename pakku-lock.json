@@ -14032,23 +14032,50 @@
             ]
         },
         {
-            "pakku_id": "MW9Ib1f5z4wBdZZO",
+            "pakku_id": "gfLNj3XL4N9SZkUp",
             "pakku_links": [
-                "69C7dgUpDXcimMUI",
+                "E0Hhuv5KSx1UNZJ0",
                 "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "spellbound-enchantments",
                 "modrinth": "spellbound"
             },
             "name": {
+                "curseforge": "Spellbound Enchantments [Fabric]",
                 "modrinth": "Spellbound Enchantments"
             },
             "id": {
+                "curseforge": "434965",
                 "modrinth": "PvOWwwRg"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spellbound-1.20.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7539/222/spellbound-1.20.3.jar",
+                    "id": "7539222",
+                    "parent_id": "434965",
+                    "hashes": {
+                        "sha1": "e8fa574d508bbc88571fd62598f85bc966be109d",
+                        "md5": "73b6020f9d1f9e7b40c19c70ce1244a8"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 545890,
+                    "date_published": "2026-01-28T03:06:58.473Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "spellbound-1.20.3.jar",
