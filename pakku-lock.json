@@ -13890,48 +13890,6 @@
             ]
         },
         {
-            "pakku_id": "ahv4yAHmvjY9dZUs",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "spawn-balance-utility"
-            },
-            "name": {
-                "curseforge": "Spawn Balance Utility"
-            },
-            "id": {
-                "curseforge": "486753"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "fabric-release-spawnbalanceutility-1.20-12.2.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6599/860/fabric-release-spawnbalanceutility-1.20-12.2.jar",
-                    "id": "6599860",
-                    "parent_id": "486753",
-                    "hashes": {
-                        "sha1": "602c4412f245993fa231e2ba265db6f8b9501a66",
-                        "md5": "76db0184829a2b474dd47e247536c09d"
-                    },
-                    "required_dependencies": [],
-                    "size": 88371,
-                    "date_published": "2025-05-31T00:31:23.063Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "2XkI45P4DFJhxD5k",
             "type": "MOD",
             "side": "BOTH",
