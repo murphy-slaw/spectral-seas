@@ -37,10 +37,10 @@ ServerEvents.recipes((event) => {
     for (const wood of SHIP_WOOD_TYPES) {
         event.remove({ output: `smallships:${wood}_brigg` })
         event.shaped(Item.of(`smallships:${wood}_brigg`), ['sSR', 'CcC'], {
-            s: 'spectral_seas:ship_speed_upgrade',
+            s: 'smallships_upgrades:speed_upgrade',
             S: 'smallships:sail',
             R: 'spectral_seas:rigging',
-            C: 'spectral_seas:ship_cargo_upgrade',
+            C: 'smallships_upgrades:cargo_upgrade',
             c: `smallships:${wood}_cog`,
         })
         for (const type of ['cog', 'drakkar', 'galley']) {
