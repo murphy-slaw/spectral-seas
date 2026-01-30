@@ -396,6 +396,10 @@
 			{
 				"namespace": "wabi_sabi_structures",
 				"path": "worldgen/structure.*/wheat_patch.json"
+			},
+			{
+				"namespace": "inmis",
+				"path": "recipes/baby_backpack.json"
 			}
 		]
 	}
