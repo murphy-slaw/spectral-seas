@@ -1,6 +1,6 @@
 ##[general]
 
-B:force_fullscreen = 'true';
+B:force_fullscreen = 'false';
 I:default_gui_scale = '3';
 B:play_vanilla_menu_music = 'false';
 
