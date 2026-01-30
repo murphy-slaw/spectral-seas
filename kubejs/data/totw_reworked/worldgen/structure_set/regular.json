@@ -32,11 +32,11 @@
     "placement": {
         "type": "mvs:advanced_random_spread",
         "super_exclusion_zone": {
-            "chunk_count": 5,
+            "chunk_count": 3,
             "other_set": "#mvs:common_avoid"
         },
-        "spacing": 40,
-        "separation": 20,
+        "spacing": 26,
+        "separation": 18,
         "salt": 1689777
     }
 }
