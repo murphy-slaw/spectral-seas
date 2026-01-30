@@ -51,7 +51,7 @@ const Loot = (function () {
     function enchantedFrom(id, pool) {
         const enchantment = randomEnchantFor(Item.of(id), pool)
         if (enchantment) return LootEntry.of(id).enchantRandomly(enchantment)
-        console.log(`No valid enchant found for ${id} in ${pool}`)
+        console.debug(`No valid enchant found for ${id} in ${pool}`)
         return LootEntry.of(id)
     }
 

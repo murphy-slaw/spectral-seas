@@ -1,6 +1,6 @@
 /** @param {Internal.LootContextJS} ctx */
 const hunter = (ctx) => {
-    console.log('hunter')
+    console.debug('hunter')
     return [
         Loot.enchantedFrom('bow', EnchantSets.JUNGLE).damage([0.5, 0.75]),
         LootEntry.of('arrow').limitCount([4, 16]),
@@ -33,7 +33,7 @@ const hunter = (ctx) => {
 }
 
 const shaman = (ctx) => {
-    console.log('shaman')
+    console.debug('shaman')
     return [
         Loot.enchantedFrom('tridents_n_stuff:stone_spear', EnchantSets.BRUTAL)
             .damage([0.5, 0.75])
@@ -96,7 +96,7 @@ const shaman = (ctx) => {
 }
 
 const tribalWealth = (ctx) => {
-    console.log('tribal_wealth')
+    console.debug('tribal_wealth')
     return [
         LootEntry.of('gold_ingot')
             .when((c) => c.randomChance(0.5))

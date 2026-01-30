@@ -17,7 +17,7 @@ PlayerEvents.tick((event) => {
                 console.debug(`Vehicle UUID: ${vehicleUuid}\n shipId: ${shipID}`)
 
                 if (!shipID || shipID !== vehicleUuid) {
-                    console.info(`Setting shipID: ${vehicleUuid}`)
+                    console.debug(`Setting shipID: ${vehicleUuid}`)
                     wPlayer.shipID.set(vehicleUuid)
                 }
                 player.addTag('on_ship')
@@ -50,7 +50,7 @@ EntityEvents.death('minecraft:player', (event) => {
     const wPlayer = PlayerHelper(player)
     const ship = wPlayer.getShip()
     if (ship) {
-        console.info(`Ship: ${ship}`)
+        console.debug(`Ship: ${ship}`)
         server
             .getPlayer(player)
             .setRespawnPosition(

@@ -8,7 +8,7 @@ ServerEvents.loaded((event) => {
         JsonIO.read(UNIQUE_CONFIG).uniqueItems.forEach((itemId) => uniques.putInt(itemId, 0))
         event.server.persistentData.put(UNIQUE_KEY, uniques)
     }
-    console.log(event.server.persistentData.getCompound(UNIQUE_KEY))
+    console.debug(event.server.persistentData.getCompound(UNIQUE_KEY))
 })
 
 LootJS.modifiers((event) => {
@@ -26,7 +26,7 @@ LootJS.modifiers((event) => {
                     uniques.put(itemStack.id, ++count)
                     allowed.push(itemStack)
                 } else {
-                    console.log(`Unique item ${itemStack.id} already exists, banned.`)
+                    console.debug(`Unique item ${itemStack.id} already exists, banned.`)
                     banned.push(itemStack)
                 }
             }

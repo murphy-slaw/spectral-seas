@@ -20,7 +20,7 @@ function attachHorses(event) {
             /** @param {Internal.AbstractHorse} mob */ (mob) => mob.leashHolder === event.player
         )
 
-    console.log(horses)
+    console.debug(horses)
     if (horses.length > 0) {
         return horses.pop()
     }

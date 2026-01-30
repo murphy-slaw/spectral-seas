@@ -1,5 +1,5 @@
 let loadCount = 0
-LevelEvents.loaded('minecraft:overworld', event => {
+LevelEvents.loaded('minecraft:overworld', (event) => {
     loadCount++
-    console.log(`Loaded ${loadCount} times: ${event.level.isClientSide()}`)
+    console.debug(`Loaded ${loadCount} times: ${event.level.isClientSide()}`)
 })

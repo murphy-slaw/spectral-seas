@@ -1,6 +1,5 @@
 /** @param {Internal.LootContextJS} ctx */
 const lookoutPost = (ctx) => {
-    console.log('lookout_post')
     return [].concat([
         LootEntry.of('musketmod:pistol')
             .when((c) => c.randomChance(0.5))

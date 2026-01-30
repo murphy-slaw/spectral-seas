@@ -1,6 +1,6 @@
 /** @param {Internal.LootContextJS} ctx */
 const pharaohRegalia = (ctx) => {
-    console.log('pharaoh')
+    console.debug('pharaoh')
     return [
         Loot.randomEnchantedFrom(ArmorSets.CHAINMAIL, EnchantSets.DESERT).damage([0, 1]),
 
@@ -46,7 +46,7 @@ const pharaohRegalia = (ctx) => {
 
 /** @param {Internal.LootContextJS} ctx */
 const tombGuardianRemains = (ctx) => {
-    console.log('guardian')
+    console.debug('guardian')
     return [
         Loot.randomEnchantedFrom(
             ['simplyswords:iron_cutlass', 'tridents_n_stuff:iron_spear'],
@@ -83,7 +83,7 @@ const tombGuardianRemains = (ctx) => {
 
 /** @param {Internal.LootContextJS} ctx */
 const courtLibrarianCache = (ctx) => {
-    console.log('librarian')
+    console.debug('librarian')
     return [
         LootEntry.of('spectrum:gilded_book')
             .when((c) => c.randomChance(0.7))
@@ -123,7 +123,7 @@ const courtLibrarianCache = (ctx) => {
 
 /** @param {Internal.LootContextJS} ctx */
 const caravanDriverKit = (ctx) => {
-    console.log('caravan')
+    console.debug('caravan')
     return [
         LootEntry.of('minecraft:cooked_rabbit')
             .when((c) => c.randomChance(0.7))

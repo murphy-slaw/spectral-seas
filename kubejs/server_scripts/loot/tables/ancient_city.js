@@ -1,6 +1,6 @@
 /** @param {Internal.LootContextJS} ctx */
 const wardenScholar = (ctx) => {
-    console.log('warden_scholar')
+    console.debug('warden_scholar')
     return [
         LootEntry.of('spectrum:gilded_book').when((c) => c.randomChance(0.5)),
         LootEntry.of('echo_shard')
@@ -58,7 +58,7 @@ const wardenScholar = (ctx) => {
     ]
 }
 const sculkResearcher = (ctx) => {
-    console.log('sculk_researcher')
+    console.debug('sculk_researcher')
     return [
         LootEntry.of('artifacts:universal_attractor').when((c) => c.randomChance(0.1)),
         LootEntry.of('sculk_catalyst')
@@ -115,7 +115,7 @@ const sculkResearcher = (ctx) => {
     ]
 }
 const ancientSurvivor = (ctx) => {
-    console.log('ancient_survivor')
+    console.debug('ancient_survivor')
     return [
         Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.DARK)
             .addNbt({ display: { color: Loot.randomOf([8991416, 3949738, 13061821]) } })

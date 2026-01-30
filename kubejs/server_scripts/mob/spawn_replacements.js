@@ -72,7 +72,7 @@ EntityEvents.spawned((event) => {
     }
 
     if (entity.type === 'hybrid-aquatic:karkinos') {
-        console.infof('Summoned Karkinos: %s', entity.uuid)
+        console.debug('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
 
@@ -80,15 +80,6 @@ EntityEvents.spawned((event) => {
         let data = entity.nbt
         data.put('HandDropChances', NBT.listTag([NBT.floatTag(0.085), NBT.floatTag(0.3)]))
         entity.setNbt(data)
-    }
-
-    if (entity.type === 'guardvillagers:guard') {
-        entity.armorSlots.forEach((slot) => {
-            if (!slot.empty) {
-                console.log(slot)
-                slot.addTagElement('style', 'heavy')
-            }
-        })
     }
 
     if (entity.type === 'galosphere:spectre') {

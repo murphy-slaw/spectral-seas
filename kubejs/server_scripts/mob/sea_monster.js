@@ -218,7 +218,7 @@ function calcSeaMonsterChance(player) {
 function shouldSpawnSeaMonster(player) {
     const chance = calcSeaMonsterChance(player)
     const roll = Utils.random.nextFloat(1.0)
-    console.log(`Current sea monster summoning chance: ${chance}: ${roll}`)
+    console.debug(`Current sea monster summoning chance: ${chance}: ${roll}`)
     return (
         roll < chance &&
         !hasNemesis(player) &&
@@ -258,7 +258,7 @@ const summonMonster = (player) => {
 
     if (!player.level.tryAddFreshEntityWithPassengers(monster)) return
 
-    console.log(`${player.displayName.string} gets their very own sea monster!`)
+    console.debug(`${player.displayName.string} gets their very own sea monster!`)
     player.displayClientMessage(Text.translatable('spectral_seas.message.sea_monster_attack'), true)
     const camera = player.getCamera()
     player.level.playSound(
@@ -306,7 +306,7 @@ LevelEvents.loaded('minecraft:overworld', (event) => {
     if (event.level.isClientSide()) return
     if (seaMonsterLoaded > 0) return
     if (SEA_MONSTER_BASE_CHANCE <= 0) return
-    console.log('Scheduling annoying sea monsters…')
+    console.debug('Scheduling annoying sea monsters…')
     event.server.scheduleRepeatingInTicks(MONSTER_CHECK_TICKS, (task) => {
         monsterSummoner(task, event.level)
     })
