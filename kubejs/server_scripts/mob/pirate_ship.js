@@ -10,13 +10,13 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 const DEBUG_SHIP_PATHS = false
 const DEBUG_STATE_MACHINE = false
 const SHIP_FRICTION = 0.007
-const ATTACK_RANGE = 4500 // ~67 blocks
+const ATTACK_RANGE = 3600 // 60 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
-const BASE_PIRATE_CHANCE = 0.075
+const BASE_PIRATE_CHANCE = 0.0375
 const ATTACK_COOLDOWN = 40 // 2 seconds
 const MAX_VOLLEYS = 4
-const BASE_CANNONBALL_COUNT = 16
+const BASE_CANNONBALL_COUNT = 8
 
 const STATE = {
     PATHING: 0,
@@ -196,7 +196,7 @@ const ShipHelper = function (ship, captain) {
         ship.triggerCannons(shootVec, yShootVec, captain, speed, accuracy)
     }
 
-    /**
+    /*0*
      * Move the ship at the given angle (in degrees)
      * @param {number} angle
      */
@@ -315,7 +315,7 @@ Goal Handlers
  * @param {Internal.Pillager} pirate
  */
 const startShip = (pirate) => {
-    if (DEBUG_SHIP_PATHS) console.log('STARTING')
+    if (DEBUG_SHIP_PATHS) console.debug('STARTING')
     /** @type {Internal.Ship} */
     pirate.setAttributeBaseValue('minecraft:generic.follow_range', 128)
     pirate.navigation.setMaxVisitedNodesMultiplier(10)
@@ -367,7 +367,7 @@ const makeShipTick = () => {
         const distanceSqr = ship.distanceToEntitySqr(targetEntity)
 
         if (distanceSqr > 25600) {
-            console.info("We lost 'em!")
+            console.debug("We lost 'em!")
             for (const passenger of ship.getPassengers()) {
                 passenger.discard()
             }
@@ -378,7 +378,7 @@ const makeShipTick = () => {
         const shipHelper = ShipHelper(ship, pirate)
         if (shipHelper.getCannonballCount() <= 0) state = STATE.FLEEING
 
-        if (DEBUG_STATE_MACHINE && prevState !== state) console.log(`${funcID}: state: ${state}`)
+        if (DEBUG_STATE_MACHINE && prevState !== state) console.debug(`${funcID}: state: ${state}`)
         prevState = state
 
         if (attackCooldown > 0) attackCooldown--
@@ -406,7 +406,7 @@ const makeShipTick = () => {
 
                 const nodeDistance = ship.distanceToSqr(Vec3d(node.x, ship.y, node.z))
                 if (DEBUG_SHIP_PATHS) {
-                    console.log(path.nodeCount)
+                    console.debug(path.nodeCount)
                     pirate.level.setBlockAndUpdate(
                         new BlockPos(node.x, pirate.y + 10, node.z),
                         Blocks.BLACK_STAINED_GLASS_PANE.defaultBlockState()
@@ -533,7 +533,7 @@ const calcPirateChance = (player) => {
 const shouldSummonPirates = (player) => {
     const chance = calcPirateChance(player)
     const roll = Utils.random.nextFloat(1.0)
-    console.log(`Current pirate summoning chance: ${chance}: ${roll}`)
+    console.debug(`Current pirate summoning chance: ${chance}: ${roll}`)
     return (
         roll < chance &&
         !hasNemesis(player) &&
@@ -557,11 +557,12 @@ const buildPirateShip = (shipType, level, player) => {
     pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
     pirateShip.setCannonCount(pirateShip.getMaxCannonPerSide() * 2)
     const nbt = pirateShip.nbt
-    nbt.Attributes.maxSpeed = 80 * modifiedDifficulty(player)
-    console.log(`Speed: ${nbt.Attributes.maxSpeed}`)
+    nbt.Attributes.maxSpeed = 30 * modifiedDifficulty(player)
+    nbt.LootTable = 'minecraft:chests/pillager_outpost'
+    console.debug(`Speed: ${nbt.Attributes.maxSpeed}`)
     pirateShip.setNbt(nbt)
     const cannonballCount = BASE_CANNONBALL_COUNT * localDifficultyFor(player)
-    console.log(`Cannonball count: ${cannonballCount}`)
+    console.debug(`Cannonball count: ${cannonballCount}`)
     pirateShip.setItem(0, Item.of('smallships:cannon_ball', cannonballCount))
     return pirateShip
 }
@@ -571,7 +572,7 @@ const buildPirateShip = (shipType, level, player) => {
  * @param {Internal.ServerPlayer} player
  */
 const crewShip = (pirateShip, player) => {
-    const pirateCount = Math.floor(pirateShip.maxPassengers / 2)
+    const pirateCount = Math.floor(pirateShip.maxPassengers / 2) + 1
 
     for (let i = 0; i < pirateCount; i++) {
         let pirate = $EntityType.PILLAGER.spawn(
@@ -583,7 +584,7 @@ const crewShip = (pirateShip, player) => {
         pirate.startRiding(pirateShip)
         pirate.target = player
         pirate.persistentData.putUUID('victim', player.stringUuid)
-        console.log(pirate)
+        console.debug(pirate)
     }
 }
 
@@ -596,6 +597,7 @@ const positionPirateShip = (target, pirateShip) => {
     const position = target.position().subtract(direction.scale(64))
     pirateShip.moveTo(position)
     pirateShip.yRot = target.yRot
+    pirateShip.setSpeed(target.getSpeed())
 }
 
 /**
@@ -616,7 +618,7 @@ const summonPirates = (player, level) => {
     positionPirateShip(veh, pirateShip)
 
     if (level.tryAddFreshEntityWithPassengers(pirateShip)) {
-        console.log(`${player.displayName.string} gets their very own pirate ship!`)
+        console.debug(`${player.displayName.string} gets their very own pirate ship!`)
         crewShip(pirateShip, player)
         setNemesis(player, pirateShip.getUuid())
 
@@ -657,7 +659,7 @@ let pirateShipLoaded = 0
 LevelEvents.loaded('minecraft:overworld', (event) => {
     if (event.level.isClientSide()) return
     if (pirateShipLoaded > 0) return
-    console.log('Scheduling annoying pirates…')
+    console.info('Scheduling annoying pirates…')
     event.server.scheduleRepeatingInTicks(PIRATE_CHECK_TICKS, (task) => {
         pirateSummoner(task, event.level)
     })
