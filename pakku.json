@@ -71,6 +71,12 @@
         },
         "moonlight": {
             "update_strategy": "NONE"
+        },
+        "radiantgear": {
+            "side": "BOTH"
+        },
+        "geckolib": {
+            "side": "BOTH"
         }
     }
 }
