@@ -80,6 +80,9 @@
         },
         "playeranimator": {
             "side": "CLIENT"
+        },
+        "mobplayeranimator": {
+            "side": "BOTH"
         }
     }
 }
