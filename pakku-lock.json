@@ -6086,7 +6086,7 @@
                 "UGuD7MHWQSQg07LB"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geckolib",
                 "modrinth": "geckolib"
@@ -9806,7 +9806,7 @@
         {
             "pakku_id": "UmhaS9F0ilB7232a",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "mob-player-animator",
                 "modrinth": "mob-player-animator"
@@ -11996,7 +11996,7 @@
                 "ZEolot0hEgaEEiDi"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "radiant-gear",
                 "modrinth": "radiant-gear"
@@ -17826,7 +17826,7 @@
         {
             "pakku_id": "PKVM8C90OPSg0C55",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "playeranimator",
                 "modrinth": "playeranimator"
