@@ -22,7 +22,7 @@ jobs:
 
       - name: Get pakku binary
         if: runner.os != 'Windows'
-        run: curl -O https://github.com/juraj-hrivnak/Pakku/releases/download/v1.3.3/pakku.jar
+        run: curl -OL https://github.com/juraj-hrivnak/Pakku/releases/download/v1.3.3/pakku.jar
 
       - name: Build
         run: java -jar ./pakku.jar export
