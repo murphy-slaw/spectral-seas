@@ -3,5 +3,12 @@
   "tabWidth": 4,
   "semi": false,
   "singleQuote": true,
-  "printWidth": 100
+  "printWidth": 100,
+  "list-marker-space": {
+    "ul_multi": 3,
+    "ul_single": 3
+  },
+  "ul-indent": {
+    "indent": 4
+  }
 }

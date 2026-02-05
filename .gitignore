@@ -12,6 +12,7 @@
 !server-icon.png
 !.pakku
 !.pakku/**
+!CHANGELOG.md
 **/.DS_Store
 
 .pakku/shelf
