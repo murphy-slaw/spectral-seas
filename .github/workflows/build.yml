@@ -20,9 +20,9 @@ jobs:
           java-version: ${{ matrix.java }}
           distribution: 'microsoft'
 
-      - name: Make Gradle wrapper executable
+      - name: Get pakku binary
         if: runner.os != 'Windows'
-        run: https://github.com/juraj-hrivnak/Pakku/releases/download/v1.3.3/pakku.jar
+        run: curl -O https://github.com/juraj-hrivnak/Pakku/releases/download/v1.3.3/pakku.jar
 
       - name: Build
         run: java -jar ./pakku.jar export
