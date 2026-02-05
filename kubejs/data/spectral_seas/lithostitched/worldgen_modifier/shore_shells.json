@@ -1,0 +1,6 @@
+{
+    "type": "lithostitched:add_features",
+    "biomes": "minecraft:stony_shore",
+    "features": "spectral_seas:shore_shells",
+    "step": "vegetal_decoration"
+}
