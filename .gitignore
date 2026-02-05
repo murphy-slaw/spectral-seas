@@ -13,6 +13,7 @@
 !.pakku
 !.pakku/**
 !CHANGELOG.md
+!.github
 **/.DS_Store
 
 .pakku/shelf
