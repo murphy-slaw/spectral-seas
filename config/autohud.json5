@@ -1,5 +1,5 @@
 {
-	"dynamicOnLoad": true,
+	"dynamicOnLoad": false,
 	"ticksRevealed": 40,
 	"animationMove": true,
 	"animationFade": true,
