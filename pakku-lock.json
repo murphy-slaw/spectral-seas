@@ -9784,6 +9784,7 @@
                 "curseforge": "488090",
                 "modrinth": "codAaoxh"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -13709,6 +13710,50 @@
                     ],
                     "size": 12356,
                     "date_published": "2026-01-27T14:51:40.203Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "irz27o8QBazVZ6m9",
+            "pakku_links": [
+                "I3R56KffM8BLOYK5",
+                "bEXdIf4bXxKOTBdq"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "small-ships-ecologics-compat"
+            },
+            "name": {
+                "modrinth": "Small Ships Ecologics Compat"
+            },
+            "id": {
+                "modrinth": "PlTZXaqD"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "smallships-ecologics-compat-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PlTZXaqD/versions/JkGzsa72/smallships-ecologics-compat-1.0.1.jar",
+                    "id": "JkGzsa72",
+                    "parent_id": "PlTZXaqD",
+                    "hashes": {
+                        "sha512": "2122ccd2211695d37c1aa04cdf582217a63fcafdc7493c020b94b3394b7d3eee521eec34adcb913c40912ce5eaedd10d32f58e108f9c1470162514f98c796935",
+                        "sha1": "2bd3cf81822cfd6e2625de766b84bba34034d036"
+                    },
+                    "required_dependencies": [
+                        "rGWEHQrP",
+                        "NCKpPR0Z"
+                    ],
+                    "size": 55893,
+                    "date_published": "2026-02-07T20:12:40.710975Z"
                 }
             ]
         },
