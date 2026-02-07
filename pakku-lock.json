@@ -9766,7 +9766,7 @@
             ]
         },
         {
-            "pakku_id": "zI7667VINH96s8am",
+            "pakku_id": "fVaLasXo5IGN96uE",
             "pakku_links": [
                 "UGuD7MHWQSQg07LB"
             ],
@@ -9784,57 +9784,54 @@
                 "curseforge": "488090",
                 "modrinth": "codAaoxh"
             },
-            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "midnightlib-fabric-1.9.2+1.20.1.jar",
+                    "file_name": "midnightlib-fabric-1.4.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7318/658/midnightlib-fabric-1.9.2+1.20.1.jar",
-                    "id": "7318658",
+                    "url": "https://edge.forgecdn.net/files/4576/371/midnightlib-fabric-1.4.1.jar",
+                    "id": "4576371",
                     "parent_id": "488090",
                     "hashes": {
-                        "sha1": "40abb8a47d30f387a3c2110fc23ea0c364034c09",
-                        "md5": "88a709f41e4954cb417825415fdb8d35"
+                        "sha1": "7301b84a6b0a99988ce898148a9bbd632cfe220b",
+                        "md5": "5fb8e62ec2f6bedc91aa5547d0c9c96e"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 58575,
-                    "date_published": "2025-12-11T00:14:17.883Z"
+                    "size": 59752,
+                    "date_published": "2023-06-09T16:55:40.503Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "midnightlib-fabric-1.9.2+1.20.1.jar",
+                    "file_name": "midnightlib-fabric-1.4.1.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jyowrZ5N/midnightlib-fabric-1.9.2+1.20.1.jar",
-                    "id": "jyowrZ5N",
+                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/YXz8kIQl/midnightlib-fabric-1.4.1.1.jar",
+                    "id": "YXz8kIQl",
                     "parent_id": "codAaoxh",
                     "hashes": {
-                        "sha512": "9c22d8478151d9a81d69b2da04274db1e1d9b50056319fd8545bb09340794ae364d8525340878dcd39035d49e54eb66530394bba28d3424f7a0a4ff530f7d1c9",
-                        "sha1": "40abb8a47d30f387a3c2110fc23ea0c364034c09"
+                        "sha512": "2780de49e687343cee6577ec5d029571e214e427f999f5bd651d33b9aae190a19d832feb82ba67aa8779a614579379b982c021bad5e9a87a841e5e0276486078",
+                        "sha1": "23ab09b69c30e296d35fc957c2e9168b10a94001"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 58575,
-                    "date_published": "2025-12-11T00:14:17.432102Z"
+                    "size": 57229,
+                    "date_published": "2023-06-09T17:02:35.174808Z"
                 }
             ]
         },
