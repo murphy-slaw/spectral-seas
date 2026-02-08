@@ -1,5 +1,6 @@
 name: build
-on: [pull_request, push]
+# Run on tag/branch creation
+on: [create]
 
 jobs:
   build:
