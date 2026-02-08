@@ -7353,82 +7353,6 @@
             ]
         },
         {
-            "pakku_id": "SmO72FcJ2Xn9UWng",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "inventory-profiles-next",
-                "modrinth": "inventory-profiles-next"
-            },
-            "name": {
-                "curseforge": "Inventory Profiles Next",
-                "modrinth": "Inventory Profiles Next"
-            },
-            "id": {
-                "curseforge": "495267",
-                "modrinth": "O7RBXm3n"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/KV3ANetv/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-                    "id": "KV3ANetv",
-                    "parent_id": "O7RBXm3n",
-                    "hashes": {
-                        "sha512": "a1af43eca75aebe0be27772742ce0d02b283b3904b9c4a650fd616165e63532ba4f67cab72e9227e8399fc8ee9302fdbf17587c32e0bef73970aa20a8d4d0b21",
-                        "sha1": "4dfdb930663c60eb9fa4329ea5a3b02e99818e68"
-                    },
-                    "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH",
-                        "onSQdWhM"
-                    ],
-                    "size": 1454646,
-                    "date_published": "2025-08-31T14:56:13.951930Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6948/730/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-                    "id": "6948730",
-                    "parent_id": "495267",
-                    "hashes": {
-                        "sha1": "4dfdb930663c60eb9fa4329ea5a3b02e99818e68",
-                        "md5": "9ed6f62ed9b7c6cfe761dd2a64a84c2c"
-                    },
-                    "required_dependencies": [
-                        "308769",
-                        "306612",
-                        "679177"
-                    ],
-                    "size": 1454646,
-                    "date_published": "2025-08-31T14:56:15.507Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "WBcxHvpeUvUZNv1Y",
             "type": "MOD",
             "side": "CLIENT",
@@ -10738,6 +10662,82 @@
                     ],
                     "size": 181700,
                     "date_published": "2025-05-18T09:40:50.773Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Qjs0DdGbo6qUro56",
+            "pakku_links": [
+                "UGuD7MHWQSQg07LB"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mouse-tweaks",
+                "modrinth": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks",
+                "modrinth": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089",
+                "modrinth": "aC3cM3Vq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5230/279/MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "id": "5230279",
+                    "parent_id": "60089",
+                    "hashes": {
+                        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841",
+                        "md5": "3138c776d370c90603938eb54d17469a"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 77943,
+                    "date_published": "2024-04-02T16:57:05.587Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "id": "mjuG4AYd",
+                    "parent_id": "aC3cM3Vq",
+                    "hashes": {
+                        "sha512": "d0faf200dda358efddad2d2809f646023f4dd06254572369e07f3bf33cb6941f0fcdb02db4675b30b4f3bd542cbf6196e135680ba91a2b74c2b071f34978e2d5",
+                        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 77943,
+                    "date_published": "2024-04-02T16:59:36.217330Z"
                 }
             ]
         },
@@ -18254,80 +18254,6 @@
                     "required_dependencies": [],
                     "size": 450841,
                     "date_published": "2024-10-12T12:25:27.860Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ZRR99zmuv5CalMXW",
-            "pakku_links": [
-                "UGuD7MHWQSQg07LB"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "libipn",
-                "modrinth": "libipn"
-            },
-            "name": {
-                "curseforge": "libIPN",
-                "modrinth": "libIPN"
-            },
-            "id": {
-                "curseforge": "679177",
-                "modrinth": "onSQdWhM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "libIPN-fabric-1.20-4.0.2.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Uygzs3iI/libIPN-fabric-1.20-4.0.2.jar",
-                    "id": "Uygzs3iI",
-                    "parent_id": "onSQdWhM",
-                    "hashes": {
-                        "sha512": "34961bc3a172115b6747248305b484f3cb8d26c4b41994bb8b5759359f817df0c3c73725b8bbaeb15c59c8798a13321ed9875282dbe9a1b81606f381b532a8cd",
-                        "sha1": "c8c4d93037efb226b6bd3264e33df4c010cb111b"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
-                    ],
-                    "size": 702814,
-                    "date_published": "2024-03-24T18:17:13.645402Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "libIPN-fabric-1.20-4.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5208/506/libIPN-fabric-1.20-4.0.2.jar",
-                    "id": "5208506",
-                    "parent_id": "679177",
-                    "hashes": {
-                        "sha1": "c8c4d93037efb226b6bd3264e33df4c010cb111b",
-                        "md5": "8e2cc58f5a9149549f544d4a27224646"
-                    },
-                    "required_dependencies": [
-                        "308769",
-                        "306612"
-                    ],
-                    "size": 702814,
-                    "date_published": "2024-03-24T18:17:21.253Z"
                 }
             ]
         },
