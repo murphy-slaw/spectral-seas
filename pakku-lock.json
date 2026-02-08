@@ -13782,7 +13782,7 @@
             ]
         },
         {
-            "pakku_id": "irz27o8QBazVZ6m9",
+            "pakku_id": "reW1xZKi4AN1eawr",
             "pakku_links": [
                 "I3R56KffM8BLOYK5",
                 "bEXdIf4bXxKOTBdq"
@@ -13790,15 +13790,42 @@
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "small-ships-ecologics-compat",
                 "modrinth": "small-ships-ecologics-compat"
             },
             "name": {
+                "curseforge": "Small Ships Ecologics Compat",
                 "modrinth": "Small Ships Ecologics Compat"
             },
             "id": {
+                "curseforge": "1456544",
                 "modrinth": "PlTZXaqD"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smallships-ecologics-compat-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7594/497/smallships-ecologics-compat-1.0.1.jar",
+                    "id": "7594497",
+                    "parent_id": "1456544",
+                    "hashes": {
+                        "sha1": "2bd3cf81822cfd6e2625de766b84bba34034d036",
+                        "md5": "b100072a0e4c18d07bea324037cb2b92"
+                    },
+                    "required_dependencies": [
+                        "450659",
+                        "570463"
+                    ],
+                    "size": 55893,
+                    "date_published": "2026-02-08T14:33:22.217Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "smallships-ecologics-compat-1.0.1.jar",
@@ -13817,8 +13844,8 @@
                         "sha1": "2bd3cf81822cfd6e2625de766b84bba34034d036"
                     },
                     "required_dependencies": [
-                        "rGWEHQrP",
-                        "NCKpPR0Z"
+                        "NCKpPR0Z",
+                        "rGWEHQrP"
                     ],
                     "size": 55893,
                     "date_published": "2026-02-07T20:12:40.710975Z"
