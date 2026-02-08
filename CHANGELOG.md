@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.3] 2026-02-08
+
+More ship variants, a few bugfixes, some QOL changes, and ziplines. For no reason except ZIPLINES!
+
+## Fixed
+
+- Fixed anchor point for about menu. Should fix about menu weirdness on high resolution screens
+- Reduced number of mods shipped as overrides on both Modrinth and CurseForge
+
+## Changed
+
+- Replaced Inventory Profiles Next with Mouse Tweaks to fix inventory scroling
+
+## Added
+
+- Added crafting recipe for saddles
+- Added Easy Shulker Boxes. Replaces Bundle Backport-ish and allows loading and accessing sack contents in the inventory
+- Small Ships can now be crafted from Ecologics wood types: walnut, azalea, flowering azalea, and coconut
+- Added Ziplines:Rezipped. Connect fences with ropes or chains and zip along them by holding RMB and jumping while aiming at a line holding a pickaxe.
+
 ## [1.0.2] 2026-02-05
 
 ### Added
