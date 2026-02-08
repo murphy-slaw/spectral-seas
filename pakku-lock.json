@@ -12554,6 +12554,74 @@
             ]
         },
         {
+            "pakku_id": "gHt7MhLTAzhVlo41",
+            "pakku_links": [
+                "E0Hhuv5KSx1UNZJ0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "reconnectible-chains",
+                "modrinth": "reconnectible-chains"
+            },
+            "name": {
+                "curseforge": "Reconnectible Chains",
+                "modrinth": "Reconnectible Chains"
+            },
+            "id": {
+                "curseforge": "1451848",
+                "modrinth": "5pzBXDS3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "connectiblechains-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7579/807/connectiblechains-fabric-1.20.1-1.0.1.jar",
+                    "id": "7579807",
+                    "parent_id": "1451848",
+                    "hashes": {
+                        "sha1": "682472e28fe4bd9e6ef416878407c8ad6b80e2b7",
+                        "md5": "a0d0f57974c6ebdf33ffb57fa11dd5c8"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 137578,
+                    "date_published": "2026-02-05T14:53:58.197Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "connectiblechains-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/5pUkF6mo/connectiblechains-fabric-1.20.1-1.0.1.jar",
+                    "id": "5pUkF6mo",
+                    "parent_id": "5pzBXDS3",
+                    "hashes": {
+                        "sha512": "2e5fa9c5f33ae361d1c60f91fcc1c92e05758666862c1371dde76abf08842fcfaafefb1cf5e3f2cc3025066060679912f8b5e22fc8d9a7d69f97355469d93274",
+                        "sha1": "682472e28fe4bd9e6ef416878407c8ad6b80e2b7"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 137578,
+                    "date_published": "2026-02-05T14:53:58.357128Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UZveDY8n9c8z1KZz",
             "type": "MOD",
             "side": "CLIENT",
@@ -17913,6 +17981,67 @@
                     ],
                     "size": 825112,
                     "date_published": "2025-06-22T18:20:42.977Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aXhQ1PMgEsIovvik",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ziplines-rezipped",
+                "modrinth": "ziplines-rezipped"
+            },
+            "name": {
+                "curseforge": "Ziplines: Rezipped!",
+                "modrinth": "Ziplines: Rezipped!"
+            },
+            "id": {
+                "curseforge": "1454717",
+                "modrinth": "C1MoWQlb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zipline-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7579/941/zipline-fabric-1.20.1-1.0.0.jar",
+                    "id": "7579941",
+                    "parent_id": "1454717",
+                    "hashes": {
+                        "sha1": "b98297533c54516deba17ccdc07fa573c80903f8",
+                        "md5": "0039e02c70823e015ce85bff9c05ac27"
+                    },
+                    "required_dependencies": [],
+                    "size": 64031,
+                    "date_published": "2026-02-05T15:25:43.243Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "zipline-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/C1MoWQlb/versions/fSQbnNln/zipline-fabric-1.20.1-1.0.0.jar",
+                    "id": "fSQbnNln",
+                    "parent_id": "C1MoWQlb",
+                    "hashes": {
+                        "sha512": "953adeab4605e82ce4e632237a6e4d38740d840d9f3ec42576d8b4afe475dbfdb33a182e764835f46b6fd5dcc1e2002be9a047bf7dc03e06a8359e7f05759b85",
+                        "sha1": "b98297533c54516deba17ccdc07fa573c80903f8"
+                    },
+                    "required_dependencies": [],
+                    "size": 64031,
+                    "date_published": "2026-02-05T15:25:43.805637Z"
                 }
             ]
         },
