@@ -12955,47 +12955,19 @@
             ]
         },
         {
-            "pakku_id": "6HYMKAZFI3c4QaIq",
+            "pakku_id": "vSPhGySC68RyyU9Y",
             "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
-                "curseforge": "revamped-shipwrecks-datapack",
                 "modrinth": "revamped-shipwrecks"
             },
             "name": {
-                "curseforge": "Revamped Shipwrecks (Datapack)",
                 "modrinth": "Revamped Shipwrecks"
             },
             "id": {
-                "curseforge": "1098920",
                 "modrinth": "ZnZ8uqXN"
             },
-            "redistributable": false,
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Revamped Shipwrecks 1.1.0 Datapack.zip",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6025/494/Revamped Shipwrecks 1.1.0 Datapack.zip",
-                    "id": "6025494",
-                    "parent_id": "1098920",
-                    "hashes": {
-                        "sha1": "ec7e07955e466f04fd6249ee615d4c8530593e52",
-                        "md5": "eb409c47eae4af64272df57cf6fe410a"
-                    },
-                    "required_dependencies": [],
-                    "size": 6028678,
-                    "date_published": "2024-12-26T19:56:15.847Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "Revamped Shipwrecks 1.1.0 Datapack.zip",
@@ -15808,44 +15780,19 @@
             ]
         },
         {
-            "pakku_id": "vnJ5dHudNqCfT3p7",
+            "pakku_id": "OMKikJzBXxiWDm0P",
             "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
-                "curseforge": "sunken-spires",
                 "modrinth": "sunken-spires"
             },
             "name": {
-                "curseforge": "Sunken Spires",
                 "modrinth": "Sunken Spires"
             },
             "id": {
-                "curseforge": "1367962",
                 "modrinth": "annHP7q0"
             },
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "sunken_spires_1.20.zip",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7143/517/sunken_spires_1.20.zip",
-                    "id": "7143517",
-                    "parent_id": "1367962",
-                    "hashes": {
-                        "sha1": "5a8f6d99ec5bc556336992fbcecfcf7c32a6b5be",
-                        "md5": "c5adac3c8915aee76c01393890c5c83d"
-                    },
-                    "required_dependencies": [],
-                    "size": 350377,
-                    "date_published": "2025-10-24T08:19:54.310Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "sunken_spires_1.20.zip",
