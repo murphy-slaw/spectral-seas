@@ -17535,46 +17535,19 @@
             ]
         },
         {
-            "pakku_id": "Jpd5GvSwSnjtsViB",
+            "pakku_id": "vjOPm7aM6M09XilU",
             "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
-                "curseforge": "wabi-sabi-structures-datapack",
                 "modrinth": "wabi-sabi-structures"
             },
             "name": {
-                "curseforge": "Wabi-Sabi Structures (Datapack)",
                 "modrinth": "Wabi-Sabi Structures"
             },
             "id": {
-                "curseforge": "682821",
                 "modrinth": "Vr3O6THr"
             },
-            "redistributable": false,
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4",
-                        "1.20-Snapshot"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4688/300/Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
-                    "id": "4688300",
-                    "parent_id": "682821",
-                    "hashes": {
-                        "sha1": "60debec252f91e80a044ed10e3250475e8c0f73e",
-                        "md5": "a1a42182c100e7f61bd004b1b50b2d54"
-                    },
-                    "required_dependencies": [],
-                    "size": 1290299,
-                    "date_published": "2023-08-08T05:41:03.573Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
