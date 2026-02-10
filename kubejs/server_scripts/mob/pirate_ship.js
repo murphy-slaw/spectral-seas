@@ -1,5 +1,6 @@
 const $BlockPathTypes = Java.loadClass('net.minecraft.world.level.pathfinder.BlockPathTypes')
 const $Ship = Java.loadClass('com.talhanation.smallships.world.entity.ship.Ship')
+const $ContainerShip = Java.loadClass('com.talhanation.smallships.world.entity.ship.ContainerShip')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 const $ModEntityTypes = Java.loadClass('com.talhanation.smallships.world.entity.ModEntityTypes')
 const $MobSpawnType = Java.loadClass('net.minecraft.world.entity.MobSpawnType')
@@ -100,7 +101,7 @@ const ShipHelper = function (ship, captain) {
      */
     const getCannonballCount = () => {
         let total = 0
-        if (ship instanceof $Ship) {
+        if (ship instanceof $ContainerShip) {
             for (const itemstack of ship.getItemStacks()) {
                 if (itemstack.is('smallships:cannon_ball')) {
                     total += itemstack.count
@@ -111,7 +112,7 @@ const ShipHelper = function (ship, captain) {
     }
 
     /**
-     * Moves the sail state one shift towards the requested state
+ Moves the sail state one shift towards the requested state
      * @param {number} state
      */
     const setSailState = (state) => {
@@ -360,7 +361,7 @@ const makeShipTick = () => {
         if (!targetUUID) return
         const targetEntity = pirate.level.getEntity(targetUUID)
 
-        /** @type {Internal.Ship} */
+        /** @type {Internal.ContainerShip} */
         const ship = pirate.getVehicle()
         if (!ship) return
 
@@ -370,6 +371,9 @@ const makeShipTick = () => {
             console.debug("We lost 'em!")
             for (const passenger of ship.getPassengers()) {
                 passenger.discard()
+            }
+            if (ship instanceof $ContainerShip) {
+                ship.clearContent()
             }
             ship.discard()
             return
