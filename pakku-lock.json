@@ -3867,24 +3867,30 @@
             ]
         },
         {
-            "pakku_id": "PqkpwTAGsQFPXTMK",
+            "pakku_id": "wny0yJdUSzCjkpjJ",
             "pakku_links": [
-                "A8rH06RMTQ4Ls9Q4"
+                "4EDp2HtHLKihf76t",
+                "A8rH06RMTQ4Ls9Q4",
+                "zXaWgcexJGDOgsjl"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
+                "modrinth": "emi-plus-backport",
                 "curseforge": "emi-backport"
             },
             "name": {
+                "modrinth": "EMI++ Backport",
                 "curseforge": "EMI++ Backport"
             },
             "id": {
+                "modrinth": "N9WucjHL",
                 "curseforge": "1411826"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "emixx-fabric-1.1.4-1.20.1.jar",
+                    "type": "modrinth",
+                    "file_name": "emixx-fabric-1.2.6.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3892,18 +3898,45 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7515/943/emixx-fabric-1.1.4-1.20.1.jar",
-                    "id": "7515943",
-                    "parent_id": "1411826",
+                    "url": "https://cdn.modrinth.com/data/N9WucjHL/versions/mSsDSzL8/emixx-fabric-1.2.6.jar",
+                    "id": "mSsDSzL8",
+                    "parent_id": "N9WucjHL",
                     "hashes": {
-                        "sha1": "34f3e0f8f5347be644ee48782f81f5ba6c86be1c",
-                        "md5": "3140f38e27d3e3f07bd17a53bb124b21"
+                        "sha512": "9f8b0d422ff301eca05a113e14726bb60645ce9ce66d250fe4f06d683f70b08f87d25d1c12b83118da02691e3109daefd33382870fde729b4989543b5f204d04",
+                        "sha1": "620b4985fc48cd2f8fab1d015fd3364c3cb1b764"
                     },
                     "required_dependencies": [
-                        "580555"
+                        "Ha28R6CL",
+                        "fRiHVvU7",
+                        "P7dR8mSH"
                     ],
-                    "size": 191792,
-                    "date_published": "2026-01-24T05:26:43.307Z"
+                    "size": 199029,
+                    "date_published": "2026-02-09T12:25:57.343825Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emixx-fabric-1.2.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7599/141/emixx-fabric-1.2.6.jar",
+                    "id": "7599141",
+                    "parent_id": "1411826",
+                    "hashes": {
+                        "sha1": "620b4985fc48cd2f8fab1d015fd3364c3cb1b764",
+                        "md5": "c578f0a5e392e70167505b1f61ece7e4"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "580555",
+                        "308769"
+                    ],
+                    "size": 199029,
+                    "date_published": "2026-02-09T12:25:57.083Z"
                 }
             ]
         },
@@ -8668,7 +8701,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lootjs-fabric-1.20.1-2.13.0.jar",
+                    "file_name": "lootjs-fabric-1.20.1-2.13.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8676,20 +8709,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fJFETWDN/versions/teWjqlCt/lootjs-fabric-1.20.1-2.13.0.jar",
-                    "id": "teWjqlCt",
+                    "url": "https://cdn.modrinth.com/data/fJFETWDN/versions/gff58ox9/lootjs-fabric-1.20.1-2.13.1.jar",
+                    "id": "gff58ox9",
                     "parent_id": "fJFETWDN",
                     "hashes": {
-                        "sha512": "b70d26f1b3bb3f436255f84d5e064c1ed38f7efd4850b91c08e14d08e520ede579e9675902db4112c664fbad9a5e3b6d59bdf0808d63ff30e790e6cc8a951864",
-                        "sha1": "08d6753c41afbeadb44c3c1d35b78a6248c8cc74"
+                        "sha512": "7671a5a619ca7869eeb83de3b30676f5b1d6433ad29168b0b1f7ebbcb3082e9ea7aac56bab957677f8526fe4611ba0fd423c5f4e6118cef046ce7feec2dd18c6",
+                        "sha1": "d917c89ddeccaec8b5b2e0046524917bbdc324d9"
                     },
                     "required_dependencies": [],
-                    "size": 196741,
-                    "date_published": "2025-05-08T14:06:39.704661Z"
+                    "size": 196773,
+                    "date_published": "2026-01-30T16:31:51.803298Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "lootjs-fabric-1.20.1-2.13.0.jar",
+                    "file_name": "lootjs-fabric-1.20.1-2.13.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8697,16 +8730,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6508/898/lootjs-fabric-1.20.1-2.13.0.jar",
-                    "id": "6508898",
+                    "url": "https://edge.forgecdn.net/files/7551/185/lootjs-fabric-1.20.1-2.13.1.jar",
+                    "id": "7551185",
                     "parent_id": "570630",
                     "hashes": {
-                        "sha1": "08d6753c41afbeadb44c3c1d35b78a6248c8cc74",
-                        "md5": "6e8173292c5ce5e2f39d613c2b2eb346"
+                        "sha1": "d917c89ddeccaec8b5b2e0046524917bbdc324d9",
+                        "md5": "8dc4c01f9810fa0ca782f60faabcd277"
                     },
                     "required_dependencies": [],
-                    "size": 196741,
-                    "date_published": "2025-05-08T14:06:38.363Z"
+                    "size": 196773,
+                    "date_published": "2026-01-30T16:31:50.817Z"
                 }
             ]
         },
@@ -13094,8 +13127,34 @@
             },
             "files": [
                 {
+                    "type": "modrinth",
+                    "file_name": "smallships-ecologics-compat-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PlTZXaqD/versions/jUflgtnd/smallships-ecologics-compat-1.0.2.jar",
+                    "id": "jUflgtnd",
+                    "parent_id": "PlTZXaqD",
+                    "hashes": {
+                        "sha512": "9c7d37853b1cb176f52ad3b1c9cf3b22f689c4c900661855899bdc5ca5e830c1829d5d709a746e67e3a43ac9be1e5ef7a89a6e62d260ffcec37ed3748781c866",
+                        "sha1": "4fa6d7ebe449b756236541b4429378a182f410dd"
+                    },
+                    "required_dependencies": [],
+                    "size": 61987,
+                    "date_published": "2026-02-10T18:48:49.033755Z"
+                },
+                {
                     "type": "curseforge",
-                    "file_name": "smallships-ecologics-compat-1.0.1.jar",
+                    "file_name": "smallships-ecologics-compat-1.0.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13103,43 +13162,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7594/497/smallships-ecologics-compat-1.0.1.jar",
-                    "id": "7594497",
+                    "url": "https://edge.forgecdn.net/files/7605/234/smallships-ecologics-compat-1.0.2.jar",
+                    "id": "7605234",
                     "parent_id": "1456544",
                     "hashes": {
-                        "sha1": "2bd3cf81822cfd6e2625de766b84bba34034d036",
-                        "md5": "b100072a0e4c18d07bea324037cb2b92"
+                        "sha1": "4fa6d7ebe449b756236541b4429378a182f410dd",
+                        "md5": "3683d6d71676ca13fd9e76e3852305db"
                     },
                     "required_dependencies": [
                         "450659",
                         "570463"
                     ],
-                    "size": 55893,
-                    "date_published": "2026-02-08T14:33:22.217Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "smallships-ecologics-compat-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/PlTZXaqD/versions/JkGzsa72/smallships-ecologics-compat-1.0.1.jar",
-                    "id": "JkGzsa72",
-                    "parent_id": "PlTZXaqD",
-                    "hashes": {
-                        "sha512": "2122ccd2211695d37c1aa04cdf582217a63fcafdc7493c020b94b3394b7d3eee521eec34adcb913c40912ce5eaedd10d32f58e108f9c1470162514f98c796935",
-                        "sha1": "2bd3cf81822cfd6e2625de766b84bba34034d036"
-                    },
-                    "required_dependencies": [
-                        "NCKpPR0Z",
-                        "rGWEHQrP"
-                    ],
-                    "size": 55893,
-                    "date_published": "2026-02-07T20:12:40.710975Z"
+                    "size": 61987,
+                    "date_published": "2026-02-10T18:47:38.367Z"
                 }
             ]
         },
