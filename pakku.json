@@ -83,6 +83,12 @@
         },
         "mobplayeranimator": {
             "side": "BOTH"
+        },
+        "probejs": {
+            "export": false
+        },
+        "wits": {
+            "export": false
         }
     }
 }
