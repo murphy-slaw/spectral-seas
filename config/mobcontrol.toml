@@ -88,6 +88,16 @@ name="minecraft:salmon"
 type="block"
 
 [[mob]]
+name="artifacts:mimic"
+[[mob.rule]]
+set.health=40
+
+[[mob]]
+name="frycmobvariants:corsair"
+[[mob.rule]]
+spawn.count=[1,2]
+
+[[mob]]
 name="*"
 [[mob.rule]]
 type="all"
