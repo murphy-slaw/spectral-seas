@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:rocky_beach"
+        "oceania:rocky_beach",
+        "oceania:ocean_trench"
     ]
 }

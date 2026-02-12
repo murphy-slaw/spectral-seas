@@ -126,7 +126,7 @@
         }
       }
     },
-    "final_density": "minecraft:overworld/final_density_caves",
+    "final_density": "oceania:overworld/final_density_caves",
     "vein_toggle": {
       "type": "minecraft:interpolated",
       "argument": {

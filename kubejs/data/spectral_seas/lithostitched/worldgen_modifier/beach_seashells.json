@@ -1,7 +1,7 @@
 {
     "type": "lithostitched:add_features",
     "biomes": [
-        "minecraft:rocky_beach",
+        "oceania:rocky_beach",
         "minecraft:snowy_beach",
         "minecraft:desert"
     ],

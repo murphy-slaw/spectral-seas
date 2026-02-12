@@ -1,8 +1,8 @@
 {
-  "feature": "minecraft:boulder",
+  "feature": "oceania:boulder",
   "placement": [
     {
-      "type":"minecraft:count",
+      "type": "minecraft:count",
       "count": 3
     },
     {

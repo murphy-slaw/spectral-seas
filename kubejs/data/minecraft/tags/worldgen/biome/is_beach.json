@@ -1,8 +1,8 @@
 {
-  "replace":true,
+  "replace": true,
   "values": [
     "minecraft:beach",
-    "minecraft:rocky_beach",
+    "oceania:rocky_beach",
     "minecraft:snowy_beach"
   ]
 }
