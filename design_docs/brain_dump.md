@@ -42,6 +42,7 @@
 √ TODO: Make poisonous potatoes easier to get
 √ TODO: Loot tables for elder guardians: trident icons?
 √ TODO: Fix persistent ship damage
+√ TODO: Partial recovery of ship upgrades on break.
 
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
@@ -66,12 +67,18 @@ TODO_LATER: Enchanter recipes for all enchantments
 TODO_LATER: Add structure spawns for ruined portals
 TODO_LATER: More armor set bonuses.
 TODO_LATER: Exposure advancements for HA fish and other modded mobs.
+TODO_LATER.0: Splash texts
 
-TODO: Partial recovery of ship upgrades on break.
 TODO: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
 
 TODO_1.0: Screenshots
 TODO_1.0: Update pack description/blurb
-TODO_1.0: New Panorama
+TODO_2.0: New Panorama
 TODO_1.0: Release changelog
-TODO_1.0: Splash texts
+
+TODO: Remove strongholds
+TODO: point minecraft:eye_of_ender_located somewhere else
+TODO: remove Perturbed Eyes
+TODO: Crystal bottle to collect dragon breath
+TODO: Check all mods for End-dependent content
+TODO: End stone cave biome with chorus and palt
