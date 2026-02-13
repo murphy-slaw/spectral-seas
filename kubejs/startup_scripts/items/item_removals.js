@@ -151,12 +151,12 @@ const SLAIN_ITEMS = [
     'sticknstone:wooden_cutlass',
     'sticknstone:wooden_rapier',
     'tridents_n_stuff:wooden_spear',
-    'minecraft:wooden_sword',
     'minecraft:stone_sword',
     'minecraft:iron_sword',
     'minecraft:golden_sword',
     'minecraft:diamond_sword',
     'minecraft:netherite_sword',
+    'spectrum:perturbed_eye',
 ]
 
 StartupEvents.modifyCreativeTab('archeologyplus:archeology_plus', (event) => {
