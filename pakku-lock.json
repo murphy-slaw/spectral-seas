@@ -11550,6 +11550,7 @@
                 "curseforge": "585406",
                 "modrinth": "JJNYRb4B"
             },
+            "export": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -16578,6 +16579,7 @@
                 "curseforge": "909375",
                 "modrinth": "AVo2esap"
             },
+            "export": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -17015,77 +17017,6 @@
                     ],
                     "size": 1165832,
                     "date_published": "2023-11-20T02:56:11.927Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "YhZo5Vv3EE2xFiTI",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "yungs-better-strongholds-fabric",
-                "modrinth": "yungs-better-strongholds"
-            },
-            "name": {
-                "curseforge": "YUNG's Better Strongholds (Fabric)",
-                "modrinth": "YUNG's Better Strongholds"
-            },
-            "id": {
-                "curseforge": "480684",
-                "modrinth": "kidLKymU"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-                    "id": "yV6hn0bB",
-                    "parent_id": "kidLKymU",
-                    "hashes": {
-                        "sha512": "e70c8daa91e88d8af97e99201264c9646c82a8cf1966b87ca1e53b591e7f1ed3cee2f8875dbe88f9b58e2a7d151fded34896bb4bd23f33f2bfef4c590fbba850",
-                        "sha1": "f7a5eb03935abe845c6691ae99ae42889fdd5da1"
-                    },
-                    "required_dependencies": [
-                        "Ua7DFN59",
-                        "9s6osm5g",
-                        "P7dR8mSH"
-                    ],
-                    "size": 611598,
-                    "date_published": "2023-09-25T20:59:35.972605Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4769/84/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-                    "id": "4769084",
-                    "parent_id": "480684",
-                    "hashes": {
-                        "sha1": "f7a5eb03935abe845c6691ae99ae42889fdd5da1",
-                        "md5": "b0ca22280c7b931a7d3d9be028d3093c"
-                    },
-                    "required_dependencies": [
-                        "348521",
-                        "421649",
-                        "306612"
-                    ],
-                    "size": 611598,
-                    "date_published": "2023-09-25T20:59:31.213Z"
                 }
             ]
         },
