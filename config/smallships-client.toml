@@ -11,7 +11,7 @@ schematicVersion = 2
 		#General camera settings for ships.
 		[Ship.General.Camera]
 			#Automatically enable third person camera when entering a ship.
-			shipGeneralCameraAutoThirdPerson = true
+			shipGeneralCameraAutoThirdPerson = false
 
 			#Zoom camera settings for third person view in ships.
 			[Ship.General.Camera.Zoom]
