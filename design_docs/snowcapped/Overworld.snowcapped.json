@@ -2071,18 +2071,7 @@
           "biome_m60zj4ja",
           "biome_m60zj4ja",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
           "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "biome_m60zj4ja",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -2092,9 +2081,20 @@
           "biome_m60zj4ja",
           "biome_m60zj4ja",
           "biome_m60zj4ja",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
           "biome_m60zj4ja",
           "biome_m60zj4ja",
-          "minecraft:dripstone_caves",
+          "biome_m60zj4ja",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "unassigned",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves"
@@ -2188,10 +2188,10 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs"
         ],
         [
           "minecraft:deep_dark",
@@ -2199,10 +2199,10 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs"
         ],
         [
           "minecraft:deep_dark",
@@ -2210,10 +2210,10 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs"
         ],
         [
           "minecraft:deep_dark",
@@ -2221,10 +2221,10 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs"
         ],
         [
           "minecraft:deep_dark",
@@ -2232,10 +2232,10 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_m60zj4ja",
-          "biome_m60zj4ja",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs",
+          "biome_mlk3uwvs"
         ]
       ]
     }
@@ -2455,7 +2455,7 @@
     },
     {
       "key": "biome_m60xtpmj",
-      "name": "minecraft:rocky_beach",
+      "name": "oceania:rocky_beach",
       "color": "#c3d117"
     },
     {
@@ -2475,8 +2475,13 @@
     },
     {
       "key": "biome_mim36bel",
-      "name": "minecraft:ocean_trench",
+      "name": "oceania:ocean_trench",
       "color": "#002e7a"
+    },
+    {
+      "key": "biome_mlk3uwvs",
+      "name": "oceania:end_stone_caves",
+      "color": "#888888"
     }
   ],
   "targetVersion": "1_19",
