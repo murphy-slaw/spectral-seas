@@ -20,7 +20,7 @@
   "ravagerScreenShake": true,
   "dragonScreenShake": true,
   "fireflyDensity": 1.0,
-  "chorusPetalDensity": 1.0,
+  "chorusPetalDensity": 0.0,
   "willOWispDensity": 1.0,
   "eyesInTheDark": "NEVER",
   "improvedFireballs": true,
