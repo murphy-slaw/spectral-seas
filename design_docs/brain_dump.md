@@ -43,6 +43,10 @@
 √ TODO: Loot tables for elder guardians: trident icons?
 √ TODO: Fix persistent ship damage
 √ TODO: Partial recovery of ship upgrades on break.
+√ TODO: Remove strongholds
+√ TODO: End stone cave biome with chorus and palt
+√ TODO: remove Perturbed Eyes
+√ TODO: mod to cloak palt ore?
 
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
@@ -76,9 +80,7 @@ TODO_1.0: Update pack description/blurb
 TODO_2.0: New Panorama
 TODO_1.0: Release changelog
 
-TODO: Remove strongholds
 TODO: point minecraft:eye_of_ender_located somewhere else
-TODO: remove Perturbed Eyes
 TODO: Crystal bottle to collect dragon breath
 TODO: Check all mods for End-dependent content
-TODO: End stone cave biome with chorus and palt
+TODO: Add version number to logs and main menu
