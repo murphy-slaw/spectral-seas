@@ -48,6 +48,7 @@
         "minecraft:chorus_flower[age=2]": "minecraft:pearlescent_froglight",
         "minecraft:chorus_flower[age=1]": "minecraft:pearlescent_froglight",
         "minecraft:chorus_flower[age=0]": "minecraft:pearlescent_froglight",
-        "spectrum:paltaeria_ore": "minecraft:deepslate[axis=z]"
+        "spectrum:paltaeria_ore": "minecraft:deepslate[axis=z]",
+        "minecraft:end_rod[facing=down]": "minecraft:hanging_roots[waterlogged=false]"
     }
 }
