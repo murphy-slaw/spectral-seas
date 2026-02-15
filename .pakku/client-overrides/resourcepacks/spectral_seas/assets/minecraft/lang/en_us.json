@@ -28,5 +28,6 @@
   "subtitles.entity.evoker.prepare_attack": "Evoker prepares attack",
   "subtitles.entity.evoker.prepare_summon": "Evoker prepares summoning",
   "subtitles.entity.evoker.prepare_wololo": "Evoker prepares charming",
-  "subtitles.entity.parrot.imitate.evoker": "Parrot murmurs"
+  "subtitles.entity.parrot.imitate.evoker": "Parrot murmurs",
+  "item.minecraft.dragon_breath": "Dragonfly Breath"
 }
