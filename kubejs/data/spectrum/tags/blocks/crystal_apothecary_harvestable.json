@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "galosphere:allurite_cluster",
+        "galosphere:glinted_allurite_cluster",
+        "galosphere:lumiere_cluster",
+        "galosphere:glinted_lumiere_cluster"
+    ]
+}
