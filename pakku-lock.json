@@ -1801,6 +1801,49 @@
             ]
         },
         {
+            "pakku_id": "Dyc4RyoxAXEwIe0j",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "bundle-backportish"
+            },
+            "name": {
+                "modrinth": "Bundle Backport-ish"
+            },
+            "id": {
+                "modrinth": "91hOfmS6"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bundle-backportish-1.0.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/91hOfmS6/versions/bAPQfJaW/bundle-backportish-1.0.1+mc1.20.1.jar",
+                    "id": "bAPQfJaW",
+                    "parent_id": "91hOfmS6",
+                    "hashes": {
+                        "sha512": "34a144d91c805213a89880191249665860a7632daba9e565d227e41d6e2794d7c690f0c338a509ee2119663e3854c6bfae3c7a8f68acafac00ac032450a7baf8",
+                        "sha1": "84d824673bd8313d9e32c78513c1e9b290243673"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 76083,
+                    "date_published": "2025-05-26T00:15:12.189327Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8F0d4cVUer09UPKA",
             "type": "MOD",
             "side": "CLIENT",
@@ -15229,6 +15272,80 @@
                     ],
                     "size": 13473717,
                     "date_published": "2025-10-16T13:05:17.980Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RYW9tndvonAieQLN",
+            "pakku_links": [
+                "w83ySG3RtJRSXyBr",
+                "zXaWgcexJGDOgsjl",
+                "8FgQAErzIpmNwQN7"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "supplementaries-squared",
+                "modrinth": "supplementaries-squared"
+            },
+            "name": {
+                "curseforge": "Supplementaries Squared",
+                "modrinth": "Supplementaries Squared"
+            },
+            "id": {
+                "curseforge": "838411",
+                "modrinth": "dCCkNFwE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "suppsquared-1.20-1.1.29.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7440/332/suppsquared-1.20-1.1.29.jar",
+                    "id": "7440332",
+                    "parent_id": "838411",
+                    "hashes": {
+                        "sha1": "69c3d2c787660af1dcd9273c78e16d781cf4cb31",
+                        "md5": "2315edd117a81d26e7a9f54f734c0d93"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "306612",
+                        "412082"
+                    ],
+                    "size": 761615,
+                    "date_published": "2026-01-10T03:57:53.103Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "suppsquared-1.20-1.1.29.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dCCkNFwE/versions/hGBKgPSc/suppsquared-1.20-1.1.29.jar",
+                    "id": "hGBKgPSc",
+                    "parent_id": "dCCkNFwE",
+                    "hashes": {
+                        "sha512": "8d80656d0cfa090f8c818997e59624a471e9a3c51372ff677204b7fb8f8e57930ddad3bdd320685504ef890b4c45b8b4b9b860e8f44e4b8a15317078bcbce83b",
+                        "sha1": "69c3d2c787660af1dcd9273c78e16d781cf4cb31"
+                    },
+                    "required_dependencies": [
+                        "fFEIiSDQ",
+                        "twkfQtEc",
+                        "P7dR8mSH"
+                    ],
+                    "size": 761615,
+                    "date_published": "2026-01-10T03:58:03.266938Z"
                 }
             ]
         },
