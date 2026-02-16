@@ -258,7 +258,7 @@
       "door": true,
       "trapdoor": true
     },
-    "lapis_bricks": false,
+    "lapis_bricks": true,
     "deepslate_lamp": true,
     "end_stone_lamp": true,
     "blackstone_lamp": true,
@@ -341,11 +341,11 @@
       "unrestricted_enderman_intercept": true,
       "allow_buckets": true,
       "damageable_damage": 0.5,
-      "allow_splash_potions": false,
-      "allow_bombs": false,
-      "allow_fire_charges": false,
-      "allow_snowballs": false,
-      "allow_enderpearls": false
+      "allow_splash_potions": true,
+      "allow_bombs": true,
+      "allow_fire_charges": true,
+      "allow_snowballs": true,
+      "allow_enderpearls": true
     },
     "antique_ink": {
       "enabled": true
