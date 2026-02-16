@@ -13899,6 +13899,47 @@
             ]
         },
         {
+            "pakku_id": "UAj2GGODsioDAXbk",
+            "pakku_links": [
+                "7cMLRAcpexmqapBR"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spectrum-cloak-tweaks"
+            },
+            "name": {
+                "curseforge": "Spectrum Cloak Tweaks"
+            },
+            "id": {
+                "curseforge": "1461825"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spectrum-cloak-tweaks-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7621/584/spectrum-cloak-tweaks-fabric-1.20.1-1.0.0.jar",
+                    "id": "7621584",
+                    "parent_id": "1461825",
+                    "hashes": {
+                        "sha1": "64041cd6b376007832ed374641370a504e7d6db2",
+                        "md5": "6e67c4ce666fdcf61c6f8c6395c53f79"
+                    },
+                    "required_dependencies": [
+                        "556967"
+                    ],
+                    "size": 69080,
+                    "date_published": "2026-02-14T00:32:20.817Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gfLNj3XL4N9SZkUp",
             "pakku_links": [
                 "E0Hhuv5KSx1UNZJ0"
