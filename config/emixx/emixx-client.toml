@@ -4,5 +4,4 @@
 	disabledCreativeModeTabs = ["minecraft:op_blocks"]
 	syncSelectedCreativeModeTab = false
 [stackGroups]
-	disabledStackGroups = ["minecraft:shovels", "minecraft:pickaxes", "minecraft:axes", "minecraft:head_armor", "minecraft:hoes", "minecraft:swords", "minecraft:chest_armor", "minecraft:leg_armor", "minecraft:foot_armor", "minecraft:infested_blocks", "minecraft:animal_armors", "c:foods", "minecraft:rails", "minecraft:skulls", "minecraft:minecarts", "c:ores", "c:seeds", "minecraft:flowers", "minecraft:banners", "c:glazed_terracottas", "minecraft:candles", "c:buckets", "minecraft:copper_blocks", "c:raw_materials"]
 	enableStackGroups = true

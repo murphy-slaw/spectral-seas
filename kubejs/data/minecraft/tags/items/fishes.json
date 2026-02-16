@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "hybrid-aquatic:pleco",
+        "hybrid-aquatic:damselfish",
+        "hybrid-aquatic:snailfish",
+        "hybrid-aquatic:pearlfish"
+    ]
+}

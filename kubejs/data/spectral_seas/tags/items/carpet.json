@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "#spectral_seas:effulgent_carpet",
+        "#minecraft:wool_carpets",
+        "minecraft:moss_carpet",
+        "spectrum:jade_vine_petal_carpet",
+        "spectrum:jadeite_petal_carpet"
+    ]
+}

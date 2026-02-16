@@ -1,0 +1,22 @@
+{
+    "values": [
+        "minecraft:bundle",
+        "bundle-backportish:red_bundle",
+        "bundle-backportish:pink_bundle",
+        "bundle-backportish:magenta_bundle",
+        "bundle-backportish:orange_bundle",
+        "bundle-backportish:yellow_bundle",
+        "bundle-backportish:lime_bundle",
+        "bundle-backportish:green_bundle",
+        "bundle-backportish:cyan_bundle",
+        "bundle-backportish:light_blue_bundle",
+        "bundle-backportish:blue_bundle",
+        "bundle-backportish:purple_bundle",
+        "bundle-backportish:light_gray_bundle",
+        "bundle-backportish:gray_bundle",
+        "bundle-backportish:brown_bundle",
+        "bundle-backportish:black_bundle",
+        "bundle-backportish:white_bundle",
+        "spectrum:bottomless_bundle"
+    ]
+}

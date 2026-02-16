@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "#c:heads",
+        "#spectrum:mob_heads",
+        "minecraft:piglin_head",
+        "rottencreatures:undead_miner_head",
+        "rottencreatures:zap_head",
+        "rottencreatures:immortal_head",
+        "rottencreatures:mummy_head",
+        "rottencreatures:swampy_head",
+        "rottencreatures:frostbitten_head",
+        "rottencreatures:burned_head",
+        "rottencreatures:glacial_hunter_head",
+        "rottencreatures:dead_beard_head"
+    ]
+}

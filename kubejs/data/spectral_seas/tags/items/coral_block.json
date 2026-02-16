@@ -1,0 +1,15 @@
+{
+    "values": [
+        "hybrid-aquatic:button_coral_block",
+        "hybrid-aquatic:leaf_coral_block",
+        "hybrid-aquatic:lophelia_coral_block",
+        "hybrid-aquatic:rose_coral_block",
+        "hybrid-aquatic:sun_coral_block",
+        "hybrid-aquatic:thorn_coral_block",
+        "minecraft:brain_coral_block",
+        "minecraft:bubble_coral_block",
+        "minecraft:fire_coral_block",
+        "minecraft:horn_coral_block",
+        "minecraft:tube_coral_block"
+    ]
+}
