@@ -1,0 +1,3 @@
+[general]
+	show_items_outside_of_world = true
+	hide_models = true

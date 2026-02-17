@@ -3664,6 +3664,51 @@
             ]
         },
         {
+            "pakku_id": "FJMXV8S3wytYeLt2",
+            "pakku_links": [
+                "vyy9iP4ExK3s9K4M"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dei",
+                "modrinth": "dei"
+            },
+            "name": {
+                "curseforge": "Discovered Enough Items (DEI)",
+                "modrinth": "Discovered Enough Items"
+            },
+            "id": {
+                "curseforge": "1164794",
+                "modrinth": "vUaFYNlC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DiscoveredEnoughItems-fabric-1.20.1-2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6017/693/DiscoveredEnoughItems-fabric-1.20.1-2.jar",
+                    "id": "6017693",
+                    "parent_id": "1164794",
+                    "hashes": {
+                        "sha1": "1f2e1a1e64a2683ad34afabf1dbe6708e4c49bc6",
+                        "md5": "6f43583a92237cd8dc3f2c71f79d26eb"
+                    },
+                    "required_dependencies": [
+                        "547434"
+                    ],
+                    "size": 39057,
+                    "date_published": "2024-12-23T21:51:48.443Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "MZSGuUKaqy80bRCu",
             "type": "DATA_PACK",
             "side": "SERVER",
@@ -3933,7 +3978,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "emixx-fabric-1.2.6.jar",
+                    "file_name": "emixx-fabric-1.2.11.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3941,24 +3986,24 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/N9WucjHL/versions/mSsDSzL8/emixx-fabric-1.2.6.jar",
-                    "id": "mSsDSzL8",
+                    "url": "https://cdn.modrinth.com/data/N9WucjHL/versions/rdmxadZX/emixx-fabric-1.2.11.jar",
+                    "id": "rdmxadZX",
                     "parent_id": "N9WucjHL",
                     "hashes": {
-                        "sha512": "9f8b0d422ff301eca05a113e14726bb60645ce9ce66d250fe4f06d683f70b08f87d25d1c12b83118da02691e3109daefd33382870fde729b4989543b5f204d04",
-                        "sha1": "620b4985fc48cd2f8fab1d015fd3364c3cb1b764"
+                        "sha512": "f90e93cf6b64b08baa76d10a60dcc49d25629060362795f329098b9a85c21f3edd85e13c9f716259b2b93211b01146d094937cdff6c910e8718eef7b5ebe6a24",
+                        "sha1": "1c7d791498da74f3b9f92933707faaec859080dc"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "Ha28R6CL",
-                        "fRiHVvU7",
-                        "P7dR8mSH"
+                        "fRiHVvU7"
                     ],
-                    "size": 199029,
-                    "date_published": "2026-02-09T12:25:57.343825Z"
+                    "size": 204504,
+                    "date_published": "2026-02-16T02:19:15.683285Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "emixx-fabric-1.2.6.jar",
+                    "file_name": "emixx-fabric-1.2.11.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3966,20 +4011,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7599/141/emixx-fabric-1.2.6.jar",
-                    "id": "7599141",
+                    "url": "https://edge.forgecdn.net/files/7631/783/emixx-fabric-1.2.11.jar",
+                    "id": "7631783",
                     "parent_id": "1411826",
                     "hashes": {
-                        "sha1": "620b4985fc48cd2f8fab1d015fd3364c3cb1b764",
-                        "md5": "c578f0a5e392e70167505b1f61ece7e4"
+                        "sha1": "1c7d791498da74f3b9f92933707faaec859080dc",
+                        "md5": "ecc29430af6ff85a75c12a727097e9c9"
                     },
                     "required_dependencies": [
-                        "306612",
+                        "308769",
                         "580555",
-                        "308769"
+                        "306612"
                     ],
-                    "size": 199029,
-                    "date_published": "2026-02-09T12:25:57.083Z"
+                    "size": 204504,
+                    "date_published": "2026-02-16T02:19:15.800Z"
                 }
             ]
         },
