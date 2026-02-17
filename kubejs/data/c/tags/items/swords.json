@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "#spectral_seas:rapier",
+        "#spectral_seas:cutlass",
+        "#spectral_seas:longsword",
+        "#spectrum:swords"
+    ]
+}

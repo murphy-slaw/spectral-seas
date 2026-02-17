@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        "minecraft:trident",
         "#tridents_n_stuff:unique_tridents",
         "#tridents_n_stuff:upgraded_tridents"
     ]
