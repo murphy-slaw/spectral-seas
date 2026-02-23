@@ -89,6 +89,9 @@
         },
         "wits": {
             "export": false
+        },
+        "tellme": {
+            "export": false
         }
     }
 }

@@ -3984,6 +3984,47 @@
             ]
         },
         {
+            "pakku_id": "sVd8IAiJo5HqI7Qy",
+            "pakku_links": [
+                "A8rH06RMTQ4Ls9Q4"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "emidiscovery"
+            },
+            "name": {
+                "curseforge": "EMIDiscovery"
+            },
+            "id": {
+                "curseforge": "1469248"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7667/663/emi_discovery-fabric-1.20.1-1.0.1.jar",
+                    "id": "7667663",
+                    "parent_id": "1469248",
+                    "hashes": {
+                        "sha1": "4b94058b2464b252d8fe4f7b12031a4cd224de58",
+                        "md5": "a06164f8d3ffed1b167224cf02d50095"
+                    },
+                    "required_dependencies": [
+                        "580555"
+                    ],
+                    "size": 240696,
+                    "date_published": "2026-02-23T13:30:10.223Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DEgZcLeOBbm3PgXB",
             "pakku_links": [
                 "A8rH06RMTQ4Ls9Q4"
@@ -15646,6 +15687,68 @@
                     "required_dependencies": [],
                     "size": 59733,
                     "date_published": "2024-10-23T14:44:45.293178Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gRDX47F0TSzuo9Uw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tellme",
+                "modrinth": "tellme"
+            },
+            "name": {
+                "curseforge": "TellMe",
+                "modrinth": "TellMe"
+            },
+            "id": {
+                "curseforge": "225781",
+                "modrinth": "ytk7UEym"
+            },
+            "export": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tellme-fabric-1.20.1-0.9.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5395/830/tellme-fabric-1.20.1-0.9.0.jar",
+                    "id": "5395830",
+                    "parent_id": "225781",
+                    "hashes": {
+                        "sha1": "a83244f84e276fb7ae813ff43a78ab5af1f0ce4f",
+                        "md5": "118a2680b1e344afb590628879d06ab2"
+                    },
+                    "required_dependencies": [],
+                    "size": 557189,
+                    "date_published": "2024-06-03T18:01:31.613Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "tellme-fabric-1.20.1-0.9.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ytk7UEym/versions/NiY53paO/tellme-fabric-1.20.1-0.9.1.jar",
+                    "id": "NiY53paO",
+                    "parent_id": "ytk7UEym",
+                    "hashes": {
+                        "sha512": "6cae3cbbd02c6bc9531cb79fbc8fe14431ed74d87daa73382293592a03363973f3a2b04f794a409f7ef7bf3b59a29202951065ce958a0184b68f8a67e07e3e31",
+                        "sha1": "0a770f4d5991c8cc37bd7a131413d8bbca44e994"
+                    },
+                    "required_dependencies": [],
+                    "size": 557242,
+                    "date_published": "2024-07-23T00:45:15.746330Z"
                 }
             ]
         },
