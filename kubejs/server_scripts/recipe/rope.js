@@ -6,6 +6,8 @@ ServerEvents.recipes((event) => {
 
     event.shaped(Item.of('string'), ['s', 's', 's'], { s: 'swampier_swamps:cattail' })
 
+    event.shaped(Item.of('string'), ['dd ', 'dd ', 'dd '], { d: 'hybrid-aquatic:tall_dunegrass' })
+
     event.remove({ output: 'comforts:rope_and_nail' })
     event.shapeless('comforts:rope_and_nail', ['supplementaries:rope', 'minecraft:iron_ingot'])
 
