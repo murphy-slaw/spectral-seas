@@ -3664,51 +3664,6 @@
             ]
         },
         {
-            "pakku_id": "FJMXV8S3wytYeLt2",
-            "pakku_links": [
-                "vyy9iP4ExK3s9K4M"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "dei",
-                "modrinth": "dei"
-            },
-            "name": {
-                "curseforge": "Discovered Enough Items (DEI)",
-                "modrinth": "Discovered Enough Items"
-            },
-            "id": {
-                "curseforge": "1164794",
-                "modrinth": "vUaFYNlC"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "DiscoveredEnoughItems-fabric-1.20.1-2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6017/693/DiscoveredEnoughItems-fabric-1.20.1-2.jar",
-                    "id": "6017693",
-                    "parent_id": "1164794",
-                    "hashes": {
-                        "sha1": "1f2e1a1e64a2683ad34afabf1dbe6708e4c49bc6",
-                        "md5": "6f43583a92237cd8dc3f2c71f79d26eb"
-                    },
-                    "required_dependencies": [
-                        "547434"
-                    ],
-                    "size": 39057,
-                    "date_published": "2024-12-23T21:51:48.443Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "MZSGuUKaqy80bRCu",
             "type": "DATA_PACK",
             "side": "SERVER",
@@ -4099,8 +4054,7 @@
         {
             "pakku_id": "sLdCrjEWtKZR1YvM",
             "pakku_links": [
-                "BtnLJzsl1wqM0j3S",
-                "vyy9iP4ExK3s9K4M"
+                "BtnLJzsl1wqM0j3S"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -5787,71 +5741,6 @@
                     ],
                     "size": 822869,
                     "date_published": "2024-12-06T13:10:32.213Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "vyy9iP4ExK3s9K4M",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "forge-config-api-port-fabric",
-                "modrinth": "forge-config-api-port"
-            },
-            "name": {
-                "curseforge": "Forge Config API Port",
-                "modrinth": "Forge Config API Port"
-            },
-            "id": {
-                "curseforge": "547434",
-                "modrinth": "ohNO6lps"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/HvR3IdRE/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-                    "id": "HvR3IdRE",
-                    "parent_id": "ohNO6lps",
-                    "hashes": {
-                        "sha512": "15144d6d7b74dfbe2eede6e3b0aa0c841670be1bd6121608bc28f3b1e46846ccd36b506060a081c988da96cf46fce8bf2e55601e3934b9a52d22dc2fa6cbfd32",
-                        "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 396628,
-                    "date_published": "2025-11-25T10:09:42.997713Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7260/491/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-                    "id": "7260491",
-                    "parent_id": "547434",
-                    "hashes": {
-                        "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
-                        "md5": "17d4d761778f33c006551cf9ecc78798"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 396628,
-                    "date_published": "2025-11-25T10:09:37.400Z"
                 }
             ]
         },
@@ -15043,6 +14932,84 @@
                     ],
                     "size": 61052,
                     "date_published": "2025-10-22T22:52:24.237Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FxYZIvAJQrDYR1Fn",
+            "pakku_links": [
+                "C7dh9QBYRnv6mkeL",
+                "0zaEzuHr1fDxrmCD",
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "structurify",
+                "modrinth": "structurify"
+            },
+            "name": {
+                "curseforge": "Structurify",
+                "modrinth": "Structurify"
+            },
+            "id": {
+                "curseforge": "1087551",
+                "modrinth": "yz7AM2zx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "structurify-fabric-2.0.17+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7544/760/structurify-fabric-2.0.17+mc1.20.1.jar",
+                    "id": "7544760",
+                    "parent_id": "1087551",
+                    "hashes": {
+                        "sha1": "7a9c7de03a79f62ab77f2d9182ba6b77764fdb22",
+                        "md5": "0fccee06f311692a392c4a87134dbb4e"
+                    },
+                    "required_dependencies": [
+                        "308702",
+                        "667299",
+                        "306612"
+                    ],
+                    "size": 376570,
+                    "date_published": "2026-01-29T08:07:19.250Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "structurify-fabric-2.0.17+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yz7AM2zx/versions/RebFCi35/structurify-fabric-2.0.17+mc1.20.1.jar",
+                    "id": "RebFCi35",
+                    "parent_id": "yz7AM2zx",
+                    "hashes": {
+                        "sha512": "7559994ef3dd0c578fb1a400efef2b2efbb22916c84a4d681cd703de5aeac41a83dba3cfb88b7823268666a565af83284a75c52fd21c4940eeca950f601f5dad",
+                        "sha1": "7a9c7de03a79f62ab77f2d9182ba6b77764fdb22"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR",
+                        "P7dR8mSH",
+                        "mOgUt4GM"
+                    ],
+                    "size": 376570,
+                    "date_published": "2026-01-29T08:07:20.403369Z"
                 }
             ]
         },
