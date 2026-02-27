@@ -12,7 +12,7 @@
       "name": "global",
       "is_disabled": false,
       "override_global_distance_from_world_center": false,
-      "min_distance_from_world_center": 256,
+      "min_distance_from_world_center": 128,
       "max_distance_from_world_center": 0
     }
   ],
