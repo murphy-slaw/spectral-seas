@@ -1,0 +1,27 @@
+{
+    "type": "spectrum:pedestal",
+    "time": 400,
+    "tier": "simple",
+    "cyan": 1,
+    "magenta": 1,
+    "experience": 1.0,
+    "pattern": [
+        "ccc",
+        "cCc",
+        "ccc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:chiseled_stone_bricks"
+        },
+        "C": {
+            "item": "spectrum:citrine_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:lodestone",
+        "count": 1
+    },
+    "required_advancement": "spectrum:craft_cmy_pedestal",
+    "disable_yield_upgrades": true
+}

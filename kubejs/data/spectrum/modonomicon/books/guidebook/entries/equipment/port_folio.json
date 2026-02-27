@@ -1,0 +1,28 @@
+{
+  "name": "item.spectrum.port_folio",
+  "icon": "pocket-repose:suitcase",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "spectrum:craft_cmy_pedestal"
+  },
+  "category": "spectrum:equipment",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 5,
+  "y": -2,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.spectrum.guidebook.port_folio.page0.text",
+      "title": "item.spectrum.port_folio"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "container.spectrum.rei.pedestal_recipe",
+      "recipe_id": "spectrum:pedestal/tier2/port_folio",
+      "text": "book.spectrum.guidebook.port_folio.page1.text"
+    }
+  ]
+}
