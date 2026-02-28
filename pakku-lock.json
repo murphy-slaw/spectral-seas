@@ -3984,24 +3984,28 @@
             ]
         },
         {
-            "pakku_id": "sVd8IAiJo5HqI7Qy",
+            "pakku_id": "rz89yzQKV0LDrh8a",
             "pakku_links": [
                 "A8rH06RMTQ4Ls9Q4"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
+                "modrinth": "emi-discovery",
                 "curseforge": "emidiscovery"
             },
             "name": {
+                "modrinth": "EMIDiscovery",
                 "curseforge": "EMIDiscovery"
             },
             "id": {
+                "modrinth": "WO3G3DRj",
                 "curseforge": "1469248"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "emi_discovery-fabric-1.20.1-1.1.0.jar",
+                    "type": "modrinth",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4009,18 +4013,41 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7688/361/emi_discovery-fabric-1.20.1-1.1.0.jar",
-                    "id": "7688361",
+                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/iVzpJIV7/emi_discovery-fabric-1.20.1-1.1.2.jar",
+                    "id": "iVzpJIV7",
+                    "parent_id": "WO3G3DRj",
+                    "hashes": {
+                        "sha512": "fe54ca0a6c292b241889da4a74204dd0a7f79b29f34c72e20bf8095e8b0b01597f47fc1ee7cdf81c92708f871774881dba2f9d852930eab8d7a74148fe4bdaa1",
+                        "sha1": "909457bb1ab19209750a09f63d42a18ea5afc92c"
+                    },
+                    "required_dependencies": [
+                        "fRiHVvU7"
+                    ],
+                    "size": 247851,
+                    "date_published": "2026-02-28T22:30:56.169799Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7692/973/emi_discovery-fabric-1.20.1-1.1.2.jar",
+                    "id": "7692973",
                     "parent_id": "1469248",
                     "hashes": {
-                        "sha1": "dc19a44f7c522d882911d4979be5029df94c9bbf",
-                        "md5": "5390cb7b2ff83d877d61d1db7e6d95cc"
+                        "sha1": "909457bb1ab19209750a09f63d42a18ea5afc92c",
+                        "md5": "7f0a6981cbe675e30d1aca23492a1872"
                     },
                     "required_dependencies": [
                         "580555"
                     ],
-                    "size": 246662,
-                    "date_published": "2026-02-27T23:53:54.363Z"
+                    "size": 247851,
+                    "date_published": "2026-02-28T22:22:44.467Z"
                 }
             ]
         },
@@ -5584,6 +5611,82 @@
                     ],
                     "size": 4472279,
                     "date_published": "2025-11-24T08:22:25.760Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8MOX6gerIfBq7znb",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "zfastnoise",
+                "modrinth": "zfastnoise"
+            },
+            "name": {
+                "curseforge": "Fast Noise",
+                "modrinth": "Fast Noise"
+            },
+            "id": {
+                "curseforge": "1460602",
+                "modrinth": "OnlVIpq5"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zfastnoise-1.0.11+1.20.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7661/767/zfastnoise-1.0.11+1.20.jar",
+                    "id": "7661767",
+                    "parent_id": "1460602",
+                    "hashes": {
+                        "sha1": "0c70551779487d7ae4e535b640f4da9c711e7612",
+                        "md5": "964934b5d29dc550e03a3a5f7d7d46d1"
+                    },
+                    "required_dependencies": [],
+                    "size": 34590,
+                    "date_published": "2026-02-22T05:45:59.663Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "zfastnoise-1.0.11+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/dKwaus8G/zfastnoise-1.0.11+1.20.jar",
+                    "id": "dKwaus8G",
+                    "parent_id": "OnlVIpq5",
+                    "hashes": {
+                        "sha512": "c4e229524e309b67bdf6916c6770a2e63a20986b973874e6dd26ecb7e7f1ee4016e2283fd277cf49b597244510b6cea249c882cf6d518105ebfa566e9733b32b",
+                        "sha1": "0c70551779487d7ae4e535b640f4da9c711e7612"
+                    },
+                    "required_dependencies": [],
+                    "size": 34590,
+                    "date_published": "2026-02-22T05:09:14.873010Z"
                 }
             ]
         },
