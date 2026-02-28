@@ -33,7 +33,7 @@ StartupEvents.registry('item', (event) => {
     event
         .create('spectral_seas:tropical_stew')
         .food((food) => {
-            food.hunger(10).saturation(0.6).alwaysEdible(true).fastToEat(false).meat(false)
+            food.hunger(10).saturation(0.6).alwaysEdible(false).fastToEat(false).meat(false)
         })
         .texture('ecologics:item/tropical_stew')
         .maxStackSize(8)
