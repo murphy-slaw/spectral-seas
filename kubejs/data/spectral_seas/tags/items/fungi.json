@@ -1,15 +1,16 @@
 {
     "values": [
-        "minecraft:brown_mushroom",
-        "minecraft:red_mushroom",
         "galosphere:bowl_lichen",
-        "galosphere:lichen_shelf",
         "galosphere:lichen_roots",
+        "galosphere:lichen_shelf",
+        "minecraft:brown_mushroom",
         "minecraft:crimson_fungus",
+        "minecraft:red_mushroom",
         "minecraft:warped_fungus",
-        "spectrum:slate_noxshroom",
+        "ribbits:toadstool",
+        "spectrum:chestnut_noxshroom",
         "spectrum:ebony_noxshroom",
         "spectrum:ivory_noxshroom",
-        "spectrum:chestnut_noxshroom"
+        "spectrum:slate_noxshroom"
     ]
 }
