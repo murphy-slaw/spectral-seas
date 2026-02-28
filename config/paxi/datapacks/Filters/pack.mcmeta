@@ -400,7 +400,31 @@
 			{
 				"namespace": "inmis",
 				"path": "recipes/baby_backpack.json"
-			}
+			},
+			{
+				"namespace": "inmis",
+				"path": "recipes/baby_backpack.json"
+			},
+			{
+				"namespace": "inmis",
+				"path": "advancements/baby_backpack.json"
+			},
+			{
+				"namespace": "inmis",
+				"path": "advancements/recipes/baby_backpack.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "modonomicon/books/guidebook/entries/equipment/perturbed_eye.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "modonomicon/multiblocks/perturbed_eye_portal.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "advancements/lategame/use_perturbed_eye.json"
+			},
 		]
 	}
 }
