@@ -17,6 +17,7 @@
 **/.DS_Store
 
 .pakku/shelf
+config/emixx/stack_groups/
 config/balm-*
 config/better_log4j_config.xml
 config/carpet
