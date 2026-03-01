@@ -4,8 +4,10 @@
   "renderModeChoice": "NORMAL",
   "vanillaModelHologramRenderMode_2": "OFF",
   "modelExportMode": "NONE",
+  "attemptPhysicsModPatch_2": "CUSTOM",
   "modelUpdateFrequency": "Average",
   "entityRenderModeOverrides": {},
+  "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
   "modelsNamesDisabled": [
     "betteranimationscollection:animated_squid",
@@ -28,5 +30,6 @@
   "enforceOptiFineAnimSyntaxLimits": true,
   "allowOptifineFallbackProperties": true,
   "enforceOptiFineFloorUVs": true,
-  "showReloadErrorToast": true
+  "showReloadErrorToast": true,
+  "exportRotations": false
 }

@@ -17678,7 +17678,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entity_model_features_1.20.1-fabric-3.0.7.jar",
+                    "file_name": "entity_model_features_1.20.1-fabric-3.0.12.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -17688,22 +17688,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/98XZmlck/entity_model_features_1.20.1-fabric-3.0.7.jar",
-                    "id": "98XZmlck",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/NdOVYyQg/entity_model_features_1.20.1-fabric-3.0.12.jar",
+                    "id": "NdOVYyQg",
                     "parent_id": "4I1XuqiY",
                     "hashes": {
-                        "sha512": "1c22af6267208c971d7f885eb6aaa1b451e681719e8b922f0f055b3a7260e2200fcd001168aef2bdb99f9798b613ee7d38ff9ea3b545ace3e5052e2ac314fd38",
-                        "sha1": "ea4f2ce87863773f7f9d8390a3bdc4e54d811d4c"
+                        "sha512": "cf8f7388c63194a700faccfed307e83d7e577d349852e1987cf2b0fcf56a3860aee98b20cd55a8f0c886adcbe0014bfb516d2a11059bdd597881238b574e3fd5",
+                        "sha1": "9001e7e0c4a74d5f7c102e45b1fb92f5189984b1"
                     },
                     "required_dependencies": [
                         "BVzZfTc1"
                     ],
-                    "size": 475520,
-                    "date_published": "2025-11-25T09:03:45.421443Z"
+                    "size": 496324,
+                    "date_published": "2026-02-19T03:51:41.602239Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entity_model_features_1.20.1-fabric-3.0.7.jar",
+                    "file_name": "entity_model_features_1.20.1-fabric-3.0.12.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -17713,18 +17713,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7260/325/entity_model_features_1.20.1-fabric-3.0.7.jar",
-                    "id": "7260325",
+                    "url": "https://edge.forgecdn.net/files/7647/254/entity_model_features_1.20.1-fabric-3.0.12.jar",
+                    "id": "7647254",
                     "parent_id": "844662",
                     "hashes": {
-                        "sha1": "ea4f2ce87863773f7f9d8390a3bdc4e54d811d4c",
-                        "md5": "0d673084d186f7bbbd69a51edb23b8b9"
+                        "sha1": "9001e7e0c4a74d5f7c102e45b1fb92f5189984b1",
+                        "md5": "9fd2d132215bbe3fb631e6329bc5cdb0"
                     },
                     "required_dependencies": [
                         "568563"
                     ],
-                    "size": 475520,
-                    "date_published": "2025-11-25T09:03:43.670Z"
+                    "size": 496324,
+                    "date_published": "2026-02-19T03:51:40.037Z"
                 }
             ]
         },
@@ -17747,7 +17747,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entity_texture_features_1.20.1-fabric-7.0.6.jar",
+                    "file_name": "entity_texture_features_1.20.1-fabric-7.0.9.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -17757,20 +17757,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/6Ldn1yiR/entity_texture_features_1.20.1-fabric-7.0.6.jar",
-                    "id": "6Ldn1yiR",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/rb5Jqzmh/entity_texture_features_1.20.1-fabric-7.0.9.jar",
+                    "id": "rb5Jqzmh",
                     "parent_id": "BVzZfTc1",
                     "hashes": {
-                        "sha512": "4aeea32e0a152fd2388058cc25dd4f0ac602d767c4c9c11a1e1c4841f89b0124208ce93467c5ac69e2599b7aab774557ec2cc5cd84d8079306633ec89677b510",
-                        "sha1": "77a140634e48849fb3982a39a9ae5c9e721b59fd"
+                        "sha512": "2d563ce3cbb093c720663d595e9ed4827a27ce2c371a778cb4b349f23792606926be439c2adfde3828469e0f09f8945b5ae46cd50f3f77370f2e5d1f735906e7",
+                        "sha1": "6c36f10621d1ff9ac9f615ab4bdbb74bf9c3a409"
                     },
                     "required_dependencies": [],
-                    "size": 761884,
-                    "date_published": "2025-11-22T15:06:48.552106Z"
+                    "size": 736086,
+                    "date_published": "2026-02-14T12:54:51.730944Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entity_texture_features_1.20.1-fabric-7.0.6.jar",
+                    "file_name": "entity_texture_features_1.20.1-fabric-7.0.9.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -17780,16 +17780,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7249/543/entity_texture_features_1.20.1-fabric-7.0.6.jar",
-                    "id": "7249543",
+                    "url": "https://edge.forgecdn.net/files/7623/546/entity_texture_features_1.20.1-fabric-7.0.9.jar",
+                    "id": "7623546",
                     "parent_id": "568563",
                     "hashes": {
-                        "sha1": "77a140634e48849fb3982a39a9ae5c9e721b59fd",
-                        "md5": "441bdee910113a44436a0334d01398de"
+                        "sha1": "6c36f10621d1ff9ac9f615ab4bdbb74bf9c3a409",
+                        "md5": "91ef902a6cea6f3e1049264eead70ba1"
                     },
                     "required_dependencies": [],
-                    "size": 761884,
-                    "date_published": "2025-11-22T15:06:46.733Z"
+                    "size": 736086,
+                    "date_published": "2026-02-14T12:54:50.040Z"
                 }
             ]
         },
