@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "has_chorus_fruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chorus_fruit"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
