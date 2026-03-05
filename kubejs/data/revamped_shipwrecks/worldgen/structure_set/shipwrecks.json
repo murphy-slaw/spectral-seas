@@ -12,7 +12,7 @@
     "placement": {
         "type": "random_spread",
         "spacing": 24,
-        "separation": 4,
+        "separation": 6,
         "salt": 165745295
     }
 }
