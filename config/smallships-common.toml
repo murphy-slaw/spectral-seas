@@ -75,7 +75,7 @@ schematicVersion = 5
 		[Ship.Cog.Modifier]
 			#Specify biome type for the Cog. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
-			shipModifierCogBiome = "COLD"
+			shipModifierCogBiome = "NONE"
 	[Ship.Drakkar]
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]
@@ -99,7 +99,7 @@ schematicVersion = 5
 		[Ship.Drakkar.Modifier]
 			#Specify biome type for the Drakkar. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
-			shipModifierDrakkarBiome = "COLD"
+			shipModifierDrakkarBiome = "NONE"
 	[Ship.Brigg]
 		#Default configs for the container of the Brigg.
 		[Ship.Brigg.Container]
@@ -123,7 +123,7 @@ schematicVersion = 5
 		[Ship.Brigg.Modifier]
 			#Specify biome type for the Brigg. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
-			shipModifierBriggBiome = "COLD"
+			shipModifierBriggBiome = "NONE"
 	[Ship.Galley]
 		#Default configs for the container of the Galley.
 		[Ship.Galley.Container]
@@ -147,4 +147,4 @@ schematicVersion = 5
 		[Ship.Galley.Modifier]
 			#Specify biome type for the Galley. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
-			shipModifierGalleyBiome = "WARM"
+			shipModifierGalleyBiome = "NONE"
