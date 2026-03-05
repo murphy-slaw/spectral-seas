@@ -161,6 +161,7 @@ const SLAIN_ITEMS = [
     'simplyswords:whisperwind',
     'simplyswords:wickpiercer',
     'spectrum:perturbed_eye',
+    'spectrum:multitool',
     'spectrum:shulker_black_head',
     'spectrum:shulker_blue_head',
     'spectrum:shulker_brown_head',
