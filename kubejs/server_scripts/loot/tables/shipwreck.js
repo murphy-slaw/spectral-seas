@@ -1,9 +1,6 @@
 LootJS.modifiers((event) => {
     event.addLootTableModifier('chests/shipwreck_supply').addLoot(
-        LootEntry.of('supplementaries:sack')
-            .when((c) => c.randomChance(0.7))
-            .limitCount([1, 2]),
-        LootEntry.of('supplementaries:coal')
+        LootEntry.of('minecraft:coal')
             .when((c) => c.randomChance(0.7))
             .limitCount([3, 8]),
         LootEntry.of('supplementaries:rope')
