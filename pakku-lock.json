@@ -4385,6 +4385,75 @@
             ]
         },
         {
+            "pakku_id": "T7N4ih3jZgvsnG9U",
+            "pakku_links": [
+                "6npG6yOuSsRYweq9"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "effectification",
+                "modrinth": "effectification"
+            },
+            "name": {
+                "curseforge": "Effectification [Effect Unification]",
+                "modrinth": "Effectification [Effect Unification]"
+            },
+            "id": {
+                "curseforge": "1465387",
+                "modrinth": "efENFWZV"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "effectification-fabric-2.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7683/173/effectification-fabric-2.0.3.jar",
+                    "id": "7683173",
+                    "parent_id": "1465387",
+                    "hashes": {
+                        "sha1": "5f374f932422ee32dc5573c6d9e22ae4f8691ad7",
+                        "md5": "1b2302020562e8733e5573bcff1cf287"
+                    },
+                    "required_dependencies": [
+                        "1005914"
+                    ],
+                    "size": 129425,
+                    "date_published": "2026-02-26T20:52:46.030Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "effectification-fabric-2.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/efENFWZV/versions/ZRwa7WW9/effectification-fabric-2.0.3.jar",
+                    "id": "ZRwa7WW9",
+                    "parent_id": "efENFWZV",
+                    "hashes": {
+                        "sha512": "047e6a568d79188998e9943d607b8ef4fee9f9b24747956a7b7a4522e559fb75f09b5849b96ec7daaa4875a005f365f80b46f8c1f124b5f17d5d6674cae36b20",
+                        "sha1": "5f374f932422ee32dc5573c6d9e22ae4f8691ad7"
+                    },
+                    "required_dependencies": [
+                        "hYykXjDp"
+                    ],
+                    "size": 129425,
+                    "date_published": "2026-02-26T20:54:11.393826Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8dASEduJxz9eWuaD",
             "type": "MOD",
             "side": "CLIENT",
