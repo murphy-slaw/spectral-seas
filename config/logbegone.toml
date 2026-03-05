@@ -3,11 +3,24 @@
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
 phrases = [
-    "Cowardly refusing to access an unloaded tag ingredient:",
+    "Cowardly refusing to access an unloaded tag ingredient",
     "in the specified shader program",
     "vertex shader",
-    "Ignored non-lowercase namespace:"
+    "Ignored non-lowercase namespace",
+    "If this is a development environment you can ignore this message",
+    "[main/WARN]: Error loading class",
+    "Unknown sound in sound rate config",
+    "Found non-pack entry",
+    "Failed to resolve uniform inPaleGarden",
+    "Missing sound for event",
+    "ogg does not exist, cannot add it to event",
+    "encountered when linking program containing VS supplementaries",
+    "LootJS: LootTable.Builder.build() called without setting loot table id",
+    "Invalid mod icon for icon source",
+    "has a broken icon, loading default icon",
+    "Invalid path minecraft"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = []
+regex = [
+]
