@@ -51,6 +51,14 @@
 √ TODO: Screenshots
 √ TODO: Update pack description/blurb
 √ TODO_1.0: Release changelog
+√ TODO: point minecraft:eye_of_ender_located somewhere else
+√ TODO: Increase separation for shipwrecks.
+√ TODO: Make ration sacks more varied
+√ TODO: Remove empty sacks from the ship loot table.
+√ TODO: Potion Workshop recipes for all effects
+√ TODO: Check all mods for End-dependent content
+√ TODO: Add version number to logs and main menu
+√ TODO: Enchanter recipes for all enchantments
 
 INVALID TODO: cloak botania mushrooms in the same way as flowers
 INVALID TODO: disable amethyst golems from spawning inside geodes by default or getting started in spectrum is a bad time
@@ -58,6 +66,7 @@ INVALID TODO: figure out waystone costs for towers
 INVALID TODO: reskin Simply Swords spears as harpoons and figure out some way to make them throwable
 INVALID TODO: Make turtle scute drop timer global, not per-turtle.
 INVALID TODO: Make pirate ships ignore floating sargassum?
+INVALID TODO: Crystal bottle to collect dragon breath
 
 TODO_LATER: add a shitpost advancement for drowning
 TODO_LATER: add a shitpost advancement for getting killed by guard villagers, "Zero of the Village"
@@ -76,10 +85,3 @@ TODO_LATER: More armor set bonuses.
 TODO_LATER: Exposure advancements for HA fish and other modded mobs.
 TODO_LATER.0: Splash texts
 TODO_LATER: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
-
-TODO: point minecraft:eye_of_ender_located somewhere else
-TODO: Crystal bottle to collect dragon breath
-TODO: Check all mods for End-dependent content
-TODO: Add version number to logs and main menu
-TODO: Enchanter recipes for all enchantments
-TODO: Potion Workshop recipes for all effects
