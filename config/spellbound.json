@@ -115,7 +115,7 @@
     "DURATION_PER_LEVEL": 20
   },
   "dullness": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
@@ -353,7 +353,7 @@
     "POWER_RANGE": 50
   },
   "phaseStrafe": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
