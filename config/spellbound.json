@@ -193,7 +193,7 @@
     "HEALTH_FACTOR_PER_LEVEL": 0.1
   },
   "hover": {
-    "ENABLED": true,
+    "ENABLED": false,
     "IS_TREASURE": false,
     "IS_FOR_SALE": true,
     "RARITY": 3,
