@@ -1,0 +1,36 @@
+{
+  "type": "spectrum:enchantment_upgrade",
+  "group": "vanilla",
+  "enchantment": "spellbound:outburst",
+  "levels": [
+    {
+      "experience": 100,
+      "item": "spectrum:pink_pigment",
+      "item_count": 8
+    },
+    {
+      "experience": 200,
+      "item": "spectrum:pink_pigment",
+      "item_count": 16
+    },
+    {
+      "experience": 400,
+      "item": "spectrum:pink_pigment",
+      "item_count": 32
+    },
+    {
+      "experience": 800,
+      "item": "spectrum:pink_pigment",
+      "item_count": 64
+    }
+  ],
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_protection",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "spellbound:outburst"
+      ]
+    }
+  ]
+}

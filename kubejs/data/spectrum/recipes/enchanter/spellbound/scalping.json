@@ -8,28 +8,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:blaze_powder"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:four_leaf_clover"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:blaze_powder"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:four_leaf_clover"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:scalping",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_luck",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:scalping"
       ]
     }
   ]

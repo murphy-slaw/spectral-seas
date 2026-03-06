@@ -8,28 +8,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:chorus_fruit"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:neolith"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:chorus_fruit"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:neolith"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:phase_leap",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_protection",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:phase_leap"
       ]
     }
   ]

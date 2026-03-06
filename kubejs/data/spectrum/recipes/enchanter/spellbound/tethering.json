@@ -1,6 +1,5 @@
 {
   "type": "spectrum:enchanter",
-  "group": "vanilla",
   "time": 300,
   "required_experience": 100,
   "ingredients": [
@@ -8,28 +7,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:cobweb"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "minecraft:lead"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:cobweb"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "minecraft:lead"
     }
   ],
   "result": {
@@ -37,18 +36,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:tethering",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/disarming",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:tethering"
       ]
     }
   ]

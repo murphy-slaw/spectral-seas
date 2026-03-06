@@ -8,25 +8,25 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:tnt"
     },
     {
       "item": "spectrum:storm_stone"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:red_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:tnt"
     },
     {
       "item": "spectrum:storm_stone"
@@ -37,7 +37,7 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:priming",
           "lvl": "1s"
         }
       ]
@@ -48,7 +48,7 @@
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:priming"
       ]
     }
   ]

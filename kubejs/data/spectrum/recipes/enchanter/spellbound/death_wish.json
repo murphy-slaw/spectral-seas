@@ -14,22 +14,22 @@
       "item": "spectrum:black_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:blaze_powder"
     },
     {
-      "item": "spectrum:storm_stone"
-    },
-    {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:bedrock_dust"
     },
     {
       "item": "spectrum:black_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "spectrum:black_pigment"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "spectrum:bedrock_dust"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:death_wish",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_protection",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:death_wish"
       ]
     }
   ]

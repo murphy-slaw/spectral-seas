@@ -8,28 +8,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:gray_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:gray_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:skeleton_skull"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "supplementaries:ash"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:gray_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:gray_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:skeleton_skull"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "supplementaries:ash"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:last_gasp",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_protection",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:last_gasp"
       ]
     }
   ]

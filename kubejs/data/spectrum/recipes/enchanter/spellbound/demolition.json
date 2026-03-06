@@ -8,28 +8,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:tnt"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:quitoxic_powder"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:tnt"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:quitoxic_powder"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "spellbound:demolition",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_quitoxic",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "spellbound:demolition"
       ]
     }
   ]

@@ -8,28 +8,28 @@
       "item": "minecraft:book"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:diamond"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "minecraft:blaze_powder"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "spectrum:black_pigment"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "item": "minecraft:raw_beef"
+      "item": "minecraft:diamond"
     },
     {
-      "item": "spectrum:storm_stone"
+      "item": "spectrum:blaze_powder"
     }
   ],
   "result": {
@@ -37,18 +37,18 @@
     "nbt": {
       "StoredEnchantments": [
         {
-          "id": "extra-damage-enchantments:butcher",
+          "id": "staminafortweakers:untiring",
           "lvl": "1s"
         }
       ]
     }
   },
-  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_treasure",
   "fabric:load_conditions": [
     {
       "condition": "spectrum:enchantments_exist",
       "values": [
-        "extra-damage-enchantments:butcher"
+        "staminafortweakers:untiring"
       ]
     }
   ]

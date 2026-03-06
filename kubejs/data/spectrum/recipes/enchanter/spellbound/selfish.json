@@ -1,0 +1,55 @@
+{
+  "type": "spectrum:enchanter",
+  "group": "vanilla",
+  "time": 600,
+  "required_experience": 300,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:stratine_fragments"
+    },
+    {
+      "item": "minecraft:lodestone"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:stratine_fragments"
+    },
+    {
+      "item": "minecraft:lodestone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "nbt": {
+      "StoredEnchantments": [
+        {
+          "id": "spellbound:selfish",
+          "lvl": "1s"
+        }
+      ]
+    }
+  },
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_unbreaking",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "spellbound:selfish"
+      ]
+    }
+  ]
+}

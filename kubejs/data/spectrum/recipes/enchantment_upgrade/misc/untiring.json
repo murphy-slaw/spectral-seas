@@ -1,0 +1,26 @@
+{
+  "type": "spectrum:enchantment_upgrade",
+  "group": "vanilla",
+  "enchantment": "staminafortweakers:untiring",
+  "levels": [
+    {
+      "experience": 400,
+      "item": "spectrum:yellow_pigment",
+      "item_count": 32
+    },
+    {
+      "experience": 800,
+      "item": "spectrum:yellow_pigment",
+      "item_count": 64
+    }
+  ],
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_treasure",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "staminafortweakers:untiring"
+      ]
+    }
+  ]
+}

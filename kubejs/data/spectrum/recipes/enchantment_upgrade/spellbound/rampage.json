@@ -1,0 +1,36 @@
+{
+  "type": "spectrum:enchantment_upgrade",
+  "group": "vanilla",
+  "enchantment": "spellbound:rampage",
+  "levels": [
+    {
+      "experience": 200,
+      "item": "spectrum:red_pigment",
+      "item_count": 8
+    },
+    {
+      "experience": 500,
+      "item": "spectrum:red_pigment",
+      "item_count": 32
+    },
+    {
+      "experience": 2400,
+      "item": "spectrum:red_pigment",
+      "item_count": 128
+    },
+    {
+      "experience": 4800,
+      "item": "spectrum:red_pigment",
+      "item_count": 512
+    }
+  ],
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_damage",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "spellbound:rampage"
+      ]
+    }
+  ]
+}

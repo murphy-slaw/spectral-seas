@@ -1,0 +1,36 @@
+{
+  "type": "spectrum:enchantment_upgrade",
+  "group": "vanilla",
+  "enchantment": "spellbound:despoiling",
+  "levels": [
+    {
+      "experience": 200,
+      "item": "spectrum:light_blue_pigment",
+      "item_count": 8
+    },
+    {
+      "experience": 500,
+      "item": "spectrum:light_blue_pigment",
+      "item_count": 32
+    },
+    {
+      "experience": 2400,
+      "item": "spectrum:light_blue_pigment",
+      "item_count": 128
+    },
+    {
+      "experience": 4800,
+      "item": "spectrum:light_blue_pigment",
+      "item_count": 512
+    }
+  ],
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_luck",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "spellbound:despoiling"
+      ]
+    }
+  ]
+}

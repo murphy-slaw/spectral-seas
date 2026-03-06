@@ -1,0 +1,55 @@
+{
+  "type": "spectrum:enchanter",
+  "group": "vanilla",
+  "time": 100,
+  "required_experience": 300,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "spectrum:blue_pigment"
+    },
+    {
+      "item": "spectrum:blue_pigment"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "spectrum:quitoxic_powder"
+    },
+    {
+      "item": "spectrum:blue_pigment"
+    },
+    {
+      "item": "spectrum:blue_pigment"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "spectrum:quitoxic_powder"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "nbt": {
+      "StoredEnchantments": [
+        {
+          "id": "spellbound:chilled",
+          "lvl": "1s"
+        }
+      ]
+    }
+  },
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_quitoxic",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "spellbound:chilled"
+      ]
+    }
+  ]
+}
