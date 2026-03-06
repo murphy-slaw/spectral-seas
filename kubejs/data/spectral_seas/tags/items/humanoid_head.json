@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:player_head",
+        "minecraft:piglin_head",
+        "spectrum:evoker_head",
+        "spectrum:vindicator_head",
+        "spectrum:pillager_head",
+        "spectrum:villager_head",
+        "spectrum:wandering_trader_head",
+        "spectrum:witch_head"
+    ]
+}
