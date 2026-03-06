@@ -1,0 +1,55 @@
+{
+  "type": "spectrum:enchanter",
+  "group": "modded",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "spectrum:yellow_pigment"
+    },
+    {
+      "item": "spectrum:yellow_pigment"
+    },
+    {
+      "item": "supplementaries:feather_block"
+    },
+    {
+      "item": "spectrum:paltaeria_fragments"
+    },
+    {
+      "item": "spectrum:yellow_pigment"
+    },
+    {
+      "item": "spectrum:yellow_pigment"
+    },
+    {
+      "item": "supplementaries:feather_block"
+    },
+    {
+      "item": "spectrum:paltaeria_fragments"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "nbt": {
+      "StoredEnchantments": [
+        {
+          "id": "airhop:air_hop",
+          "lvl": "1s"
+        }
+      ]
+    }
+  },
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_treasure",
+  "fabric:load_conditions": [
+    {
+      "condition": "spectrum:enchantments_exist",
+      "values": [
+        "minecraft:depth_strider"
+      ]
+    }
+  ]
+}
