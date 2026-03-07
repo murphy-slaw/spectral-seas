@@ -50,7 +50,10 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 
 ### Added
 
--   Added pedestal recipe for the Port-Folio, a little piece of luggage that allows the player to access a Workspace, a personal pocket dimension
+-   Added the Port-Folio, a little piece of luggage that allows the player to access a personal pocket dimension
+    -   Crafted with a tier 2 pedestal
+    -   To use, place on the ground, bind with a Paintbrush, and click to open
+    -   When open and crouched upon, transports the player to their personal Workspace
 -   Added Potion Workshop recipes for most non-vanilla potions
 -   Added Enchanter recipes and upgrade recipes for most non-vanilla enchantments
 -   Added EMIDiscovery to prevent the EMI index from revealing too many secrets
