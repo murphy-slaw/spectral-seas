@@ -13,9 +13,58 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 
 ### Fixed
 
+-   Pirate ships no longer drop their hold loot when despawning due to distance
+-   Improved automatic third-person transitions when swimming or entering a boat
+-   Disabled the shield decoration recipe since adding banners doesn't work with round shields
+-   Tropical stew is no longer edible when full
+-   Fixed coal not appearing in shipwreck supply chests
+-   Added missing translations for caving advancements
+-   Added missing Antique Atlas tile configuration for custom biomes
+-   Removed Enchanter recipes for removed vanilla enchantments
+
 ### Changed
 
+-   Removed the End dimension
+    -   Removed strongholds and all End Portal related content
+    -   Eyes of ender lead to a different structure
+    -   Required End content has been moved to a new secret cave biome, the Ender Caves
+    -   Renamed Dragon's Breath to Dragonfly Breath. Can be obtained in small amounts by feeding dragonflies unusual snacks
+-   Increased minimum distance between shipwrecks
+-   Cleaned up the EMI index a bit and grouped more items
+-   Tweaked Ecologics walnut trees to fit in better with Geophilic oak trees
+-   Reduced spawn counts for Corsairs on beaches
+-   Made Gliders recipes cheaper
+-   The slingshot can now fire splash potions, fire charges, bombs, snowballs, and ender pearls
+-   Disabled biome temperature speed modifiers for Small Ships
+-   Made sus sand patches for beachcombing slightly larger
+-   Unified Bleeding effects from Hybrid Aquatic and Tridents n' Stuff
+-   Removed a few enchantments
+    -   Dullness: too dull
+    -   Phase Strafe: too hard to use, not different enough from Phase Leap
+    -   Hover: too similar to Air Hop and Cotton Cloud boots
+-   Increased variation in ration sack contents
+-   Removed the Spectrum multitool (sorry)
+-   Suppressed a bunch of useless log messages
+-   Switched item removals to use Reliable Remover instead of custom KubeJS scripts
+-   Restored Inventory Profiles Next and replaced MacOS Input Fixes with NoEmu to work around item scrolling bug
+
 ### Added
+
+-   Added pedestal recipe for the Port-Folio, a little piece of luggage that allows the player to access a Workspace, a personal pocket dimension
+-   Added Potion Workshop recipes for most non-vanilla potions
+-   Added Enchanter recipes and upgrade recipes for most non-vanilla enchantments
+-   Added EMIDiscovery to prevent the EMI index from revealing too many secrets
+    -   The index only displays items which the player has held, and items that can be crafted from known items
+    -   The set of known items is pre-populated with most vanilla items
+    -   Usage lookup is disabled for craftable but unknown items
+-   Added some fun surprises to towers
+-   Seagulls now drop feathers
+-   Tall dunegrass can be woven into string
+-   Sacks and bundles are now dyeable
+-   The Crystal Apothecary can now collect Galosphere crystal shards
+-   Added Stucturify mod to prevent structure overlap and limit structure generation near spawn
+-   Added FastNoise mod to help with worldgen speed
+-   Added pack version number to home screen and logs
 
 ## [1.0.3] 2026-02-08
 

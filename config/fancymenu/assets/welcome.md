@@ -2,8 +2,6 @@
 
 Spectral Seas is a survival and exploration-focused modpack inspired by pirate movies, Age of Sail swashbuckling and my fevered imagination. Sail the world and unlock the mysteries of Spectrum to discover the secret beneath the bedrock.
 
-This is the first release version of the pack. I hope you enjoy it!
-
 ## %!!uniform%Things To Be Aware of%!!%
 
 **There is an in-game guidebook.** Use it!

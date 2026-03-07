@@ -29,4 +29,4 @@ The [Hybrid Labs](https://modrinth.com/organization/hybridlabs) crew for making 
 
 [DaFuqs](https://modrinth.com/user/DaFuqs) and [Azzyypaaras](https://modrinth.com/user/Azzyypaaras) for creating [Spectrum](https://modrinth.com/mod/spectrum). RIP Azzy, taken from us too soon.
 
-Everyone in the Minecraft modding community. At least everyone who was nice to me with I had no idea what I was doing.
+Everyone in the Minecraft modding community. At least everyone who was nice to me when I had no idea what I was doing.
