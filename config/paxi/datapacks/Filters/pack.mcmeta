@@ -423,6 +423,22 @@
 			},
 			{
 				"namespace": "spectrum",
+				"path": "recipes/enchant.*/vanishing_curse.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "recipes/enchant.*/sharpness.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "recipes/enchant.*/protection.json"
+			},
+			{
+				"namespace": "spectrum",
+				"path": "recipes/enchant.*/mending.json"
+			},
+			{
+				"namespace": "spectrum",
 				"path": "advancements/lategame/use_perturbed_eye.json"
 			}
 		]
