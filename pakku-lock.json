@@ -12377,6 +12377,67 @@
             ]
         },
         {
+            "pakku_id": "ERNrQYUUWPdu4wL2",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "reliable-remover",
+                "modrinth": "reliable-remover"
+            },
+            "name": {
+                "curseforge": "Reliable Remover",
+                "modrinth": "Reliable Remover"
+            },
+            "id": {
+                "curseforge": "1420447",
+                "modrinth": "pLxsKvNt"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "reliable_remover-fabric-1.20.1-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7689/471/reliable_remover-fabric-1.20.1-1.5.1.jar",
+                    "id": "7689471",
+                    "parent_id": "1420447",
+                    "hashes": {
+                        "sha1": "628f45beb97262456fb8c8b03b55df4fa789e94c",
+                        "md5": "1aee1cd5a47f55297736c155c921e3ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 145064,
+                    "date_published": "2026-02-28T06:25:41.023Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "reliable_remover-fabric-1.20.1-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/5bDqSmdv/reliable_remover-fabric-1.20.1-1.5.1.jar",
+                    "id": "5bDqSmdv",
+                    "parent_id": "pLxsKvNt",
+                    "hashes": {
+                        "sha512": "2e2cd05f53684ddd625f468ff2f461c918efdb1c656c473396e60cc058dd4c64bef4e567be85727b1a57779f9d5ea45b7cc2c63376c12a9cc0f74a22cfc7538c",
+                        "sha1": "628f45beb97262456fb8c8b03b55df4fa789e94c"
+                    },
+                    "required_dependencies": [],
+                    "size": 145064,
+                    "date_published": "2026-02-28T06:25:41.389526Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "86GtnkXg2MCfzXAi",
             "type": "MOD",
             "side": "CLIENT",

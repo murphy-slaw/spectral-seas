@@ -1,0 +1,98 @@
+[
+    {
+        "action": "remove",
+        "mod": [
+            "simplyswords"
+        ],
+        "not": {
+            "patterns": [
+                "/.*_cutlass/",
+                "/.*_rapier/",
+                "/.*_longsword/"
+            ],
+            "items": [
+                "simplyswords:runic_tablet"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "sticknstone"
+        ],
+        "not": {
+            "items": [
+                "sticknstone:stone_cutlass",
+                "sticknstone:stone_rapier",
+                "sticknstone:stone_longsword"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "archeologyplus"
+        ],
+        "patterns": [
+            "/.*idol/"
+        ]
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/.*shulker.*/"
+        ]
+    },
+    {
+        "action": "remove",
+        "items": [
+            "spectrum:memory"
+        ],
+        "nbt": [
+            ".*\"minecraft:shulker\".*"
+        ]
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/.*_sword/",
+            "/.*wooden_.*/",
+            "/.*froglass.*/"
+        ],
+        "items": [
+            "ecologics:crab_claw",
+            "inmis:endless_backpack",
+            "minecraft:elytra",
+            "minecraft:enchanting_table",
+            "naturalist:butterfly",
+            "naturalist:caterpillar",
+            "naturalist:chrysalis",
+            "pocket-repose:keystone",
+            "pocket-repose:portal",
+            "pocket-repose:secret_barrel",
+            "rottencreatures:spear",
+            "spectrum:multitool",
+            "spectrum:perturbed_eye",
+            "spellbound:crate",
+            "tridents_n_stuff:wooden_spear",
+            "yigd:death_scroll",
+            "yigd:grave_key"
+        ]
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "supplementaries"
+        ],
+        "items": [
+            "supplementaries:cannon",
+            "supplementaries:cannonball",
+            "supplementaries:enderman_head",
+            "supplementaries:gold_gate"
+        ],
+        "patterns": [
+            "/.*sign_post.*/",
+            "/.*present.*/"
+        ]
+    }
+]
