@@ -6,10 +6,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:iron_axe"
         },
         {

@@ -6,10 +6,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_sword"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:diamond_axe"
         },
         {
