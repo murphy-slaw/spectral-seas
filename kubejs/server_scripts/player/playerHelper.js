@@ -24,10 +24,10 @@ const PlayerHelper = (function () {
         /**
          * @returns  {Internal.Vec3d}
          */
-        const _getMapPos = () => ({
-            x: Math.floor(player.x),
-            y: Math.floor(player.y),
-            z: Math.floor(player.z),
+        const _getMapPos = (ship) => ({
+            x: Math.floor(ship.x),
+            y: Math.floor(ship.y),
+            z: Math.floor(ship.z),
         })
 
         /**
@@ -71,7 +71,7 @@ const PlayerHelper = (function () {
 
             addShipMarker: () => {
                 const ship = getShip()
-                const pos = _getMapPos()
+                const pos = _getMapPos(ship)
                 markerPosition.set(pos)
                 const shipType = ship.type.split(':')[1].toLowerCase()
                 const color = ship.nbt.get('Sail').getString('Color')
