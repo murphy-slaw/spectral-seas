@@ -21,6 +21,7 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 -   Added missing translations for caving advancements
 -   Added missing Antique Atlas tile configuration for custom biomes
 -   Removed Enchanter recipes for removed vanilla enchantments
+-   Fixed duplicate ship markers when changing the sail color of a ship with an existing marker
 
 ### Changed
 
@@ -47,6 +48,7 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 -   Suppressed a bunch of useless log messages
 -   Switched item removals to use Reliable Remover instead of custom KubeJS scripts
 -   Restored Inventory Profiles Next and replaced MacOS Input Fixes with NoEmu to work around item scrolling bug
+-   When popping up the location of an explorer map in the atlas, we try to set the zoom level to fit both the player marker and the map destination marker on screen
 
 ### Added
 
