@@ -87,7 +87,7 @@ const armoryCache = (ctx) => {
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),
         LootEntry.of('supplementaries:blue_bomb').when((c) => c.randomChance(0.3)),
-        Loot.randomEntryOf(pillagerHats).when((c) => c.randomChance(0.25)),
+        Loot.randomEntryOf(Array.from(pillagerHats.keys())).when((c) => c.randomChance(0.25)),
         LootEntry.of('dark_oak_log')
             .when((c) => c.randomChance(0.5))
             .limitCount([4, 16]),
