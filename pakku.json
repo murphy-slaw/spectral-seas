@@ -1,6 +1,6 @@
 {
     "name": "Spectral Seas",
-    "version": "2.0.0-SNAPSHOT",
+    "version": "2.0.0",
     "author": "murphy_slaw",
     "overrides": [
         "config",
