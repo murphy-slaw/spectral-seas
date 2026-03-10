@@ -22,6 +22,7 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 -   Added missing Antique Atlas tile configuration for custom biomes
 -   Removed Enchanter recipes for removed vanilla enchantments
 -   Fixed duplicate ship markers when changing the sail color of a ship with an existing marker
+-   Fixed empty armory chests in pillager outposts
 
 ### Changed
 
@@ -49,6 +50,7 @@ Dimensions come, dimensions go. Some quality of life changes. Some unpleasant su
 -   Switched item removals to use Reliable Remover instead of custom KubeJS scripts
 -   Restored Inventory Profiles Next and replaced MacOS Input Fixes with NoEmu to work around item scrolling bug
 -   When popping up the location of an explorer map in the atlas, we try to set the zoom level to fit both the player marker and the map destination marker on screen
+-   Wandering traders and cartographers will sell a Mysterious Underground Map for one obsidian block
 
 ### Added
 
