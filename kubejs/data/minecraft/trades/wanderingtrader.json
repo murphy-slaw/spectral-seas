@@ -2200,6 +2200,49 @@
               "trader_experience": 2.0
             }
           ]
+        },
+        {
+          "num_to_select": 1.0,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "minecraft:obsidian"
+              },
+              "max_uses": 1.0,
+              "price_multiplier": 0.05,
+              "result": {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:exploration_map",
+                    "destination": "spectral_seas:portals",
+                    "decoration": "target_point",
+                    "zoom": 2,
+                    "search_radius": 100,
+                    "skip_existing_chunks": true
+                  },
+                  {
+                    "function": "minecraft:set_name",
+                    "name": {
+                      "text": "Mysterious Underground Map",
+                      "color": "dark_purple"
+                    }
+                  }
+                ],
+                "name": "minecraft:map"
+              },
+              "reward_experience": true,
+              "trader_experience": 2.0
+            }
+          ]
         }
       ],
       "total_exp_required": 10
