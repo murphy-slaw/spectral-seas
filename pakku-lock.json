@@ -8933,6 +8933,52 @@
             ]
         },
         {
+            "pakku_id": "2rEwcZdZEUCOj1Su",
+            "pakku_links": [
+                "E0Hhuv5KSx1UNZJ0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lootr",
+                "modrinth": "lootr"
+            },
+            "name": {
+                "curseforge": "Lootr (Forge & NeoForge)",
+                "modrinth": "Lootr"
+            },
+            "id": {
+                "curseforge": "361276",
+                "modrinth": "EltpO5cN"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lootr-fabric-1.20-0.7.35.86.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nj1zDLc6/lootr-fabric-1.20-0.7.35.86.jar",
+                    "id": "nj1zDLc6",
+                    "parent_id": "EltpO5cN",
+                    "hashes": {
+                        "sha512": "73b303bf9566b85fe5cf484783c29a1afa9df35e791f20570bde39f6ec1993a32f4a88bceb298245d2f989510d0c19f8053371a69468769dccad5427c217c1e8",
+                        "sha1": "7750c9abdc5b0e023b69461e9d0350fbfb066fda"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 575601,
+                    "date_published": "2025-11-27T01:09:24.987270Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zCrBFJbVdBcieDuP",
             "type": "MOD",
             "side": "BOTH",
@@ -14051,7 +14097,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "spectral_core-fabric-1.20.1-1.0.2.jar",
+                    "file_name": "spectral_core-fabric-1.20.1-1.0.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14059,19 +14105,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7736/120/spectral_core-fabric-1.20.1-1.0.2.jar",
-                    "id": "7736120",
+                    "url": "https://edge.forgecdn.net/files/7745/449/spectral_core-fabric-1.20.1-1.0.3.jar",
+                    "id": "7745449",
                     "parent_id": "1461825",
                     "hashes": {
-                        "sha1": "b30213f64c9f0901c55bf0708d7a75c641d32e22",
-                        "md5": "4adec3ce6df90d05c65937f6c828d5b6"
+                        "sha1": "16cd4138b5bf474c6be09a092199b907276049d2",
+                        "md5": "5aa1efd327cf2c7470cf6f91f309fed5"
                     },
                     "required_dependencies": [
                         "1273003",
                         "556967"
                     ],
-                    "size": 55193,
-                    "date_published": "2026-03-10T00:05:53.407Z"
+                    "size": 57453,
+                    "date_published": "2026-03-12T02:45:53.383Z"
                 }
             ]
         },
