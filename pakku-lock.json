@@ -4005,7 +4005,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "emi_discovery-fabric-1.20.1-1.1.2.jar",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4013,22 +4013,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/iVzpJIV7/emi_discovery-fabric-1.20.1-1.1.2.jar",
-                    "id": "iVzpJIV7",
+                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/eWT8huV0/emi_discovery-fabric-1.20.1-1.1.3.jar",
+                    "id": "eWT8huV0",
                     "parent_id": "WO3G3DRj",
                     "hashes": {
-                        "sha512": "fe54ca0a6c292b241889da4a74204dd0a7f79b29f34c72e20bf8095e8b0b01597f47fc1ee7cdf81c92708f871774881dba2f9d852930eab8d7a74148fe4bdaa1",
-                        "sha1": "909457bb1ab19209750a09f63d42a18ea5afc92c"
+                        "sha512": "7f4176874265d052445111de0eaedd8134edaea026c64dbf96c1fb15449850ca3a346a254befc9dead41a2f434498f4040811898dc53cb142ff4459ccc925eaf",
+                        "sha1": "d8e4c35921ee88ea8e2f933ff9417ae00f43be91"
                     },
-                    "required_dependencies": [
-                        "fRiHVvU7"
-                    ],
-                    "size": 247851,
-                    "date_published": "2026-02-28T22:30:56.169799Z"
+                    "required_dependencies": [],
+                    "size": 247935,
+                    "date_published": "2026-03-13T04:56:38.169429Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "emi_discovery-fabric-1.20.1-1.1.2.jar",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4036,18 +4034,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7692/973/emi_discovery-fabric-1.20.1-1.1.2.jar",
-                    "id": "7692973",
+                    "url": "https://edge.forgecdn.net/files/7749/977/emi_discovery-fabric-1.20.1-1.1.3.jar",
+                    "id": "7749977",
                     "parent_id": "1469248",
                     "hashes": {
-                        "sha1": "909457bb1ab19209750a09f63d42a18ea5afc92c",
-                        "md5": "7f0a6981cbe675e30d1aca23492a1872"
+                        "sha1": "d8e4c35921ee88ea8e2f933ff9417ae00f43be91",
+                        "md5": "8dd343aecdaad738f3f03ff5ef7db006"
                     },
                     "required_dependencies": [
                         "580555"
                     ],
-                    "size": 247851,
-                    "date_published": "2026-02-28T22:22:44.467Z"
+                    "size": 247935,
+                    "date_published": "2026-03-13T04:59:19.410Z"
                 }
             ]
         },
@@ -13567,7 +13565,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.0.jar",
+                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13575,24 +13573,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HRWfY2Uh/versions/VKcgyDdb/smallships_upgrades-fabric-1.20.1-1.0.0.jar",
-                    "id": "VKcgyDdb",
+                    "url": "https://cdn.modrinth.com/data/HRWfY2Uh/versions/1wJ0uB67/smallships_upgrades-fabric-1.20.1-1.0.1.jar",
+                    "id": "1wJ0uB67",
                     "parent_id": "HRWfY2Uh",
                     "hashes": {
-                        "sha512": "8bff7c6be28c6c22d69e1f1a7c38505fa7d20b9e74abc8b49e970c88a070b7576494498055af8be850402019ff9ef15c415137a4b75414f7f9b1c63ae9cdf49b",
-                        "sha1": "471da538c25e0a6b81561819d9e5b0ba1abc39a3"
+                        "sha512": "371c7e896d80307f6eccf27e1695d36f98b452ba679cb693d3f5116ae5ec059b6b07df00d1621a4bf030f6b5247c68f4856afc30675973dffae3786df8b960c5",
+                        "sha1": "63c137e4ccc47ab2677bd267ba1b40f849b9b0b4"
                     },
                     "required_dependencies": [
-                        "rGWEHQrP",
-                        "9s6osm5g",
+                        "P7dR8mSH",
                         "K01OU20C"
                     ],
-                    "size": 53542,
-                    "date_published": "2026-01-22T20:59:27.913645Z"
+                    "size": 53880,
+                    "date_published": "2026-03-13T21:30:53.088938Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.0.jar",
+                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13600,16 +13597,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7508/996/smallships_upgrades-fabric-1.20.1-1.0.0.jar",
-                    "id": "7508996",
+                    "url": "https://edge.forgecdn.net/files/7753/98/smallships_upgrades-fabric-1.20.1-1.0.1.jar",
+                    "id": "7753098",
                     "parent_id": "1441109",
                     "hashes": {
-                        "sha1": "471da538c25e0a6b81561819d9e5b0ba1abc39a3",
-                        "md5": "00cce1b76a0f651014832dc458e23350"
+                        "sha1": "63c137e4ccc47ab2677bd267ba1b40f849b9b0b4",
+                        "md5": "4d034e2f912a601a346f778283b225d6"
                     },
-                    "required_dependencies": [],
-                    "size": 53542,
-                    "date_published": "2026-01-22T21:37:24.033Z"
+                    "required_dependencies": [
+                        "450659",
+                        "348521"
+                    ],
+                    "size": 53880,
+                    "date_published": "2026-03-13T21:24:50.677Z"
                 }
             ]
         },
@@ -14336,7 +14336,7 @@
         {
             "pakku_id": "pmtbn392SpJjPJEi",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "spyglass-improvements",
                 "modrinth": "spyglass-improvements"
