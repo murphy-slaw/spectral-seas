@@ -92,6 +92,9 @@
         },
         "tellme": {
             "export": false
+        },
+        "spyglass-improvements": {
+            "side": "BOTH"
         }
     }
 }
