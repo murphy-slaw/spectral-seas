@@ -218,7 +218,7 @@ const ShipHelper = function (ship, captain) {
             if (inAngleForSail) targetSpeed = 0.24
         }
 
-        if (inputUp) {
+
             targetSpeed = getMaxSpeed()
         }
 
@@ -557,10 +557,10 @@ const buildPirateShip = (shipType, level, player) => {
     /** @type {Internal.Ship} */
     const pirateShip = shipType.create(level)
     pirateShip.setVariant('dark_oak')
-    pirateShip.setData($Ship.SAIL_COLOR, 'red')
-    pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
     pirateShip.setCannonCount(pirateShip.getMaxCannonPerSide() * 2)
     const nbt = pirateShip.nbt
+    nbt.Sail.Color = 'red'
+    nbt.Banner = BANNERS.JOLLY_ROGER
     nbt.Attributes.maxSpeed = 30 * modifiedDifficulty(player)
     nbt.LootTable = 'minecraft:chests/pillager_outpost'
     console.debug(`Speed: ${nbt.Attributes.maxSpeed}`)
