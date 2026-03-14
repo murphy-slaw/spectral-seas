@@ -1,0 +1,10 @@
+@custom
+    @containers
+    @default
+
+@containers
+    tag
+        #spectral_seas:bundle
+    spectrum:bottomless_bundle
+    tag
+        #supplementaries:sacks

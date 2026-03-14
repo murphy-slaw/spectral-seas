@@ -35,6 +35,7 @@ config/fzzy_config/search.toml
 config/heracles
 config/indium-renderer.properties
 config/inventoryprofilesnext/**/*
+!config/inventoryprofilesnext/rules.txt
 config/iris.properties
 config/jei/
 config/konkrete/locals

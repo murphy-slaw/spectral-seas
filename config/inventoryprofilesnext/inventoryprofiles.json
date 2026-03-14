@@ -1,5 +1,6 @@
 {
     "ModSettings": {
+        "sort_order": "CUSTOM",
         "first_run": false
     },
     "GuiSettings": {
@@ -13,5 +14,29 @@
             "value": false
         },
         "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "lock_slots_config_key": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "lock_slots_quick_config_key": {
+            "main": {
+                "keys": "L"
+            }
+        }
+    },
+    "ScrollSettings": {
+        "temp_disable": {
+            "main": {
+                "keys": "LEFT_ALT"
+            }
+        }
     }
 }
