@@ -4,7 +4,7 @@
       "item": "supplementaries:rope"
     },
     "title": "Rigged",
-    "description": "Obtain a rope and craft a lead from it.",
+    "description": "Obtain a rope and craft a ship's cable from it.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
