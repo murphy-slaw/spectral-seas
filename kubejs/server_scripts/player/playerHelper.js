@@ -6,6 +6,7 @@ const PlayerHelper = (function () {
     return function (player) {
         const shipID = WrappedStringTag('shipID', player.persistentData)
         const markerPosition = WrappedCompoundTag('markerPosition', player.persistentData)
+        const shipPosition = WrappedCompoundTag('shipPosition', player.persistentData)
 
         const _getShipName = (ship, shipType) => {
             let shipName = Text.translatable('spectral_seas.ship.label', ship.name.string)
@@ -64,6 +65,7 @@ const PlayerHelper = (function () {
         return {
             shipID: shipID,
             markerPosition: markerPosition,
+            shipPosition: shipPosition,
             getShip: getShip,
             getShipTexture: getShipTexture,
             getMarkerLocation: getMarkerLocation,

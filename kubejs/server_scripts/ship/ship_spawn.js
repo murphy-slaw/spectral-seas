@@ -11,6 +11,15 @@ PlayerEvents.tick((event) => {
     const shipID = wPlayer.shipID.get()
 
     if (vehicle) {
+        let vPosition = vehicle.blockPosition()
+        wPlayer.shipPosition.set({ x: vPosition.x, y: vPosition.y, z: vPosition.z })
+        /*
+        if (
+            player.shipPosition.get().empty() ||
+            player.shipPosition.get() != vehicle.blockPosition()
+        )
+        */
+
         if (shipTypes.includes(vehicle.type)) {
             if (!player.tags.contains('on_ship')) {
                 let vehicleUuid = vehicle.getUuid().toString()
@@ -48,27 +57,31 @@ PlayerEvents.tick((event) => {
 EntityEvents.death('minecraft:player', (event) => {
     const { player, level, server } = event
     const wPlayer = PlayerHelper(player)
-    const ship = wPlayer.getShip()
-    if (ship) {
-        console.debug(`Ship: ${ship}`)
+    const shipPos = wPlayer.shipPosition.get()
+    if (shipPos) {
+        let blockPos = new BlockPos(shipPos.x, shipPos.y, shipPos.z)
+        console.debug(`Ship Position: ${blockPos}`)
         server
             .getPlayer(player)
-            .setRespawnPosition(
-                level.dimensionKey,
-                ship.blockPosition().above(),
-                player.yRot,
-                true,
-                false
-            )
+            .setRespawnPosition(level.dimensionKey, blockPos.above(), player.yRot, true, false)
     }
 })
 
 PlayerEvents.respawned((event) => {
     const { player } = event
     const wPlayer = PlayerHelper(player)
-    const ship = wPlayer.getShip()
-    if (ship) {
-        player.startRiding(ship)
-        player.setPos(ship.blockPosition().above())
+    const shipPos = wPlayer.shipPosition.get()
+    if (!shipPos.empty) {
+        let blockPos = new BlockPos(shipPos.x, shipPos.y, shipPos.z)
+        player.setPos(blockPos.above())
+        event.server.scheduleInTicks(20, (task) => {
+            const ship = wPlayer.getShip()
+            if (ship) {
+                player.setPos(ship.blockPosition().above())
+                player.startRiding(ship)
+            } else {
+                wPlayer.shipPosition.clear()
+            }
+        })
     }
 })

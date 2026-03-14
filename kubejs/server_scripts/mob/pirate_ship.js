@@ -218,7 +218,7 @@ const ShipHelper = function (ship, captain) {
             if (inAngleForSail) targetSpeed = 0.24
         }
 
-
+        if (inputUp) {
             targetSpeed = getMaxSpeed()
         }
 
