@@ -1,5 +1,4 @@
 const $BlockPathTypes = Java.loadClass('net.minecraft.world.level.pathfinder.BlockPathTypes')
-const $Ship = Java.loadClass('com.talhanation.smallships.world.entity.ship.Ship')
 const $ContainerShip = Java.loadClass('com.talhanation.smallships.world.entity.ship.ContainerShip')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 const $ModEntityTypes = Java.loadClass('com.talhanation.smallships.world.entity.ModEntityTypes')
@@ -338,7 +337,7 @@ const stopShip = (pirate) => {}
  * @returns {boolean}
  */
 const canUseShip = (pirate) =>
-    pirate.vehicle instanceof $Ship && pirate.vehicle.passengers[0] === pirate
+    shipTypes.includes(pirate.vehicle.type) && pirate.vehicle.passengers[0] === pirate
 
 const canContinueToUseShip = (pirate) => canUseShip(pirate)
 
