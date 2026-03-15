@@ -80,7 +80,7 @@
               "price_multiplier": 0.05,
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:gold_ingot"
+                "name": "galosphere:silver_ingot"
               },
               "reward_experience": true,
               "trader_experience": 10.0
