@@ -56,6 +56,7 @@ PlayerEvents.tick((event) => {
 
 EntityEvents.death('minecraft:player', (event) => {
     const { player, level, server } = event
+    if (!level.overworld) return
     const wPlayer = PlayerHelper(player)
     const shipPos = wPlayer.shipPosition.get()
     if (shipPos) {
@@ -68,7 +69,8 @@ EntityEvents.death('minecraft:player', (event) => {
 })
 
 PlayerEvents.respawned((event) => {
-    const { player } = event
+    const { player, level } = event
+    if (!level.overworld) return
     const wPlayer = PlayerHelper(player)
     const shipPos = wPlayer.shipPosition.get()
     if (!shipPos.empty) {
