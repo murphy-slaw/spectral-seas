@@ -337,7 +337,9 @@ const stopShip = (pirate) => {}
  * @returns {boolean}
  */
 const canUseShip = (pirate) =>
-    shipTypes.includes(pirate.vehicle.type) && pirate.vehicle.passengers[0] === pirate
+    pirate.vehicle != null &&
+    shipTypes.includes(pirate.vehicle.type) &&
+    pirate.vehicle.passengers[0] === pirate
 
 const canContinueToUseShip = (pirate) => canUseShip(pirate)
 
