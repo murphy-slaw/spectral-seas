@@ -9,7 +9,7 @@
         "hybrid-aquatic:seashell_shovel"
     ],
     "upgradesTo": [
-        "minecraft:stone",
+        "minecraft:iron",
         "minecraft:gold"
     ]
 }
