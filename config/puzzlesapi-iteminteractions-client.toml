@@ -13,7 +13,7 @@ invert_precision_mode_scrolling = false
 #Expand container item tooltips to reveal their contents.
 #Select a modifier key required to be held, otherwise selecting "KEY" serves as a toggle. The key is defined in vanilla's controls menu.
 #Allowed Values: KEY, ALWAYS, SHIFT, CONTROL, ALT
-reveal_contents = "ALWAYS"
+reveal_contents = "ALT"
 #Show an indicator on container items when the stack carried by the cursor can be added in your inventory.
 container_item_indicator = true
 #Select a modifier key required to be held to use precision mode.
