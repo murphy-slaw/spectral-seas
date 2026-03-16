@@ -79,5 +79,14 @@
     "effect.spectral_seas.shrinking": "Shrinking",
     "effect.spectral_seas.shrinking.desc": "One pill makes you small.",
     "effect.rottencreatures.channelled": "Channeled",
-    "effect.rottencreatures.channelled.description": "Causes target to naturally attract lightning bolts."
+    "effect.rottencreatures.channelled.description": "Causes target to naturally attract lightning bolts.",
+    "effect.simplyswords.wildfire.description": "An unused effect. I'm sure if it ever comes out, it'll be lit. ;)",
+    "effect.simplyswords.storm.description": "An unused effect. I'm unsure WEATHER or not it'll be released. ;)",
+    "effect.simplyswords.freeze.description": "Causes target to be frozen and prevents movement.",
+    "effect.simplyswords.ward.description": "Grants pulsing absorption relative to remaining HP.",
+    "effect.simplyswords.immolation.description": "Periodically inflicts damage to target and nearby foes. Outgoing damage scales with current HP.",
+    "effect.simplyswords.echo.description": "Inflicts delayed magic damage.",
+    "effect.simplyswords.onslaught.description": "Grants pulsing haste but inflicts weakness when it expires.",
+    "effect.simplyswords.battle_fatigue": "Battle Fatigue",
+    "effect.simplyswords.battle_fatigue.description": "Prevents dropping another Standard for a duration."
 }
