@@ -77,5 +77,7 @@
     "effect.spectral_seas.growth": "Growth",
     "effect.spectral_seas.growth.desc": "One pill makes you larger.",
     "effect.spectral_seas.shrinking": "Shrinking",
-    "effect.spectral_seas.shrinking.desc": "One pill makes you small."
+    "effect.spectral_seas.shrinking.desc": "One pill makes you small.",
+    "effect.rottencreatures.channelled": "Channeled",
+    "effect.rottencreatures.channelled.description": "Causes target to naturally attract lightning bolts."
 }
