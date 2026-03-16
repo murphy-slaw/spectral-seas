@@ -5955,6 +5955,74 @@
             ]
         },
         {
+            "pakku_id": "YqFJ8l6UBlzM8O9G",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "forge-config-api-port",
+                "modrinth": "forge-config-api-port"
+            },
+            "name": {
+                "curseforge": "Forge Config API Port",
+                "modrinth": "Forge Config API Port"
+            },
+            "id": {
+                "curseforge": "547434",
+                "modrinth": "ohNO6lps"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7260/491/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "id": "7260491",
+                    "parent_id": "547434",
+                    "hashes": {
+                        "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
+                        "md5": "17d4d761778f33c006551cf9ecc78798"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 396628,
+                    "date_published": "2025-11-25T10:09:37.400Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/HvR3IdRE/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "id": "HvR3IdRE",
+                    "parent_id": "ohNO6lps",
+                    "hashes": {
+                        "sha512": "15144d6d7b74dfbe2eede6e3b0aa0c841670be1bd6121608bc28f3b1e46846ccd36b506060a081c988da96cf46fce8bf2e55601e3934b9a52d22dc2fa6cbfd32",
+                        "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 396628,
+                    "date_published": "2025-11-25T10:09:42.997713Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hl1SELINBmW6HSg1",
             "type": "MOD",
             "side": "SERVER",
@@ -16980,6 +17048,80 @@
                     "required_dependencies": [],
                     "size": 238532,
                     "date_published": "2024-03-11T04:25:11.224830Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "M2pgYTyxoarvehP4",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl",
+                "BtnLJzsl1wqM0j3S",
+                "YqFJ8l6UBlzM8O9G"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "universal-bone-meal",
+                "modrinth": "universal-bone-meal"
+            },
+            "name": {
+                "curseforge": "Universal Bone Meal",
+                "modrinth": "Universal Bone Meal"
+            },
+            "id": {
+                "curseforge": "594013",
+                "modrinth": "66VIiT1y"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4699/172/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+                    "id": "4699172",
+                    "parent_id": "594013",
+                    "hashes": {
+                        "sha1": "31ed2b5b85d60017fc1692854efefa3836a545b7",
+                        "md5": "fc31288a24cab8842899967699365811"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "495476",
+                        "547434"
+                    ],
+                    "size": 80819,
+                    "date_published": "2023-08-11T23:07:04.263Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/66VIiT1y/versions/aiTMkkNX/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+                    "id": "aiTMkkNX",
+                    "parent_id": "66VIiT1y",
+                    "hashes": {
+                        "sha512": "9318d28402e46a2710d7fe7a1cb42148a1c53d3deae470704b3b5278722eaa49e60389c4609c852ef7f2b3a9f6559955aff665b38e8226e60c1d3a92c492471a",
+                        "sha1": "31ed2b5b85d60017fc1692854efefa3836a545b7"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M",
+                        "P7dR8mSH",
+                        "ohNO6lps"
+                    ],
+                    "size": 80819,
+                    "date_published": "2023-08-11T23:07:08.822314Z"
                 }
             ]
         },
