@@ -1,5 +1,8 @@
 {
-    "spectral_seas.diving_set.name": "Diving Suit Set",
+    "spectral_seas.diving_set.name": "Diving Gear Set",
+    "spectral_seas.diving_suit_set.name": "Diving Suit Set",
+    "spectral_seas.diving_suit_set.threshold_2": "Wearing both the diving suit and the leggings will slow you down.",
+    "spectral_seas.diving_set.threshold_4": "A complete set of diving gear will make you much better adapated to the sea.",
     "item.minecraft.potion.effect.grog": "Grog",
     "structure.tag.spectral_seas.all_pirate": "Pirates!",
     "advancements.adventure.lichen_caves.title": "I'm Lichen It",
