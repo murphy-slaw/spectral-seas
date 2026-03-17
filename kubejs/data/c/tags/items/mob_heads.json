@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-        "#c:heads",
         "#spectrum:mob_heads",
         "minecraft:piglin_head",
         "rottencreatures:undead_miner_head",
