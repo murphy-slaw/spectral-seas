@@ -14822,7 +14822,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.10.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.11.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14830,22 +14830,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/b96pRuzN/staminafortweakers-fabric-1.20.1-1.10.jar",
-                    "id": "b96pRuzN",
+                    "url": "https://cdn.modrinth.com/data/AejtfAlC/versions/spc2xrPh/staminafortweakers-fabric-1.20.1-1.11.jar",
+                    "id": "spc2xrPh",
                     "parent_id": "AejtfAlC",
                     "hashes": {
-                        "sha512": "36ded85f7557ccce737ca074a3ddf221e66738a2b25e2cdcb4ec3aa7d74b6d9cab529221beb8d3cd9ea1ebea8d5b13bc04d888b8926c7c2303cfe30fcf2644aa",
-                        "sha1": "dae96f02f8135d4cdea56f541886b99cb39280a8"
+                        "sha512": "462a670cc90491d24957bea604507460fdc20c42fdd7194a64b17c8e2744f4c799f451201331a53dfcc821d5b997abdbf5aa3a7b3e3668f5226f3dbc83c0e53a",
+                        "sha1": "0a7aaed0d5e94604ebbf53c2c782da2aa3ecea70"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 686804,
-                    "date_published": "2026-01-14T22:57:09.487269Z"
+                    "size": 688110,
+                    "date_published": "2026-03-16T20:11:12.779209Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "staminafortweakers-fabric-1.20.1-1.10.jar",
+                    "file_name": "staminafortweakers-fabric-1.20.1-1.11.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14853,18 +14853,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7461/41/staminafortweakers-fabric-1.20.1-1.10.jar",
-                    "id": "7461041",
+                    "url": "https://edge.forgecdn.net/files/7768/444/staminafortweakers-fabric-1.20.1-1.11.jar",
+                    "id": "7768444",
                     "parent_id": "1040808",
                     "hashes": {
-                        "sha1": "dae96f02f8135d4cdea56f541886b99cb39280a8",
-                        "md5": "6acf633c593daed19afc83a932e15dfa"
+                        "sha1": "0a7aaed0d5e94604ebbf53c2c782da2aa3ecea70",
+                        "md5": "95e568c7c96e7841db230e08ba2b76ad"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 686804,
-                    "date_published": "2026-01-14T22:59:17.807Z"
+                    "size": 688110,
+                    "date_published": "2026-03-16T20:10:56.777Z"
                 }
             ]
         },
