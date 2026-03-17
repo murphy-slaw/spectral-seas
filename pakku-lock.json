@@ -14165,7 +14165,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "spectral_core-fabric-1.20.1-1.0.4.jar",
+                    "file_name": "spectral_core-fabric-1.20.1-1.0.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14173,19 +14173,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7770/214/spectral_core-fabric-1.20.1-1.0.4.jar",
-                    "id": "7770214",
+                    "url": "https://edge.forgecdn.net/files/7745/449/spectral_core-fabric-1.20.1-1.0.3.jar",
+                    "id": "7745449",
                     "parent_id": "1461825",
                     "hashes": {
-                        "sha1": "62787aeed9ac1e0f659c22ae9e6b3fb450a57d5e",
-                        "md5": "56963e60f18ac0e4ecbf34b19f3e78f5"
+                        "sha1": "16cd4138b5bf474c6be09a092199b907276049d2",
+                        "md5": "5aa1efd327cf2c7470cf6f91f309fed5"
                     },
                     "required_dependencies": [
-                        "556967",
-                        "1273003"
+                        "1273003",
+                        "556967"
                     ],
-                    "size": 58918,
-                    "date_published": "2026-03-17T04:34:21.213Z"
+                    "size": 57453,
+                    "date_published": "2026-03-12T02:45:53.383Z"
                 }
             ]
         },
@@ -14398,49 +14398,6 @@
                     ],
                     "size": 545890,
                     "date_published": "2025-03-14T02:42:40.396833Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "elcBnKuEWHKSDVT8",
-            "pakku_links": [
-                "RTZBmFqX5btZwNKp"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "spreadspawnpoints"
-            },
-            "name": {
-                "modrinth": "Spread Spawnpoints"
-            },
-            "id": {
-                "modrinth": "NSuTfWct"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "spreadspawnpoints-fabric-1.1.0-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NSuTfWct/versions/27YmMTI4/spreadspawnpoints-fabric-1.1.0-1.20.1.jar",
-                    "id": "27YmMTI4",
-                    "parent_id": "NSuTfWct",
-                    "hashes": {
-                        "sha512": "afecec37f395985fda3213e92bf95638d45889f6eab8ccd6ddd9b00db6402cf0158c93678091157e927ece2ba80ce3576ac66714255da1a4e8324558dc3683bf",
-                        "sha1": "1aa2f8db830db5751e972770337a400f0fbc42da"
-                    },
-                    "required_dependencies": [
-                        "lhGA9TYQ"
-                    ],
-                    "size": 112797,
-                    "date_published": "2025-03-01T18:37:02.172062Z"
                 }
             ]
         },
