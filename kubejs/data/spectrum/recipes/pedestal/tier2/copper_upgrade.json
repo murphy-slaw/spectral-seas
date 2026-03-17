@@ -1,0 +1,33 @@
+{
+    "type": "spectrum:pedestal",
+    "time": 400,
+    "tier": "simple",
+    "cyan": 2,
+    "yellow": 1,
+    "experience": 1.0,
+    "pattern": [
+        "ccc",
+        "sls",
+        "CcC"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "s": {
+            "item": "minecraft:string"
+        },
+        "l": {
+            "item": "minecraft:lightning_rod"
+        },
+        "C": {
+            "item": "spectrum:citrine_shard"
+        }
+    },
+    "result": {
+        "item": "vc_gliders:copper_upgrade",
+        "count": 1
+    },
+    "required_advancement": "spectrum:craft_cmy_pedestal",
+    "disable_yield_upgrades": true
+}

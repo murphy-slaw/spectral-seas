@@ -1,0 +1,34 @@
+{
+    "type": "spectrum:pedestal",
+    "time": 800,
+    "tier": "advanced",
+    "cyan": 1,
+    "yellow": 1,
+    "black": 1,
+    "experience": 1.0,
+    "pattern": [
+        "ccc",
+        "sls",
+        "CcC"
+    ],
+    "key": {
+        "c": {
+            "item": "galosphere:silver_ingot"
+        },
+        "s": {
+            "item": "minecraft:chain"
+        },
+        "l": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "C": {
+            "item": "spectrum:topaz_shard"
+        }
+    },
+    "result": {
+        "item": "vc_gliders:nether_upgrade",
+        "count": 1
+    },
+    "required_advancement": "spectrum:craft_onyx_pedestal",
+    "disable_yield_upgrades": true
+}

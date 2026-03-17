@@ -4,7 +4,8 @@ ServerEvents.recipes((event) => {
     event.remove({ output: 'vc_gliders:reinforced_paper_gold' })
     event.remove({ output: 'vc_gliders:reinforced_paper_diamond' })
     event.remove({ output: 'vc_gliders:reinforced_paper_netherite' })
-    event.remove({ output: 'vc_gliders:copper_upgrade' })
+    event.remove({ output: 'vc_gliders:copper_upgrade', input: 'minecraft:amethyst_shard' })
+    event.remove({ output: 'vc_gliders:nether_upgrade', input: 'minecraft:blaze_rod' })
     event.shaped(Item.of('vc_gliders:reinforced_paper'), ['plp', 'lpl', 'plp'], {
         p: 'minecraft:paper',
         l: 'minecraft:leather',
@@ -24,11 +25,5 @@ ServerEvents.recipes((event) => {
     event.shaped(Item.of('vc_gliders:reinforced_paper_netherite'), [' n ', 'nrn', ' n '], {
         n: 'minecraft:netherite_scrap',
         r: 'vc_gliders:reinforced_paper',
-    })
-    event.shaped(Item.of('vc_gliders:copper_upgrade'), ['ccc', 'sls', 'CcC'], {
-        c: 'minecraft:copper_ingot',
-        s: 'minecraft:string',
-        l: 'minecraft:lightning_rod',
-        C: 'spectrum:citrine_shard',
     })
 })

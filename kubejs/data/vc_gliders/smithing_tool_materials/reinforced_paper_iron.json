@@ -1,0 +1,9 @@
+{
+	"inheritFromItem": [
+		"vc_gliders:paraglider_iron"
+	],
+	"addItem": [],
+	"upgradesTo": [
+		"vc_gliders:reinforced_paper_gold"
+	]
+}
