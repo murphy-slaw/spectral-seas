@@ -1,0 +1,291 @@
+{
+  "location": {
+    "fluid": {
+      "tag": "minecraft:water"
+    },
+    "dimension": {
+      "worlds": [
+        "minecraft:overworld"
+      ]
+    }
+  },
+  "chance": 1.0,
+  "entities": [
+    {
+      "id": "minecraft:cod",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:salmon",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:trout",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:sunfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:damselfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:pearlfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:betta",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:john_dory",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:snailfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:carp",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:clownfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:boxfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:danio",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:discus",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:flashlight_fish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:squirrelfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:flying_fish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:goldfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:gourami",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:lionfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:mackerel",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:herring",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:mahi",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:moray_eel",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:needlefish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:barracuda",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:oarfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:opah",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:oscar",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:parrotfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:piranha",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:rockfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:sea_bass",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:seahorse",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:seadragon",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:ocean_sunfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:surgeonfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:tetra",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:tiger_barb",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:triggerfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:tuna",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:manta_ray",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:stingray",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:anglerfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:barreleye",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:dragonfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:ratfish",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:golden_dorado",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:coelacanth",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:wrasse",
+      "weight": 4
+    },
+    {
+      "id": "hybrid-aquatic:pupfish",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:pufferfish",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:tropical_fish",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:squid",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:turtle",
+      "weight": 2
+    },
+    {
+      "id": "minecraft:dolphin",
+      "weight": 1
+    },
+    {
+      "id": "minecraft:axolotl",
+      "weight": 1
+    },
+    {
+      "id": "minecraft:drowned",
+      "weight": 4
+    },
+    {
+      "id": "minecraft:guardian",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:basking_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:bull_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:frilled_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:great_white_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:hammerhead_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:thresher_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:tiger_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:whale_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:lantern_shark",
+      "weight": 1
+    },
+    {
+      "id": "hybrid-aquatic:hound_shark",
+      "weight": 1
+    }
+  ]
+}
