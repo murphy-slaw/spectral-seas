@@ -49,5 +49,9 @@
         "minecraft:chorus_flower[age=1]": "minecraft:pearlescent_froglight",
         "minecraft:chorus_flower[age=0]": "minecraft:pearlescent_froglight",
         "minecraft:end_rod[facing=down]": "minecraft:hanging_roots[waterlogged=false]"
+    },
+    "block_name_replacements": {
+        "minecraft:end_rod": "block.minecraft.hanging_roots",
+        "minecraft:end_stone": "block.minecraft.deepslate"
     }
 }
