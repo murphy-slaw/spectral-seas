@@ -82,6 +82,10 @@ ItemEvents.entityInteracted((event) => {
 
 FabricAddedEvents.stopSleeping((event) => {
     const { player, level } = event
+    if (player == null) {
+        console.info(`Unexpected entity in stopSleeping: ${event}`)
+        return
+    }
     // Now we remove the fake bed!
     if (level.isClientSide() || !player.persistentData.contains('fakeBedPos')) return
     const pos = player.persistentData.getCompound('fakeBedPos')

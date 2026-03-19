@@ -62,6 +62,9 @@ EntityEvents.death('minecraft:player', (event) => {
     if (shipPos) {
         let blockPos = new BlockPos(shipPos.x, shipPos.y, shipPos.z)
         console.debug(`Ship Position: ${blockPos}`)
+        if (shipPos.y != 62) {
+            console.error(`Invalid ship position for respawn: ${shipPos}, not setting spawn. Bad!`)
+        }
         server
             .getPlayer(player)
             .setRespawnPosition(level.dimensionKey, blockPos.above(), player.yRot, true, false)
