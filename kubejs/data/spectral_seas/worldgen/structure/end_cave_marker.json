@@ -1,0 +1,20 @@
+{
+    "biomes": "oceania:end_stone_caves",
+    "step": "underground_structures",
+    "type": "jigsaw",
+    "max_distance_from_center": 1,
+    "size": 1,
+    "start_height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+            "absolute": 0
+        },
+        "min_inclusive": {
+            "absolute": -60
+        }
+    },
+    "spawn_overrides": {},
+    "use_expansion_hack": false,
+    "start_pool": "spectral_seas:end_cave_marker",
+    "terrain_adaptation": "none"
+}

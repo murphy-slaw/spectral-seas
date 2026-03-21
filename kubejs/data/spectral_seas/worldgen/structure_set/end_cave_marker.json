@@ -1,0 +1,15 @@
+{
+    "placement": {
+        "salt": 80087355,
+        "type": "random_spread",
+        "separation": 4,
+        "spacing": 2,
+        "spread_type": "linear"
+    },
+    "structures": [
+        {
+            "structure": "spectral_seas:end_cave_marker",
+            "weight": 1
+        }
+    ]
+}
