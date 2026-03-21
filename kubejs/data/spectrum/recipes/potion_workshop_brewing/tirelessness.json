@@ -4,9 +4,9 @@
     "item": "minecraft:nether_wart"
   },
   "ingredient2": {
-    "item": "minecraft:cocoa_bean"
+    "item": "minecraft:cocoa_beans"
   },
-  "effect": "staminafortweakers:tirelessness_potion",
+  "effect": "staminafortweakers:tirelessness",
   "base_duration_ticks": 3600,
   "potency_modifier": 0.0,
   "applicable_to_potions": true,
