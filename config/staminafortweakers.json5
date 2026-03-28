@@ -25,6 +25,8 @@
 	"depletionPerBlockBroken": 0.0,
 	// Stamina points depleted per tick while using a shield
 	"depletionPerShieldTick": 1.0,
+	// Stamina points depleted per successful shield block
+	"depletionPerShieldBlock": 4.0,
 	// Stamina points depleted per tick while using a glider
 	"depletionPerGliderTick": 0.10000000149011612,
 	// Can jump while exhausted
