@@ -9,7 +9,7 @@
     "collected_blaze_rod": {
       "trigger": "revelationary:advancement_gotten",
       "conditions": {
-        "advancement_identifier": "spectrum:hidden/collect_vanilla/blaze_rod.json"
+        "advancement_identifier": "spectrum:hidden/collect_vanilla/blaze_rod"
       }
     }
   }
