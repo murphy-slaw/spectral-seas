@@ -1,5 +1,5 @@
 {
-  "parent": "galosphere:adventure/crystal_canyons",
+  "parent": "spectral_seas:adventure/crystal_canyons",
   "display": {
     "icon": {
       "item": "galosphere:lumiere_shard"

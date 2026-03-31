@@ -1,5 +1,5 @@
 {
-  "parent": "galosphere:adventure/spelunking",
+  "parent": "spectral_seas:adventure/spelunking",
   "display": {
     "icon": {
       "item": "galosphere:silver_ingot"

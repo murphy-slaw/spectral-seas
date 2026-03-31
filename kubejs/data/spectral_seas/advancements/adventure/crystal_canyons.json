@@ -1,7 +1,7 @@
 {
-  "parent": "galosphere:adventure/spelunking",
+  "parent": "spectral_seas:adventure/spelunking",
   "criteria": {
-    "galosphere:pink_salt_caves": {
+    "galosphere:crystal_canyons": {
       "conditions": {
         "player": [
           {
@@ -9,7 +9,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biome": "galosphere:pink_salt_caves"
+                "biome": "galosphere:crystal_canyons"
               }
             }
           }
@@ -21,21 +21,23 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.adventure.pink_salt_caves.description"
+      "translate": "advancements.adventure.crystal_canyons.description",
+      "fallback": "Ooh, Sparkly!"
     },
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "galosphere:pink_salt_shard"
+      "item": "galosphere:allurite_cluster"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.adventure.pink_salt_caves.title"
+      "translate": "advancements.adventure.crystal_canyons.title",
+      "fallback": "Explore a crystal canyon."
     }
   },
   "requirements": [
     [
-      "galosphere:pink_salt_caves"
+      "galosphere:crystal_canyons"
     ]
   ],
   "rewards": {

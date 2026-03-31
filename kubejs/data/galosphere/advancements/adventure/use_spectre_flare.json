@@ -1,5 +1,5 @@
 {
-  "parent": "galosphere:adventure/lichen_caves",
+  "parent": "spectral_seas:adventure/lichen_caves",
   "display": {
     "icon": {
       "item": "galosphere:spectre_flare"

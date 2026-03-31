@@ -21,7 +21,8 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.adventure.dripstone_caves.description"
+      "translate": "advancements.adventure.dripstone_caves.description",
+      "fallback": "Drip, drip, drop."
     },
     "frame": "task",
     "hidden": false,
@@ -30,7 +31,8 @@
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.adventure.dripstone_caves.title"
+      "translate": "advancements.adventure.dripstone_caves.title",
+      "fallback": "Explore a dripstone cave."
     }
   },
   "requirements": [

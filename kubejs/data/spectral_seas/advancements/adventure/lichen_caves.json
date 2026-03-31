@@ -1,7 +1,7 @@
 {
-  "parent": "galosphere:adventure/spelunking",
+  "parent": "spectral_seas:adventure/spelunking",
   "criteria": {
-    "galosphere:crystal_canyons": {
+    "galosphere:lichen_caves": {
       "conditions": {
         "player": [
           {
@@ -9,7 +9,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biome": "galosphere:crystal_canyons"
+                "biome": "galosphere:lichen_caves"
               }
             }
           }
@@ -21,21 +21,23 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.adventure.crystal_canyons.description"
+      "translate": "advancements.adventure.lichen_caves.description",
+      "fallback": "I'm Lichen It"
     },
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "galosphere:allurite_cluster"
+      "item": "galosphere:lichen_moss"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.adventure.crystal_canyons.title"
+      "translate": "advancements.adventure.lichen_caves.title",
+      "fallback": "Explore a lichen cave."
     }
   },
   "requirements": [
     [
-      "galosphere:crystal_canyons"
+      "galosphere:lichen_caves"
     ]
   ],
   "rewards": {

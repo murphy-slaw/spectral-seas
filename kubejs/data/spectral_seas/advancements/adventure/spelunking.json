@@ -84,7 +84,8 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.adventure.spelunking.description"
+      "translate": "advancements.adventure.spelunking.description",
+      "fallback": "The Spelunker's Way"
     },
     "frame": "challenge",
     "hidden": false,
@@ -94,7 +95,8 @@
     "background": "minecraft:textures/block/deepslate_top.png",
     "show_toast": true,
     "title": {
-      "translate": "advancements.adventure.spelunking.title"
+      "translate": "advancements.adventure.spelunking.title",
+      "fallback": "Explore every cave biome."
     }
   },
   "requirements": [
