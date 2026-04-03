@@ -1,5 +1,5 @@
 {
-  "parent": "galosphere:adventure/pink_salt_caves",
+  "parent": "spectral_seas:adventure/pink_salt_caves",
   "criteria": {
     "pink_salt_shrine": {
       "conditions": {

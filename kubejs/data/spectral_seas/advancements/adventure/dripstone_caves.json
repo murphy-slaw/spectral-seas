@@ -1,5 +1,5 @@
 {
-  "parent": "galosphere:adventure/spelunking",
+  "parent": "spectral_seas:adventure/spelunking",
   "criteria": {
     "galosphere:dripstone_caves": {
       "conditions": {
