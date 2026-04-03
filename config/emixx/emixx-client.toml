@@ -4,4 +4,5 @@
 	disabledCreativeModeTabs = ["minecraft:op_blocks"]
 	syncSelectedCreativeModeTab = false
 [stackGroups]
+	enableCreateStackGroupButton = true
 	enableStackGroups = true

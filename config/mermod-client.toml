@@ -1,5 +1,5 @@
 [Client]
-	#Night vision flashing fix
-	nightVisionFlashingFix = true
+	#Disable night vision flashing
+	disableNightVisionFlashing = true
 	#Replace swim animation
 	replaceSwimAnimation = true
