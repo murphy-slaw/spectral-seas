@@ -419,6 +419,10 @@
 			},
 			{
 				"namespace": "spectrum",
+				"path": "modonomicon/books/guidebook/entries/equipment/tools_and_armor/multitool.json"
+			},
+			{
+				"namespace": "spectrum",
 				"path": "modonomicon/multiblocks/perturbed_eye_portal.json"
 			},
 			{
