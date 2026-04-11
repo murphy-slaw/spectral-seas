@@ -18,7 +18,10 @@ phrases = [
     "LootJS: LootTable.Builder.build() called without setting loot table id",
     "Invalid mod icon for icon source",
     "has a broken icon, loading default icon",
-    "Invalid path minecraft"
+    "Invalid path minecraft",
+    "Failed to restore original behavior for item: lunch_basket",
+    "Parsing error loading custom advancement mostructures:abandoned_church",
+    "Parsing error loading custom advancement supplementaries:recipes/planter_rich"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
