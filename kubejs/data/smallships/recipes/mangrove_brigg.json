@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brigg",
+  "pattern": [
+    "sSR",
+    "CcC"
+  ],
+  "key": {
+    "s": {
+      "item": "smallships_upgrades:speed_upgrade"
+    },
+    "S": {
+      "item": "smallships:sail"
+    },
+    "R": {
+      "item": "spectral_seas:rigging"
+    },
+    "C": {
+      "item": "smallships_upgrades:cargo_upgrade"
+    },
+    "c": {
+      "item": "smallships:mangrove_cog"
+    }
+  },
+  "result": {
+    "item": "smallships:mangrove_brigg"
+  }
+}

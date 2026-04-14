@@ -1,0 +1,8 @@
+[
+    {
+        "action": "replace_input",
+        "output": "smallships:sail",
+        "target": "minecraft:lead",
+        "replacement": "supplementaries:rope"
+    }
+]

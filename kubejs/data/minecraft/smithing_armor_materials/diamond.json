@@ -1,8 +1,0 @@
-{
-	"inheritFromItem": [
-		"minecraft:diamond_helmet"
-	],
-	"addItem": [
-		"minecraft:diamond_horse_armor"
-	]
-}

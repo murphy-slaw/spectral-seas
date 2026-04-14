@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "t": {
+            "item": "hybrid-aquatic:tall_dunegrass"
+        }
+    },
+    "pattern": [
+        "tt ",
+        "tt ",
+        "tt "
+    ],
+    "result": {
+        "item": "minecraft:string"
+    }
+}

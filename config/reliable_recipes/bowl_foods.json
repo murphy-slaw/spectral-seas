@@ -1,0 +1,32 @@
+[
+    {
+        "action": "remove_recipe",
+        "id": "minecraft:suspicious_stew"
+    },
+    {
+        "action": "replace_output",
+        "output": "minecraft:mushroom_stew",
+        "replacement": "spectral_seas:mushroom_stew"
+    },
+    {
+        "action": "replace_output",
+        "output": "minecraft:rabbit_stew",
+        "replacement": "spectral_seas:rabbit_stew"
+    },
+    {
+        "action": "replace_output",
+        "output": "minecraft:beetroot_soup",
+        "replacement": "spectral_seas:beetroot_soup"
+    },
+    {
+        "action": "replace_output",
+        "output": "ecologics:tropical_stew",
+        "replacement": "spectral_seas:tropical_stew"
+    },
+    {
+        "action": "replace_input",
+        "output": "ecologics:tropical_stew",
+        "target": "ecologics:crab_meat",
+        "replacement": "hybrid-aquatic:coconut_crab_claw"
+    }
+]

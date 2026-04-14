@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "c": {
+            "item": "swampier_swamps:cattail"
+        }
+    },
+    "pattern": [
+        " c ",
+        " c ",
+        " c "
+    ],
+    "result": {
+        "item": "minecraft:string"
+    }
+}

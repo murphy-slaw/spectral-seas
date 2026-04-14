@@ -1,0 +1,6 @@
+[
+    {
+        "action": "remove_recipe",
+        "id": "minecraft:shield_decoration"
+    }
+]

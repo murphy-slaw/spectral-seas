@@ -1,0 +1,7 @@
+[
+    {
+        "action": "remove_recipe",
+        "input": "minecraft:string",
+        "output": "comforts:rope_and_nail"
+    }
+]

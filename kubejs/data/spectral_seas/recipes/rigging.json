@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "r": {
+            "item": "supplementaries:rope"
+        },
+        "s": {
+            "item": "minecraft:slime_ball"
+        },
+        "i": [
+            {
+                "item": "minecraft:copper_ingot"
+            },
+            {
+                "item": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    "pattern": [
+        " r ",
+        " s ",
+        " i "
+    ],
+    "result": {
+        "item": "spectral_seas:rigging"
+    },
+    "category": "misc"
+}

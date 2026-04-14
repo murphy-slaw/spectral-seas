@@ -1,0 +1,7 @@
+[
+    {
+        "action": "remove_recipe",
+        "output": "minecraft:lodestone",
+        "input": "netherite_ingot"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "action": "remove_recipe",
+        "output": "vc_gliders:copper_upgrade",
+        "input": "minecraft:amethyst_shard"
+    },
+    {
+        "action": "remove_recipe",
+        "output": "vc_gliders:nether_upgrade",
+        "input": "minecraft:blaze_rod"
+    }
+]

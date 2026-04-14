@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "bone_meal",
+  "ingredient": {
+    "tag": "spectral_seas:shells"
+  },
+  "result": "minecraft:bone_meal"
+}
