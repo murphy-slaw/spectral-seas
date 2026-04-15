@@ -11574,19 +11574,23 @@
             ]
         },
         {
-            "pakku_id": "NFF2w7HJjK7Az27b",
+            "pakku_id": "SCL7ukzlug6TgPxT",
             "pakku_links": [
                 "I3R56KffM8BLOYK5"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "portable-hold"
+                "curseforge": "portable-hold",
+                "modrinth": "portable-hold"
             },
             "name": {
-                "curseforge": "Portable Hold"
+                "curseforge": "Portable Hold",
+                "modrinth": "Portable Hold"
             },
             "id": {
-                "curseforge": "1510581"
+                "curseforge": "1510581",
+                "modrinth": "zy1olwRp"
             },
             "files": [
                 {
@@ -11611,6 +11615,29 @@
                     ],
                     "size": 129808,
                     "date_published": "2026-04-11T05:12:49.847Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "portable-hold-1.0.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zy1olwRp/versions/dTJrXIwM/portable-hold-1.0.0-1.20.1.jar",
+                    "id": "dTJrXIwM",
+                    "parent_id": "zy1olwRp",
+                    "hashes": {
+                        "sha512": "86c7f95b18e90b947f60d24a9ea47723cb088ae589a901bfab34b23b8ab5912a295dfae46b6d0f486668e8dda55726ea692053dcc6a0b2d8858a3ab983500953",
+                        "sha1": "2a0c37cf8abf517315bae7462221e20addb47863"
+                    },
+                    "required_dependencies": [
+                        "rGWEHQrP"
+                    ],
+                    "size": 129808,
+                    "date_published": "2026-04-11T13:34:11.702163Z"
                 }
             ]
         },
@@ -16244,146 +16271,6 @@
             ]
         },
         {
-            "pakku_id": "cTs0ZSLaienTNkIK",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "terrablender-fabric",
-                "modrinth": "terrablender"
-            },
-            "name": {
-                "curseforge": "TerraBlender (Fabric)",
-                "modrinth": "TerraBlender"
-            },
-            "id": {
-                "curseforge": "565956",
-                "modrinth": "kkmrDlKT"
-            },
-            "aliases": [
-                "terrablender"
-            ],
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6290/449/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-                    "id": "6290449",
-                    "parent_id": "565956",
-                    "hashes": {
-                        "sha1": "bc61e5ac5ec75f33827b65942df6d533c8d166e3",
-                        "md5": "ecdc32930106b6cd487d7efd19fe5932"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 322357,
-                    "date_published": "2025-03-10T23:40:19.383Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/J1S3aA8i/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-                    "id": "J1S3aA8i",
-                    "parent_id": "kkmrDlKT",
-                    "hashes": {
-                        "sha512": "a2d5edbe9df43185e9c83ab426cbcda4b1d0537d9ede8be630d6d650e04d5decf574ef59cbc163913255b57784fa906d26557471fc698e0f27ceee2a1ec41ed9",
-                        "sha1": "14ba207a885b621b92a79bc913abcb4108a77ac4"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 322358,
-                    "date_published": "2025-03-10T23:40:51.403505Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "R6dCQ3XBCs7ZuUMI",
-            "pakku_links": [
-                "HK4MOBVEN7Iq6MXA",
-                "YTQS28sPsodD8LSC",
-                "cTs0ZSLaienTNkIK"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "terrablenderfix",
-                "modrinth": "terrablenderfix"
-            },
-            "name": {
-                "curseforge": "TerraBlenderFix",
-                "modrinth": "TerraBlenderFix"
-            },
-            "id": {
-                "curseforge": "1080945",
-                "modrinth": "t2pgJYye"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "terrablenderfix-fabric-1.20.1-0.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t2pgJYye/versions/v9qr2Vsl/terrablenderfix-fabric-1.20.1-0.0.1.jar",
-                    "id": "v9qr2Vsl",
-                    "parent_id": "t2pgJYye",
-                    "hashes": {
-                        "sha512": "daa5504d55be1351c4deda27b3bbf4eec6bfe458af6e55accce2a5e3cfe78ceb0d9007fb7c6fca4769ab05f8a458ed52aabda1305eb0e092acdc2d0777811f4d",
-                        "sha1": "7a6799bfdacc93719128dcac8e168af4a4474a18"
-                    },
-                    "required_dependencies": [
-                        "kkmrDlKT"
-                    ],
-                    "size": 14980,
-                    "date_published": "2024-08-08T06:03:50.675937Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "terrablenderfix-fabric-1.20.1-0.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/5612/730/terrablenderfix-fabric-1.20.1-0.0.1.jar",
-                    "id": "5612730",
-                    "parent_id": "1080945",
-                    "hashes": {
-                        "sha1": "7a6799bfdacc93719128dcac8e168af4a4474a18",
-                        "md5": "996cf8cd3b2f4ed2e88e3820f8b27097"
-                    },
-                    "required_dependencies": [
-                        "565956"
-                    ],
-                    "size": 14980,
-                    "date_published": "2024-08-09T22:54:46.063Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "MQSA3QMrX4mWU9Vz",
             "type": "MOD",
             "side": "BOTH",
@@ -16751,74 +16638,6 @@
                     ],
                     "size": 426431,
                     "date_published": "2024-08-26T07:47:42.128653Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "zRZYZZ9JodssOfGA",
-            "pakku_links": [
-                "XGUJ7I1uZ8bsT6v4",
-                "8MtEIE9JTJEYEs3u"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "tinkerers-smithing-kubejs-compat",
-                "modrinth": "tinkerers-smithing-kubejs-compat"
-            },
-            "name": {
-                "curseforge": "Tinkerer's Smithing: KubeJS Compat",
-                "modrinth": "Tinkerer's Smithing: KubeJS Compat"
-            },
-            "id": {
-                "curseforge": "1394582",
-                "modrinth": "5U1y0liR"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7275/406/tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
-                    "id": "7275406",
-                    "parent_id": "1394582",
-                    "hashes": {
-                        "sha1": "6fcda3366228828f02ab9d370e0eddad6068a7a3",
-                        "md5": "14994a6cec16b4a5119fee0560555919"
-                    },
-                    "required_dependencies": [],
-                    "size": 145187,
-                    "date_published": "2025-11-29T19:18:50.347Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5U1y0liR/versions/gnpszfhe/tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
-                    "id": "gnpszfhe",
-                    "parent_id": "5U1y0liR",
-                    "hashes": {
-                        "sha512": "d37115628b59039608109ca9b543abd7ca9183aa1eb2f81315e486f57cda10152fa075912a7a28d5a80e99bd424aa84991c8f9bb212c11d9716b147732008d98",
-                        "sha1": "ededbb43591fb4beb05c1c97e2a9222f5267c6bc"
-                    },
-                    "required_dependencies": [
-                        "RhVpNN5O",
-                        "umyGl7zF"
-                    ],
-                    "size": 20585,
-                    "date_published": "2025-02-15T00:53:12.149487Z"
                 }
             ]
         },
