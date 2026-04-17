@@ -12,5 +12,6 @@
     "book.spectrum.guidebook.paltaeria.page3.text": "\\\n       *~ Fly far away ~*",
     "book.spectrum.guidebook.port_folio.page0.text": "Assembled from fine leather and an assortment of tools, this innocuous valise resembles nothing so much as a simple artist's portfolio case.\\\n\\\nHowever, when activated with a paintbrush and opened, crouching upon it transports one to a Workspace - a tiny private world, to use as one wishes.\\\n\\\nIt may, of course, be dyed to taste.",
     "book.spectrum.guidebook.port_folio.page1.text": "A room of one's own.",
-    "item.spectrum.port_folio": "Port-Folio"
+    "item.spectrum.port_folio": "Port-Folio",
+    "spectrum.filled_map.undergrowth_manor_surveillance": "Surveillance Map"
 }
