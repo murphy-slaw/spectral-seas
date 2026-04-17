@@ -2,8 +2,8 @@
     "placement": {
         "salt": 80087355,
         "type": "random_spread",
-        "separation": 4,
-        "spacing": 2,
+        "separation": 2,
+        "spacing": 4,
         "spread_type": "linear"
     },
     "structures": [
