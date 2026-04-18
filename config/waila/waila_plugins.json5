@@ -256,14 +256,6 @@
     // Default value: [15]
     icon_length: 15
   },
-  treechop: {
-    // Block counts
-    // Default value: [true]
-    show_tree_block_counts: true,
-    // Chop counts
-    // Default value: [true]
-    show_num_chops_remaining: true
-  },
   wailax: {
     // Show Block Energy
     // Require server to have WTHIT installed, if not, will be locked to [false]
