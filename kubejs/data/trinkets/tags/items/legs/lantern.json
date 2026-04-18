@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "#spectral_seas:colored_lantern",
+        "spectrum:ivory_noxwood_lamp",
+        "spectrum:chestnut_noxwood_lamp",
+        "spectrum:slate_noxwood_lamp",
+        "spectrum:ebony_noxwood_lamp",
+        "spectrum:weeping_gala_lantern",
+        "ribbits:swamp_lantern",
+        "galosphere:pink_salt_lamp",
+        "swampier_swamps:gas_lamp"
+    ]
+}
