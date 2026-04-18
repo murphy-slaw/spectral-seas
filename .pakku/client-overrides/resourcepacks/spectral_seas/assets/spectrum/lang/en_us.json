@@ -10,5 +10,8 @@
     "book.spectrum.guidebook.paltaeria.page0.text": "The pale blue color is the hallmark of this ore, found exclusively in small clusters in the Ender Caves.\\\n\\\nLike the caves, the curious properties of this material are not to be overlooked.",
     "book.spectrum.guidebook.paltaeria.page2.text": "From my previous experience with Paltaeria, I can already guess that it would not be a good idea to place this block outdoors - my future self will thank me.",
     "book.spectrum.guidebook.paltaeria.page3.text": "\\\n       *~ Fly far away ~*",
+    "book.spectrum.guidebook.portable_hold.page0.text": "This ingenious device, when applied to the deck of a wooden ship, transports one to an extradimensional Hold - a private space resembling the cargo hold of a ship.",
+    "book.spectrum.guidebook.portable_hold.page1.text": "Strange cargo.",
+    "item.spectrum.portable_hold": "Portable Hold",
     "spectrum.filled_map.undergrowth_manor_surveillance": "Surveillance Map"
 }

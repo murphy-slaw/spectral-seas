@@ -1,0 +1,7 @@
+[
+    {
+        "action": "remove_recipe",
+        "output": "portable_hold:portable_hold",
+        "input": "minecraft:conduit"
+    }
+]

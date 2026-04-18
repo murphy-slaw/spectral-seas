@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lodestone"
+    },
+    "title": {
+      "translate": "advancements.spectrum.craft_lodestone.title"
+    },
+    "description": {
+      "translate": "advancements.spectrum.craft_lodestone.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "spectrum:craft_cmy_pedestal",
+  "criteria": {
+    "craft_lodestone": {
+      "trigger": "spectrum:crafted_with_pedestal",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lodestone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "craft_lodestone"
+    ]
+  ]
+}

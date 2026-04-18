@@ -1,0 +1,28 @@
+{
+    "name": "item.spectrum.portable_hold",
+    "icon": "portable_hold:portable_hold",
+    "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "spectrum:craft_lodestone"
+    },
+    "category": "spectrum:equipment",
+    "hide_while_locked": true,
+    "parents": [],
+    "background_u_index": 0,
+    "background_v_index": 0,
+    "x": 5,
+    "y": -2,
+    "pages": [
+        {
+            "type": "modonomicon:text",
+            "text": "book.spectrum.guidebook.portable_hold.page0.text",
+            "title": "item.spectrum.portable_hold"
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "title": "container.spectrum.rei.pedestal_recipe",
+            "recipe_id": "spectrum:pedestal/tier2/portable_hold",
+            "text": "book.spectrum.guidebook.portable_hold.page1.text"
+        }
+    ]
+}
