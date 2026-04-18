@@ -6,5 +6,5 @@
 	waterBreathing = true
 	#Night vision
 	nightVision = false
-	#Aqua affinity
+	#Aqua affinity (underwater mining speed)
 	aquaAffinity = true
