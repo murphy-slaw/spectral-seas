@@ -3273,42 +3273,6 @@
             ]
         },
         {
-            "pakku_id": "wQjdVy2ZY4L7jMuu",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "cupboard"
-            },
-            "name": {
-                "curseforge": "Cupboard"
-            },
-            "id": {
-                "curseforge": "326652"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "cupboard-fabric-1.20.1-3.5.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7748/888/cupboard-fabric-1.20.1-3.5.jar",
-                    "id": "7748888",
-                    "parent_id": "326652",
-                    "hashes": {
-                        "sha1": "10584026714e09e2790608298e782d3d671e9ab9",
-                        "md5": "6c7c74552aa71c578af4d43438444125"
-                    },
-                    "required_dependencies": [],
-                    "size": 31838,
-                    "date_published": "2026-03-12T22:12:06.660Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "GTeSCGYp7YLwn7uf",
             "pakku_links": [
                 "E0Hhuv5KSx1UNZJ0",
@@ -15385,47 +15349,6 @@
                     ],
                     "size": 44211,
                     "date_published": "2024-07-04T21:26:28.440Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "17tEiKKlSEq9B4bb",
-            "pakku_links": [
-                "wQjdVy2ZY4L7jMuu"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "structure-essentials-forge-fabric"
-            },
-            "name": {
-                "curseforge": "Structure Essentials[Forge/Fabric]"
-            },
-            "id": {
-                "curseforge": "832882"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "structureessentials-fabric-1.20.1-4.8.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6732/855/structureessentials-fabric-1.20.1-4.8.jar",
-                    "id": "6732855",
-                    "parent_id": "832882",
-                    "hashes": {
-                        "sha1": "8562b9ec3b35d7251073b11937337201446a957d",
-                        "md5": "595b722f2383e15756546f328038ac80"
-                    },
-                    "required_dependencies": [
-                        "326652"
-                    ],
-                    "size": 63961,
-                    "date_published": "2025-07-05T11:14:57.457Z"
                 }
             ]
         },
