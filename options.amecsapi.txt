@@ -8,3 +8,4 @@ key_modifiers_key.jei.toggleHideIngredient:0,0,0
 key_modifiers_key.jei.toggleWildcardHideIngredient:0,0,0
 key_modifiers_key.jei.previousCategory:0,0,0
 key_modifiers_key.jei.nextCategory:0,0,0
+key_modifiers_[Fabrication] Toggle Stance:0,0,1
