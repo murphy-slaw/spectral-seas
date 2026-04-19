@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_slice"
+    },
+    {
+      "item": "hybrid-aquatic:coconut_crab_claw"
+    }
+  ],
+  "result": {
+    "item": "ecologics:tropical_stew"
+  }
+}
