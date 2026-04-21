@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#naturalist:naturalist_entities",
+        "hybrid-aquatic:otter"
+    ]
+}
