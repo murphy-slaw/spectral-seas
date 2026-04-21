@@ -93,8 +93,8 @@ habitatBiomes = [
 habitatBiomeDensity = 3
 
 [waterfalls]
-waterfallsEnabled = true
-smallWaterfallsEnabled = true
+waterfallsEnabled = false
+smallWaterfallsEnabled = false
 waterfallUpdateFrequency = 6
 randomizeWaterfallParticleRotation = false
 mediumWaterfallParticleDensity = 1.0
