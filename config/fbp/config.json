@@ -5,7 +5,7 @@
     "locked": false,
     "disableOculusWarning": false,
     "freezeEffect": false,
-    "cartoonMode": false,
+    "cartoonMode": true,
     "cullParticles": true,
     "infiniteDuration": false,
     "particlesBlacklist": {},
