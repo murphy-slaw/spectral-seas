@@ -75,7 +75,8 @@ run=100
 name="hybrid-aquatic:coconut_crab"
 [[mob.rule]]
 type="natural"
-run=0
+set.size=[200,400]
+run=75
 
 [[mob]]
 name="minecraft:cod"
