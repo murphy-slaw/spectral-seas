@@ -1,3 +1,3 @@
 |||
-%!!uniform%v2.0.1%!!%
+%!!uniform%v3.0.0+snapshot%!!%
 |||

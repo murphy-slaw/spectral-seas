@@ -1,2 +1,2 @@
-const version = 'v2.0.1+snapshot.2026.03.17'
+const version = 'v3.0.0+snapshot.2026.04.22'
 console.log(`Loading Spectral Seas ${version}`)
