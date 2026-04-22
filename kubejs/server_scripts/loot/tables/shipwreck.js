@@ -1,5 +1,6 @@
 LootJS.modifiers((event) => {
     event.addLootTableModifier('chests/shipwreck_supply').addLoot(
+        LootEntry.of('smallships_upgrades:cargo_upgrade').when((c) => c.randomChance(0.1)),
         LootEntry.of('minecraft:coal')
             .when((c) => c.randomChance(0.7))
             .limitCount([3, 8]),
@@ -25,14 +26,11 @@ LootJS.modifiers((event) => {
         LootEntry.of('spyglass').when((c) => c.randomChance(0.2)),
         LootEntry.of('ink_sac')
             .when((c) => c.randomChance(0.7))
-            .limitCount([2, 5]),
-        LootEntry.of('galosphere_barometer').when((c) => c.randomChance(0.2))
+            .limitCount([2, 5])
     )
 
     event.addLootTableModifier('chests/shipwreck_treasure').addLoot(
-        LootEntry.of('prismarine_shard')
-            .when((c) => c.randomChance(0.7))
-            .limitCount([2, 5]),
+        LootEntry.of('hybrid-aquatic:prismarine_rod').when((c) => c.randomChance(0.1)),
         LootEntry.of('nautilus_shell')
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),
