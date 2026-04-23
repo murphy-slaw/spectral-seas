@@ -2,19 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "l": {
-      "item": "minecraft:leather"
-    },
-    "i": {
-      "item": "minecraft:iron_ingot"
+    "w": {
+      "item": "minecraft:wheat"
     }
   },
   "pattern": [
-    " l ",
-    "lil"
+    "www",
+    "www"
   ],
   "result": {
-    "item": "minecraft:saddle"
+    "item": "minecraft:bread"
   },
   "show_notification": true
 }
