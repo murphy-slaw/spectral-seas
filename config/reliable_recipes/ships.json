@@ -4,5 +4,16 @@
         "output": "/smallships:.*_(cog|drakkar|galley)/",
         "target": "minecraft:lead",
         "replacement": "spectral_seas:rigging"
+    },
+    {
+        "action": "replace_input",
+        "output": "smallships:azalea_cog",
+        "target": "ecologics:azalea_chest_boat",
+        "replacement": "ecologics:azalea_boat"
+    },
+    {
+        "action": "remove_recipe",
+        "output": "smallships:bamboo_cog",
+        "input": "minecraft:chest"
     }
 ]
