@@ -1,9 +1,21 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    { "item": "minecraft:heart_of_the_sea" },
-    { "item": "minecraft:diamond" }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "SCS",
+    "PSP"
   ],
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "minecraft:scute"
+    },
+    "C": {
+      "item": "minecraft:conduit"
+    }
+  },
   "result": {
     "item": "mermod:sea_crystal",
     "count": 4
