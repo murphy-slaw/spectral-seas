@@ -11554,7 +11554,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "portable-hold-1.0.1-1.20.1.jar",
+                    "file_name": "portable-hold-1.0.2-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11562,20 +11562,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zy1olwRp/versions/6koouEcj/portable-hold-1.0.1-1.20.1.jar",
-                    "id": "6koouEcj",
+                    "url": "https://cdn.modrinth.com/data/zy1olwRp/versions/B8biMa1X/portable-hold-1.0.2-1.20.1.jar",
+                    "id": "B8biMa1X",
                     "parent_id": "zy1olwRp",
                     "hashes": {
-                        "sha512": "cca569954ef0d50da6f7f47c3301ba2f4f14803e2d26879b8d63ac5bd62a1c4c2c9e21f6c44327ae0ceed4ac920ea5b62c950680cb36e53e5470b7b5c5de4baa",
-                        "sha1": "a2b47d44c5bda60b9faa59829304dd700abf5639"
+                        "sha512": "62e652b6b9bd1a632a9c1fa9a9de46b64958c9cc3cf4e3d54a0747cc645fdd4d77542cb41cbae610c9393f83513b52344965dc643bee5a91c290e39c70432413",
+                        "sha1": "fc6740de4a63d2e15735170f19a1935fa9757efa"
                     },
                     "required_dependencies": [],
-                    "size": 130371,
-                    "date_published": "2026-04-23T22:28:02.050253Z"
+                    "size": 129481,
+                    "date_published": "2026-04-27T03:45:48.455681Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "portable-hold-1.0.1-1.20.1.jar",
+                    "file_name": "portable-hold-1.0.2-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11583,18 +11583,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7974/723/portable-hold-1.0.1-1.20.1.jar",
-                    "id": "7974723",
+                    "url": "https://edge.forgecdn.net/files/7998/335/portable-hold-1.0.2-1.20.1.jar",
+                    "id": "7998335",
                     "parent_id": "1510581",
                     "hashes": {
-                        "sha1": "a2b47d44c5bda60b9faa59829304dd700abf5639",
-                        "md5": "5ec3230aaffad712c28fdc2e74562239"
+                        "sha1": "fc6740de4a63d2e15735170f19a1935fa9757efa",
+                        "md5": "05493d589a54cc6fc253c3c36234d074"
                     },
                     "required_dependencies": [
                         "450659"
                     ],
-                    "size": 130371,
-                    "date_published": "2026-04-23T22:26:33.543Z"
+                    "size": 129481,
+                    "date_published": "2026-04-27T03:45:00.970Z"
                 }
             ]
         },
