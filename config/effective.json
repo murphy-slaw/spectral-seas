@@ -10,7 +10,7 @@
   "rainRippleDensity": 5,
   "glowingPlankton": true,
   "underwaterOpenChestBubbles": true,
-  "underwaterChestsOpenRandomly": "ON_SOUL_SAND",
+  "underwaterChestsOpenRandomly": "NEVER",
   "glowSquidHypnotize": "ATTRACT",
   "allayTrails": "BOTH",
   "goldenAllays": true,

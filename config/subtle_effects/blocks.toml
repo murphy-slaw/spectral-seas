@@ -40,7 +40,15 @@ farmlandDestroyEffects = true
 amethystSparkleDisplayType = "ON"
 amethystSparkleEmittingBlocks = [
     "minecraft:amethyst_block",
-    "minecraft:budding_amethyst"
+    "minecraft:budding_amethyst",
+    "spectrum:citrine_block",
+    "spectrum:budding_citrine",
+    "spectrum:topaz_block",
+    "spectrum:budding_topaz",
+    "spectrum:onyx_block",
+    "spectrum:budding_onyx",
+    "spectrum:moonstone_block",
+    "spectrum:budding_moonstone"
 ]
 amethystSparkleSounds = true
 floweringAzaleaPetals = true
@@ -70,7 +78,7 @@ underwaterBlockBreakBubbles = true
 decoratedPotsSpawnBubbles = true
 openingBarrelsSpawnsBubbles = true
 openingChestsSpawnsBubbles = true
-chestsOpenRandomlyUnderwater = true
+chestsOpenRandomlyUnderwater = false
 randomChestOpeningNeedsSoulSand = false
 dispenseItemBubbles = true
 rainIncreasesLeavesSpawningParticles = true
