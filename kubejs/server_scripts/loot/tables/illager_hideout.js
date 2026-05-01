@@ -21,7 +21,7 @@ LootJS.modifiers((event) => {
             LootEntry.of('tridents_n_stuff:diamond_harpoon'),
         ])
         .replaceLoot('bow', LootEntry.of('tridents_n_stuff:harpoon_launcher'))
-        .replaceLoot('crossbow', Loot.randomEntryOf(Weapons.BLACKPOWDER_ALL))
+        .replaceLoot('crossbow', '#spectral_seas:blackpowder_all')
         .replaceLoot('iron_axe', LootEntry.of('iron_axe'))
         .replaceLoot('iron_boots', LootEntry.of('iron_boots'))
         .replaceLoot('iron_helmet', LootEntry.of('iron_helmet'))

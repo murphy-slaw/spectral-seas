@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:shears",
+        "minecraft:flint_and_steel",
+        "minecraft:fishing_rod",
+        "minecraft:brush",
+        "minecraft:bucket",
+        "minecraft:compass",
+        "minecraft:clock",
+        "minecraft:spyglass"
+    ]
+}

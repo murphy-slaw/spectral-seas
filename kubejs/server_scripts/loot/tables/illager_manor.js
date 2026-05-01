@@ -72,7 +72,7 @@ LootJS.modifiers((event) => {
                     .withChance(15)
                     .enchantRandomly(['power', 'unbreaking', 'knockback']),
                 LootEntry.of('musketmod:blunderbuss')
-                    .enchantRandomly(['flame', 'unbreaking', 'spellbound:selfish'])
+                    .enchantRandomly(['flame', 'unbreaking'])
                     .withChance(15),
                 LootEntry.of('musketmod:musket')
                     .enchantRandomly(['spellbound:storied'])

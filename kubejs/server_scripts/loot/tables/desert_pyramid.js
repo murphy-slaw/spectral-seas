@@ -2,9 +2,9 @@
 const pharaohRegalia = (ctx) => {
     console.debug('pharaoh')
     return [
-        Loot.randomEnchantedFrom(ArmorSets.CHAINMAIL, EnchantSets.DESERT).damage([0, 1]),
+        Loot.enchantedFrom('#spectral_seas:armor_chainmail', EnchantSets.DESERT).damage([0, 1]),
 
-        Loot.randomEnchantedFrom(ArmorSets.DIAMOND, EnchantSets.DESERT).damage(0),
+        Loot.enchantedFrom('#spectral-seas:armor_diamond', EnchantSets.DESERT).damage(0),
 
         LootEntry.of('minecraft:blue_dye')
             .when((c) => c.randomChance(0.7))
@@ -62,14 +62,14 @@ const tombGuardianRemains = (ctx) => {
         Loot.enchantedFrom('minecraft:golden_helmet', EnchantSets.DESERT)
             .addNbt({
                 Trim: {
-                    material: Loot.randomOf(ArmorSets.TRIM_MATERIAL),
+                    material: Loot.randomOf(Loot.TRIM_MATERIAL),
                     pattern: 'minecraft:dune',
                 },
             })
             .when((c) => c.randomChance(0.5))
             .damage([0, 0.5]),
 
-        Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.DESERT)
+        Loot.enchantedFrom('#spectral_seas:armor_leather', EnchantSets.DESERT)
             .damage([0, 0.5])
             .when((c) => c.randomChance(0.7)),
 

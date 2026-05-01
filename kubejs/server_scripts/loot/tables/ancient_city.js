@@ -117,14 +117,14 @@ const sculkResearcher = (ctx) => {
 const ancientSurvivor = (ctx) => {
     console.debug('ancient_survivor')
     return [
-        Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.DARK)
+        Loot.enchantedFrom('#spectral_seas:armor_leather', EnchantSets.DARK)
             .addNbt({ display: { color: Loot.randomOf([8991416, 3949738, 13061821]) } })
             .when((c) => c.randomChance(0.3))
             .damage([0.25, 0.5]),
         LootEntry.of('lead')
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),
-        Loot.randomEnchantedFrom(Weapons.IRON, ['minecraft:bane_of_arthropods'])
+        Loot.enchantedFrom('#spectral_seas:iron_weapon', ['minecraft:bane_of_arthropods'])
             .enchantRandomly(Loot.randomEnchantFor('iron_sword', EnchantSets.GENERIC))
             .when((c) => c.randomChance(0.3))
             .damage([0.5, 0.75]),
@@ -154,7 +154,7 @@ const ancientSurvivor = (ctx) => {
         LootEntry.of('iron_ingot')
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 5]),
-        Loot.randomEntryOf(Tools.IRON)
+        LootEntryOf('#spectral_seas:iron_tool')
             .when((c) => c.randomChance(0.5))
             .damage([0.5, 0.75]),
     ]

@@ -4,7 +4,6 @@ const EnchantSets = (function () {
         'extra-damage-enchantments:butcher',
         'extra-damage-enchantments:herbicide',
         'extra-damage-enchantments:rebel',
-        'hybrid-aquatic:live_catch',
         'minecraft:aqua_affinity',
         'minecraft:fortune',
         'minecraft:silk_touch',
@@ -14,9 +13,7 @@ const EnchantSets = (function () {
         'minecraft:efficiency',
         'minecraft:blast_protection',
         'minecraft:projectile_protection',
-        'minecraft:mending',
         'minecraft:unbreaking',
-        'spellbound:dullness',
         'spellbound:sunken_treasure',
         'spellbound:despoiling',
         'spellbound:pinata',
@@ -28,15 +25,9 @@ const EnchantSets = (function () {
         'spellbound:universal',
         'spellbound:widened',
         'spellbound:flesh_wound',
-        'spellbound:goldskin',
         'spellbound:grace',
-        'spellbound:hearty',
         'spellbound:buffered',
-        'spellbound:metabolising',
-        'spellbound:photosynthetic',
-        'spellbound:saturated',
         'spellbound:selfish',
-        'spellbound:skotosynthetic',
         'staminafortweakers:untiring',
     ]
 
@@ -54,22 +45,17 @@ const EnchantSets = (function () {
         'minecraft:multishot',
         'minecraft:quick_charge',
         'minecraft:infinity',
-        'spellbound:hover',
         'spellbound:phase_leap',
-        'spellbound:phase_strafe',
         'spellbound:impersonal',
         'spellbound:airline',
         'spellbound:death_wish',
         'spellbound:last_gasp',
-        'spellbound:attractive',
-        'spellbound:repulsive',
         'spellbound:warlike',
         'spellbound:storied',
         'spellbound:cave_in',
         'spellbound:tethering',
         'staminafortweakers:traveling',
         'supplementaries:stasis',
-        'spellbound:pestilence',
     ]
 
     const CITRINE = [
@@ -114,7 +100,6 @@ const EnchantSets = (function () {
     ]
 
     const BRUTAL = [
-        'spellbound:hearty',
         'minecraft:knockback',
         'spellbound:rampage',
         'spellbound:scalping',
@@ -127,14 +112,9 @@ const EnchantSets = (function () {
 
     const DARK = [
         'minecraft:bane_of_arthropods',
-        'spellbound:metabolising',
         'spellbound:phase_leap',
-        'spellbound:phase_strafe',
         'spellbound:red_alert',
-        'spellbound:skotosynthetic',
         'minecraft:swift_sneak',
-        'spellbound:attractive',
-        'spellbound:repulsive',
         'extra-damage-enchantments:voidrender',
     ]
 
@@ -154,7 +134,6 @@ const EnchantSets = (function () {
         'minecraft:flame',
         'spellbound:spikes',
         'minecraft:looting',
-        'spellbound:photosynthetic',
         'extra-damage-enchantments:herbicide',
     ]
 
@@ -191,8 +170,6 @@ const EnchantSets = (function () {
 
     const SHALLOWS = [
         'minecraft:frost_walker',
-        'spellbound:sunken_treasure',
-        'hybrid-aquatic:live_catch',
         'minecraft:luck_of_the_sea',
         'minecraft:lure',
         'minecraft:respiration',
@@ -200,12 +177,9 @@ const EnchantSets = (function () {
     ]
 
     const UNDEAD = [
-        'spellbound:saturated',
         'spellbound:death_wish',
         'spellbound:last_gasp',
         'spellbound:outburst',
-        'spellbound:pestilence',
-        'spellbound:selfish',
         'minecraft:soul_speed',
         'minecraft:thorns',
         'spellbound:vengeful',
@@ -214,7 +188,6 @@ const EnchantSets = (function () {
 
     const GENERIC = [
         'spellbound:flesh_wound',
-        'spellbound:goldskin',
         'minecraft:frost_walker',
         'minecraft:efficiency',
         'minecraft:infinity',

@@ -58,7 +58,9 @@ const armoryCache = (ctx) => {
         Loot.randomEntryOf(['stone_cutlass', 'stone_axe'])
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 3]),
-        Loot.randomSetOf(ArmorSets.IRON, 0.2, [0.25, 0.75]),
+        LootEntry.of('#spectral_seas:iron_armor')
+            .when((c) => c.randomChance(0.5))
+            .damage([0.25, 0.75]),
         Loot.randomEntryOf(['iron_cutlass', 'iron_axe'])
             .when((c) => c.randomChance(0.5))
             .damage([0.6, 0.75]),
@@ -103,16 +105,6 @@ const armoryCache = (ctx) => {
 /** @param {Internal.LootContextJS} ctx */
 const supplyChest = (ctx) => {
     return [].concat([
-        LootEntry.of('cooked_cod')
-            .when((c) => {
-                c.randomChance(0.5)
-            })
-            .limitCount([2, 5]),
-        LootEntry.of('cooked_salmon')
-            .when((c) => {
-                c.randomChance(0.3)
-            })
-            .limitCount([2, 5]),
         LootEntry.of('hybrid-aquatic:cooked_fish_steak')
             .when((c) => {
                 c.randomChance(0.3)

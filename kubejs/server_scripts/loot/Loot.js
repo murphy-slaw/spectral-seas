@@ -189,6 +189,18 @@ const Loot = (function () {
         return CHOWDER_EFFECTS.map((effect) => Loot.chowderOf(effect))
     }
 
+    const TRIM_MATERIAL = [
+        'minecraft:amethyst',
+        'minecraft:copper',
+        'minecraft:diamond',
+        'minecraft:emerald',
+        'minecraft:gold',
+        'minecraft:iron',
+        'minecraft:lapis',
+        'minecraft:netherite',
+        'minecraft:redstone',
+    ]
+
     return {
         randomOf: randomOf,
         randomEntryOf: randomEntryOf,
@@ -202,5 +214,6 @@ const Loot = (function () {
         randomEnchantedFrom: randomEnchantedFrom,
         exclusiveLootPool: exclusiveLootPool,
         smartReplacePools: smartReplacePools,
+        TRIM_MATERIAL: TRIM_MATERIAL,
     }
 })()

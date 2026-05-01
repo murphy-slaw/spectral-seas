@@ -31,7 +31,7 @@ const rawMaterials = (ctx) => {
             .limitCount([1, 2])
             .when((c) => c.randomChance(0.7)),
         LootEntry.of('dark_oak_log').limitCount([4, 8]),
-        Loot.randomEntryOf(Tools.IRON).limitCount([1, 2]).damage([0.5, 1]),
+        LootEntry.of('#spectral_seas:iron_tool').limitCount([1, 2]).damage([0.5, 1]),
     ])
 }
 
@@ -55,9 +55,6 @@ const finishedGoods = (ctx) => {
         LootEntry.of('brush')
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 2]),
-        LootEntry.of('tridents_n_stuff:wooden_spear')
-            .when((c) => c.randomChance(0.7))
-            .limitCount([1, 3]),
         LootEntry.of('tnt')
             .when((c) => c.randomChance(0.7))
             .limitCount([2, 5]),
@@ -115,10 +112,10 @@ const overseerChest = (ctx) => {
         Loot.randomEntryOf(pillagerHats)
             .when((c) => c.randomChance(0.7))
             .limitCount([1, 2]),
-        Loot.randomEnchantedFrom(Weapons.BLACKPOWDER_LONGARMS, EnchantSets.MUSKET)
+        Loot.enchantedFrom('#spectral_seas:blackpowder_longarms', EnchantSets.MUSKET)
             .when((c) => c.randomChance(0.8))
             .damage([0, 0.5]),
-        Loot.randomEnchantedFrom(Weapons.BLACKPOWDER_LONGARMS, EnchantSets.MUSKET)
+        Loot.enchantedFrom('#spectral_seas:blackpowder_longarms', EnchantSets.MUSKET)
             .when((c) => c.randomChance(0.8))
             .damage([0, 0.5]),
         LootEntry.of('minecraft:potion').addPotion('spectral_seas:grog').limitCount([1, 3]),

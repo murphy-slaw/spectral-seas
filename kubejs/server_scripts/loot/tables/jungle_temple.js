@@ -8,7 +8,7 @@ const hunter = (ctx) => {
             .when((c) => c.randomChance(0.7))
             .limitCount([2, 8])
             .addPotion('strong_poison'),
-        Loot.randomEnchantedFrom(ArmorSets.LEATHER, EnchantSets.JUNGLE).when((c) =>
+        Loot.enchantedFrom('#spectral_seas:armor_iron', EnchantSets.JUNGLE).when((c) =>
             c.randomChance(0.5)
         ),
         Loot.enchantedFrom('leather_boots', EnchantSets.JUNGLE).when((c) => c.randomChance(0.5)),
