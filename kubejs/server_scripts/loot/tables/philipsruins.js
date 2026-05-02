@@ -40,8 +40,8 @@ const ruinLoot = (ctx) => {
     return [].concat([])
 }
 LootJS.modifiers((event) => {
-    Loot.smartReplacePools(event, 'philipsruins:chest/level_one_ruins_loot', [levelOneRuins])
     /*
+    Loot.smartReplacePools(event, 'philipsruins:chest/level_one_ruins_loot', [levelOneRuins])
     Loot.smartReplacePools(event, 'philipsruins:level_three_ruins_loot', [levelThreeRuins])
     Loot.smartReplacePools(event, 'philipsruins:ruin_loot', [ruinLoot])
     Loot.smartReplacePools(event, 'philipsruins:ruin_loot_value', [ruinLoot])
