@@ -8900,25 +8900,50 @@
             ]
         },
         {
-            "pakku_id": "2rEwcZdZEUCOj1Su",
+            "pakku_id": "pUxdu17TkAE2ZoZ8",
             "pakku_links": [
                 "E0Hhuv5KSx1UNZJ0"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "lootr",
+                "curseforge": "lootr-fabric",
                 "modrinth": "lootr"
             },
             "name": {
-                "curseforge": "Lootr (Forge & NeoForge)",
+                "curseforge": "Lootr (Fabric)",
                 "modrinth": "Lootr"
             },
             "id": {
-                "curseforge": "361276",
+                "curseforge": "615106",
                 "modrinth": "EltpO5cN"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lootr-fabric-1.20-0.7.35.86.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7266/482/lootr-fabric-1.20-0.7.35.86.jar",
+                    "id": "7266482",
+                    "parent_id": "615106",
+                    "hashes": {
+                        "sha1": "7750c9abdc5b0e023b69461e9d0350fbfb066fda",
+                        "md5": "b8e9383e03928d6a3619d3dd6dd5f45d"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 575601,
+                    "date_published": "2025-11-27T01:08:23.280Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "lootr-fabric-1.20-0.7.35.86.jar",
@@ -10764,19 +10789,48 @@
             ]
         },
         {
-            "pakku_id": "Ojd8ikAAHbVrjUAG",
+            "pakku_id": "JraWw5IaCKCEENVw",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "one-trident-throw-only-one-trident-throw-only",
                 "modrinth": "one-trident-throw-only"
             },
             "name": {
+                "curseforge": "One Trident Throw Only One Trident Throw Only",
                 "modrinth": "One Trident Throw Only"
             },
             "id": {
+                "curseforge": "1369929",
                 "modrinth": "PZuTOCA4"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "one_trident_throw_only-fabric-1.20.1-1.1.0-BETA.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7790/26/one_trident_throw_only-fabric-1.20.1-1.1.0-BETA.jar",
+                    "id": "7790026",
+                    "parent_id": "1369929",
+                    "hashes": {
+                        "sha1": "1f7a304ab1eefb66b122cbf001a0ab101f8e7f12",
+                        "md5": "c6f55ee01e73ca9332e4b1dacc3e7510"
+                    },
+                    "required_dependencies": [],
+                    "size": 20057,
+                    "date_published": "2026-03-21T15:07:06.407Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "one_trident_throw_only-fabric-1.20.1-1.1.0-BETA.jar",
