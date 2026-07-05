@@ -1,0 +1,9 @@
+{
+  "turnSpeed": 2.5,
+  "acceleration": 0.05,
+  "deceleration": 0.08,
+  "headBobIntensity": 0.14,
+  "headBobFrequency": 0.5,
+  "horseHeadBobIntensity": 0.14,
+  "horseHeadBobFrequency": 0.5
+}

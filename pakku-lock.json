@@ -6124,6 +6124,54 @@
             ]
         },
         {
+            "pakku_id": "2r8jEVlpQWrOhnMS",
+            "pakku_links": [
+                "YqFJ8l6UBlzM8O9G",
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fragmentum",
+                "modrinth": "fragmentum"
+            },
+            "name": {
+                "curseforge": "Fragmentum [Forge Edition]",
+                "modrinth": "Fragmentum"
+            },
+            "id": {
+                "curseforge": "1123970",
+                "modrinth": "49C5QgTK"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fragmentum-fabric-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/M5XHr0l7/fragmentum-fabric-1.20.1-1.3.0.jar",
+                    "id": "M5XHr0l7",
+                    "parent_id": "49C5QgTK",
+                    "hashes": {
+                        "sha512": "f4d8bdad425c841d6b0efb7f7f08a5f3523e964a5bc67439625ff4d1d8b6ae9f065184ccdad31479dbe9bece7d7f6aaee01346406477d213f41930e37a5d7a7e",
+                        "sha1": "f74137a938899576536bcee181bf9b4f2e8566b0"
+                    },
+                    "required_dependencies": [
+                        "ohNO6lps",
+                        "P7dR8mSH"
+                    ],
+                    "size": 2645095,
+                    "date_published": "2026-05-16T18:32:42.680190Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6npG6yOuSsRYweq9",
             "pakku_links": [
                 "E3w4sDtObdJLRHAf"
@@ -7166,6 +7214,67 @@
                     "required_dependencies": [],
                     "size": 119018,
                     "date_published": "2024-10-23T17:30:14.827Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "az94Tx7BwjOEU34l",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-horse-riding",
+                "modrinth": "immersive-horse-riding"
+            },
+            "name": {
+                "curseforge": "Immersive Horse Riding",
+                "modrinth": "Immersive Horse Riding"
+            },
+            "id": {
+                "curseforge": "1453947",
+                "modrinth": "MmgRSJ2v"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_horse_riding-1.20.1-Fabric-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8265/1/immersive_horse_riding-1.20.1-Fabric-1.1.0.jar",
+                    "id": "8265001",
+                    "parent_id": "1453947",
+                    "hashes": {
+                        "sha1": "2cbfbb5cfb13c5430ff1c20a5fde7e0fedd43e7a",
+                        "md5": "1e6cf0b7cf23ecab91f8d75bcc8b5800"
+                    },
+                    "required_dependencies": [],
+                    "size": 123607,
+                    "date_published": "2026-06-17T10:00:30.153Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_horse_riding-1.20.1-Fabric-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MmgRSJ2v/versions/G1Zntp4p/immersive_horse_riding-1.20.1-Fabric-1.1.0.jar",
+                    "id": "G1Zntp4p",
+                    "parent_id": "MmgRSJ2v",
+                    "hashes": {
+                        "sha512": "24e5c83d498ad852f0be500c204e7802a5647642891bafcdebc697099fcc13fd2fda847805c44b978a89f5a52ad10fb83f15e706ae6e8a0cb2ce78aa1ed40d4f",
+                        "sha1": "2cbfbb5cfb13c5430ff1c20a5fde7e0fedd43e7a"
+                    },
+                    "required_dependencies": [],
+                    "size": 123607,
+                    "date_published": "2026-06-17T10:01:35.838612Z"
                 }
             ]
         },
@@ -9175,6 +9284,137 @@
                     "required_dependencies": [],
                     "size": 1318438,
                     "date_published": "2025-06-13T16:11:34.881253Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "luaRvjaPtpf9AanK",
+            "pakku_links": [
+                "2r8jEVlpQWrOhnMS"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "maestro-music",
+                "curseforge": "maestro"
+            },
+            "name": {
+                "modrinth": "Maestro",
+                "curseforge": "Maestro"
+            },
+            "id": {
+                "modrinth": "jcZX6rvP",
+                "curseforge": "1454351"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "maestro-fabric-1.20.1-3.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jcZX6rvP/versions/PrCp2DEx/maestro-fabric-1.20.1-3.0.0.jar",
+                    "id": "PrCp2DEx",
+                    "parent_id": "jcZX6rvP",
+                    "hashes": {
+                        "sha512": "bbd6c3db29a763359be88e95b3b38143bca8996f3a9eb59dec9d1fe72098fcf6e8d496641ed43ca3d110f4abc4472d17e212f93612062433544f2e577f67b565",
+                        "sha1": "8fb17acca4edb7d65e3296cb1e115a9da6e04562"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 135623,
+                    "date_published": "2026-02-11T10:16:10.602763Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "maestro-fabric-1.20.1-3.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7608/486/maestro-fabric-1.20.1-3.0.0.jar",
+                    "id": "7608486",
+                    "parent_id": "1454351",
+                    "hashes": {
+                        "sha1": "8fb17acca4edb7d65e3296cb1e115a9da6e04562",
+                        "md5": "a106269ef8f97f9024a5fb2bebfd046b"
+                    },
+                    "required_dependencies": [
+                        "1123974"
+                    ],
+                    "size": 135623,
+                    "date_published": "2026-02-11T10:16:20.520Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nK4nZqmvAW0jywbV",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "maestro-overture",
+                "modrinth": "maestro-overture"
+            },
+            "name": {
+                "curseforge": "Maestro: Overture",
+                "modrinth": "Maestro: Overture"
+            },
+            "id": {
+                "curseforge": "1456190",
+                "modrinth": "UANtIOeC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Maestro-Overture.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7608/514/Maestro-Overture.zip",
+                    "id": "7608514",
+                    "parent_id": "1456190",
+                    "hashes": {
+                        "sha1": "2c160845278de3a1cc1b928fd37ca879732816ea",
+                        "md5": "a6be98aaa5765a3f5bdb4a12c5821d8f"
+                    },
+                    "required_dependencies": [
+                        "1454351"
+                    ],
+                    "size": 33577865,
+                    "date_published": "2026-02-11T10:21:07.467Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Maestro-Overture.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UANtIOeC/versions/XwoPaAui/Maestro-Overture.zip",
+                    "id": "XwoPaAui",
+                    "parent_id": "UANtIOeC",
+                    "hashes": {
+                        "sha512": "10f05bf5e8fa5827871b623ccce188ab1243e52b475e8f716103167683d22bec82e07961f42907ba4016800a63cd5be5046d2c81f509a7fbbade33642f572ade",
+                        "sha1": "2c160845278de3a1cc1b928fd37ca879732816ea"
+                    },
+                    "required_dependencies": [],
+                    "size": 33577865,
+                    "date_published": "2026-02-11T10:18:52.314512Z"
                 }
             ]
         },
@@ -15567,6 +15807,60 @@
                     ],
                     "size": 384058,
                     "date_published": "2026-04-08T13:34:01.653Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7rBGpQVpOBQo1IDX",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "stylized-liquids"
+            },
+            "name": {
+                "modrinth": "Stylized Liquids"
+            },
+            "id": {
+                "modrinth": "iA8r21Ex"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "StylizedLiquids.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iA8r21Ex/versions/BzLgfpfJ/StylizedLiquids.zip",
+                    "id": "BzLgfpfJ",
+                    "parent_id": "iA8r21Ex",
+                    "hashes": {
+                        "sha512": "3c9c777c89e9b7ac32d54f2656526dfb2d1aafbb2bdbd210048c5eac14bdb97b40d69fa1aa8610104aded9b6161c028fcbd107dd6ad13b0d312efd5b6c2e029d",
+                        "sha1": "d34e09b56d39fe49a467ecef0471a18c604499ff"
+                    },
+                    "required_dependencies": [],
+                    "size": 574347,
+                    "date_published": "2025-04-21T11:44:28.471100Z"
                 }
             ]
         },
