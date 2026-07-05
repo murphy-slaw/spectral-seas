@@ -85,3 +85,4 @@ TODO_LATER: More armor set bonuses.
 TODO_LATER: Exposure advancements for HA fish and other modded mobs.
 TODO_LATER.0: Splash texts
 TODO_LATER: Custom spawn tables for all biomes, no vanilla zombies or skellies in biomes with variants
+TODO: Fix rope and nail recipe
