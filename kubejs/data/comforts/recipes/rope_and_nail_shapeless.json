@@ -3,7 +3,7 @@
   "group": "comforts:rope_and_nail",
   "ingredients": [
     {
-      "tag": "c:rope"
+      "item": "supplementaries:rope"
     },
     {
       "tag": "c:iron_ingots"
