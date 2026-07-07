@@ -3,11 +3,11 @@
 	"values": [
 		{
 			"cost": 2,
-			"item": "galosphere:silver_ingot"
+			"item": "galosphere:palladium_ingot"
 		},
 		{
 			"cost": 18,
-			"item": "galosphere:silver_nugget"
+			"item": "galosphere:palladium_nugget"
 		},
 		{
 			"cost": 6,

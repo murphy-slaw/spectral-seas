@@ -6,7 +6,7 @@
 		"minecraft:iron",
 		"minecraft:chain",
 		"minecraft:gold",
-		"hybrid-aquatic:copper"
+		"hybrid_aquatic:copper"
 	],
 	"addItem": [
 		"minecraft:leather_horse_armor"

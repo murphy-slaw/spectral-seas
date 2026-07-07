@@ -77,7 +77,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "hybrid-aquatic:cooked_fish_meat",
+                    "name": "hybrid_aquatic:cooked_fish_meat",
                     "conditions": [
                         {
                             "condition": "minecraft:random_chance",
@@ -102,7 +102,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "hybrid-aquatic:cooked_fish_steak",
+                    "name": "hybrid_aquatic:cooked_fish_steak",
                     "conditions": [
                         {
                             "condition": "minecraft:random_chance",

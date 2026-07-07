@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "minecraft:cod"
   },
-  "result": "hybrid-aquatic:cooked_fish_meat"
+  "result": "hybrid_aquatic:cooked_fish_meat"
 }

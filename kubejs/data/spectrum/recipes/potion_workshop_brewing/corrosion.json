@@ -4,9 +4,9 @@
     "item": "minecraft:nether_wart"
   },
   "ingredient2": {
-    "item": "hybrid-aquatic:sulfur"
+    "item": "hybrid_aquatic:sulfur"
   },
-  "effect": "hybrid-aquatic:corrosion",
+  "effect": "hybrid_aquatic:corrosion",
   "base_duration_ticks": 300,
   "potency_modifier": 0.0,
   "applicable_to_potions": true,

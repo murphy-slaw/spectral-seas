@@ -3,7 +3,7 @@
         "title": "Fish-eye Lens",
         "description": "Craft a diving helmet",
         "icon": {
-            "item": "hybrid-aquatic:diving_helmet"
+            "item": "hybrid_aquatic:diving_helmet"
         },
         "announce_to_chat": true,
         "show_toast": true,
@@ -17,7 +17,7 @@
                 "items": [
                     {
                         "items": [
-                            "hybrid-aquatic:diving_helmet"
+                            "hybrid_aquatic:diving_helmet"
                         ]
                     }
                 ]

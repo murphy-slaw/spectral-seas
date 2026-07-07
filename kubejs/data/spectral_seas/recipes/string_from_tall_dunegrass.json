@@ -2,7 +2,7 @@
     "type": "crafting_shaped",
     "key": {
         "t": {
-            "item": "hybrid-aquatic:tall_dunegrass"
+            "item": "hybrid_aquatic:tall_dunegrass"
         }
     },
     "pattern": [

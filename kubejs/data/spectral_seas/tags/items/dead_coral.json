@@ -1,11 +1,11 @@
 {
     "values": [
-        "hybrid-aquatic:dead_button_coral",
-        "hybrid-aquatic:dead_leaf_coral",
-        "hybrid-aquatic:dead_lophelia_coral",
-        "hybrid-aquatic:dead_rose_coral",
-        "hybrid-aquatic:dead_sun_coral",
-        "hybrid-aquatic:dead_thorn_coral",
+        "hybrid_aquatic:dead_button_coral",
+        "hybrid_aquatic:dead_leaf_coral",
+        "hybrid_aquatic:dead_lophelia_coral",
+        "hybrid_aquatic:dead_rose_coral",
+        "hybrid_aquatic:dead_sun_coral",
+        "hybrid_aquatic:dead_thorn_coral",
         "minecraft:dead_brain_coral",
         "minecraft:dead_bubble_coral",
         "minecraft:dead_fire_coral",

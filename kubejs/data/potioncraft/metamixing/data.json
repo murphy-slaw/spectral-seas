@@ -134,7 +134,7 @@
   },
   "recipes": {
     "potioncraft:potion_cauldron_block": {
-      "hybrid-aquatic:mahi": {
+      "hybrid_aquatic:mahi": {
         "potency": 1,
         "effects": [
           {
@@ -145,7 +145,7 @@
           }
         ]
       },
-      "hybrid-aquatic:flying_fish": {
+      "hybrid_aquatic:flying_fish": {
         "potency": 1,
         "effects": [
           {
@@ -156,7 +156,7 @@
           }
         ]
       },
-      "hybrid-aquatic:ratfish": {
+      "hybrid_aquatic:ratfish": {
         "potency": 1,
         "effects": [
           {
@@ -178,7 +178,7 @@
           }
         ]
       },
-      "hybrid-aquatic:flashlight_fish": {
+      "hybrid_aquatic:flashlight_fish": {
         "potency": 1,
         "effects": [
           {
@@ -200,7 +200,7 @@
           }
         ]
       },
-      "hybrid-aquatic:anemone": {
+      "hybrid_aquatic:anemone": {
         "potency": 1,
         "effects": [
           {
@@ -211,7 +211,7 @@
           }
         ]
       },
-      "hybrid-aquatic:stonefish": {
+      "hybrid_aquatic:stonefish": {
         "potency": 1,
         "effects": [
           "${add_item_if_potato_soup}",
@@ -235,7 +235,7 @@
           }
         ]
       },
-      "hybrid-aquatic:dragonfish": {
+      "hybrid_aquatic:dragonfish": {
         "potency": 1,
         "effects": [
           {
@@ -246,7 +246,7 @@
           }
         ]
       },
-      "hybrid-aquatic:lionfish": {
+      "hybrid_aquatic:lionfish": {
         "potency": 1,
         "effects": [
           {
@@ -272,7 +272,7 @@
           }
         ]
       },
-      "hybrid-aquatic:uni": {
+      "hybrid_aquatic:uni": {
         "potency": 1,
         "effects": [
           "${add_item_if_potato_soup}",

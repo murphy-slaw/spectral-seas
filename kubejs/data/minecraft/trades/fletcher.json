@@ -1033,7 +1033,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:glowing"
+                        "id": "hybrid_aquatic:glowing"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1048,7 +1048,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:clarity"
+                        "id": "hybrid_aquatic:clarity"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1063,7 +1063,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:thalassophobia"
+                        "id": "hybrid_aquatic:thalassophobia"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1078,7 +1078,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:minor_luck"
+                        "id": "hybrid_aquatic:minor_luck"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1093,7 +1093,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:major_luck"
+                        "id": "hybrid_aquatic:major_luck"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1108,7 +1108,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:bleeding"
+                        "id": "hybrid_aquatic:bleeding"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1123,7 +1123,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:swimming"
+                        "id": "hybrid_aquatic:swimming"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1138,7 +1138,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:buoyancy"
+                        "id": "hybrid_aquatic:buoyancy"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1153,7 +1153,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:thorns"
+                        "id": "hybrid_aquatic:thorns"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1168,7 +1168,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:corrosion"
+                        "id": "hybrid_aquatic:corrosion"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"
@@ -1183,7 +1183,7 @@
                       },
                       {
                         "function": "minecraft:set_potion",
-                        "id": "hybrid-aquatic:blindness"
+                        "id": "hybrid_aquatic:blindness"
                       }
                     ],
                     "name": "minecraft:tipped_arrow"

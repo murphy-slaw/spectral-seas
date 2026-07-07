@@ -1,0 +1,15 @@
+{
+    "inheritFromItem": [
+        "hybrid_aquatic:seashell_pickaxe"
+    ],
+    "addItem": [
+        "hybrid_aquatic:seashell_axe",
+        "hybrid_aquatic:seashell_spear",
+        "hybrid_aquatic:seashell_hoe",
+        "hybrid_aquatic:seashell_shovel"
+    ],
+    "upgradesTo": [
+        "minecraft:iron",
+        "minecraft:gold"
+    ]
+}

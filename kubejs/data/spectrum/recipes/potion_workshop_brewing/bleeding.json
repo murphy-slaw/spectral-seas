@@ -4,9 +4,9 @@
     "item": "minecraft:nether_wart"
   },
   "ingredient2": {
-    "item": "hybrid-aquatic:shark_tooth"
+    "item": "hybrid_aquatic:shark_tooth"
   },
-  "effect": "hybrid-aquatic:bleeding",
+  "effect": "hybrid_aquatic:bleeding",
   "base_duration_ticks": 300,
   "potency_modifier": 0.0,
   "applicable_to_potions": true,

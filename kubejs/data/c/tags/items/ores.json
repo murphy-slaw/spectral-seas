@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "galosphere:silver_ore",
-        "galosphere:deepslate_silver_ore"
+        "galosphere:palladium_ore",
+        "galosphere:deepslate_palladium_ore"
     ]
 }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "tag": "spectral_seas:shells"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " NN",
+    " SN",
+    " S "
+  ],
+  "result": {
+    "item": "hybrid_aquatic:seashell_axe"
+  },
+  "show_notification": true
+}

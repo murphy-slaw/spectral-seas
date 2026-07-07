@@ -1,8 +1,8 @@
 {
     "values": [
-        "hybrid-aquatic:diving_helmet",
-        "hybrid-aquatic:diving_boots",
-        "hybrid-aquatic:diving_leggings",
-        "hybrid-aquatic:diving_suit"
+        "hybrid_aquatic:diving_helmet",
+        "hybrid_aquatic:diving_boots",
+        "hybrid_aquatic:diving_leggings",
+        "hybrid_aquatic:diving_suit"
     ]
 }

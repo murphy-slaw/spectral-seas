@@ -16,17 +16,17 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "hybrid-aquatic:pearl",
+                    "name": "hybrid_aquatic:pearl",
                     "weight": 1
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "hybrid-aquatic:shark_tooth",
+                    "name": "hybrid_aquatic:shark_tooth",
                     "weight": 1
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "hybrid-aquatic:gameplay/fishing/treasure",
+                    "name": "hybrid_aquatic:gameplay/fishing/treasure",
                     "weight": 1
                 }
             ]

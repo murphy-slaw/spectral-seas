@@ -1,13 +1,11 @@
-const $HybridAquaticEntityTypes = Java.loadClass(
-    'dev.hybridlabs.aquatic.entity.HybridAquaticEntityTypes'
-)
+const $HybridAquaticEntityTypes = Java.loadClass('dev.hybridlabs.aquatic.entity.HAEntityTypes')
 /** @type {Internal.EntityType} */
 const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK.get()
 
 //const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 //const $TurtleEntityType = $EntityType.TURTLE
 //const $SquidEntityType = $HybridAquaticEntityTypes.INSTANCE.VAMPIRE_SQUID
-const MONSTER_TYPES = ['hybrid-aquatic:great_white_shark', 'minecraft:turtle']
+const MONSTER_TYPES = ['hybrid_aquatic:great_white_shark', 'minecraft:turtle']
 const MONSTER_ENTITY_TYPES = [$SharkEntityType]
 
 const $BoatClass = Java.loadClass('net.minecraft.world.entity.vehicle.Boat')

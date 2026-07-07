@@ -39,7 +39,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "hybrid-aquatic:coconut_crab_claw"
+          "name": "hybrid_aquatic:coconut_crab_claw"
         }
       ],
       "rolls": 1.0

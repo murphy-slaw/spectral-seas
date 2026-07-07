@@ -6,7 +6,7 @@
   "ingredient2": {
     "item": "minecraft:kelp"
   },
-  "effect": "hybrid-aquatic:buoyancy",
+  "effect": "hybrid_aquatic:buoyancy",
   "base_duration_ticks": 200,
   "potency_modifier": 0.0,
   "applicable_to_potions": true,

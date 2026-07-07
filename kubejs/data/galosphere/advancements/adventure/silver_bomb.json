@@ -2,7 +2,7 @@
   "parent": "galosphere:adventure/silver_ingot",
   "display": {
     "icon": {
-      "item": "galosphere:silver_bomb"
+      "item": "galosphere:palladium_bomb"
     },
     "title": {
       "translate": "advancements.galosphere.silver_bomb.title"
@@ -22,7 +22,7 @@
         "items": [
           {
             "items": [
-              "galosphere:silver_bomb"
+              "galosphere:palladium_bomb"
             ]
           }
         ]

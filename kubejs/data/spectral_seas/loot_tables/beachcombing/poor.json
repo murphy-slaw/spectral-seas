@@ -21,7 +21,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "hybrid-aquatic:tube_sponge",
+                    "name": "hybrid_aquatic:tube_sponge",
                     "weight": 1
                 },
                 {

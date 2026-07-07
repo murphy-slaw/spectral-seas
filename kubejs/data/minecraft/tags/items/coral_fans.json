@@ -5,7 +5,7 @@
         "minecraft:bubble_coral_fan",
         "minecraft:fire_coral_fan",
         "minecraft:horn_coral_fan",
-        "hybrid-aquatic:lophelia_coral_fan",
-        "hybrid-aquatic:dead_thorn_coral_fan"
+        "hybrid_aquatic:lophelia_coral_fan",
+        "hybrid_aquatic:dead_thorn_coral_fan"
     ]
 }

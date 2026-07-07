@@ -4,9 +4,9 @@
     "item": "minecraft:nether_wart"
   },
   "ingredient2": {
-    "item": "hybrid-aquatic:barreleye"
+    "item": "hybrid_aquatic:barreleye"
   },
-  "effect": "hybrid-aquatic:clarity",
+  "effect": "hybrid_aquatic:clarity",
   "base_duration_ticks": 1200,
   "potency_modifier": 0.0,
   "applicable_to_potions": true,

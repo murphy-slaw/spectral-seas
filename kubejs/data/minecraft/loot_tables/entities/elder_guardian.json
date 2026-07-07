@@ -25,7 +25,7 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "hybrid-aquatic:prismarine_rod"
+          "name": "hybrid_aquatic:prismarine_rod"
         }
       ],
       "rolls": 1.0
@@ -115,7 +115,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "hybrid-aquatic:hybrid_crate"
+          "name": "hybrid_aquatic:hybrid_crate"
         }
       ]
     }

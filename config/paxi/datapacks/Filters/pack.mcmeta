@@ -70,8 +70,8 @@
 				"path": "worldgen/structure.*/underwater_fossils.json"
 			},
 			{
-				"namespace": "hybrid-aquatic",
-				"path": "hybrid-aquatic/sea_message"
+				"namespace": "hybrid_aquatic",
+				"path": "hybrid_aquatic/sea_message"
 			},
 			{
 				"namespace": "kaisyn",

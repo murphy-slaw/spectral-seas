@@ -1,11 +1,11 @@
 {
     "values": [
-        "hybrid-aquatic:button_coral_fan",
-        "hybrid-aquatic:leaf_coral_fan",
-        "hybrid-aquatic:lophelia_coral_fan",
-        "hybrid-aquatic:rose_coral_fan",
-        "hybrid-aquatic:sun_coral_fan",
-        "hybrid-aquatic:thorn_coral_fan",
+        "hybrid_aquatic:button_coral_fan",
+        "hybrid_aquatic:leaf_coral_fan",
+        "hybrid_aquatic:lophelia_coral_fan",
+        "hybrid_aquatic:rose_coral_fan",
+        "hybrid_aquatic:sun_coral_fan",
+        "hybrid_aquatic:thorn_coral_fan",
         "minecraft:brain_coral_fan",
         "minecraft:bubble_coral_fan",
         "minecraft:fire_coral_fan",

@@ -1,14 +1,14 @@
 {
     "values": [
-        "hybrid-aquatic:acacia_crate",
-        "hybrid-aquatic:bamboo_crate",
-        "hybrid-aquatic:birch_crate",
-        "hybrid-aquatic:cherry_crate",
-        "hybrid-aquatic:dark_oak_crate",
-        "hybrid-aquatic:hybrid_crate",
-        "hybrid-aquatic:jungle_crate",
-        "hybrid-aquatic:mangrove_crate",
-        "hybrid-aquatic:oak_crate",
-        "hybrid-aquatic:spruce_crate"
+        "hybrid_aquatic:acacia_crate",
+        "hybrid_aquatic:bamboo_crate",
+        "hybrid_aquatic:birch_crate",
+        "hybrid_aquatic:cherry_crate",
+        "hybrid_aquatic:dark_oak_crate",
+        "hybrid_aquatic:hybrid_crate",
+        "hybrid_aquatic:jungle_crate",
+        "hybrid_aquatic:mangrove_crate",
+        "hybrid_aquatic:oak_crate",
+        "hybrid_aquatic:spruce_crate"
     ]
 }

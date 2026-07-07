@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "hybrid-aquatic:seashell_spear",
+        "hybrid_aquatic:seashell_spear",
         "tridents_n_stuff:stone_spear",
         "tridents_n_stuff:iron_spear",
         "tridents_n_stuff:diamond_spear",

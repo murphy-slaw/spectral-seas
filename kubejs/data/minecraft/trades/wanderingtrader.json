@@ -1998,7 +1998,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:basking_shark_plushie"
+                "name": "hybrid_aquatic:basking_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2026,7 +2026,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:bull_shark_plushie"
+                "name": "hybrid_aquatic:bull_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2054,7 +2054,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:frilled_shark_plushie"
+                "name": "hybrid_aquatic:frilled_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2082,7 +2082,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:great_white_shark_plushie"
+                "name": "hybrid_aquatic:great_white_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2110,7 +2110,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:hammerhead_shark_plushie"
+                "name": "hybrid_aquatic:hammerhead_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2138,7 +2138,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:thresher_shark_plushie"
+                "name": "hybrid_aquatic:thresher_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2166,7 +2166,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:tiger_shark_plushie"
+                "name": "hybrid_aquatic:tiger_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
@@ -2194,7 +2194,7 @@
                     "function": "minecraft:set_count"
                   }
                 ],
-                "name": "hybrid-aquatic:whale_shark_plushie"
+                "name": "hybrid_aquatic:whale_shark_plushie"
               },
               "reward_experience": true,
               "trader_experience": 2.0
