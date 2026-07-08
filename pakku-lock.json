@@ -193,6 +193,51 @@
             ]
         },
         {
+            "pakku_id": "l0GmQc2d2PycnWmo",
+            "pakku_links": [
+                "YTct3lH6jqfJGMpl"
+            ],
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "addons-for-farmers-gui"
+            },
+            "name": {
+                "curseforge": "Add-ons for Farmer's GUI"
+            },
+            "id": {
+                "curseforge": "1513791"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersAddons.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8054/119/FarmersAddons.zip",
+                    "id": "8054119",
+                    "parent_id": "1513791",
+                    "hashes": {
+                        "sha1": "9ea36b7b1bbbfa0d8c02f3f77d527345abeacb16",
+                        "md5": "d6ebca83da4c0288c8e567edd5bcf6be"
+                    },
+                    "required_dependencies": [
+                        "918818"
+                    ],
+                    "size": 24531,
+                    "date_published": "2026-05-07T18:12:30.683Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nNQRqivMG93NNJcx",
             "type": "MOD",
             "side": "BOTH",
@@ -1647,6 +1692,70 @@
                     "required_dependencies": [],
                     "size": 654232,
                     "date_published": "2025-12-13T00:04:34.027Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VhjSeDCBqYcLLz7o",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "biolith",
+                "modrinth": "biolith"
+            },
+            "name": {
+                "curseforge": "Biolith",
+                "modrinth": "Biolith"
+            },
+            "id": {
+                "curseforge": "852512",
+                "modrinth": "iGEl6Crx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biolith-fabric-1.0.1-beta.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8255/538/biolith-fabric-1.0.1-beta.1.jar",
+                    "id": "8255538",
+                    "parent_id": "852512",
+                    "hashes": {
+                        "sha1": "a52e3880f50d50cd3b95b24348bb8b6a1f0ed673",
+                        "md5": "ac2c2e0a9ae171afb5e2f717168b8743"
+                    },
+                    "required_dependencies": [],
+                    "size": 152913,
+                    "date_published": "2026-06-16T00:09:23.757Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "biolith-fabric-1.0.1-beta.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/NikAXMfS/biolith-fabric-1.0.1-beta.1.jar",
+                    "id": "NikAXMfS",
+                    "parent_id": "iGEl6Crx",
+                    "hashes": {
+                        "sha512": "5f9b5fbedb7a7afa61653c9ee76c34b0ecd7f65dc4525d50874848587344384298c12ebafbbcb7ddca359e0f4ad27e709d75d02fd32fc60de4d566e801651ca7",
+                        "sha1": "a52e3880f50d50cd3b95b24348bb8b6a1f0ed673"
+                    },
+                    "required_dependencies": [],
+                    "size": 152913,
+                    "date_published": "2026-06-16T00:09:23.152472Z"
                 }
             ]
         },
@@ -5597,9 +5706,9 @@
                         "sha1": "67208d4ef2fe6a691f2cf863139077dd4b1d9c8f"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "CVT4pFB2",
-                        "J81TRJWm",
-                        "P7dR8mSH"
+                        "J81TRJWm"
                     ],
                     "size": 4472279,
                     "date_published": "2025-11-24T08:22:34.741788Z"
@@ -5628,6 +5737,68 @@
                     ],
                     "size": 4472279,
                     "date_published": "2025-11-24T08:22:25.760Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YTct3lH6jqfJGMpl",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "farmergui",
+                "modrinth": "farmergui"
+            },
+            "name": {
+                "curseforge": "Farmer GUI",
+                "modrinth": "Farmer GUI"
+            },
+            "id": {
+                "curseforge": "918818",
+                "modrinth": "HtpG3F7r"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Farmer GUI 1.20.1 [1.7.8].zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20",
+                        "1.20-Snapshot"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7389/248/Farmer GUI 1.20.1 [1.7.8].zip",
+                    "id": "7389248",
+                    "parent_id": "918818",
+                    "hashes": {
+                        "sha1": "d4cfafa3bd15f2b57322c66e5a0dd1590cd9e137",
+                        "md5": "febcfbba5cbb0b81a9aff4c8e757c6d6"
+                    },
+                    "required_dependencies": [],
+                    "size": 3083327,
+                    "date_published": "2025-12-28T17:41:50.713Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Farmer GUI 1.20.1 [1.7.8].zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HtpG3F7r/versions/Osumidan/Farmer GUI 1.20.1 [1.7.8].zip",
+                    "id": "Osumidan",
+                    "parent_id": "HtpG3F7r",
+                    "hashes": {
+                        "sha512": "9070389ea7dc0766dd89518f0632795d4eab9ef72c38459ad22b69fa914e65c30168bbaacc6656298bd767f14d2efcfe65d4b12ce5475695318b19d1f0f4102f",
+                        "sha1": "d4cfafa3bd15f2b57322c66e5a0dd1590cd9e137"
+                    },
+                    "required_dependencies": [],
+                    "size": 3083327,
+                    "date_published": "2026-01-01T15:27:37.505688Z"
                 }
             ]
         },
@@ -6334,7 +6505,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Galosphere-1.20.1-1.4.1-Fabric.jar",
+                    "file_name": "Galosphere-1.20.1-1.5.2-Fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6342,20 +6513,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/WC7WYZmU/Galosphere-1.20.1-1.4.1-Fabric.jar",
-                    "id": "WC7WYZmU",
+                    "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/Jqxb7gnx/Galosphere-1.20.1-1.5.2-Fabric.jar",
+                    "id": "Jqxb7gnx",
                     "parent_id": "Kn7xyQ1v",
                     "hashes": {
-                        "sha512": "5dc5b6a9aaa8ab3c05f0a13a570deb25cdca967689e146c5c23e9dd53d8cf75e6dcd56d7e834c2b7c849d46f5cae790c22a6411cbdd2bf934f9cb495151e83e1",
-                        "sha1": "5960ffb69260565652c92ea00526ed56f6dd4688"
+                        "sha512": "31a44f05c9b468bfe73ad2468608d36c3ddb7f3afed0ea6529314abe5a16358550545be95cc6eb49bb7d49b39d0cb5d03b16927fb44467021f571155142bf466",
+                        "sha1": "f060f11e449686e26be8219281e479dcb3eb3ec2"
                     },
                     "required_dependencies": [],
-                    "size": 35112665,
-                    "date_published": "2023-12-26T06:46:28.258454Z"
+                    "size": 35715508,
+                    "date_published": "2026-06-23T13:36:09.789469Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Galosphere-1.20.1-1.4.1-Fabric.jar",
+                    "file_name": "Galosphere-1.20.1-1.5.2-Fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6363,16 +6534,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4983/870/Galosphere-1.20.1-1.4.1-Fabric.jar",
-                    "id": "4983870",
+                    "url": "https://edge.forgecdn.net/files/8306/362/Galosphere-1.20.1-1.5.2-Fabric.jar",
+                    "id": "8306362",
                     "parent_id": "631098",
                     "hashes": {
-                        "sha1": "5960ffb69260565652c92ea00526ed56f6dd4688",
-                        "md5": "787517df0c5d1c7eef431ef2a50aaacd"
+                        "sha1": "f060f11e449686e26be8219281e479dcb3eb3ec2",
+                        "md5": "efab08f52569694d54c4d291a6616e0d"
                     },
                     "required_dependencies": [],
-                    "size": 35112665,
-                    "date_published": "2023-12-26T06:47:09.857Z"
+                    "size": 35715508,
+                    "date_published": "2026-06-23T13:35:07.253Z"
                 }
             ]
         },
@@ -7050,6 +7221,9 @@
         },
         {
             "pakku_id": "8lnlkV731uyBcjXh",
+            "pakku_links": [
+                "VhjSeDCBqYcLLz7o"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7067,7 +7241,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7075,20 +7249,27 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/ilV3D2yr/[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
-                    "id": "ilV3D2yr",
+                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/dtXURzIt/[1.20.1-Fabric] Hybrid Aquatic 1.6.4.jar",
+                    "id": "dtXURzIt",
                     "parent_id": "HH4FjUqN",
                     "hashes": {
-                        "sha512": "a3f86f201cecd0d2bb89dff7ec9a9f944f1a26db48aa6e88f4327eed4574d77c1bb881ef824c83cc600ff240a3df071feb1ecae277c390412145023bca2ec4d8",
-                        "sha1": "5449e902be5d4faf4d94371a398720c9e6cb4224"
+                        "sha512": "a44650027f40e0929844b73625c95a5486285a648c4383e4120025db7b44912d2f2277e83618e878eaeb508ccdc3177a27b3c65d135b3e545b5a2c01cdb2f2ab",
+                        "sha1": "b7d33fc9b9aadfb02d4fa85e5491e31c81965b03"
                     },
-                    "required_dependencies": [],
-                    "size": 3382958,
-                    "date_published": "2025-12-25T00:12:48.887003Z"
+                    "required_dependencies": [
+                        "Ha28R6CL",
+                        "P7dR8mSH",
+                        "5aaWibi9",
+                        "XaDC71GB",
+                        "8BmcQJ2H",
+                        "iGEl6Crx"
+                    ],
+                    "size": 6161870,
+                    "date_published": "2026-06-27T09:03:44.521565Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7096,19 +7277,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7374/788/[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
-                    "id": "7374788",
+                    "url": "https://edge.forgecdn.net/files/8328/263/[1.20.1-Fabric] Hybrid Aquatic 1.6.4.jar",
+                    "id": "8328263",
                     "parent_id": "834427",
                     "hashes": {
-                        "sha1": "5449e902be5d4faf4d94371a398720c9e6cb4224",
-                        "md5": "9848790d2a866441ef332770aaa409c1"
+                        "sha1": "b7d33fc9b9aadfb02d4fa85e5491e31c81965b03",
+                        "md5": "079050058e860c5886ce1d02d68ee18f"
                     },
                     "required_dependencies": [
+                        "341284",
+                        "936015",
                         "388172",
-                        "936015"
+                        "852512",
+                        "308769"
                     ],
-                    "size": 3382958,
-                    "date_published": "2025-12-25T00:14:20.213Z"
+                    "size": 6161870,
+                    "date_published": "2026-06-27T09:05:00.170Z"
                 }
             ]
         },
@@ -10153,6 +10337,77 @@
                     ],
                     "size": 24987755,
                     "date_published": "2025-09-02T16:32:17.047Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VQ0xQZhFjqAPs5jm",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl",
+                "2UrtqSdLHICw6prW"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "modern-world-creation",
+                "curseforge": "modernworldcreation"
+            },
+            "name": {
+                "modrinth": "Modern World Creation",
+                "curseforge": "Modern World Creation"
+            },
+            "id": {
+                "modrinth": "xHskr2cS",
+                "curseforge": "485245"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xHskr2cS/versions/nBbtnbel/modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "id": "nBbtnbel",
+                    "parent_id": "xHskr2cS",
+                    "hashes": {
+                        "sha512": "bafd6c8cc82652a7607484e156697f3c8cb989ab3168c192a97994f055e7f59197dd50e94457abd3f68e09f4fa835909df54c37902e6f37372446e4a29249517",
+                        "sha1": "381303752404a4cea8a21e16e60970518cc08af0"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "J81TRJWm"
+                    ],
+                    "size": 679401,
+                    "date_published": "2025-03-11T16:32:18.043188Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6292/692/modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "id": "6292692",
+                    "parent_id": "485245",
+                    "hashes": {
+                        "sha1": "381303752404a4cea8a21e16e60970518cc08af0",
+                        "md5": "fe8fc5add97b168435ed5de5158658bc"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "416797"
+                    ],
+                    "size": 679401,
+                    "date_published": "2025-03-11T16:32:11.937Z"
                 }
             ]
         },
@@ -14736,49 +14991,6 @@
                     ],
                     "size": 545890,
                     "date_published": "2025-03-14T02:42:40.396833Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "elcBnKuEWHKSDVT8",
-            "pakku_links": [
-                "RTZBmFqX5btZwNKp"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "spreadspawnpoints"
-            },
-            "name": {
-                "modrinth": "Spread Spawnpoints"
-            },
-            "id": {
-                "modrinth": "NSuTfWct"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "spreadspawnpoints-fabric-1.1.0-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NSuTfWct/versions/27YmMTI4/spreadspawnpoints-fabric-1.1.0-1.20.1.jar",
-                    "id": "27YmMTI4",
-                    "parent_id": "NSuTfWct",
-                    "hashes": {
-                        "sha512": "afecec37f395985fda3213e92bf95638d45889f6eab8ccd6ddd9b00db6402cf0158c93678091157e927ece2ba80ce3576ac66714255da1a4e8324558dc3683bf",
-                        "sha1": "1aa2f8db830db5751e972770337a400f0fbc42da"
-                    },
-                    "required_dependencies": [
-                        "lhGA9TYQ"
-                    ],
-                    "size": 112797,
-                    "date_published": "2025-03-01T18:37:02.172062Z"
                 }
             ]
         },
