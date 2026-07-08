@@ -1,7 +1,0 @@
-{
-    "type": "lithostitched:structure_template",
-    "config": {
-        "template": "spectral_seas:beachcomber_sand",
-        "processors": "minecraft:empty"
-    }
-}
