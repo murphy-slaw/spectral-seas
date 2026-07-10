@@ -18311,7 +18311,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "zipline-fabric-1.20.1-1.2.0.jar",
+                    "file_name": "zipline-fabric-1.20.1-1.3.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -18319,20 +18319,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/C1MoWQlb/versions/TzIu4DZO/zipline-fabric-1.20.1-1.2.0.jar",
-                    "id": "TzIu4DZO",
+                    "url": "https://cdn.modrinth.com/data/C1MoWQlb/versions/jqVbgM73/zipline-fabric-1.20.1-1.3.0.jar",
+                    "id": "jqVbgM73",
                     "parent_id": "C1MoWQlb",
                     "hashes": {
-                        "sha512": "ecdd88c573418c536b303c642ec1b0b109feb0adbe078e6847191e6ce355ac1cbcccf8d0ed8cb8ef9fa6c085e227657884bc8fd57d1438616281e13101ba00e8",
-                        "sha1": "1818760fceba5dd88bcc3c53698e57e65359dc72"
+                        "sha512": "b515258ed453815ef2f1c6aea5406c5566b4ff254d99b23bd32dab933fd37be9c9e272ada056bf3aadecbccae23a5040053b7d123f4ba4cb53a9e852d99d1d89",
+                        "sha1": "d7b25204114ad7fa43661e7045b85f835ce4403f"
                     },
                     "required_dependencies": [],
-                    "size": 64752,
-                    "date_published": "2026-04-19T20:33:28.477096Z"
+                    "size": 69540,
+                    "date_published": "2026-07-09T07:37:43.471325Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "zipline-fabric-1.20.1-1.2.0.jar",
+                    "file_name": "zipline-fabric-1.20.1-1.3.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -18340,16 +18340,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7952/574/zipline-fabric-1.20.1-1.2.0.jar",
-                    "id": "7952574",
+                    "url": "https://edge.forgecdn.net/files/8398/683/zipline-fabric-1.20.1-1.3.0.jar",
+                    "id": "8398683",
                     "parent_id": "1454717",
                     "hashes": {
-                        "sha1": "1818760fceba5dd88bcc3c53698e57e65359dc72",
-                        "md5": "6f502a0a616e790afb81e397d297eb7b"
+                        "sha1": "d7b25204114ad7fa43661e7045b85f835ce4403f",
+                        "md5": "84d436bb47b83f96f6c1d76cc999c37d"
                     },
                     "required_dependencies": [],
-                    "size": 64752,
-                    "date_published": "2026-04-19T20:33:25.257Z"
+                    "size": 69540,
+                    "date_published": "2026-07-09T07:37:42.780Z"
                 }
             ]
         },
