@@ -129,3 +129,6 @@ me.shedaniel.clothconfig2.gui.ClothConfigScreen {
 com.teamresourceful.resourcefulconfig.client.ConfigScreen {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
