@@ -3131,77 +3131,6 @@
             ]
         },
         {
-            "pakku_id": "4g04LhhOXkdbJVv7",
-            "pakku_links": [
-                "UnLygvvB3f8I0ZXI",
-                "7o68us7GxAShePto"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "crafting-tweaks",
-                "modrinth": "crafting-tweaks"
-            },
-            "name": {
-                "curseforge": "Crafting Tweaks",
-                "modrinth": "Crafting Tweaks"
-            },
-            "id": {
-                "curseforge": "233071",
-                "modrinth": "DMu0oBKf"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "craftingtweaks-fabric-1.20.1-18.2.8.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7454/493/craftingtweaks-fabric-1.20.1-18.2.8.jar",
-                    "id": "7454493",
-                    "parent_id": "233071",
-                    "hashes": {
-                        "sha1": "f0d7c1a670dd6131762efb4da7cb914806ddd7c1",
-                        "md5": "c4ce0095058c561c8ada05daf2c6abe3"
-                    },
-                    "required_dependencies": [
-                        "500525"
-                    ],
-                    "size": 228058,
-                    "date_published": "2026-01-13T13:09:56.607Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "craftingtweaks-fabric-1.20.1-18.2.8.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/OwtzQrKt/craftingtweaks-fabric-1.20.1-18.2.8.jar",
-                    "id": "OwtzQrKt",
-                    "parent_id": "DMu0oBKf",
-                    "hashes": {
-                        "sha512": "40f5ee5b4c368a870547f4901e11ebfc2401bc0dd6e779b26ff69cd8064ade1f0bafcc63cf0f54fc21f082e3e32a39c26c5672bf5f78da3e449df3698a8adf18",
-                        "sha1": "582209eb943e46bf674654b91bfbda7c78651aee"
-                    },
-                    "required_dependencies": [
-                        "MBAkmtvl"
-                    ],
-                    "size": 228059,
-                    "date_published": "2026-01-13T13:09:20.637029Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "bfrc1PSZ98vqbsql",
             "type": "MOD",
             "side": "CLIENT",
@@ -4334,7 +4263,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.7.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4342,20 +4271,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/76Zti2GN/ecologics-fabric-1.20.1-2.2.4.jar",
-                    "id": "76Zti2GN",
+                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/BjQqWBo8/ecologics-fabric-1.20.1-2.2.7.jar",
+                    "id": "BjQqWBo8",
                     "parent_id": "NCKpPR0Z",
                     "hashes": {
-                        "sha512": "699d13e96a0644d023945919adb1e19e7c00775ad5a7b7ba38388bef4798acdb3fba84a7fe17139e6f27fe14af4e942058d9c87b17601fbae92f0107dc5a2eef",
-                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7"
+                        "sha512": "1ee38a682376c9fe485875ccc0eda99eaa58460028c6482f676a11f7bbc6b6eb34435501e3797a754d7f004ff15b8a462eb18b9b4b99f803f2bfca1bcd9cf6e7",
+                        "sha1": "2c0e48df8b853d534df5497677f97779fefe5a41"
                     },
                     "required_dependencies": [],
-                    "size": 2831307,
-                    "date_published": "2026-01-18T08:04:28.190259Z"
+                    "size": 2869908,
+                    "date_published": "2026-07-01T14:22:09.286971Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.7.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4363,16 +4292,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7479/469/ecologics-fabric-1.20.1-2.2.4.jar",
-                    "id": "7479469",
+                    "url": "https://edge.forgecdn.net/files/8350/218/ecologics-fabric-1.20.1-2.2.7.jar",
+                    "id": "8350218",
                     "parent_id": "570463",
                     "hashes": {
-                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7",
-                        "md5": "d6784d152613458e3159a12b3300fea4"
+                        "sha1": "2c0e48df8b853d534df5497677f97779fefe5a41",
+                        "md5": "68b5a32218c8a36dad9d33dc182c70ac"
                     },
                     "required_dependencies": [],
-                    "size": 2831307,
-                    "date_published": "2026-01-18T07:58:48.047Z"
+                    "size": 2869908,
+                    "date_published": "2026-07-01T04:19:29.363Z"
                 }
             ]
         },
@@ -16096,7 +16025,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.0-hotfix.1.jar",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16104,23 +16033,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/NHc7HYLx/SubtleEffects-fabric-1.20.1-1.14.0-hotfix.1.jar",
-                    "id": "NHc7HYLx",
+                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/kLZGTwzI/SubtleEffects-fabric-1.20.1-1.14.3.jar",
+                    "id": "kLZGTwzI",
                     "parent_id": "4q8UOK1d",
                     "hashes": {
-                        "sha512": "d063ffcccd721879ddeb83b5bbab2df418409c26ef50ab1004852746bf4261ef189a4483f4224e68484abf465d72aad7fbf9b72953afc1686d995d5975a34dcc",
-                        "sha1": "4e8b18fc39b1dcf22bb86575cfd1e73d9d133e38"
+                        "sha512": "a9f6bd71df793cf9d584fb0dd40c2b86318cbf36d300f74d09de8f3f1d152512965370cb9a26b2ac1e614de91b65d29454d30c649f8c96ba10b4d79016d8d2b4",
+                        "sha1": "a354b469ecd3161db5b68706499e11fff53afb25"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "hYykXjDp"
+                        "hYykXjDp",
+                        "P7dR8mSH"
                     ],
-                    "size": 3301818,
-                    "date_published": "2026-03-25T00:41:30.408782Z"
+                    "size": 3340781,
+                    "date_published": "2026-04-29T04:37:51.289518Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.0-hotfix.1.jar",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16128,19 +16057,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7808/434/SubtleEffects-fabric-1.20.1-1.14.0-hotfix.1.jar",
-                    "id": "7808434",
+                    "url": "https://edge.forgecdn.net/files/8008/316/SubtleEffects-fabric-1.20.1-1.14.3.jar",
+                    "id": "8008316",
                     "parent_id": "1023913",
                     "hashes": {
-                        "sha1": "4e8b18fc39b1dcf22bb86575cfd1e73d9d133e38",
-                        "md5": "e0503da49bba6a86010bad267a5d7efb"
+                        "sha1": "a354b469ecd3161db5b68706499e11fff53afb25",
+                        "md5": "061917bd262a66d7c286e44c0ee7dd93"
                     },
                     "required_dependencies": [
-                        "1005914",
-                        "306612"
+                        "306612",
+                        "1005914"
                     ],
-                    "size": 3301818,
-                    "date_published": "2026-03-25T00:39:36.437Z"
+                    "size": 3340781,
+                    "date_published": "2026-04-29T04:29:18.007Z"
                 }
             ]
         },
