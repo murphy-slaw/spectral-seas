@@ -12668,7 +12668,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "connectiblechains-fabric-1.20.1-1.2.5.jar",
+                    "file_name": "connectiblechains-fabric-1.20.1-2.2.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -12676,22 +12676,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/rC8aCKKz/connectiblechains-fabric-1.20.1-1.2.5.jar",
-                    "id": "rC8aCKKz",
+                    "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/taLP4WFt/connectiblechains-fabric-1.20.1-2.2.3.jar",
+                    "id": "taLP4WFt",
                     "parent_id": "5pzBXDS3",
                     "hashes": {
-                        "sha512": "b62ca3db7ba7c3b07dd9d54a4dfc9c36a2c6facbe2c13989382dd9eadeeaaddbc96fd7f940050aa65797be6d3db82d1d1f6e1d6d850efb70976e7faa96f1601c",
-                        "sha1": "229d091dcf59ee239edc6a481fdd94b76a51b8d8"
+                        "sha512": "bf38200461c1b5c5f5d4a8bab8312c1c1fa5a4b2ba810cdd58ab81da8f8ff09ae17ede1732816555666b5563bbfd04569c33be2f962fa0cea064ff99b4b7b72e",
+                        "sha1": "bdb86410bc34be4344b41ae9707e696bc1075e97"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 160200,
-                    "date_published": "2026-03-04T19:27:53.233492Z"
+                    "size": 202992,
+                    "date_published": "2026-06-23T22:56:07.753599Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "connectiblechains-fabric-1.20.1-1.2.5.jar",
+                    "file_name": "connectiblechains-fabric-1.20.1-2.2.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -12699,18 +12699,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7711/347/connectiblechains-fabric-1.20.1-1.2.5.jar",
-                    "id": "7711347",
+                    "url": "https://edge.forgecdn.net/files/8309/342/connectiblechains-fabric-1.20.1-2.2.3.jar",
+                    "id": "8309342",
                     "parent_id": "1451848",
                     "hashes": {
-                        "sha1": "229d091dcf59ee239edc6a481fdd94b76a51b8d8",
-                        "md5": "245acb285a2764f817cd1c01ff1b8b84"
+                        "sha1": "bdb86410bc34be4344b41ae9707e696bc1075e97",
+                        "md5": "3d65b46f6dc890310590db78e3fba81c"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 160200,
-                    "date_published": "2026-03-04T19:27:53.097Z"
+                    "size": 202992,
+                    "date_published": "2026-06-23T22:56:07.633Z"
                 }
             ]
         },
