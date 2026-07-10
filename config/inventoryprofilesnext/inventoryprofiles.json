@@ -32,6 +32,31 @@
             }
         }
     },
+    "AutoRefillSettings": {
+        "disable_for_drop_item": {
+            "value": true
+        },
+        "ignore_locked_slots": false,
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "visual_durability_notification": {
+            "value": false
+        },
+        "number_of_notifications": 1,
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        }
+    },
     "ScrollSettings": {
         "temp_disable": {
             "main": {
