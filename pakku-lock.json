@@ -7098,7 +7098,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "horseman-1.20.1-1.3.15-fabric.jar",
+                    "file_name": "horseman-1.20.1-1.3.16-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7107,23 +7107,23 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qIv5FhAA/versions/Z11QwqVo/horseman-1.20.1-1.3.15-fabric.jar",
-                    "id": "Z11QwqVo",
+                    "url": "https://cdn.modrinth.com/data/qIv5FhAA/versions/XcbCnLW5/horseman-1.20.1-1.3.16-fabric.jar",
+                    "id": "XcbCnLW5",
                     "parent_id": "qIv5FhAA",
                     "hashes": {
-                        "sha512": "815e5b76974c5e3aad559ee89d5407c4d156f82b3dd91faebc2d492ff8e1f8fb0960726c62c44d7edd8bf9d4bd271030f8409c229cefa1beddd6ed2fb9c5b7e1",
-                        "sha1": "6b055127fbbe95515fdeec4342ad11ba35eb3cec"
+                        "sha512": "07c2616fba2ebee69904aa2016f1d524c986e662a6fd752004c94b0b5d156e2098d5c77b94b7aebb39dc130d05b86d734d833946557287b06d2f3fc85f38b1ed",
+                        "sha1": "639e31f211c26f1728549bf838a7b2632deaee6d"
                     },
                     "required_dependencies": [
-                        "ohNO6lps",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "ohNO6lps"
                     ],
-                    "size": 316237,
-                    "date_published": "2026-02-19T21:03:24.757493Z"
+                    "size": 313734,
+                    "date_published": "2026-06-22T09:55:47.249280Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "horseman-1.20.1-1.3.15-fabric.jar",
+                    "file_name": "horseman-1.20.1-1.3.16-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7132,19 +7132,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7650/571/horseman-1.20.1-1.3.15-fabric.jar",
-                    "id": "7650571",
+                    "url": "https://edge.forgecdn.net/files/8299/150/horseman-1.20.1-1.3.16-fabric.jar",
+                    "id": "8299150",
                     "parent_id": "1082085",
                     "hashes": {
-                        "sha1": "6b055127fbbe95515fdeec4342ad11ba35eb3cec",
-                        "md5": "52a6ac1a8ff1422b5f1967ba01634703"
+                        "sha1": "639e31f211c26f1728549bf838a7b2632deaee6d",
+                        "md5": "0fe0fad1c673a092ddb8a7b3fb5ccf71"
                     },
                     "required_dependencies": [
-                        "547434",
-                        "306612"
+                        "306612",
+                        "547434"
                     ],
-                    "size": 316237,
-                    "date_published": "2026-02-19T21:03:25.147Z"
+                    "size": 313734,
+                    "date_published": "2026-06-22T09:55:47.440Z"
                 }
             ]
         },
