@@ -2823,7 +2823,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Companion-1.20.1-Fabric-5.3.1.jar",
+                    "file_name": "Companion-1.20.1-Fabric-5.4.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2832,22 +2832,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/i29UD4vR/Companion-1.20.1-Fabric-5.3.1.jar",
-                    "id": "i29UD4vR",
+                    "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/h9OKCOHX/Companion-1.20.1-Fabric-5.4.1.jar",
+                    "id": "h9OKCOHX",
                     "parent_id": "4w0EzGRW",
                     "hashes": {
-                        "sha512": "ff44765c81384609bb65065a3594da8a2be3716ef08f0599a0184fc991b959049512ea0eb8f14c2083f68698bcb5a2af1f3da4a145c052cc281c5d86f2db3777",
-                        "sha1": "2b599a19bf3ba8a439d7a21e98539b4d096e36a5"
+                        "sha512": "affcc2d3cfa2871bdf936b2d222f4e34dee9e53d1b8a8ad0055bc71ec14731c969095b3ca6e5b11fea3b7faeb8541c2abb1688c172081716a0df8e9d3a75aea3",
+                        "sha1": "6c7453aa2a31472ab62bf68976695f3599a7821e"
                     },
                     "required_dependencies": [
                         "ufdDoWPd"
                     ],
-                    "size": 48343,
-                    "date_published": "2025-09-07T09:22:17.669598Z"
+                    "size": 49343,
+                    "date_published": "2026-06-05T14:07:58.307846Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Companion-1.20.1-Fabric-5.3.1.jar",
+                    "file_name": "Companion-1.20.1-Fabric-5.4.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2856,18 +2856,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6971/912/Companion-1.20.1-Fabric-5.3.1.jar",
-                    "id": "6971912",
+                    "url": "https://edge.forgecdn.net/files/8200/890/Companion-1.20.1-Fabric-5.4.1.jar",
+                    "id": "8200890",
                     "parent_id": "560280",
                     "hashes": {
-                        "sha1": "2b599a19bf3ba8a439d7a21e98539b4d096e36a5",
-                        "md5": "0d9a3889126267dffa1d6f76b7f3863f"
+                        "sha1": "6c7453aa2a31472ab62bf68976695f3599a7821e",
+                        "md5": "28c519c8caf71e70ab526b3a177bb3a4"
                     },
                     "required_dependencies": [
                         "549404"
                     ],
-                    "size": 48343,
-                    "date_published": "2025-09-07T09:22:13.853Z"
+                    "size": 49343,
+                    "date_published": "2026-06-05T14:07:54.993Z"
                 }
             ]
         },
