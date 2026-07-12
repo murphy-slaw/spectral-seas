@@ -30,7 +30,7 @@ LootJS.modifiers((event) => {
     )
 
     event.addLootTableModifier('chests/shipwreck_treasure').addLoot(
-        LootEntry.of('hybrid-aquatic:prismarine_rod').when((c) => c.randomChance(0.1)),
+        LootEntry.of('hybrid_aquatic:prismarine_rod').when((c) => c.randomChance(0.1)),
         LootEntry.of('nautilus_shell')
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),

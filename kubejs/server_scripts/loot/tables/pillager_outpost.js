@@ -105,12 +105,12 @@ const armoryCache = (ctx) => {
 /** @param {Internal.LootContextJS} ctx */
 const supplyChest = (ctx) => {
     return [].concat([
-        LootEntry.of('hybrid-aquatic:cooked_fish_steak')
+        LootEntry.of('hybrid_aquatic:cooked_fish_steak')
             .when((c) => {
                 c.randomChance(0.3)
             })
             .limitCount([2, 5]),
-        LootEntry.of('hybrid-aquatic:cooked_fish_meat')
+        LootEntry.of('hybrid_aquatic:cooked_fish_meat')
             .when((c) => {
                 c.randomChance(0.7)
             })

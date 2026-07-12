@@ -57,7 +57,7 @@ spawn.additional-checks="yes"
 repeat=400
 
 [[mob]]
-name="hybrid-aquatic:hermit_crab"
+name="hybrid_aquatic:hermit_crab"
 [[mob.rule]]
 name="fewer-hermit-crabs"
 type="natural"
@@ -67,12 +67,12 @@ run=33
 name="ecologics:coconut_crab"
 [[mob.rule]]
 type="all"
-spawn.convert = "hybrid-aquatic:coconut_crab"
+spawn.convert = "hybrid_aquatic:coconut_crab"
 set.size=[200,300]
 run=100
 
 [[mob]]
-name="hybrid-aquatic:coconut_crab"
+name="hybrid_aquatic:coconut_crab"
 [[mob.rule]]
 type="natural"
 set.size=[200,400]
@@ -96,7 +96,7 @@ set.health=40
 [[mob]]
 name="frycmobvariants:corsair"
 [[mob.rule]]
-spawn.count=[1,2]
+spawn.count=1
 
 [[mob]]
 name="*"

@@ -50,7 +50,7 @@ const shaman = (ctx) => {
         LootEntry.of('fermented_spider_eye')
             .when((c) => c.randomChance(0.7))
             .limitCount([2, 4]),
-        LootEntry.of('hybrid-aquatic:jungle_lily_pad')
+        LootEntry.of('hybrid_aquatic:jungle_lily_pad')
             .when((c) => c.randomChance(0.7))
             .limitCount([2, 4]),
         LootEntry.of('red_mushroom')
@@ -140,10 +140,10 @@ const tribalWealth = (ctx) => {
         LootEntry.of('golden_apple')
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),
-        LootEntry.of('hybrid-aquatic:pearl')
+        LootEntry.of('hybrid_aquatic:pearl')
             .when((c) => c.randomChance(0.5))
             .limitCount([1, 2]),
-        LootEntry.of('hybrid-aquatic:black_pearl').when((c) => c.randomChance(0.1)),
+        LootEntry.of('hybrid_aquatic:black_pearl').when((c) => c.randomChance(0.1)),
     ]
 }
 

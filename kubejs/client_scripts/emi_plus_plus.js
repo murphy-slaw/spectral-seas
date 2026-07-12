@@ -37,7 +37,7 @@ EmiPlusPlusEvents.registerGroups((event) => {
     event.register('spectral_seas:carpets', '#spectral_seas:carpet')
     event.register('spectral_seas:fishes', '#minecraft:fishes')
     event.register('spectral_seas:mob_heads', '#c:mob_heads')
-    event.register('spectral_seas:plushies', '#hybrid-aquatic:plushies')
+    event.register('spectral_seas:plushies', '#hybrid_aquatic:plushies')
     event.register('spectral_seas:rock_candies', '#spectrum:rock_candy')
     event.register('spectral_seas:sugar_sticks', '#spectral_seas:sugar_stick')
     event.register('spectral_seas:pedestals', '#spectrum:pedestals')

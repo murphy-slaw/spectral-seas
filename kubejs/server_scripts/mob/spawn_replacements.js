@@ -71,7 +71,7 @@ EntityEvents.spawned((event) => {
         })
     }
 
-    if (entity.type === 'hybrid-aquatic:karkinos') {
+    if (entity.type === 'hybrid_aquatic:karkinos') {
         console.debug('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes$BASE.getScaleData(entity).setScale(3)
     }
