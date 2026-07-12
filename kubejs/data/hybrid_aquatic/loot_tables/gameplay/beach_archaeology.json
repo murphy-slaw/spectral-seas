@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:archaeology",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "spectral_seas:beachcombing/poor",
+                    "weight": 3
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "spectral_seas:beachcombing/good",
+                    "weight": 4
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "spectral_seas:beachcombing/great",
+                    "weight": 2
+                }
+            ]
+        }
+    ]
+}

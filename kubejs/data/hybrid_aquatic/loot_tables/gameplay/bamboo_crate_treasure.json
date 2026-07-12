@@ -175,12 +175,42 @@
               "count": {
                 "type": "minecraft:uniform",
                 "max": 32.0,
-                "min": 8.0
+                "min": 16.0
               },
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:mangrove_log"
+          "name": "minecraft:bamboo"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:spyglass"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:sniffer_egg"
         },
         {
           "type": "minecraft:item",
@@ -195,7 +225,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:mangrove_propagule"
+          "name": "minecraft:torchflower_seeds"
         },
         {
           "type": "minecraft:item",
@@ -204,17 +234,17 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
+                "max": 12.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:frogspawn"
+          "name": "minecraft:experience_bottle"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "hybrid_aquatic:gameplay/mangrove_crate_treasure"
+  "random_sequence": "hybrid_aquatic:gameplay/bamboo_crate_treasure"
 }
