@@ -28,6 +28,14 @@
     "syncRegistries": true,
     "crossBiomeBorder": false,
     "useHeightmapTemp": true,
+    "weatherIgnoreBlocks": {
+      "entries": [
+        "#minecraft:fences",
+        "#minecraft:all_signs",
+        "minecraft:barrier"
+      ],
+      "isWhitelist": true
+    },
     "doSpawnHeightLimit": false,
     "spawnHeightLimit": 0
   },

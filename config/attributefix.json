@@ -165,6 +165,17 @@
         "value": 1000000
       }
     },
+    "minecraft:air_drag_modifier": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "creeperoverhaul:reach_distance": {
       "enabled": false,
       "min": {
@@ -251,6 +262,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "minecraft:bounciness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additionalentityattributes:generic.jump_height": {
@@ -361,6 +383,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "minecraft:friction_modifier": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "minecraft:generic.max_health": {
