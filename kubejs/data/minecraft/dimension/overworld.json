@@ -41,156 +41,6 @@
             ],
             "continentalness": [
               -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_frozen_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_cold_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_lukewarm_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:warm_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.55,
               -0.455
             ],
             "erosion": [
@@ -220,7 +70,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -250,7 +100,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -280,7 +130,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -310,7 +160,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.19
             ],
             "erosion": [
@@ -21401,7 +21251,7 @@
             ],
             "continentalness": [
               -1.2,
-              0.7000000000000001
+              0.5
             ],
             "erosion": [
               -1,
@@ -21409,19 +21259,19 @@
             ],
             "temperature": [
               -1,
-              -0.15
+              -0.45
             ],
             "humidity": [
-              -0.1,
-              0.1
+              -1,
+              1
             ],
             "depth": [
               0.2,
-              0.55
+              0.4
             ],
             "offset": 0
           },
-          "biome": "galosphere:lichen_caves"
+          "biome": "yungscavebiomes:frosted_caves"
         },
         {
           "parameters": {
@@ -21431,7 +21281,7 @@
             ],
             "continentalness": [
               -1.2,
-              0.7000000000000001
+              0.5
             ],
             "erosion": [
               -1,
@@ -21447,7 +21297,7 @@
             ],
             "depth": [
               0.2,
-              0.55
+              0.4
             ],
             "offset": 0
           },
@@ -21461,7 +21311,37 @@
             ],
             "continentalness": [
               -1.2,
-              0.7000000000000001
+              0.5
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.7000000000000001
+            ],
+            "depth": [
+              0.2,
+              0.4
+            ],
+            "offset": 0
+          },
+          "biome": "galosphere:pink_salt_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -1.2,
+              0.5
             ],
             "erosion": [
               -1,
@@ -21477,7 +21357,7 @@
             ],
             "depth": [
               0.2,
-              0.55
+              0.4
             ],
             "offset": 0
           },
@@ -21491,7 +21371,7 @@
             ],
             "continentalness": [
               -1.2,
-              0.7000000000000001
+              0.5
             ],
             "erosion": [
               -1,
@@ -21502,46 +21382,16 @@
               1
             ],
             "humidity": [
-              -1,
-              -0.7000000000000001
+              -0.7000000000000001,
+              -0.1
             ],
             "depth": [
               0.2,
-              0.55
+              0.4
             ],
             "offset": 0
           },
-          "biome": "galosphere:pink_salt_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              0.7000000000000001,
-              1
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.2,
-              0.55
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dripstone_caves"
+          "biome": "yungscavebiomes:lost_caves"
         },
         {
           "parameters": {
@@ -21551,7 +21401,127 @@
             ],
             "continentalness": [
               -1.2,
-              -1
+              0.5
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.4
+            ],
+            "offset": 0
+          },
+          "biome": "yungscavebiomes:lost_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              0.5,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.4
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dripstone_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              0.5
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.4
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:bioshroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              0.5
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.4
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.19
             ],
             "erosion": [
               0.05,
@@ -21566,7 +21536,7 @@
               -0.7000000000000001
             ],
             "depth": [
-              0.55,
+              0.4,
               0.9
             ],
             "offset": 0
@@ -21580,42 +21550,12 @@
               1
             ],
             "continentalness": [
-              -0.455,
-              0.03
+              -0.7000000000000001,
+              -0.19
             ],
             "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.55,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "galosphere:lichen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
+              0.05,
               1
-            ],
-            "continentalness": [
-              -0.455,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              -0.375
             ],
             "temperature": [
               -0.15,
@@ -21626,12 +21566,12 @@
               1
             ],
             "depth": [
-              0.55,
+              0.4,
               0.9
             ],
             "offset": 0
           },
-          "biome": "minecraft:lush_caves"
+          "biome": "regions_unexplored:ancient_delta"
         },
         {
           "parameters": {
@@ -21640,12 +21580,12 @@
               1
             ],
             "continentalness": [
-              0.3,
-              1
+              -0.455,
+              -0.11
             ],
             "erosion": [
               -1,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               -1,
@@ -21656,7 +21596,37 @@
               1
             ],
             "depth": [
-              0.55,
+              0.4,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "galosphere:lichen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.3,
+              0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              -0.5
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.4,
               0.9
             ],
             "offset": 0
@@ -21670,11 +21640,41 @@
               1
             ],
             "continentalness": [
+              0.3,
+              0.5
+            ],
+            "erosion": [
+              -0.5,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.4,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:prismachasm"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
               0.7000000000000001,
               1
             ],
             "erosion": [
-              -0.2225,
+              -1,
               1
             ],
             "temperature": [
@@ -21686,12 +21686,72 @@
               1
             ],
             "depth": [
-              0.55,
+              0.4,
               0.9
             ],
             "offset": 0
           },
           "biome": "minecraft:dripstone_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.5
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.4,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:prismachasm"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              0.5,
+              0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              -0.5
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.4,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "galosphere:crystal_canyons"
         },
         {
           "parameters": {
@@ -21731,156 +21791,6 @@
             ],
             "continentalness": [
               -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_frozen_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_cold_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:deep_lukewarm_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              -0.59
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:warm_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.55,
               -0.455
             ],
             "erosion": [
@@ -21910,7 +21820,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -21940,7 +21850,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -21970,7 +21880,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.455
             ],
             "erosion": [
@@ -22000,7 +21910,7 @@
               1
             ],
             "continentalness": [
-              -0.55,
+              -1,
               -0.19
             ],
             "erosion": [
@@ -43120,7 +43030,7 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -1.2,
               1
             ],
             "erosion": [
@@ -43141,12 +43051,42 @@
             ],
             "offset": 0
           },
-          "biome": "galosphere:crystal_canyons"
+          "biome": "regions_unexplored:scorching_caves"
         },
         {
           "parameters": {
             "weirdness": [
               -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "oceania:end_stone_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
               1
             ],
             "continentalness": [
@@ -43155,6 +43095,36 @@
             ],
             "erosion": [
               -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "regions_unexplored:scorching_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.05,
               1
             ],
             "temperature": [
