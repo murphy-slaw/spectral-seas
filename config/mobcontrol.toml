@@ -64,6 +64,14 @@ type="natural"
 run=33
 
 [[mob]]
+name="hybrid_aquatic:coconut_crab"
+[[mob.rule]]
+type="all"
+biome="oceania:rocky_beach"
+spawn.convert = "hybrid_aquatic:dungeness_crab"
+run=100
+
+[[mob]]
 name="ecologics:coconut_crab"
 [[mob.rule]]
 type="all"
