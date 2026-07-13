@@ -17,16 +17,5 @@
         "action": "replace_output",
         "output": "minecraft:beetroot_soup",
         "replacement": "spectral_seas:beetroot_soup"
-    },
-    {
-        "action": "replace_output",
-        "output": "ecologics:tropical_stew",
-        "replacement": "spectral_seas:tropical_stew"
-    },
-    {
-        "action": "replace_input",
-        "output": "ecologics:tropical_stew",
-        "target": "ecologics:crab_meat",
-        "replacement": "hybrid-aquatic:coconut_crab_claw"
     }
 ]
