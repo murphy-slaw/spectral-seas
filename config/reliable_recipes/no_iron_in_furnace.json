@@ -1,0 +1,19 @@
+[
+    {
+        "action": "remove_recipe",
+        "output": "minecraft:iron_ingot",
+        "type": "minecraft:smelting"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:blast_furnace",
+        "target": "minecraft:iron_ingot",
+        "replacement": "minecraft:polished_deepslate"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:blast_furnace",
+        "target": "minecraft:smooth_stone",
+        "replacement": "minecraft:copper_block"
+    }
+]
