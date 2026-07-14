@@ -1497,6 +1497,74 @@
             ]
         },
         {
+            "pakku_id": "TGnPVfT37sWfKNpf",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "betterdays",
+                "modrinth": "betterdays"
+            },
+            "name": {
+                "curseforge": "Better Days",
+                "modrinth": "Better Days"
+            },
+            "id": {
+                "curseforge": "895618",
+                "modrinth": "tPLE214j"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7046/760/betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "id": "7046760",
+                    "parent_id": "895618",
+                    "hashes": {
+                        "sha1": "9f37e454480ac89607f1040d55c6c8348ba07e04",
+                        "md5": "47122a2854da5a31fb26221d4d8c8c65"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 793234,
+                    "date_published": "2025-09-29T21:04:46.147Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tPLE214j/versions/cwWtzkRW/betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "id": "cwWtzkRW",
+                    "parent_id": "tPLE214j",
+                    "hashes": {
+                        "sha512": "bab13fac12a08f19d276407ce1d643af1529fe4a5220d1722aff6f444065fba5b1fffb04146137bf595256a75e4b67bbcd3c4e0e5122a741b4d7f59e0823afd6",
+                        "sha1": "9f37e454480ac89607f1040d55c6c8348ba07e04"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 793234,
+                    "date_published": "2025-09-29T21:04:48.057888Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0bR8U5qLR6s7SA9U",
             "type": "MOD",
             "side": "BOTH",
@@ -15675,82 +15743,6 @@
                     "required_dependencies": [],
                     "size": 8415,
                     "date_published": "2023-03-18T00:15:27.035114Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "BdKpnt41bB6gMZEf",
-            "pakku_links": [
-                "E0Hhuv5KSx1UNZJ0",
-                "RTZBmFqX5btZwNKp"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "stevesrealisticsleep",
-                "modrinth": "stevesrealisticsleep"
-            },
-            "name": {
-                "curseforge": "Steve's Realistic Sleep",
-                "modrinth": "Steve's Realistic Sleep"
-            },
-            "id": {
-                "curseforge": "616330",
-                "modrinth": "ZPywkPEo"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5962/702/stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar",
-                    "id": "5962702",
-                    "parent_id": "616330",
-                    "hashes": {
-                        "sha1": "023a11c8934d3146947a82fcd055aa5ed8e1dc82",
-                        "md5": "6a1d6ceaae090f4e1c4aff3b5c71f799"
-                    },
-                    "required_dependencies": [
-                        "348521",
-                        "306612"
-                    ],
-                    "size": 354986,
-                    "date_published": "2024-12-04T17:30:50.963Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ZPywkPEo/versions/W6XWL7Sh/stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar",
-                    "id": "W6XWL7Sh",
-                    "parent_id": "ZPywkPEo",
-                    "hashes": {
-                        "sha512": "347fb60f95aafab5808fbddac48dd97258cf234b13ccb905885a479f8fd6c9d3481a3020e2e3b548435a4f976a34d4c92ab6958b5839ad3e891ea94d5a543e36",
-                        "sha1": "023a11c8934d3146947a82fcd055aa5ed8e1dc82"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "lhGA9TYQ",
-                        "9s6osm5g"
-                    ],
-                    "size": 354986,
-                    "date_published": "2024-12-04T17:30:53.772174Z"
                 }
             ]
         },
