@@ -1,0 +1,58 @@
+[
+    {
+        "action": "remove_recipe",
+        "output": "minecraft:iron_ingot",
+        "type": "minecraft:smelting"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:blast_furnace",
+        "target": "minecraft:iron_ingot",
+        "replacement": "minecraft:polished_deepslate"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:blast_furnace",
+        "target": "minecraft:smooth_stone",
+        "replacement": "minecraft:copper_block"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:chain",
+        "target": "minecraft:iron_ingot",
+        "replacement": "minecraft:iron_nugget"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:flint_and_steel",
+        "target": "minecraft:iron_ingot",
+        "replacement": "minecraft:iron_nugget"
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:tripwire_hook",
+        "target": "minecraft:iron_ingot",
+        "replacement": [
+            "minecraft:iron_ingot",
+            "minecraft:copper_ingot"
+        ]
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:crossbow",
+        "target": "minecraft:iron_ingot",
+        "replacement": [
+            "minecraft:iron_ingot",
+            "minecraft:copper_ingot"
+        ]
+    },
+    {
+        "action": "replace_input",
+        "output": "tridents_n_stuff:harpoon_launcher",
+        "target": "minecraft:iron_ingot",
+        "replacement": [
+            "minecraft:iron_ingot",
+            "minecraft:copper_ingot"
+        ]
+    }
+]

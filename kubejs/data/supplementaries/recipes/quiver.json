@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "R": {
+      "item": "supplementaries:rope"
+    }
+  },
+  "pattern": [
+    "RL ",
+    "LL ",
+    "LL "
+  ],
+  "result": {
+    "item": "supplementaries:quiver"
+  },
+  "show_notification": true
+}
