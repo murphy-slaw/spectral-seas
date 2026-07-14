@@ -193,51 +193,6 @@
             ]
         },
         {
-            "pakku_id": "l0GmQc2d2PycnWmo",
-            "pakku_links": [
-                "YTct3lH6jqfJGMpl"
-            ],
-            "type": "RESOURCE_PACK",
-            "slug": {
-                "curseforge": "addons-for-farmers-gui"
-            },
-            "name": {
-                "curseforge": "Add-ons for Farmer's GUI"
-            },
-            "id": {
-                "curseforge": "1513791"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "FarmersAddons.zip",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8054/119/FarmersAddons.zip",
-                    "id": "8054119",
-                    "parent_id": "1513791",
-                    "hashes": {
-                        "sha1": "9ea36b7b1bbbfa0d8c02f3f77d527345abeacb16",
-                        "md5": "d6ebca83da4c0288c8e567edd5bcf6be"
-                    },
-                    "required_dependencies": [
-                        "918818"
-                    ],
-                    "size": 24531,
-                    "date_published": "2026-05-07T18:12:30.683Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "nNQRqivMG93NNJcx",
             "type": "MOD",
             "side": "BOTH",
