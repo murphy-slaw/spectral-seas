@@ -5020,6 +5020,206 @@
             ]
         },
         {
+            "pakku_id": "OPKWvLYXSCbSuWGn",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "epic-structures-dungeons",
+                "modrinth": "epic-structures-dungeons"
+            },
+            "name": {
+                "curseforge": "Epic Structures: Dungeons",
+                "modrinth": "Epic Structures: Dungeons"
+            },
+            "id": {
+                "curseforge": "1501318",
+                "modrinth": "t0YT91nL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Epic Dungeons 1.2.2.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8383/148/Epic Dungeons 1.2.2.jar",
+                    "id": "8383148",
+                    "parent_id": "1501318",
+                    "hashes": {
+                        "sha1": "e02b78b43d1ad5fa1826e40a7fb69bee828201e4",
+                        "md5": "a48d84388e45738e9ce67e5d12804ddd"
+                    },
+                    "required_dependencies": [],
+                    "size": 13016524,
+                    "date_published": "2026-07-06T20:04:58.160Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Epic Dungeons 1.2.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/gwmJ4Ez4/Epic Dungeons 1.2.2.jar",
+                    "id": "gwmJ4Ez4",
+                    "parent_id": "t0YT91nL",
+                    "hashes": {
+                        "sha512": "78d0554a4fa5147d3b091c7b96608031df63dbe186f2a1f4502fd8bb899191dc32b87d93cb27e189175d5b806f7fbd74ed56b990ca4d638097cdf2e204d2ff11",
+                        "sha1": "e02b78b43d1ad5fa1826e40a7fb69bee828201e4"
+                    },
+                    "required_dependencies": [],
+                    "size": 13016524,
+                    "date_published": "2026-07-06T20:09:08.248367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wzCBuwrjM9sL1Enf",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "epic-structures-jungle-temples",
+                "modrinth": "epic-structures-jungle-temples"
+            },
+            "name": {
+                "curseforge": "Epic Structures: Jungle Temples",
+                "modrinth": "Epic Structures: Jungle Temples"
+            },
+            "id": {
+                "curseforge": "1600197",
+                "modrinth": "Zs1qzXyd"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Epic Jungle Temples v1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8386/405/Epic Jungle Temples v1.0.1.jar",
+                    "id": "8386405",
+                    "parent_id": "1600197",
+                    "hashes": {
+                        "sha1": "1f5023e0958150e5115cd2bfb1a836c8e4cb7013",
+                        "md5": "8aea968765d499826f5a7343f39c4322"
+                    },
+                    "required_dependencies": [],
+                    "size": 4641017,
+                    "date_published": "2026-07-07T11:15:50.530Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Epic Jungle Temples v1.0.1.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Zs1qzXyd/versions/wtd1EZF9/Epic Jungle Temples v1.0.1.jar",
+                    "id": "wtd1EZF9",
+                    "parent_id": "Zs1qzXyd",
+                    "hashes": {
+                        "sha512": "5204f31bbfff8335fb0549ad72cf3b3fe994c4d0cb35a345f52763013eaec68c86f968a895076be94763316859241810256271e8f1d2bcf85a8c4a63bc2bf847",
+                        "sha1": "1f5023e0958150e5115cd2bfb1a836c8e4cb7013"
+                    },
+                    "required_dependencies": [],
+                    "size": 4641017,
+                    "date_published": "2026-07-07T11:14:56.916037Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uswnlBnl2stx4hY5",
             "pakku_links": [
                 "ZEolot0hEgaEEiDi"
@@ -6310,54 +6510,6 @@
             ]
         },
         {
-            "pakku_id": "2r8jEVlpQWrOhnMS",
-            "pakku_links": [
-                "YqFJ8l6UBlzM8O9G",
-                "zXaWgcexJGDOgsjl"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "fragmentum",
-                "modrinth": "fragmentum"
-            },
-            "name": {
-                "curseforge": "Fragmentum [Forge Edition]",
-                "modrinth": "Fragmentum"
-            },
-            "id": {
-                "curseforge": "1123970",
-                "modrinth": "49C5QgTK"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fragmentum-fabric-1.20.1-1.3.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/M5XHr0l7/fragmentum-fabric-1.20.1-1.3.0.jar",
-                    "id": "M5XHr0l7",
-                    "parent_id": "49C5QgTK",
-                    "hashes": {
-                        "sha512": "f4d8bdad425c841d6b0efb7f7f08a5f3523e964a5bc67439625ff4d1d8b6ae9f065184ccdad31479dbe9bece7d7f6aaee01346406477d213f41930e37a5d7a7e",
-                        "sha1": "f74137a938899576536bcee181bf9b4f2e8566b0"
-                    },
-                    "required_dependencies": [
-                        "ohNO6lps",
-                        "P7dR8mSH"
-                    ],
-                    "size": 2645095,
-                    "date_published": "2026-05-16T18:32:42.680190Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "6npG6yOuSsRYweq9",
             "pakku_links": [
                 "E3w4sDtObdJLRHAf"
@@ -7256,7 +7408,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.6.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.7.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7264,27 +7416,27 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/6F0kSAc6/[1.20.1-Fabric] Hybrid Aquatic 1.6.6.jar",
-                    "id": "6F0kSAc6",
+                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/UWZtYtRT/[1.20.1-Fabric] Hybrid Aquatic 1.6.7.jar",
+                    "id": "UWZtYtRT",
                     "parent_id": "HH4FjUqN",
                     "hashes": {
-                        "sha512": "6c778e8d7f3bff3f670f537bf2a6369c22a43348a116203e7f6468f7e8c2df2855c3db7a2dd2f73cc0f100d4841a2790004c7a68f9fac4fb8a4491d8ef7b5a6a",
-                        "sha1": "f7c1c81efa12cb8e71af9af5b1a033360fd0319d"
+                        "sha512": "dac2158c990d5b9956911a55f95cb39e57e77d780c193ecbc0e93fc2fd34f127f9f5e4e209cef27605755903b94357f3f9e9c2d73e0b005fc2e4d592e5604cb3",
+                        "sha1": "dc83211cfc142ad95bbd7fb34248f3813d3925f0"
                     },
                     "required_dependencies": [
-                        "5aaWibi9",
                         "XaDC71GB",
+                        "5aaWibi9",
                         "Ha28R6CL",
-                        "iGEl6Crx",
                         "8BmcQJ2H",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "iGEl6Crx"
                     ],
-                    "size": 6287838,
-                    "date_published": "2026-07-12T18:10:04.787615Z"
+                    "size": 6312074,
+                    "date_published": "2026-07-13T21:45:35.299062Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.6.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.7.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7292,12 +7444,12 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8420/384/[1.20.1-Fabric] Hybrid Aquatic 1.6.6.jar",
-                    "id": "8420384",
+                    "url": "https://edge.forgecdn.net/files/8427/232/[1.20.1-Fabric] Hybrid Aquatic 1.6.7.jar",
+                    "id": "8427232",
                     "parent_id": "834427",
                     "hashes": {
-                        "sha1": "f7c1c81efa12cb8e71af9af5b1a033360fd0319d",
-                        "md5": "d652abbe483a65956f37e7ea84761b62"
+                        "sha1": "dc83211cfc142ad95bbd7fb34248f3813d3925f0",
+                        "md5": "2b227ea76c176d9d9256f844fe83f7ba"
                     },
                     "required_dependencies": [
                         "308769",
@@ -7306,8 +7458,8 @@
                         "852512",
                         "341284"
                     ],
-                    "size": 6287838,
-                    "date_published": "2026-07-12T18:26:29.220Z"
+                    "size": 6312074,
+                    "date_published": "2026-07-13T21:38:53.333Z"
                 }
             ]
         },
@@ -9483,137 +9635,6 @@
                     "required_dependencies": [],
                     "size": 1318438,
                     "date_published": "2025-06-13T16:11:34.881253Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "luaRvjaPtpf9AanK",
-            "pakku_links": [
-                "2r8jEVlpQWrOhnMS"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "maestro-music",
-                "curseforge": "maestro"
-            },
-            "name": {
-                "modrinth": "Maestro",
-                "curseforge": "Maestro"
-            },
-            "id": {
-                "modrinth": "jcZX6rvP",
-                "curseforge": "1454351"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "maestro-fabric-1.20.1-3.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jcZX6rvP/versions/PrCp2DEx/maestro-fabric-1.20.1-3.0.0.jar",
-                    "id": "PrCp2DEx",
-                    "parent_id": "jcZX6rvP",
-                    "hashes": {
-                        "sha512": "bbd6c3db29a763359be88e95b3b38143bca8996f3a9eb59dec9d1fe72098fcf6e8d496641ed43ca3d110f4abc4472d17e212f93612062433544f2e577f67b565",
-                        "sha1": "8fb17acca4edb7d65e3296cb1e115a9da6e04562"
-                    },
-                    "required_dependencies": [
-                        "49C5QgTK"
-                    ],
-                    "size": 135623,
-                    "date_published": "2026-02-11T10:16:10.602763Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "maestro-fabric-1.20.1-3.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7608/486/maestro-fabric-1.20.1-3.0.0.jar",
-                    "id": "7608486",
-                    "parent_id": "1454351",
-                    "hashes": {
-                        "sha1": "8fb17acca4edb7d65e3296cb1e115a9da6e04562",
-                        "md5": "a106269ef8f97f9024a5fb2bebfd046b"
-                    },
-                    "required_dependencies": [
-                        "1123974"
-                    ],
-                    "size": 135623,
-                    "date_published": "2026-02-11T10:16:20.520Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "nK4nZqmvAW0jywbV",
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "maestro-overture",
-                "modrinth": "maestro-overture"
-            },
-            "name": {
-                "curseforge": "Maestro: Overture",
-                "modrinth": "Maestro: Overture"
-            },
-            "id": {
-                "curseforge": "1456190",
-                "modrinth": "UANtIOeC"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Maestro-Overture.zip",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7608/514/Maestro-Overture.zip",
-                    "id": "7608514",
-                    "parent_id": "1456190",
-                    "hashes": {
-                        "sha1": "2c160845278de3a1cc1b928fd37ca879732816ea",
-                        "md5": "a6be98aaa5765a3f5bdb4a12c5821d8f"
-                    },
-                    "required_dependencies": [
-                        "1454351"
-                    ],
-                    "size": 33577865,
-                    "date_published": "2026-02-11T10:21:07.467Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "Maestro-Overture.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UANtIOeC/versions/XwoPaAui/Maestro-Overture.zip",
-                    "id": "XwoPaAui",
-                    "parent_id": "UANtIOeC",
-                    "hashes": {
-                        "sha512": "10f05bf5e8fa5827871b623ccce188ab1243e52b475e8f716103167683d22bec82e07961f42907ba4016800a63cd5be5046d2c81f509a7fbbade33642f572ade",
-                        "sha1": "2c160845278de3a1cc1b928fd37ca879732816ea"
-                    },
-                    "required_dependencies": [],
-                    "size": 33577865,
-                    "date_published": "2026-02-11T10:18:52.314512Z"
                 }
             ]
         },
@@ -13088,7 +13109,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reliable_remover-fabric-1.20.1-2.4.2.jar",
+                    "file_name": "reliable_remover-fabric-1.20.1-2.4.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13096,22 +13117,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/XRzjfuSE/reliable_remover-fabric-1.20.1-2.4.2.jar",
-                    "id": "XRzjfuSE",
+                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/jnjCuh2P/reliable_remover-fabric-1.20.1-2.4.3.jar",
+                    "id": "jnjCuh2P",
                     "parent_id": "pLxsKvNt",
                     "hashes": {
-                        "sha512": "f979f7ab5acd04792e5fc505292afb2c2927bef74a3fb8fd6849feb95aa9fbed286560baa126c63ad383bfaf8c4d3130e252bc942563ec9d7a28a6a6a5f86c98",
-                        "sha1": "97276c6ce2876ba949dd804fb99a79b15fdea1bc"
+                        "sha512": "c917d746992789607c4b77044ee173b64c33f8534a78e4742a41bd347ce192a3de20b19a135453514ac7ff1180ef4c00b254d62094801b204a9cb6540af2ffbd",
+                        "sha1": "206e4708d091d450c16b6b0e742bbd4d98e64ca8"
                     },
                     "required_dependencies": [
                         "Hl4ARA1z"
                     ],
-                    "size": 93513,
-                    "date_published": "2026-07-12T06:09:55.766210Z"
+                    "size": 96971,
+                    "date_published": "2026-07-14T04:20:59.891282Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "reliable_remover-fabric-1.20.1-2.4.2.jar",
+                    "file_name": "reliable_remover-fabric-1.20.1-2.4.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13119,18 +13140,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8416/930/reliable_remover-fabric-1.20.1-2.4.2.jar",
-                    "id": "8416930",
+                    "url": "https://edge.forgecdn.net/files/8428/689/reliable_remover-fabric-1.20.1-2.4.3.jar",
+                    "id": "8428689",
                     "parent_id": "1420447",
                     "hashes": {
-                        "sha1": "97276c6ce2876ba949dd804fb99a79b15fdea1bc",
-                        "md5": "0bf47c8fac0288591e54dcf058c74c9b"
+                        "sha1": "206e4708d091d450c16b6b0e742bbd4d98e64ca8",
+                        "md5": "10cd7bbf0408fede3e03982ec4ac6915"
                     },
                     "required_dependencies": [
                         "1414959"
                     ],
-                    "size": 93513,
-                    "date_published": "2026-07-12T06:09:54.977Z"
+                    "size": 96971,
+                    "date_published": "2026-07-14T04:20:59.347Z"
                 }
             ]
         },
@@ -18263,6 +18284,56 @@
                     ],
                     "size": 1396331,
                     "date_published": "2024-09-30T06:14:01.507Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1GQ1aEeVYZt7pIZq",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl",
+                "E0Hhuv5KSx1UNZJ0",
+                "mGq0eKPfkVYYrcBk"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "yungs-better-dungeons",
+                "modrinth": "yungs-better-dungeons"
+            },
+            "name": {
+                "curseforge": "YUNG's Better Dungeons (Forge/NeoForge)",
+                "modrinth": "YUNG's Better Dungeons"
+            },
+            "id": {
+                "curseforge": "510089",
+                "modrinth": "o1C1Dkj5"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/nidyvq2m/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+                    "id": "nidyvq2m",
+                    "parent_id": "o1C1Dkj5",
+                    "hashes": {
+                        "sha512": "02ee00641aea2e80806923c1d97a366b82eb6d6e1d749fc8fb4eeddeddea718c08f5a87ba5189427f747801b899abe5a6138a260c7e7f949e5e69b4065ac5464",
+                        "sha1": "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "9s6osm5g",
+                        "Ua7DFN59"
+                    ],
+                    "size": 944170,
+                    "date_published": "2024-04-18T05:10:15.900493Z"
                 }
             ]
         },
