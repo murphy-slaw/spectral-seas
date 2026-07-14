@@ -134,6 +134,13 @@
             "/.*mycotoxic.*/",
             "/.*silt.*/",
             "/.*peat.*/",
+            "/.*chalk.*/",
+            "/.*snowbelle.*/",
+            "/.*hyacinth.*/",
+            "/.*sapling.*/",
+            "/.*cactus.*/",
+            "/.*glistering.*/",
+            "/.*brimsprout.*/",
             "/.*eucalyptus.*/"
         ]
     },
