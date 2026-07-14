@@ -53,6 +53,9 @@
         "items": [
             "ecologics:crab_claw",
             "ecologics:tropical_stew",
+            "galosphere:combustion_table",
+            "galosphere:palladium_bomb",
+            "galosphere:rope_dart",
             "inmis:endless_backpack",
             "minecraft:elytra",
             "minecraft:enchanting_table",
@@ -77,11 +80,74 @@
             "supplementaries:cannon",
             "supplementaries:cannonball",
             "supplementaries:enderman_head",
-            "supplementaries:gold_gate"
+            "supplementaries:gold_gate",
+            "supplementaries:lumisene_bucket",
+            "supplementaries:lumisene_bottle",
+            "supplementaries:bomb_spiky"
         ],
         "patterns": [
             "/.*sign_post.*/",
             "/.*present.*/"
+        ]
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "suppsquared"
+        ],
+        "patterns": [
+            "/.*lantern.*/"
+        ]
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "regions_unexplored"
+        ],
+        "patterns": [
+            "/.*branch.*/",
+            "/.*log.*/",
+            "/.*wood.*/",
+            "/.*leaves.*/",
+            "/.*leaf_pile.*/",
+            "/.*redstone.*/",
+            "/.*blackstone.*/",
+            "/.*boat$/",
+            "/.*shrub$/",
+            "/.*painted.*/",
+            "/.*alpha.*/",
+            "/.*baobab.*/",
+            "/.*dead.*/",
+            "/.*cypress.*/",
+            "/.*joshua.*/",
+            "/.*kapok.*/",
+            "/.*cobalt.*/",
+            "/.*larch.*/",
+            "/.*magnolia.*/",
+            "/.*maple.*/",
+            "/.*mauve.*/",
+            "/.*palm.*/",
+            "/.*pine.*/",
+            "/.*socotra.*/",
+            "/.*willow.*/",
+            "/.*yellow_bioshroom.*/",
+            "/.*mycotoxic.*/",
+            "/.*silt.*/",
+            "/.*peat.*/",
+            "/.*eucalyptus.*/"
+        ]
+    },
+    {
+        "action": "remove",
+        "mods": [
+            "regions_unexplored"
+        ],
+        "registry": [
+            "item",
+            "block"
+        ],
+        "tags": [
+            "minecraft:flowers"
         ]
     }
 ]
