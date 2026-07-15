@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "tag": "c:buckets/water"
+    },
+    "b": {
+      "item": "minecraft:brick"
+    },
+    "i": {
+      "tag": "c:copper_ingots"
+    }
+  },
+  "pattern": [
+    "b b",
+    "iWi",
+    "iii"
+  ],
+  "result": {
+    "item": "farmersdelight:cooking_pot"
+  },
+  "show_notification": true
+}
