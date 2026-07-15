@@ -75,7 +75,7 @@
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night. Not recommended on higher difficulty settings
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		hungerEffect = "SLEEPING"
+		hungerEffect = "NEVER"
 		#When applied, this effect syncs the passage of weather with the current speed of time.
 		#I.e., as time moves faster, rain stops faster. Clear weather is not affected.
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
