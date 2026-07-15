@@ -1,0 +1,33 @@
+{
+  "values": [
+    "minecraft:diamond_block",
+    "minecraft:diamond_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:redstone_ore",
+    "minecraft:deepslate_redstone_ore",
+    {
+      "id": "minecraft:emerald_ore",
+      "excluded": true
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "excluded": true
+    },
+    {
+      "id": "minecraft:emerald_block",
+      "excluded": true
+    },
+    {
+      "id": "minecraft:gold_block",
+      "excluded": true
+    },
+    {
+      "id": "minecraft:gold_ore",
+      "excluded": true
+    },
+    {
+      "id": "minecraft:deepslate_gold_ore",
+      "excluded": true
+    }
+  ]
+}
