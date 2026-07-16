@@ -4156,7 +4156,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "emi_discovery-fabric-1.20.1-1.1.8.jar",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.9.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4164,20 +4164,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/ZHf83C3w/emi_discovery-fabric-1.20.1-1.1.8.jar",
-                    "id": "ZHf83C3w",
+                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/E8RchYyI/emi_discovery-fabric-1.20.1-1.1.9.jar",
+                    "id": "E8RchYyI",
                     "parent_id": "WO3G3DRj",
                     "hashes": {
-                        "sha512": "37edce80d37dafa4313616bbd0daf5de691a24acd6b1007b7126e354a3304c6e193f41341d53da74b420b96eadd0e01854900a1f02ed3448b0aa03e5d96ab481",
-                        "sha1": "6ddf493d4281015dac5d185495099479b33bed99"
+                        "sha512": "061717b3840e672e5ba70cc726b71ac5ef72a665c097228c9248f12aa2bdabfda6da31af0c9d6743af8556c20164acb2ed2af2c6e2aaa10142858ca1545abf66",
+                        "sha1": "34e3ace9cdc5109a3d81dc2a5d293b620bc2860f"
                     },
                     "required_dependencies": [],
-                    "size": 248547,
-                    "date_published": "2026-07-12T22:05:30.696956Z"
+                    "size": 249899,
+                    "date_published": "2026-07-15T18:06:52.745417Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "emi_discovery-fabric-1.20.1-1.1.8.jar",
+                    "file_name": "emi_discovery-fabric-1.20.1-1.1.9.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4185,20 +4185,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8421/581/emi_discovery-fabric-1.20.1-1.1.8.jar",
-                    "id": "8421581",
+                    "url": "https://edge.forgecdn.net/files/8439/209/emi_discovery-fabric-1.20.1-1.1.9.jar",
+                    "id": "8439209",
                     "parent_id": "1469248",
                     "hashes": {
-                        "sha1": "6ddf493d4281015dac5d185495099479b33bed99",
-                        "md5": "6a10eb18a23f9b71225e854ec9b866d1"
+                        "sha1": "34e3ace9cdc5109a3d81dc2a5d293b620bc2860f",
+                        "md5": "e274daa49c6ed42c8892b7ed423665b4"
                     },
                     "required_dependencies": [
-                        "580555",
+                        "1411826",
                         "348521",
-                        "1411826"
+                        "580555"
                     ],
-                    "size": 248547,
-                    "date_published": "2026-07-12T22:08:42.193Z"
+                    "size": 249899,
+                    "date_published": "2026-07-15T18:04:55.540Z"
                 }
             ]
         },
@@ -5603,53 +5603,51 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "exposure-1.20.1-1.7.16-fabric.jar",
+                    "file_name": "exposure-fabric-1.20.1-1.9.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/fiezBPPG/exposure-1.20.1-1.7.16-fabric.jar",
-                    "id": "fiezBPPG",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/cyxATYtc/exposure-fabric-1.20.1-1.9.20.jar",
+                    "id": "cyxATYtc",
                     "parent_id": "hB899VmG",
                     "hashes": {
-                        "sha512": "1b65566b954ab6712c15268a983eef4875341779bf5f80f65141e93818ffc8678861d1e1fb24e864a1c040222f5bf7f7262e902b350246b35bcfdd7bf54d898f",
-                        "sha1": "d55b8d666598410db4bee4e51aeb445726574ce5"
+                        "sha512": "7275fd06003244234f7d7a62939fb604fa01e5736117a63bc37c4c8758ed2cbdc8e31eade197a838013632ed61c806808f6c6e4953e904f7cdaac05b2e02685f",
+                        "sha1": "7f76eeac53b2a7a26d52c3023e983ad41a57900b"
                     },
                     "required_dependencies": [
                         "ohNO6lps",
                         "P7dR8mSH"
                     ],
-                    "size": 1342392,
-                    "date_published": "2025-06-15T21:13:11.567850Z"
+                    "size": 1997428,
+                    "date_published": "2026-03-25T18:13:30.109161Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "exposure-1.20.1-1.7.16-fabric.jar",
+                    "file_name": "exposure-fabric-1.20.1-1.9.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6655/719/exposure-1.20.1-1.7.16-fabric.jar",
-                    "id": "6655719",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7812/667/exposure-fabric-1.20.1-1.9.20.jar",
+                    "id": "7812667",
                     "parent_id": "871755",
                     "hashes": {
-                        "sha1": "d55b8d666598410db4bee4e51aeb445726574ce5",
-                        "md5": "6f5085ec54d4cb4c2661f9d2b689af6e"
+                        "sha1": "7f76eeac53b2a7a26d52c3023e983ad41a57900b",
+                        "md5": "8f53d9a1787e6c0040fa5352acc8eaf6"
                     },
                     "required_dependencies": [
                         "547434",
                         "306612"
                     ],
-                    "size": 1342392,
-                    "date_published": "2025-06-15T21:13:12.153Z"
+                    "size": 1997428,
+                    "date_published": "2026-03-25T18:13:29.750Z"
                 }
             ]
         },
@@ -6184,36 +6182,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "zfastnoise-1.0.11+1.20.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7661/767/zfastnoise-1.0.11+1.20.jar",
-                    "id": "7661767",
-                    "parent_id": "1460602",
-                    "hashes": {
-                        "sha1": "0c70551779487d7ae4e535b640f4da9c711e7612",
-                        "md5": "964934b5d29dc550e03a3a5f7d7d46d1"
-                    },
-                    "required_dependencies": [],
-                    "size": 34590,
-                    "date_published": "2026-02-22T05:45:59.663Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "zfastnoise-1.0.11+1.20.jar",
+                    "file_name": "zfastnoise-1.0.13+1.20.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -6228,16 +6198,44 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/dKwaus8G/zfastnoise-1.0.11+1.20.jar",
-                    "id": "dKwaus8G",
+                    "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/K3nDfeZE/zfastnoise-1.0.13+1.20.jar",
+                    "id": "K3nDfeZE",
                     "parent_id": "OnlVIpq5",
                     "hashes": {
-                        "sha512": "c4e229524e309b67bdf6916c6770a2e63a20986b973874e6dd26ecb7e7f1ee4016e2283fd277cf49b597244510b6cea249c882cf6d518105ebfa566e9733b32b",
-                        "sha1": "0c70551779487d7ae4e535b640f4da9c711e7612"
+                        "sha512": "f251045a5215b48f70cd93dc3d5ac6a90828ad4890be5928576415fbca6d04aaf1a09f1addcd4e3b24f4a50078d5205a3312aa7fcf199ff7bbc1d8f07e833e76",
+                        "sha1": "1af0f61450c42b2708d61c29d6dcdb795d7ff199"
                     },
                     "required_dependencies": [],
-                    "size": 34590,
-                    "date_published": "2026-02-22T05:09:14.873010Z"
+                    "size": 35442,
+                    "date_published": "2026-07-08T19:17:33.851739Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "zfastnoise-1.0.13+1.20.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8395/692/zfastnoise-1.0.13+1.20.jar",
+                    "id": "8395692",
+                    "parent_id": "1460602",
+                    "hashes": {
+                        "sha1": "1af0f61450c42b2708d61c29d6dcdb795d7ff199",
+                        "md5": "896351ecc9ab3f7ae009ee8fb5556af1"
+                    },
+                    "required_dependencies": [],
+                    "size": 35442,
+                    "date_published": "2026-07-08T19:17:40.737Z"
                 }
             ]
         },
