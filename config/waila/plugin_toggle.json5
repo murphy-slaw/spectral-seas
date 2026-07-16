@@ -1,12 +1,12 @@
 {
-  "revelationary:plugin": true,
-  "waila:core": true,
-  "waila:vanilla": true,
-  "waila:harvest": true,
-  "waila:extra": true,
-  "waila:fabric": true,
-  "smallships:waila": true,
-  "balm:wthit": true,
-  "treechop:plugin": true,
-  "potioncraft:wthit": true
+    'revelationary:plugin': true,
+    'waila:core': true,
+    'waila:vanilla': true,
+    'waila:harvest': true,
+    'waila:extra': true,
+    'waila:fabric': true,
+    'smallships:waila': true,
+    'balm:wthit': true,
+    'treechop:plugin': true,
+    'item-descriptions:block_descriptions': true,
 }
