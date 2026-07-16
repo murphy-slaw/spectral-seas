@@ -6034,6 +6034,76 @@
             ]
         },
         {
+            "pakku_id": "pgEiqRyfDVd9w3WQ",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "farmers-delight-refabricated",
+                "modrinth": "farmers-delight-refabricated"
+            },
+            "name": {
+                "curseforge": "Farmer's Delight Refabricated",
+                "modrinth": "Farmer's Delight Refabricated"
+            },
+            "id": {
+                "curseforge": "993166",
+                "modrinth": "7vxePowz"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7199/661/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                    "id": "7199661",
+                    "parent_id": "993166",
+                    "hashes": {
+                        "sha1": "b8dded252730b2d47655813dde9d743785c0b107",
+                        "md5": "f4f3c88e3a2c463d125c45c44980b1ca"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 8056758,
+                    "date_published": "2025-11-08T17:13:56.560Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/Z8UNayLO/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                    "id": "Z8UNayLO",
+                    "parent_id": "7vxePowz",
+                    "hashes": {
+                        "sha512": "4fa3d8756af6df2135f19b6b78972b098e75fbfb189252288f782ad00c2a56ce6b12320e8fe8975c250f0cc001daeafb24a91bb1c09717c01302225807599450",
+                        "sha1": "b8dded252730b2d47655813dde9d743785c0b107"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 8056758,
+                    "date_published": "2025-11-08T17:13:58.537463Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8MOX6gerIfBq7znb",
             "type": "MOD",
             "side": "SERVER",
@@ -7476,6 +7546,81 @@
                     ],
                     "size": 6312074,
                     "date_published": "2026-07-13T21:38:53.333Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7RcX693yZjb1cYSD",
+            "pakku_links": [
+                "4EDp2HtHLKihf76t",
+                "pgEiqRyfDVd9w3WQ",
+                "8lnlkV731uyBcjXh",
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hybrid-delights",
+                "modrinth": "hybrid-delights"
+            },
+            "name": {
+                "curseforge": "Hybrid Delights",
+                "modrinth": "Hybrid Delights"
+            },
+            "id": {
+                "curseforge": "1259032",
+                "modrinth": "WR49BBCu"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "[1.20.1 Fabric] Hybrid Delights 1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8303/698/[1.20.1 Fabric] Hybrid Delights 1.2.0.jar",
+                    "id": "8303698",
+                    "parent_id": "1259032",
+                    "hashes": {
+                        "sha1": "63e3f61be1ad168701004eecfa4ac328e0d79564",
+                        "md5": "00e0eb8e89327ed6e34d8748e6145187"
+                    },
+                    "required_dependencies": [
+                        "308769",
+                        "993166",
+                        "834427"
+                    ],
+                    "size": 509800,
+                    "date_published": "2026-06-23T00:40:52.653Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "[1.20.1 Fabric] Hybrid Delights 1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WR49BBCu/versions/6Mbjl0wj/[1.20.1 Fabric] Hybrid Delights 1.2.0.jar",
+                    "id": "6Mbjl0wj",
+                    "parent_id": "WR49BBCu",
+                    "hashes": {
+                        "sha512": "3eeb69c6083e0f704f447e28ac8604c34d94c19aef7733330dfde3389d23dc637f80ee213011c5faaf99e33c6e72dec18b00d274ce6330aab50f38e72cb48c8e",
+                        "sha1": "63e3f61be1ad168701004eecfa4ac328e0d79564"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "HH4FjUqN",
+                        "Ha28R6CL"
+                    ],
+                    "size": 509800,
+                    "date_published": "2026-06-23T00:34:03.423985Z"
                 }
             ]
         },
@@ -12072,69 +12217,6 @@
                     ],
                     "size": 129481,
                     "date_published": "2026-04-27T03:45:00.970Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "qh87K1ZXZcRM5wi3",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "potion-craft",
-                "modrinth": "potioncraft"
-            },
-            "name": {
-                "curseforge": "Potion Craft",
-                "modrinth": "Potioncraft"
-            },
-            "id": {
-                "curseforge": "891481",
-                "modrinth": "LZdJL31s"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "potioncraft-0.5.2+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/LZdJL31s/versions/CNEbIf1t/potioncraft-0.5.2+1.20.1.jar",
-                    "id": "CNEbIf1t",
-                    "parent_id": "LZdJL31s",
-                    "hashes": {
-                        "sha512": "1f8ddcbdca6ce2c228a7acc86b6a908311f7ec76de12ae2e0782001009a11a00d15d9f91c992e08737337c17d107d1189c4a7e441a5f811b2f15fdb71c8ccf13",
-                        "sha1": "5f259cd9d4ba6a1c9fc22a02fa3ecb6280359521"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 97379,
-                    "date_published": "2025-04-09T23:26:35.790831Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "potioncraft-0.5.2+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6405/213/potioncraft-0.5.2+1.20.1.jar",
-                    "id": "6405213",
-                    "parent_id": "891481",
-                    "hashes": {
-                        "sha1": "5f259cd9d4ba6a1c9fc22a02fa3ecb6280359521",
-                        "md5": "cf2158909327ad95f4a3a7c84570265d"
-                    },
-                    "required_dependencies": [],
-                    "size": 97379,
-                    "date_published": "2025-04-09T23:30:59.257Z"
                 }
             ]
         },
@@ -18049,77 +18131,6 @@
                     ],
                     "size": 849105,
                     "date_published": "2026-03-24T08:23:04.297Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "RByUxOLn4aTLBWK8",
-            "pakku_links": [
-                "4dGQDjEi0Ci31GDY",
-                "qh87K1ZXZcRM5wi3"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "wthit-potioncraft",
-                "curseforge": "wthit-potioncraft"
-            },
-            "name": {
-                "modrinth": "WTHIT: PotionCraft",
-                "curseforge": "WTHIT: PotionCraft"
-            },
-            "id": {
-                "modrinth": "8aBO5esn",
-                "curseforge": "1418121"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "wthit_potioncraft-1.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8aBO5esn/versions/qAhoq8IF/wthit_potioncraft-1.0+1.20.1.jar",
-                    "id": "qAhoq8IF",
-                    "parent_id": "8aBO5esn",
-                    "hashes": {
-                        "sha512": "2d9352d9c9f06ee8e7b8e8f5b292152f0190434d17e54e3c5d9723857a6e997a3be93d747f5253bbef60c975c855e163677083aa9a3e6c99969b671ec583f6b3",
-                        "sha1": "14da6311336860a6aa19fdd2b6a70df400349144"
-                    },
-                    "required_dependencies": [
-                        "6AQIaxuO",
-                        "LZdJL31s"
-                    ],
-                    "size": 175340,
-                    "date_published": "2026-01-01T14:40:46.304573Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "wthit_potioncraft-1.0+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7404/191/wthit_potioncraft-1.0+1.20.1.jar",
-                    "id": "7404191",
-                    "parent_id": "1418121",
-                    "hashes": {
-                        "sha1": "14da6311336860a6aa19fdd2b6a70df400349144",
-                        "md5": "754e06e8dd086320269ebf7a52e2db19"
-                    },
-                    "required_dependencies": [
-                        "891481",
-                        "440979"
-                    ],
-                    "size": 175340,
-                    "date_published": "2026-01-01T14:47:13.513Z"
                 }
             ]
         },
