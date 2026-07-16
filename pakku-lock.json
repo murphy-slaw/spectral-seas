@@ -3162,6 +3162,68 @@
             ]
         },
         {
+            "pakku_id": "eKwncgfVxmKvgBYe",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "complete-baby-zombie-remover"
+            },
+            "name": {
+                "modrinth": "Complete Baby Zombie Remover"
+            },
+            "id": {
+                "modrinth": "1eBhhNJc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "complete_baby_zombie_remover-1.0.0.jar",
+                    "mc_versions": [
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eBhhNJc/versions/65mWK0rk/complete_baby_zombie_remover-1.0.0.jar",
+                    "id": "65mWK0rk",
+                    "parent_id": "1eBhhNJc",
+                    "hashes": {
+                        "sha512": "993eeacdf1443d75237690b4991d775f86ece005fe8a4da93b6c12de5dd574b2270bf9c5631136936a91921fc3fdb0847d684411023957d4ba8a4543e75ccd34",
+                        "sha1": "65a7b26de614da13130008b369182a836b206ae9"
+                    },
+                    "required_dependencies": [],
+                    "size": 30303,
+                    "date_published": "2024-08-16T06:54:24.744369Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7tl2mBubkR6p1DbN",
             "type": "MOD",
             "side": "BOTH",
