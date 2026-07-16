@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:poisonous_potato"
+    },
+    [
+      {
+        "item": "minecraft:sculk"
+      },
+      {
+        "item": "minecraft:sculk_vein"
+      }
+    ],
+    {
+      "tag": "c:milks"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "spectral_seas:potato_soup"
+  }
+}

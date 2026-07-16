@@ -2,39 +2,29 @@ Platform.mods.kubejs.name = 'Spectral Seas'
 
 StartupEvents.registry('item', (event) => {
     event
-        .create('spectral_seas:mushroom_stew')
-        .food((food) => {
-            food.hunger(6).saturation(0.6).alwaysEdible(false).fastToEat(false).meat(false)
-        })
-        .maxStackSize(8)
-
-    event
-        .create('spectral_seas:beetroot_soup')
-        .food((food) => {
-            food.hunger(6).saturation(0.6).alwaysEdible(false).fastToEat(false).meat(false)
-        })
-        .maxStackSize(8)
-
-    event
-        .create('spectral_seas:rabbit_stew')
-        .food((food) => {
-            food.hunger(14).saturation(0.6).alwaysEdible(false).fastToEat(false).meat(false)
-        })
-        .maxStackSize(8)
-
-    event
         .create('spectral_seas:suspicious_chowder')
         .food((food) => {
             food.hunger(6).saturation(0.6).alwaysEdible(true).fastToEat(false).meat(false)
         })
         .texture('minecraft:item/suspicious_stew')
-        .maxStackSize(8)
-
+        .maxStackSize(16)
+})
+StartupEvents.registry('item', (event) => {
     event
-        .create('spectral_seas:tropical_stew')
+        .create('spectral_seas:potato_soup')
         .food((food) => {
-            food.hunger(10).saturation(0.6).alwaysEdible(false).fastToEat(false).meat(false)
+            food.hunger(2)
+                .saturation(0.2)
+                .alwaysEdible(true)
+                .fastToEat(false)
+                .meat(false)
+                .effect('minecraft:nausea', 100, 10, 1)
+                .effect('minecraft:poison', 50, 0, 1)
         })
-        .texture('ecologics:item/tropical_stew')
-        .maxStackSize(8)
+        .texture('minecraft:item/suspicious_stew')
+        .maxStackSize(16)
+})
+
+StartupEvents.modifyCreativeTab('minecraft:food_and_drinks', (event) => {
+    event.add('spectral_seas:suspicious_chowder')
 })

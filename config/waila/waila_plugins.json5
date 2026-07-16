@@ -1,4 +1,12 @@
 {
+  "item-descriptions": {
+    // Display Block Descriptions
+    // Default value: [true]
+    block_descriptions: true,
+    // Display Entity Descriptions
+    // Default value: [true]
+    entity_descriptions: true
+  },
   waila_smallships: {
     // Show Stat Icons
     // Default value: [true]
@@ -244,17 +252,6 @@
     // Show on Creative
     // Default value: [false]
     creative: false
-  },
-  wthit_potioncraft: {
-    // config.waila.plugin_wthit_potioncraft.show_icons
-    // Default value: [true]
-    show_icons: true,
-    // config.waila.plugin_wthit_potioncraft.show_text
-    // Default value: [true]
-    show_text: true,
-    // config.waila.plugin_wthit_potioncraft.icon_length
-    // Default value: [15]
-    icon_length: 15
   },
   wailax: {
     // Show Block Energy

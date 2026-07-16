@@ -1,0 +1,35 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "hybrid_aquatic:giant_clam"
+    },
+    {
+      "item": "spectral_seas:potato_soup"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "spectral_seas:suspicious_chowder",
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Ambient": 0,
+          "Amplifier": 1,
+          "Duration": 400,
+          "Id": "minecraft:absorption",
+          "ShowIcon": 1,
+          "ShowParticles": 1
+        }
+      ]
+    }
+  }
+}
