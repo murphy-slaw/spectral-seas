@@ -2199,6 +2199,67 @@
             ]
         },
         {
+            "pakku_id": "hxgAj0lOiv2iTDz4",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "campfire-fix",
+                "modrinth": "campfire-fix"
+            },
+            "name": {
+                "curseforge": "Campfire Fix",
+                "modrinth": "Campfire Fix"
+            },
+            "id": {
+                "curseforge": "996843",
+                "modrinth": "6KdIlRiC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "campfirefix-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5435/342/campfirefix-fabric-1.20.1-1.0.1.jar",
+                    "id": "5435342",
+                    "parent_id": "996843",
+                    "hashes": {
+                        "sha1": "0346295c4bc779c3ad399e5af031f4353abf1265",
+                        "md5": "716184df5809c5fdf80d6e4e8e1f7d1a"
+                    },
+                    "required_dependencies": [],
+                    "size": 545705,
+                    "date_published": "2024-06-16T16:40:01.130Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "campfirefix-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6KdIlRiC/versions/TILV2Y7S/campfirefix-fabric-1.20.1-1.0.1.jar",
+                    "id": "TILV2Y7S",
+                    "parent_id": "6KdIlRiC",
+                    "hashes": {
+                        "sha512": "1de2aa765e814efb282ee22802110dab19c3991adbfd73418d775cae8758ac0c9bcd06d318d37d2e83c2e0fc603d0b951afcdb7d257da468ef282eb4250ba8d1",
+                        "sha1": "0346295c4bc779c3ad399e5af031f4353abf1265"
+                    },
+                    "required_dependencies": [],
+                    "size": 545705,
+                    "date_published": "2024-06-16T16:40:01.227751Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ziamzSyQJz78ybvl",
             "type": "MOD",
             "side": "SERVER",
