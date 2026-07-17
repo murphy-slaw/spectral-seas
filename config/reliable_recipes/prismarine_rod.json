@@ -1,6 +1,6 @@
 [
     {
         "action": "remove_recipe",
-        "output": "hybrid-aquatic:prismarine_rod"
+        "output": "hybrid_aquatic:prismarine_rod"
     }
 ]
