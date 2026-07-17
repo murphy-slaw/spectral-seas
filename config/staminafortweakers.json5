@@ -85,7 +85,7 @@
 		// Long side (pixels)
 		"longSide": 180,
 		// Horizontal offset
-		"offsetY": 1,
+		"offsetY": 2,
 		// Vertical offset
 		"offsetX": 0
 	},
