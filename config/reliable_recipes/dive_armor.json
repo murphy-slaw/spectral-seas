@@ -1,0 +1,16 @@
+[
+    {
+        "action": "replace_input",
+        "mods": "hybrid_aquatic",
+        "output": "hybrid_aquatic:diving_suit",
+        "target": "minecraft:leather",
+        "replacement": "spectral_seas:waxed_canvas"
+    },
+    {
+        "action": "replace_input",
+        "mods": "hybrid_aquatic",
+        "output": "hybrid_aquatic:diving_leggings",
+        "target": "minecraft:leather",
+        "replacement": "spectral_seas:waxed_canvas"
+    }
+]

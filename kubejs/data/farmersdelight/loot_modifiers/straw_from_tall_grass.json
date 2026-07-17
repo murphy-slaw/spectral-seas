@@ -2,10 +2,6 @@
   "type": "farmersdelight:add_item",
   "conditions": [
     {
-      "condition": "minecraft:random_chance",
-      "chance": 0.5
-    },
-    {
       "condition": "minecraft:match_tool",
       "predicate": {
         "tag": "farmersdelight:straw_harvesters"

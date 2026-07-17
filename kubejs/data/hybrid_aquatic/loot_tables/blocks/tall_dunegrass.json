@@ -50,10 +50,6 @@
               "predicate": {
                 "tag": "farmersdelight:straw_harvesters"
               }
-            },
-            {
-              "condition": "random_chance",
-              "chance": 0.5
             }
           ]
         }
