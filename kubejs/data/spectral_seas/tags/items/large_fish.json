@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#hybrid_aquatic:large_fish",
+        "naturalist:catfish",
+        {
+            "id": "minecraft:salmon",
+            "exclude": true
+        }
+    ]
+}
