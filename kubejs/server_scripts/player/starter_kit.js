@@ -121,14 +121,17 @@ PlayerEvents.loggedIn((event) => {
                 Item.of('minecraft:apple', 3),
                 Item.of('minecraft:bread', 3),
                 Item.of('minecraft:torch', 4),
+            ])
+
+            givePlayerParrot(player)
+
+            player.give(
                 Item.of(
                     'minecraft:potion',
                     3,
                     '{Potion:\'spectral_seas:grog\',display:{Lore: [\'{"translate":"spectral_seas.item.lore.grog"}\']}}'
-                ),
-            ])
-
-            givePlayerParrot(player)
+                )
+            )
 
             player.give(
                 Item.of(
