@@ -1,0 +1,21 @@
+{
+    "values": [
+        "spectral_seas:canvas_block",
+        "spectral_seas:black_canvas_block",
+        "spectral_seas:blue_canvas_block",
+        "spectral_seas:brown_canvas_block",
+        "spectral_seas:cyan_canvas_block",
+        "spectral_seas:gray_canvas_block",
+        "spectral_seas:green_canvas_block",
+        "spectral_seas:light_blue_canvas_block",
+        "spectral_seas:light_gray_canvas_block",
+        "spectral_seas:lime_canvas_block",
+        "spectral_seas:magenta_canvas_block",
+        "spectral_seas:orange_canvas_block",
+        "spectral_seas:pink_canvas_block",
+        "spectral_seas:purple_canvas_block",
+        "spectral_seas:red_canvas_block",
+        "spectral_seas:white_canvas_block",
+        "spectral_seas:yellow_canvas_block"
+    ]
+}

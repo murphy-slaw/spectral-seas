@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "farmersdelight:straw"
+        }
+    },
+    "pattern": [
+        "ss ",
+        "ss ",
+        "ss  "
+    ],
+    "result": {
+        "item": "supplementaries:rope"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "spectral_seas:canvas_block"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "item": "spectral_seas:white_canvas_block"
+    },
+    "category": "misc"
+}

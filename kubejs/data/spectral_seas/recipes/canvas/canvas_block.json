@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        }
+    ],
+    "result": {
+        "item": "spectral_seas:canvas_block"
+    },
+    "category": "misc"
+}
