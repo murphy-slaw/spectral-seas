@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "spectral_seas:small_fish"
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    },
+    "result": [
+        {
+            "item": "hybrid_aquatic:raw_fish_meat",
+            "count": 1
+        },
+        {
+            "item": "hybrid_aquatic:raw_fish_meat",
+            "count": 1,
+            "chance": 0.5
+        },
+        {
+            "item": "minecraft:bone_meal",
+            "count": 1,
+            "chance": 0.5
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove_recipe",
+        "id": [
+            "hybrid_aquatic:raw_fish_steak",
+            "hybrid_aquatic:raw_fish_meat_small",
+            "hybrid_aquatic:raw_fish_meat_medium"
+        ]
+    }
+]

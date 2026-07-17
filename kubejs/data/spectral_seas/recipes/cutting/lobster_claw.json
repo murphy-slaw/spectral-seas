@@ -1,0 +1,22 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "hybrid_aquatic:lobster_claw"
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    },
+    "result": [
+        {
+            "item": "hybrid_aquatic:raw_lobster",
+            "count": 1
+        },
+        {
+            "item": "hybrid_aquatic:raw_lobster",
+            "count": 1,
+            "chance": 0.5
+        }
+    ]
+}

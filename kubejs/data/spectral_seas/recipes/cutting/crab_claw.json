@@ -1,0 +1,22 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "spectral_seas:crab_claw"
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    },
+    "result": [
+        {
+            "item": "hybrid_aquatic:raw_crab",
+            "count": 1
+        },
+        {
+            "item": "hybrid_aquatic:raw_crab",
+            "count": 1,
+            "chance": 0.5
+        }
+    ]
+}
