@@ -6,9 +6,9 @@
         }
     },
     "pattern": [
-        "ss ",
-        "ss ",
-        "ss  "
+        "ss",
+        "ss",
+        "ss"
     ],
     "result": {
         "item": "supplementaries:rope"
