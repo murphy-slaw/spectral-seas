@@ -156,5 +156,16 @@
         "tags": [
             "minecraft:flowers"
         ]
+    },
+    {
+        "action": "remove",
+        "mods": [
+            "farmersdelight"
+        ],
+        "items": [
+            "farmersdelight:rich_soil",
+            "farmersdelight:organic_compost",
+            "farmersdelight:rope"
+        ]
     }
 ]
