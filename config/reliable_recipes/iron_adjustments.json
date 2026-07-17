@@ -24,12 +24,6 @@
     },
     {
         "action": "replace_input",
-        "output": "minecraft:flint_and_steel",
-        "target": "minecraft:iron_ingot",
-        "replacement": "minecraft:iron_nugget"
-    },
-    {
-        "action": "replace_input",
         "output": "minecraft:tripwire_hook",
         "target": "minecraft:iron_ingot",
         "replacement": [

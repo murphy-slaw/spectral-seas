@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      },
+      {
+        "item": "spellbound:iron_pebble"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:flint_and_steel"
+  },
+  "show_notification": true
+}
