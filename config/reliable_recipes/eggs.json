@@ -1,0 +1,8 @@
+[
+    {
+        "action": "replace_input",
+        "output": "farmersdelight:fried_egg",
+        "target": "minecraft:egg",
+        "replacement": "#c:eggs"
+    }
+]

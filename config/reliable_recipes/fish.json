@@ -4,7 +4,11 @@
         "id": [
             "hybrid_aquatic:raw_fish_steak",
             "hybrid_aquatic:raw_fish_meat_small",
-            "hybrid_aquatic:raw_fish_meat_medium"
+            "hybrid_aquatic:raw_fish_meat_medium",
+            "hybrid_delights:cutting/salmon",
+            "farmersdelight:cutting/salmon",
+            "hybrid_delights:cutting/cod",
+            "farmersdelight:cutting/cod"
         ]
     }
 ]
