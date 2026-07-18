@@ -8547,6 +8547,50 @@
             ]
         },
         {
+            "pakku_id": "BqDyQ0w9ibBCK3bV",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl",
+                "pgEiqRyfDVd9w3WQ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "kitchen-projectiles"
+            },
+            "name": {
+                "modrinth": "Kitchen Projectiles"
+            },
+            "id": {
+                "modrinth": "BYmvNgRP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "kitchenprojectiles-0.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/BYmvNgRP/versions/REPh5GDu/kitchenprojectiles-0.1.1+1.20.1.jar",
+                    "id": "REPh5GDu",
+                    "parent_id": "BYmvNgRP",
+                    "hashes": {
+                        "sha512": "51423239eaf2a08ef7832a7757b6af46cabf1df9082c26f29850a95e0f37a6b9babb6643cf4a6651faeea1fbf7fe149c9bc3d8e4b88b9aa566d220243feeb9ca",
+                        "sha1": "8ffb72d369fd7679309613b21f179443ba199daf"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "7vxePowz"
+                    ],
+                    "size": 44157,
+                    "date_published": "2025-11-14T19:55:11.546137Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "epdCAfhyLC8WqFET",
             "type": "MOD",
             "side": "BOTH",
