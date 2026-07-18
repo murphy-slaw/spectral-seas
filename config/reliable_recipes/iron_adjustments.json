@@ -48,5 +48,13 @@
             "minecraft:iron_ingot",
             "minecraft:copper_ingot"
         ]
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:bucket",
+        "target": "minecraft:iron_ingot",
+        "replacement": [
+            "minecraft:copper_ingot"
+        ]
     }
 ]
