@@ -8852,7 +8852,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "kubejs-fabric-2001.6.5-build.16.jar",
+                    "file_name": "kubejs-fabric-2001.6.5-build.26.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8861,24 +8861,24 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/kPLHkyoJ/kubejs-fabric-2001.6.5-build.16.jar",
-                    "id": "kPLHkyoJ",
+                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/Pu0Ygbq6/kubejs-fabric-2001.6.5-build.26.jar",
+                    "id": "Pu0Ygbq6",
                     "parent_id": "umyGl7zF",
                     "hashes": {
-                        "sha512": "e19386f56bf84fda71480c3c56636783a4e0161b3c4e9d35c01d221561147812a09c135a80fcdeeee65a69783f3ba2c4c5ff7e84003ac82a8720df65d9ba40b7",
-                        "sha1": "e22f2658ecd6a63edac7982766bb0ce15b53949a"
+                        "sha512": "4f3959a03a18a14627e6f8fc06cb0f050af69e1b74a26cdfdb2cd833ee7b959004f9bacf397e055afdc069023270602c310bb212ddff2806d0318890e8959179",
+                        "sha1": "08d70c86bb9501eeaf936722784c09de18f0e32f"
                     },
                     "required_dependencies": [
-                        "lhGA9TYQ",
                         "P7dR8mSH",
+                        "lhGA9TYQ",
                         "sk9knFPE"
                     ],
-                    "size": 1604251,
-                    "date_published": "2024-10-28T09:20:29.268301Z"
+                    "size": 1608326,
+                    "date_published": "2026-05-01T10:43:12.040642Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "kubejs-fabric-2001.6.5-build.16.jar",
+                    "file_name": "kubejs-fabric-2001.6.5-build.26.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8887,20 +8887,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5853/321/kubejs-fabric-2001.6.5-build.16.jar",
-                    "id": "5853321",
+                    "url": "https://edge.forgecdn.net/files/8020/594/kubejs-fabric-2001.6.5-build.26.jar",
+                    "id": "8020594",
                     "parent_id": "238086",
                     "hashes": {
-                        "sha1": "e22f2658ecd6a63edac7982766bb0ce15b53949a",
-                        "md5": "c43bf8e7aa075df68558638d372e4d58"
+                        "sha1": "08d70c86bb9501eeaf936722784c09de18f0e32f",
+                        "md5": "22c58d49c7164a7f6c0af34ec198f6d7"
                     },
                     "required_dependencies": [
-                        "306612",
+                        "419699",
                         "416294",
-                        "419699"
+                        "306612"
                     ],
-                    "size": 1604251,
-                    "date_published": "2024-10-28T09:20:23.513Z"
+                    "size": 1608326,
+                    "date_published": "2026-05-01T10:43:03.923Z"
                 }
             ]
         },
