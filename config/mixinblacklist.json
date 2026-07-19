@@ -1,0 +1,12 @@
+{
+  "client": {
+    "mixinClassNames": [],
+    "targetClassNames": []
+  },
+  "common": {
+    "mixinClassNames": [
+      "net.emilsg.archeologyplus.mixin.PlayerEntityMixin"
+    ],
+    "targetClassNames": []
+  }
+}

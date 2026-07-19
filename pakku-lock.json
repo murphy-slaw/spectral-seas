@@ -1756,20 +1756,6 @@
             ]
         },
         {
-            "pakku_id": "B9qieu6gjFwRmlgS",
-            "type": "RESOURCE_PACK",
-            "slug": {
-                "curseforge": "better-squid"
-            },
-            "name": {
-                "curseforge": "Better Squid"
-            },
-            "id": {
-                "curseforge": "648239"
-            },
-            "files": []
-        },
-        {
             "pakku_id": "wuTlODSO7PL6g8FN",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -10288,6 +10274,74 @@
                     ],
                     "size": 204357,
                     "date_published": "2023-07-28T09:50:11.297363Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ugs6fIFocSE17Q7k",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "mixin-blacklist"
+            },
+            "name": {
+                "modrinth": "Mixin Blacklist"
+            },
+            "id": {
+                "modrinth": "5zqe9l9U"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "mixinblacklist-1.0.1.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5zqe9l9U/versions/ZhGzP9Ps/mixinblacklist-1.0.1.jar",
+                    "id": "ZhGzP9Ps",
+                    "parent_id": "5zqe9l9U",
+                    "hashes": {
+                        "sha512": "dec21bc151bf966a87d581189a5e9819ff6202e528fafffcfc1d01fcb93409a223315a06ff76c1ee2f95faa5198491ff4f992b3e1ff9c4af9d2c74f35fd4ddae",
+                        "sha1": "b65e6bc32908522169162b1e8652c70a840c7986"
+                    },
+                    "required_dependencies": [],
+                    "size": 110600,
+                    "date_published": "2025-05-29T08:14:20.675850Z"
                 }
             ]
         },
