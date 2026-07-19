@@ -1,44 +1,26 @@
 # Don't change this! Version used to track needed updates.
-version = 5
-# Enable debug logging for effect conversion and lookup
-# Shows detailed information about effect unification in the log
-# Useful for troubleshooting issues with effect mappings
-debugLogging = false
+version = 6
+# Dynamic mappings - runtime effect conversion (reloadable)
+dynamicMappings = [  ]
 
-# Effect mappings for unification
-# 
-# PRIORITY SYSTEM:
-# 1. Exact matches ALWAYS take priority over wildcards
-# 2. Later configs override earlier configs (bottom overrides top)
-# 3. Use exact matches at the bottom to override wildcard patterns
-# 
-# WILDCARD PATTERNS:
-# - \"*:bleeding\" - exact name from any mod
-# - \"*:bleeding*\" - partial match (contains \"bleeding\")
-# - \"modid:effect*\" - prefix match in specific mod
-# - \"*:bleeding* !*:bleeding_immunity\" - with exclusions
-# 
-# FALLBACK TARGETS:
-# - \"primary:effect, fallback:effect\" - tries primary first, then fallback
+[debug]
+# Logging level: NONE, ERRORS, WARNINGS, ALL
+logLevel = "ERRORS"
 
-[[mappings]]
-# Source effect pattern (supports wildcards and exclusions)
-# Examples:
-# - \"*:bleeding\" - exact name from any mod
-# - \"*:bleeding*\" - partial match (contains \"bleeding\")
-# - \"modid:effect*\" - prefix match in specific mod
-# - \"*:bleeding* !*:bleeding_immunity\" - with exclusions
-sourceEffect = "hybrid-aquatic:bleeding"
-# Target effect (can contain multiple effects separated by commas for fallback)
-# Example: \"primary:effect, fallback:effect\"
+# Static mappings - registry aliasing at startup (requires restart)
+
+[[staticMappings]]
+# Source effect pattern: *:bleeding, *:bleeding*, modid:effect*, *:bleeding* !*:immunity
+sourceEffect = "hybrid_aquatic:bleeding"
+# Target effect (comma-separated for fallback): primary:effect, fallback:effect
 targetEffect = "tridents_n_stuff:bleeding"
-# Multiplier for effect amplifier (source_amplifier * multiplier = target_amplifier)
+# Amplifier multiplier
 amplifierMultiplier = 1.0
-# If true, only changes visual display without converting amplifier
+# Visual change only (no amplifier conversion)
 onlyVisualChange = false
-# If true, source effect is NOT considered as target (prevents source mod handlers from triggering)
+# Unidirectional (prevents source mod handlers)
 unidirectional = false
-# Additional effects whose applyUpdateEffect() should be called (comma-separated)
+# Extra effects to call applyUpdateEffect() (comma-separated)
 extraApplyEffectTick = ""
-# Effects whose applyUpdateEffect() should be blocked (comma-separated)
+# Effects to block applyUpdateEffect() (comma-separated, supports wildcards)
 discardEffectTick = ""
