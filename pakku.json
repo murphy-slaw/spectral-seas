@@ -95,6 +95,9 @@
         },
         "spyglass-improvements": {
             "side": "BOTH"
+        },
+        "keybindhider": {
+            "update_strategy": "NONE"
         }
     }
 }
