@@ -97,6 +97,17 @@ name="minecraft:salmon"
 type="block"
 
 [[mob]]
+name="minecraft:squid"
+[[mob.rule]]
+type="block"
+
+[[mob]]
+name="minecraft:pufferfish"
+[[mob.rule]]
+type="all"
+spawn.convert = "hybrid_aquatic:blowfish"
+
+[[mob]]
 name="artifacts:mimic"
 [[mob.rule]]
 set.health=40
