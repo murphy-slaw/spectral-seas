@@ -1,8 +1,0 @@
-{
-  "patchSkyAngle": false,
-  "syncWithSystemTime": false,
-  "systemTimePerDimensions": false,
-  "enableNightSkipAcceleration": false,
-  "accelerationSpeed": 30,
-  "config_ver": 3
-}

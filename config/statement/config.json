@@ -1,5 +1,9 @@
 {
 	"enableStateDeferralApi": true,
 	"enableIdSyncApi": true,
-	"forceParallelMode": false
+	"forceParallelMode": false,
+	"customBlockStateDeferral": {},
+	"customBlockStateSync": {},
+	"customFluidStateDeferral": {},
+	"customFluidStateSync": {}
 }
