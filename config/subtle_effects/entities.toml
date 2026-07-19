@@ -83,12 +83,12 @@ scale = 2.0
 alpha = 1.0
 preventWhenRaining = false
 flyIntoWall = true
-lessViewBlocking = false
+lessViewBlocking = true
 playerFell = true
 mobFell = true
 landMaceAttack = true
-playerRunning = true
-mobRunning = true
+playerRunning = false
+mobRunning = false
 playerRunningRequiresSpeed = false
 
 [burning]
