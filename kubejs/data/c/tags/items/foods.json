@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "#c:foods/cooked_fishes",
+        "hybrid_aquatic:cooked_clam",
+        "hybrid_aquatic:cooked_mussel",
+        "hybrid_aquatic:sirenian_steak",
+        "swampier_swamps:cooked_frog_leg",
+        "naturalist:cooked_bushmeat",
+        "naturalist:cooked_duck",
+        "naturalist:cooked_lizard_tail",
+        "naturalist:cooked_venison",
+        "spectrum:cooked_lizard_meat",
+        "hybrid_delights:cooked_ray_wing",
+        "hybrid_delights:cooked_pufferfish_slice"
+    ]
+}

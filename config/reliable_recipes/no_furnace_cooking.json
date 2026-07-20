@@ -1,0 +1,11 @@
+[
+    {
+        "action": "remove_recipe",
+        "type": "minecraft:smelting",
+        "output": "#c:foods"
+    },
+    {
+        "action": "remove_recipe",
+        "output": "minecraft:smoker"
+    }
+]
