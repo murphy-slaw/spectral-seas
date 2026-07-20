@@ -1,7 +1,7 @@
 [
     {
         "action": "replace_input",
-        "item": "farmersdelight:flint_knife",
+        "output": "farmersdelight:flint_knife",
         "target": "minecraft:flint",
         "replacement": "minecraft:copper_ingot"
     }
