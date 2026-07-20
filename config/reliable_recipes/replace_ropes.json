@@ -1,0 +1,7 @@
+[
+    {
+        "action": "replace_input",
+        "target": "farmersdelight:rope",
+        "replacement": "supplementaries:rope"
+    }
+]
