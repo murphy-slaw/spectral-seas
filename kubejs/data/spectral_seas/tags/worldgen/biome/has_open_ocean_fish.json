@@ -1,0 +1,10 @@
+{
+    "values": [
+        "minecraft:ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:frozen_ocean",
+        "hybrid_aquatic:red_meadow",
+        "hybrid_aquatic:seagrass_bed"
+    ]
+}

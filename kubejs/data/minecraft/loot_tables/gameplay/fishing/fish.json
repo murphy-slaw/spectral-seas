@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:fishing",
+    "pools": [
+        {
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "hybrid_aquatic:gameplay/fishing/ha_small_fish",
+                    "weight": 30,
+                    "quality": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "hybrid_aquatic:gameplay/fishing/ha_medium_fish",
+                    "weight": 25
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "hybrid_aquatic:gameplay/fishing/ha_large_fish",
+                    "weight": 20,
+                    "quality": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "hybrid_aquatic:gameplay/fishing/ha_crates",
+                    "weight": 15,
+                    "quality": 1
+                }
+            ],
+            "rolls": 1
+        }
+    ],
+    "random_sequence": "minecraft:gameplay/fishing/fish"
+}

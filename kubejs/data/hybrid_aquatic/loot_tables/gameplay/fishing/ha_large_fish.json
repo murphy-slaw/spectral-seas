@@ -1,0 +1,167 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_deep_ocean_fish",
+              "expand": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:any_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:deep_ocean"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:deep_cold_ocean"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:deep_frozen_ocean"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:deep_lukewarm_ocean"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:trench"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:cold_trench"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:frozen_trench"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:lukewarm_trench"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:warm_trench"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_swamp_fish",
+              "expand": true,
+              "weight": 1,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:swamp"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_mangrove_fish",
+              "expand": true,
+              "weight": 1,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:mangrove_swamp"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_reef_fish",
+              "expand": true,
+              "weight": 1,
+              "conditions": [
+                {
+                  "condition": "minecraft:any_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:warm_ocean"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "hybrid_aquatic:coral_reef"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_jungle_fish",
+              "expand": true,
+              "weight": 1,
+              "conditions": [
+                {
+                  "condition": "minecraft:any_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:sparse_jungle"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:location_check",
+                      "predicate": {
+                        "biome": "minecraft:jungle"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "spectral_seas:fish/large_open_ocean_fish",
+              "expand": true,
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hybrid_aquatic:gameplay/fishing/ha_large_fish"
+}
