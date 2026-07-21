@@ -1,0 +1,12 @@
+{
+	"match": {
+		"items": [
+			"hybrid_aquatic:glowing_diving_helmet",
+			"hybrid_aquatic:glowing_diving_suit",
+			"hybrid_aquatic:glowing_diving_leggings",
+			"hybrid_aquatic:glowing_diving_boots"
+		]
+	},
+	"luminance": 13,
+	"water_sensitive": false
+}
