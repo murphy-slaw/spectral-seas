@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:saddle"
+        }
+    ],
+    "tool": {
+        "tag": "c:shears"
+    },
+    "result": [
+        {
+            "item": "spectral_seas:leather_strip",
+            "count": 2
+        },
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 1
+        }
+    ]
+}

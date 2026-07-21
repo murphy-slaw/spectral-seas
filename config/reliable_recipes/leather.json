@@ -1,0 +1,29 @@
+[
+    {
+        "action": "replace_input",
+        "not": {
+            "type": "farmersdelight:cutting"
+        },
+        "target": "minecraft:leather",
+        "replacement": "#spectral_seas:leather"
+    },
+    {
+        "action": "replace_input",
+        "type": "minecraft:crafting_shapeless",
+        "target": "minecraft:leather",
+        "replacement": "#spectral_seas:leather"
+    },
+    {
+        "action": "remove_recipe",
+        "id": "bundle-backportish:bundle"
+    },
+    {
+        "action": "remove_recipe",
+        "id": "spectrum:pedestal/tier1/vanilla/bundle"
+    },
+    {
+        "action": "remove_recipe",
+        "type": "farmersdelight:cutting",
+        "output": "minecraft:leather"
+    }
+]

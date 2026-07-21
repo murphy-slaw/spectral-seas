@@ -1,0 +1,22 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:leather"
+        }
+    ],
+    "tool": {
+        "tag": "c:shears"
+    },
+    "result": [
+        {
+            "item": "spectral_seas:leather_strip",
+            "count": 2
+        },
+        {
+            "item": "spectral_seas:leather_strip",
+            "count": 1,
+            "chance": 0.10
+        }
+    ]
+}
