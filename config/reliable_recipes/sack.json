@@ -1,0 +1,8 @@
+[
+    {
+        "action": "replace_input",
+        "output": "supplementaries:sack",
+        "target": "supplementaries:flax",
+        "replacement": "farmersdelight:canvas"
+    }
+]

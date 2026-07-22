@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "supplementaries:flax"
+        }
+    },
+    "pattern": [
+        "ss",
+        "ss"
+    ],
+    "result": {
+        "item": "farmersdelight:canvas",
+        "count": 4
+    }
+}
