@@ -1,12 +1,4 @@
 {
-  "item-descriptions": {
-    // Display Block Descriptions
-    // Default value: [true]
-    block_descriptions: true,
-    // Display Entity Descriptions
-    // Default value: [true]
-    entity_descriptions: true
-  },
   waila_smallships: {
     // Show Stat Icons
     // Default value: [true]
