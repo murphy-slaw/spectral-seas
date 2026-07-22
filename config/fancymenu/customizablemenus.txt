@@ -69,27 +69,6 @@ net.minecraft.class_8219 {
 net.minecraft.class_407 {
 }
 
-hantonik.fbp.screen.FBPOptionsScreen {
-}
-
-hantonik.fbp.screen.category.FBPDripScreen {
-}
-
-hantonik.fbp.screen.category.FBPTerrainScreen {
-}
-
-hantonik.fbp.screen.category.FBPRainScreen {
-}
-
-hantonik.fbp.screen.category.FBPSnowScreen {
-}
-
-hantonik.fbp.screen.category.FBPFlameScreen {
-}
-
-hantonik.fbp.screen.category.FBPSmokeScreen {
-}
-
 net.minecraft.class_422 {
 }
 
@@ -129,6 +108,6 @@ me.shedaniel.clothconfig2.gui.ClothConfigScreen {
 com.teamresourceful.resourcefulconfig.client.ConfigScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.class_423 {
 }
 
