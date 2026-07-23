@@ -42,7 +42,7 @@
     // For example, when set to 100, Slime will have 100% chance to convert to Toxic Slime after spawning in swamp biomes
     slimeToToxicSlimeConvertChance: 100,
     // For skeletons spawned in ocean or beach. Doesn't affect Corsairs spawning on Shipwrecks
-    skeletonToCorsairConvertChance: 100,
+    skeletonToCorsairConvertChance: 0,
     undeadWarriorAttributes: {
         // Skeletons with enchanted bow always convert to undead warrior with bow
         alwaysKeepEnchantedBow: true,

@@ -1,5 +1,5 @@
 [general]
-debug=false
+debug=true
 use-generation-check = false
 
 [[mob]]
@@ -115,7 +115,18 @@ set.health=40
 [[mob]]
 name="frycmobvariants:corsair"
 [[mob.rule]]
+name="beach-corsairs"
+biome-tag="#minecraft:is_beach"
+type="control"
 spawn.count=1
+spawn.additional-checks="yes"
+
+[[mob]]
+name="minecraft:skeleton"
+[[mob.rule]]
+name="no-beach-skeletons"
+biome-tag="#minecraft:is_beach"
+type="block"
 
 [[mob]]
 name="*"
