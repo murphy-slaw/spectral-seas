@@ -11277,6 +11277,80 @@
             ]
         },
         {
+            "pakku_id": "Vg4vOZoblh2D09zu",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "volume-gamma",
+                "modrinth": "volume-gamma"
+            },
+            "name": {
+                "curseforge": "Music Expansion - Volume Gamma",
+                "modrinth": "Music Expansion - Volume Gamma"
+            },
+            "id": {
+                "curseforge": "1348169",
+                "modrinth": "Wo4shKNJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "volume-gamma-lite-1.0.1-lite.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7460/511/volume-gamma-lite-1.0.1-lite.jar",
+                    "id": "7460511",
+                    "parent_id": "1348169",
+                    "hashes": {
+                        "sha1": "f3710eccfac2afad7413b897cbe5143170f22ec7",
+                        "md5": "f3821229beb3588e95383e329a2c9f0c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 95255149,
+                    "date_published": "2026-01-14T20:52:41.320Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "volume-gamma-lite-1.0.1-lite.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wo4shKNJ/versions/4YeuOuH5/volume-gamma-lite-1.0.1-lite.jar",
+                    "id": "4YeuOuH5",
+                    "parent_id": "Wo4shKNJ",
+                    "hashes": {
+                        "sha512": "53a166d2e4215bd04b04f6a18109ff9a0fc4cd62c023804ddfa1ed5014ef543b9b858fdcd885296a88af91249c005506ee3fa3e4f10bceb0dd82b5294fbd3ef5",
+                        "sha1": "f3710eccfac2afad7413b897cbe5143170f22ec7"
+                    },
+                    "required_dependencies": [],
+                    "size": 95255149,
+                    "date_published": "2026-01-14T20:53:45.878737Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CVQ8jZB5F16sBOUp",
             "type": "MOD",
             "side": "SERVER",
