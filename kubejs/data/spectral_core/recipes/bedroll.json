@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "h": {
+            "item": "farmersdelight:canvas"
+        }
+    },
+    "pattern": [
+        "hhh"
+    ],
+    "result": {
+        "item": "spectral_core:bedroll"
+    }
+}
