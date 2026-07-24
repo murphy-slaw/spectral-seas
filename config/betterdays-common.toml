@@ -42,7 +42,7 @@
 	#This setting defines the length of the night in real-world minutes.
 	#Vanilla length: 10.0 minutes
 	#Range: 0.1 ~ 10000.0
-	nightSpeedMinutes = 15.0
+	nightSpeedMinutes = 10.0
 	#These are the pairs that define what speed time should run at, at the specified day/night tick
 	#The two default pairs need to exist, but their time speed values can be modified
 	interpolatedTimeList = ["0,1.0", "24000,1.0"]
