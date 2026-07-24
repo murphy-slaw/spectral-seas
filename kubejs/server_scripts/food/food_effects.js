@@ -3,7 +3,7 @@ const reg = Utils.getRegistry('minecraft:mob_effect')
 
 const DEFAULT_EFFECTS = [
     NBT.compoundTag({
-        Id: 'minecraft:poison',
+        Location: 'minecraft:poison',
         Duration: 50,
         Amplifier: 0,
         Ambient: false,
@@ -18,7 +18,13 @@ const DEFAULT_EFFECTS = [
  */
 const addEffects = (player, effectList) => {
     effectList.forEach((effect) => {
-        const mobEffect = reg.getValue(effect.Id)
+        console.log(effect)
+        const mobEffect = effect.Location
+            ? reg.getValue(effect.Location)
+            : reg.getVanillaRegistry().byId(effect.Id)
+
+        console.log(mobEffect)
+
         if (mobEffect)
             player.potionEffects.add(
                 mobEffect,

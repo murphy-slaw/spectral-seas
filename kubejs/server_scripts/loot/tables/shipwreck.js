@@ -1,26 +1,30 @@
 LootJS.modifiers((event) => {
-    event.addLootTableModifier('chests/shipwreck_supply').addLoot(
-        LootEntry.of('smallships_upgrades:cargo_upgrade').when((c) => c.randomChance(0.1)),
-        LootEntry.of('minecraft:coal')
-            .when((c) => c.randomChance(0.7))
-            .limitCount([3, 8]),
-        LootEntry.of('supplementaries:rope')
-            .when((c) => c.randomChance(0.5))
-            .limitCount([1, 3]),
-        LootEntry.of('smallships:sail')
-            .when((c) => c.randomChance(0.25))
-            .limitCount([1, 2]),
-        LootEntry.of('minecraft:coast_armor_trim_smithing_template')
-            .when((c) => c.randomChance(0.2))
-            .limitCount([1, 2]),
-        LootEntry.of('minecraft:potion')
-            .addPotion('spectral_seas:grog')
-            .when((c) => c.randomChance(0.3))
-            .limitCount([1, 3]),
-        Loot.randomEntryOf(Loot.allChowders())
-            .when((c) => c.randomChance(0.5))
-            .limitCount([1, 3])
-    )
+    Loot.allChowders().forEach((chowder) => {
+        console.log(chowder)
+    })
+    event
+        .addLootTableModifier('chests/shipwreck_supply')
+        .addLoot(
+            LootEntry.of('smallships_upgrades:cargo_upgrade').when((c) => c.randomChance(0.1)),
+            LootEntry.of('minecraft:coal')
+                .when((c) => c.randomChance(0.7))
+                .limitCount([3, 8]),
+            LootEntry.of('supplementaries:rope')
+                .when((c) => c.randomChance(0.5))
+                .limitCount([1, 3]),
+            LootEntry.of('smallships:sail')
+                .when((c) => c.randomChance(0.25))
+                .limitCount([1, 2]),
+            LootEntry.of('minecraft:coast_armor_trim_smithing_template')
+                .when((c) => c.randomChance(0.2))
+                .limitCount([1, 2]),
+            LootEntry.of('minecraft:potion')
+                .addPotion('spectral_seas:grog')
+                .when((c) => c.randomChance(0.3))
+                .limitCount([1, 3])
+        )
+        .randomChance(0.5)
+        .addWeightedLoot(Loot.allChowders().map((chowder) => LootEntry.of(chowder).withChance(1)))
 
     event.addLootTableModifier('chests/shipwreck_map').addLoot(
         LootEntry.of('spyglass').when((c) => c.randomChance(0.2)),

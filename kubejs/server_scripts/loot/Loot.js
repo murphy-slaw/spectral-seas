@@ -147,29 +147,19 @@ const Loot = (function () {
         const reg = Utils.getRegistry('potion')
         const potion = reg.getValue(effect)
 
-        let tag = NBT.compoundTag()
+        let customEffects = []
 
         if (!potion.effects.empty) {
             /** @param {Internal.MobEffectInstance}  effect */
             potion.effects.forEach((effect) => {
-                tag = effect.save(tag)
+                let tag = NBT.compoundTag()
+                effect.save(tag)
+                customEffects.push(tag)
             })
         }
 
-        return LootEntry.of('spectral_seas:suspicious_chowder').addNBT({
-            CustomPotionEffects: [
-                tag,
-                {
-                    Ambient: 0,
-                    Amplifier: 0,
-                    Duration: 50,
-                    Id: $MobEffect.getId('poison'),
-                    ShowIcon: 1,
-                    ShowParticles: 1,
-                },
-            ],
-            Potion: 'potioncraft:crafted_potion',
-            potency: 3,
+        return Item.of('spectral_seas:suspicious_chowder', {
+            CustomPotionEffects: customEffects,
         })
     }
 
@@ -182,8 +172,10 @@ const Loot = (function () {
         'minecraft:night_vision',
         'minecraft:strength',
         'minecraft:slow_falling',
+        'minecraft:water_breathing',
+        'minecraft:slowness',
+        'minecraft:weakness',
         'minecraft:poison',
-        'minecraft:blindness',
     ]
     function allChowders(event) {
         return CHOWDER_EFFECTS.map((effect) => Loot.chowderOf(effect))
