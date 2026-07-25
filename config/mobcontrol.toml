@@ -116,16 +116,16 @@ set.health=40
 name="frycmobvariants:corsair"
 [[mob.rule]]
 name="beach-corsairs"
-biome-tag="#minecraft:is_beach"
+biome-tag="minecraft:is_beach"
 type="control"
 spawn.count=1
-spawn.additional-checks="yes"
+run=100
 
 [[mob]]
 name="minecraft:skeleton"
 [[mob.rule]]
 name="no-beach-skeletons"
-biome-tag="#minecraft:is_beach"
+biome-tag="minecraft:is_beach"
 type="block"
 
 [[mob]]
