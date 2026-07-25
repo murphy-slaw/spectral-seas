@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-        "oceania:rocky_beach",
-        "oceania:ocean_trench"
+        "oceania:rocky_beach"
     ]
 }
