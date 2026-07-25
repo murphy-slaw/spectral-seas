@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 0,
           "Duration": 400,
-          "Id": "minecraft:dolphins_grace",
+          "Location": "minecraft:dolphins_grace",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

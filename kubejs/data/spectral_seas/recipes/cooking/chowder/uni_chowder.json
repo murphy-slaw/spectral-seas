@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 1,
           "Duration": 400,
-          "Id": "minecraft:nausea",
+          "Location": "minecraft:nausea",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 2,
           "Duration": 400,
-          "Id": "minecraft:slow_falling",
+          "Location": "minecraft:slow_falling",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

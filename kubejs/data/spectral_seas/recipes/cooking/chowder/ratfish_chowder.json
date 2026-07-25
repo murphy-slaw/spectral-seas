@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 0,
           "Duration": 400,
-          "Id": "spectral_seas:shrinking",
+          "Location": "spectral_seas:shrinking",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

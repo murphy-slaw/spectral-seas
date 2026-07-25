@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 2,
           "Duration": 400,
-          "Id": "minecraft:slowness",
+          "Location": "minecraft:slowness",
           "ShowIcon": 1,
           "ShowParticles": 1
         },
@@ -33,7 +33,7 @@
           "Ambient": 0,
           "Amplifier": 0,
           "Duration": 400,
-          "Id": "minecraft:resistance",
+          "Location": "minecraft:resistance",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

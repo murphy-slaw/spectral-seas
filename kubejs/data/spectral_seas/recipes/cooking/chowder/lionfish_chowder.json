@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 0,
           "Duration": 400,
-          "Id": "minecraft:poison",
+          "Location": "minecraft:poison",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

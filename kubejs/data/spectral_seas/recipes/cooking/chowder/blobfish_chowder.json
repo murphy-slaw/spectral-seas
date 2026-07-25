@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 5,
           "Duration": 400,
-          "Id": "staminafortweakers:fatigue",
+          "Location": "staminafortweakers:fatigue",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 1,
           "Duration": 400,
-          "Id": "minecraft:absorption",
+          "Location": "minecraft:absorption",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

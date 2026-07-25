@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 0,
           "Duration": 400,
-          "Id": "minecraft:night_vision",
+          "Location": "minecraft:night_vision",
           "ShowIcon": 1,
           "ShowParticles": 1
         }

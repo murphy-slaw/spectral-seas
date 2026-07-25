@@ -25,7 +25,7 @@
           "Ambient": 0,
           "Amplifier": 2,
           "Duration": 400,
-          "Id": "staminafortweakers:tirelessness",
+          "Location": "staminafortweakers:tirelessness",
           "ShowIcon": 1,
           "ShowParticles": 1
         }
