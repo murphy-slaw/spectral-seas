@@ -180,7 +180,14 @@
         "items": [
             "farmersdelight:rich_soil",
             "farmersdelight:organic_compost",
-            "farmersdelight:rope"
+            "farmersdelight:rope",
+            "farmersdelight:shepherds_pie",
+            "farmersdelight:roast_chicken",
+            "farmersdelight:honey_glazed_ham",
+            "farmersdelight:stuffed_pumpkin"
+        ],
+        "tags": [
+            "farmersdelight:feasts"
         ]
     }
 ]
