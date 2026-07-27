@@ -20,7 +20,7 @@
 #Farming
 [farming]
 	#Which rope should Tomato Vines leave behind when mined by hand?
-	defaultTomatoVineRope = "farmersdelight:rope"
+	defaultTomatoVineRope = "supplementaries:rope"
 	#Should tomato vines be able to climb any rope tagged as farmersdelight:ropes?
 	#Beware: this will convert these blocks into the block specified in defaultTomatoVineRope.
 	enableTomatoVineClimbingTaggedRopes = true
@@ -56,12 +56,12 @@
 	[world.wild_cabbages]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 30
+		chance = 60
 	#Sea Beet generation
 	[world.wild_beetroots]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 30
+		chance = 60
 	#Wild Potato generation
 	[world.wild_potatoes]
 		#Chance of generating clusters. Smaller value = more frequent.
@@ -71,12 +71,12 @@
 	[world.wild_carrots]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 120
+		chance = 100
 	#Wild Onion generation
 	[world.wild_onions]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 120
+		chance = 100
 	#Tomato Vines generation
 	[world.wild_tomatoes]
 		#Chance of generating clusters. Smaller value = more frequent.
