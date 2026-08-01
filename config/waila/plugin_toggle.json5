@@ -1,11 +1,10 @@
 {
-  "balm:wthit": true,
-  "item-descriptions:block_descriptions": true,
-  "revelationary:plugin": true,
-  "smallships:waila": true,
   "waila:core": true,
   "waila:vanilla": true,
   "waila:harvest": true,
   "waila:extra": true,
-  "waila:fabric": true
+  "waila:fabric": true,
+  "balm:wthit": true,
+  "revelationary:plugin": true,
+  "smallships:waila": true
 }

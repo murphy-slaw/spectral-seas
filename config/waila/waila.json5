@@ -104,36 +104,7 @@
     // Default value: [§8%s]
     registryName: "§8%s",
     // 
-    styles: {
-      // 
-      "§f%s": {
-        // 
-        field_11855: {
-          // 
-          field_24364: 16777215,
-          // 
-          field_24365: "white"
-        },
-        // 
-        field_11856: false,
-        // 
-        field_11852: false,
-        // 
-        field_11851: false,
-        // 
-        field_11857: false,
-        // 
-        field_11861: false,
-        // 
-        field_11853: null,
-        // 
-        field_11858: null,
-        // 
-        field_11859: null,
-        // 
-        field_24361: null
-      }
-    }
+    styles: {}
   },
   keyBinds: {
     // Open Config
