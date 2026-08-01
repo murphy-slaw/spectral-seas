@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "min_pursuit_entities": 3,
   "decay_time": 3,
   "sounds": [
@@ -9,5 +9,6 @@
   "music_frequency": "FREQUENT",
   "show_music_toast": true,
   "better_jukeboxes": true,
+  "jukebox_fade_out": true,
   "jukebox_distance": 64.0
 }
