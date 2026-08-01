@@ -25,7 +25,11 @@
         "wabi_sabi_structures:effigy_patch_mushroom",
         "wabi_sabi_structures:effigy_patch_jungle",
         "nova_structures:wild_ruin",
-        "towns_and_towers:village_beach",
-        "mostructures:moai"
+        "mostructures:moai",
+        "totw_reworked:regular",
+        "totw_reworked:jungle",
+        "totw_reworked:ice",
+        "totw_reworked:derelict",
+        "totw_reworked:derelict_grass"
     ]
 }
