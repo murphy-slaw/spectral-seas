@@ -6110,52 +6110,50 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7199/661/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
-                    "id": "7199661",
-                    "parent_id": "993166",
-                    "hashes": {
-                        "sha1": "b8dded252730b2d47655813dde9d743785c0b107",
-                        "md5": "f4f3c88e3a2c463d125c45c44980b1ca"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 8056758,
-                    "date_published": "2025-11-08T17:13:56.560Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+                    "file_name": "FarmersDelight-1.20.1-2.5.2+refabricated.jar",
                     "mc_versions": [
-                        "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/Z8UNayLO/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
-                    "id": "Z8UNayLO",
+                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/GQvv4NDs/FarmersDelight-1.20.1-2.5.2+refabricated.jar",
+                    "id": "GQvv4NDs",
                     "parent_id": "7vxePowz",
                     "hashes": {
-                        "sha512": "4fa3d8756af6df2135f19b6b78972b098e75fbfb189252288f782ad00c2a56ce6b12320e8fe8975c250f0cc001daeafb24a91bb1c09717c01302225807599450",
-                        "sha1": "b8dded252730b2d47655813dde9d743785c0b107"
+                        "sha512": "68bda0f0834d0bdef640b63d107aa66b770ed3a6a0aa8ab4a35bf3f0824e93cb2c20ed9fe098b08ab0af706ede10f4309a50ff8755e76c7352612378793f0574",
+                        "sha1": "6c3c06c9663421c37ff7c9c2ddbf47239b1dfbb0"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 8056758,
-                    "date_published": "2025-11-08T17:13:58.537463Z"
+                    "size": 6132579,
+                    "date_published": "2026-07-31T14:55:57.927942Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersDelight-1.20.1-2.5.2+refabricated.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8547/913/FarmersDelight-1.20.1-2.5.2+refabricated.jar",
+                    "id": "8547913",
+                    "parent_id": "993166",
+                    "hashes": {
+                        "sha1": "6c3c06c9663421c37ff7c9c2ddbf47239b1dfbb0",
+                        "md5": "6af8ca788cf79792d2353ed73f0326e7"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 6132579,
+                    "date_published": "2026-07-31T14:55:57.040Z"
                 }
             ]
         },
