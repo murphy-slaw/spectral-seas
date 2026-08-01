@@ -98,6 +98,15 @@
         },
         "keybindhider": {
             "update_strategy": "NONE"
+        },
+        "better-squid": {
+            "update_strategy": "NONE"
+        },
+        "more-underwater-music": {
+            "update_strategy": "NONE"
+        },
+        "music-and-melody": {
+            "update_strategy": "NONE"
         }
     }
 }
