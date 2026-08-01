@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "ttf",
+            "file": "junicode_cond_light.ttf",
+            "size": 12,
+            "shift": [
+                0,
+                0
+            ],
+            "oversample": 8
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/unifont"
+        }
+    ]
+}
