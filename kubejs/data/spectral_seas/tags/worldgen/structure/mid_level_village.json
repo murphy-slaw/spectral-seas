@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#minecraft:village",
+        {
+            "id": "#spectral_seas:low_village",
+            "excluded": true
+        }
+    ]
+}
