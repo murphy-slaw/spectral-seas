@@ -11104,40 +11104,70 @@
             ]
         },
         {
-            "pakku_id": "XPPSZstZcSkTBUlN",
+            "pakku_id": "2GoKccd6VftrokWe",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
             "slug": {
-                "modrinth": "more-music"
+                "modrinth": "inkorsmoremusic"
             },
             "name": {
                 "modrinth": "More Music"
             },
             "id": {
-                "modrinth": "ntw6vpSk"
+                "modrinth": "NE1TdtgT"
             },
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "More-Music-1.20.1-Fixed.zip",
+                    "file_name": "More Music.zip",
                     "mc_versions": [
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
                         "1.20",
-                        "1.20.1"
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ntw6vpSk/versions/LSEBdTOf/More-Music-1.20.1-Fixed.zip",
-                    "id": "LSEBdTOf",
-                    "parent_id": "ntw6vpSk",
+                    "url": "https://cdn.modrinth.com/data/NE1TdtgT/versions/jKJ0QfBP/More Music.zip",
+                    "id": "jKJ0QfBP",
+                    "parent_id": "NE1TdtgT",
                     "hashes": {
-                        "sha512": "2125b0cc802d263595f31dbdd6f031b2da9281c818c215451d58451fa24aed18b90e3d2d6a923f3de85e0bdbb2bee2d36b25f4cbcb4b1818c7a1cf6bcee741db",
-                        "sha1": "567fe73162135a10dca839d8f337c2d764a04911"
+                        "sha512": "5bf3966691c416b73e93eaa26af965293a2a391d99806a5dd4dc3f8cb5a725354525c14123439aa6548121a783768df4969948f0a59004dac348b3fc6a3877ee",
+                        "sha1": "c80beab915d8bb9f2c4217175a8425b4618940b9"
                     },
                     "required_dependencies": [],
-                    "size": 155337206,
-                    "date_published": "2024-11-22T10:52:35.255830Z"
+                    "size": 224908610,
+                    "date_published": "2025-09-14T00:13:28.577934Z"
                 }
             ]
         },
