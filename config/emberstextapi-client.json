@@ -1,0 +1,21 @@
+{
+  "messages": {
+    "immersiveMessagesEnabled": true,
+    "maxMessageDuration": 0,
+    "maxActiveMessages": 0,
+    "maxQueueSize": 50
+  },
+  "effects": {
+    "reduceMotion": false,
+    "perEffect": [],
+    "perCategory": [],
+    "maxNeonQuality": 3
+  },
+  "rendering": {
+    "sdfEnabled": true,
+    "textLayoutCacheSize": 256
+  },
+  "internal": {
+    "schemaVersion": 1
+  }
+}

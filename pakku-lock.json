@@ -4668,6 +4668,74 @@
             ]
         },
         {
+            "pakku_id": "v5v96xPsCLfFpn0W",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "embers-text-api",
+                "modrinth": "embers-text-api"
+            },
+            "name": {
+                "curseforge": "Ember's Text API",
+                "modrinth": "Embers Text API"
+            },
+            "id": {
+                "curseforge": "1345948",
+                "modrinth": "OVSg4uGN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emberstextapi-fabric-1.20.1-3.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8389/403/emberstextapi-fabric-1.20.1-3.0.2.jar",
+                    "id": "8389403",
+                    "parent_id": "1345948",
+                    "hashes": {
+                        "sha1": "68c4904da675316ac31e7df65fb5e8bf0bd6e5ce",
+                        "md5": "162c1bd1025ab91d0aa9fcd17dc5a64f"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 5860507,
+                    "date_published": "2026-07-07T21:09:04.200Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emberstextapi-fabric-1.20.1-3.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OVSg4uGN/versions/LmzW19eV/emberstextapi-fabric-1.20.1-3.0.2.jar",
+                    "id": "LmzW19eV",
+                    "parent_id": "OVSg4uGN",
+                    "hashes": {
+                        "sha512": "d40fde50440c6770255135af09c284203a47c325f3e6625690f2d502d96a68216d4f049718009373407074541051e3b85c52ad8f902f6c4ac3179292c573e950",
+                        "sha1": "68c4904da675316ac31e7df65fb5e8bf0bd6e5ce"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 5860507,
+                    "date_published": "2026-07-07T21:30:25.706046Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ww4161T6ctqoafe9",
             "pakku_links": [
                 "zXaWgcexJGDOgsjl"
@@ -10631,75 +10699,6 @@
                     "required_dependencies": [],
                     "size": 721366,
                     "date_published": "2024-03-06T19:14:23.863Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3enTt5Mtdy9wclx8",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "modern-ui",
-                "modrinth": "modern-ui"
-            },
-            "name": {
-                "curseforge": "Modern UI",
-                "modrinth": "Modern UI"
-            },
-            "id": {
-                "curseforge": "352491",
-                "modrinth": "3sjzyvGR"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3sjzyvGR/versions/X2Gc2jpP/ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
-                    "id": "X2Gc2jpP",
-                    "parent_id": "3sjzyvGR",
-                    "hashes": {
-                        "sha512": "91f42e2a5f410e1a57aba48dca4c306ebd531526f3fbc4e9b193e0bce20378c7f48a4fb547fafad8a1cfee34426e7f9d9816d2e6070d0e443b3d62dd1cf91208",
-                        "sha1": "90b40fcb82e885fcb8f73992dc51473682db29d8"
-                    },
-                    "required_dependencies": [
-                        "ohNO6lps"
-                    ],
-                    "size": 24987755,
-                    "date_published": "2025-09-02T16:37:44.658193Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6956/341/ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
-                    "id": "6956341",
-                    "parent_id": "352491",
-                    "hashes": {
-                        "sha1": "90b40fcb82e885fcb8f73992dc51473682db29d8",
-                        "md5": "c5e2a0aa16f167cc791f06bb53df7c6f"
-                    },
-                    "required_dependencies": [
-                        "547434"
-                    ],
-                    "size": 24987755,
-                    "date_published": "2025-09-02T16:32:17.047Z"
                 }
             ]
         },
