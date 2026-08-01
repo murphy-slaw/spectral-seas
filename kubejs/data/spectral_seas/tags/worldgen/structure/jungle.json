@@ -4,6 +4,7 @@
         "minecraft:jungle_pyramid",
         "mostructures:jungle_pyramid",
         "mvs:jungle_tower",
-        "nova_structures:jungle_ruins"
+        "nova_structures:jungle_ruins",
+        "epic:epic_temple_ruin"
     ]
 }

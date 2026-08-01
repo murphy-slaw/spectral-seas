@@ -7,13 +7,18 @@
     "nova_structures:desert_ruins",
     "nova_structures:jungle_ruins",
     "mostructures:jungle_pyramid",
+    "epic:epic_temple",
+    "epic:epic_temple_large",
+    "epic:epic_temple_large",
+    "epic:epic_temple_ruin",
     "nova_structures:wild_ruin",
     "philipsruins:desert_structures",
     "philipsruins:level_one_ruins",
     "philipsruins:level_three_ruins",
     "philipsruins:level_two_ruins_pool",
     "philipsruins:level_two_ruins",
-    "philipsruins:field_stone_ruins"
+    "philipsruins:field_stone_ruins",
+    "philipsruins:pumpkin_ruins"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",
