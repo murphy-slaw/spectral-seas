@@ -15344,74 +15344,6 @@
             ]
         },
         {
-            "pakku_id": "6nwG8NCP0WnOBegb",
-            "pakku_links": [
-                "7cMLRAcpexmqapBR"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "spectral-core",
-                "modrinth": "spectral-core"
-            },
-            "name": {
-                "curseforge": "Spectral Core",
-                "modrinth": "Spectral Core"
-            },
-            "id": {
-                "curseforge": "1461825",
-                "modrinth": "JrVWns8p"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "spectral_core-fabric-1.20.1-1.0.5.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7947/367/spectral_core-fabric-1.20.1-1.0.5.jar",
-                    "id": "7947367",
-                    "parent_id": "1461825",
-                    "hashes": {
-                        "sha1": "ff451aa1ab5fea22fb3c071d8c0bf42a90563958",
-                        "md5": "e0f20c5942b2aed4869a0d535605734e"
-                    },
-                    "required_dependencies": [
-                        "556967"
-                    ],
-                    "size": 170048,
-                    "date_published": "2026-04-18T22:05:06.580Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "spectral_core-fabric-1.20.1-1.0.5.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/JrVWns8p/versions/tgNEkTpv/spectral_core-fabric-1.20.1-1.0.5.jar",
-                    "id": "tgNEkTpv",
-                    "parent_id": "JrVWns8p",
-                    "hashes": {
-                        "sha512": "e33841e60b132ba12fc6d14041414b9d9e65c0587a68016bd78e6029e844f8bd868d67c7d6251b753430123ed906f48926b85473f7371c6164ed6d5fd372a9ce",
-                        "sha1": "ff451aa1ab5fea22fb3c071d8c0bf42a90563958"
-                    },
-                    "required_dependencies": [
-                        "3rc31Hgo"
-                    ],
-                    "size": 170048,
-                    "date_published": "2026-04-18T22:06:23.162676Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "2XkI45P4DFJhxD5k",
             "type": "MOD",
             "side": "BOTH",
@@ -19749,5 +19681,5 @@
             ]
         }
     ],
-    "lockfile_version": 1
+    "lockfile_version": 2
 }
