@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "spectral_seas:stick_saplings"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stick"
+    },
+    "category": "misc"
+}
