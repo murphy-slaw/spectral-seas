@@ -66,6 +66,7 @@ ItemEvents.entityInteracted((event) => {
     level.getBlock(bedPos).set('minecraft:red_bed')
     player.yRot = ship.yRot
     player.startSleeping(bedPos)
+    if (item.hasTag('spectral_seas:consumable_beds')) item.shrink(1)
 
     // We are sleeping in a cheaty way, so we have to tell the ServerLevel to do a sleep status update.
     const serverLevel = server.getLevel(level.dimension)
