@@ -403,14 +403,6 @@
 			},
 			{
 				"namespace": "inmis",
-				"path": "recipes/baby_backpack.json"
-			},
-			{
-				"namespace": "inmis",
-				"path": "advancements/baby_backpack.json"
-			},
-			{
-				"namespace": "inmis",
 				"path": "advancements/recipes/baby_backpack.json"
 			},
 			{
