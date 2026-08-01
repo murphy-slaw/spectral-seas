@@ -2,8 +2,8 @@
     "placement": {
         "salt": 700613544,
         "type": "minecraft:random_spread",
-        "separation": 8,
-        "spacing": 20,
+        "separation": 16,
+        "spacing": 32,
         "exclusion_zone": {
             "chunk_count": 5,
             "other_set": "minecraft:villages"
@@ -23,8 +23,12 @@
             "weight": 4
         },
         {
-            "structure": "nova_structures:jungle_ruins",
+            "structure": "epic:epic_temple_ruin",
             "weight": 4
+        },
+        {
+            "structure": "nova_structures:jungle_ruins",
+            "weight": 1
         }
     ]
 }
