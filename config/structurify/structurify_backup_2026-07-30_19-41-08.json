@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.28",
-  "config_datetime": "2026-07-30_19-41-08",
+  "config_datetime": "2026-07-30_19-05-52",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -27,14 +27,6 @@
     },
     {
       "name": "betterdungeons:zombie_dungeon",
-      "is_disabled": true
-    },
-    {
-      "name": "epic:epic_temple",
-      "is_disabled": true
-    },
-    {
-      "name": "epic:epic_temple_large",
       "is_disabled": true
     }
   ],

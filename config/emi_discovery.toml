@@ -1,2 +1,3 @@
 displayCraftableInIndex = true
-displayWithUnknownWorkstation = false
+displayWithUnknownWorkstation = true
+enableForCreativeMode = false

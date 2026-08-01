@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "m": {
+      "item": "minecraft:gold_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "m",
+    "s"
+  ],
+  "result": {
+    "item": "farmersdelight:golden_knife",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:loyalty",
+          "lvl": 1
+        }
+      ]
+    }
+  },
+  "show_notification": true
+}

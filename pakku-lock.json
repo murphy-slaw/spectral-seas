@@ -5909,7 +5909,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
+                    "file_name": "fancymenu_fabric_3.9.9_MC_1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -5917,24 +5917,24 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EBkgoKxF/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
-                    "id": "EBkgoKxF",
+                    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PKhJ7tPe/fancymenu_fabric_3.9.9_MC_1.20.1.jar",
+                    "id": "PKhJ7tPe",
                     "parent_id": "Wq5SjeWM",
                     "hashes": {
-                        "sha512": "1edb8bba4901b32387717efdc4a10c40aa8244e0daa2bb0cd87c29d9548a3a66c10978a613b7f7a165caff6e1f2daf60fa2327fe7838056b0c54b495dd228625",
-                        "sha1": "67208d4ef2fe6a691f2cf863139077dd4b1d9c8f"
+                        "sha512": "820abb8044db90ea268f062a8ff2d4c54f4e275e38364c2e247d857b319da2b9cb7935986f3247daea57c84c6f013ef6b1e66fcfc4cc3bc2433358f4b022b351",
+                        "sha1": "b3ccdf2c8c278475cff07ab9f3badda1305876b7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
                         "CVT4pFB2",
-                        "J81TRJWm"
+                        "J81TRJWm",
+                        "P7dR8mSH"
                     ],
-                    "size": 4472279,
-                    "date_published": "2025-11-24T08:22:34.741788Z"
+                    "size": 26203629,
+                    "date_published": "2026-07-31T03:40:35.625476Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
+                    "file_name": "fancymenu_fabric_3.9.8_MC_1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -5942,20 +5942,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7256/727/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
-                    "id": "7256727",
+                    "url": "https://edge.forgecdn.net/files/8440/195/fancymenu_fabric_3.9.8_MC_1.20.1.jar",
+                    "id": "8440195",
                     "parent_id": "367706",
                     "hashes": {
-                        "sha1": "67208d4ef2fe6a691f2cf863139077dd4b1d9c8f",
-                        "md5": "352b70cfa9369147a1b0c435873bb1c0"
+                        "sha1": "22a2f74283d89631ae25519413949eaf87114541",
+                        "md5": "aa4bfe005b92b7885deebcbf25baac4e"
                     },
                     "required_dependencies": [
-                        "938643",
+                        "410295",
                         "306612",
-                        "416797"
+                        "938643"
                     ],
-                    "size": 4472279,
-                    "date_published": "2025-11-24T08:22:25.760Z"
+                    "size": 25798441,
+                    "date_published": "2026-07-15T20:51:32.357Z"
                 }
             ]
         },

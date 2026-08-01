@@ -8,7 +8,7 @@
     "spawnCamels": true,
     "generatePricklyPears": true,
     "pricklyPearGrowthChance": 1.0,
-    "generateDesertRuins": false
+    "generateDesertRuins": true
   },
   "snowy": {
     "spawnPenguins": true,
