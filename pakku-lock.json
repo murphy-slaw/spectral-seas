@@ -10387,45 +10387,45 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mobcontrol-1.20.1-1.5.15.jar",
+                    "file_name": "mobcontrol-1.20.1-2.0.1-beta-2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4gTwBSot/versions/eJCwFFYE/mobcontrol-1.20.1-1.5.15.jar",
-                    "id": "eJCwFFYE",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/4gTwBSot/versions/9zIrJog5/mobcontrol-1.20.1-2.0.1-beta-2.jar",
+                    "id": "9zIrJog5",
                     "parent_id": "4gTwBSot",
                     "hashes": {
-                        "sha512": "7714d7c9f49f7d9a41ea03378f66f94bee804eac396060884e4f9159def89a8984b9854fd0227fc54e377c4b17404361b04a6bb7858748ed2d7ea07f510cbc3f",
-                        "sha1": "ecbee26f41dada96065d282ac6b09c420e20d310"
+                        "sha512": "0a133d69307264f1abf3e1cbeb6493bc3fbab16cd28d889d4d19719449acd5c52a7c7e07bc1cf0df1d8f99a0547d1419802b596669c00618400894836606369d",
+                        "sha1": "724167b550d562d98dbad59bb706d98b1ca467d6"
                     },
                     "required_dependencies": [],
-                    "size": 187515,
-                    "date_published": "2025-11-26T22:56:26.107105Z"
+                    "size": 226513,
+                    "date_published": "2026-07-17T21:09:03.307842Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "mobcontrol-1.20.1-1.5.15.jar",
+                    "file_name": "mobcontrol-1.20.1-2.0.1-beta-2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7266/114/mobcontrol-1.20.1-1.5.15.jar",
-                    "id": "7266114",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8454/159/mobcontrol-1.20.1-2.0.1-beta-2.jar",
+                    "id": "8454159",
                     "parent_id": "1261370",
                     "hashes": {
-                        "sha1": "ecbee26f41dada96065d282ac6b09c420e20d310",
-                        "md5": "e70efde15da3dad4594067f68ffa6123"
+                        "sha1": "724167b550d562d98dbad59bb706d98b1ca467d6",
+                        "md5": "567233b97f8d58a8462e2e973405278d"
                     },
                     "required_dependencies": [],
-                    "size": 187515,
-                    "date_published": "2025-11-26T22:56:24.420Z"
+                    "size": 226513,
+                    "date_published": "2026-07-17T21:09:01.040Z"
                 }
             ]
         },
