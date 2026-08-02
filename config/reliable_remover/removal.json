@@ -51,8 +51,8 @@
             "/.*froglass.*/"
         ],
         "items": [
-            "ecologics:crab_claw",
             "ecologics:crab_meat",
+            "hybrid_aquatic:coconut_crab_claw",
             "galosphere:combustion_table",
             "galosphere:palladium_bomb",
             "galosphere:rope_dart",

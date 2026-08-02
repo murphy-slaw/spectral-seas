@@ -1,0 +1,9 @@
+[
+  {
+    "action": "replace_input",
+    "mods": "hybrid_aquatic",
+    "output": "hybrid_aquatic:ominous_hook",
+    "target": "hybrid_aquatic:coconut_crab_claw",
+    "replacement": "ecologics:crab_claw"
+  }
+]
