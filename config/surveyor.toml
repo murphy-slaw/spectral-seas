@@ -78,7 +78,7 @@ forceUpdateLandmarks = true
 	# Which block entities to preserve data for when creating block landmarks.
 	allowedBlockEntities = ["minecraft:banner"]
 	# Which points of interest to automatically add block landmarks for.
-	poiLandmarks = ["minecraft:lodestone"]
+	poiLandmarks = []
 	# Whether to automatically add specialised nether portal POI landmarks.
 	# Creates one landmark for each nether portal, instead of one per portal block.
 	# default: true
