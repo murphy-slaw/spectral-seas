@@ -1,0 +1,24 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "emberstextapi:sdf",
+            "file": "treasure_map_deadhand.ttf",
+            "size": 16.0,
+            "sdf_resolution": 48,
+            "padding": 4,
+            "px_range": 8.0,
+            "angle_threshold": 3.0,
+            "oversample": 2.0,
+            "shift": [0.0, 0.0],
+            "skip": ""
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/unifont"
+        }
+    ]
+}
