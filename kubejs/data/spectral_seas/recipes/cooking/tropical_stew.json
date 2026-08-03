@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "ecologics:crab_claw"
+    },
+    {
+      "item": "ecologics:coconut_slice"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "ecologics:tropical_stew"
+  }
+}
