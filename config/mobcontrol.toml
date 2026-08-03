@@ -9,7 +9,6 @@ name="vicious-hogs"
 type="all"
 set.on-hurt="all"
 set.attack="player"
-set.size=[150,200]
 
 [[mob]]
 name="minecraft:glow_squid"
@@ -64,29 +63,6 @@ type="natural"
 run=33
 
 [[mob]]
-name="hybrid_aquatic:coconut_crab"
-[[mob.rule]]
-type="all"
-biome="oceania:rocky_beach"
-spawn.convert = "hybrid_aquatic:dungeness_crab"
-run=100
-
-[[mob]]
-name="ecologics:coconut_crab"
-[[mob.rule]]
-type="all"
-spawn.convert = "hybrid_aquatic:coconut_crab"
-set.size=[200,300]
-run=100
-
-[[mob]]
-name="hybrid_aquatic:coconut_crab"
-[[mob.rule]]
-type="natural"
-set.size=[200,400]
-run=75
-
-[[mob]]
 name="minecraft:cod"
 [[mob.rule]]
 type="block"
@@ -111,15 +87,6 @@ spawn.convert = "hybrid_aquatic:blowfish"
 name="artifacts:mimic"
 [[mob.rule]]
 set.health=40
-
-[[mob]]
-name="frycmobvariants:corsair"
-[[mob.rule]]
-name="beach-corsairs"
-biome-tag="minecraft:is_beach"
-type="control"
-spawn.count=1
-run=100
 
 [[mob]]
 name="minecraft:skeleton"

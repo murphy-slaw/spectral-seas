@@ -1,0 +1,10 @@
+{
+    "type": "lithostitched:add_biome_spawns",
+    "biomes": "#minecraft:is_beach",
+    "spawners": {
+      "type": "frycmobvariants:corsair",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 2
+    }
+  }

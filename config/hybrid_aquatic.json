@@ -2723,7 +2723,7 @@
       "min_group_size": 1,
       "max_group_size": 2,
       "type": "hybrid_aquatic:coconut_crab",
-      "biomes": "hybrid_aquatic:sandy_beaches",
+      "biomes": "hybrid_aquatic:spawns_coconut_crabs",
       "group": "hybrid_aquatic:crustacean"
     },
     {
