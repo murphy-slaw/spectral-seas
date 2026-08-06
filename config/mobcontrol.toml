@@ -11,6 +11,13 @@ set.on-hurt="all"
 set.attack="player"
 
 [[mob]]
+name="hybrid_aquatic:coconut_crab"
+[[mob.rule]]
+name="crab_revenge"
+type = "all"
+set.on-hurt="one"
+
+[[mob]]
 name="minecraft:glow_squid"
 [[mob.rule]]
 name="rarer-glow-squid"
@@ -28,7 +35,11 @@ biome-tag="minecraft:is_beach"
 spawn.convert="rottencreatures:zombie_lackey"
 run=50
 [[mob.rule]]
+name="beach-corsairs"
 type="natural"
+biome-tag="minecraft:is_beach"
+spawn.convert="frycmobvariants:corsair"
+run=10
 
 [[mob]]
 name="minecraft:turtle"
@@ -54,6 +65,7 @@ type="control"
 spawn.count=[1,2]
 spawn.additional-checks="yes"
 repeat=400
+
 
 [[mob]]
 name="hybrid_aquatic:hermit_crab"

@@ -8,6 +8,12 @@ const pillagerHats = new Map([
     ['minecraft:air', 2],
 ])
 
+const undeadHats = new Map([
+    ['simplehats:bicorne', 1],
+    ['simplehats:tricorne', 1],
+    ['minecraft:air', 18],
+])
+
 const vindicatorWeapons = new Map([
     ['simplyswords:iron_cutlass', 2],
     ['simplyswords:iron_rapier', 2],
@@ -18,6 +24,13 @@ const pillagerWeapons = new Map([
     ['musketmod:pistol', 28],
     ['musketmod:blunderbuss', 1],
     ['musketmod:musket', 3],
+])
+
+const zombieLackeyWeapons = new Map([
+    ['sticknstone:stone_cutlass', 20],
+    ['farmersdelight:iron_knife', 10],
+    ['farmersdelight:skillet', 1],
+    ['supplementaries:wrench', 1]
 ])
 
 EntityEvents.spawned((event) => {
@@ -58,22 +71,40 @@ EntityEvents.spawned((event) => {
         }
     }
 
+    if (entity.type === 'frycmobvariants:corsair') {
+        event.server.scheduleInTicks(1, (task) => {
+            if (entity.getHeadArmorItem().empty) {
+                entity.setHeadArmorItem(Item.of(RandomUtils.weighted(undeadHats)))
+            }
+        })
+    }
+
     if (entity.type === 'rottencreatures:zombie_lackey') {
         event.server.scheduleInTicks(1, (task) => {
-            entity.setItemSlot('MAINHAND', 'sticknstone:stone_cutlass')
+            entity.setItemSlot('mainhand', Item.of(RandomUtils.weighted(zombieLackeyWeapons)))
+            if (entity.getHeadArmorItem().empty) {
+                entity.setHeadArmorItem(Item.of(RandomUtils.weighted(undeadHats)))
+            }
         })
     }
 
     if (entity.type === 'rottencreatures:skeleton_lackey') {
         event.server.scheduleInTicks(1, (task) => {
-            entity.setItemSlot('MAINHAND', 'sticknstone:stone_rapier')
-            entity.setItemSlot('OFFHAND', 'sticknstone:stone_cutlass')
+            entity.setItemSlot('MAINHAND', 'sticknstone:stone_cutlass')
+            entity.setItemSlot('OFFHAND', 'farmersdelight:iron_knife')
         })
     }
 
     if (entity.type === 'hybrid_aquatic:karkinos') {
-        console.debug('Summoned Karkinos: %s', entity.uuid)
         $ScaleTypes$BASE.getScaleData(entity).setScale(3)
+    }
+
+    if (entity.type === 'hybrid_aquatic:coconut_crab') {
+        $ScaleTypes$BASE.getScaleData(entity).setScale(1.5)
+    }
+
+    if (entity.type === 'naturalist:boar') {
+        $ScaleTypes$BASE.getScaleData(entity).setScale(1.25)
     }
 
     if (entity.type === 'minecraft:drowned') {
