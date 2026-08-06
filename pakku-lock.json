@@ -2221,67 +2221,6 @@
             ]
         },
         {
-            "pakku_id": "hxgAj0lOiv2iTDz4",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "campfire-fix",
-                "modrinth": "campfire-fix"
-            },
-            "name": {
-                "curseforge": "Campfire Fix",
-                "modrinth": "Campfire Fix"
-            },
-            "id": {
-                "curseforge": "996843",
-                "modrinth": "6KdIlRiC"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "campfirefix-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5435/342/campfirefix-fabric-1.20.1-1.0.1.jar",
-                    "id": "5435342",
-                    "parent_id": "996843",
-                    "hashes": {
-                        "sha1": "0346295c4bc779c3ad399e5af031f4353abf1265",
-                        "md5": "716184df5809c5fdf80d6e4e8e1f7d1a"
-                    },
-                    "required_dependencies": [],
-                    "size": 545705,
-                    "date_published": "2024-06-16T16:40:01.130Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "campfirefix-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6KdIlRiC/versions/TILV2Y7S/campfirefix-fabric-1.20.1-1.0.1.jar",
-                    "id": "TILV2Y7S",
-                    "parent_id": "6KdIlRiC",
-                    "hashes": {
-                        "sha512": "1de2aa765e814efb282ee22802110dab19c3991adbfd73418d775cae8758ac0c9bcd06d318d37d2e83c2e0fc603d0b951afcdb7d257da468ef282eb4250ba8d1",
-                        "sha1": "0346295c4bc779c3ad399e5af031f4353abf1265"
-                    },
-                    "required_dependencies": [],
-                    "size": 545705,
-                    "date_published": "2024-06-16T16:40:01.227751Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ziamzSyQJz78ybvl",
             "type": "MOD",
             "side": "SERVER",
@@ -2660,6 +2599,79 @@
                     ],
                     "size": 23063,
                     "date_published": "2023-08-13T21:10:48.040Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BhGUkc1lVA4WyoKq",
+            "pakku_links": [
+                "C7dh9QBYRnv6mkeL",
+                "E0Hhuv5KSx1UNZJ0"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "clientsort",
+                "modrinth": "clientsort"
+            },
+            "name": {
+                "curseforge": "Client Sort",
+                "modrinth": "Client Sort"
+            },
+            "id": {
+                "curseforge": "1049891",
+                "modrinth": "K0AkAin6"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "clientsort-fabric-2.2.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8172/872/clientsort-fabric-2.2.2+1.20.1.jar",
+                    "id": "8172872",
+                    "parent_id": "1049891",
+                    "hashes": {
+                        "sha1": "d1404ce9e29c0ca418ed38fd863498a9d4efc636",
+                        "md5": "a4bb6b768136159efcfc179a794f5622"
+                    },
+                    "required_dependencies": [
+                        "308702",
+                        "348521"
+                    ],
+                    "size": 313970,
+                    "date_published": "2026-05-31T04:29:48.217Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "clientsort-fabric-2.2.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/lFaCwSHU/clientsort-fabric-2.2.2+1.20.1.jar",
+                    "id": "lFaCwSHU",
+                    "parent_id": "K0AkAin6",
+                    "hashes": {
+                        "sha512": "1d01b05075186221650f8948d8c5d52c38cfb169ae0c7e567960bb677c451b6799b178f1c081ab85b3f3b8a55370d03d226817f57385686535f0aaf33fd76899",
+                        "sha1": "d1404ce9e29c0ca418ed38fd863498a9d4efc636"
+                    },
+                    "required_dependencies": [
+                        "mOgUt4GM",
+                        "9s6osm5g"
+                    ],
+                    "size": 313970,
+                    "date_published": "2026-05-31T04:29:49.501532Z"
                 }
             ]
         },
@@ -6111,7 +6123,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "FarmersDelight-1.20.1-2.5.2+refabricated.jar",
+                    "file_name": "FarmersDelight-1.20.1-2.5.4+refabricated.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6119,22 +6131,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/GQvv4NDs/FarmersDelight-1.20.1-2.5.2+refabricated.jar",
-                    "id": "GQvv4NDs",
+                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/XJvYxFQD/FarmersDelight-1.20.1-2.5.4+refabricated.jar",
+                    "id": "XJvYxFQD",
                     "parent_id": "7vxePowz",
                     "hashes": {
-                        "sha512": "68bda0f0834d0bdef640b63d107aa66b770ed3a6a0aa8ab4a35bf3f0824e93cb2c20ed9fe098b08ab0af706ede10f4309a50ff8755e76c7352612378793f0574",
-                        "sha1": "6c3c06c9663421c37ff7c9c2ddbf47239b1dfbb0"
+                        "sha512": "7d3acfacf9d5a68895f5b4e1cba8d51a9d72a612ff1207adaca02f6006af3ca705d8a8c0ceed192ea4b3f2f75edd752594e8134c35dc3cb1731b21d91366beeb",
+                        "sha1": "f2aa2d8981ee69247af3e4efca361f1255819ec3"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 6132579,
-                    "date_published": "2026-07-31T14:55:57.927942Z"
+                    "size": 6089217,
+                    "date_published": "2026-08-02T21:32:21.496014Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "FarmersDelight-1.20.1-2.5.2+refabricated.jar",
+                    "file_name": "FarmersDelight-1.20.1-2.5.4+refabricated.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6142,18 +6154,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8547/913/FarmersDelight-1.20.1-2.5.2+refabricated.jar",
-                    "id": "8547913",
+                    "url": "https://edge.forgecdn.net/files/8564/617/FarmersDelight-1.20.1-2.5.4+refabricated.jar",
+                    "id": "8564617",
                     "parent_id": "993166",
                     "hashes": {
-                        "sha1": "6c3c06c9663421c37ff7c9c2ddbf47239b1dfbb0",
-                        "md5": "6af8ca788cf79792d2353ed73f0326e7"
+                        "sha1": "f2aa2d8981ee69247af3e4efca361f1255819ec3",
+                        "md5": "12163e45af17de3f5ffd2928097ccd4b"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 6132579,
-                    "date_published": "2026-07-31T14:55:57.040Z"
+                    "size": 6089217,
+                    "date_published": "2026-08-02T21:32:20.730Z"
                 }
             ]
         },
@@ -8115,84 +8127,6 @@
                     ],
                     "size": 111864,
                     "date_published": "2023-06-09T17:18:53.817Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "uOx241Xl1PrWjzOD",
-            "pakku_links": [
-                "zXaWgcexJGDOgsjl",
-                "oUQoQAwtDrKCW1AZ",
-                "E3w4sDtObdJLRHAf"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "inventory-profiles-next",
-                "modrinth": "inventory-profiles-next"
-            },
-            "name": {
-                "curseforge": "Inventory Profiles Next",
-                "modrinth": "Inventory Profiles Next"
-            },
-            "id": {
-                "curseforge": "495267",
-                "modrinth": "O7RBXm3n"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "InventoryProfilesNext-fabric-1.20-1.10.20.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7566/2/InventoryProfilesNext-fabric-1.20-1.10.20.jar",
-                    "id": "7566002",
-                    "parent_id": "495267",
-                    "hashes": {
-                        "sha1": "e45676c4193d69b0eb0ebdb7881a6daeb36a9b5e",
-                        "md5": "d84673b9ba4022ecca60d30d90e9330c"
-                    },
-                    "required_dependencies": [
-                        "308769",
-                        "306612",
-                        "679177"
-                    ],
-                    "size": 1455143,
-                    "date_published": "2026-02-02T13:18:32.577Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "InventoryProfilesNext-fabric-1.20-1.10.20.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ZTQIr2Z9/InventoryProfilesNext-fabric-1.20-1.10.20.jar",
-                    "id": "ZTQIr2Z9",
-                    "parent_id": "O7RBXm3n",
-                    "hashes": {
-                        "sha512": "91a031e86f08ca7a018c6c65c1e57aac39d5bf8a14d299d2ed8aab86f8deddbeecd54496fb4d8f3e2e00a30b8058ab9fe70910b448507829005733528c667685",
-                        "sha1": "e45676c4193d69b0eb0ebdb7881a6daeb36a9b5e"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL",
-                        "onSQdWhM"
-                    ],
-                    "size": 1455143,
-                    "date_published": "2026-02-02T13:18:30.759856Z"
                 }
             ]
         },
@@ -10434,64 +10368,64 @@
             ]
         },
         {
-            "pakku_id": "WXDpVelpbKnyjOVu",
+            "pakku_id": "tylq576xisopqsC6",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "modrinth": "mob-control",
-                "curseforge": "ohaydens-mob-control"
+                "curseforge": "ohaydens-mob-control",
+                "modrinth": "mob-control"
             },
             "name": {
-                "modrinth": "Mob Control",
-                "curseforge": "Mob Control: Add custom AI, break blocks, regrowth, spawners, plus more! Bad mobs? Block them! You're in control of your mobs!"
+                "curseforge": "Mob Control: Add custom AI, break blocks, regrowth, spawners, plus more! Bad mobs? Block them! You're in control of your mobs!",
+                "modrinth": "Mob Control"
             },
             "id": {
-                "modrinth": "4gTwBSot",
-                "curseforge": "1261370"
+                "curseforge": "1261370",
+                "modrinth": "4gTwBSot"
             },
             "redistributable": false,
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "mobcontrol-1.20.1-2.0.1-beta-2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/4gTwBSot/versions/9zIrJog5/mobcontrol-1.20.1-2.0.1-beta-2.jar",
-                    "id": "9zIrJog5",
-                    "parent_id": "4gTwBSot",
-                    "hashes": {
-                        "sha512": "0a133d69307264f1abf3e1cbeb6493bc3fbab16cd28d889d4d19719449acd5c52a7c7e07bc1cf0df1d8f99a0547d1419802b596669c00618400894836606369d",
-                        "sha1": "724167b550d562d98dbad59bb706d98b1ca467d6"
-                    },
-                    "required_dependencies": [],
-                    "size": 226513,
-                    "date_published": "2026-07-17T21:09:03.307842Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "mobcontrol-1.20.1-2.0.1-beta-2.jar",
+                    "file_name": "mobcontrol-1.20.1-2.0.0-release.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8454/159/mobcontrol-1.20.1-2.0.1-beta-2.jar",
-                    "id": "8454159",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8196/126/mobcontrol-1.20.1-2.0.0-release.jar",
+                    "id": "8196126",
                     "parent_id": "1261370",
                     "hashes": {
-                        "sha1": "724167b550d562d98dbad59bb706d98b1ca467d6",
-                        "md5": "567233b97f8d58a8462e2e973405278d"
+                        "sha1": "0984c08613ae1d2faf2193670b1018c7dec8b96c",
+                        "md5": "86bfa7ed9f63e7f15527e5ea52e6d23d"
                     },
                     "required_dependencies": [],
-                    "size": 226513,
-                    "date_published": "2026-07-17T21:09:01.040Z"
+                    "size": 214518,
+                    "date_published": "2026-06-04T14:14:48.117Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mobcontrol-1.20.1-2.0.0-release.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4gTwBSot/versions/uO3f9Pwp/mobcontrol-1.20.1-2.0.0-release.jar",
+                    "id": "uO3f9Pwp",
+                    "parent_id": "4gTwBSot",
+                    "hashes": {
+                        "sha512": "7f4122bf04f99f283b2c30638ee234762e982fe4ca19e0ad96aa4be065f159e0c8f6b4057e6a5260f8efce5138d983c1695de85e77b5369d860f93f386454c0d",
+                        "sha1": "0984c08613ae1d2faf2193670b1018c7dec8b96c"
+                    },
+                    "required_dependencies": [],
+                    "size": 214518,
+                    "date_published": "2026-06-04T14:14:50.055169Z"
                 }
             ]
         },
@@ -11034,6 +10968,65 @@
             ]
         },
         {
+            "pakku_id": "uEX68tz69QyH5Ds2",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "more-default-zombies",
+                "modrinth": "more-default-zombies"
+            },
+            "name": {
+                "curseforge": "More Default Zombies",
+                "modrinth": "More Default Zombies"
+            },
+            "id": {
+                "curseforge": "910689",
+                "modrinth": "Vrhk6Vhc"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "More Default Zombies 1.20.x.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4741/332/More Default Zombies 1.20.x.zip",
+                    "id": "4741332",
+                    "parent_id": "910689",
+                    "hashes": {
+                        "sha1": "6d1d0ac7c66d229af1d26b617ef23bb9d1b8d7b0",
+                        "md5": "ee4ecb2ca0d9862573279d8dfa7e5517"
+                    },
+                    "required_dependencies": [],
+                    "size": 29839,
+                    "date_published": "2023-09-06T18:00:20.033Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "More Default Zombies 1.20.x.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Vrhk6Vhc/versions/sUPhYPmX/More Default Zombies 1.20.x.zip",
+                    "id": "sUPhYPmX",
+                    "parent_id": "Vrhk6Vhc",
+                    "hashes": {
+                        "sha512": "3cb193cc54b21f8c866749efdd64b7c5eaf30ffd17b42b3375c1a09c1982f4fe7df68f6bc315ec8e863ea73a8c66414db75865e280bd07d2f876151b63075d0f",
+                        "sha1": "6d1d0ac7c66d229af1d26b617ef23bb9d1b8d7b0"
+                    },
+                    "required_dependencies": [],
+                    "size": 29839,
+                    "date_published": "2023-09-04T22:12:54.716894Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "89TPOZTXEm3j6kbf",
             "type": "MOD",
             "side": "SERVER",
@@ -11337,6 +11330,82 @@
                     ],
                     "size": 181700,
                     "date_published": "2025-05-18T09:40:50.773Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "AEf9RR66WdVihhE5",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mouse-tweaks",
+                "modrinth": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks",
+                "modrinth": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089",
+                "modrinth": "aC3cM3Vq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5230/279/MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "id": "5230279",
+                    "parent_id": "60089",
+                    "hashes": {
+                        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841",
+                        "md5": "3138c776d370c90603938eb54d17469a"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 77943,
+                    "date_published": "2024-04-02T16:57:05.587Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "id": "mjuG4AYd",
+                    "parent_id": "aC3cM3Vq",
+                    "hashes": {
+                        "sha512": "d0faf200dda358efddad2d2809f646023f4dd06254572369e07f3bf33cb6941f0fcdb02db4675b30b4f3bd542cbf6196e135680ba91a2b74c2b071f34978e2d5",
+                        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 77943,
+                    "date_published": "2024-04-02T16:59:36.217330Z"
                 }
             ]
         },
@@ -16799,21 +16868,25 @@
             ]
         },
         {
-            "pakku_id": "jsaDO5SVjD91GokB",
+            "pakku_id": "qQ8eSYEzMQWc4Bzu",
             "type": "RESOURCE_PACK",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "supernova"
+                "curseforge": "supernova",
+                "modrinth": "supernova-ost"
             },
             "name": {
-                "curseforge": "Supernova (Original Music Pack)"
+                "curseforge": "Supernova (Original Music Pack)",
+                "modrinth": "Supernova (Original Music Pack)"
             },
             "id": {
-                "curseforge": "705324"
+                "curseforge": "705324",
+                "modrinth": "X3wa51vK"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "supernova-pack-replace.zip",
+                    "file_name": "supernova-pack.zip",
                     "mc_versions": [
                         "1.20.2-Snapshot",
                         "1.20.5-Snapshot",
@@ -16828,16 +16901,16 @@
                         "1.20.3"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7795/277/supernova-pack-replace.zip",
-                    "id": "7795277",
+                    "url": "https://edge.forgecdn.net/files/7795/267/supernova-pack.zip",
+                    "id": "7795267",
                     "parent_id": "705324",
                     "hashes": {
-                        "sha1": "f3a452d593677b5d9070bbe62213a4ed50574aa6",
-                        "md5": "72abeac089175efc86f82750a9735bd3"
+                        "sha1": "67be6d42871f9b9c55479b7343f2d5cd5bc86349",
+                        "md5": "8d69d8b91c5b5f1ec74edb96389ae015"
                     },
                     "required_dependencies": [],
-                    "size": 30903094,
-                    "date_published": "2026-03-22T15:55:03.713Z"
+                    "size": 30903083,
+                    "date_published": "2026-03-22T15:52:26.297Z"
                 }
             ]
         },
@@ -19404,81 +19477,6 @@
                     "required_dependencies": [],
                     "size": 450841,
                     "date_published": "2024-10-12T12:25:27.860Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "oUQoQAwtDrKCW1AZ",
-            "pakku_links": [
-                "zXaWgcexJGDOgsjl",
-                "E3w4sDtObdJLRHAf"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "libipn",
-                "modrinth": "libipn"
-            },
-            "name": {
-                "curseforge": "libIPN",
-                "modrinth": "libIPN"
-            },
-            "id": {
-                "curseforge": "679177",
-                "modrinth": "onSQdWhM"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "libIPN-fabric-1.20-4.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5208/506/libIPN-fabric-1.20-4.0.2.jar",
-                    "id": "5208506",
-                    "parent_id": "679177",
-                    "hashes": {
-                        "sha1": "c8c4d93037efb226b6bd3264e33df4c010cb111b",
-                        "md5": "8e2cc58f5a9149549f544d4a27224646"
-                    },
-                    "required_dependencies": [
-                        "308769",
-                        "306612"
-                    ],
-                    "size": 702814,
-                    "date_published": "2024-03-24T18:17:21.253Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "libIPN-fabric-1.20-4.0.2.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Uygzs3iI/libIPN-fabric-1.20-4.0.2.jar",
-                    "id": "Uygzs3iI",
-                    "parent_id": "onSQdWhM",
-                    "hashes": {
-                        "sha512": "34961bc3a172115b6747248305b484f3cb8d26c4b41994bb8b5759359f817df0c3c73725b8bbaeb15c59c8798a13321ed9875282dbe9a1b81606f381b532a8cd",
-                        "sha1": "c8c4d93037efb226b6bd3264e33df4c010cb111b"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
-                    ],
-                    "size": 702814,
-                    "date_published": "2024-03-24T18:17:13.645402Z"
                 }
             ]
         },
