@@ -18,7 +18,8 @@
     "philipsruins:level_two_ruins_pool",
     "philipsruins:level_two_ruins",
     "philipsruins:field_stone_ruins",
-    "philipsruins:pumpkin_ruins"
+    "philipsruins:pumpkin_ruins",
+    "revamped_shipwrecks:shipwreck_beached"
   ],
   "spawn_condition": {
     "type": "lithostitched:grid",

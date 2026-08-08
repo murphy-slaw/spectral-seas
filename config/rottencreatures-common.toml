@@ -5,11 +5,11 @@ frostbittenWeight = 80
 #determine how often will Glacial Hunters spawn
 glacialHunterWeight = 20
 #determine how often will Swampies spawn
-swampyWeight = 80
+swampyWeight = 95
 #determine how often will Undead Miners spawn
 undeadMinerWeight = 20
 #determine the max y height where Undead Miners can spawn
-undeadMinerDepth = 63
+undeadMinerDepth = 31
 #determine how often will Mummies spawn
 mummyWeight = 20
 #determine how often will Dead Beard spawn

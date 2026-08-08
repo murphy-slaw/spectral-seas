@@ -40,6 +40,13 @@ type="natural"
 biome-tag="minecraft:is_beach"
 spawn.convert="frycmobvariants:corsair"
 run=10
+[[mob.rule]]
+name="deep_burned"
+type="natural"
+spawn.convert="rottencreatures:burned"
+spawn.at-y=[-64,-128]
+[[mob.rule]]
+type="natural"
 
 [[mob]]
 name="minecraft:turtle"
@@ -90,6 +97,11 @@ name="minecraft:squid"
 type="block"
 
 [[mob]]
+name="minecraft:creeper"
+[[mob.rule]]
+type="block"
+
+[[mob]]
 name="minecraft:pufferfish"
 [[mob.rule]]
 type="all"
@@ -99,6 +111,16 @@ spawn.convert = "hybrid_aquatic:blowfish"
 name="artifacts:mimic"
 [[mob.rule]]
 set.health=40
+
+[[mob]]
+name="rottencreatures:dead_beard"
+[[mob.rule]]
+max-per-mob=1
+time-of-day=">18000"
+type="all"
+[[mob.rule]]
+time-of-day="<18000"
+type="cancel"
 
 [[mob]]
 name="minecraft:skeleton"
