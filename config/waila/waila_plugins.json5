@@ -87,7 +87,7 @@
     "pet.owner": true,
     // Hide Unknown Owner
     // Default value: [false]
-    "pet.hide_unknown_owner": false,
+    "pet.hide_unknown_owner": true,
     // Show Horse Jump Height
     // This value will get merged with the value from the server
     // Default value: [true]
@@ -165,7 +165,7 @@
     "breaking_progress.color": -1426063361,
     // Bottom Only
     // Default value: [false]
-    "breaking_progress.bottom_only": false,
+    "breaking_progress.bottom_only": true,
     // Show Spawner Type
     // This value will get merged with the value from the server
     // Default value: [true]
@@ -321,7 +321,7 @@
     // Replace Item Tooltip
     // If enabled, replace item tooltip when the recipe has item input and/or output. If not enabled or no item input and output, only shows a progress bar.
     // Default value: [false]
-    "progress.replace_items": false,
+    "progress.replace_items": true,
     // Progress Bar Height
     // Only for when it shown as a bar and not an arrow
     // Default value: [1]
