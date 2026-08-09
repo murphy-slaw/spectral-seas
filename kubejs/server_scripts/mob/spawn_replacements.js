@@ -9,9 +9,10 @@ const pillagerHats = new Map([
 ])
 
 const undeadHats = new Map([
-    ['simplehats:bicorne', 1],
-    ['simplehats:tricorne', 1],
-    ['minecraft:air', 18],
+    ['minecraft:air',36],
+    ['simplehats:bicorne', 4],
+    ['simplehats:tricorne', 2],
+    ['farmersdelight:cooking_pot', 1],
 ])
 
 const vindicatorWeapons = new Map([
@@ -90,7 +91,7 @@ EntityEvents.spawned((event) => {
 
     if (entity.type === 'rottencreatures:skeleton_lackey') {
         event.server.scheduleInTicks(1, (task) => {
-            entity.setItemSlot('MAINHAND', 'sticknstone:stone_cutlass')
+            entity.setItemSlot('MAINHAND', 'farmersdelight:iron_knife')
             entity.setItemSlot('OFFHAND', 'farmersdelight:iron_knife')
         })
     }
