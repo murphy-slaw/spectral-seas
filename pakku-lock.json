@@ -10298,7 +10298,7 @@
             ]
         },
         {
-            "pakku_id": "tylq576xisopqsC6",
+            "pakku_id": "cNWcCDADrCipuU7n",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -18633,6 +18633,69 @@
                     "required_dependencies": [],
                     "size": 1290299,
                     "date_published": "2024-04-24T05:02:10.997149Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hofIEPWVd00TtoN0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "web",
+                "modrinth": "webs"
+            },
+            "name": {
+                "curseforge": "Web",
+                "modrinth": "Web"
+            },
+            "id": {
+                "curseforge": "1334244",
+                "modrinth": "y6IaGCHf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "web-1.0.4-1-20-0-1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7194/0/web-1.0.4-1-20-0-1.jar",
+                    "id": "7194000",
+                    "parent_id": "1334244",
+                    "hashes": {
+                        "sha1": "c2079d376c0b97d16a434f69589bb7fd1cb2e8fe",
+                        "md5": "b0f598bf9967fc6b0da0f0783aa35e65"
+                    },
+                    "required_dependencies": [],
+                    "size": 234388,
+                    "date_published": "2025-11-07T00:50:51.003Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "web-1.0.4-1-20-0-1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/y6IaGCHf/versions/1mK9t51n/web-1.0.4-1-20-0-1.jar",
+                    "id": "1mK9t51n",
+                    "parent_id": "y6IaGCHf",
+                    "hashes": {
+                        "sha512": "71bc4f61dd2f8ca7a26c2a523dc10844f2d5861809998549042d3ee305d2bdf2134e8f35af36cda302a518007bedb572ce6343fe7b3b196dd3f2c34db4473c70",
+                        "sha1": "c2079d376c0b97d16a434f69589bb7fd1cb2e8fe"
+                    },
+                    "required_dependencies": [],
+                    "size": 234388,
+                    "date_published": "2025-11-07T00:29:39.605809Z"
                 }
             ]
         },
