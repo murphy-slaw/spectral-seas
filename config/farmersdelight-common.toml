@@ -35,7 +35,7 @@
 		#If enabled, any BowlFoodItem in the following list become stackable to 16, much like Farmer's Delight's meals.
 		enableStackableSoupItems = true
 		#List of targeted food items. They must extend the BowlFoodItem class in code to be affected. Defaults to vanilla soups and stews.
-		soupItemList = ["minecraft:mushroom_stew", "minecraft:beetroot_soup", "minecraft:rabbit_stew", "ecologics:tropical_stew"]
+		soupItemList = ["minecraft:mushroom_stew", "minecraft:beetroot_soup", "minecraft:rabbit_stew"]
 #World generation
 [world]
 	#If enabled, new loot pools will be added to chest loot across the game, containing items from this mod (ropes, crops, tools etc).
