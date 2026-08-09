@@ -32,5 +32,7 @@
   "item.minecraft.dragon_breath": "Dragonfly Breath",
   "item.minecraft.potion.effect.growth_potion": "Potion of Growth",
   "item.minecraft.potion.effect.shrinking_potion": "Potion of Shrinking",
-  "item.minecraft.flint_and_steel": "Fire Striker"
+  "item.minecraft.flint_and_steel": "Fire Striker",
+  "block.minecraft.smoker": "Butcher Block",
+  "item.minecraft.smoker": "Butcher Block"
 }
