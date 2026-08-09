@@ -9,8 +9,13 @@ ItemEvents.modification((event) => {
             food.fastToEat(false)
         })
     })
+
+    event.modify('ecologics:tropical_stew',item=>{
+        item.maxStackSize = 16
+    })
+
     event.modify('minecraft:potion', (item) => {
-        item.maxStackSize = 3
+        item.maxStackSize = 8
     })
     event.modify('milk:milk_bottle', (item) => {
         item.maxStackSize = 3

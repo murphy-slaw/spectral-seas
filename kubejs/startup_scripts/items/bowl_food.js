@@ -25,6 +25,7 @@ StartupEvents.registry('item', (event) => {
         .maxStackSize(16)
 })
 
+
 StartupEvents.modifyCreativeTab('minecraft:food_and_drinks', (event) => {
     event.add('spectral_seas:suspicious_chowder')
 })
