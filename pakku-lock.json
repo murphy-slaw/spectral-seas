@@ -2074,83 +2074,6 @@
             ]
         },
         {
-            "pakku_id": "tC4tqIeZ8AStFVgk",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "cameraoverhaul",
-                "modrinth": "cameraoverhaul"
-            },
-            "name": {
-                "curseforge": "CameraOverhaul",
-                "modrinth": "Camera Overhaul"
-            },
-            "id": {
-                "curseforge": "423602",
-                "modrinth": "m0oRwcZx"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/GAwwsEPY/CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
-                    "id": "GAwwsEPY",
-                    "parent_id": "m0oRwcZx",
-                    "hashes": {
-                        "sha512": "a6b257d5b62b609ea00d06078136c74ce37f50c57fa7420e35078bc6302aa90732da50d12e29f49dfc2f3015b80abd080d8a4561817804a975573245c0d4c2c8",
-                        "sha1": "15c4290c10660dd36cd79b2df3ffdcc54d50ee9e"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 140053,
-                    "date_published": "2026-05-25T08:40:55.965318Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8142/504/CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
-                    "id": "8142504",
-                    "parent_id": "423602",
-                    "hashes": {
-                        "sha1": "15c4290c10660dd36cd79b2df3ffdcc54d50ee9e",
-                        "md5": "9817e2b07dcb0c1580fb11136c1d7b86"
-                    },
-                    "required_dependencies": [
-                        "348521"
-                    ],
-                    "size": 140053,
-                    "date_published": "2026-05-25T08:40:54.037Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ziamzSyQJz78ybvl",
             "type": "MOD",
             "side": "SERVER",
@@ -7493,7 +7416,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.8.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7501,27 +7424,27 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/7sKgm1YD/[1.20.1-Fabric] Hybrid Aquatic 1.6.8.jar",
-                    "id": "7sKgm1YD",
+                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/JbcSaVfO/[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
+                    "id": "JbcSaVfO",
                     "parent_id": "HH4FjUqN",
                     "hashes": {
-                        "sha512": "7d01a92ee4e19c93418f61065a66709acb21d48ad48f16b095875f216f6d4691ca0df7791734624ddcab744e81b8a6679ea733fc7778023c47c8bd4cbb3d86fe",
-                        "sha1": "0c3c7fec9e84a80cffbc3c94bb82d2dff26cfd94"
+                        "sha512": "67b49a52e74de40ef7bb1cf295730658af2aef43ad35f7dab6b78058b0fb5fe9b6dbafb6ee12286c68dda87551af97893df2c84b4d6a142fe921afd70b2b35bf",
+                        "sha1": "c698183d5502b97abe202a8f9839aea666d4fbe8"
                     },
                     "required_dependencies": [
-                        "XaDC71GB",
-                        "8BmcQJ2H",
+                        "Ha28R6CL",
                         "iGEl6Crx",
-                        "P7dR8mSH",
                         "5aaWibi9",
-                        "Ha28R6CL"
+                        "P7dR8mSH",
+                        "XaDC71GB",
+                        "8BmcQJ2H"
                     ],
-                    "size": 6344057,
-                    "date_published": "2026-07-18T19:29:52.390614Z"
+                    "size": 6406840,
+                    "date_published": "2026-08-07T11:08:53.075621Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.8.jar",
+                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7529,22 +7452,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8459/681/[1.20.1-Fabric] Hybrid Aquatic 1.6.8.jar",
-                    "id": "8459681",
+                    "url": "https://edge.forgecdn.net/files/8594/172/[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
+                    "id": "8594172",
                     "parent_id": "834427",
                     "hashes": {
-                        "sha1": "0c3c7fec9e84a80cffbc3c94bb82d2dff26cfd94",
-                        "md5": "0ce17861caf1e389535ae9b3f15d7338"
+                        "sha1": "c698183d5502b97abe202a8f9839aea666d4fbe8",
+                        "md5": "0dbe410305c1ad2939786adc42a0876c"
                     },
                     "required_dependencies": [
+                        "341284",
+                        "936015",
                         "308769",
                         "388172",
-                        "936015",
-                        "341284",
                         "852512"
                     ],
-                    "size": 6344057,
-                    "date_published": "2026-07-18T18:27:34.157Z"
+                    "size": 6406840,
+                    "date_published": "2026-08-07T11:06:13.567Z"
                 }
             ]
         },
