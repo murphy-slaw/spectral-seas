@@ -5,6 +5,11 @@
 			"tag": "gives_aqua_affinity",
 			"enchantment": "minecraft:aqua_affinity",
 			"level": 1
+		},
+		{
+			"tag": "gives_respiration",
+			"enchantment": "minecraft:respiration",
+			"level": 2
 		}
 	]
 }
