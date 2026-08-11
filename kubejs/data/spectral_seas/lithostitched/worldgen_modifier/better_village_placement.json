@@ -3,7 +3,7 @@
   "structures": "#spectral_seas:mid_level_village",
   "spawn_condition": {
     "type": "lithostitched:grid",
-    "radius": 70,
+    "radius": 64,
     "distance_between_points": 16,
     "condition": {
       "type": "lithostitched:any_of",
@@ -15,8 +15,8 @@
             "range_type": "heightmap_relative",
             "heightmap": "WORLD_SURFACE_WG",
             "permitted_range": [
-              -12,
-              12
+              -16,
+              16
             ]
           }
         },
@@ -27,7 +27,7 @@
             "range_type": "absolute",
             "heightmap": "WORLD_SURFACE_WG",
             "permitted_range": [
-              66,
+              65,
               240
             ]
           }

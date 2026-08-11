@@ -4,11 +4,7 @@
     "min_distance_from_world_origin": 500,
     "salt": 10387312,
     "separation": 8,
-    "spacing": 10,
-    "super_exclusion_zone": {
-      "chunk_count": 4,
-      "other_set": "nova_structures:taverns"
-    }
+    "spacing": 10
   },
   "structures": [
     {
