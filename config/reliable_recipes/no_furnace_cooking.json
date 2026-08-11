@@ -2,12 +2,12 @@
     {
         "action": "remove_recipe",
         "type": "minecraft:smelting",
-        "output": "#c:foods"
+        "output": "+#c:foods"
     },
     {
         "action": "remove_recipe",
         "type": "minecraft:smoking",
-        "output": "#c:foods"
+        "output": "+#c:foods"
     },
     {
         "action": "remove_recipe",
