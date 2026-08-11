@@ -10079,47 +10079,6 @@
             ]
         },
         {
-            "pakku_id": "CIPOiQbQoEMASQiS",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "milk_plus"
-            },
-            "name": {
-                "modrinth": "Milk+"
-            },
-            "id": {
-                "modrinth": "OCxj9VC8"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "milk_plus-5.0.59.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OCxj9VC8/versions/hlS5XQgk/milk_plus-5.0.59.jar",
-                    "id": "hlS5XQgk",
-                    "parent_id": "OCxj9VC8",
-                    "hashes": {
-                        "sha512": "583537147c4bba72371a5a107325ba517dff7fe272f7cf5e53fefab0a9f7c5f959251bbf3058ac494ada51011d98901bd011b143a1f8f49006507108605cc21c",
-                        "sha1": "d6f90e57eece5a79046ce27664d27edabe42c9b4"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 204357,
-                    "date_published": "2023-07-28T09:50:11.297363Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "AeRTNJY5MTatyw5S",
             "type": "MOD",
             "side": "CLIENT",
@@ -13282,7 +13241,9 @@
                 "2OTLSyyX2BVFCCyH",
                 "YqFJ8l6UBlzM8O9G",
                 "zXaWgcexJGDOgsjl",
-                "Ba9CZydX1GHapEcl"
+                "Ba9CZydX1GHapEcl",
+                "G6oDtSzerSDvjH3X",
+                "jZh1HJrByMsfgjxn"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15691,281 +15652,6 @@
             ]
         },
         {
-            "pakku_id": "6o5p75X1SaJ6Jzsf",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "stackdeobf",
-                "modrinth": "stackdeobf"
-            },
-            "name": {
-                "curseforge": "StackDeobfuscator",
-                "modrinth": "StackDeobfuscator"
-            },
-            "id": {
-                "curseforge": "840896",
-                "modrinth": "NusMqsjF"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
-                    "mc_versions": [
-                        "1.14",
-                        "1.14.1",
-                        "1.14.2",
-                        "1.14.3",
-                        "1.14.4",
-                        "1.15",
-                        "1.15.1",
-                        "1.15.2",
-                        "20w14infinite",
-                        "1.16",
-                        "1.16.1",
-                        "1.16.2",
-                        "1.16.3",
-                        "1.16.4",
-                        "1.16.5",
-                        "1.17",
-                        "1.17.1",
-                        "1.18",
-                        "1.18.1",
-                        "1.18.2",
-                        "22w13oneblockatatime",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "23w12a",
-                        "23w13a",
-                        "23w13a_or_b",
-                        "23w14a",
-                        "23w16a",
-                        "23w17a",
-                        "23w18a",
-                        "1.20-pre1",
-                        "1.20-pre2",
-                        "1.20-pre3",
-                        "1.20-pre4",
-                        "1.20-pre5",
-                        "1.20-pre6",
-                        "1.20-pre7",
-                        "1.20-rc1",
-                        "1.20",
-                        "1.20.1-rc1",
-                        "1.20.1",
-                        "23w31a",
-                        "23w32a",
-                        "23w33a",
-                        "23w35a",
-                        "1.20.2-pre1",
-                        "1.20.2-pre2",
-                        "1.20.2-pre3",
-                        "1.20.2-pre4",
-                        "1.20.2-rc1",
-                        "1.20.2-rc2",
-                        "1.20.2",
-                        "23w40a",
-                        "23w41a",
-                        "23w42a",
-                        "23w43a",
-                        "23w43b",
-                        "23w44a",
-                        "23w45a",
-                        "23w46a",
-                        "1.20.3-pre1",
-                        "1.20.3-pre2",
-                        "1.20.3-pre3",
-                        "1.20.3-pre4",
-                        "1.20.3-rc1",
-                        "1.20.3",
-                        "1.20.4-rc1",
-                        "1.20.4",
-                        "23w51a",
-                        "23w51b",
-                        "24w03a",
-                        "24w03b",
-                        "24w04a",
-                        "24w05a",
-                        "24w05b",
-                        "24w06a",
-                        "24w07a",
-                        "24w09a",
-                        "24w10a",
-                        "24w11a",
-                        "24w12a",
-                        "24w13a",
-                        "24w14potato",
-                        "24w14a",
-                        "1.20.5-pre1",
-                        "1.20.5-pre2",
-                        "1.20.5-pre3",
-                        "1.20.5-pre4",
-                        "1.20.5-rc1",
-                        "1.20.5-rc2",
-                        "1.20.5-rc3",
-                        "1.20.5",
-                        "1.20.6-rc1",
-                        "1.20.6",
-                        "24w18a",
-                        "24w19a",
-                        "24w19b",
-                        "24w20a",
-                        "24w21a",
-                        "24w21b",
-                        "1.21-pre1",
-                        "1.21-pre2",
-                        "1.21-pre3",
-                        "1.21-pre4",
-                        "1.21-rc1",
-                        "1.21",
-                        "1.21.1-rc1",
-                        "1.21.1",
-                        "24w33a",
-                        "24w34a",
-                        "24w35a",
-                        "24w36a",
-                        "24w37a",
-                        "24w38a",
-                        "24w39a",
-                        "24w40a",
-                        "1.21.2-pre1",
-                        "1.21.2-pre2",
-                        "1.21.2-pre3",
-                        "1.21.2-pre4",
-                        "1.21.2-pre5",
-                        "1.21.2-rc1",
-                        "1.21.2-rc2",
-                        "1.21.2",
-                        "1.21.3",
-                        "24w44a",
-                        "24w45a",
-                        "24w46a",
-                        "1.21.4-pre1",
-                        "1.21.4-pre2",
-                        "1.21.4-pre3",
-                        "1.21.4-rc1",
-                        "1.21.4-rc2",
-                        "1.21.4-rc3",
-                        "1.21.4",
-                        "25w02a",
-                        "25w03a",
-                        "25w04a",
-                        "25w05a",
-                        "25w06a",
-                        "25w07a",
-                        "25w08a",
-                        "25w09a",
-                        "25w09b",
-                        "25w10a",
-                        "1.21.5-pre1",
-                        "1.21.5-pre2",
-                        "1.21.5-pre3",
-                        "1.21.5-rc1",
-                        "1.21.5-rc2",
-                        "1.21.5",
-                        "25w14craftmine",
-                        "25w15a",
-                        "25w16a",
-                        "25w17a",
-                        "25w18a",
-                        "25w19a",
-                        "25w20a",
-                        "25w21a",
-                        "1.21.6-pre1",
-                        "1.21.6-pre2",
-                        "1.21.6-pre3",
-                        "1.21.6-pre4",
-                        "1.21.6-rc1",
-                        "1.21.6",
-                        "1.21.7-rc1",
-                        "1.21.7-rc2",
-                        "1.21.7",
-                        "1.21.8-rc1",
-                        "1.21.8",
-                        "25w31a",
-                        "25w32a",
-                        "25w33a",
-                        "25w34a",
-                        "25w34b",
-                        "25w35a",
-                        "25w36a",
-                        "25w36b",
-                        "25w37a",
-                        "1.21.9-pre1",
-                        "1.21.9-pre2",
-                        "1.21.9-pre3",
-                        "1.21.9-pre4",
-                        "1.21.9-rc1",
-                        "1.21.9",
-                        "1.21.10-rc1",
-                        "1.21.10",
-                        "25w41a",
-                        "25w42a",
-                        "25w43a",
-                        "25w44a",
-                        "25w45a",
-                        "25w46a",
-                        "1.21.11-pre1",
-                        "1.21.11-pre2",
-                        "1.21.11-pre3",
-                        "1.21.11-pre4",
-                        "1.21.11-pre5",
-                        "1.21.11-rc1",
-                        "1.21.11-rc2",
-                        "1.21.11-rc3",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
-                    "id": "pyiVLk9R",
-                    "parent_id": "NusMqsjF",
-                    "hashes": {
-                        "sha512": "ef851d54a60e223e90cfd21da91effcdc70175dd32b194366ca3ba29646c9ebdbfb60a1eaa88070c4e9f83bd654da1344e67226dfdf5c68140db4ef693361353",
-                        "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163"
-                    },
-                    "required_dependencies": [],
-                    "size": 321213,
-                    "date_published": "2024-07-07T16:29:28.103329Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.2-Snapshot",
-                        "1.20.5-Snapshot",
-                        "1.20.3-Snapshot",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20-Snapshot"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5511/110/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
-                    "id": "5511110",
-                    "parent_id": "840896",
-                    "hashes": {
-                        "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163",
-                        "md5": "8dbb0c4c8c1c9f00faeb68fa74ee6d27"
-                    },
-                    "required_dependencies": [],
-                    "size": 321213,
-                    "date_published": "2024-07-07T16:33:03.370Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "YSX1ZBHFP4ZYdXiW",
             "type": "MOD",
             "side": "BOTH",
@@ -17318,23 +17004,24 @@
             ]
         },
         {
-            "pakku_id": "2OTLSyyX2BVFCCyH",
+            "pakku_id": "jZh1HJrByMsfgjxn",
             "pakku_links": [
                 "zXaWgcexJGDOgsjl"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "terrablender-fabric"
+                "curseforge": "terrablender-fabric",
+                "modrinth": "terrablender"
             },
             "name": {
-                "curseforge": "TerraBlender (Fabric)"
+                "curseforge": "TerraBlender (Fabric)",
+                "modrinth": "TerraBlender"
             },
             "id": {
-                "curseforge": "565956"
+                "curseforge": "565956",
+                "modrinth": "kkmrDlKT"
             },
-            "aliases": [
-                "terrablender"
-            ],
             "files": [
                 {
                     "type": "curseforge",
@@ -17359,29 +17046,7 @@
                     ],
                     "size": 322357,
                     "date_published": "2025-03-10T23:40:19.383Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "Ba9CZydX1GHapEcl",
-            "pakku_links": [
-                "zXaWgcexJGDOgsjl"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "terrablender",
-                "modrinth": "terrablender"
-            },
-            "name": {
-                "curseforge": "TerraBlender (Forge)",
-                "modrinth": "TerraBlender"
-            },
-            "id": {
-                "curseforge": "563928",
-                "modrinth": "kkmrDlKT"
-            },
-            "files": [
+                },
                 {
                     "type": "modrinth",
                     "file_name": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
@@ -18910,7 +18575,9 @@
                 "E0Hhuv5KSx1UNZJ0",
                 "zXaWgcexJGDOgsjl",
                 "2OTLSyyX2BVFCCyH",
-                "xI3PiBymbbc07Bnb"
+                "xI3PiBymbbc07Bnb",
+                "G6oDtSzerSDvjH3X",
+                "jZh1HJrByMsfgjxn"
             ],
             "type": "MOD",
             "side": "BOTH",
