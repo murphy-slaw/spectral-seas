@@ -97,13 +97,12 @@
     "type": "mvs:advanced_random_spread",
     "min_distance_from_world_origin": 500,
     "super_exclusion_zone": {
-      "chunk_count": 5,
+      "chunk_count": 2,
       "other_set": "#mvs:common_avoid"
     },
     "salt": 205745294,
-    "spacing": 16,
-    "separation": 8,
-    "frequency": 0.2,
-    "frequency_reduction_method": "legacy_type_1"
+    "spread_type":"triangular",
+    "spacing": 20,
+    "separation": 16
   }
 }
