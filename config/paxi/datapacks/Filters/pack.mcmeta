@@ -283,6 +283,10 @@
 			},
 			{
 				"namespace": "philipsruins",
+				"path": "worldgen/structure.*/ancient_dungeon.json"
+			},
+			{
+				"namespace": "philipsruins",
 				"path": "worldgen/structure.*/bone_dungeon.json"
 			},
 			{
