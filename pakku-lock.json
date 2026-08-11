@@ -5006,7 +5006,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityjs-0.3.5-1.20.1-fabric.jar",
+                    "file_name": "entityjs-fabric-0.7.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -5014,23 +5014,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OvPZ16yX/versions/gjEv6vjg/entityjs-0.3.5-1.20.1-fabric.jar",
-                    "id": "gjEv6vjg",
+                    "url": "https://cdn.modrinth.com/data/OvPZ16yX/versions/lf56dQMG/entityjs-fabric-0.7.3.jar",
+                    "id": "lf56dQMG",
                     "parent_id": "OvPZ16yX",
                     "hashes": {
-                        "sha512": "188dc747e2007506a6e9c304fcc6f9b6b6083e9cffc5abe0836ab703f91820549c19e9d430869a15fc1f45ee6e667aa58fb0efd3a1480b5bf1cc8a866013b8b6",
-                        "sha1": "f430d072156c15d37b932cc51a4ba3deb13f0e34"
+                        "sha512": "8641b4212e750b5e765fcde2a0b265daedbeb68a09b47607e0bf2b77deb01d2374136b2769c508efd3b25b1dc275a2375bf51233e14ec44197c9679c59e85a60",
+                        "sha1": "a71627429b9bc1dd909f001fcc71dca6e956611b"
                     },
                     "required_dependencies": [
                         "umyGl7zF",
                         "8BmcQJ2H"
                     ],
-                    "size": 1937202,
-                    "date_published": "2025-10-25T13:23:22.702607Z"
+                    "size": 3667201,
+                    "date_published": "2026-07-30T14:40:59.256350Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entityjs-0.3.5-1.20.1-fabric.jar",
+                    "file_name": "entityjs-fabric-0.7.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -5038,19 +5038,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7152/968/entityjs-0.3.5-1.20.1-fabric.jar",
-                    "id": "7152968",
+                    "url": "https://edge.forgecdn.net/files/8540/917/entityjs-fabric-0.7.3.jar",
+                    "id": "8540917",
                     "parent_id": "967617",
                     "hashes": {
-                        "sha1": "f430d072156c15d37b932cc51a4ba3deb13f0e34",
-                        "md5": "4d39e1a424bccb7a88c02c262276bdfe"
+                        "sha1": "a71627429b9bc1dd909f001fcc71dca6e956611b",
+                        "md5": "22672446820edea4f70f496f6c36fcc6"
                     },
                     "required_dependencies": [
-                        "238086",
-                        "388172"
+                        "388172",
+                        "238086"
                     ],
-                    "size": 1937202,
-                    "date_published": "2025-10-26T17:14:29.673Z"
+                    "size": 3667201,
+                    "date_published": "2026-07-30T14:33:20.833Z"
                 }
             ]
         },
