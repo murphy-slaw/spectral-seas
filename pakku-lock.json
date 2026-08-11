@@ -7046,6 +7046,94 @@
             ]
         },
         {
+            "pakku_id": "pPZAjdzhZ5Br28df",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "hearths",
+                "modrinth": "hearths"
+            },
+            "name": {
+                "curseforge": "Hearths",
+                "modrinth": "Hearths"
+            },
+            "id": {
+                "curseforge": "880814",
+                "modrinth": "XCIMrYn0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Hearths v1.0.5.mod.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7106/556/Hearths v1.0.5.mod.jar",
+                    "id": "7106556",
+                    "parent_id": "880814",
+                    "hashes": {
+                        "sha1": "7d1d4be3c3033b7df902b51915f37f53d60718b5",
+                        "md5": "1cb462378e1b97e57e3fd606ccf96ec0"
+                    },
+                    "required_dependencies": [],
+                    "size": 334560,
+                    "date_published": "2025-10-14T14:56:37.927Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Hearths v1.0.5.mod.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XCIMrYn0/versions/tu78cSah/Hearths v1.0.5.mod.jar",
+                    "id": "tu78cSah",
+                    "parent_id": "XCIMrYn0",
+                    "hashes": {
+                        "sha512": "c30f4444e0e844185b75b91f2375d3897dd969f7b90df63276cc1e7553412333a632f86c7b88f97708ed8862922630170e82b45cd08762f43a7ede2ebbea51c7",
+                        "sha1": "7d1d4be3c3033b7df902b51915f37f53d60718b5"
+                    },
+                    "required_dependencies": [],
+                    "size": 334560,
+                    "date_published": "2025-10-14T14:54:17.800500Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Lmcr3PMuJxTBSvis",
             "type": "MOD",
             "side": "BOTH",
@@ -12001,6 +12089,47 @@
                     ],
                     "size": 10878,
                     "date_published": "2023-07-06T06:51:11.570Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bnB8pUS5IYRN83ZJ",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "panoptic"
+            },
+            "name": {
+                "curseforge": "Panoptic"
+            },
+            "id": {
+                "curseforge": "1620784"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Panoptic-1.08-Fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8539/876/Panoptic-1.08-Fabric-1.20.1.jar",
+                    "id": "8539876",
+                    "parent_id": "1620784",
+                    "hashes": {
+                        "sha1": "4199a32472137af00de97a0b45cb71c14e42caeb",
+                        "md5": "61eb575b7097539f5e287ed075d24c72"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 721121,
+                    "date_published": "2026-07-30T11:28:55.270Z"
                 }
             ]
         },

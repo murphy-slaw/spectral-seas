@@ -1,0 +1,50 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": [
+    "hopo:piglin_ruin",
+    "minecraft:bastion_remnant",
+    "nova_structures:donjon",
+    "nova_structures:hamlet",
+    "nova_structures:nether_keep",
+    "nova_structures:nether_port",
+    "wabi_sabi_structures:basalt_castle",
+    "wabi_sabi_structures:basalt_factory_ruin",
+    "wabi_sabi_structures:hellish_orphanage",
+    "wabi_sabi_structures:strider_stable"
+  ],
+  "spawn_condition": {
+    "type": "lithostitched:grid",
+    "radius": 70,
+    "distance_between_points": 16,
+    "condition": {
+      "type": "lithostitched:any_of",
+      "conditions": [
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "heightmap_relative",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              -8,
+              8
+            ]
+          }
+        },
+        {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "absolute",
+            "heightmap": "WORLD_SURFACE_WG",
+            "permitted_range": [
+              64,
+              160
+            ]
+          }
+        }
+      ]
+    },
+    "allowed_count": 0
+  }
+}
