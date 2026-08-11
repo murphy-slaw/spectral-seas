@@ -13313,75 +13313,6 @@
             ]
         },
         {
-            "pakku_id": "UbfXBnBBiWqxN9oS",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "regrowth",
-                "modrinth": "regrowth"
-            },
-            "name": {
-                "curseforge": "Regrowth",
-                "modrinth": "Regrowth"
-            },
-            "id": {
-                "curseforge": "381597",
-                "modrinth": "eR7uVkrb"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fabric-release-regrowth-1.20-83.31.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eR7uVkrb/versions/stuB6mht/fabric-release-regrowth-1.20-83.31.1.jar",
-                    "id": "stuB6mht",
-                    "parent_id": "eR7uVkrb",
-                    "hashes": {
-                        "sha512": "3ae0042369aeb1d9855a3080c44c795ff48587b521c1afd1fee45c36dc30c22dfe1594fb52d39553eac872d8610bfd2a516b9446115c4c0c9bc5aff22610ad5d",
-                        "sha1": "cb23689f819fe4fd50365bf367cd0a0384c5995c"
-                    },
-                    "required_dependencies": [],
-                    "size": 108746,
-                    "date_published": "2024-08-28T23:03:20.575690Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "fabric-release-regrowth-1.20-83.31.1.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4679/666/fabric-release-regrowth-1.20-83.31.1.jar",
-                    "id": "4679666",
-                    "parent_id": "381597",
-                    "hashes": {
-                        "sha1": "cb23689f819fe4fd50365bf367cd0a0384c5995c",
-                        "md5": "af7dc2132534d3089841d3571572f27c"
-                    },
-                    "required_dependencies": [],
-                    "size": 108746,
-                    "date_published": "2023-08-03T01:50:07.547Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "dFGObSa3nMpDmTZR",
             "pakku_links": [
                 "E0Hhuv5KSx1UNZJ0"
@@ -17022,6 +16953,9 @@
                 "curseforge": "565956",
                 "modrinth": "kkmrDlKT"
             },
+            "aliases": [
+                "terrablender"
+            ],
             "files": [
                 {
                     "type": "curseforge",
