@@ -11104,44 +11104,6 @@
             ]
         },
         {
-            "pakku_id": "9v67xb5HTAWwoAfH",
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "more-underwater-music"
-            },
-            "name": {
-                "modrinth": "More Underwater Music"
-            },
-            "id": {
-                "modrinth": "gciUNLfr"
-            },
-            "update_strategy": "NONE",
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "waterworldmusic.zip",
-                    "mc_versions": [
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gciUNLfr/versions/JhjJuN9q/waterworldmusic.zip",
-                    "id": "JhjJuN9q",
-                    "parent_id": "gciUNLfr",
-                    "hashes": {
-                        "sha512": "d3cb824cbb5aba4ddc77d86d6de0887e802425220bc808317a2d24f044296496846e9c1a9459117e72dcde51c0de47421ac0cb9fbb9bcb76fbca69b636d7adb6",
-                        "sha1": "bd5567b32ef3a8f01dfe250e3c21e3cf85a8996c"
-                    },
-                    "required_dependencies": [],
-                    "size": 74194449,
-                    "date_published": "2026-02-15T20:50:12.463474Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "68SGMZfUQ1gXaP42",
             "type": "MOD",
             "side": "BOTH",
