@@ -107,6 +107,9 @@
         },
         "music-and-melody": {
             "update_strategy": "NONE"
+        },
+        "supernova": {
+            "update_strategy": "NONE"
         }
     },
     "export_server_side_projects_to_client": true
