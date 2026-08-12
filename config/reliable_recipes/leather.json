@@ -25,5 +25,10 @@
         "action": "remove_recipe",
         "type": "farmersdelight:cutting",
         "output": "minecraft:leather"
+    },
+    {
+        "action": "set_repair_material",
+        "target": "#spectral_seas:armor_leather",
+        "material": "#spectral_seas:leather"
     }
 ]
