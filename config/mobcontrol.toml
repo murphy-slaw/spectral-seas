@@ -73,7 +73,6 @@ spawn.count=[1,2]
 spawn.additional-checks="yes"
 repeat=400
 
-
 [[mob]]
 name="hybrid_aquatic:hermit_crab"
 [[mob.rule]]
@@ -121,13 +120,6 @@ type="all"
 [[mob.rule]]
 time-of-day="<18000"
 type="cancel"
-
-[[mob]]
-name="minecraft:skeleton"
-[[mob.rule]]
-name="no-beach-skeletons"
-biome-tag="minecraft:is_beach"
-type="block"
 
 [[mob]]
 name="*"
