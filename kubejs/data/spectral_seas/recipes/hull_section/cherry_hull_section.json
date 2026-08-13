@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:cherry_slab"
+        },
+        "p": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:cherry_hull_section"
+    },
+    "category": "misc"
+}

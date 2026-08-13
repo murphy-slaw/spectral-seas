@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:bamboo_slab"
+        },
+        "p": {
+            "item": "minecraft:bamboo_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:bamboo_hull_section"
+    },
+    "category": "misc"
+}

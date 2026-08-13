@@ -1,0 +1,80 @@
+[
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:acacia_boat",
+        "replacement": "spectral_seas:acacia_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "ecologics:azalea_boat",
+        "replacement": "spectral_seas:azalea_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:bamboo_raft",
+        "replacement": "spectral_seas:bamboo_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:birch_boat",
+        "replacement": "spectral_seas:birch_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:cherry_boat",
+        "replacement": "spectral_seas:cherry_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "ecologics:coconut_boat",
+        "replacement": "spectral_seas:coconut_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:dark_oak_boat",
+        "replacement": "spectral_seas:dark_oak_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "ecologics:flowering_azalea_boat",
+        "replacement": "spectral_seas:flowering_azalea_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:jungle_boat",
+        "replacement": "spectral_seas:jungle_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:mangrove_boat",
+        "replacement": "spectral_seas:mangrove_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:oak_boat",
+        "replacement": "spectral_seas:oak_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "minecraft:spruce_boat",
+        "replacement": "spectral_seas:spruce_hull_section"
+    },
+    {
+        "action": "replace_input",
+        "mod":"smallships",
+        "target": "ecologics:walnut_boat",
+        "replacement": "spectral_seas:walnut_hull_section"
+    }
+]

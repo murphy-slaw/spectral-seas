@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "ecologics:walnut_slab"
+        },
+        "p": {
+            "item": "ecologics:walnut_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:walnut_hull_section"
+    },
+    "category": "misc"
+}

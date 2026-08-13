@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "ecologics:azalea_slab"
+        },
+        "p": {
+            "item": "ecologics:azalea_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:azalea_hull_section"
+    },
+    "category": "misc"
+}

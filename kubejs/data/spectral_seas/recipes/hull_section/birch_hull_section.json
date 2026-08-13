@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:birch_slab"
+        },
+        "p": {
+            "item": "minecraft:birch_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:birch_hull_section"
+    },
+    "category": "misc"
+}

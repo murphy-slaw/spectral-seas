@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:spruce_slab"
+        },
+        "p": {
+            "item": "minecraft:spruce_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:spruce_hull_section"
+    },
+    "category": "misc"
+}

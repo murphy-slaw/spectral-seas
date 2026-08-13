@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:oak_slab"
+        },
+        "p": {
+            "item": "minecraft:oak_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:oak_hull_section"
+    },
+    "category": "misc"
+}

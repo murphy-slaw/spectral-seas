@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "ecologics:coconut_slab"
+        },
+        "p": {
+            "item": "ecologics:coconut_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:coconut_hull_section"
+    },
+    "category": "misc"
+}

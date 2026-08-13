@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:acacia_slab"
+        },
+        "p": {
+            "item": "minecraft:acacia_planks"
+        }
+    },
+    "pattern": [
+        "sss",
+        "ppp"
+    ],
+    "result": {
+        "item": "spectral_seas:acacia_hull_section"
+    },
+    "category": "misc"
+}
