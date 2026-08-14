@@ -1,17 +1,41 @@
 {
-    "name": "Landfall",
+    "name": "First Things First",
     "icon": "ecologics:coconut_seedling",
     "category": "patchouli:start",
     "entry_color": "43120F",
     "sortnum": 0,
     "pages": [
-        "If you are reading this Handbook, you are either shipwrecked, or will become so some Day. In such Circumstance, preserving one's Life is paramount.$(p)First Priority is a hasty Survey of the Island upon whose Shore the Sea has disgorged you, seeking improvised Shelter and such Sustenance as the Land may offer.$(p)Rations are the next Order of Business, for an empty Belly kills more surely than any Predator, and Hunger grows apace, whether one labors vigorously or stands idle.$(p)",
-        "Some Islands may offer Fruits or other Vegetable Matter to feed the Castaway, but Chance may provide only Meat or Fish as Food. $(p)A crude Spear tipped with Stone or hard Shell should suffice to bring down small Game.$(p)In the Waters, a desperate Sailor may seize Fish by Hand, but even the meanest of Tools will give better Result.$(p)A fortunate Castaway may gain Wool for Bedding by hunting Sheeps, but be wary of slaughtering all, for Wool shall be needed for Sails to secure your Escape.$(p)",
-        "Hunger may provoke one to feed greedily upon the first raw Flesh obtained, but let Reason prevail - cook all Foods for superior Sustenance and Preservation.$(p) If the Island be too miserly to provide Stone for a Cooking-Furnace, a Campfire will suffice.$(p)Once one's Belly and Ration-Bag have been provided for, seek a Shelter for the Night. The meanest of Accommodations will suffice - a small Chamber dug into a Hillside, a crude Hut of Wood, or even the Limbs of a Tree.$(p)Light the Area well with Campfires or Torches to keep Creatures at bay, and if Sleep will not come, do such Work as one can until Morning.$(p)",
+        "    If you are reading this Handbook, you are either shipwrecked, or will become so some Day. In such Circumstance, preserving one's Life is paramount.$(br)    First Priority is a hasty Survey of the Island upon whose Shore the Sea has disgorged you, seeking improvised Shelter and such Sustenance as the Land may offer.$(br)    The Castaway begins armed only with their own Ingenuity, but this Condition is temporary. Tools more able than Hands are required forthwith.",
         {
             "type": "patchouli:crafting",
+            "title": "Tools from the Sea",
+            "text": "    Hard Stone is abundant and suitable for crafting Tools, but offers a Paradox: How may one work Stone without possessing Stone? Fortune supplies several Options.$(br)    Beaches and Shores are littered with Sea-Shells strong enough to break Stone, providing Material for one's first Implements.",
+            "recipe": "hybrid_aquatic:seashell_pickaxe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "A Dubious Alternative",
+            "text": "    If one's Luck is so poor that no Shells may be found, the unfortunate may scrounge in the Gravel for Flints large enough to serve, though such a Tool is crude, fragile, and ultimately to be cast aside.",
+            "recipe": "spectral_seas:flint_pickaxe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "A Boon Companion",
+            "text": "    Once Implements for working Stone and Wood are secured, a wise Castaway surveys for the Glint of Copper amid the dull Rocks. The merest Lump provides ample Stuff to craft a Knife-Blade, and a Knife is a versatile Assistant, capable of cutting Grasses into Straw, butchering Animals, and hacking a Path through dense Foliage.",
+            "recipe": "farmersdelight:flint_knife"
+        },
+        {
+            "title": "Victuals",
+            "type": "patchouli:crafting",
             "recipe": "tridents_n_stuff:stone_spear",
-            "recipe2": "comforts:sleeping_bag_white"
+            "text": "     Rations are the next Priority, for an empty Belly kills more surely than any Predator, and Hunger grows apace, whether one labors or stands idle.$(br)    Some Islands may offer Fruits or other Greenery, but Chance may provide only Fish or Flesh as Food. A trusty Knife or Spear should suffice to bring down small Game."
+        },
+            "    In the Waters, the desperate may seize Fish by Hand, but even the meanest of Tools will give better Result. The many scuttling Denizens of the Shore-Line provide succulent Tidbits for the unsqueamish.$(br)    Hunger may provoke one to feed greedily upon the first raw Meat obtained, but let Reason prevail - cook all Foods for superior Sustenance and Preservation.$(br)    If the Island be too miserly to provide sufficient Copper for Pots and Pans, a Camp-fire will suffice.",
+        "Once one's Belly and Ration-Bag have been provided for, seek a Shelter for the Night. The meanest of Accommodations will suffice - a small Chamber dug into a Hillside, a crude Hut of Wood, or even the Limbs of a Tree.$(br)    If Wool cannot be found for Bedding, an improvised Bedroll can be made from Canvas, though such is not reusable.$(br)    Light the Surroundings well with Camp-fires or Torches to keep Creatures at bay, and if Sleep will not come, do such Work as one can until Morning.",
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:canvas",
+            "recipe2": "spectral_core:bedroll"
         }
     ]
 }

@@ -6,10 +6,10 @@
         },
         {
             "type": "emberstextapi:sdf",
-            "file": "junicode_cond_semibold.ttf",
-            "size": 14.0,
+            "file": "mops.ttf",
+            "size": 12.0,
             "sdf_resolution": 48,
-            "padding": 4,
+            "padding": 0,
             "px_range": 8.0,
             "angle_threshold": 3.0,
             "oversample": 2.0,

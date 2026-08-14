@@ -5,17 +5,18 @@
     "entry_color": "43120F",
     "sortnum": 2,
     "pages": [
-        "To the Layman, Rigging seems the least Element of a Ship, yet Rope is the Sailor's steadfast Companion – and like Friendship, if it perish, only Ruin can follow. Effort spent securing proper Rigging repays itself Hundredfold.$(p)All Rope begins with Fibers. The patient may gather the Threads of Spiders - or the stout-hearted may seize them. Some Reeds of Fen or Bog yield String if gathered in Quantity. The unhurried may cultivate wild Flax Seeds found on Shores – from which fine Rope is wrought.$(p)",
+        "    To the Layman, Rigging seems the least Element of a Ship, yet Rope is the Sailor's steadfast Companion – and like Friendship, if it perish, only Ruin can follow. Effort spent securing proper Rigging repays itself Hundredfold.$(br)    All Rope begins with Fibers. Some Reeds of Fen or Bog yield String if gathered in Quantity. String or Straw may be painstakingly twisted into Ropes. The unhurried may cultivate Flax from wild Seeds found on Shores – from which fine Rope is wrought.",
         {
+            "title": "Obtaining Rope",
             "type": "crafting",
-            "recipe": "minecraft:kjs/supplementaries_rope",
+            "recipe": "spectral_seas:rope_from_straw",
             "recipe2": "supplementaries:rope"
         },
-        "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task. Take also some sturdy Metal for Stays and Pulleys, and assemble the Lot. $(p)Once an ample Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools.$(p)",
+        "Whatever the Method, once Rope is gained, it wants Treatment to harden into strong Cables and Straps. The vile Secretions of Slimes or Jellyfish serve this Purpose, though their Gathering be a loathsome Task. Take also some sturdy Metal for Stays and Pulleys, and assemble the Lot.$(br)    Once a sufficient Supply of Rigging is assembled, any surplus Rope may be put to good use in ingenious Tools.",
         {
             "title": "A fine Piece of Rigging",
             "type": "crafting",
-            "recipe": "minecraft:kjs/spectral_seas_rigging"
+            "recipe": "spectral_seas:rigging"
         }
     ]
 }

@@ -7,5 +7,5 @@
     "use_resource_pack": false,
     "show_progress": false,
     "model": "patchouli:book_cyan",
-    "text_overflow_mode": "resize"
+    "text_overflow_mode": "truncate"
 }
