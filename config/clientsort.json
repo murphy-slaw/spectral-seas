@@ -6,7 +6,7 @@
     "optimizeCreativeSorting": true,
     "autoOpDelayPlayer": 2,
     "autoOpDelayContainer": 2,
-    "hotbarScope": "HOTBAR",
+    "hotbarScope": "NONE",
     "extraSlotScope": "NONE",
     "bundlesUseLeftClick": false,
     "transferReverseOrder": true,
