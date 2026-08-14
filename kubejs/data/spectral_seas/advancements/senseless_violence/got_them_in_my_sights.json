@@ -1,0 +1,61 @@
+{
+  "parent": "spectral_seas:senseless_violence/the_long_arm",
+  "display": {
+    "icon": {
+      "item": "musketmod:musket_with_scope",
+      "nbt": "{Damage:0}",
+      "id": "musketmod:musket_with_scope"
+    },
+    "title": {
+      "text": "Got Them In My Sights"
+    },
+    "description": {
+      "text": "Shoot a Mob With a Scoped Musket…which is a real thing"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "shot_harpoon": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "musketmod:musket_with_scope"
+                  ]
+                }
+              }
+            },
+            "entity": "this"
+          }
+        ],
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_projectile",
+                "expected": true
+              }
+            ],
+            "direct_entity": {
+              "type": "musketmod:bullet"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "shot_harpoon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

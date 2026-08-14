@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "web:spider_egg"
+    },
+    "title": {
+      "translate": "advancement.web.burn_the_nest.title"
+    },
+    "description": {
+      "translate": "advancement.web.burn_the_nest.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spectral_seas:adventure/spelunking",
+  "criteria": {
+    "burned_spider_egg": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "burned_spider_egg"
+    ]
+  ]
+}

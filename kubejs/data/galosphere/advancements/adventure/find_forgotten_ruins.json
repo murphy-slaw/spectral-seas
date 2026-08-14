@@ -1,7 +1,7 @@
 {
-  "parent": "spectral_seas:adventure/pink_salt_caves",
+  "parent": "spectral_seas:adventure/spelunking",
   "criteria": {
-    "pink_salt_shrine": {
+    "forgotten_ruins": {
       "conditions": {
         "player": [
           {
@@ -9,7 +9,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "galosphere:pink_salt_shrine"
+                "structure": "galosphere:forgotten_ruins"
               }
             }
           }
@@ -21,21 +21,21 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "advancements.galosphere.find_pink_salt_shrine.description"
+      "translate": "advancements.galosphere.find_forgotten_ruins.description"
     },
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "galosphere:pink_salt_bricks"
+      "item": "minecraft:infested_cracked_stone_bricks"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.galosphere.find_pink_salt_shrine.title"
+      "translate": "advancements.galosphere.find_forgotten_ruins.title"
     }
   },
   "requirements": [
     [
-      "pink_salt_shrine"
+      "forgotten_ruins"
     ]
   ],
   "sends_telemetry_event": true

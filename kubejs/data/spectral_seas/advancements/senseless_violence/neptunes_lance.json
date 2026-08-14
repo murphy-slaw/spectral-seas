@@ -1,0 +1,51 @@
+{
+  "parent": "spectral_seas:senseless_violence/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:trident",
+      "nbt": "{Damage:0}",
+      "id": "minecraft:trident"
+    },
+    "title": {
+      "text": "Neptune\u0027s Lance"
+    },
+    "description": {
+      "text": "Obtain a Trident"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtain_trident": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:trident"
+            ]
+          }
+        ]
+      }
+    },
+    "obtain_harpoon_launcher": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tridents_n_stuff:harpoons"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obtain_harpoon_launcher",
+      "obtain_trident"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,58 @@
+{
+  "parent": "spectral_seas:senseless_violence/root",
+  "display": {
+    "icon": {
+      "item": "musketmod:pistol",
+      "nbt": "{Damage:0}",
+      "id": "musketmod:pistol"
+    },
+    "title": {
+      "text": "Powder and Shot"
+    },
+    "description": {
+      "text": "Load a Black Powder Weapon"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "loaded": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "musketmod:pistol",
+              "musketmod:musket",
+              "musketmod:blunderbuss"
+            ],
+            "nbt": "{loaded:1b}"
+          }
+        ]
+      }
+    },
+    "obtain_ammo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "musketmod:cartridge"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "loaded"
+    ],
+    [
+      "obtain_ammo"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

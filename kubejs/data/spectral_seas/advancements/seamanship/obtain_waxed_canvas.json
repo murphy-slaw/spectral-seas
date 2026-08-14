@@ -1,15 +1,15 @@
 {
-  "parent": "spectral_seas:seamanship/obtain_waxed_canvas",
+  "parent": "farmersdelight:main/harvest_straw",
   "display": {
     "icon": {
-      "item": "hybrid_aquatic:diving_helmet",
-      "nbt": "{Damage:0}"
+      "item": "spectral_seas:waxed_canvas",
+      "id": "spectral_seas:waxed_canvas"
     },
     "title": {
-      "text": "Fish-eye Lens"
+      "text": "Scratchy, But Waterproof"
     },
     "description": {
-      "text": "Craft a diving helmet"
+      "text": "Make waxed canvas in a cooking pot"
     },
     "frame": "task",
     "show_toast": true,
@@ -17,13 +17,13 @@
     "hidden": false
   },
   "criteria": {
-    "helmet": {
+    "obtain_waxed_canvas": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "hybrid_aquatic:diving_helmet"
+              "spectral_seas:waxed_canvas"
             ]
           }
         ]
@@ -32,7 +32,7 @@
   },
   "requirements": [
     [
-      "helmet"
+      "obtain_waxed_canvas"
     ]
   ],
   "sends_telemetry_event": false

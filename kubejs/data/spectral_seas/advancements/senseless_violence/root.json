@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:iron_cutlass",
+      "nbt": "{Damage:0}",
+      "id": "simplyswords:iron_cutlass"
+    },
+    "title": {
+      "text": "Senseless Violence"
+    },
+    "description": {
+      "text": "Shovels and rakes and implements of destruction"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+    "criteria": {
+    "killed_by_something": {
+      "conditions": {},
+      "trigger": "minecraft:entity_killed_player"
+    },
+    "killed_something": {
+      "conditions": {},
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "requirements": [
+    [
+      "killed_something",
+      "killed_by_something"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,29 +1,28 @@
 {
-  "parent": "spectral_seas:seamanship/obtain_waxed_canvas",
+  "parent": "farmersdelight:main/craft_knife",
   "display": {
     "icon": {
-      "item": "hybrid_aquatic:diving_helmet",
-      "nbt": "{Damage:0}"
+      "item": "farmersdelight:straw"
     },
     "title": {
-      "text": "Fish-eye Lens"
+      "translate": "advancements.farmersdelight.harvest_straw.title"
     },
     "description": {
-      "text": "Craft a diving helmet"
+      "translate": "advancements.farmersdelight.harvest_straw.description"
     },
     "frame": "task",
     "show_toast": true,
-    "announce_to_chat": true,
+    "announce_to_chat": false,
     "hidden": false
   },
   "criteria": {
-    "helmet": {
+    "harvest_straw": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "hybrid_aquatic:diving_helmet"
+              "farmersdelight:straw"
             ]
           }
         ]
@@ -32,8 +31,8 @@
   },
   "requirements": [
     [
-      "helmet"
+      "harvest_straw"
     ]
   ],
-  "sends_telemetry_event": false
+  "sends_telemetry_event": true
 }

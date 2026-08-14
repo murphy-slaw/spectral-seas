@@ -1,0 +1,91 @@
+{
+  "parent": "spectral_seas:seamanship/pick_it_up",
+  "display": {
+    "icon": {
+      "item": "farmersdelight:flint_knife",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.farmersdelight.craft_knife.title"
+    },
+    "description": {
+      "translate": "advancements.farmersdelight.craft_knife.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:diamond_knife"
+            ]
+          }
+        ]
+      }
+    },
+    "iron_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:iron_knife"
+            ]
+          }
+        ]
+      }
+    },
+    "flint_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:flint_knife"
+            ]
+          }
+        ]
+      }
+    },
+    "netherite_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:netherite_knife"
+            ]
+          }
+        ]
+      }
+    },
+    "golden_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:golden_knife"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "flint_knife",
+      "iron_knife",
+      "diamond_knife",
+      "golden_knife",
+      "netherite_knife"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

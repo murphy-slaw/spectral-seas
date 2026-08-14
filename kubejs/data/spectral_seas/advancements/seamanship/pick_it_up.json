@@ -1,15 +1,16 @@
 {
-  "parent": "spectral_seas:seamanship/obtain_waxed_canvas",
+  "parent": "spectral_seas:seamanship/root",
   "display": {
     "icon": {
-      "item": "hybrid_aquatic:diving_helmet",
-      "nbt": "{Damage:0}"
+      "item": "spectral_seas:flint_pickaxe",
+      "nbt": "{Damage:0}",
+      "id": "spectral_seas:flint_pickaxe"
     },
     "title": {
-      "text": "Fish-eye Lens"
+      "text": "Pick It Up"
     },
     "description": {
-      "text": "Craft a diving helmet"
+      "text": "Craft a pickaxe from whatever you can find lying around"
     },
     "frame": "task",
     "show_toast": true,
@@ -17,14 +18,12 @@
     "hidden": false
   },
   "criteria": {
-    "helmet": {
+    "obtain_pickaxe": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": [
-              "hybrid_aquatic:diving_helmet"
-            ]
+            "tag": "minecraft:pickaxes"
           }
         ]
       }
@@ -32,7 +31,7 @@
   },
   "requirements": [
     [
-      "helmet"
+      "obtain_pickaxe"
     ]
   ],
   "sends_telemetry_event": false

@@ -1,0 +1,25 @@
+{
+  "parent": "spectral_seas:adventure/lichen_caves",
+  "criteria": {
+    "light_the_way": {
+      "trigger": "galosphere:walk_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.galosphere.light_the_way.description"
+    },
+    "icon": {
+      "item": "galosphere:lichen_moss"
+    },
+    "title": {
+      "translate": "advancements.galosphere.light_the_way.title"
+    }
+  },
+  "requirements": [
+    [
+      "light_the_way"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

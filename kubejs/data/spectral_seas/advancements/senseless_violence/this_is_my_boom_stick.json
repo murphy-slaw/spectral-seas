@@ -1,15 +1,16 @@
 {
-  "parent": "spectral_seas:seamanship/obtain_waxed_canvas",
+  "parent": "spectral_seas:senseless_violence/powder_and_shot",
   "display": {
     "icon": {
-      "item": "hybrid_aquatic:diving_helmet",
-      "nbt": "{Damage:0}"
+      "item": "musketmod:blunderbuss",
+      "nbt": "{Damage:0}",
+      "id": "musketmod:blunderbuss"
     },
     "title": {
-      "text": "Fish-eye Lens"
+      "text": "This is My BOOM STICK"
     },
     "description": {
-      "text": "Craft a diving helmet"
+      "text": "Obtain a Blunderbuss"
     },
     "frame": "task",
     "show_toast": true,
@@ -17,13 +18,13 @@
     "hidden": false
   },
   "criteria": {
-    "helmet": {
+    "loaded": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "hybrid_aquatic:diving_helmet"
+              "musketmod:blunderbuss"
             ]
           }
         ]
@@ -32,7 +33,7 @@
   },
   "requirements": [
     [
-      "helmet"
+      "loaded"
     ]
   ],
   "sends_telemetry_event": false

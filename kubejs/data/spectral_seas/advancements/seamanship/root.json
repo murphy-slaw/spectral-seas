@@ -3,8 +3,8 @@
         "icon": {
             "item": "ecologics:coconut_seedling"
         },
-        "title": "Seamanship",
-        "description": "Sailing the Spectral Seas",
+        "title": "The Castaway's Progress",
+        "description": "Survive, Thrive, and Set Sail",
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,

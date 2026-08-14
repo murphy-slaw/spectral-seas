@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "spectral_seas:seamanship/root",
+  "parent": "spectral_seas:seamanship/shipwright",
   "criteria": {
     "board_ship": {
       "trigger": "minecraft:started_riding",

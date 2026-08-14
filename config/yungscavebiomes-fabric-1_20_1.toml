@@ -1,6 +1,6 @@
 [config.lostCaves]
-enableSandstorms = true
-extraSandstormParticles = true
+enableSandstorms = false
+extraSandstormParticles = false
 minSandstormDuration = 120
 maxSandstormDuration = 600
 minTimeBetweenSandstorms = 1200

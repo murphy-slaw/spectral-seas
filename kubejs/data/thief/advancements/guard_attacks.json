@@ -1,0 +1,29 @@
+{
+  "parent": "spectral_seas:senseless_violence/root",
+  "criteria": {
+    "attack": {
+      "conditions": {},
+      "trigger": "thief:guard_attacks_criminal"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": true,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "item": "minecraft:stone_sword"
+    },
+    "title": {
+      "translate": "advancement.thief.guard_attacks.title"
+    },
+    "description": {
+      "translate": "advancement.thief.guard_attacks.description"
+    }
+  },
+  "requirements": [
+    [
+      "attack"
+    ]
+  ]
+}
