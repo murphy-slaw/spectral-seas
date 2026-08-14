@@ -10,7 +10,8 @@
     },
     "pattern": [
         "sss",
-        "ppp"
+        "p p",
+        " p "
     ],
     "result": {
         "item": "spectral_seas:walnut_hull_section"

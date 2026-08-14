@@ -10,7 +10,8 @@
     },
     "pattern": [
         "sss",
-        "ppp"
+        "p p",
+        " p "
     ],
     "result": {
         "item": "spectral_seas:dark_oak_hull_section"

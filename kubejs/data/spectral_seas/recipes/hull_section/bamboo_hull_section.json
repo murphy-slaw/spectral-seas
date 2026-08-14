@@ -10,7 +10,8 @@
     },
     "pattern": [
         "sss",
-        "ppp"
+        "p p",
+        " p "
     ],
     "result": {
         "item": "spectral_seas:bamboo_hull_section"
