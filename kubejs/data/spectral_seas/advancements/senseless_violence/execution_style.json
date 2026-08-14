@@ -1,0 +1,44 @@
+{
+    "display": {
+        "icon": {
+            "item": "musketmod:pistol"
+        },
+        "title": "Execution Style",
+        "description": "Kill a pirate at point-blank range with a pistol. Holding pistol sideways optional.",
+        "frame": "challenge",
+        "hidden": true
+    },
+    "parent": "spectral_seas:senseless_violence/powder_and_shot",
+    "criteria": {
+        "execution_style": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:pillager",
+                    "distance": {
+                        "horizontal": {
+                            "min": 0,
+                            "max": 2
+                        }
+                    }
+                },
+                "killing_blow": {
+                    "source_entity": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "musketmod:pistol"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "execution_style"
+        ]
+    ]
+}

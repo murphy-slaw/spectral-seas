@@ -1,0 +1,41 @@
+{
+    "display": {
+        "icon": {
+            "item": "farmersdelight:skillet"
+        },
+        "title": "KERRANG!",
+        "description": "Kill a monster with a skillet.",
+        "frame": "challenge",
+        "hidden": "true"
+    },
+    "parent": "spectral_seas:senseless_violence/root",
+    "criteria": {
+        "s_kill_it": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "#spectral_seas:hostile_mob"
+                },
+                "killing_blow": {
+                    "source_entity": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "farmersdelight:skillet"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "s_kill_it"
+        ]
+    ],
+    "rewards": {
+        "experience": 500
+    }
+}
