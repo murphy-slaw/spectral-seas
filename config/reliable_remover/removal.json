@@ -45,8 +45,16 @@
     },
     {
         "action": "remove",
+        "mod": [
+            "minecraft"
+        ],
         "patterns": [
-            "/.*_sword/",
+            "/.*_sword/"
+        ]
+    },
+    {
+        "action": "remove",
+        "patterns": [
             "/.*wooden_.*/",
             "/.*froglass.*/"
         ],

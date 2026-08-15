@@ -9,7 +9,7 @@ const pillagerHats = new Map([
 ])
 
 const undeadHats = new Map([
-    ['minecraft:air',36],
+    ['minecraft:air', 36],
     ['simplehats:bicorne', 4],
     ['simplehats:tricorne', 2],
     ['farmersdelight:cooking_pot', 1],
@@ -31,7 +31,7 @@ const zombieLackeyWeapons = new Map([
     ['sticknstone:stone_cutlass', 20],
     ['farmersdelight:iron_knife', 10],
     ['farmersdelight:skillet', 1],
-    ['supplementaries:wrench', 1]
+    ['supplementaries:wrench', 1],
 ])
 
 EntityEvents.spawned((event) => {
@@ -88,7 +88,14 @@ EntityEvents.spawned((event) => {
             }
         })
     }
-
+    if (entity.type === 'minecraft:wither_skeleton') {
+        event.server.scheduleInTicks(1, (task) => {
+            entity.setItemSlot('mainhand', Item.of('sticknstone:stone_cutlass'))
+            if (entity.getHeadArmorItem().empty) {
+                entity.setHeadArmorItem(Item.of(RandomUtils.weighted(undeadHats)))
+            }
+        })
+    }
     if (entity.type === 'rottencreatures:skeleton_lackey') {
         event.server.scheduleInTicks(1, (task) => {
             entity.setItemSlot('MAINHAND', 'farmersdelight:iron_knife')
