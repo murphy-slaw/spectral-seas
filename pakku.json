@@ -93,6 +93,9 @@
         "tellme": {
             "export": false
         },
+        "panoptic": {
+            "export": false
+        },
         "spyglass-improvements": {
             "side": "BOTH"
         },
