@@ -64,16 +64,6 @@ run=50
 type="natural"
 
 [[mob]]
-name="minecraft:camel"
-[[mob.rule]]
-name="desert-camels"
-biome="minecraft:desert"
-type="control"
-spawn.count=[1,2]
-spawn.additional-checks="yes"
-repeat=400
-
-[[mob]]
 name="hybrid_aquatic:hermit_crab"
 [[mob.rule]]
 name="fewer-hermit-crabs"
