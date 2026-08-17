@@ -1,0 +1,10 @@
+{
+  "type": "spectrum:liquid_crystal_converting",
+  "ingredient": {
+    "tag": "c:ender_pearls"
+  },
+  "result" : {
+    "item": "minecraft:ender_pearl",
+    "count": 1
+  }
+}
