@@ -1,6 +1,6 @@
 {
   "type": "spectrum:fusion_shrine",
-  "group": "bedrock_tools",
+  "group": "bedrock_armor",
   "time": 1200,
   "experience": 16.0,
   "fluid": {
@@ -9,36 +9,36 @@
   "copy_nbt": true,
   "ingredients": [
     {
-      "tag": "simplyswords:gold_gear"
+      "item": "minecraft:golden_chestplate"
     },
     {
       "item": "spectrum:bedrock_dust",
-      "count": 2
+      "count": 8
     },
     {
       "item": "spectrum:black_pigment",
-      "count": 2
+      "count": 8
     },
     {
       "item": "spectrum:onyx_powder",
-      "count": 2
+      "count": 8
     },
     {
       "item": "spectrum:stratine_gem",
       "count": 1
     },
     {
-      "item": "spectrum:stratine_fragments",
-      "count": 2
+      "item": "minecraft:rose_bush",
+      "count": 1
     }
   ],
   "result": {
-    "item": "spectrum:bedrock_sword",
+    "item": "spectrum:bedrock_chestplate",
     "nbt": {
       "Enchantments": [
         {
-          "id": "spectrum:improved_critical",
-          "lvl": "3s"
+          "id": "spellbound:red_alert",
+          "lvl": "5s"
         }
       ]
     }
