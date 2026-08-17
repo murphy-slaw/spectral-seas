@@ -8,7 +8,7 @@
     {
         "action": "replace_input",
         "mod":"smallships",
-        "target": "ecologics:azalea_boat",
+        "target": "ecologics:azalea_chest_boat",
         "replacement": "spectral_seas:azalea_hull_section"
     },
     {
