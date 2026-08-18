@@ -14,8 +14,10 @@ set.attack="player"
 name="hybrid_aquatic:coconut_crab"
 [[mob.rule]]
 name="crab_revenge"
-type = "all"
 set.on-hurt="one"
+set.health=12
+spawn.count = [0,1]
+type="natural"
 
 [[mob]]
 name="minecraft:glow_squid"
@@ -110,6 +112,7 @@ type="all"
 [[mob.rule]]
 time-of-day="<18000"
 type="cancel"
+
 
 [[mob]]
 name="*"
