@@ -9,11 +9,11 @@
     }
   },
   "step": "underground_decoration",
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "start_height": {
-    "absolute": 32
+    "absolute": 0
   },
   "start_pool": "nova_structures:donjon/donjon_framework/donjon_center_start",
   "size": 7,
-  "type": "minecraft:jigsaw",
   "use_expansion_hack": false
 }
