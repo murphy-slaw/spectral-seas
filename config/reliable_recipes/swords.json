@@ -1,0 +1,17 @@
+[
+    {
+        "action": "remove_recipe",
+        "input": "/.*_rapier/",
+        "output": "/.*_(longsword|cutlass)/"
+    },
+    {
+        "action": "remove_recipe",
+        "input": "/.*_longsword/",
+        "output": "/.*_(rapier|cutlass)/"
+    },
+    {
+        "action": "remove_recipe",
+        "input": "/.*_cutlass/",
+        "output": "/.*_(rapier|longsword)/"
+    }
+]
