@@ -56,5 +56,14 @@
         "replacement": [
             "minecraft:copper_ingot"
         ]
+    },
+    {
+        "action": "replace_input",
+        "output": "minecraft:smithing_table",
+        "target": "minecraft:iron_ingot",
+        "replacement": [
+            "minecraft:copper_ingot",
+            "minecraft:iron_ingot"
+        ]
     }
 ]
