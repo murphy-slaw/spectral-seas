@@ -1,14 +1,14 @@
 [
     {
         "action": "replace_input",
-        "mods": "hybrid_aquatic",
+        "mod": "hybrid_aquatic",
         "output": "hybrid_aquatic:diving_suit",
         "target": "#spectral_seas:leather",
         "replacement": "spectral_seas:waxed_canvas"
     },
     {
         "action": "replace_input",
-        "mods": "hybrid_aquatic",
+        "mod": "hybrid_aquatic",
         "output": "hybrid_aquatic:diving_leggings",
         "target": "#spectral_seas:leather",
         "replacement": "spectral_seas:waxed_canvas"
