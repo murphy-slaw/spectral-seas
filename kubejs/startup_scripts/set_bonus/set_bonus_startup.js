@@ -95,7 +95,6 @@ global.armorSetBonus = (ctx) => {
                 let wornArmor = entity.armorSlots.toArray().map((i) => i.id)
                 armorMatch = armors.every((a) => wornArmor.includes(a))
             }
-            console.info(armorMatch)
 
             // Offhand: any defined item must be in the offhand slot
             let offhandRequired = setData.offhands || setData.offhand || []
@@ -104,7 +103,6 @@ global.armorSetBonus = (ctx) => {
                 offhandRequired.some((id) => matchesEntry(offhandItem, id))
 
             if (armorMatch && offhandMatch) {
-                console.log("Boop:" + set)
                 wornSets.push(set)
                 for (let effect of setData.bonus.potion_effects) {
                     activeEffects.add(effect[0])
@@ -127,7 +125,6 @@ global.armorSetBonus = (ctx) => {
                 entity.potionEffects.add(effectId, -1, effectLevel, ambient, showParticles)
             }
             for (let attr of setData.bonus.attribute_modifiers) {
-                console.log(attr)
                 let attributeId = attr[0]
                 let attributeName = attr[1]
                 let attributeValue = attr[2]
