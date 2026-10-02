@@ -6,5 +6,6 @@
   "waila:fabric": true,
   "balm:wthit": true,
   "revelationary:plugin": true,
-  "smallships:waila": true
+  "smallships:waila": true,
+  "item-descriptions:block_descriptions": true
 }
