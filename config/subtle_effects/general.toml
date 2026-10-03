@@ -34,4 +34,4 @@ fireOverlayAlphaWithFireResistance = 0.4
 mobSkullShaders = false
 nightVisionFading = true
 nightVisionFadingTime = 100
-enableEasterEggs = true
+enableEasterEggs = false
