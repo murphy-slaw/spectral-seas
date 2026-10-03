@@ -9,7 +9,7 @@
         "action": "replace_input",
         "output": "smallships:azalea_cog",
         "target": "ecologics:azalea_chest_boat",
-        "replacement": "ecologics:azalea_boat"
+        "replacement": "spectral_seas:azalea_hull_section"
     },
     {
         "action": "remove_recipe",
