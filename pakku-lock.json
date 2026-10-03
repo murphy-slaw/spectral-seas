@@ -13386,7 +13386,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reliable_remover-3.3.0+1.20.1-fabric.jar",
+                    "file_name": "reliable_remover-3.3.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13394,23 +13394,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/yCOLq2Ay/reliable_remover-3.3.0+1.20.1-fabric.jar",
-                    "id": "yCOLq2Ay",
+                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/zzsiTZmZ/reliable_remover-3.3.1+1.20.1-fabric.jar",
+                    "id": "zzsiTZmZ",
                     "parent_id": "pLxsKvNt",
                     "hashes": {
-                        "sha512": "cfd8ade3ac6e2a13e3db912ca0c3fdfe360557b682a75469a605ab94b23a11dcf149472ade53d2fca80d66a2f19a19c2d39d313edeaf24344de48d4700740371",
-                        "sha1": "2aefde3bb7a1205946e57d376cac5e8ef495aea1"
+                        "sha512": "e01e87f0be227d5254d47cf07adccfedb72db1b7f0f9121043341f4e15e223e489e6138b43e15fb6e2eb8d6b9b5278f9501b9c475f4d4f971209fbba0543b4bb",
+                        "sha1": "3714aae325a9fa14a542e3029d6182d092cc801b"
                     },
                     "required_dependencies": [
-                        "Hl4ARA1z",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Hl4ARA1z"
                     ],
-                    "size": 160266,
-                    "date_published": "2026-09-30T09:27:48.073432Z"
+                    "size": 160643,
+                    "date_published": "2026-10-03T01:11:02.938632Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "reliable_remover-3.3.0+1.20.1-fabric.jar",
+                    "file_name": "reliable_remover-3.3.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13418,19 +13418,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9016/794/reliable_remover-3.3.0+1.20.1-fabric.jar",
-                    "id": "9016794",
+                    "url": "https://edge.forgecdn.net/files/9042/779/reliable_remover-3.3.1+1.20.1-fabric.jar",
+                    "id": "9042779",
                     "parent_id": "1420447",
                     "hashes": {
-                        "sha1": "2aefde3bb7a1205946e57d376cac5e8ef495aea1",
-                        "md5": "82ca9e19167d6fb3311c04c8b5d73e8b"
+                        "sha1": "3714aae325a9fa14a542e3029d6182d092cc801b",
+                        "md5": "f59db2df6de8a135af37e39e6cf0d666"
                     },
                     "required_dependencies": [
-                        "1414959",
-                        "306612"
+                        "306612",
+                        "1414959"
                     ],
-                    "size": 160266,
-                    "date_published": "2026-09-30T09:27:47.540Z"
+                    "size": 160643,
+                    "date_published": "2026-10-03T01:11:01.793Z"
                 }
             ]
         },
@@ -17367,7 +17367,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "treeliable-fabric-1.20.1-1.1.3.jar",
+                    "file_name": "treeliable-fabric-1.20.1-1.4.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17375,20 +17375,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FllppLY0/versions/Q4dqumRD/treeliable-fabric-1.20.1-1.1.3.jar",
-                    "id": "Q4dqumRD",
+                    "url": "https://cdn.modrinth.com/data/FllppLY0/versions/7mnnoUYg/treeliable-fabric-1.20.1-1.4.0.jar",
+                    "id": "7mnnoUYg",
                     "parent_id": "FllppLY0",
                     "hashes": {
-                        "sha512": "41afafefccba0c1652ecebccdaa12e2a0018edc30a2b62ea61d18b51c5a96e90f5cfe2e87408b43f3ebd0515186f9137a54af5dc1fbf749ab99173b74f05f13c",
-                        "sha1": "3fc8040e7a8b181873900ca3ab87e36a3f1f1b0e"
+                        "sha512": "edad72e2a41f321643f47cddda2b4667c3393e9dc186228e59e8107593e1d7611e1f7cd93b7b05e30bfd1fc89f2767ba48262bb9207c5af585133a1bbfa854a1",
+                        "sha1": "74a7d4d708e0a905f2b321ae3d3e86e2df62a4a1"
                     },
                     "required_dependencies": [],
-                    "size": 208634,
-                    "date_published": "2026-07-28T04:41:24.340259Z"
+                    "size": 211905,
+                    "date_published": "2026-09-29T02:52:51.482816Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "treeliable-fabric-1.20.1-1.1.3.jar",
+                    "file_name": "treeliable-fabric-1.20.1-1.4.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17396,16 +17396,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8524/797/treeliable-fabric-1.20.1-1.1.3.jar",
-                    "id": "8524797",
+                    "url": "https://edge.forgecdn.net/files/9005/769/treeliable-fabric-1.20.1-1.4.0.jar",
+                    "id": "9005769",
                     "parent_id": "1502764",
                     "hashes": {
-                        "sha1": "3fc8040e7a8b181873900ca3ab87e36a3f1f1b0e",
-                        "md5": "794511195dd86cdafdc90c6432abea5c"
+                        "sha1": "74a7d4d708e0a905f2b321ae3d3e86e2df62a4a1",
+                        "md5": "fe96dad9b7be51c0ac8180d4bdb91937"
                     },
                     "required_dependencies": [],
-                    "size": 208634,
-                    "date_published": "2026-07-28T04:41:24.743Z"
+                    "size": 211905,
+                    "date_published": "2026-09-29T02:52:51.497Z"
                 }
             ]
         },
@@ -18839,15 +18839,49 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "3D-muskets-1.1.zip",
+                    "file_name": "3D Muskets 1.2.zip",
                     "mc_versions": [
+                        "23w14a",
+                        "23w16a",
                         "1.20",
                         "1.20.1",
+                        "23w31a",
+                        "23w32a",
+                        "23w33a",
+                        "23w35a",
+                        "1.20.2-pre1",
                         "1.20.2",
+                        "23w42a",
+                        "23w43a",
+                        "23w43b",
+                        "23w44a",
+                        "23w45a",
+                        "23w46a",
                         "1.20.3",
                         "1.20.4",
+                        "24w03a",
+                        "24w03b",
+                        "24w04a",
+                        "24w05a",
+                        "24w05b",
+                        "24w06a",
+                        "24w07a",
+                        "24w09a",
+                        "24w10a",
+                        "24w11a",
+                        "24w12a",
+                        "24w13a",
+                        "24w14potato",
+                        "24w14a",
+                        "1.20.5-pre1",
+                        "1.20.5-pre2",
+                        "1.20.5-pre3",
                         "1.20.5",
                         "1.20.6",
+                        "24w18a",
+                        "24w19a",
+                        "24w19b",
+                        "24w20a",
                         "1.21",
                         "1.21.1"
                     ],
@@ -18855,42 +18889,44 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/CnHKbzuv/versions/8CcAm520/3D-muskets-1.1.zip",
-                    "id": "8CcAm520",
+                    "url": "https://cdn.modrinth.com/data/CnHKbzuv/versions/ybI8ZejG/3D Muskets 1.2.zip",
+                    "id": "ybI8ZejG",
                     "parent_id": "CnHKbzuv",
                     "hashes": {
-                        "sha512": "9e475d0dc53d1a30d8f9b094669071e60fd013803cbdee81ccafcb373c5b61782d285b5b5d805c5569534d4a10f88dc23b8b3d3c98007643c3bf90d692a31b54",
-                        "sha1": "d7a5474e900c914b8c75f8f8817df9b82d4b3b2e"
+                        "sha512": "00c317ae5273defe892d810d60a3b08534584eafcafe9773a08d22865474dc913fda23e4b961e0bfe0b635758c63e41f79117c57701cb467a0c0be463e675311",
+                        "sha1": "f531d5c46c1ddcb94056840b34a1d927a1e74ff2"
                     },
                     "required_dependencies": [
                         "967vM4zw"
                     ],
-                    "size": 124905,
-                    "date_published": "2025-01-13T03:28:53.672175Z"
+                    "size": 127146,
+                    "date_published": "2026-09-01T23:06:33.948178Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "3D-muskets.zip",
+                    "file_name": "3D Muskets 1.2.zip",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
-                        "1.20.3",
                         "1.20.1",
                         "1.20",
                         "1.20.6",
-                        "1.20.4"
+                        "1.20.4",
+                        "1.20.3"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6082/419/3D-muskets.zip",
-                    "id": "6082419",
+                    "url": "https://edge.forgecdn.net/files/8788/907/3D Muskets 1.2.zip",
+                    "id": "8788907",
                     "parent_id": "1114702",
                     "hashes": {
-                        "sha1": "d7a5474e900c914b8c75f8f8817df9b82d4b3b2e",
-                        "md5": "4d3f52bde0b5f9ea76a8b70c4f8f6ecc"
+                        "sha1": "f531d5c46c1ddcb94056840b34a1d927a1e74ff2",
+                        "md5": "b6e1d067336408f5fe5c258a713b10b6"
                     },
-                    "required_dependencies": [],
-                    "size": 124905,
-                    "date_published": "2025-01-13T03:22:22.643Z"
+                    "required_dependencies": [
+                        "354562"
+                    ],
+                    "size": 127146,
+                    "date_published": "2026-09-01T23:47:25.060Z"
                 }
             ]
         },
