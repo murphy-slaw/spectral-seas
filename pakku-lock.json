@@ -9951,7 +9951,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "music_tweaks-fabric-1.20.1-1.5.1.jar",
+                    "file_name": "music_tweaks-fabric-1.20.1-1.7.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9959,20 +9959,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiONV3dI/versions/9k1rQEye/music_tweaks-fabric-1.20.1-1.5.1.jar",
-                    "id": "9k1rQEye",
+                    "url": "https://cdn.modrinth.com/data/eiONV3dI/versions/WHy0YmFl/music_tweaks-fabric-1.20.1-1.7.0.jar",
+                    "id": "WHy0YmFl",
                     "parent_id": "eiONV3dI",
                     "hashes": {
-                        "sha512": "58d54b76ab1a0cb040f48477a50f7f1ddbadedb959d8aeebfb80e280ace5f445619fe1070247ec4cec763f3849b1fce7299360ee32f9ed254a0b381eed74a4f2",
-                        "sha1": "a0a87e71bf5f945f39b4f94200e8230cd3cdd0a9"
+                        "sha512": "19f04b9c695b4a9af4c28830ecdac475c3e67d65af1c39564b8c7a69edea2996ebb0f633b5766e1e9f3029c7ff6091688660d2f19535dcf4835991a4d7cb4c97",
+                        "sha1": "967ebcb58ea61a20dc694d0fc086f76f09144bad"
                     },
                     "required_dependencies": [],
-                    "size": 71144,
-                    "date_published": "2026-08-05T05:26:12.427673Z"
+                    "size": 76353,
+                    "date_published": "2026-09-17T03:02:20.573016Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "music_tweaks-fabric-1.20.1-1.5.1.jar",
+                    "file_name": "music_tweaks-fabric-1.20.1-1.7.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9980,16 +9980,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8580/494/music_tweaks-fabric-1.20.1-1.5.1.jar",
-                    "id": "8580494",
+                    "url": "https://edge.forgecdn.net/files/8900/620/music_tweaks-fabric-1.20.1-1.7.0.jar",
+                    "id": "8900620",
                     "parent_id": "1496528",
                     "hashes": {
-                        "sha1": "a0a87e71bf5f945f39b4f94200e8230cd3cdd0a9",
-                        "md5": "eb1121d899f5856327232a0261091547"
+                        "sha1": "967ebcb58ea61a20dc694d0fc086f76f09144bad",
+                        "md5": "d2bda11d49dca4c1343c0f04bcc957c8"
                     },
                     "required_dependencies": [],
-                    "size": 71144,
-                    "date_published": "2026-08-05T05:26:12.900Z"
+                    "size": 76353,
+                    "date_published": "2026-09-17T03:02:21.047Z"
                 }
             ]
         },
