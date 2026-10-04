@@ -3950,6 +3950,67 @@
             ]
         },
         {
+            "pakku_id": "nvKjDFOrQqdX6JC5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "emi-discovery",
+                "curseforge": "emidiscovery"
+            },
+            "name": {
+                "modrinth": "EMIDiscovery",
+                "curseforge": "EMIDiscovery"
+            },
+            "id": {
+                "modrinth": "WO3G3DRj",
+                "curseforge": "1469248"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "emi_discovery-fabric-1.20.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WO3G3DRj/versions/7R4oDOFI/emi_discovery-fabric-1.20.1-2.0.2.jar",
+                    "id": "7R4oDOFI",
+                    "parent_id": "WO3G3DRj",
+                    "hashes": {
+                        "sha512": "8e666671f8136cc515f744c41bc47a83f1e7ad684f1a68b7376e9073812c46fe37973ccec1ed59b320105cccbd95b504e0e6ea578dd8e2df7d17c6a2e93076b1",
+                        "sha1": "d6a4015055d4c7f08d6865e024ba7f11ff186efe"
+                    },
+                    "required_dependencies": [],
+                    "size": 326217,
+                    "date_published": "2026-10-03T22:16:39.194199Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emi_discovery-fabric-1.20.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9052/270/emi_discovery-fabric-1.20.1-2.0.2.jar",
+                    "id": "9052270",
+                    "parent_id": "1469248",
+                    "hashes": {
+                        "sha1": "d6a4015055d4c7f08d6865e024ba7f11ff186efe",
+                        "md5": "63e5bea8edf1c25a3b33879b04014ab4"
+                    },
+                    "required_dependencies": [],
+                    "size": 326217,
+                    "date_published": "2026-10-03T22:16:38.820Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DEgZcLeOBbm3PgXB",
             "pakku_links": [
                 "A8rH06RMTQ4Ls9Q4"

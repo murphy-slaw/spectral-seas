@@ -1,3 +1,16 @@
+enabled = true
+enableFluidDiscovery = true
+enableEffectDiscovery = true
+filterIndex = true
 displayCraftableInIndex = true
+requireWorkstationForCraftable = true
+hideEmptyRemiTabs = false
 displayWithUnknownWorkstation = true
-enableForCreativeMode = false
+exemptInventoryCrafting = true
+requireCatalystsKnown = true
+allowRecipeLookupForUndiscovered = true
+allowUsageLookupForUndiscovered = false
+blackoutUnknownInRecipes = false
+obscureTooltips = true
+showQuestionMarkOverlay = true
+enableAdvancementDiscovery = false
