@@ -32,7 +32,7 @@ const PlayerHelper = (function () {
         })
 
         /**
-         * @returns {Internal.Entity}
+         * @returns {Internal.Ship}
          */
         const getShip = () => {
             const id = shipID.get()
@@ -76,7 +76,7 @@ const PlayerHelper = (function () {
                 const pos = _getMapPos(ship)
                 markerPosition.set(pos)
                 const shipType = ship.type.split(':')[1].toLowerCase()
-                const color = ship.nbt.get('Sail').getString('Color')
+                const color = ship.entityData.get("SAIL_COLOR")
                 const id = getShipLocation(pos)
                 player.sendData('AddMarker', {
                     location: id,

@@ -1,0 +1,21 @@
+{
+  "build_time": 2700,
+  "ingredients": [
+    {
+      "tag": "minecraft:planks",
+      "count": 60
+    },
+    {
+      "tag": "spectral_seas:sail_materials",
+      "count": 18
+    },
+    {
+      "item": "spectral_seas:rigging",
+      "count": 8
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "count": 30
+    }
+  ]
+}

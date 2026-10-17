@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "smallships:oak_cog",
+        "smallships:spruce_cog",
+        "smallships:birch_cog",
+        "smallships:jungle_cog",
+        "smallships:acacia_cog",
+        "smallships:dark_oak_cog",
+        "smallships:mangrove_cog",
+        "smallships:cherry_cog",
+        "smallships:bamboo_cog",
+        "smallships:crimson_cog",
+        "smallships:warped_cog",
+        "smallships:azalea_cog",
+        "smallships:coconut_cog",
+        "smallships:flowering_azalea_cog",
+        "smallships:walnut_cog"
+    ]
+}

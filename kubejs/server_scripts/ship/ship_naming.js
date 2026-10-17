@@ -1,6 +1,6 @@
 ItemEvents.entityInteracted('minecraft:potion', (event) => {
     if (event.item.nbt.display === undefined) return
-    if (shipTypes.includes(event.target.type)) {
+    if (event.target instanceof $ShipPartEntity) {
         let ship = event.target
 
         let shipNBT = ship.nbt

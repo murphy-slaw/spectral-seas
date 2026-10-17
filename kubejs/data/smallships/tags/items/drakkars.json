@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "values": [
+        "smallships:oak_drakkar",
+        "smallships:spruce_drakkar",
+        "smallships:birch_drakkar",
+        "smallships:jungle_drakkar",
+        "smallships:acacia_drakkar",
+        "smallships:dark_oak_drakkar",
+        "smallships:mangrove_drakkar",
+        "smallships:cherry_drakkar",
+        "smallships:bamboo_drakkar",
+        "smallships:crimson_drakkar",
+        "smallships:warped_drakkar",
+        "smallships:azalea_drakkar",
+        "smallships:coconut_drakkar",
+        "smallships:flowering_azalea_drakkar",
+        "smallships:walnut_drakkar"
+    ]
+}

@@ -1,5 +1,7 @@
 const $BlockPathTypes = Java.loadClass('net.minecraft.world.level.pathfinder.BlockPathTypes')
 const $ContainerShip = Java.loadClass('com.talhanation.smallships.world.entity.ship.ContainerShip')
+const $Ship = Java.loadClass('com.talhanation.smallships.world.entity.ship.Ship')
+const $SeatType = Java.loadClass('com.talhanation.smallships.world.entity.ship.seat.SeatType')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 const $ModEntityTypes = Java.loadClass('com.talhanation.smallships.world.entity.ModEntityTypes')
 const $MobSpawnType = Java.loadClass('net.minecraft.world.entity.MobSpawnType')
@@ -8,13 +10,12 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 )
 
 const DEBUG_SHIP_PATHS = false
-const DEBUG_STATE_MACHINE = false
-const SHIP_FRICTION = 0.007
-const ATTACK_RANGE = 3600 // 60 blocks
+const DEBUG_STATE_MACHINE = true
+const ATTACK_RANGE = 900 // 30 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
 const BASE_PIRATE_CHANCE = 0.0375
-const ATTACK_COOLDOWN = 40 // 2 seconds
+const ATTACK_COOLDOWN = 100 // 2 seconds
 const MAX_VOLLEYS = 4
 const BASE_CANNONBALL_COUNT = 8
 
@@ -46,50 +47,11 @@ function horizontalAngleBetweenVectors(vector1, vector2) {
     return KMath.deg(Math.acos(vector1.dot(vector2) / (vector1.length() * vector2.length())))
 }
 
-const distanceModifiers = new Map([
-    [4500, 260],
-    [4000, 230],
-    [3500, 220],
-    [3000, 190],
-    [2600, 170],
-    [2400, 160],
-    [2250, 150],
-    [1750, 130],
-    [1350, 115],
-    [1250, 110],
-    [600, 120],
-    [0, 135],
-])
-
-/**
- * Calculate cannon angle adjustment based on distance to target with random factor, in radians
- * @param {number} distance
- * @param {number} random
- * @returns {number}
- */
-const getCannonAngleDistanceModifier = (distance, random) => {
-    let modifier = 135
-    for (const k of [distanceModifiers.keys()].sort().reverse()) {
-        if (distance >= k) {
-            modifier = distanceModifiers.get(k)
-            break
-        }
-    }
-    return (distance / modifier - Utils.random.nextInt(-random, random)) / 100
-}
-
-/**
- * Calculate cannon angle adjustment based on elevation difference
- * @param {number} heightDiff
- * @returns {number}
- */
-const getCannonAngleHeightModifier = (heightDiff) => (heightDiff * 2.55) / 100
-
 /******************************************************************************/
 
 /**
  * Object wrapper for Ship to handle movement and attack logic
- * @param {Internal.Ship} ship
+ * @param {Internal.CogEntity} ship
  * @param {Internal.Pillager} captain
  * @returns {Object}
  */
@@ -122,107 +84,31 @@ const ShipHelper = function (ship, captain) {
         ship.sailStateCooldown = ship.getSailStateCooldown()
     }
 
-    const getMaxSpeed = () => {
-        return ship.attributes.maxSpeed / 69 //nice
-    }
-
-    /**
-     * Moves the ship's current speed towards the requested speed by the ship's acceleration attribute
-     * @param {number} speed
-     */
-    const setSpeed = (speed) => {
-        const targetSpeed = Math.min(getMaxSpeed(), speed)
-        const curSpeed = ship.getSpeed()
-        if (targetSpeed === curSpeed) return
-        const adjustment =
-            curSpeed < targetSpeed ? ship.attributes.acceleration : -SHIP_FRICTION * 2.2
-        ship.setSpeed(curSpeed + adjustment)
-    }
-
-    /**
-     * Modifies the ship's rotation speed to the left or right, limited by its maxRotationSpeed
-     * @param {boolean} isLeft
-     */
-    const setRotation = (isLeft, rotDelta) => {
-        const sign = Math.sign(ship.getRotSpeed()) >= 0 ? 1 : -1
-        let rotSpeed = sign * Math.max(Math.abs(ship.getRotSpeed()) - SHIP_FRICTION * 2.6, 0)
-        const maxRotSpeed = ship.attributes.maxRotationSpeed * 0.1 + 1.8
-        const rotAccel = Math.min(
-            ship.attributes.rotationAcceleration / 12,
-            Math.sqrt(Math.abs(rotDelta))
-        )
-        if (isLeft) {
-            rotSpeed = Math.max(rotSpeed - rotAccel, -maxRotSpeed)
-        } else {
-            rotSpeed = Math.min(rotSpeed + rotAccel, maxRotSpeed)
-        }
-        ship.setYaw(ship.getYaw() + rotSpeed)
-        ship.setRotSpeed(rotSpeed)
-    }
-
-    /**
-     * Returns a movement vector based on the ship's rotation and speed
-     * @returns {Vec3d}
-     */
-    const calcMovement = () => {
-        return ship
-            .getDeltaMovement()
-            .add(
-                Vec3d(
-                    Math.sin(-KMath.rad(ship.yaw) * ship.speed),
-                    0,
-                    Math.cos(KMath.rad(ship.yaw) * ship.speed)
-                )
-            )
-    }
-
     /**
      * Attempts to fire cannons at the target
      * @param {boolean} shootLeftSide
      * @param {Internal.Entity} target
      */
     function fireCannons(shootLeftSide, target) {
-        const distanceToTarget = captain.distanceToSqr(target)
-        const speed = 3.1
-        const accuracy = 2 // 0 = 100% left right accuracy
-        const rotation = shootLeftSide ? KMath.PI / 2 : -(KMath.PI / 2)
-
-        const shootVec = ship.getForward().yRot(rotation).normalize()
-        const heightDiff = target.getY() - captain.getVehicle().getY()
-        const angle =
-            getCannonAngleDistanceModifier(distanceToTarget, 1) +
-            getCannonAngleHeightModifier(heightDiff)
-        const yShootVec = shootVec.y() + angle
-        ship.triggerCannons(shootVec, yShootVec, captain, speed, accuracy)
+        ship.CANNONS.forEach((cannon) => {
+            if (cannon.isRightSided() !== shootLeftSide && !cannon.isCooldown()) {
+                cannon.trigger(captain)
+            }
+        })
     }
 
-    /*0*
+    /**
      * Move the ship at the given angle (in degrees)
      * @param {number} angle
      */
     const moveAtAngle = (angle) => {
         const ref = 90
-        const inputLeft = angle < ref
-        const inputRight = angle > ref
         const rotDelta = Math.abs(angle - ref)
-        const inputUp = rotDelta <= ref * 0.35
-        const inAngleForSail = rotDelta <= ref * 0.6
+        const shouldTurn = rotDelta > 5
+        const inputLeft = shouldTurn && angle < ref
+        const inputRight = shouldTurn && angle > ref
+        const inputUp = true
 
-        if (inputLeft || inputRight) {
-            setRotation(inputLeft, rotDelta)
-        }
-
-        let targetSpeed = 0
-        if (inputRight !== inputLeft && !inputUp) {
-            if (inAngleForSail) targetSpeed = 0.24
-        }
-
-        if (inputUp) {
-            targetSpeed = getMaxSpeed()
-        }
-
-        ship.setDeltaMovement(calcMovement())
-        setSpeed(targetSpeed)
         ship.updateControls(inputUp, false, inputLeft, inputRight, null)
         if (ship.setPaddleState) ship.setPaddleState(inputLeft, inputRight)
     }
@@ -235,16 +121,6 @@ const ShipHelper = function (ship, captain) {
         const forward = ship.getForward().yRot(-90).normalize()
         const toTarget = horizontalVectorToPos(ship, node.asVec3())
         const angle = horizontalAngleBetweenVectors(forward, toTarget)
-        moveAtAngle(angle)
-    }
-
-    /**
-     * Moves the ship away from the given entity
-     * @param {Internal.Entity} entity
-     */
-    const fleeFrom = (entity) => {
-        const targetVec = horizontalVectorToPos(entity, ship.position()).normalize().reverse()
-        const angle = horizontalAngleBetweenVectors(ship.getForward().yRot(90), targetVec)
         moveAtAngle(angle)
     }
 
@@ -270,25 +146,20 @@ const ShipHelper = function (ship, captain) {
 
         const inputLeft = phi < ref
         const inputRight = phi > ref
-        if (inputLeft || inputRight) {
-            setRotation(inputLeft, phi)
-        }
+        ship.updateControls(false, false, inputLeft, inputRight, null)
 
         const beta = shootLeftSide
             ? horizontalAngleBetweenVectors(vecLeft, toTarget)
             : horizontalAngleBetweenVectors(vecRight, toTarget)
 
-        if (beta < 10) fireCannons(shootLeftSide, target)
+        if (beta < 30) fireCannons(shootLeftSide, target)
     }
 
     return {
         getCannonballCount: getCannonballCount,
         setSailState: setSailState,
-        setSpeed: setSpeed,
-        setRotation: setRotation,
         moveToNode: moveToNode,
         moveAtAngle: moveAtAngle,
-        fleeFrom: fleeFrom,
         attack: attack,
     }
 }
@@ -351,7 +222,7 @@ const makeShipTick = () => {
     /** @type {Internal.UUID} */
     const funcID = $Mth.createInsecureUUID()
     let state = STATE.PATHING
-    let prevState = ''
+    let prevState = state
     let attackCooldown = 0
     let volleyCount = 0
 
@@ -361,6 +232,7 @@ const makeShipTick = () => {
         const targetUUID = pirate.persistentData.getUUID('victim')
         if (!targetUUID) return
         const targetEntity = pirate.level.getEntity(targetUUID)
+        if (!targetEntity) return
 
         /** @type {Internal.ContainerShip} */
         const ship = pirate.getVehicle()
@@ -381,22 +253,28 @@ const makeShipTick = () => {
         }
 
         const shipHelper = ShipHelper(ship, pirate)
-        if (shipHelper.getCannonballCount() <= 0) state = STATE.FLEEING
 
-        if (DEBUG_STATE_MACHINE && prevState !== state) console.debug(`${funcID}: state: ${state}`)
+        if (DEBUG_STATE_MACHINE && prevState !== state) console.log(`${funcID}: state: ${state}`)
         prevState = state
 
         if (attackCooldown > 0) attackCooldown--
 
         switch (state) {
             case STATE.FLEEING: {
-                shipHelper.setSailState(4)
-                shipHelper.fleeFrom(targetEntity)
+                const targetVec = horizontalVectorToPos(targetEntity, ship.position())
+                    .reverse()
+                    .normalize()
+                    .scale(32)
+                const targetPos = ship.position().add(targetVec)
+                pirate.navigation.moveTo(targetPos.x(), ship.y, targetPos.z(), 1)
+                state = STATE.MOVING
                 break
             }
             case STATE.PATHING: {
                 shipHelper.setSailState(0)
-                if (targetEntity && pirate.navigation.moveTo(targetEntity, 16)) state = STATE.MOVING
+                if (shipHelper.getCannonballCount() <= 0) state = STATE.FLEEING
+                else if (targetEntity && pirate.navigation.moveTo(targetEntity, 16))
+                    state = STATE.MOVING
                 break
             }
 
@@ -413,12 +291,12 @@ const makeShipTick = () => {
                 if (DEBUG_SHIP_PATHS) {
                     console.debug(path.nodeCount)
                     pirate.level.setBlockAndUpdate(
-                        new BlockPos(node.x, pirate.y + 10, node.z),
+                        new BlockPos(node.x, pirate.y + 20, node.z),
                         Blocks.BLACK_STAINED_GLASS_PANE.defaultBlockState()
                     )
                     const end = path.endNode
                     pirate.level.setBlockAndUpdate(
-                        new BlockPos(end.x, pirate.y + 10, end.z),
+                        new BlockPos(end.x, pirate.y + 20, end.z),
                         Blocks.LIME_STAINED_GLASS.defaultBlockState()
                     )
                 }
@@ -440,7 +318,7 @@ const makeShipTick = () => {
             case STATE.ATTACKING: {
                 const cannonballCount = shipHelper.getCannonballCount()
                 if (!(canAttack(pirate, targetEntity) && cannonballCount > 0)) state = STATE.PATHING
-                shipHelper.setSailState(0)
+                shipHelper.setSailState(1)
                 let attackTarget
                 if (targetEntity) {
                     attackTarget = targetEntity.getVehicle()
@@ -456,8 +334,7 @@ const makeShipTick = () => {
                     if (volleyCount >= MAX_VOLLEYS) {
                         attackCooldown = ATTACK_COOLDOWN
                         volleyCount = 0
-                        if (remainingCannonballs <= 0) state = STATE.FLEEING
-                        else state = STATE.PATHING
+                        state = STATE.PATHING
                     }
                 }
                 break
@@ -555,30 +432,45 @@ const shouldSummonPirates = (player) => {
  * @returns {Internal.Ship}
  */
 const buildPirateShip = (shipType, level, player) => {
-    /** @type {Internal.Ship} */
+    /** @type {Internal.BriggEntity} */
     const pirateShip = shipType.create(level)
     pirateShip.setVariant('dark_oak')
-    pirateShip.setCannonCount(pirateShip.getMaxCannonPerSide() * 2)
+
+    const cannonCount = pirateShip.getTotalCannonSlots()
+    for (let i = 0; i < cannonCount; i++) {
+        pirateShip.setCannonInSlot(i, true)
+    }
+
+    const upgrades = pirateShip.getData($Ship.UPGRADES)
+    upgrades.merge({ CottonSails: true })
+    pirateShip.setData($Ship.UPGRADES, upgrades)
+
+    pirateShip.setData($Ship.SAIL_COLOR, 'red')
+    pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
+
     const nbt = pirateShip.nbt
-    nbt.Sail.Color = 'red'
-    nbt.Banner = BANNERS.JOLLY_ROGER
-    nbt.Attributes.maxSpeed = 30 * modifiedDifficulty(player)
     nbt.LootTable = 'minecraft:chests/pillager_outpost'
-    console.debug(`Speed: ${nbt.Attributes.maxSpeed}`)
     pirateShip.setNbt(nbt)
-    const cannonballCount = BASE_CANNONBALL_COUNT * localDifficultyFor(player)
+
+    const cannonballCount = ((BASE_CANNONBALL_COUNT * cannonCount) / 2) * localDifficultyFor(player)
     console.debug(`Cannonball count: ${cannonballCount}`)
     pirateShip.setItem(0, Item.of('smallships:cannon_ball', cannonballCount))
+
+    pirateShip.setSailState(4)
+    pirateShip.setSpeed(pirateShip.maxSpeed)
     return pirateShip
 }
 /**
  *
- * @param {Internal.Entity} pirateShip
+ * @param {Internal.CogEntity} pirateShip
  * @param {Internal.ServerPlayer} player
  */
 const crewShip = (pirateShip, player) => {
-    const pirateCount = Math.floor(pirateShip.maxPassengers / 2) + 1
-
+    const pirateCount = pirateShip.seats.filter(
+        (seat) => seat.type() !== $SeatType.PASSENGER && seat.type() !== $SeatType.CANNON
+    ).length
+    /** @type {Internal.Entity[]} */
+    const relocatable = []
     for (let i = 0; i < pirateCount; i++) {
         let pirate = $EntityType.PILLAGER.spawn(
             player.level,
@@ -589,8 +481,18 @@ const crewShip = (pirateShip, player) => {
         pirate.startRiding(pirateShip)
         pirate.target = player
         pirate.persistentData.putUUID('victim', player.stringUuid)
-        console.debug(pirate)
+        if (pirateShip.getSeatOf(pirate).type() === $SeatType.PASSENGER) relocatable.push(pirate)
     }
+
+    pirateShip.seats.forEach((seat) => {
+        if (
+            (seat.type() === $SeatType.GUNNER || seat.type() === $SeatType.DRIVER) &&
+            relocatable.length > 0 &&
+            pirateShip.isSeatFree(seat.id())
+        ) {
+            pirateShip.assignSeat(relocatable.pop(), seat.id())
+        }
+    })
 }
 
 /**
@@ -612,8 +514,8 @@ const positionPirateShip = (target, pirateShip) => {
  */
 const summonPirates = (player, level) => {
     /** @type {Internal.EntityType} */
-    const shipType = localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
-
+    const shipType =
+        localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.GALLEON
     /** @type {Internal.Ship} */
     const pirateShip = buildPirateShip(shipType, level, player)
 

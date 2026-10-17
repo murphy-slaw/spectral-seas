@@ -4,6 +4,9 @@
         "smallships:cog",
         "smallships:brigg",
         "smallships:drakkar",
-        "smallships:galley"
+        "smallships:galley",
+        "smallships:dhow",
+        "smallships:caravel",
+        "smallships:galleon"
     ]
 }

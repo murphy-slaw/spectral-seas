@@ -1,4 +1,4 @@
-const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley']
+const shipTypes = ['smallships:cog', 'smallships:brigg', 'smallships:drakkar', 'smallships:galley', 'smallships:dhow', 'smallships:galleon', 'smallships:caravel']
 
 PlayerEvents.tick((event) => {
     const {

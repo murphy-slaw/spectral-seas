@@ -1,6 +1,8 @@
 const $BedSleepingProblem = Java.loadClass(
     'net.minecraft.world.entity.player.Player$BedSleepingProblem'
 )
+const $ShipPartEntity = Java.loadClass("com.talhanation.smallships.world.entity.ship.hitbox.ShipPartEntity")
+
 const $AABB = Java.loadClass('net.minecraft.world.phys.AABB')
 // gross - Have to load class by intermediate name.
 const Monster = Java.class.forName('net.minecraft.class_1588')
@@ -39,7 +41,8 @@ ItemEvents.entityInteracted((event) => {
     if (
         !(
             (item.hasTag('minecraft:beds') || item.hasTag('comforts:sleeping_bags')) &&
-            shipTypes.includes(target.type)
+            target instanceof $ShipPartEntity && 
+            shipTypes.includes(target.getParent().type)
         )
     ) {
         return
