@@ -58,8 +58,12 @@ const PlayerHelper = (function () {
         }
 
         const getShipLocation = (pos) => {
-            const color = getShip().nbt.get('Sail').getString('Color')
-            return getMarkerLocation(getShipTexture(), color, pos)
+            return getMarkerLocation(getShipTexture(), _getShipColor(), pos)
+        }
+
+        const _getShipColor = () =>{
+            const color = getShip().entityData.get($Ship.SAIL_COLOR)
+            return color ? color : "white"
         }
 
         return {
@@ -76,7 +80,7 @@ const PlayerHelper = (function () {
                 const pos = _getMapPos(ship)
                 markerPosition.set(pos)
                 const shipType = ship.type.split(':')[1].toLowerCase()
-                const color = ship.entityData.get("SAIL_COLOR")
+                const color = _getShipColor()
                 const id = getShipLocation(pos)
                 player.sendData('AddMarker', {
                     location: id,
