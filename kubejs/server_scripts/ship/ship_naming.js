@@ -1,7 +1,7 @@
 ItemEvents.entityInteracted('minecraft:potion', (event) => {
     if (event.item.nbt.display === undefined) return
     if (event.target instanceof $ShipPartEntity) {
-        let ship = event.target
+        let ship = event.target.parent
 
         let shipNBT = ship.nbt
         shipNBT.put('CustomName', event.item.nbt.display.get('Name'))
