@@ -113,6 +113,12 @@
         },
         "supernova": {
             "update_strategy": "NONE"
+        },
+        "simply-swords": {
+            "update_strategy": "NONE"
+        },
+        "leawind-third-person": {
+            "update_strategy": "NONE"
         }
     },
     "export_server_side_projects_to_client": true
