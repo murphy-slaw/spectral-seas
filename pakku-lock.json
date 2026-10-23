@@ -6386,53 +6386,51 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fzzy_config-0.7.6+1.20.1.jar",
+                    "file_name": "fzzy_config-0.7.7+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/qkBkQTfU/fzzy_config-0.7.6+1.20.1.jar",
-                    "id": "qkBkQTfU",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/JHYH0fYB/fzzy_config-0.7.7+1.20.1.jar",
+                    "id": "JHYH0fYB",
                     "parent_id": "hYykXjDp",
                     "hashes": {
-                        "sha512": "a2da34582f6e10d288943f9886cdd6d610ee6add9f28a9cc8d7d9ef491480f044e1b316f85c55106ea21eec7fd72ec210d99f3c2131b19cf03ec462ef8473640",
-                        "sha1": "86a3f59b61583527f222c6fc2d7fcef555e1ac56"
+                        "sha512": "3bea9ff4ea20f696780f7ee77b3faffb4f1a3d3a81199f2c987a0bbd4f16b02e09dde1d7c2f92a3fa4661c085c89f51650c8b219b58463d4b4f7ae17614ed161",
+                        "sha1": "1e2aa73a64385b5696b177f846ba26abb5b1f2e7"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 2372585,
-                    "date_published": "2026-02-03T01:58:19.675876Z"
+                    "size": 2395040,
+                    "date_published": "2026-09-15T01:40:11.616180Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fzzy_config-0.7.6+1.20.1.jar",
+                    "file_name": "fzzy_config-0.7.7+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7568/944/fzzy_config-0.7.6+1.20.1.jar",
-                    "id": "7568944",
+                    "url": "https://edge.forgecdn.net/files/8883/561/fzzy_config-0.7.7+1.20.1.jar",
+                    "id": "8883561",
                     "parent_id": "1005914",
                     "hashes": {
-                        "sha1": "86a3f59b61583527f222c6fc2d7fcef555e1ac56",
-                        "md5": "64777238b9377d22972f95ee4ba84470"
+                        "sha1": "1e2aa73a64385b5696b177f846ba26abb5b1f2e7",
+                        "md5": "576803e6acda4d82c55b7571dab54a54"
                     },
                     "required_dependencies": [
-                        "308769",
-                        "306612"
+                        "306612",
+                        "308769"
                     ],
-                    "size": 2372585,
-                    "date_published": "2026-02-03T01:58:11.480Z"
+                    "size": 2395040,
+                    "date_published": "2026-09-15T01:40:04.363Z"
                 }
             ]
         },
@@ -13247,7 +13245,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reliable_recipes-3.3.0+1.20.1-fabric.jar",
+                    "file_name": "reliable_recipes-3.6.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13255,22 +13253,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Hl4ARA1z/versions/LsJYLzGQ/reliable_recipes-3.3.0+1.20.1-fabric.jar",
-                    "id": "LsJYLzGQ",
+                    "url": "https://cdn.modrinth.com/data/Hl4ARA1z/versions/jFGHpLM6/reliable_recipes-3.6.0+1.20.1-fabric.jar",
+                    "id": "jFGHpLM6",
                     "parent_id": "Hl4ARA1z",
                     "hashes": {
-                        "sha512": "bb92c8e88bef63cad8cb5484f58761832f9fbcd1ae8dcf76b2e4edc8fb9e4677b79e9c8fd669d2413d17c822f20d6065b6faf3f50aa584f0d18f4266dc43d6a1",
-                        "sha1": "7d27067ed1d40cf757b4b4c0c3db69bef2fdf9b6"
+                        "sha512": "c204de8303cdeb8458b70f86118c40e7b8d202b7dcea76b0a4c4bd068e94a0e191754f3be95772ebd97f270e3a22f7a0cb8b1e9d37d8452d8c59bb44ae26fb3c",
+                        "sha1": "fc2b2c01c49e05ef24196dcc181bc329035ed0df"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 174201,
-                    "date_published": "2026-09-30T07:34:48.556528Z"
+                    "size": 198800,
+                    "date_published": "2026-10-14T07:20:35.501254Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "reliable_recipes-3.3.0+1.20.1-fabric.jar",
+                    "file_name": "reliable_recipes-3.6.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13278,18 +13276,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9016/297/reliable_recipes-3.3.0+1.20.1-fabric.jar",
-                    "id": "9016297",
+                    "url": "https://edge.forgecdn.net/files/9170/352/reliable_recipes-3.6.0+1.20.1-fabric.jar",
+                    "id": "9170352",
                     "parent_id": "1414959",
                     "hashes": {
-                        "sha1": "7d27067ed1d40cf757b4b4c0c3db69bef2fdf9b6",
-                        "md5": "4c1a9586d5eb84cfd9d3315edd02c7e7"
+                        "sha1": "fc2b2c01c49e05ef24196dcc181bc329035ed0df",
+                        "md5": "6e2bcdfce5b116e5c35fc1891d636a68"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 174201,
-                    "date_published": "2026-09-30T07:34:47.580Z"
+                    "size": 198800,
+                    "date_published": "2026-10-14T07:20:34.457Z"
                 }
             ]
         },
@@ -13376,7 +13374,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reliable_remover-3.3.1+1.20.1-fabric.jar",
+                    "file_name": "reliable_remover-3.6.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13384,23 +13382,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/zzsiTZmZ/reliable_remover-3.3.1+1.20.1-fabric.jar",
-                    "id": "zzsiTZmZ",
+                    "url": "https://cdn.modrinth.com/data/pLxsKvNt/versions/RDnUGaNd/reliable_remover-3.6.0+1.20.1-fabric.jar",
+                    "id": "RDnUGaNd",
                     "parent_id": "pLxsKvNt",
                     "hashes": {
-                        "sha512": "e01e87f0be227d5254d47cf07adccfedb72db1b7f0f9121043341f4e15e223e489e6138b43e15fb6e2eb8d6b9b5278f9501b9c475f4d4f971209fbba0543b4bb",
-                        "sha1": "3714aae325a9fa14a542e3029d6182d092cc801b"
+                        "sha512": "1dfbe826f460e79a838089b19869ceb27cfeda1d474deff2b8b0751676752d2ee80bc09e644a93facfc64bc62311fc52f34f9a80403795e1d86932dcc6fbc21d",
+                        "sha1": "010b8bca5796b8e725c77d00e310367a50abee83"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Hl4ARA1z"
+                        "Hl4ARA1z",
+                        "P7dR8mSH"
                     ],
-                    "size": 160643,
-                    "date_published": "2026-10-03T01:11:02.938632Z"
+                    "size": 177474,
+                    "date_published": "2026-10-14T07:20:12.773226Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "reliable_remover-3.3.1+1.20.1-fabric.jar",
+                    "file_name": "reliable_remover-3.6.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13408,19 +13406,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9042/779/reliable_remover-3.3.1+1.20.1-fabric.jar",
-                    "id": "9042779",
+                    "url": "https://edge.forgecdn.net/files/9170/336/reliable_remover-3.6.0+1.20.1-fabric.jar",
+                    "id": "9170336",
                     "parent_id": "1420447",
                     "hashes": {
-                        "sha1": "3714aae325a9fa14a542e3029d6182d092cc801b",
-                        "md5": "f59db2df6de8a135af37e39e6cf0d666"
+                        "sha1": "010b8bca5796b8e725c77d00e310367a50abee83",
+                        "md5": "06422f4c2914e7c904892285b25694d1"
                     },
                     "required_dependencies": [
-                        "306612",
-                        "1414959"
+                        "1414959",
+                        "306612"
                     ],
-                    "size": 160643,
-                    "date_published": "2026-10-03T01:11:01.793Z"
+                    "size": 177474,
+                    "date_published": "2026-10-14T07:20:11.537Z"
                 }
             ]
         },
@@ -14453,24 +14451,25 @@
             ]
         },
         {
-            "pakku_id": "bKUDBAoSvOm2g5ir",
-            "pakku_links": [
-                "I3R56KffM8BLOYK5"
-            ],
+            "pakku_id": "I3R56KffM8BLOYK5",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "small-ships-damage-fix"
+                "curseforge": "small-ships",
+                "modrinth": "small-ships"
             },
             "name": {
-                "curseforge": "Small Ships Damage Fix"
+                "curseforge": "Small Ships",
+                "modrinth": "Small Ships"
             },
             "id": {
-                "curseforge": "1446346"
+                "curseforge": "450659",
+                "modrinth": "rGWEHQrP"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "smallships_damage_fix-1.0.0.jar",
+                    "type": "modrinth",
+                    "file_name": "smallships-2.0.2-fabric-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14478,26 +14477,45 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7535/975/smallships_damage_fix-1.0.0.jar",
-                    "id": "7535975",
-                    "parent_id": "1446346",
+                    "url": "https://cdn.modrinth.com/data/rGWEHQrP/versions/EVC4lV4p/smallships-2.0.2-fabric-1.20.1.jar",
+                    "id": "EVC4lV4p",
+                    "parent_id": "rGWEHQrP",
                     "hashes": {
-                        "sha1": "29854641cd24674bf8010baba6c36309a7bcdd47",
-                        "md5": "4289db1e41e360f368ce0cc7379ed256"
+                        "sha512": "d23753dee182bbf191c6267cff8b96d5136839d2a40dcd2903bf7ddfd0b4c98edd8c123fa56810681e3c8b49c868ce1f1ce21185d27376605a452cc27a81cfbf",
+                        "sha1": "6d208664c429f73c6b6aaf6b988cb9babf5498de"
                     },
-                    "required_dependencies": [
-                        "450659"
+                    "required_dependencies": [],
+                    "size": 3290822,
+                    "date_published": "2026-10-16T10:37:01.069641Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "smallships-2.0.2-fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
                     ],
-                    "size": 12356,
-                    "date_published": "2026-01-27T14:51:40.203Z"
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9205/997/smallships-2.0.2-fabric-1.20.1.jar",
+                    "id": "9205997",
+                    "parent_id": "450659",
+                    "hashes": {
+                        "sha1": "6d208664c429f73c6b6aaf6b988cb9babf5498de",
+                        "md5": "c6be17ef237afe403e1b0f3533a17871"
+                    },
+                    "required_dependencies": [],
+                    "size": 3290822,
+                    "date_published": "2026-10-16T10:38:47.697Z"
                 }
             ]
         },
         {
-            "pakku_id": "reW1xZKi4AN1eawr",
+            "pakku_id": "4TC2HLMk723vrGEE",
             "pakku_links": [
-                "I3R56KffM8BLOYK5",
-                "bEXdIf4bXxKOTBdq"
+                "bEXdIf4bXxKOTBdq",
+                "I3R56KffM8BLOYK5"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14515,34 +14533,8 @@
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "smallships-ecologics-compat-1.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/PlTZXaqD/versions/jUflgtnd/smallships-ecologics-compat-1.0.2.jar",
-                    "id": "jUflgtnd",
-                    "parent_id": "PlTZXaqD",
-                    "hashes": {
-                        "sha512": "9c7d37853b1cb176f52ad3b1c9cf3b22f689c4c900661855899bdc5ca5e830c1829d5d709a746e67e3a43ac9be1e5ef7a89a6e62d260ffcec37ed3748781c866",
-                        "sha1": "4fa6d7ebe449b756236541b4429378a182f410dd"
-                    },
-                    "required_dependencies": [],
-                    "size": 61987,
-                    "date_published": "2026-02-10T18:48:49.033755Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "smallships-ecologics-compat-1.0.2.jar",
+                    "file_name": "smallships_ecologics_compat-fabric-1.20.1-1.1.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14550,47 +14542,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7605/234/smallships-ecologics-compat-1.0.2.jar",
-                    "id": "7605234",
+                    "url": "https://edge.forgecdn.net/files/9292/822/smallships_ecologics_compat-fabric-1.20.1-1.1.1.jar",
+                    "id": "9292822",
                     "parent_id": "1456544",
                     "hashes": {
-                        "sha1": "4fa6d7ebe449b756236541b4429378a182f410dd",
-                        "md5": "3683d6d71676ca13fd9e76e3852305db"
+                        "sha1": "590f3208eb122627c72177dffb3b6bfa0fc7cddd",
+                        "md5": "57112e2901b142403a117352c280aaef"
                     },
                     "required_dependencies": [
-                        "450659",
-                        "570463"
+                        "570463",
+                        "450659"
                     ],
-                    "size": 61987,
-                    "date_published": "2026-02-10T18:47:38.367Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "Tq7DGnpii4VhDLkm",
-            "pakku_links": [
-                "I3R56KffM8BLOYK5",
-                "E0Hhuv5KSx1UNZJ0",
-                "ziamzSyQJz78ybvl"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "small-ships-upgrades",
-                "curseforge": "small-ships-upgrades"
-            },
-            "name": {
-                "modrinth": "Small Ships Upgrades",
-                "curseforge": "Small Ships Upgrades"
-            },
-            "id": {
-                "modrinth": "HRWfY2Uh",
-                "curseforge": "1441109"
-            },
-            "files": [
+                    "size": 66840,
+                    "date_published": "2026-10-22T22:34:48.743Z"
+                },
                 {
                     "type": "modrinth",
-                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.1.jar",
+                    "file_name": "smallships_ecologics_compat-fabric-1.20.1-1.1.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14598,106 +14566,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HRWfY2Uh/versions/1wJ0uB67/smallships_upgrades-fabric-1.20.1-1.0.1.jar",
-                    "id": "1wJ0uB67",
-                    "parent_id": "HRWfY2Uh",
+                    "url": "https://cdn.modrinth.com/data/PlTZXaqD/versions/p1zeAhqo/smallships_ecologics_compat-fabric-1.20.1-1.1.1.jar",
+                    "id": "p1zeAhqo",
+                    "parent_id": "PlTZXaqD",
                     "hashes": {
-                        "sha512": "371c7e896d80307f6eccf27e1695d36f98b452ba679cb693d3f5116ae5ec059b6b07df00d1621a4bf030f6b5247c68f4856afc30675973dffae3786df8b960c5",
-                        "sha1": "63c137e4ccc47ab2677bd267ba1b40f849b9b0b4"
+                        "sha512": "35bc94a3f92fdd19df827fd15a7eee1770eb8c0f3d6cc9b2baea14808efbd6c5c5d84b782bcbd1f845d2863eb9194425a62ec2b94ba125ca10537a9dafa9ec14",
+                        "sha1": "590f3208eb122627c72177dffb3b6bfa0fc7cddd"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "K01OU20C"
+                        "rGWEHQrP",
+                        "NCKpPR0Z"
                     ],
-                    "size": 53880,
-                    "date_published": "2026-03-13T21:30:53.088938Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "smallships_upgrades-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7753/98/smallships_upgrades-fabric-1.20.1-1.0.1.jar",
-                    "id": "7753098",
-                    "parent_id": "1441109",
-                    "hashes": {
-                        "sha1": "63c137e4ccc47ab2677bd267ba1b40f849b9b0b4",
-                        "md5": "4d034e2f912a601a346f778283b225d6"
-                    },
-                    "required_dependencies": [
-                        "450659",
-                        "348521"
-                    ],
-                    "size": 53880,
-                    "date_published": "2026-03-13T21:24:50.677Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "I3R56KffM8BLOYK5",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "small-ships",
-                "modrinth": "small-ships"
-            },
-            "name": {
-                "curseforge": "Small Ships [Fabric & Forge]",
-                "modrinth": "Small Ships"
-            },
-            "id": {
-                "curseforge": "450659",
-                "modrinth": "rGWEHQrP"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/rGWEHQrP/versions/gpbYUuEr/smallships-fabric-1.20.1-2.0.0-b1.4.jar",
-                    "id": "gpbYUuEr",
-                    "parent_id": "rGWEHQrP",
-                    "hashes": {
-                        "sha512": "a08da465ff2fdd69fea612e33fb209d349925e8b8b268aede484e624949677c1b1a39e281f7aaeb21687d5068bbe0e5319d41b867149a789b4421b5b96136b73",
-                        "sha1": "6c12ee505822a6f28e4bd027c4107d59eaecbf2e"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 2160482,
-                    "date_published": "2024-07-26T04:04:30.242631Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5566/902/smallships-fabric-1.20.1-2.0.0-b1.4.jar",
-                    "id": "5566902",
-                    "parent_id": "450659",
-                    "hashes": {
-                        "sha1": "6c12ee505822a6f28e4bd027c4107d59eaecbf2e",
-                        "md5": "55a119178db5c795f5589c75d0400384"
-                    },
-                    "required_dependencies": [],
-                    "size": 2160482,
-                    "date_published": "2024-07-26T04:18:43.987Z"
+                    "size": 66840,
+                    "date_published": "2026-10-22T22:34:48.619409Z"
                 }
             ]
         },
