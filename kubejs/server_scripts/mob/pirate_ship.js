@@ -10,7 +10,7 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 )
 
 const DEBUG_SHIP_PATHS = false
-const DEBUG_STATE_MACHINE = true
+const DEBUG_STATE_MACHINE = false
 const ATTACK_RANGE = 900 // 30 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
@@ -433,7 +433,7 @@ const shouldSummonPirates = (player) => {
  */
 const buildPirateShip = (shipType, level, player) => {
     /** @type {Internal.BriggEntity} */
-    const pirateShip = shipType.create(level)
+    const pirateShip = level.createEntity(shipType)
     pirateShip.setVariant('dark_oak')
 
     const cannonCount = pirateShip.getTotalCannonSlots()
@@ -447,6 +447,7 @@ const buildPirateShip = (shipType, level, player) => {
 
     pirateShip.setData($Ship.SAIL_COLOR, 'red')
     pirateShip.setData($Ship.BANNER, BANNERS.JOLLY_ROGER)
+    pirateShip.setData($Ship.SAIL_BANNER, BANNERS.JOLLY_ROGER)
 
     const nbt = pirateShip.nbt
     nbt.LootTable = 'minecraft:chests/pillager_outpost'
@@ -498,13 +499,29 @@ const crewShip = (pirateShip, player) => {
 /**
  * @param {Internal.Entity} target
  * @param {Internal.Ship} pirateShip
+ * @param {Internal.Rotation} pirateShip
  */
 const positionPirateShip = (target, pirateShip) => {
     const direction = target.getForward()
     const position = target.position().subtract(direction.scale(64))
+    pirateShip.attributes.maxSpeed = pirateShip.attributes.maxSpeed + 100
     pirateShip.moveTo(position)
     pirateShip.yRot = target.yRot
     pirateShip.setSpeed(target.getSpeed())
+}
+
+/**
+ * @param {Internal.Ship} ship
+ */
+const shipDamageTicker = (ship) => {
+    if (
+        ship.passengers.filter((passenger) => !passenger.isPlayer()).isEmpty() &&
+        !ship.isSinking() &&
+        !ship.isSunken()
+    ) {
+        ship.setDamage(ship.attributes.maxHealth + 1)
+        ship.startSinking()
+    }
 }
 
 /**
@@ -514,8 +531,7 @@ const positionPirateShip = (target, pirateShip) => {
  */
 const summonPirates = (player, level) => {
     /** @type {Internal.EntityType} */
-    const shipType =
-        localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.GALLEON
+    const shipType = localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
     /** @type {Internal.Ship} */
     const pirateShip = buildPirateShip(shipType, level, player)
 
@@ -531,7 +547,7 @@ const summonPirates = (player, level) => {
 
         player.displayClientMessage(Text.translatable('spectral_seas.message.pirate_attack'), true)
 
-        const camera = player.getCamera()
+        let camera = player.getCamera()
         level.playSound(
             null,
             camera.x,
@@ -542,6 +558,10 @@ const summonPirates = (player, level) => {
             15,
             1
         )
+        level.server.scheduleRepeatingInTicks(10, (task) => {
+            shipDamageTicker(pirateShip)
+            if (!(pirateShip.isSinking() || pirateShip.isSunken())) task.reschedule(10)
+        })
     }
 }
 
