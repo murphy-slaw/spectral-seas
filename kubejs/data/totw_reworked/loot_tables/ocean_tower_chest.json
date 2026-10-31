@@ -137,10 +137,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "smallships:sail"
-        },
-        {
-          "type": "minecraft:item",
           "name": "smallships:cannon_ball",
           "functions": [
             {
