@@ -18,12 +18,6 @@
     },
     {
         "action": "replace_input",
-        "output": "minecraft:chain",
-        "target": "minecraft:iron_ingot",
-        "replacement": "minecraft:iron_nugget"
-    },
-    {
-        "action": "replace_input",
         "output": "minecraft:tripwire_hook",
         "target": "minecraft:iron_ingot",
         "replacement": [
