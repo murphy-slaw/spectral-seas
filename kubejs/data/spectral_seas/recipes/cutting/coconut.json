@@ -1,0 +1,22 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "ecologics:coconut"
+        }
+    ],
+    "tool": {
+        "tag": "c:axes"
+    },
+    "result": [
+        {
+            "item": "ecologics:coconut_slice",
+            "count": 2
+        },
+        {
+            "item": "ecologics:coconut_slice",
+            "count": 1,
+            "chance": 0.20
+        }
+    ]
+}
