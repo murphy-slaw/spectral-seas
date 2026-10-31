@@ -73,30 +73,9 @@ type="natural"
 run=33
 
 [[mob]]
-name="minecraft:cod"
-[[mob.rule]]
-type="block"
-
-[[mob]]
-name="minecraft:salmon"
-[[mob.rule]]
-type="block"
-
-[[mob]]
-name="minecraft:squid"
-[[mob.rule]]
-type="block"
-
-[[mob]]
 name="minecraft:creeper"
 [[mob.rule]]
 type="block"
-
-[[mob]]
-name="minecraft:pufferfish"
-[[mob.rule]]
-type="all"
-spawn.convert = "hybrid_aquatic:blowfish"
 
 [[mob]]
 name="artifacts:mimic"
@@ -112,7 +91,6 @@ type="all"
 [[mob.rule]]
 time-of-day="<18000"
 type="cancel"
-
 
 [[mob]]
 name="*"

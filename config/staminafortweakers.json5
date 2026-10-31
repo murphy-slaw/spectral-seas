@@ -85,7 +85,7 @@
 		// Long side (pixels)
 		"longSide": 180,
 		// Horizontal offset
-		"offsetY": 2,
+		"offsetY": 1,
 		// Vertical offset
 		"offsetX": 0
 	},
@@ -152,5 +152,13 @@
 	// Chance Traveling will damage armor each active tick
 	"travelingDamageChance": 4,
 	// Traveling minimum durability
-	"travelingMinimumDurability": 0
+	"travelingMinimumDurability": 0,
+	// Enable Daedelus' Combat Roll compatibility
+	"combatRollCompat": false,
+	// Stamina points depleted per combat roll
+	"depletionPerCombatRoll": 10.0,
+	// Combat Roll cooldown override in ticks (-1 = Default)
+	"combatRollCooldownTicks": -1,
+	// Completely hide the Combat Roll HUD widget
+	"hideCombatRollHud": false
 }

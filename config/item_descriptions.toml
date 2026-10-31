@@ -1,9 +1,9 @@
 # Enable Item Descriptions
 # default: true
-item_descriptions = true
+item_descriptions = false
 # Always show Item Descriptions while hovering over an item in your inventory.
 # default: false
-display_always = true
+display_always = false
 # Prioritize the Entity Description of the spawn egg over the generic spawn egg description.
 # default: true
 spawn_eggs_show_entity = true

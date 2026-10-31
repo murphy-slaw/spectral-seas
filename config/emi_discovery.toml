@@ -1,4 +1,5 @@
 enabled = true
+disableInCreative = true
 enableFluidDiscovery = true
 enableEffectDiscovery = true
 filterIndex = true

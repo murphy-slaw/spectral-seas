@@ -1,0 +1,6 @@
+{
+  "rotation_override_entities": {
+    "naturalist:desert_scorpion": true,
+    "naturalist:jungle_scorpion": true
+  }
+}

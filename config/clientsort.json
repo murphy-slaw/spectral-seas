@@ -57,6 +57,34 @@
         "autoOpOther": false,
         "ignoredSlots": []
       },
+      "com.talhanation.smallships.world.entity.ship.BriggEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.BriggEntity",
+        "buttonOffset": {
+          "x": -269,
+          "y": 1
+        },
+        "offsetFromSlot": false,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
+      "com.talhanation.smallships.world.entity.ship.CaravelEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.CaravelEntity",
+        "buttonOffset": {
+          "x": -269,
+          "y": -1
+        },
+        "offsetFromSlot": false,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
       "com.talhanation.smallships.world.entity.ship.CogEntity": {
         "className": "com.talhanation.smallships.world.entity.ship.CogEntity",
         "buttonOffset": {
@@ -64,6 +92,62 @@
           "y": 0
         },
         "offsetFromSlot": true,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
+      "com.talhanation.smallships.world.entity.ship.DhowEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.DhowEntity",
+        "buttonOffset": {
+          "x": -181,
+          "y": 0
+        },
+        "offsetFromSlot": true,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
+      "com.talhanation.smallships.world.entity.ship.DrakkarEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.DrakkarEntity",
+        "buttonOffset": {
+          "x": -269,
+          "y": -1
+        },
+        "offsetFromSlot": false,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
+      "com.talhanation.smallships.world.entity.ship.GalleonEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.GalleonEntity",
+        "buttonOffset": {
+          "x": -270,
+          "y": -1
+        },
+        "offsetFromSlot": false,
+        "sortPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND_BUTTON",
+        "matchTransferPolicy": "KEYBIND_BUTTON",
+        "transferPolicy": "KEYBIND_BUTTON",
+        "autoOpOther": false,
+        "ignoredSlots": []
+      },
+      "com.talhanation.smallships.world.entity.ship.GalleyEntity": {
+        "className": "com.talhanation.smallships.world.entity.ship.GalleyEntity",
+        "buttonOffset": {
+          "x": -269,
+          "y": -1
+        },
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND_BUTTON",
         "matchTransferPolicy": "KEYBIND_BUTTON",
@@ -104,7 +188,7 @@
       "net.minecraft.class_1661": {
         "className": "net.minecraft.class_1661",
         "buttonOffset": {
-          "x": 9,
+          "x": 8,
           "y": 0
         },
         "offsetFromSlot": true,
@@ -181,6 +265,9 @@
         "autoOpOther": false,
         "ignoredSlots": []
       }
-    }
+    },
+    "screenClassBlacklist": [
+      "com.simibubi.create.content.logistics.stockTicker.StockKeeperCategoryScreen"
+    ]
   }
 }
