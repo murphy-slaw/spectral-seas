@@ -18,6 +18,7 @@ const BASE_PIRATE_CHANCE = 0.0375
 const ATTACK_COOLDOWN = 100 // 2 seconds
 const MAX_VOLLEYS = 4
 const BASE_CANNONBALL_COUNT = 8
+const MUSIC_COOLDOWN = 600
 
 const STATE = {
     PATHING: 0,
@@ -104,7 +105,7 @@ const ShipHelper = function (ship, captain) {
     const moveAtAngle = (angle) => {
         const ref = 90
         const rotDelta = Math.abs(angle - ref)
-        const shouldTurn = rotDelta > 5
+        const shouldTurn = rotDelta > 2.5 && Math.abs(ship.rotSpeed) < 1
         const inputLeft = shouldTurn && angle < ref
         const inputRight = shouldTurn && angle > ref
         const inputUp = true
@@ -172,7 +173,6 @@ const ShipHelper = function (ship, captain) {
 const canAttack = (pirate, target) => {
     return (
         target != null &&
-        //pirate.hasLineOfSight(pirate.target) &&
         pirate.distanceToEntitySqr(target) <= ATTACK_RANGE
     )
 }
@@ -187,7 +187,6 @@ Goal Handlers
  */
 const startShip = (pirate) => {
     if (DEBUG_SHIP_PATHS) console.debug('STARTING')
-    /** @type {Internal.Ship} */
     pirate.setAttributeBaseValue('minecraft:generic.follow_range', 128)
     pirate.navigation.setMaxVisitedNodesMultiplier(10)
     pirate.setPathfindingMalus($BlockPathTypes.WATER, 8.0)
@@ -223,6 +222,7 @@ const makeShipTick = () => {
     const funcID = $Mth.createInsecureUUID()
     let state = STATE.PATHING
     let prevState = state
+    let prevPos = Vec3d.ZERO
     let attackCooldown = 0
     let volleyCount = 0
 
@@ -238,9 +238,7 @@ const makeShipTick = () => {
         const ship = pirate.getVehicle()
         if (!ship) return
 
-        const distanceSqr = ship.distanceToEntitySqr(targetEntity)
-
-        if (distanceSqr > 25600) {
+        if (ship.distanceToEntitySqr(targetEntity) > 25600) {
             console.debug("We lost 'em!")
             for (const passenger of ship.getPassengers()) {
                 passenger.discard()
@@ -255,8 +253,9 @@ const makeShipTick = () => {
         const shipHelper = ShipHelper(ship, pirate)
 
         if (DEBUG_STATE_MACHINE && prevState !== state) console.log(`${funcID}: state: ${state}`)
-        prevState = state
 
+        prevPos = ship.position()
+        prevState = state
         if (attackCooldown > 0) attackCooldown--
 
         switch (state) {
@@ -266,8 +265,11 @@ const makeShipTick = () => {
                     .normalize()
                     .scale(32)
                 const targetPos = ship.position().add(targetVec)
-                pirate.navigation.moveTo(targetPos.x(), ship.y, targetPos.z(), 1)
-                state = STATE.MOVING
+                if (ship.level.getBlockState(new Vec3d(targetPos.x(), 62, targetPos.z())).is(Blocks.WATER)) {
+                    pirate.navigation.moveTo(targetPos.x(), targetPos.y(), targetPos.z(), 1)
+                    state = STATE.MOVING
+                } else if (targetEntity && pirate.navigation.moveTo(targetEntity, 16))
+                    state = STATE.MOVING
                 break
             }
             case STATE.PATHING: {
@@ -285,6 +287,7 @@ const makeShipTick = () => {
                     state = STATE.PATHING
                     break
                 }
+
                 let node = path.getNextNode()
 
                 const nodeDistance = ship.distanceToSqr(Vec3d(node.x, ship.y, node.z))
@@ -311,6 +314,7 @@ const makeShipTick = () => {
                         state = STATE.ATTACKING
                     }
                 }
+                //if (prevPos.distanceTo(ship.position()) < 1) console.log("Stuck?")
                 path.advance()
                 break
             }
@@ -478,7 +482,7 @@ const crewShip = (pirateShip, player) => {
             pirateShip.blockPosition(),
             $MobSpawnType.PATROL
         )
-        pirate.setAttributeBaseValue('minecraft:generic.follow_range', 128)
+        //pirate.setAttributeBaseValue('minecraft:generic.follow_range', 128)
         pirate.startRiding(pirateShip)
         pirate.target = player
         pirate.persistentData.putUUID('victim', player.stringUuid)
@@ -511,18 +515,35 @@ const positionPirateShip = (target, pirateShip) => {
 }
 
 /**
- * @param {Internal.Ship} ship
+ * @param {Internal.Level} level
  */
-const shipDamageTicker = (ship) => {
-    if (
-        ship.passengers.filter((passenger) => !passenger.isPlayer()).isEmpty() &&
-        !ship.isSinking() &&
-        !ship.isSunken()
-    ) {
-        ship.setDamage(ship.attributes.maxHealth + 1)
-        ship.startSinking()
-    }
+const shipDamageTicker = (level) => {
+    /** @type {Internal.Entity[]} */
+    level
+        .getEntities()
+        .filter((entity) => entity instanceof $Ship && entity.getTags().contains('pirate'))
+        .forEach((ship) => {
+            if (
+                ship.passengers.filter((passenger) => !passenger.isPlayer()).isEmpty() &&
+                !ship.isSinking() &&
+                !ship.isSunken()
+            ) {
+                ship.setDamage(ship.getDamage() + 25)
+                if (ship.getDamage() > ship.attributes.maxHealth) ship.startSinking()
+            }
+        })
 }
+
+const HARD_SHIPS = [
+    $ModEntityTypes.BRIGG,
+    $ModEntityTypes.GALLEON
+]
+
+const NORMAL_SHIPS = [
+    $ModEntityTypes.COG,
+    $ModEntityTypes.DHOW,
+    $ModEntityTypes.CARAVEL,
+]
 
 /**
  *
@@ -531,9 +552,10 @@ const shipDamageTicker = (ship) => {
  */
 const summonPirates = (player, level) => {
     /** @type {Internal.EntityType} */
-    const shipType = localDifficultyFor(player) > 4 ? $ModEntityTypes.BRIGG : $ModEntityTypes.COG
+    const shipType = localDifficultyFor(player) > 4 ? Utils.randomOf(Utils.random,HARD_SHIPS) : Utils.randomOf(Utils.random,NORMAL_SHIPS)
     /** @type {Internal.Ship} */
     const pirateShip = buildPirateShip(shipType, level, player)
+    pirateShip.tags.add('pirate')
 
     const veh = player.getVehicle()
     if (!veh) return
@@ -546,9 +568,23 @@ const summonPirates = (player, level) => {
         setNemesis(player, pirateShip.getUuid())
 
         player.displayClientMessage(Text.translatable('spectral_seas.message.pirate_attack'), true)
+        playThemeMusic(player)
+    }
+}
 
+let musicCooldown = 0
+
+const tickMusicCooldown = () => {
+    if (musicCooldown > 0) {
+        musicCooldown--
+    }
+}
+
+const playThemeMusic = (player) =>{
+    if (musicCooldown <= 0) {
+        musicCooldown = MUSIC_COOLDOWN
         let camera = player.getCamera()
-        level.playSound(
+        player.level.playSound(
             null,
             camera.x,
             camera.y,
@@ -558,11 +594,8 @@ const summonPirates = (player, level) => {
             15,
             1
         )
-        level.server.scheduleRepeatingInTicks(10, (task) => {
-            shipDamageTicker(pirateShip)
-            if (!(pirateShip.isSinking() || pirateShip.isSunken())) task.reschedule(10)
-        })
     }
+
 }
 
 ServerEvents.customCommand('pirates', (event) => {
@@ -589,6 +622,12 @@ LevelEvents.loaded('minecraft:overworld', (event) => {
     console.info('Scheduling annoying pirates…')
     event.server.scheduleRepeatingInTicks(PIRATE_CHECK_TICKS, (task) => {
         pirateSummoner(task, event.level)
+    })
+    event.server.scheduleRepeatingInTicks(10, (task) => {
+        shipDamageTicker(event.level)
+    })
+    event.server.scheduleRepeatingInTicks(1, (task) => {
+        tickMusicCooldown()
     })
     pirateShipLoaded++
 })
