@@ -6,8 +6,8 @@
     "minecraft:music_disc.pigstep",
     "minecraft:music_disc.mellohi"
   ],
-  "music_frequency": "FREQUENT",
-  "show_music_toast": true,
+  "music_frequency": "DEFAULT",
+  "show_music_toast": false,
   "better_jukeboxes": true,
   "jukebox_fade_out": true,
   "jukebox_distance": 64.0
