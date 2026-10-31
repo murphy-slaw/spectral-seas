@@ -67,7 +67,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_nugget",
+                    "name": "minecraft:chain",
                     "weight": 1,
                     "functions": [
                         {
