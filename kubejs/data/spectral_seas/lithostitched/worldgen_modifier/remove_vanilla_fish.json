@@ -1,0 +1,11 @@
+{
+    "type":"lithostitched:remove_biome_spawns",
+    "biomes": "#minecraft:is_overworld",
+    "mobs":[
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:squid",
+        "minecraft:pufferfish"
+    ]
+}
