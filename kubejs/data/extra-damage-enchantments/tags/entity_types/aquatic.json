@@ -1,12 +1,12 @@
 {
   "replace": false,
   "values": [
-    "#hybrid_aquatic:all_amphibians",
-    "#hybrid_aquatic:all_cephalopods",
-    "#hybrid_aquatic:all_critters",
-    "#hybrid_aquatic:all_crustaceans",
-    "#hybrid_aquatic:all_fish",
-    "#hybrid_aquatic:all_jellyfish",
-    "#hybrid_aquatic:all_sharks"
+    "#hapi:all_amphibians",
+    "#hapi:all_cephalopods",
+    "#hapi:all_critters",
+    "#hapi:all_crustaceans",
+    "#hapi:all_fish",
+    "#hapi:all_jellyfish",
+    "#hapi:all_sharks"
   ]
 }

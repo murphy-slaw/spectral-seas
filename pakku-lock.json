@@ -5679,19 +5679,20 @@
                     "file_name": "Farmer GUI 1.20.1 [1.8].zip",
                     "mc_versions": [
                         "1.20.1",
-                        "1.20"
+                        "1.20",
+                        "1.20-Snapshot"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9261/176/Farmer GUI 1.20.1 [1.8].zip",
-                    "id": "9261176",
+                    "url": "https://edge.forgecdn.net/files/9336/608/Farmer GUI 1.20.1 [1.8].zip",
+                    "id": "9336608",
                     "parent_id": "918818",
                     "hashes": {
-                        "sha1": "60dae9b14d2a32d797d9b7e64ee3d0394fcc9d7c",
-                        "md5": "06a4d5203878e8d899adb5c87b6b818f"
+                        "sha1": "8732b3f0069f83365b3618fe92a26357d533e7ea",
+                        "md5": "6460a0ce8fc07e456881817199bc9f49"
                     },
                     "required_dependencies": [],
-                    "size": 3827278,
-                    "date_published": "2026-10-19T21:50:29.607Z"
+                    "size": 3860948,
+                    "date_published": "2026-10-26T19:43:13.357Z"
                 }
             ]
         },
@@ -7222,9 +7223,85 @@
             ]
         },
         {
+            "pakku_id": "z2PcSLWUu6UaH4bN",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl",
+                "xI3PiBymbbc07Bnb",
+                "4EDp2HtHLKihf76t"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hybrid-api",
+                "modrinth": "hybrid-api"
+            },
+            "name": {
+                "curseforge": "Hybrid API [HAPI]",
+                "modrinth": "Hybrid API [HAPI]"
+            },
+            "id": {
+                "curseforge": "883374",
+                "modrinth": "yv9f5EAG"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "hapi-fabric-1.20.1-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9063/568/hapi-fabric-1.20.1-1.1.3.jar",
+                    "id": "9063568",
+                    "parent_id": "883374",
+                    "hashes": {
+                        "sha1": "644bb6e7f0e6292beac406ab93049c38e5607365",
+                        "md5": "85425a388554d8bbdd057b25e29de582"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "388172",
+                        "308769"
+                    ],
+                    "size": 807683,
+                    "date_published": "2026-10-04T21:55:10.750Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "hapi-fabric-1.20.1-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yv9f5EAG/versions/1FGSCWW2/hapi-fabric-1.20.1-1.1.3.jar",
+                    "id": "1FGSCWW2",
+                    "parent_id": "yv9f5EAG",
+                    "hashes": {
+                        "sha512": "1096a6860c78bf3ece6fa29f0acfb68c8ca42c422097936dd466de87d8d8dbda01851e65f77f1648934fbcb272bf79fe69f7b9693949bdafb33e2c48b0c6b4de",
+                        "sha1": "644bb6e7f0e6292beac406ab93049c38e5607365"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Ha28R6CL",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 807683,
+                    "date_published": "2026-10-04T21:54:34.852447Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8lnlkV731uyBcjXh",
             "pakku_links": [
-                "VhjSeDCBqYcLLz7o"
+                "VhjSeDCBqYcLLz7o",
+                "z2PcSLWUu6UaH4bN"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -7243,7 +7320,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
+                    "file_name": "hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7251,27 +7328,25 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/JbcSaVfO/[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
-                    "id": "JbcSaVfO",
+                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/XEPUjFWy/hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
+                    "id": "XEPUjFWy",
                     "parent_id": "HH4FjUqN",
                     "hashes": {
-                        "sha512": "67b49a52e74de40ef7bb1cf295730658af2aef43ad35f7dab6b78058b0fb5fe9b6dbafb6ee12286c68dda87551af97893df2c84b4d6a142fe921afd70b2b35bf",
-                        "sha1": "c698183d5502b97abe202a8f9839aea666d4fbe8"
+                        "sha512": "aa610fad190bbb88ae450d3778df4248795780d105aad7467194c32785d66e4c441b4ea204755333321185b6547a0905b909824b216817bb174e133f69d1ada1",
+                        "sha1": "b0bc85cbff36f7c8cc41bcc68cf875d77dcfe114"
                     },
                     "required_dependencies": [
+                        "8BmcQJ2H",
+                        "yv9f5EAG",
                         "Ha28R6CL",
-                        "iGEl6Crx",
-                        "5aaWibi9",
-                        "P7dR8mSH",
-                        "XaDC71GB",
-                        "8BmcQJ2H"
+                        "P7dR8mSH"
                     ],
-                    "size": 6406840,
-                    "date_published": "2026-08-07T11:08:53.075621Z"
+                    "size": 6179516,
+                    "date_published": "2026-10-04T22:45:14.299540Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
+                    "file_name": "hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7279,22 +7354,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8594/172/[1.20.1-Fabric] Hybrid Aquatic 1.6.9.jar",
-                    "id": "8594172",
+                    "url": "https://edge.forgecdn.net/files/9063/966/hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
+                    "id": "9063966",
                     "parent_id": "834427",
                     "hashes": {
-                        "sha1": "c698183d5502b97abe202a8f9839aea666d4fbe8",
-                        "md5": "0dbe410305c1ad2939786adc42a0876c"
+                        "sha1": "b0bc85cbff36f7c8cc41bcc68cf875d77dcfe114",
+                        "md5": "f6fa5b30344c4ca995c2c6e3e82a5800"
                     },
                     "required_dependencies": [
-                        "341284",
-                        "936015",
                         "308769",
                         "388172",
-                        "852512"
+                        "306612",
+                        "883374"
                     ],
-                    "size": 6406840,
-                    "date_published": "2026-08-07T11:06:13.567Z"
+                    "size": 6179516,
+                    "date_published": "2026-10-04T22:45:13.897Z"
                 }
             ]
         },
@@ -7323,7 +7397,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Delights 1.2.1.jar",
+                    "file_name": "hybrid_delights-fabric-1.20.1-1.3.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7331,24 +7405,25 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/WR49BBCu/versions/5Xaz3Y4S/[1.20.1-Fabric] Hybrid Delights 1.2.1.jar",
-                    "id": "5Xaz3Y4S",
+                    "url": "https://cdn.modrinth.com/data/WR49BBCu/versions/UKVQhh7J/hybrid_delights-fabric-1.20.1-1.3.3.jar",
+                    "id": "UKVQhh7J",
                     "parent_id": "WR49BBCu",
                     "hashes": {
-                        "sha512": "af2fb2ac32f86d837f9329a36a1a67f4f5c49268a563762a07eaf2410179574ba3beb105e971bd70e1d6ce0e434ea667ae2a44a0938e1c53c433e2bc8ddd6756",
-                        "sha1": "2addda6d5d1ab8fa089c4f2abd4aa733f03e8c5b"
+                        "sha512": "f897653fef37bb068d8283194b8d8e4f3a4a0701c670eaa39396b634a3c901c6dba68c0d69bf502fdae0a16ec82c05f7773ad9d561474ce5c14a05c3a9979518",
+                        "sha1": "c3b0c0f07906d6db7ec582079438098714e30b95"
                     },
                     "required_dependencies": [
+                        "7vxePowz",
                         "Ha28R6CL",
-                        "HH4FjUqN",
+                        "yv9f5EAG",
                         "P7dR8mSH"
                     ],
-                    "size": 512297,
-                    "date_published": "2026-08-07T20:25:59.229777Z"
+                    "size": 614665,
+                    "date_published": "2026-10-15T23:47:08.354675Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "[1.20.1-Fabric] Hybrid Delights 1.2.1.jar",
+                    "file_name": "hybrid_delights-fabric-1.20.1-1.3.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7356,21 +7431,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8597/276/[1.20.1-Fabric] Hybrid Delights 1.2.1.jar",
-                    "id": "8597276",
+                    "url": "https://edge.forgecdn.net/files/9202/153/hybrid_delights-fabric-1.20.1-1.3.3.jar",
+                    "id": "9202153",
                     "parent_id": "1259032",
                     "hashes": {
-                        "sha1": "2addda6d5d1ab8fa089c4f2abd4aa733f03e8c5b",
-                        "md5": "a0c3b6537239aab7e2ff6e4577ab24f6"
+                        "sha1": "c3b0c0f07906d6db7ec582079438098714e30b95",
+                        "md5": "becbb704099fc1ad30adbf25ff989a26"
                     },
                     "required_dependencies": [
-                        "308769",
-                        "834427",
                         "306612",
+                        "883374",
+                        "308769",
                         "993166"
                     ],
-                    "size": 512297,
-                    "date_published": "2026-08-07T20:29:24.247Z"
+                    "size": 614665,
+                    "date_published": "2026-10-15T23:47:06.690Z"
                 }
             ]
         },
@@ -17713,15 +17788,15 @@
                     },
                     "required_dependencies": [
                         "6AQIaxuO",
-                        "rGWEHQrP",
-                        "ftdbN0KK"
+                        "ftdbN0KK",
+                        "rGWEHQrP"
                     ],
                     "size": 134448,
                     "date_published": "2026-10-25T02:02:07.184701Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "waila_smallships-1.2.0+1.20.1.jar",
+                    "file_name": "waila_smallships-1.3.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17729,20 +17804,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7498/330/waila_smallships-1.2.0+1.20.1.jar",
-                    "id": "7498330",
+                    "url": "https://edge.forgecdn.net/files/9316/680/waila_smallships-1.3.0+1.20.1.jar",
+                    "id": "9316680",
                     "parent_id": "1394118",
                     "hashes": {
-                        "sha1": "5e6ed0a41cb8143a4f905cc2875ed3cf99f39725",
-                        "md5": "46fad6b6cff6bf18eced5d9797ba314b"
+                        "sha1": "54e8958917f302ab502a40c3294a0d5b9e1ab5ff",
+                        "md5": "3f8f688bad4753558a3e4b626261a59b"
                     },
                     "required_dependencies": [
-                        "615134",
                         "450659",
+                        "615134",
                         "440979"
                     ],
-                    "size": 132463,
-                    "date_published": "2026-01-21T03:02:18.463Z"
+                    "size": 134448,
+                    "date_published": "2026-10-25T02:02:07.667Z"
                 }
             ]
         },
