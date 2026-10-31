@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "smallships:drakkars",
+  "tag": "smallships:drakkars",
+  "registry": "minecraft:item",
+  "enabled": true
+}

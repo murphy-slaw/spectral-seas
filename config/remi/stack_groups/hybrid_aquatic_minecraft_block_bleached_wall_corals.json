@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "hybrid_aquatic:minecraft_block_bleached_wall_corals",
+  "tag": "hybrid_aquatic:bleached_wall_corals",
+  "registry": "minecraft:block",
+  "enabled": true
+}

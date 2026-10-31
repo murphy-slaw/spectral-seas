@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "spectral_seas:bamboo_spikes",
+  "tag": "spectral_seas:bamboo_spikes",
+  "registry": "minecraft:item",
+  "enabled": true
+}

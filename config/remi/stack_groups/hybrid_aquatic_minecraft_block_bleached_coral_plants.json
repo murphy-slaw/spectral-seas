@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "hybrid_aquatic:minecraft_block_bleached_coral_plants",
+  "tag": "hybrid_aquatic:bleached_coral_plants",
+  "registry": "minecraft:block",
+  "enabled": true
+}

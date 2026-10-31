@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "spectral_seas:chalk",
+  "tag": "spectral_seas:chalk",
+  "registry": "minecraft:item",
+  "enabled": true
+}

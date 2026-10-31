@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "smallships:dhows",
+  "tag": "smallships:dhows",
+  "registry": "minecraft:item",
+  "enabled": true
+}

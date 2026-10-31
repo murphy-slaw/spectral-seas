@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "hybrid_aquatic:coral_set",
+  "tag": "hybrid_aquatic:coral_set",
+  "registry": "minecraft:item",
+  "enabled": true
+}

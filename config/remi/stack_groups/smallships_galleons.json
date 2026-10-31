@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "smallships:galleons",
+  "tag": "smallships:galleons",
+  "registry": "minecraft:item",
+  "enabled": true
+}

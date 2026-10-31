@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "hookshot:hookshots",
+  "tag": "hookshot:hookshots",
+  "registry": "minecraft:item",
+  "enabled": true
+}

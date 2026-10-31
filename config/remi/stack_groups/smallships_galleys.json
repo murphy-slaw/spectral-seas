@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "smallships:galleys",
+  "tag": "smallships:galleys",
+  "registry": "minecraft:item",
+  "enabled": true
+}

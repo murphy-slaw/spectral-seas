@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "spectral_seas:dead_coral_fan",
+  "tag": "spectral_seas:dead_coral_fan",
+  "registry": "minecraft:item",
+  "enabled": true
+}

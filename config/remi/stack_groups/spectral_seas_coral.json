@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "spectral_seas:coral",
+  "tag": "spectral_seas:coral",
+  "registry": "minecraft:item",
+  "enabled": true
+}
