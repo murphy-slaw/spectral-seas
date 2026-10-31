@@ -14,17 +14,21 @@
     }
   },
   "noise": {
-    "height": 384,
-    "min_y": -64,
+    "height": 448,
+    "min_y": -128,
     "size_horizontal": 1,
     "size_vertical": 2
   },
   "noise_router": {
     "barrier": {
+      "type": "minecraft:add",
+      "argument1": 0.2,
+      "argument2": {
       "type": "minecraft:noise",
       "noise": "minecraft:aquifer_barrier",
       "xz_scale": 1,
       "y_scale": 0.5
+      }
     },
     "fluid_level_floodedness": {
       "type": "minecraft:noise",
@@ -73,7 +77,7 @@
         "type": "minecraft:mul",
         "argument1": {
           "type": "minecraft:y_clamped_gradient",
-          "from_y": -64,
+          "from_y": -128,
           "to_y": -40,
           "from_value": 0,
           "to_value": 1
@@ -110,13 +114,18 @@
                           "type": "minecraft:mul",
                           "argument1": "minecraft:overworld/depth",
                           "argument2": {
-                            "type": "minecraft:cache_2d",
-                            "argument": "minecraft:overworld/factor"
-                          }
-                        }
-                      }
-                    }
+                            "argument": "minecraft:overworld/factor",
+                            "type": "minecraft:cache_2d"
+                          },
+                          "type": "minecraft:mul"
+                        },
+                        "type": "minecraft:quarter_negative"
+                      },
+                      "type": "minecraft:mul"
+                    },
+                    "type": "minecraft:add"
                   },
+                  "max": 64,
                   "min": -64,
                   "max": 64
                 }
