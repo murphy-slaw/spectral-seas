@@ -65,3 +65,6 @@ config/whitenoise-client.toml
 kubejs/assets/minecraft/texts/
 resourcepacks/*.zip
 shaderpacks/*.zip
+config/emi_discovery/advancements/example.json.disabled
+config/fancymenu/layout_editor/widgets/element_layer_control.lewidget
+kubejs/config/probejs.json
