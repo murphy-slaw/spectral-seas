@@ -119,6 +119,9 @@
         },
         "leawind-third-person": {
             "update_strategy": "NONE"
+        },
+        "naturalist": {
+            "update_strategy": "NONE"
         }
     },
     "export_server_side_projects_to_client": true
