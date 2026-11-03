@@ -7,7 +7,7 @@ B:play_vanilla_menu_music = 'false';
 
 ##[customization]
 
-B:modpack_mode = 'false';
+B:modpack_mode = 'true';
 B:show_customization_overlay = 'false';
 B:advanced_customization_mode = 'true';
 
@@ -73,7 +73,7 @@ B:enable_element_tilting_controls = 'true';
 B:enable_ui_animations = 'true';
 S:ui_scale_v2 = 'auto';
 I:context_menu_hover_open_speed = '1';
-S:ui_theme = 'butter_dark';
+S:ui_theme = 'dark';
 B:pip_window_docking = 'true';
 B:enable_ui_blur = 'false';
 F:ui_blur_intensity = '3.0';
