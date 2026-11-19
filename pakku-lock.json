@@ -11453,6 +11453,42 @@
             ]
         },
         {
+            "pakku_id": "fnDVnMZK4uH3khfT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "naming-unconvention-refabricated"
+            },
+            "name": {
+                "curseforge": "Naming Unconvention: Refabricated"
+            },
+            "id": {
+                "curseforge": "1815971"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "naming_unconvention-fabric-1.20.1-1.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9695/251/naming_unconvention-fabric-1.20.1-1.2.1.jar",
+                    "id": "9695251",
+                    "parent_id": "1815971",
+                    "hashes": {
+                        "sha1": "ed1c8670abad4649df78d992e1383ad678eb319b",
+                        "md5": "f752f351405b6b0acefa9283a9b2bb88"
+                    },
+                    "required_dependencies": [],
+                    "size": 33937,
+                    "date_published": "2026-11-19T04:06:21.897Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "vZ67cy6p27rMHWIi",
             "type": "MOD",
             "slug": {
