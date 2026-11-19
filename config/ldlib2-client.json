@@ -1,0 +1,12 @@
+{
+  "font": {
+    "fontRenderMode": "AUTO",
+    "fontAtlasSize": 1024,
+    "sdfEmSize": 48,
+    "sdfSharpness": 1.0,
+    "sdfWeight": 0.0,
+    "fontRasterMaxSize": 256,
+    "fontRasterEvictSeconds": 30,
+    "textLayoutCache": true
+  }
+}

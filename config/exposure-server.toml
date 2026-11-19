@@ -3,35 +3,35 @@
 	#Allowed range: 10-300
 	#Default: 18-55
 	default_focal_range = "18-55"
+	#Shifts viewfinder view down to match waist-level camera position. Default: false.
+	waist_level_viewfinder = false
+	#Right-clicking a Camera in GUI will open Camera Attachments screen. Only in player inventory.
+	#Default: true
+	right_click_attachments_screen = true
+	#Radius in blocks around the camera in which mobs will be affected by the timer. Default: 16
+	#Range: 1 ~ 64
+	timer_attention_radius = 16
+	#Self-timer will attract attention of nearby entities and makes them look at the Camera. Default: true
+	timer_attracts_mob_attention = true
+	#Right-clicking Camera in GUI with attachment item will insert/swap it.
+	#Default: true
+	right_click_hotswap = true
 	#Can attack while looking through Viewfinder.
 	#Default: true
 	viewfinder_attacking = true
 	#Camera distance in thirdperson-front mode. Default: 1.75
 	#Range: 0.1 ~ 4.0
 	selfie_camera_distance = 1.75
-	#Shifts viewfinder view down to match waist-level camera position. Default: false.
-	waist_level_viewfinder = false
-	#Right-clicking a Camera in GUI will open Camera Attachments screen. Only in player inventory.
-	#Default: true
-	right_click_attachments_screen = true
-	#Right-clicking Camera in GUI with attachment item will insert/swap it.
-	#Default: true
-	right_click_hotswap = true
-	#Self-timer will attract attention of nearby entities and makes them look at the Camera. Default: true
-	timer_attracts_mob_attention = true
-	#Radius in blocks around the camera in which mobs will be affected by the timer. Default: 16
-	#Range: 1 ~ 64
-	timer_attention_radius = 16
 [camera_stand]
+	#If owner of the Camera Stand is not in range, closest player will be chosen to create and render a photo. Default: true
+	fallback_to_other_players = true
+	#Attempting to take a photo outside the working range will cause the Camera on stand to 'malfunction' and it would need to be repaired (by simply using it). Default: true
+	out_of_working_range_malfunction = true
 	#Maximum allowed distance between Camera Stand and a player for the stand to function.
 	#Camera on stand will capture the chunks that player is currently seeing, this may result is some parts of the world missing when camera on stand is taking photos while a player far away. Short render distances can be a problem as well.
 	#Default: 100
 	#Range: > 1
 	working_range = 100
-	#Attempting to take a photo outside the working range will cause the Camera on stand to 'malfunction' and it would need to be repaired (by simply using it). Default: true
-	out_of_working_range_malfunction = true
-	#If owner of the Camera Stand is not in range, closest player will be chosen to create and render a photo. Default: true
-	fallback_to_other_players = true
 	#Other players can be chosen for Interplanar Projector exposure, if owner is not in range.
 	#WARNING: If enabled, projector will attempt to load an image from other player's computer (or use their PC to load from URL). Potentially, this can be used for malicious intents.
 	#Default: false
@@ -50,6 +50,8 @@
 	#Light level that is required for Lightroom to work. Default: 13
 	#Range: 0 ~ 15
 	lightroom_light_requirement = 13
+	#Dyes for chromatic red channel print. Default: ["magenta", "yellow"]
+	dyes_chromatic_red = ["magenta", "yellow"]
 	#Dyes that are used for particular printing process.
 	#Valid dyes are: cyan, magenta, yellow, black.
 	#Multiple definitions will make the lightroom consume multiple items per print. ["black", "black"] -> 2 Black Dye is consumed per print.
@@ -57,27 +59,25 @@
 	dyes_black_and_white = ["black"]
 	#Dyes for color print. Default: ["cyan", "magenta", "yellow", "black"]
 	dyes_color = ["cyan", "magenta", "yellow", "black"]
-	#Dyes for chromatic red channel print. Default: ["magenta", "yellow"]
-	dyes_chromatic_red = ["magenta", "yellow"]
-	#Dyes for chromatic green channel print. Default: ["cyan", "yellow"]
-	dyes_chromatic_green = ["cyan", "yellow"]
-	#Dyes for chromatic blue channel print. Default: ["cyan", "magenta"]
-	dyes_chromatic_blue = ["cyan", "magenta"]
-	#Time in ticks to print black and white photograph. Default: 80
-	#Range: > 1
-	print_time_black_and_white = 80
-	#Time in ticks to print color photograph. Default: 160
-	#Range: > 1
-	print_time_color = 160
 	#Time in ticks to print one channel of a chromatic photograph. Default: 120
 	#Range: > 1
 	print_time_chromatic = 120
 	#Amount of experience awarded per printed black and white Photograph. Default: 2
 	#Range: 0 ~ 99
 	experience_black_and_white = 2
+	#Dyes for chromatic green channel print. Default: ["cyan", "yellow"]
+	dyes_chromatic_green = ["cyan", "yellow"]
+	#Time in ticks to print black and white photograph. Default: 80
+	#Range: > 1
+	print_time_black_and_white = 80
 	#Amount of experience awarded per printed color Photograph. Default: 4
 	#Range: 0 ~ 99
 	experience_color = 4
+	#Time in ticks to print color photograph. Default: 160
+	#Range: > 1
+	print_time_color = 160
+	#Dyes for chromatic blue channel print. Default: ["cyan", "magenta"]
+	dyes_chromatic_blue = ["cyan", "magenta"]
 	#Amount of experience awarded per printed chromatic Photograph (when all three channels have been printed). Default: 5
 	#Range: 0 ~ 99
 	experience_chromatic = 5

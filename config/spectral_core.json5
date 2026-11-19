@@ -1,4 +1,21 @@
 {
 	"lavaLevel": -117,
-	"coconutRipeningDelay": 7
+	"coconutRipeningDelay": 7,
+	"glowBerryLightLevel": 10,
+	"dropleafLightLevel": 10,
+	"bioshroomLightLevel": 8,
+	"bioshroomBlockLightLevel": 12,
+	"ArmorerStation": "",
+	"ButcherStation": "spectral_seas:butcher_block",
+	"CartographerStation": "",
+	"ClericStation": "",
+	"FarmerStation": "",
+	"FishermanStation": "",
+	"FletcherStation": "",
+	"LeatherworkerStation": "",
+	"LibrarianStation": "",
+	"MasonStation": "",
+	"ShepherdStation": "",
+	"ToolsmithStation": "",
+	"WeaponsmithStation": ""
 }

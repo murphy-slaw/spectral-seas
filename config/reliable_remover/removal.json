@@ -197,10 +197,5 @@
         "tags": [
             "farmersdelight:feasts"
         ]
-    },
-    {
-        "action": "remove",
-        "mods": ["smallships"],
-        "tags":["smallships:ships"]
     }
 ]

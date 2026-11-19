@@ -1,0 +1,6 @@
+{
+    "inputs": [
+        "minecraft:smoker"
+    ],
+    "output": "minecraft:blast_furnace"
+}

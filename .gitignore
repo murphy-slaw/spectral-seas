@@ -68,3 +68,5 @@ shaderpacks/*.zip
 config/emi_discovery/advancements/example.json.disabled
 config/fancymenu/layout_editor/widgets/element_layer_control.lewidget
 kubejs/config/probejs.json
+config/reliable_replacer/example_rules.json.disabled
+config/reliable_replacer/swapper.json
