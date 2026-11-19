@@ -6,11 +6,11 @@
 	// Percentage of total stamina making the player fatigued
 	"fatiguedPercentage": 0,
 	// Stamina points depleted per tick while sprinting.
-	"depletionPerTickSprinting": 1.0,
+	"depletionPerTickSprinting": 0.75,
 	// Stamina points depleted per tick while swimming.
-	"depletionPerTickSwimming": 0.5,
+	"depletionPerTickSwimming": 0.4000000059604645,
 	// Stamina points depleted per tick while moving in water.
-	"depletionPerTickWading": 0.25,
+	"depletionPerTickWading": 0.20000000298023224,
 	// Stamina points depleted per tick while climbing.
 	"depletionPerTickClimbing": 0.5,
 	// Stamina points depleted per jump
@@ -20,7 +20,7 @@
 	// Stamina points depleted per weapon swing
 	"depletionPerWeaponSwing": 0.0,
 	// Stamina points depleted per tick while mining
-	"depletionPerMiningTick": 0.5,
+	"depletionPerMiningTick": 0.25,
 	// Stamina points depleted per block broken
 	"depletionPerBlockBroken": 0.0,
 	// Stamina points depleted per tick while using a shield
