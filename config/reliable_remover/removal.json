@@ -197,5 +197,22 @@
         "tags": [
             "farmersdelight:feasts"
         ]
+    },
+    {
+        "action":"remove",
+        "mods":[
+            "hybrid_delights"
+        ],
+        "items":[
+            "hybrid_delights:jelly",
+            "hybrid_delights:jelly_toast"
+        ],
+        "patterns": [
+            "/.*stove.*/",
+            "/.*cabinet.*/",
+            "/.*fishsicle.*/",
+            "/.*morsel.*/",
+            "/.*plunderer.*/"
+        ]
     }
 ]
