@@ -1,0 +1,7 @@
+{
+	"match": {
+		"items": "minecraft:fire_charge"
+	},
+	"luminance": 5,
+	"water_sensitive": true
+}

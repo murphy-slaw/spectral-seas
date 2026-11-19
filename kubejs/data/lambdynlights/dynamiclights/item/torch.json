@@ -1,0 +1,9 @@
+{
+	"match": {
+		"items": [
+			"minecraft:torch"
+		]
+	},
+	"luminance": 7,
+	"water_sensitive": true
+}
