@@ -1,20 +1,27 @@
 const $HybridAquaticEntityTypes = Java.loadClass('dev.hybridlabs.aquatic.entity.HAEntityTypes')
 /** @type {Internal.EntityType} */
 const $SharkEntityType = $HybridAquaticEntityTypes.INSTANCE.GREAT_WHITE_SHARK.get()
+const $TurtlEntityType = $EntityType.TURTLE
+
 
 //const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
-//const $TurtleEntityType = $EntityType.TURTLE
+const $TurtleEntityType = $EntityType.TURTLE
 //const $SquidEntityType = $HybridAquaticEntityTypes.INSTANCE.VAMPIRE_SQUID
 const MONSTER_TYPES = ['hybrid_aquatic:great_white_shark', 'minecraft:turtle']
-const MONSTER_ENTITY_TYPES = [$SharkEntityType]
+const MONSTER_ENTITY_TYPES = [$SharkEntityType, $TurtlEntityType]
 
 const $BoatClass = Java.loadClass('net.minecraft.world.entity.vehicle.Boat')
 const $InteractionHand = Java.loadClass('net.minecraft.world.InteractionHand')
+const $Player = Java.loadClass('net.minecraft.world.entity.player.Player')
+
 const $TagKey = Java.loadClass('net.minecraft.tags.TagKey')
+
+const $TemptGoal = Java.loadClass('net.minecraft.world.entity.ai.goal.TemptGoal')
+const $RandomSwimmingGoal = Java.loadClass('net.minecraft.world.entity.ai.goal.RandomSwimmingGoal')
 
 const MONSTER_CHECK_TICKS = 600
 const MONSTER_DOOM_TIME = 300
-const MONSTER_ATTACK_COOLDOWN = 80
+const MONSTER_ATTACK_COOLDOWN = 20
 const MONSTER_DIFFICULTY_THRESHOLD = 2.0
 const SEA_MONSTER_BASE_CHANCE = 0.0
 
@@ -31,11 +38,10 @@ const IS_DEEP_OCEAN = $TagKey.create(
  * @returns {boolean}
  */
 const isBlockPosInBiomeTag = (level, blockPos, biomeTag) => {
-    const inBiome = level
+    return level
         .getBiome(blockPos)
         .tags()
         .anyMatch((tag) => tag === biomeTag)
-    return inBiome
 }
 
 /**
@@ -44,9 +50,7 @@ const isBlockPosInBiomeTag = (level, blockPos, biomeTag) => {
  * @returns {boolean}
  */
 function isValidTarget(mob, entity) {
-    const valid =
-        isBlockPosInBiomeTag(mob.level, entity.blockPosition(), IS_DEEP_OCEAN) &&
-        entity.distanceToEntity(mob) <= mob.attributes.getValue('generic.follow_range') // && entity.hasPassenger(entity => entity.player)
+    const valid = entity.distanceToEntity(mob) <= mob.attributes.getValue('generic.follow_range') // && entity.hasPassenger(entity => entity.player)
     return valid
 }
 
@@ -60,8 +64,8 @@ function getTargetBoat(mob) {
     const range = mob.attributes.getValue('minecraft:generic.follow_range')
     const mobAABB = mob.boundingBox.inflate(range, 32, range)
     // @ts-ignore
-    mob.level.getEntitiesOfClass($BoatClass, mobAABB).forEach((entity) => {
-        if (entity) {
+    mob.level.getEntitiesOfClass($Ship, mobAABB).forEach((entity) => {
+        if (entity && !entity.isSunken()) {
             let entityDistance = entity.distanceToEntity(mob)
             if (
                 entityDistance <= range &&
@@ -69,7 +73,6 @@ function getTargetBoat(mob) {
                 entity.hasPassenger((entity) => entity.player)
             ) {
                 target = entity
-                mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
             }
         }
     })
@@ -111,13 +114,12 @@ const hasValidTarget = (mob) => {
 
 /** @param {Internal.Mob} mob */
 const addMonsterEffects = (mob) => {
-    mob.potionEffects.add('spectral_seas:hydrodynamic', -1, 4, false, true)
     mob.potionEffects.add('minecraft:glowing', -1, 0, false, false)
 }
 
 /** @param {Internal.Mob} mob */
 const removeMonsterEffects = (mob) => {
-    mob.removeEffect('spectral_seas:hydrodynamic')
+    mob.removeEffect('spectral_seas:growth')
     mob.removeEffect('minecraft:glowing')
 }
 
@@ -163,23 +165,23 @@ const attackTarget = (mob, target) => {
 /** @param {Internal.Mob} mob */
 const attackBoatsTick = (mob) => {
     let attackCooldown = mob.persistentData.attackCooldown || 0
+    attackCooldown--
     const target = restoreTarget(mob)
     if (target) {
         const distance = mob.distanceToEntity(target)
         if (getAttackReach(mob, target) >= distance && attackCooldown <= 0) {
             attackTarget(mob, target)
             attackCooldown = MONSTER_ATTACK_COOLDOWN
-        } else {
-            if (mob.age % 10 === 0) mob.navigation.moveTo(target.x, target.y, target.z, 1.0)
-            mob.navigation.recomputePath()
+        } else if (mob.navigation.isDone()) {
+            mob.navigation.moveTo(target, 2)
         }
     }
-    attackCooldown--
     mob.persistentData.attackCooldown = attackCooldown
 }
 
 MONSTER_TYPES.forEach((type) => {
     EntityJSEvents.addGoalSelectors(type, (event) => {
+        event.removeAllGoals()
         /**
          * @param {string}   name
          * @param {number}   priority
@@ -193,15 +195,18 @@ MONSTER_TYPES.forEach((type) => {
          */
         event.customGoal(
             'attack_boats',
-            -1,
+            0,
             hasValidTarget,
             hasValidTarget,
-            true,
+            false,
             addMonsterEffects,
             removeMonsterEffects,
             true,
             attackBoatsTick
         )
+    })
+    EntityJSEvents.addGoals(type, (event) => {
+        event.removeAllGoals()
     })
 })
 
@@ -238,9 +243,9 @@ const summonMonster = (player) => {
     /** @type {Internal.LivingEntity} */
     const monster = monsterType.create(player.level)
     monster.tags.add('sea_monster')
-    monster.setAttributeBaseValue('minecraft:generic.follow_range', 64)
-    monster.size = 0
-    $ScaleTypes$BASE.getScaleData(monster).setScale(2)
+    monster.setAttributeBaseValue('minecraft:generic.follow_range', 128)
+    //monster.setAttributeBaseValue('minecraft:generic.movement_speed', 2.0)
+    $ScaleTypes$BASE.getScaleData(monster).setScale(3)
 
     const veh = player.getVehicle()
     if (!veh) return
