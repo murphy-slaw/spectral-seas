@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brick",
+    "count": 4
+  }
+}

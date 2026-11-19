@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:clay_ball"
+  },
+  "show_notification": true
+}
