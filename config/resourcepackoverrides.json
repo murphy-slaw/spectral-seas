@@ -9,7 +9,10 @@
       "spectrum:spectrum_generation_1",
       "spectrum:spectrum_programmer_art",
       "continuity:default",
-      "supplementaries:darker_ropes"
+      "supplementaries:darker_ropes",
+      "Fabrication",
+      "Fabrication grayscale",
+      "Moonlight Mods Dynamic Assets"
     ],
     "$$1": {
       "hidden": true
