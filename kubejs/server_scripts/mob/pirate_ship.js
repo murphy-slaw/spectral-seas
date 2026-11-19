@@ -10,7 +10,7 @@ const $RangedCrossbowAttackGoal = Java.loadClass(
 )
 
 const DEBUG_SHIP_PATHS = false
-const DEBUG_STATE_MACHINE = false
+const DEBUG_STATE_MACHINE = true
 const ATTACK_RANGE = 900 // 30 blocks
 const PIRATE_DIFFICULTY_THRESHOLD = 1.0
 const PIRATE_CHECK_TICKS = 600
@@ -25,6 +25,7 @@ const STATE = {
     MOVING: 1,
     ATTACKING: 2,
     FLEEING: 3,
+    STUCK: 4,
 }
 
 /**
@@ -126,6 +127,25 @@ const ShipHelper = function (ship, captain) {
     }
 
     /**
+     * @returns {boolean}
+     */
+    const reverse = () => {
+        if (ship.sailState != 0) {
+            setSailState(0)
+            return false
+        } else {
+            ship.updateControls(false, true, false, false, null)
+            const forward = ship.getForward().normalize()
+            let testPos = ship.position()
+            for (let i = 0; i < 5; i++) {
+                testPos.add(forward)
+                if (!ship.level.getBlockState(new Vec3d(testPos.x(), 62, testPos.z()))) return false
+            }
+        }
+        return true
+    }
+
+    /**
      * Rotates the ship to face the provided target entity and fires cannons if aligned
      * @param {Internal.Entity} target
      */
@@ -161,6 +181,7 @@ const ShipHelper = function (ship, captain) {
         setSailState: setSailState,
         moveToNode: moveToNode,
         moveAtAngle: moveAtAngle,
+        reverse: reverse,
         attack: attack,
     }
 }
@@ -171,10 +192,7 @@ const ShipHelper = function (ship, captain) {
  * @returns {boolean}
  */
 const canAttack = (pirate, target) => {
-    return (
-        target != null &&
-        pirate.distanceToEntitySqr(target) <= ATTACK_RANGE
-    )
+    return target != null && pirate.distanceToEntitySqr(target) <= ATTACK_RANGE
 }
 
 /*******************************************************************************
@@ -225,6 +243,7 @@ const makeShipTick = () => {
     let prevPos = Vec3d.ZERO
     let attackCooldown = 0
     let volleyCount = 0
+    let backingTimer = 0
 
     /** @param {Internal.Pillager} pirate */
     const shipTick = (pirate) => {
@@ -265,7 +284,11 @@ const makeShipTick = () => {
                     .normalize()
                     .scale(32)
                 const targetPos = ship.position().add(targetVec)
-                if (ship.level.getBlockState(new Vec3d(targetPos.x(), 62, targetPos.z())).is(Blocks.WATER)) {
+                if (
+                    ship.level
+                        .getBlockState(new Vec3d(targetPos.x(), 62, targetPos.z()))
+                        .is(Blocks.WATER)
+                ) {
                     pirate.navigation.moveTo(targetPos.x(), targetPos.y(), targetPos.z(), 1)
                     state = STATE.MOVING
                 } else if (targetEntity && pirate.navigation.moveTo(targetEntity, 16))
@@ -273,9 +296,9 @@ const makeShipTick = () => {
                 break
             }
             case STATE.PATHING: {
-                shipHelper.setSailState(0)
+                //shipHelper.setSailState(0)
                 if (shipHelper.getCannonballCount() <= 0) state = STATE.FLEEING
-                else if (targetEntity && pirate.navigation.moveTo(targetEntity, 16))
+                else if (targetEntity && pirate.navigation.moveTo(targetEntity, 1))
                     state = STATE.MOVING
                 break
             }
@@ -314,8 +337,23 @@ const makeShipTick = () => {
                         state = STATE.ATTACKING
                     }
                 }
-                //if (prevPos.distanceTo(ship.position()) < 1) console.log("Stuck?")
+                if (
+                    ship.speed < 0.1 &&
+                    ship.rotSpeed < 0.1 &&
+                    prevPos.distanceTo(ship.position()) < 0.1
+                ) {
+                    state = STATE.STUCK
+                    pirate.navigation.stop()
+                }
                 path.advance()
+                break
+            }
+
+            case STATE.STUCK: {
+                if (backingTimer === 0) backingTimer = 40
+                shipHelper.reverse()
+                backingTimer--
+                if (backingTimer <= 0) state = STATE.PATHING
                 break
             }
 
@@ -534,16 +572,9 @@ const shipDamageTicker = (level) => {
         })
 }
 
-const HARD_SHIPS = [
-    $ModEntityTypes.BRIGG,
-    $ModEntityTypes.GALLEON
-]
+const HARD_SHIPS = [$ModEntityTypes.BRIGG, $ModEntityTypes.GALLEON]
 
-const NORMAL_SHIPS = [
-    $ModEntityTypes.COG,
-    $ModEntityTypes.DHOW,
-    $ModEntityTypes.CARAVEL,
-]
+const NORMAL_SHIPS = [$ModEntityTypes.COG, $ModEntityTypes.DHOW, $ModEntityTypes.CARAVEL]
 
 /**
  *
@@ -552,7 +583,10 @@ const NORMAL_SHIPS = [
  */
 const summonPirates = (player, level) => {
     /** @type {Internal.EntityType} */
-    const shipType = localDifficultyFor(player) > 4 ? Utils.randomOf(Utils.random,HARD_SHIPS) : Utils.randomOf(Utils.random,NORMAL_SHIPS)
+    const shipType =
+        localDifficultyFor(player) > 4
+            ? Utils.randomOf(Utils.random, HARD_SHIPS)
+            : Utils.randomOf(Utils.random, NORMAL_SHIPS)
     /** @type {Internal.Ship} */
     const pirateShip = buildPirateShip(shipType, level, player)
     pirateShip.tags.add('pirate')
@@ -580,7 +614,7 @@ const tickMusicCooldown = () => {
     }
 }
 
-const playThemeMusic = (player) =>{
+const playThemeMusic = (player) => {
     if (musicCooldown <= 0) {
         musicCooldown = MUSIC_COOLDOWN
         let camera = player.getCamera()
@@ -595,7 +629,6 @@ const playThemeMusic = (player) =>{
             1
         )
     }
-
 }
 
 ServerEvents.customCommand('pirates', (event) => {
