@@ -1,3 +1,4 @@
 {
-    "item.farmersdelight.flint_knife": "Copper Knife"
+    "item.farmersdelight.flint_knife": "Copper Knife",
+    "advancements.farmersdelight.place_campfire.description":"Light a Campfire to cook some food"
 }

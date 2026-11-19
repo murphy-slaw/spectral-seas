@@ -1,27 +1,36 @@
 {
   "parent": "spectral_seas:seamanship/root",
   "criteria": {
-    "campfire": {
+    "light_campfire": {
+      "trigger": "minecraft:item_used_on_block",
       "conditions": {
         "location": [
           {
-            "block": "minecraft:campfire",
-            "condition": "minecraft:block_state_property"
+            "condition": "minecraft:all_of",
+            "terms": [
+              {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                  "block": {
+                    "blocks": [
+                      "minecraft:campfire",
+                      "minecraft:soul_campfire"
+                    ]
+                  }
+                }
+              },
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "items": [
+                    "minecraft:flint_and_steel"
+                  ]
+                }
+              }
+            ]
           }
         ]
-      },
-      "trigger": "minecraft:placed_block"
-    },
-    "soul_campfire": {
-      "conditions": {
-        "location": [
-          {
-            "block": "minecraft:soul_campfire",
-            "condition": "minecraft:block_state_property"
-          }
-        ]
-      },
-      "trigger": "minecraft:placed_block"
+      }
     }
   },
   "display": {
@@ -41,8 +50,7 @@
   },
   "requirements": [
     [
-      "campfire",
-      "soul_campfire"
+      "light_campfire"
     ]
   ],
   "sends_telemetry_event": true
