@@ -1,0 +1,4 @@
+{
+  "leaves": ["minecraft:mangrove_leaves"],
+  "logs": ["#minecraft:mangrove_logs", "#minecraft:jungle_logs"]
+}
