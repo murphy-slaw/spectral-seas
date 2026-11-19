@@ -2,5 +2,5 @@
     "inputs": [
         "minecraft:smoker"
     ],
-    "output": "minecraft:blast_furnace"
+    "output": "spectral_seas:butcher_block"
 }
