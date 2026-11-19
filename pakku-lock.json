@@ -16378,60 +16378,6 @@
             ]
         },
         {
-            "pakku_id": "7rBGpQVpOBQo1IDX",
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "stylized-liquids"
-            },
-            "name": {
-                "modrinth": "Stylized Liquids"
-            },
-            "id": {
-                "modrinth": "iA8r21Ex"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "StylizedLiquids.zip",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/iA8r21Ex/versions/BzLgfpfJ/StylizedLiquids.zip",
-                    "id": "BzLgfpfJ",
-                    "parent_id": "iA8r21Ex",
-                    "hashes": {
-                        "sha512": "3c9c777c89e9b7ac32d54f2656526dfb2d1aafbb2bdbd210048c5eac14bdb97b40d69fa1aa8610104aded9b6161c028fcbd107dd6ad13b0d312efd5b6c2e029d",
-                        "sha1": "d34e09b56d39fe49a467ecef0471a18c604499ff"
-                    },
-                    "required_dependencies": [],
-                    "size": 574347,
-                    "date_published": "2025-04-21T11:44:28.471100Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ofCbGJZjYufBdQDX",
             "type": "MOD",
             "side": "CLIENT",
