@@ -9,6 +9,10 @@
     "minecraft:mangrove_planks",
     "minecraft:bamboo_planks",
     "minecraft:cherry_planks",
+    "ecologics:azalea_planks",
+    "ecologics:flowering_azalea_planks",
+    "ecologics:coconut_planks",
+    "ecologics:walnut_planks",
     "hybrid_aquatic:driftwood_planks"
   ]
 }

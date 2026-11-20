@@ -3,27 +3,14 @@
     "icon": "minecraft:crafting_table",
     "category": "patchouli:seamanship",
     "entry_color": "43120F",
-    "sortnum": 1,
+    "sortnum": 2,
     "pages": [
-        "All Ships, of any Design, require the same Elements, albeit in differing Measure. A Hull is wrought from Timber like a Boat, but grander in Scale. Sails need stout Masts, woolen Cloth or Canvas to catch the Wind, and fortified Ropes for Rigging. Further Ropes secure the Vessel's Fittings and Cargo.$(br)    Of Timber, I have already spoken. Gather a great Heap of it, for Needs may exceed Estimation.  Wood Type matters not, and may be chosen by Taste or Opportunity. For Masts, the stripped Bole of a Tree serves best.$(p)",
         {
             "type": "patchouli:crafting",
-            "recipe": "spectral_seas:hull_section/oak_hull_section",
-            "recipe2": "smallships:oak_cog",
-            "title": "The Plan of an Oaken Cog",
-            "text": "$(o)For those who tire of Words.$()"
+            "recipe": "smallships:dockyard",
+            "title": "The Shipwright's Workbench",
+            "text": "    Before one can begin the arduous Process of Shipbuilding, we must gather our tools. The most essential is the Dockyard, a puissant Workbench which provides all the Neccessaries for the Task. Once constructed, place it near the Body of Water into which you plan to launch."
         },
-        {
-            "title": "A Sail (from Wool)",
-            "type": "patchouli:crafting",
-            "recipe": "smallships:sail",
-            "text": "Sailcloth needs a tidy Stockpile of Wool – and I trust you have saved enough Sheeps to fill the Order. If Wool is scarce, a great Mass of Canvas can serve.$(br)   Rigging demands its own Topic.$(p)"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "A Sail (from Canvas)",
-            "recipe": "spectral_seas:canvas/canvas_block",
-            "recipe2": "smallships:sail_from_canvas"
-        }
+        "    All Ships, of any Design, require the same Elements, albeit in differing Measure. A Hull is wrought from Timber like a Boat, but grander in Scale. Sails need stout Masts, woolen Cloth or Canvas to catch the Wind, and fortified Ropes for Rigging. Further Ropes secure the Vessel's Fittings and Cargo.$(br)    Of Timber, I have already spoken. Gather a great Heap of it, for Needs may exceed Estimation.  Wood Type matters not, and may be chosen by Taste or Opportunity.$(br)   Once you have Gathered the needed Materials, take them to your Dockyard and select a Plan for your vessel. Once started, Construction may take significant Time."
     ]
 }

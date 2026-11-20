@@ -14,7 +14,7 @@
       "tag": "spectral_seas:sail_materials"
     },
     "L": {
-      "tag": "minecraft:planks"
+      "tag": "minecraft:overworld_planks"
     },
     "S": {
       "item": "supplementaries:rope"
