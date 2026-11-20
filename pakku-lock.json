@@ -3998,7 +3998,7 @@
             ]
         },
         {
-            "pakku_id": "PTuOEUYum47WUja2",
+            "pakku_id": "q5XV0h2kGnin6xrv",
             "pakku_links": [
                 "I3R56KffM8BLOYK5",
                 "A8rH06RMTQ4Ls9Q4"
@@ -4006,15 +4006,42 @@
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "emi-small-ships",
                 "modrinth": "emi-small-ships"
             },
             "name": {
+                "curseforge": "EMI: Small Ships",
                 "modrinth": "EMI: Small Ships"
             },
             "id": {
+                "curseforge": "1812872",
                 "modrinth": "afDsd5tj"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smallships_emi-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9671/37/smallships_emi-fabric-1.20.1-1.0.0.jar",
+                    "id": "9671037",
+                    "parent_id": "1812872",
+                    "hashes": {
+                        "sha1": "27bee6992491320e5f187c21d1d857b4bef15f29",
+                        "md5": "e4f3b0b027863a20cb4fbb74085c2989"
+                    },
+                    "required_dependencies": [
+                        "450659",
+                        "580555"
+                    ],
+                    "size": 34950,
+                    "date_published": "2026-11-17T19:09:04.717Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "smallships_emi-fabric-1.20.1-1.0.0.jar",
@@ -4033,8 +4060,8 @@
                         "sha1": "27bee6992491320e5f187c21d1d857b4bef15f29"
                     },
                     "required_dependencies": [
-                        "rGWEHQrP",
-                        "fRiHVvU7"
+                        "fRiHVvU7",
+                        "rGWEHQrP"
                     ],
                     "size": 34950,
                     "date_published": "2026-11-17T19:04:13.734693Z"
@@ -4441,7 +4468,10 @@
             ]
         },
         {
-            "pakku_id": "8dASEduJxz9eWuaD",
+            "pakku_id": "Z8mbXKDn2ELFpgR2",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -12856,19 +12886,49 @@
             ]
         },
         {
-            "pakku_id": "5WsP244oTBHjQAtD",
+            "pakku_id": "q5MnS0tmDsuLrBD0",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "rabbit-pathfinding-fix",
                 "modrinth": "rabbit-pathfinding-fix"
             },
             "name": {
+                "curseforge": "Rabbit Pathfinding Fixed",
                 "modrinth": "Rabbit Pathfinding Fixed"
             },
             "id": {
+                "curseforge": "1752240",
                 "modrinth": "MCMPNRD8"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rabbit-pathfinding-fix-1.0.6.1-legacy+1.20.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9239/747/rabbit-pathfinding-fix-1.0.6.1-legacy+1.20.jar",
+                    "id": "9239747",
+                    "parent_id": "1752240",
+                    "hashes": {
+                        "sha1": "4aa094bffe803412cce6ec9c60fb12f627f5c550",
+                        "md5": "cd9297a0519adb88167b358beba82809"
+                    },
+                    "required_dependencies": [],
+                    "size": 18001,
+                    "date_published": "2026-10-18T13:12:22.850Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "rabbit-pathfinding-fix-1.0.6.1-legacy+1.20.jar",
@@ -17582,16 +17642,22 @@
             ]
         },
         {
-            "pakku_id": "XGUJ7I1uZ8bsT6v4",
+            "pakku_id": "PRpLPGUtaVFNxUGr",
+            "pakku_links": [
+                "zXaWgcexJGDOgsjl"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "tinkerers-smithing",
                 "modrinth": "tinkerers-smithing"
             },
             "name": {
+                "curseforge": "Tinkerer's Smithing",
                 "modrinth": "Tinkerer's Smithing"
             },
             "id": {
+                "curseforge": "1506047",
                 "modrinth": "RhVpNN5O"
             },
             "files": [
@@ -18131,24 +18197,56 @@
             ]
         },
         {
-            "pakku_id": "CpBxGY2jgtb6kJVZ",
+            "pakku_id": "dWaQGpIniu2uLvyQ",
             "pakku_links": [
+                "6npG6yOuSsRYweq9",
                 "ZEolot0hEgaEEiDi",
-                "zXaWgcexJGDOgsjl",
-                "6npG6yOuSsRYweq9"
+                "zXaWgcexJGDOgsjl"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "useful-lanterns",
                 "modrinth": "useful-lanterns"
             },
             "name": {
+                "curseforge": "Useful Lanterns",
                 "modrinth": "Useful Lanterns"
             },
             "id": {
+                "curseforge": "1577615",
                 "modrinth": "6WmkI00Y"
             },
+            "redistributable": false,
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "usefullanterns-1.0.4-1.20.jar",
+                    "mc_versions": [
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8258/328/usefullanterns-1.0.4-1.20.jar",
+                    "id": "8258328",
+                    "parent_id": "1577615",
+                    "hashes": {
+                        "sha1": "12365605b4b5db5773af6e9c1d1116373252c919",
+                        "md5": "d6135efa208b992dccd6e45bce2952eb"
+                    },
+                    "required_dependencies": [
+                        "1005914",
+                        "341284",
+                        "306612"
+                    ],
+                    "size": 177937,
+                    "date_published": "2026-06-16T14:38:59.220Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "usefullanterns-1.0.4-1.20.jar",
@@ -18170,8 +18268,8 @@
                         "sha1": "12365605b4b5db5773af6e9c1d1116373252c919"
                     },
                     "required_dependencies": [
-                        "5aaWibi9",
                         "P7dR8mSH",
+                        "5aaWibi9",
                         "hYykXjDp"
                     ],
                     "size": 177937,
@@ -18529,19 +18627,46 @@
             ]
         },
         {
-            "pakku_id": "vjOPm7aM6M09XilU",
+            "pakku_id": "rsNRXvfJqrUEAC2n",
             "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
+                "curseforge": "wabi-sabi-structures-datapack",
                 "modrinth": "wabi-sabi-structures"
             },
             "name": {
+                "curseforge": "Wabi-Sabi Structures (Datapack)",
                 "modrinth": "Wabi-Sabi Structures"
             },
             "id": {
+                "curseforge": "682821",
                 "modrinth": "Vr3O6THr"
             },
+            "redistributable": false,
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4688/300/Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
+                    "id": "4688300",
+                    "parent_id": "682821",
+                    "hashes": {
+                        "sha1": "60debec252f91e80a044ed10e3250475e8c0f73e",
+                        "md5": "a1a42182c100e7f61bd004b1b50b2d54"
+                    },
+                    "required_dependencies": [],
+                    "size": 1290299,
+                    "date_published": "2023-08-08T05:41:03.573Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "Wabi-Sabi Structures 2.0.0-1.20 Datapack.zip",
@@ -18635,27 +18760,53 @@
             ]
         },
         {
-            "pakku_id": "1GQ1aEeVYZt7pIZq",
+            "pakku_id": "2tpuQbB16mg7gEI2",
             "pakku_links": [
-                "zXaWgcexJGDOgsjl",
                 "E0Hhuv5KSx1UNZJ0",
+                "zXaWgcexJGDOgsjl",
                 "mGq0eKPfkVYYrcBk"
             ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
-                "curseforge": "yungs-better-dungeons",
+                "curseforge": "yungs-better-dungeons-fabric",
                 "modrinth": "yungs-better-dungeons"
             },
             "name": {
-                "curseforge": "YUNG's Better Dungeons (Forge/NeoForge)",
+                "curseforge": "YUNG's Better Dungeons (Fabric)",
                 "modrinth": "YUNG's Better Dungeons"
             },
             "id": {
-                "curseforge": "510089",
+                "curseforge": "525586",
                 "modrinth": "o1C1Dkj5"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5271/361/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+                    "id": "5271361",
+                    "parent_id": "525586",
+                    "hashes": {
+                        "sha1": "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a",
+                        "md5": "8e324c6508dd74edf1e4705d90139da2"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612",
+                        "421649"
+                    ],
+                    "size": 944170,
+                    "date_published": "2024-04-18T05:10:10.597Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
@@ -18756,31 +18907,56 @@
             ]
         },
         {
-            "pakku_id": "ycVyQA6WTXF2fw3H",
+            "pakku_id": "mdy5Rlz4oVYRhX85",
             "pakku_links": [
                 "mGq0eKPfkVYYrcBk",
-                "E0Hhuv5KSx1UNZJ0",
                 "zXaWgcexJGDOgsjl",
-                "2OTLSyyX2BVFCCyH",
-                "xI3PiBymbbc07Bnb",
-                "G6oDtSzerSDvjH3X",
-                "jZh1HJrByMsfgjxn"
+                "jZh1HJrByMsfgjxn",
+                "E0Hhuv5KSx1UNZJ0",
+                "xI3PiBymbbc07Bnb"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "yungs-cave-biomes",
+                "curseforge": "yungs-cave-biomes-fabric",
                 "modrinth": "yungs-cave-biomes"
             },
             "name": {
-                "curseforge": "YUNG's Cave Biomes (Forge/NeoForge)",
+                "curseforge": "YUNG's Cave Biomes (Fabric)",
                 "modrinth": "YUNG's Cave Biomes"
             },
             "id": {
-                "curseforge": "1111586",
+                "curseforge": "1112347",
                 "modrinth": "cs7iGVq1"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6606/911/YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
+                    "id": "6606911",
+                    "parent_id": "1112347",
+                    "hashes": {
+                        "sha1": "f3aeb12fa1a1a1728e46d83bb869c2f0439e992a",
+                        "md5": "4a6d8efdd5debf5e37ed45d82ddcb868"
+                    },
+                    "required_dependencies": [
+                        "421649",
+                        "306612",
+                        "565956",
+                        "348521",
+                        "388172"
+                    ],
+                    "size": 13122627,
+                    "date_published": "2025-06-02T03:26:25.543Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
@@ -18799,11 +18975,11 @@
                         "sha1": "f3aeb12fa1a1a1728e46d83bb869c2f0439e992a"
                     },
                     "required_dependencies": [
-                        "Ua7DFN59",
                         "9s6osm5g",
-                        "P7dR8mSH",
                         "kkmrDlKT",
-                        "8BmcQJ2H"
+                        "8BmcQJ2H",
+                        "Ua7DFN59",
+                        "P7dR8mSH"
                     ],
                     "size": 13122627,
                     "date_published": "2025-06-02T03:26:33.741792Z"
